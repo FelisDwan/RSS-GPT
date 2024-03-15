@@ -85,3 +85,9 @@ Summarized using GPT-3.5-turbo
 Append: [【#OpenAI高管谈Sora##Sora将于年内开放公测#】关于Sora，OpenAI CTO Mira Murati接受了华尔街日报的专访，并透露其最快将于今年年内开放公测。短短10分钟里，So...](https://weibo.com/6105753431/O58mn6ptz)
 append_entries: 3
 Finish: 2024-03-15 12:19:06.166800
+------------------------------------------------------
+Started: 2024-03-15 14:10:48.584713
+Existing_entries: 17
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-03-15 14:10:48.749091
