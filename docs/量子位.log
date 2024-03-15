@@ -40,3 +40,12 @@ Existing_entries: 10
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-15 04:13:33.065133
+------------------------------------------------------
+Started: 2024-03-15 06:14:08.505559
+Existing_entries: 10
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 41
+Summarized using GPT-3.5-turbo
+Append: [【#黄仁勋谈要做不可替代之事#】黄仁勋谈创业成功之道：商业计划、损益表我都不看，重点还是要做不可替代之事。 量子位的微博视频](https://weibo.com/6105753431/O56Fuh9i0)
+append_entries: 1
+Finish: 2024-03-15 06:14:14.070786
