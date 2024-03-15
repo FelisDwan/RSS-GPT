@@ -103,3 +103,9 @@ Summarized using GPT-3.5-turbo
 Append: [#大模型上岗三甲医院#大模型在医疗行业用得怎么样了？让我们从电子病历上来个“以小见大”。一方面，与之相关的工作可以说是非常的繁杂，大量的文本信息需要人为...](https://weibo.com/6105753431/O59pCrRsV)
 append_entries: 2
 Finish: 2024-03-15 16:14:10.876076
+------------------------------------------------------
+Started: 2024-03-15 18:14:38.937970
+Existing_entries: 19
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-03-15 18:14:39.129863

@@ -91,3 +91,10 @@ Existing_entries: 11
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-15 16:14:11.061413
+------------------------------------------------------
+Started: 2024-03-15 18:14:39.147285
+Existing_entries: 11
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O5ari9YQl)
+append_entries: 0
+Finish: 2024-03-15 18:14:41.485759
