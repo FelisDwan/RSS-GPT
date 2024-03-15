@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>undefined 的 bilibili 专栏</title>
+<link>https://space.bilibili.com/12566101/article</link>
+
+<item>
+<title>【AI绘画】SD-WebUI 整合包 / 绘世启动器 / 训练器下载导航 （长期有效）</title>
+<link>https://www.bilibili.com/read/cv31254871/</link>
+<guid>https://www.bilibili.com/read/cv31254871/</guid>
+<content:encoded><![CDATA[
+<div> SD-WebUI、整合包、绘世启动器、模型、更新、网盘、ComfyUI、训练、界面、AMD显卡<br>
+<br>
+SD-WebUI 整合包包括 SD-WebUI 内核、绘世启动器、安装好的环境和必需的模型，新手可直接下载整合包以及 ControlnNet 模型。除此之外还有针对 AMD 显卡的版本。提供了 ComfyUI 整合包，绘世启动器以及训练包等下载链接。相关资源均可在网盘上找到。整合包和训练包提供了便捷的使用和学习途径。整合包中包含了各种必要的工具和模型，适合新手和有经验的用户使用。整合包更新频繁，用户可以随时关注网盘上的最新版本。整合包和训练包提供了界面化的学习方式，简化了操作步骤，对于初学者来说更加友好。整合包中还配备了针对 AMD 显卡的版本，满足不同用户的需求。整合包内容丰富，用户可根据自身需求选择下载相应的资源。整合包提供了一站式解决方案，让用户能够快速上手并使用各种功能和模型。整合包中的资源连接完善，可以满足用户的各种需求。整合包中包含的软件和模型经过精心筛选和整合，质量有保障。整合包中的内容不断更新，用户可以随时获取最新版本的资源。<br><br>总结: SD-WebUI 提供了多种整合包和训练包，方便用户使用和学习，同时不断更新以满足用户需求，适合各种用户使用。整合包中含有丰富的资源和工具，适合新手和有经验的用户使用。提供了界面化的学习方式，简化了操作步骤，对用户友好。整合包内容齐全，用户可以根据需求选择下载。整合包为用户提供了一站式解决方案，让用户能够快速上手并使用各种功能和模型。整合包中的资源连接完善，可以满足用户的各种需求。整合包中的软件和模型质量有保障，用户可以随时获取最新版本的资源。 <div>
+<div class="normal-article-holder read-article-holder" id="read-article-holder"><p>所有链接优先在给出的发布视频/专栏更新，如果失效请在评论区提醒更新。</p><p><span class="font-size-16"><strong>SD-WebUI （Stable Diffusion WebUI）</strong></span><br /></p><p><span class="font-size-16">整合包 = SD-WebUI 内核 + 绘世启动器 + 安装好的环境 + 必须的模型 新手直接下他</span></p><p>「sd-webui 整合包 + ControlnNet模型」 </p><p>网盘：https://pan.quark.cn/s/2c832199b09b</p><figure class="img-box"><img class="video-card nomal" type="nomal" width="1320" /></figure><p>「sd-webui-aki-directml（ <span class="color-pink-04">AMD显卡</span>专用版本）」</p><p>网盘：https://pan.quark.cn/s/19a36cab36ac</p><figure class="img-box"><img class="article-card" type="normal" width="1320" /></figure><p><span class="font-size-16"><strong>ComfyUI</strong></span></p><p>「ComfyUI 整合包」</p><p>网盘：https://pan.quark.cn/s/64b808baa960</p><figure class="img-box"><img class="video-card nomal" type="nomal" width="1320" /></figure><p><span class="font-size-16"><strong>绘世启动器</strong></span></p><p><span class="font-size-16">网盘：https://pan.quark.cn/s/fff2b96df0b6</span></p><figure class="img-box"><img class="video-card nomal" type="nomal" width="1320" /></figure><p><span class="font-size-16"><strong>训练</strong></span></p><p><span class="font-size-16">「SD-Traner（lora-scripts 训练包+界面）」</span></p><p><span class="font-size-20"><span class="font-size-16">网盘：https://pan.quark.cn/s/b4ccd1f635b6</span><strong><br /></strong></span></p><figure class="img-box"><img class="video-card nomal" type="nomal" width="1320" /></figure></div>
+]]></content:encoded>
+<pubDate>Wed, 14 Feb 2024 06:08:14 GMT</pubDate>
+<pubDate>Wed, 14 Feb 2024 06:08:14 GMT</pubDate>
+</item>
+<item>
+<title>【AI绘画】绘世启动器如何设置代理服务器</title>
+<link>https://www.bilibili.com/read/cv30519311/</link>
+<guid>https://www.bilibili.com/read/cv30519311/</guid>
+<content:encoded><![CDATA[
+<div> 系统代理、代理设置、HTTP端口、端口号、代理服务器地址、开关、Socks5、教程、填写地址、打开开关
+
+总结:<br><br>本文介绍了如何将自己的代理服务器应用到启动器上。首先推荐启用系统代理设置，若系统未自动填写代理地址，则需手动填写。对于不开系统代理的情况，可以找到HTTP端口设置，填写代理服务器地址。建议使用HTTP代理而非Socks5代理。确保填写完整地址后打开代理开关，以正常使用代理服务。 <div>
+<div><div class="title-container"><div class="article-read-panel"><p class="article-read-info"><span class="publish-text">2024年01月31日 06:44</span><span>--浏览</span> · <span>--喜欢</span> · <span>--评论</span></p></div></div><div class="article-content" id="article-content"><div class="normal-article-holder read-article-holder" id="read-article-holder"><p>有些时候，我们需要将自己的代理服务器应用到启动器上。例如插件下载、模型下载等等内容</p><p><strong>首选推荐</strong></p><p>启用自己代理软件的 “系统代理” 设置。启用后，打开启动器。前往设置内找到 “代理设置”</p><p>如果你的系统代理正常启用，框中应该自动读取了系统代理的地址。</p><figure class="img-box"><img width="1280" /><figcaption class="caption"></figcaption></figure><p>我们只需将开关全部打开即可</p><figure class="img-box"><img width="1164" /><figcaption class="caption"></figcaption></figure><p>注意：如果地址内是浅色字，结尾是xxxx，这是占位符，不是自动填写的内容。如果出现如图所示的样子，说明并没有自动填写上。请参考下方教程自行填写地址。</p><figure class="img-box"><img width="1164" /><figcaption class="caption"></figcaption></figure><p><strong>不开系统代理</strong></p><p>自行找到如图中的 <strong>HTTP 端口</strong> 设置（有些软件是http + socks5 的 Mixed 混合端口，这种也是一样的），</p><p>若端口号是 7890，则代理服务器地址应该填写 http://127.0.0.1:7890</p><figure class="img-box"><img width="386" /><figcaption class="caption">像这样的</figcaption></figure><figure class="img-box"><img width="185" /><figcaption class="caption">又或者是这样的</figcaption></figure><p>填写完是这样的</p><figure class="img-box"><img src="https://i0.hdslb.com/bfs/article/7d156e411b5632f17b877beeebf230e512566101.png" width="1164" /><figcaption class="caption">填写后，记得也要打开开关</figcaption></figure><p>虽然 Socks 也是可以用的，但是我一般不推荐。如果一定想用，那么应该是这样的</p><p>socks5://127.0.0.1:7890</p></div></div></div>
+]]></content:encoded>
+<pubDate>Wed, 31 Jan 2024 06:44:45 GMT</pubDate>
+<pubDate>Wed, 31 Jan 2024 06:44:45 GMT</pubDate>
+</item>
+<item>
+<title>【AI绘画】训练“预处理”选项卡不见了？挪位置了！</title>
+<link>https://www.bilibili.com/read/cv29917364/</link>
+<guid>https://www.bilibili.com/read/cv29917364/</guid>
+<content:encoded><![CDATA[
+<div> SD-WebUI, 预处理选项卡, 后期处理, 批量处理文件夹, 训练模型, 剪裁图片, ARB桶, 分辨率, 训练器
+
+训练内的预处理选项卡在SD-WebUI 1.7版本后被移动到了“后期处理” -> “批量处理文件夹”中，需要根据需要勾选相应选项。现在训练模型已经不需要剪裁图片，训练器默认开启ARB桶功能，能够自动处理不同分辨率的图片。 <div>
+<div class="article-container__content"><div class="title-container"><div class="article-read-panel"><p class="article-read-info"><span class="publish-text">2024年01月22日 09:57</span><span>--浏览</span> · <span>--喜欢</span> · <span>--评论</span></p></div></div><div class="article-content" id="article-content"><div class="normal-article-holder read-article-holder" id="read-article-holder"><p>在 SD-WebUI 1.7 以后，训练内的预处理选项卡不见了。以前应该在这里是有一个的。</p><figure class="img-box"><img width="1245" /><figcaption class="caption"></figcaption></figure><p>现在挪动到 “后期处理” -> “批量处理文件夹”了，需要哪个勾选哪个</p><figure class="img-box"><img width="1321" /><figcaption class="caption"></figcaption></figure><p>题外话：其实训练模型早就<span class="color-pink-04">不需要剪裁图片</span>了，现在训练器默认打开ARB桶，会自动处理不同分辨率的图片</p></div></div></div>
+]]></content:encoded>
+<pubDate>Mon, 22 Jan 2024 09:57:12 GMT</pubDate>
+<pubDate>Mon, 22 Jan 2024 09:57:12 GMT</pubDate>
+</item>
+<item>
+<title>【AI绘画】LoRA 在线云端训练教程 揽睿星舟</title>
+<link>https://www.bilibili.com/read/cv28885755/</link>
+<guid>https://www.bilibili.com/read/cv28885755/</guid>
+<content:encoded><![CDATA[
+
+<div class="normal-article-holder read-article-holder" id="read-article-holder"><p class="paragraph text-align-type-left">之前也写过其他云平台的 LoRA 在线训练教程，今天为大家带来揽睿星舟平台的 LoRA 在线云端训练教程。</p><p class="paragraph text-align-type-left">相比于其他平台，揽睿目前<span class="color-blue-03">显卡充足，随用随开，按量计费</span>。同时，如果用Stable Diffusion，也支持自己秒级上传模型及插件，关机也不会丢失，不需要反复安装上传。并且提供了一键挂载的 “数据集”，多种底模随意选择，加上提供了直链的调试链接，更加方便访问我的训练界面、对新手更加友好方便。</p><p class="paragraph text-align-type-left">同样，揽睿这边的镜像我也已经封装好，无需任何安装直接可以开始训练。</p><p class="paragraph text-align-type-left">如果你还没有账号，可以使用我的邀请链接注册：</p><p class="paragraph text-align-type-left">传送门：https://www.lanrui-ai.com/register?invitation_code=1622</p><figure class="img-box"><img class="cut-off-5" /></figure><p class="paragraph text-align-type-left">首先来到算力市场挑选显卡。这里教程示范使用3090。</p><figure class="img-box"><img width="933" /><figcaption class="caption"></figcaption></figure><p class="paragraph text-align-type-left">进入购买链接，选择我的镜像、然后如果你之前没有使用过，需要新建数据盘并且选择。最后同意平台协议，创建实例。</p><figure class="img-box"><img width="933" /><figcaption class="caption"></figcaption></figure><p class="paragraph text-align-type-left">之后进入工作台，等待启动即可。</p><p class="paragraph text-align-type-left">启动后，点击实例名称进入。</p><figure class="img-box"><img width="2289" /><figcaption class="caption"></figcaption></figure><p>然后我们首先要启动训练器。进入 jupyter</p><figure class="img-box"><img width="2037" /><figcaption class="caption"></figcaption></figure><p>点击 Terminal，复制我下方的指令后，粘贴回车即可启动训练器。</p><figure class="img-box"><img width="1224" /><figcaption class="caption"></figcaption></figure><figure class="code-box"><pre class=" language-javascript"><code class=" language-javascript"></code></pre></figure><p>启动成功界面如下。</p><figure class="img-box"><img width="1661" /><figcaption class="caption"></figcaption></figure><p>之后找到这个按钮，点击打开即可来到训练界面。<br /></p><figure class="img-box"><img width="2168" /><figcaption class="caption"></figcaption></figure><p>熟悉的训练界面！</p><figure class="img-box"><img width="1647" /><figcaption class="caption"></figcaption></figure><p>以新手模式为例，开始训练模型。首先从上传图片开始。</p><p>我们前往如图中所示的地方，进行新建训练文件夹，上传图片。</p><p><span class="color-pink-02 font-size-12">（有的人可能会问了，怎么不是以前那样 数字_概念 的文件夹格式了？其实是为了照顾新手，我的训练器会自动处理了。如果你是熟练的炼丹师，想要自己填写repeat数字，那也是完全可以的。那就记得后面教程不要完全跟我的，自己设置路径。）</span></p><figure class="img-box"><img width="1971" /><figcaption class="caption"></figcaption></figure><p>新建了一个test文件夹，作为本次的训练用文件夹。而在这个网盘里新建的文件夹，这个实际的路径应该是</p><figure class="code-box"><pre class=" language-javascript"><code class=" language-javascript"></code></pre></figure><p>记住它，等会要填写。然后再新建一个 output 文件夹，作为等会模型输出的路径。</p><figure class="img-box"><img width="316" /><figcaption class="caption"></figcaption></figure><p>然后进入test，即可上传训练图片。</p><figure class="img-box"><img width="858" /><figcaption class="caption"></figcaption></figure><p>上传完毕后，来到训练器内。</p><p>切换到标签器，填写刚才我们记下的路径进行打标操作，生成标签文本。</p><figure class="img-box"><img width="1189" /><figcaption class="caption"></figcaption></figure><p>打标进度可以回到 jupyter 的网页查看。</p><figure class="img-box"><img width="1446" /><figcaption class="caption"></figcaption></figure><p>等到识别完成，来到 LoRA 训练新手界面，把数据集设置填写我们刚才记下来的路径。</p><p>输出路径也是之前新建的文件夹，按照图里填写。</p><figure class="img-box"><img width="1446" /><figcaption class="caption"></figcaption></figure><p>然后，最重要的一个底模还没有填写。我们回到jupyter，找到之前挂载的数据集，包含非常多的底模。</p><figure class="img-box"><img width="474" /><figcaption class="caption"></figcaption></figure><p>打开路径， /<span class="jp-BreadCrumbs-item">imported_datasets</span>/<span class="jp-BreadCrumbs-item">sd-base</span>/<span class="jp-BreadCrumbs-item">models</span>/<span class="jp-BreadCrumbs-item">Stable-diffusion</span>/ 到这里就能找到非常多的底模了。</p><p>找到想要的模型，右键复制路径。</p><figure class="img-box"><img width="493" /><figcaption class="caption"></figcaption></figure><p>复制出来是这样的，</p><figure class="code-box"><pre class=" language-javascript"><code class=" language-javascript"></code></pre></figure><p>但是注意：我们需要在前面加上这一串  /ark-contexts/</p><p>变成这样，就可以填进去训练器了。</p><figure class="code-box"><pre class=" language-javascript"><code class=" language-javascript"></code></pre></figure><p>之后，训练轮数、等等其他参数可以自行稍微调节。基本上我训练器的默认参数就可以够用了。然后就可以点击开始训练了！</p><figure class="img-box"><img width="1446" /><figcaption class="caption"></figcaption></figure><p>要等一会，然后开始训练后，训练过程中的数据可以点击左侧tensorboard查看。</p><figure class="img-box"><img width="1446" /><figcaption class="caption"></figcaption></figure><p>在 jupyter可以看到训练进度。</p><figure class="img-box"><img width="1446" /><figcaption class="caption"></figcaption></figure><p>最后，训练完成后，就可以在网盘的 output 文件夹里面找到模型了！然后下载就可以使用了~</p><figure class="img-box"><img width="780" /><figcaption class="caption"></figcaption></figure><p>最后的最后，训练、下载用完记得关掉实例！</p><figure class="img-box"><img width="1446" /><figcaption class="caption"></figcaption></figure><p>数据盘如果不再需要使用，也要记得卸载然后销毁</p><figure class="img-box"><img width="1283" /><figcaption class="caption"></figcaption></figure><figure class="img-box"><img width="1200" /><figcaption class="caption"></figcaption></figure></div>
+]]></content:encoded>
+<pubDate>Sat, 30 Dec 2023 03:37:59 GMT</pubDate>
+<pubDate>Sat, 30 Dec 2023 03:37:59 GMT</pubDate>
+</item>
+<item>
+<title>【AI绘画】绘世启动器打开全白/全黑 显示错误</title>
+<link>https://www.bilibili.com/read/cv27627914/</link>
+<guid>https://www.bilibili.com/read/cv27627914/</guid>
+<content:encoded><![CDATA[
+
+<div class="article-container__content"><div class="title-container"><div class="article-read-panel"><p class="article-read-info"><span class="publish-text">2023年11月10日 12:23</span><span>--浏览</span> · <span>--喜欢</span> · <span>--评论</span></p></div></div><div class="article-content" id="article-content"><div class="normal-article-holder read-article-holder" id="read-article-holder"><p>有部分人在使用启动器时发现无法正常显示，全白或全黑，像图中这样。</p><p>而尝试盲点击时却又是正常的可以点到右下角的“一键启动” 按钮<br /></p><figure class="img-box"><img width="1528" /><figcaption class="caption"></figcaption></figure><p>首先，这个问题一定是你在使用<strong>远程桌面</strong></p><p>这是由于Windows的系统问题，你的远程桌面的电脑没有插显示器，或者显示器断电，导致界面无法正常渲染。</p><p>解决方法非常简单，<strong>插个显示器</strong>就好了。或者买个显卡诱骗器理论上来说也是起作用的（就几块钱）</p></div></div></div>
+]]></content:encoded>
+<pubDate>Fri, 10 Nov 2023 12:23:28 GMT</pubDate>
+<pubDate>Fri, 10 Nov 2023 12:23:28 GMT</pubDate>
+</item>
+<item>
+<title>【AI绘画】修复N卡驱动使用共享显存导致的速度降低</title>
+<link>https://www.bilibili.com/read/cv27436189/</link>
+<guid>https://www.bilibili.com/read/cv27436189/</guid>
+<content:encoded><![CDATA[
+
+<div class="article-container__content"><div class="title-container"><div class="article-read-panel"><p class="article-read-info"><span class="publish-text">2023年11月01日 14:34</span><span>--浏览</span> · <span>--喜欢</span> · <span>--评论</span></p></div></div><div class="article-content" id="article-content"><div class="normal-article-holder read-article-holder" id="read-article-holder"><p>在N卡驱动版本>536.40以后，当系统显存不足时，显卡驱动将自动调取“共享显存”</p><p>虽然这项功能有时可以帮助生成更大的图片避免爆显存，然而同时它还可能导致部分情况下出图速度大大降低。</p><p>如果你想禁用这个功能，请更新驱动到>=546.01（10月31号发布的）以后的版本按照如下设置进行</p><figure class="img-box"><img width="604" /><figcaption class="caption">使用共享GPU内存会导致速度大大降低</figcaption></figure><p><strong><span class="font-size-20">方法1</span></strong><br /></p><p><span class="font-size-16">启动器今日更新后，添加了如下开关可直接设置。</span><strong><span class="font-size-20"><br /></span></strong></p><figure class="img-box"><img width="1280" /><figcaption class="caption"></figcaption></figure><p><span class="font-size-20"><strong>方法2</strong></span><br /></p><p>使用Nvidia控制面板设置。</p><p>桌面右键，打开 Nvidia 控制面板</p><figure class="img-box"><img width="252" /><figcaption class="caption"></figcaption></figure><p>按照图中箭头，找到“添加”按钮<br /></p><figure class="img-box"><img width="960" /><figcaption class="caption"></figcaption></figure><p><br />”浏览“ 按钮，打开整合包目录下的python文件夹。</p><figure class="img-box"><img width="481" /><figcaption class="caption"></figcaption></figure><figure class="img-box"><img width="682" /><figcaption class="caption"></figcaption></figure><p>添加这个python.exe</p><figure class="img-box"><img width="928" /><figcaption class="caption"></figcaption></figure><p>找到这个选项，更改为Prefer No Sysmem Fallback</p><figure class="img-box"><img width="685" /><figcaption class="caption"></figcaption></figure><p>改完后<strong>点击应用，</strong>重新启动webui即可</p><p>如果你想恢复，只需要把这个选项改回去就可以了。</p></div></div></div>
+]]></content:encoded>
+<pubDate>Wed, 01 Nov 2023 14:34:16 GMT</pubDate>
+<pubDate>Wed, 01 Nov 2023 14:34:16 GMT</pubDate>
+</item>
+<item>
+<title>【AI绘画】Stable Diffusion A卡专用整合包（DirectML）</title>
+<link>https://www.bilibili.com/read/cv26557731/</link>
+<guid>https://www.bilibili.com/read/cv26557731/</guid>
+<content:encoded><![CDATA[
+
+<div><div class="title-container"><div class="article-read-panel"><p class="article-read-info"><span class="publish-text">2023年09月16日 07:13</span><span>--浏览</span> · <span>--喜欢</span> · <span>--评论</span></p></div></div><div class="article-content" id="article-content"><div class="normal-article-holder read-article-holder" id="read-article-holder"><p>基于 lshqqytiger 分支制作，功能与 v4.4 版本整合包相同</p><p><strong>仅经过朋友一台电脑测试，不保证完全可用，</strong><strong>若发现无法使用请及时评论区反馈</strong></p><p>使用方法和普通整合包完全一致，首次使用打开启启动器后，在启动器设置-高级选项修改生成引擎，选择A卡。</p><figure class="img-box"><img width="1266" /><figcaption class="caption"></figcaption></figure><p><span class="color-default"></span>之后完全与普通整合包相同，直接启动即可。会提示没有 xformers，这是正常的，A卡用不了</p><figure class="img-box"><img width="1280" /><figcaption class="caption"></figcaption></figure><p>启动后如图所示，和整合包v4.4版本一致</p><figure class="img-box"><img width="2528" /><figcaption class="caption"></figcaption></figure><p>夸克：https://pan.quark.cn/s/19a36cab36ac</p><p>百度：https://pan.baidu.com/s/1QDqo2uEoUS_NY1olb4vmVQ?pwd=aaki</p><p>sha1校验码：c7c5d497360c7ec3fe9af5ada1624842341d8275</p></div></div></div>
+]]></content:encoded>
+<pubDate>Sat, 16 Sep 2023 07:13:24 GMT</pubDate>
+<pubDate>Sat, 16 Sep 2023 07:13:24 GMT</pubDate>
+</item>
+<item>
+<title>【AI绘画】模型修剪教程：8G模型顶级精细？全是垃圾！嘲笑他人命运，尊重他人命运</title>
+<link>https://www.bilibili.com/read/cv26279169/</link>
+<guid>https://www.bilibili.com/read/cv26279169/</guid>
+<content:encoded><![CDATA[
+
+<div class="normal-article-holder read-article-holder" id="read-article-holder"><p>先说结论：<span class="color-default font-size-20">凡是SD1.5的模型，2G大小就是最终的有效数据<span class="color-default font-size-12">[1]</span></span>。</p><p><span class="color-pink-03 font-size-23">模型越大，只能是垃圾数据越多</span></p><p><span class="color-default font-size-12">[1] SD-WebUI 默认 fp16 精度，不使用EMA</span></p><p><strong><span class="color-default font-size-16">模型里都有什么？</span></strong><span class="color-default font-size-16"><br /></span></p><p>首先清楚一件事：SD模型由三个小部分组成：U-Net，TextEncoder，VAE。</p><p>不懂的回去复习我讲过的视频，这些都是干什么用的早就讲过了</p><figure class="img-box"><img class="video-card nomal" type="nomal" width="1320" /></figure><p>大小如图所示，多出来的EMA又是什么？</p><figure class="img-box"><img width="1314" /><figcaption class="caption"></figcaption></figure><p><strong>EMA</strong>（ExponentialMovingAverage），指数滑动平均，就是理解为一个训练时候把最后一些步数的结果做平均，并单独存下来。</p><p><span class="color-pink-04 font-size-20">而WebUI中，不会用到EMA权重。</span></p><p><span class="color-default font-size-16">并且，<span class="color-default font-size-16">一旦你把带有EMA的模型与不带有EMA的模型进行融合，</span><span class="color-pink-03 font-size-16">EMA就再也没有了用处。</span></span></p><p><span class="color-default"><strong><span class="font-size-16">为什么？</span></strong><strong><span class="font-size-16"></span></strong></span></p><p><span class="color-default font-size-16">EMA是这个模型U-Net的一些平均值，而你把两个模型融合，一个不带EMA，这部分权重就并不会被融合到，这也变成了<strong>纯粹的垃圾数据</strong></span></p><p><strong>FP16是否会损伤出图效果？</strong></p><p>还是那句话，<span class="color-default"><strong>WebUI默认用FP16</strong></span>。哪怕你用的FP32模型，那也得乖乖转成fp16来计算出图。<strong><br /></strong></p><p>当然，你如果乐意也可以选择使用fp32计算，获得更慢的速度，更大显存爆炸</p><p><strong>如何剪裁模型？</strong></p><p>请使用我写的“模型转换”插件，按照图中内容选择可保证剪裁到2G无任何效果变化。</p><figure class="img-box"><img width="1356" /><figcaption class="caption"></figcaption></figure><p><strong><span class="color-pink-03">用事实说话，不用感觉</span></strong><br /></p><p><span class="color-default">这也是最基本的科学。请用事实说话，而不是你的感觉。</span></p><p><span class="color-default">如果你认为剪裁模型发生了效果变化，请使用完全一致的参数，重新跑同一张图做对比，否则你就是<span class="color-pink-03 font-size-23">民科</span>。<br /></span></p><p><span class="font-size-16"><strong><span class="color-default">FP32模型完全没用？</span></strong></span></p><p>可以留着，训练时候也可以用。不过训练时也会开启混合精度，照样用fp16。</p><p>有时，部分黑图有人觉得也可以用fp32解决</p><p><span class="color-default font-size-20"><strong>尊重理解他人命运</strong></span><span class="color-default font-size-12"><br /></span></p><blockquote><p><span class="color-default font-size-12">总有人学个模型融合觉得自己好牛批，但是可能连一行代码都看不懂，原理一点都不懂，反正我就是对的</span></p></blockquote><figure class="img-box"><img width="1065" /><figcaption class="caption">尊重并祝福</figcaption></figure></div>
+]]></content:encoded>
+<pubDate>Sun, 03 Sep 2023 06:19:47 GMT</pubDate>
+<pubDate>Sun, 03 Sep 2023 06:19:47 GMT</pubDate>
+</item>
+<item>
+<title>【AI绘画】停止使用LoRA插件，请使用WebUI内置原生LoRA</title>
+<link>https://www.bilibili.com/read/cv26261691/</link>
+<guid>https://www.bilibili.com/read/cv26261691/</guid>
+<content:encoded><![CDATA[
+
+<div><div class="title-container"><div class="article-read-panel"><p class="article-read-info"><span class="publish-text">2023年09月02日 04:49</span><span>--浏览</span> · <span>--喜欢</span> · <span>--评论</span></p></div></div><div class="article-content" id="article-content"><div class="normal-article-holder read-article-holder" id="read-article-holder"><blockquote><p>很多人目前还在用插件形式来使用LoRA，所以这篇专栏很有必要写一下。</p></blockquote><p>很久以前，使用LoRA都在使用这个插件。</p><figure class="img-box"><img width="1188" /><figcaption class="caption"></figcaption></figure><p>当时是由于LoRA很新，WebUI本体并没有引入对LoRA的支持。<br /></p><p>使用这个插件，LoRA模型放在了在extensions\sd-webui-additional-networks\models\lora。启动器里，也为这个插件单独进行了区分。</p><figure class="img-box"><img src="https://i0.hdslb.com/bfs/article/51f4288b9efbbf183578d10983f7b48345c19c66.png" width="1238" /><figcaption class="caption"></figcaption></figure><p>而后来，WebUI本体加入了LoRA功能，这个插件也在今年5月<span class="color-pink-04">停止更新了，年久失修</span></p><p><span class="color-default">并且这个插件不支持LyCORIS，所以，还在用插件的，是时候转到WebUI自带的LoRA支持了</span></p><figure class="img-box"><img width="796" /><figcaption class="caption"></figcaption></figure><p><strong>使用WebUI内置的LoRA功能</strong></p><p>模型请放在 <span class="color-blue-02">models/Lora</span></p><p>在WebUI v1.5.0以后，内置LoRA已经支持LyCORIS。所以LyCORIS插件也可以抛弃了。</p><figure class="img-box"><img width="2461" /><figcaption class="caption"></figcaption></figure><p>在v1.6.0以后的版本，界面稍微发生了一些变化，无需再点那个小按钮，选项卡就已经在外面出现了，更加方便。</p><figure class="img-box"><img width="1238" /><figcaption class="caption"></figcaption></figure><p>随意放入LoRA后，会出现对应的卡片。</p><figure class="img-box"><img width="597" /><figcaption class="caption"></figcaption></figure><p>点击后，会加入这么一串文本，即可正常使用LoRA。</p><figure class="img-box"><img width="308" /><figcaption class="caption"></figcaption></figure><p>早就该换了，<span class="color-pink-03">在之后的整合包内也不会再提前预装LoRA插件</span>，请早日切换到原生使用方式。</p></div></div></div>
+]]></content:encoded>
+<pubDate>Sat, 02 Sep 2023 04:49:06 GMT</pubDate>
+<pubDate>Sat, 02 Sep 2023 04:49:06 GMT</pubDate>
+</item>
+<item>
+<title>【杂谈】关于强直性脊柱炎的总结</title>
+<link>https://www.bilibili.com/read/cv24678993/</link>
+<guid>https://www.bilibili.com/read/cv24678993/</guid>
+<content:encoded><![CDATA[
+
+<div class="normal-article-holder read-article-holder" id="read-article-holder"><p>大家好 我是秋叶。经常看我动态的人可能已经早就知道我的这个病了，就前俩月刚确诊的。</p><p>最近终于忙的差不多了闲下来整理总结一下确诊这个病的全部经过，算是给我自己写一个病历总结吧，后来查询了相关的资料和论文，才知道我这大概算是一个教科书式的病历，希望出现类似症状的人可以去风湿科检查一下。</p><p><span class="color-pink-03"><strong>本文不构成任何医疗建议、指导。请遵守正规医院的医嘱</strong></span><br /></p><p><span class="color-default"><strong>1 AS概述</strong></span></p><p><span class="color-default">强直性脊柱炎( AS) 是一种慢性进行性免疫性 疾病,其病理特征是骶髂关节的骨侵蚀、附着点炎及后期的骨性强直[1]。 严重的 AS 可显著影响患者的生活质量，加重患者的经济负担。 AS 的发病机制非常复杂 ，目前认为与免疫、感染以及遗传因子 HLA-B27 相关，但具体的发病机制并不完全明确。</span></p><p><span class="color-pink-03"><strong><span class="color-default">2 个人症状</span></strong></span></p><p>仔细回想了一下，我是去年八月底到九月初第一次产生相关症状的。</p><ul class=" list-paddingleft-2"><li><p>2022年8月底~9月初，出现踩地板时候偶发的右侧大腿根内部刺痛（现在知道是这地方确切来说是骶髂关节）。</p></li></ul><p>当时以为是久坐的椅子太硬导致的，还特意去买了个挺贵的坐垫，结果没有任何用，越发严重。</p><ul class=" list-paddingleft-2"><li><p>2022年9月，第一次前往某三甲医院骨科检查。一个老大夫，简单按了几下并没有让我拍片子，说查体没问题，就开了点膏药去贴。当时没什么效果，但是后来症状缓解了就没在意。</p></li><li><p>2022年10月底~12月期间，再次出现骶髂关节踩地、躺下时疼痛，出现颈椎疼痛、右臂抬手疼痛、并且在早晨起床的时候非常严重（后来知道这个叫晨僵）</p></li><li><p>2023年1月~2月期间全部症状有所缓解</p></li><li><p>2023年2月再次出现骶髂关节疼痛，并且腰部有一些累。于是再次前往同一家医院骨科，换了一个医生。经过X光检查仍然是说没什么问题，药也没开就回来了。</p></li><li><p>2023年4月再次前往同一家医院骨科，在我不断追问下大夫告诉我这个问题有可能是强直。开了风湿检查，以及一个基因检测，HLA-b27</p></li></ul><p>这检查还蛮贵的，加起来得六七百吧。现在想来应该是不喜欢给人随便开检查，所以才一直没开出这个单子，还是在我耗了半天问医生还有什么可能最后才给我开了这个单子。</p><ul class=" list-paddingleft-2"><li><p>2023年4月。过了几天出结果，b27阳性。但是其他风湿的检测都比较正常（血沉等）于是挂了风湿科再次检查。</p></li><li><p>风湿科大夫一眼强直，但是开了CT检查。</p></li><li><p>CT结果出了，基本确诊。</p></li></ul><p>治疗方案是常规药物，柳氮+非甾体消炎药。医生建议有条件使用生物制剂</p><ul class=" list-paddingleft-2"><li><p>2023年5月，前往协和，同样一眼确诊</p></li><li><p>2023年6月，补充做了核磁，完全确诊。</p></li></ul><p>目前来说就是这个样子，自从4月开始一直在医院跑跑跑，每周都要去个几次，做一堆检查，一抽好几管血。因为有些检查要空腹抽血，甚至说有几天早上五六点起床连着去医院。其实别人总觉得我好忙，结果是去医院，哈哈</p><p>现在还是在普通药物治疗，不过一直吃消炎药貌似对胃有很大损伤，加上查找过很多文献，发现人类确实太菜，免疫类的疾病人类是一个也没研究明白发病机理，现在最先进的也就是得整点生物制剂治标不治本。所以最后还是想用生物制剂。</p><p>最开始得知这个病的时候确实有些惊慌失措，依稀记得高中生物课中了解过这个病，如果不治疗的话老年时候的照片还是蛮吓人的。</p><p>后来也就慢慢平淡了，该怎么样还怎么样吧。周杰伦同款高级病情</p><p><strong>引用</strong></p><p>[1] 丁繁荣, 姜萍, 刘巍. 强直性脊柱炎发病机制的研究进展[J]. 山东医药, 2019, 59(17): 102–105.</p></div>
+]]></content:encoded>
+<pubDate>Thu, 29 Jun 2023 17:26:44 GMT</pubDate>
+<pubDate>Thu, 29 Jun 2023 17:26:44 GMT</pubDate>
+</item>
+
+</channel>
+</rss>

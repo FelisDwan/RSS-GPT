@@ -54,6 +54,9 @@
 
 如果你觉得本项目有帮助，欢迎 star。
 
-- https://rsshub.app/weibo/user/6105753431 -> https://FelisDwan.github.io/RSS-GPT/量子位.xml
-- https://rsshub.app/weibo/user/1402400261 -> https://FelisDwan.github.io/RSS-GPT/爱可可.xml
-- https://rsshub.app/weibo/user/5722964389 -> https://FelisDwan.github.io/RSS-GPT/GitHubDaily.xml
+- https://rsshub.app/weibo/user/6105753431?mode=fulltext -> https://FelisDwan.github.io/RSS-GPT/量子位.xml
+- https://rsshub.app/weibo/user/1402400261?mode=fulltext -> https://FelisDwan.github.io/RSS-GPT/爱可可.xml
+- https://rsshub.app/weibo/user/5722964389?mode=fulltext -> https://FelisDwan.github.io/RSS-GPT/GitHubDaily.xml
+- https://rsshub.app/bilibili/user/article/12566101?mode=fulltext -> https://FelisDwan.github.io/RSS-GPT/秋葉aaaki.xml
+- https://rsshub.app/bilibili/user/article/23008074?mode=fulltext -> https://FelisDwan.github.io/RSS-GPT/有轶见的Kris.xml
+- https://rsshub.app/bilibili/weekly -> https://FelisDwan.github.io/RSS-GPT/Bilibili每周必看.xml

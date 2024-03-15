@@ -20,3 +20,9 @@ Append: [推荐 GitHub 上一款开源免费的视频下载工具 Hitomi Downloa
 Append: [推荐 GitHub 上一款更优雅的微信公众号订阅工具 WeWe RSS。支持微信公众号订阅以及 RSS 生成，后台自动定时更新内容，支持全文内容输出，让阅读无障碍。GitHub：...](https://weibo.com/5722964389/O3DOmoCjb)
 append_entries: 10
 Finish: 2024-03-15 01:47:17.776104
+------------------------------------------------------
+Started: 2024-03-15 02:02:04.996379
+Existing_entries: 10
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-03-15 02:02:05.087876
