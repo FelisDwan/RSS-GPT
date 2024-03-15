@@ -91,3 +91,15 @@ Existing_entries: 17
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-15 14:10:48.749091
+------------------------------------------------------
+Started: 2024-03-15 16:13:59.613160
+Existing_entries: 17
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 599
+Summarized using GPT-3.5-turbo
+Append: [【#开源版DevinAI程序员炸场# 】GitHub三万Star项目MetaGPT上新，号称是“开源Devin”——推出数据解释器（Data Interpreter），能够应对数据实时变化、任务之间...](https://weibo.com/6105753431/O59W3vE1Q)
+Token length: 639
+Summarized using GPT-3.5-turbo
+Append: [#大模型上岗三甲医院#大模型在医疗行业用得怎么样了？让我们从电子病历上来个“以小见大”。一方面，与之相关的工作可以说是非常的繁杂，大量的文本信息需要人为...](https://weibo.com/6105753431/O59pCrRsV)
+append_entries: 2
+Finish: 2024-03-15 16:14:10.876076
