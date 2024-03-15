@@ -70,3 +70,18 @@ Summarized using GPT-3.5-turbo
 Append: [【#生成式AI占领GitHub#】机器学习科学家Chip Huyen的一项调查显示，2023年起GitHub上的生成式AI项目数量爆炸式增长，500星以上的项目中，与生成式AI相关的有845...](https://weibo.com/6105753431/O58bx9sag)
 append_entries: 1
 Finish: 2024-03-15 10:11:05.105973
+------------------------------------------------------
+Started: 2024-03-15 12:18:53.157453
+Existing_entries: 14
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 49
+Summarized using GPT-3.5-turbo
+Append: [【#OpenAI CTO避谈Sora训练数据#】OpenAI CTO最新访谈引争议！当被问到Sora的数据训练来源时，她的反应震惊了外网。 量子位的微博视频](https://weibo.com/6105753431/O58OwyvRd)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [#何恺明刘壮新作# 消除数据集偏差的十年之战MIT新晋副教授何恺明，新作新鲜出炉：瞄准一个横亘在AI发展之路上十年之久的问题：数据集偏差。该研究为何恺明在Meta...](https://weibo.com/6105753431/O58oEojsE)
+Token length: 281
+Summarized using GPT-3.5-turbo
+Append: [【#OpenAI高管谈Sora##Sora将于年内开放公测#】关于Sora，OpenAI CTO Mira Murati接受了华尔街日报的专访，并透露其最快将于今年年内开放公测。短短10分钟里，So...](https://weibo.com/6105753431/O58mn6ptz)
+append_entries: 3
+Finish: 2024-03-15 12:19:06.166800
