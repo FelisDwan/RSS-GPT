@@ -148,3 +148,9 @@ Summarized using GPT-3.5-turbo
 Append: [创新性地提出了一个学习算法框架，用于在完全和部分知识情况下进行马尔可夫决策过程的验证，特别是在不需要MDP结构特性假设和时间界限的情况下，通过启发式方法...](https://weibo.com/1402400261/O5d2K9Lno)
 append_entries: 10
 Finish: 2024-03-16 00:48:30.665991
+------------------------------------------------------
+Started: 2024-03-16 02:15:41.147183
+Existing_entries: 21
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-03-16 02:15:41.340388

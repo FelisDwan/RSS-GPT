@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>今日推介(第1346期)：让语言模型教自己先想再说、通过结构化训练从灾难性遗忘中预期性恢复、用于验证马尔可夫决策过程的学习算法、用Moment Pooling简化机器学习...</title>
 <link>https://weibo.com/1402400261/O5dqgdQEc</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 语言模型、结构化训练、灾难性遗忘、预期性恢复、马尔可夫决策过程、学习算法、Moment Pooling、机器学习潜空间、API保护、LLM的Logits
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了几个关键的技术和方法，包括让语言模型教自己先想再说、通过结构化训练从灾难性遗忘中预期性恢复、用于验证马尔可夫决策过程的学习算法、以及用Moment Pooling简化机器学习潜空间。另外，还提到了API保护LLM的Logits会泄漏模型专有信息的问题。这些方法和技术对于改进语言模型的能力，提高机器学习算法的效率和精确度都具有重要意义。通过不断探索和应用这些新技术，我们可以进一步推动人工智能领域的发展，为未来带来更多可能性。 <div>
 今日推介(第1346期)：让语言模型教自己先想再说、通过结构化训练从灾难性遗忘中预期性恢复、用于验证马尔可夫决策过程的学习算法、用Moment Pooling简化机器学习潜空间、API保护LLM的Logits会泄漏模型专有信息 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/687311397"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(3.16)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnsf0htg36j20k00b9gn7.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnsf0k1lqgj20k006m751.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnsf0ml60tj20k007d0t5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnsf0p0i2ij20k00kq762.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnsf0repglj20k008pwfi.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 15 Mar 2024 22:07:54 GMT</pubDate>
 <pubDate>Fri, 15 Mar 2024 22:07:54 GMT</pubDate>
 </item>
 <item>
@@ -24,11 +24,10 @@
 <guid>https://weibo.com/1402400261/O5dn86Ikc</guid>
 <content:encoded><![CDATA[
 <div> 高斯Splatting、机器人抓取技术、3D构建、视角输入、推理效率、特征蒸馏、对比学习、抓取姿态、语言指令、场景更新
-<br><br>总结:
+<br /><br />总结:
 提出了一种名为GaussianGrasper的开放词表机器人抓取技术，通过3D高斯Splatting构建场景，解决了传统隐式场景表达的问题。利用有限的RGB-D视角和高效特征蒸馏模块，结合对比学习来准确提取语言嵌入，使得预训练的抓取模型可以生成无碰撞的抓取姿态候选。通过法向引导的抓取模块选取最佳姿态。实验证明，该系统能准确响应语言指令，执行抓取任务，并实现快速场景更新。提供了新的解决方案用于语言引导操作任务，并公开了数据和代码资源。 <div>
 [RO] GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping  <br /><a href="https://arxiv.org/abs/2403.09637"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />提出一种名为GaussianGrasper的开放词表机器人抓取技术，它通过3D高斯Splatting显式构建场景，解决了传统隐式场景表达(例如NeRF)需要大量视角输入和推理效率低下的问题。GaussianGrasper利用有限的RGB-D视角并通过一种高效特征蒸馏(EFD)模块，结合对比学习来准确提取语言嵌入。这使得其预训练的抓取模型能生成无碰撞的抓取姿态候选，并通过法向引导的抓取模块选取最佳姿态。实验表明，该系统能准确响应语言指令，执行抓取任务，并实现快速场景更新。此外，提供了用于语言引导操作任务的新解决方案，并公开了数据和代码资源。<img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnsesr3i0dj219w1kc1kx.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsesrglfpj21hq17uqlw.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsesrlyxgj21h40uqqif.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 15 Mar 2024 22:00:11 GMT</pubDate>
 <pubDate>Fri, 15 Mar 2024 22:00:11 GMT</pubDate>
 </item>
 <item>
@@ -38,11 +37,10 @@
 <content:encoded><![CDATA[
 <div> Spring-Gaus, 物理仿真, 3D高斯模型, 弹性物体, 多视角视频, 参数优化, 模拟粒子, 样本效率, 泛化能力, 形变预测
 
-<br><br>总结:
+<br /><br />总结:
 本文提出了Spring-Gaus框架，结合了物理仿真和3D高斯模型，用于重建和模拟弹性物体。通过3D弹簧-质点模型在个体点级别优化物理参数，解决了物理和外观学习的问题，提高了样本效率和泛化能力。Spring-Gaus在合成和真实数据集上证明了有效性，特别是在形变预测和不同环境参数下的模拟中表现出色。这一研究突破了物理参数优化和异质物体建模的限制，为预测视觉感知和沉浸式体验的应用提供了新的可能性。 <div>
 [CV] Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians  <br /><a href="https://arxiv.org/abs/2403.09434"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />提出了Spring-Gaus框架，一个整合物理仿真和3D高斯模型的新方法，用于从多视角视频重建和模拟弹性物体。与传统的3D高斯方法相比，Spring-Gaus通过3D弹簧-质点模型在个体点级别优化物理参数，有效解缠物理和外观学习。这种方法提高了样本效率，增强了泛化能力，并减少了对仿真粒子分布的敏感性。在合成和真实世界数据集上的评估证明了Spring-Gaus在准确重建和模拟弹性物体方面的有效性，尤其是在进行未来形变预测和不同初始状态及环境参数下的模拟时。该研究突破了物理参数优化和异质物体建模的限制，为预测视觉感知和沉浸式体验的应用开辟了可能。<img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnseg8bri1j20z41e6wrp.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnseg8nm5cj21fa0wstjg.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnseg9gk2gj21fa1au18j.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 15 Mar 2024 21:48:10 GMT</pubDate>
 <pubDate>Fri, 15 Mar 2024 21:48:10 GMT</pubDate>
 </item>
 <item>
@@ -52,11 +50,10 @@
 <content:encoded><![CDATA[
 <div> 多数投票法, 最优学习算法, PAC学习, 期望误差, 高概率误差, Bagging算法, ERM分类器, 最优误差界, one-inclusion graph算法, 简化算法结构
 
-<br><br>总结:
+<br /><br />总结:
 本文讨论了在实现环境下寻找最简单的最优学习算法的问题，并提出了多数投票法可能是一个简单且最优的解决方案。该算法使用三个ERM分类器，在期望误差上达到了最优，并且在高概率误差上也接近最优。该发现挑战了之前认为ERM分类器无法独自实现最优误差界的观点。文章还提出了改进的Bagging算法，简化了之前复杂的算法结构。另外，研究指出了one-inclusion graph算法在高概率误差上的局限性，与之前的猜想相反。通过进一步分析，多数投票法可能在高概率误差上也是最优的。整体而言，本文为最简单有效的学习算法提供了新的思路，并拓展了对学习算法的理解。 <div>
 [LG] Majority-of-Three: The Simplest Optimal Learner?  <br /><a href="https://arxiv.org/abs/2403.08831"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />讨论了PAC学习中的一个开放问题：在实现环境下，寻找最简单的最优学习算法。分析了一个简单的算法——多数投票法，其中只使用三个ERM分类器。文章的核心是这个算法在期望误差上达到了最优，并且近似于高概率误差上的最优。这一发现挑战了之前的认知，即ERM分类器无法独自实现最优误差界。本文还提出一种改进的Bagging算法，简化了之前复杂的算法结构，但分析过程仍然复杂。此外，一项新的研究揭示了one-inclusion graph算法在高概率误差上的局限性，这与之前Warmuth的猜想相反。本文认为，通过进一步分析，上述多数投票法可能在高概率误差上也是最优的。<img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnse738777j21841gmh1p.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnse73lpebj21co0zoqa5.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 15 Mar 2024 21:39:22 GMT</pubDate>
 <pubDate>Fri, 15 Mar 2024 21:39:22 GMT</pubDate>
 </item>
 <item>
@@ -64,12 +61,11 @@
 <link>https://weibo.com/1402400261/O5dbMeVyI</link>
 <guid>https://weibo.com/1402400261/O5dbMeVyI</guid>
 <content:encoded><![CDATA[
-<div> 模态语言模型 构建 组件 数据 体系结构 图像编码器 视觉语言连接器 预训练数据<br>
-<br>
+<div> 模态语言模型 构建 组件 数据 体系结构 图像编码器 视觉语言连接器 预训练数据<br />
+<br />
 总结: 本文介绍了多模态大型语言模型(MLLM)的构建方法和分析，强调了体系结构组件和数据选择的重要性。研究发现，混合使用图像-文字、交错图像-文字和纯文字数据对实现少样本最先进结果(SOTA)至关重要。此外，图像编码器、图像分辨率和图像标记数量对结果有显著影响。作者构建了一个最高达30B参数的模型族MM1，通过大规模预训练实现了竞争性性能，并展现了吸引人的特性，能够实现少样本的连锁思维提示。 <div>
 [CV] MM1: Methods, Analysis &amp; Insights from Multimodal LLM Pre-training  <br /><a href="https://arxiv.org/abs/2403.09611"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />介绍了多模态大型语言模型(MLLM)的构建，重点在于体系结构组件和数据选择的重要性。通过对图像编码器、视觉语言连接器和不同预训练数据选项的详尽剖析，揭示了几个关键设计经验。研究表明，混合使用图像-文字、交错图像-文字和纯文字数据对于实现多项基准测试中的少样本最先进结果(SOTA)至关重要。此外，图像编码器、图像分辨率和图像标记数量对结果有显著影响，而视觉-语言连接器设计的影响相对较小。作者通过扩大模型规模，构建了一个最高达30B参数的模型族MM1，包括密集型模型和专家混合型变体，这些模型在预训练度量上表现出色，并在一系列多模态基准测试中经过监督微调后获得了竞争性性能。MM1的大规模预训练赋予了它如上下文预测、多图像推理等吸引人的特性，使其能够实现少样本的连锁思维提示。<img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnsdzmld2pj21201iuapu.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsdzn0s90j21hk13aaq5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnsdznf268j21hk0tytm5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05gy1hnsdznnj32j21hm0qiaiy.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 15 Mar 2024 21:32:13 GMT</pubDate>
 <pubDate>Fri, 15 Mar 2024 21:32:13 GMT</pubDate>
 </item>
 <item>
@@ -77,12 +73,11 @@
 <link>https://weibo.com/1402400261/O5d99bA9M</link>
 <guid>https://weibo.com/1402400261/O5d99bA9M</guid>
 <content:encoded><![CDATA[
-<div> API保护、LLM、私有参数、结构信息、模型透明度、问责性、信息泄露、特性、分析、有效性<br>
-<br>
-提到了一种通过分析LLM API输出获取私有参数和结构信息的方法，即使在API保护下也能实现。强调了这种方法的有效性，指出可以将其作为一种特性来提高模型的透明度和问责性。文章的研究结果揭示了重要的信息泄露问题，也提示了提高模型透明度的重要性。这种方法对于模型的安全性和隐私保护具有重要影响，值得深入研究和思考。<br><br>总结: 提出了一种通过分析LLM API输出泄露私有信息的方法，并强调了其有效性以及作为提高模型透明度和问责性的特性。 <div>
+<div> API保护、LLM、私有参数、结构信息、模型透明度、问责性、信息泄露、特性、分析、有效性<br />
+<br />
+提到了一种通过分析LLM API输出获取私有参数和结构信息的方法，即使在API保护下也能实现。强调了这种方法的有效性，指出可以将其作为一种特性来提高模型的透明度和问责性。文章的研究结果揭示了重要的信息泄露问题，也提示了提高模型透明度的重要性。这种方法对于模型的安全性和隐私保护具有重要影响，值得深入研究和思考。<br /><br />总结: 提出了一种通过分析LLM API输出泄露私有信息的方法，并强调了其有效性以及作为提高模型透明度和问责性的特性。 <div>
 揭示了通过分析LLM API的输出，即便是在API保护下，仍能通过较少的成本就能获取大量关于大型语言模型(如OpenAI gpt-3.5-turbo)的私有参数和结构信息，强调了这种获取信息方法的有效性，指出如何将此作为一种特性来提高模型的透明度和问责性。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Logits of API-Protected LLMs Leak Proprietary Information》M Finlayson, S Swayamdipta, X Ren [University of Southern California] (2024) <a href="https://arxiv.org/abs/2403.09539"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsdhz8pyhj21oc15s7p2.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnsdhzlf91j21ks0w4wqg.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05gy1hnsdhzq3auj21ke0oigsg.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnsdi02jdij21l80pe118.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05gy1hnsdsgpg07j20ve0dy764.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnsdsgoh8fj20vg0dqq55.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsdsgpg6xj20vd090aar.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Fri, 15 Mar 2024 21:25:44 GMT</pubDate>
 <pubDate>Fri, 15 Mar 2024 21:25:44 GMT</pubDate>
 </item>
 <item>
@@ -92,10 +87,9 @@
 <content:encoded><![CDATA[
 <div> API-Protected LLMs, Logits, Leakage, Proprietary Information, Privacy, Data Security, Machine Learning, Information Disclosure
 
-总结:<br><br>本文研究了API保护的语言模型（LLMs）的Logits可能泄漏专有信息的问题。研究人员发现，即使在API保护的情况下，LLMs的输出Logits也可能包含公司的机密信息。这种信息泄漏可能导致数据隐私和安全方面的问题。因此，需要采取相应的措施来确保机器学习模型不会泄露敏感信息，保障数据安全。 <div>
+总结:<br /><br />本文研究了API保护的语言模型（LLMs）的Logits可能泄漏专有信息的问题。研究人员发现，即使在API保护的情况下，LLMs的输出Logits也可能包含公司的机密信息。这种信息泄漏可能导致数据隐私和安全方面的问题。因此，需要采取相应的措施来确保机器学习模型不会泄露敏感信息，保障数据安全。 <div>
 [CL]《Logits of API-Protected LLMs Leak Proprietary Information》M Finlayson, S Swayamdipta, X Ren [University of Southern California] (2024) <a href="https://arxiv.org/abs/2403.09539"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsdhz8pyhj21oc15s7p2.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnsdhzlf91j21ks0w4wqg.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05gy1hnsdhzq3auj21ke0oigsg.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnsdi02jdij21l80pe118.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05gy1hnsdsgpg07j20ve0dy764.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnsdsgoh8fj20vg0dqq55.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsdsgpg6xj20vd090aar.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 15 Mar 2024 21:25:18 GMT</pubDate>
 <pubDate>Fri, 15 Mar 2024 21:25:18 GMT</pubDate>
 </item>
 <item>
@@ -105,10 +99,9 @@
 <content:encoded><![CDATA[
 <div> 关键词: Moment Pooling, 深度集网络, 多变量矩, 潜空间维数, 模型性能, 基函数, 机器学习观测值, 可视化, 解释.
 
-总结:<br><br>本文提出了一种名为“Moment Pooling”的方法，通过扩展深度集网络并利用多变量矩来降低潜空间维数，以提升模型性能。这一方法能够在更少的基函数下构建相同的机器学习观测值，使得模型内部表示可以更简单地进行可视化和解释。 Moment Pooling 的应用可以显著简化潜在空间的维数，帮助提升模型的性能，并且使得模型更容易解释和理解。通过对多变量矩的运用，Moment Pooling 可以在保持甚至提升模型性能的同时，降低所需的基函数数量，从而简化模型构建和解释过程。这一方法有望为机器学习领域带来更高效和可解释的模型设计。 <div>
+总结:<br /><br />本文提出了一种名为“Moment Pooling”的方法，通过扩展深度集网络并利用多变量矩来降低潜空间维数，以提升模型性能。这一方法能够在更少的基函数下构建相同的机器学习观测值，使得模型内部表示可以更简单地进行可视化和解释。 Moment Pooling 的应用可以显著简化潜在空间的维数，帮助提升模型的性能，并且使得模型更容易解释和理解。通过对多变量矩的运用，Moment Pooling 可以在保持甚至提升模型性能的同时，降低所需的基函数数量，从而简化模型构建和解释过程。这一方法有望为机器学习领域带来更高效和可解释的模型设计。 <div>
 提出一种名为“Moment Pooling”的方法，通过扩展深度集网络并利用多变量矩来显著降低潜空间维数，同时保持或提升模型性能，并以更少的基函数构建相同的机器学习观测值，使得模型内部表示的可视化和解释变得更加简单。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Moments of Clarity: Streamlining Latent Spaces in Machine Learning using Moment Pooling》R Gambhir, A Osathapan, J Thaler [MIT] (2024) <a href="https://arxiv.org/abs/2403.08854"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05gy1hnsdd9vs67j21is0gyk1g.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnsddafjn1j21mo0w2472.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsddapji1j21901amtg7.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsddav53cj20vi10c79w.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnsde6c6wmj20jp0o3q5d.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsde6f420j2140147afj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnsde6bkxyj20jp0litak.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05gy1hnsde6g62dj2140156dpr.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsde6drm7j2140156jva.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Fri, 15 Mar 2024 21:11:56 GMT</pubDate>
 <pubDate>Fri, 15 Mar 2024 21:11:56 GMT</pubDate>
 </item>
 <item>
@@ -118,11 +111,10 @@
 <content:encoded><![CDATA[
 <div> Streamlining, Latent Spaces, Machine Learning, Moment Pooling, MIT, Gambhir, Osathapan, Thaler, 2024
 
-<br><br>总结:
+<br /><br />总结:
 本文探讨了在机器学习中利用矩阵池化来简化潜在空间的方法。研究人员提出了一种称为Moment Pooling的新技术，通过将不同阶数的矩阵进行池化，从而提高了模型在学习高阶统计特性方面的能力。这种技术不仅能够提高模型的效率，还能够减少模型对大规模数据集的需求。研究还表明，Moment Pooling技术在训练时间和模型性能之间取得了良好的平衡，为机器学习领域的实践带来了新的启示。MIT的研究人员Gambhir、Osathapan和Thaler的工作为机器学习领域的发展提供了有益的思路和方法。 <div>
 [LG]《Moments of Clarity: Streamlining Latent Spaces in Machine Learning using Moment Pooling》R Gambhir, A Osathapan, J Thaler [MIT] (2024) <a href="https://arxiv.org/abs/2403.08854"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05gy1hnsdd9vs67j21is0gyk1g.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnsddafjn1j21mo0w2472.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsddapji1j21901amtg7.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsddav53cj20vi10c79w.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnsde6c6wmj20jp0o3q5d.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsde6f420j2140147afj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnsde6bkxyj20jp0litak.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05gy1hnsde6g62dj2140156dpr.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsde6drm7j2140156jva.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsde6ceorj20jp0l1dhh.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnsde6d31vj21400ki77c.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnsde6c36cj20jp0khgn1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsde6d5zdj20z20jpgny.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsde6dr66j20zc0jqtb4.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 15 Mar 2024 21:11:35 GMT</pubDate>
 <pubDate>Fri, 15 Mar 2024 21:11:35 GMT</pubDate>
 </item>
 <item>
@@ -132,14 +124,12 @@
 <content:encoded><![CDATA[
 <div> 马尔可夫决策过程、学习算法、验证、完全知识、部分知识、MDP结构、时间界限、概率可达性、启发式方法、停止准则
 
-<br><br>总结:
+<br /><br />总结:
 该研究提出了一个学习算法框架，可用于验证马尔可夫决策过程，在完全和部分知识情况下，无需MDP结构特性假设和时间界限。通过启发式方法提供了概率可达性的精确和概率界，同时提出了适应性强的停止准则。这一创新性方法有望在解决复杂决策问题中发挥重要作用。 <div>
 创新性地提出了一个学习算法框架，用于在完全和部分知识情况下进行马尔可夫决策过程的验证，特别是在不需要MDP结构特性假设和时间界限的情况下，通过启发式方法提供了概率可达性的精确和概率界，同时提出了适应性强的停止准则。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Learning Algorithms for Verification of Markov Decision Processes》T Brázdil, K Chatterjee, M Chmelik, V Forejt, J Křetínský, M Kwiatkowska, T Meggendorfer, D Parker, M Ujma [Google LLC &amp; IST Austria &amp; Lancaster University Leipzig] (2024) <a href="https://arxiv.org/abs/2403.09184"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsdb2ek9bj210m0mb12q.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnsdb2s9l9j21ce0pwtbu.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnsdb38x14j21n20lqq6c.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnsdb3sanvj21rg0ecwgs.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 21:09:58 GMT</pubDate>
-<pubDate>Fri, 15 Mar 2024 21:09:58 GMT</pubDate>
 </item>
-
 <item>
 <title>恭喜@sayfh_wu-wuy_su私人领域-_- 等3名用户获得【《SPSSAU科研数据分析方法与应用》】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效...</title>
 <link>https://weibo.com/1402400261/O56k4DmCh</link>
