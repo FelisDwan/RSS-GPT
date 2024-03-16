@@ -190,3 +190,27 @@ Existing_entries: 21
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-16 14:09:42.534787
+------------------------------------------------------
+Started: 2024-03-16 16:11:45.543832
+Existing_entries: 21
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 554
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization》(CVPR 2024) GitHub: github.c...](https://weibo.com/1402400261/O5jwVne0V)
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: ['Awesome-AISourceHub - AI科技领域高质量信息源列表’ GitHub: github.com/AmbroseX/Awesome-AISourceHub #开源# #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O5jwP9UrG)
+Token length: 222
+Summarized using GPT-3.5-turbo
+Append: [【EasyDetect：易于使用的多模态幻觉检测框架，用于多模态大型语言模型(MLLMs)如GPT-4V、Gemini、LlaVA的研究实验，通过统一的视角对多模态幻觉进行检测，包括模...](https://weibo.com/1402400261/O5j2octGD)
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [【ChatOllama：基于Nuxt 3和Ollama的聊天Web应用】'ChatOllama - a Nuxt 3 + Ollama web application. It's an example of Ollama Javascript library’ GitHub:...](https://weibo.com/1402400261/O5j0hzQkC)
+Token length: 250
+Summarized using GPT-3.5-turbo
+Append: [【Data is Better Together：由Hugging Face、Argilla和开源机器学习社区共同合作的项目，旨在赋予开源社区共同构建有影响力的数据集的能力。目前，该项目已经创...](https://weibo.com/1402400261/O5ihKbqgZ)
+Token length: 325
+Summarized using GPT-3.5-turbo
+Append: [【OPEN TEACH: 多功能遥操作框架，使用Meta Quest3进行机器人操作，具有灵活性和多样性，包括VR应用程序的Unity脚本、遥操作流程和演示数据收集流程，支持在各种...](https://weibo.com/1402400261/O5ih2p7R0)
+append_entries: 6
+Finish: 2024-03-16 16:12:09.465788
