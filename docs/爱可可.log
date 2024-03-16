@@ -112,3 +112,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O5ari9YQl)
 append_entries: 0
 Finish: 2024-03-15 22:10:54.759083
+------------------------------------------------------
+Started: 2024-03-16 00:47:48.046429
+Existing_entries: 11
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1346期)：让语言模型教自己先想再说、通过结构化训练从灾难性遗忘中预期性恢复、用于验证马尔可夫决策过程的学习算法、用Moment Pooling简化机器学习...](https://weibo.com/1402400261/O5dqgdQEc)
+Token length: 364
+Summarized using GPT-3.5-turbo
+Append: [[RO] GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping 网页链接 提出一种名为GaussianGrasper的开放词表机器人抓取技术...](https://weibo.com/1402400261/O5dn86Ikc)
+Token length: 360
+Summarized using GPT-3.5-turbo
+Append: [[CV] Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians 网页链接 提出了Spring-Gaus框架，一个整合物理仿真和3D高斯模型的新方...](https://weibo.com/1402400261/O5difnNAc)
+Token length: 334
+Summarized using GPT-3.5-turbo
+Append: [[LG] Majority-of-Three: The Simplest Optimal Learner? 网页链接 讨论了PAC学习中的一个开放问题：在实现环境下，寻找最简单的最优学习算法。分析了一个简单的...](https://weibo.com/1402400261/O5deGfwNR)
+Token length: 412
+Summarized using GPT-3.5-turbo
+Append: [[CV] MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training 网页链接 介绍了多模态大型语言模型(MLLM)的构建，重点在于体系结构组件和数据选择...](https://weibo.com/1402400261/O5dbMeVyI)
+Token length: 278
+Summarized using GPT-3.5-turbo
+Append: [揭示了通过分析LLM API的输出，即便是在API保护下，仍能通过较少的成本就能获取大量关于大型语言模型(如OpenAI gpt-3.5-turbo)的私有参数和结构信息，强调了这种...](https://weibo.com/1402400261/O5d99bA9M)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Logits of API-Protected LLMs Leak Proprietary Information》M Finlayson, S Swayamdipta, X Ren [University of Southern California] (2024) 网页链接...](https://weibo.com/1402400261/O5d8YfyGJ)
+Token length: 257
+Summarized using GPT-3.5-turbo
+Append: [提出一种名为“Moment Pooling”的方法，通过扩展深度集网络并利用多变量矩来显著降低潜空间维数，同时保持或提升模型性能，并以更少的基函数构建相同的机器学习...](https://weibo.com/1402400261/O5d3xurjA)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Moments of Clarity: Streamlining Latent Spaces in Machine Learning using Moment Pooling》R Gambhir, A Osathapan, J Thaler [MIT] (2024) 网页链接 ...](https://weibo.com/1402400261/O5d3oBouU)
+Token length: 359
+Summarized using GPT-3.5-turbo
+Append: [创新性地提出了一个学习算法框架，用于在完全和部分知识情况下进行马尔可夫决策过程的验证，特别是在不需要MDP结构特性假设和时间界限的情况下，通过启发式方法...](https://weibo.com/1402400261/O5d2K9Lno)
+append_entries: 10
+Finish: 2024-03-16 00:48:30.665991
