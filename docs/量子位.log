@@ -157,3 +157,9 @@ Summarized using GPT-3.5-turbo
 Append: [#腾讯混元开源图生视频模型##诸葛青睁眼原来长这样# 单击画面中的火箭，输入“发射”prompt，瞬间起飞！就连想要回收火箭，也只需要输入“Launch down”，再轻轻...](https://weibo.com/6105753431/O5gkvtT5N)
 append_entries: 2
 Finish: 2024-03-16 08:12:52.147583
+------------------------------------------------------
+Started: 2024-03-16 10:11:55.759573
+Existing_entries: 21
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-03-16 10:11:55.892848
