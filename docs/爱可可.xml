@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>几篇论文实现代码：《DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization》(CVPR 2024) GitHub: github.c...</title>
 <link>https://weibo.com/1402400261/O5jwVne0V</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> DNGaussian, 优化, 稀疏视图, 3D, 高斯辐射场, 全局局部深度规范化, GitHub, Pix2Gif, 运动引导扩散, GIF 生成, SSM, 视频扩散模型, 有效视频生成, 结构化状态空间, 语言模型, 可靠性, 过度训练, 下游任务
 
-<br><br>总结: 《DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization》提出了一种优化稀疏视图3D高斯辐射场的方法，通过全局局部深度规范化来改善渲染效果，代码可在GitHub上找到。《Pix2Gif: Motion-Guided Diffusion for GIF Generation》介绍了Pix2Gif，一种运动引导扩散技术，用于生成GIF图像。《SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces》展示了SSM与视频扩散模型相结合，实现了有效的视频生成，采用了结构化状态空间。《Language models scale reliably with over-training and on downstream tasks》研究表明，语言模型在过度训练和下游任务中表现出可靠的扩展性，相关代码可在GitHub上获取。 <div>
+<br /><br />总结: 《DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization》提出了一种优化稀疏视图3D高斯辐射场的方法，通过全局局部深度规范化来改善渲染效果，代码可在GitHub上找到。《Pix2Gif: Motion-Guided Diffusion for GIF Generation》介绍了Pix2Gif，一种运动引导扩散技术，用于生成GIF图像。《SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces》展示了SSM与视频扩散模型相结合，实现了有效的视频生成，采用了结构化状态空间。《Language models scale reliably with over-training and on downstream tasks》研究表明，语言模型在过度训练和下游任务中表现出可靠的扩展性，相关代码可在GitHub上获取。 <div>
 几篇论文实现代码：<br />《DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization》(CVPR 2024) GitHub: github.com/Fictionarry/DNGaussian [fig1]<br />《Pix2Gif: Motion-Guided Diffusion for GIF Generation》(2024) GitHub: github.com/hiteshK03/Pix2Gif<br />《SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces》(2024) GitHub: github.com/shim0114/SSM-Meets-Video-Diffusion-Models [fig2]<br />《Language models scale reliably with over-training and on downstream tasks》(2024) GitHub: github.com/mlfoundations/scaling<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnt3oac1q5j21iu0jiasp.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnt3p0dq0hj22801904ns.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 16 Mar 2024 13:40:48 GMT</pubDate>
 <pubDate>Sat, 16 Mar 2024 13:40:48 GMT</pubDate>
 </item>
 <item>
@@ -24,10 +24,9 @@
 <content:encoded><![CDATA[
 <div> GitHub, AI, 科技, 高质量, 信息源, 列表, 开源项目, AmbroseX, Awesome-AISourceHub
 
-总结:<br><br>这是一个收集AI科技领域高质量信息源的开源项目，其中包括了各种资源列表和信息源，可以帮助人们更好地了解和学习关于人工智能的知识。由AmbroseX创建并维护，项目地址为github.com/AmbroseX/Awesome-AISourceHub。欢迎大家积极参与和贡献，共同打造一个强大的AI资源集合。 <div>
+总结:<br /><br />这是一个收集AI科技领域高质量信息源的开源项目，其中包括了各种资源列表和信息源，可以帮助人们更好地了解和学习关于人工智能的知识。由AmbroseX创建并维护，项目地址为github.com/AmbroseX/Awesome-AISourceHub。欢迎大家积极参与和贡献，共同打造一个强大的AI资源集合。 <div>
 'Awesome-AISourceHub - AI科技领域高质量信息源列表’ GitHub: github.com/AmbroseX/Awesome-AISourceHub <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnt5z3jp2mj20y40u00y9.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 16 Mar 2024 13:40:33 GMT</pubDate>
 <pubDate>Sat, 16 Mar 2024 13:40:33 GMT</pubDate>
 </item>
 <item>
@@ -37,11 +36,10 @@
 <content:encoded><![CDATA[
 <div> 多模态 幻觉检测框架 GPT-4V Gemini LlaVA 研究实验 统一视角 模态冲突 幻觉 事实冲突 幻觉
 
-<br><br>总结:
+<br /><br />总结:
 EasyDetect是一个易于使用的多模态幻觉检测框架，专为大型语言模型如GPT-4V、Gemini和LlaVA的研究实验而设计。该框架通过统一的视角对多模态幻觉进行检测，包括模态冲突幻觉和事实冲突幻觉。通过EasyDetect，研究人员可以更方便地进行多模态幻觉的实验和研究，从而深入探讨语言模型的表现和特性。 <div>
 【EasyDetect：易于使用的多模态幻觉检测框架，用于多模态大型语言模型(MLLMs)如GPT-4V、Gemini、LlaVA的研究实验，通过统一的视角对多模态幻觉进行检测，包括模态冲突幻觉和事实冲突幻觉】’EasyDetect - An Easy-to-use Hallucination Detection Framework for LLMs.' GitHub: github.com/OpenKG-ORG/EasyDetect <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnt3t2xe1zj20i60fbdj0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnt3t5cqj1j20pp0gegqn.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 16 Mar 2024 12:25:34 GMT</pubDate>
 <pubDate>Sat, 16 Mar 2024 12:25:34 GMT</pubDate>
 </item>
 <item>
@@ -49,12 +47,11 @@ EasyDetect是一个易于使用的多模态幻觉检测框架，专为大型语�
 <link>https://weibo.com/1402400261/O5j0hzQkC</link>
 <guid>https://weibo.com/1402400261/O5j0hzQkC</guid>
 <content:encoded><![CDATA[
-<div> ChatOllama、Nuxt 3、Ollama、web应用、GitHub、Javascript库、聊天应用、示例、开发、实现<br>
-<br>总结:
+<div> ChatOllama、Nuxt 3、Ollama、web应用、GitHub、Javascript库、聊天应用、示例、开发、实现<br />
+<br />总结:
 ChatOllama是基于Nuxt 3和Ollama的聊天Web应用示例，使用Ollama Javascript库开发，代码托管在GitHub上，展示了如何开发和实现一个聊天应用。 <div>
 【ChatOllama：基于Nuxt 3和Ollama的聊天Web应用】'ChatOllama - a Nuxt 3 + Ollama web application. It's an example of Ollama Javascript library’ GitHub: github.com/sugarforever/chat-ollama <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnt3ns8meej219c0jogny.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 16 Mar 2024 12:20:23 GMT</pubDate>
 <pubDate>Sat, 16 Mar 2024 12:20:23 GMT</pubDate>
 </item>
 <item>
@@ -64,11 +61,10 @@ ChatOllama是基于Nuxt 3和Ollama的聊天Web应用示例，使用Ollama Javasc
 <content:encoded><![CDATA[
 <div> Hugging Face, Argilla, 开源机器学习社区, 数据集, 合作, 提示, 排名, 10,000个, 质量
 
-<br><br>总结:
+<br /><br />总结:
 Data is Better Together是一个由Hugging Face、Argilla和开源机器学习社区共同合作的项目，旨在赋予开源社区共同构建有影响力的数据集的能力。该项目已经创建了一个由10,000个提示组成的数据集，并按照质量进行了排名。这个项目的目标是让开源社区共同努力，创造更好的数据集，为机器学习研究和实践提供更丰富的资源和支持。通过协作和合作，我们可以共同构建更具影响力和实用性的数据集，推动机器学习领域的发展和创新。 <div>
 【Data is Better Together：由Hugging Face、Argilla和开源机器学习社区共同合作的项目，旨在赋予开源社区共同构建有影响力的数据集的能力。目前，该项目已经创建了一个由10,000个提示组成的数据集，按质量进行了排名】'Data is Better Together - Let's build better datasets, together!' GitHub: github.com/huggingface/data-is-better-together <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnt0hi5cbfj211y0lc78w.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 16 Mar 2024 10:30:39 GMT</pubDate>
 <pubDate>Sat, 16 Mar 2024 10:30:39 GMT</pubDate>
 </item>
 <item>
@@ -78,14 +74,12 @@ Data is Better Together是一个由Hugging Face、Argilla和开源机器学习�
 <content:encoded><![CDATA[
 <div> 多功能遥操作框架, Meta Quest3, 机器人操作, 灵活性, 多样性, Unity脚本, 遥操作流程, 数据收集流程, 策略训练, GitHub  
 
-<br><br>总结:  
+<br /><br />总结:  
 这篇文章介绍了一个名为"OPEN TEACH"的多功能遥操作框架，使用Meta Quest3进行机器人操作，并具有灵活性和多样性。该框架包括了VR应用程序的Unity脚本、遥操作流程和演示数据收集流程，能够支持在各种机器人和仿真环境下进行遥操作和数据收集，并针对不同机器人和仿真进行策略训练。该框架的GitHub链接为github.com/aadhithya14/Open-Teach。 <div>
 【OPEN TEACH: 多功能遥操作框架，使用Meta Quest3进行机器人操作，具有灵活性和多样性，包括VR应用程序的Unity脚本、遥操作流程和演示数据收集流程，支持在各种机器人和仿真环境下进行遥操作和数据收集，并针对不同机器人和仿真进行策略训练】'OPEN TEACH: A Versatile Teleoperation System for Robotic Manipulation - A Versatile Teleoperation framework for Robotic Manipulation using Meta Quest3' GitHub: github.com/aadhithya14/Open-Teach <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnt0fre8fpj21ji0twwkh.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sat, 16 Mar 2024 10:28:54 GMT</pubDate>
-<pubDate>Sat, 16 Mar 2024 10:28:54 GMT</pubDate>
 </item>
-
 <item>
 <title>今日推介(第1346期)：让语言模型教自己先想再说、通过结构化训练从灾难性遗忘中预期性恢复、用于验证马尔可夫决策过程的学习算法、用Moment Pooling简化机器学习...</title>
 <link>https://weibo.com/1402400261/O5dqgdQEc</link>
