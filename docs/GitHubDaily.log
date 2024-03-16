@@ -122,3 +122,12 @@ Existing_entries: 12
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-03-16 06:13:02.850098
+------------------------------------------------------
+Started: 2024-03-16 08:12:52.353234
+Existing_entries: 12
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [推荐 GitHub 上一款开源免费的 Homebrew 可视化工具 Applite。通过提供设计简洁且易于使用的 Homebrew 可视化界面，让非技术用户轻松安装和管理第三方应用。GitH...](https://weibo.com/5722964389/O5gUfje5o)
+append_entries: 1
+Finish: 2024-03-16 08:12:59.025685
