@@ -350,3 +350,39 @@ Summarized using GPT-3.5-turbo
 Append: [【Cpptrace：一个简洁、可移植和自建的 C++ stacktracker 库，支持 C++11 及更高版本的 Linux、macOS 和 Windows 运行环境，包括 MinGW 和 Cygwingwin。其目的是...](https://weibo.com/1402400261/O5prI8BI3)
 append_entries: 10
 Finish: 2024-03-17 08:13:12.833509
+------------------------------------------------------
+Started: 2024-03-17 10:10:08.581071
+Existing_entries: 55
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 4167
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets》(ICLR 2024) GitHub: github.com/lifan-yuan/CRAFT [fig...](https://weibo.com/1402400261/O5qIuBoo2)
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [【AI-in-a-Box：旨在帮助工程师建立人工智能和机器学习解决方案，并提供快速而高质量的解决方案，以减少架构师的成本和降低风险】'AI-in-a-Box' GitHub: github....](https://weibo.com/1402400261/O5qFqECzE)
+Token length: 290
+Summarized using GPT-3.5-turbo
+Append: [【ShareGPT Builder：一个功能强大的 Flask 应用，用于创建和存储 ChatGPT 模型的训练样本，允许手动创建和存储 SFT 格式的聊天对话，并自动将其添加到 JSON 文...](https://weibo.com/1402400261/O5qELjK5G)
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [【视频生成相关研究列表】’A Collection of Video Generation Studies - A collection of awesome video generation studies.' GitHub: github.com/AlonzoLeeeo...](https://weibo.com/1402400261/O5qDRoorO)
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [【MIMo：用于婴儿认知发展研究的开源平台，提供分析婴儿认知发育的关键数据和功能】'MIMo - a platform for the research of the cognitive development of infa...](https://weibo.com/1402400261/O5qDi0lSg)
+Token length: 297
+Summarized using GPT-3.5-turbo
+Append: [【Local RAG：一个开源项目，使用 开源大预言模型 (LLM) 提取文件并进行检索增强生成 (RAG)，无需第三方或敏感数据，在本地保持匿名】'Local RAG - Ingest files...](https://weibo.com/1402400261/O5qCu1PLb)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [【NeMo Curator：一个 Python 库，用于创建和处理自然语言处理 (NLP) 数据集，以便训练大型语言模型 (LLM)。该库包含一些可扩展的模块，允许 NLP 研究人员从无标...](https://weibo.com/1402400261/O5qAfojgc)
+Token length: 46
+Summarized using GPT-3.5-turbo
+Append: [【超赞列表合集，从各类Awesome list项目抓取而来】“Awesome List” 网页链接 [图片]](https://weibo.com/1402400261/O5qwr6nHP)
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: [【BrowserGym: 用于 Web 任务自动化的开源项目，提供 Chrome 浏览器环境的 Gym 集成，用于自动化各种网站和应用的任务】’BrowserGym: a Gym Environment for We...](https://weibo.com/1402400261/O5qsp2NdU)
+Token length: 254
+Summarized using GPT-3.5-turbo
+Append: [【flybody是一个用于 MuJoCo 物理模拟和强化学习应用的果蝇模型，基于 Google DeepMind 和 HHMI Janelia 研究中心的相结合的作品，旨在建立果蝇体系生物物理模拟...](https://weibo.com/1402400261/O5qqjDbVj)
+append_entries: 10
+Finish: 2024-03-17 10:10:46.537098

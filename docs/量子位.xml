@@ -4,20 +4,19 @@
 <title>量子位的微博</title>
 <link>https://weibo.com/6105753431/</link>
 
+
 <item>
 <title>【#AI大模型控制红绿灯# 】大模型“上路”，干起了交通信号控制（TSC）的活～模型名为LightGPT，以排队及不同区段快要接近信号灯的车辆对路口交通状况分析，进而...</title>
 <link>https://weibo.com/6105753431/O5q7w4f2u</link>
 <guid>https://weibo.com/6105753431/O5q7w4f2u</guid>
 <content:encoded><![CDATA[
 <div> 大模型、交通信号控制、LightGPT、LLMLight框架、香港科技大学、实验证明、泛化能力、可解释性、透明化、开源  
-<br><br>总结:  
+<br /><br />总结:  
 研究团队提出了一种名为LightGPT的大模型，利用LLMLight框架实现交通信号控制，通过分析车辆排队情况和接近信号灯的情况，确定最佳的信号灯配置。实验证明了框架的有效性、泛化能力和可解释性，在各种交通流数据集上表现出色。LightGPT在交通信号控制任务上的决策能力比GPT-4更优，即使在复杂的路网下也表现出色。整体而言，该框架和大模型已经开源，为交通信号灯控制领域带来了新的可能性。 <div>
 【<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A7%E5%88%B6%E7%BA%A2%E7%BB%BF%E7%81%AF%23&amp;extparam=%23AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A7%E5%88%B6%E7%BA%A2%E7%BB%BF%E7%81%AF%23"><span class="surl-text">#AI大模型控制红绿灯#</span></a> 】<br />大模型“上路”，干起了交通信号控制（TSC）的活～<br /><br />模型名为LightGPT，以排队及不同区段快要接近信号灯的车辆对路口交通状况分析，进而确定最好的信号灯配置。<br /><br />该模型由香港科技大学（广州）的研究团队提出，其背后关键是一个名为LLMLight的框架。<br /><br />该框架向智能体提供详细的实时交通状况，并结合先验知识构成提示，利用大模型卓越的泛化能力，采用符合人类直觉的推理和决策过程来实现有效的交通控制。<br /><br />在九个交通流数据集上的实验证明了LLMLight框架的有效性、泛化能力和可解释性。<br /><br />具体来说，在真实数据集上，LLMLight在所有基准测试中始终达到了SOTA或与经典强化学习等方法同等的性能水平，并且拥有比后者更为强大的泛化性。<br /><br />同时，LLMLight还能在决策时提供背后的分析逻辑，这一可解释性实现了信号灯控制的透明化。<br /><br />TSC垂类大模型LightGPT在此任务上的决策能力显著优于GPT-4。<br /><br />即便在济南、杭州、纽约等复杂路网下，也展示出突出性能。<br /><br />目前，LLMLight框架、交通信号灯控制垂类大模型LightGPT已开源。<br /><a href="https://mp.weixin.qq.com/s/mF9hZkkQ4aJ1cAJ1vAFV9g"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hntz2tentmg30tz0hn7dh.gif" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 06:27:26 GMT</pubDate>
-<pubDate>Sun, 17 Mar 2024 06:27:26 GMT</pubDate>
 </item>
-
 <item>
 <title>#AI程序员Devin为修Bug潜入公司群聊# 首个AI程序员Devin，现身明星创业公司内部群。为解决一个技术问题，Devin借用了其创造者的账号，与客户公司的CTO交流，并根...</title>
 <link>https://weibo.com/6105753431/O5pulvJDD</link>
