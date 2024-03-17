@@ -220,3 +220,15 @@ Summarized using GPT-3.5-turbo
 Append: [#蚂蚁集团启动2024春招##2024蚂蚁集团春招# 春招季，AI话题依旧火热。这不，蚂蚁集团今年的春招海报就是用AI技术辅助制作的。评论区里聊金三银四招聘季投简历不...](https://weibo.com/6105753431/O5od1f2oz)
 append_entries: 1
 Finish: 2024-03-17 04:13:11.067797
+------------------------------------------------------
+Started: 2024-03-17 06:12:50.828541
+Existing_entries: 22
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 661
+Summarized using GPT-3.5-turbo
+Append: [#AI程序员Devin为修Bug潜入公司群聊# 首个AI程序员Devin，现身明星创业公司内部群。为解决一个技术问题，Devin借用了其创造者的账号，与客户公司的CTO交流，并根...](https://weibo.com/6105753431/O5pulvJDD)
+Token length: 527
+Summarized using GPT-3.5-turbo
+Append: [【#ChatGPT参数规模被扒只有7B# 】ChatGPT惨遭攻击，参数规模终于被扒出来了——很可能只有7B（70亿）。消息来自南加州大学最新研究，他们使用一种攻击方法，花...](https://weibo.com/6105753431/O5plQyr1S)
+append_entries: 2
+Finish: 2024-03-17 06:13:00.337098

@@ -5,20 +5,47 @@
 <link>https://weibo.com/6105753431/</link>
 
 <item>
+<title>#AI程序员Devin为修Bug潜入公司群聊# 首个AI程序员Devin，现身明星创业公司内部群。为解决一个技术问题，Devin借用了其创造者的账号，与客户公司的CTO交流，并根...</title>
+<link>https://weibo.com/6105753431/O5pulvJDD</link>
+<guid>https://weibo.com/6105753431/O5pulvJDD</guid>
+<content:encoded><![CDATA[
+<div> AI程序员、Devin、明星创业公司、内部群、技术问题、客户公司、CTO、代码方案、专业对话、办公软件Slack、截图、AI基础设施创业公司Modal Labs、 Akshat Bubna、Steven Hao、马甲、密钥生命周期、文档、部署流程、容器、手动管理、工单、人类开发者、Raunak Chowdhuri
+
+<br><br>总结:
+首个AI程序员Devin在明星创业公司内部群中解决技术问题，并与客户公司的CTO进行专业的对话。Devin对Modal Lab平台的密钥生命周期进行了询问，CTO解释了密钥更新后传播到正在运行的应用程序所需的时间。Devin决定采用手动方法来管理密钥，并通过调整代码方案实现。最终得到了其他AI创业者的认可，认为Devin的工作方式就像最好的人类开发者一样。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E7%A8%8B%E5%BA%8F%E5%91%98Devin%E4%B8%BA%E4%BF%AEBug%E6%BD%9C%E5%85%A5%E5%85%AC%E5%8F%B8%E7%BE%A4%E8%81%8A%23&amp;extparam=%23AI%E7%A8%8B%E5%BA%8F%E5%91%98Devin%E4%B8%BA%E4%BF%AEBug%E6%BD%9C%E5%85%A5%E5%85%AC%E5%8F%B8%E7%BE%A4%E8%81%8A%23"><span class="surl-text">#AI程序员Devin为修Bug潜入公司群聊#</span></a> <br /><br />首个AI程序员Devin，现身明星创业公司内部群。<br /><br />为解决一个技术问题，Devin借用了其创造者的账号，与客户公司的CTO交流，并根据回复调整了代码方案。<br /><br />对话之专业，围观者看了直呼这个世界太疯狂。<br /><br />事情发生在办公软件Slack，截图中的akshat是AI基础设施创业公司Modal Labs的CTO Akshat Bubna。Modal Labs也是Devin开发商Cognition的首批客户之一。<br /><br />此时Devin正披着他的创造者之一、IOI金牌得主Steven Hao的马甲。<br /><br />对话的开始，AI程序员Devin正在询问有关Modal Lab平台的密钥的生命周期问题，特别是密钥更新后传播到正在运行的应用程序所需的时间。<br /><br />Devin表示自己已经查阅了文档，包括密钥和环境变量指南、CLI命令参考、API参考以及容器生命周期钩子和参数，但依旧没有找到关于密钥传播时间的明确信息。<br /><br />Devin询问了更新的密钥通常需要多长时间才能被运行中的应用程序使用，因为这对于他们的运营至关重要，了解这一点将有助于管理他们的部署流程。<br /><br />人类CTO解释说，当密钥更新时，他们不会使已经运行的Modal容器失效，但是新启动的容器将会读取更新后的值。<br /><br />Devin对此表示感谢，并决定暂时采用手动方法来管理Modal中的密钥，即在需要时调用modal deploy命令来触发相关应用程序容器的重启。<br /><br />看完整个过程后，同样是AI创业者的Raunak Chowdhuri评价到：<br /><br />发现问题、创建工单、调整代码，最好的人类开发者就是这么工作的。<br /><br />Devin更多实测结果⬇️<br /><a href="https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247721173&amp;idx=1&amp;sn=3a678c14c8d6926270ff6127fb0ff43e&amp;chksm=e8dfd7a7dfa85eb17a50c816c9180f4683e01e21cadeda3546a1e6fa1affe19b4722474cd0b7&amp;token=331028475&amp;lang=zh_CN#rd"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">AI程序员Devin卧底工作群修bug！和CTO聊技术，网友：顶级码农水平</span></a><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hntwa791z6j30u00rhqh3.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hntwa5kqfvj30su0a60wh.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hntwab8q6mj30pm0o0wm5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hntwadc9pvj30qs0uewo4.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 04:50:55 GMT</pubDate>
+<pubDate>Sun, 17 Mar 2024 04:50:55 GMT</pubDate>
+</item>
+<item>
+<title>【#ChatGPT参数规模被扒只有7B# 】ChatGPT惨遭攻击，参数规模终于被扒出来了——很可能只有7B（70亿）。消息来自南加州大学最新研究，他们使用一种攻击方法，花...</title>
+<link>https://weibo.com/6105753431/O5plQyr1S</link>
+<guid>https://weibo.com/6105753431/O5plQyr1S</guid>
+<content:encoded><![CDATA[
+<div> 攻击、参数规模、南加大、破解、GPT-3.5-turbo、OpenAI、MoE架构、微软CODEFUSION、20B、7B
+<br>
+<br>
+总结:南加州大学团队成功攻击了ChatGPT，揭露出GPT-3.5-turbo模型的参数规模可能只有7B，借此挖掘出OpenAI的机密。攻击中破解出嵌入向量维度为4096或4608，暗示GPT-3.5-turbo参数规模大约在7B左右，除非采用了MoE架构。微软CODEFUSION论文泄露了GPT-3.5参数为20B，但后续被删除，引起猜测可能进行了再次压缩。这表明OpenAI具有强大的模型优化能力，能够在训练大模型后通过各种手段压缩、蒸馏出小模型，并保留原有性能。 <div>
+【<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23ChatGPT%E5%8F%82%E6%95%B0%E8%A7%84%E6%A8%A1%E8%A2%AB%E6%89%92%E5%8F%AA%E6%9C%897B%23&amp;extparam=%23ChatGPT%E5%8F%82%E6%95%B0%E8%A7%84%E6%A8%A1%E8%A2%AB%E6%89%92%E5%8F%AA%E6%9C%897B%23"><span class="surl-text">#ChatGPT参数规模被扒只有7B#</span></a>  】<br />ChatGPT惨遭攻击，参数规模终于被扒出来了——<br /><br />很可能只有7B（70亿）。<br /><br />消息来自南加州大学最新研究，他们使用一种攻击方法，花费不到1000美元就把最新版gpt-3.5-turbo模型的机密给挖了出来。<br /><br />果然，OpenAI不Open，自有别人帮他们Open。<br /><br />具体来说，南加大团队三位作者破解出了未公布的gpt-3.5-turbo嵌入向量维度（embedding size）为4096或4608。<br /><br />而几乎所有已知的开源大模型如Llama和Mistral，嵌入向量维度4096的时候都是约7B参数规模。<br /><br />其它比例的话就会造成网络过宽或过窄，已被证明对模型性能不利。<br /><br />因此南加大团队指出，可以推测gpt-3.5-turbo的参数规模也在7B左右，除非是MoE架构可能不同。<br /><br />数月前，曾有微软CODEFUSION论文意外泄露当时GPT-3.5模型参数为20B，在后续论文版本中又删除了这一信息。<br /><br />当时引起了一阵轩然大波，业界很多人分析并非不可能，先训练一个真正的千亿参数大模型，再通过种种手段压缩、蒸馏出小模型，并保留大模型的能力。<br /><br />而现在的7B，不知道是从一开始20B的消息就不准确，还是后来又再次压缩了。<br /><br />但无论是哪一种，都证明OpenAI有很恐怖的模型优化能力。<br /><a href="https://mp.weixin.qq.com/s/y0RQ0aOrHGLzLJKxbyGxMw"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">ChatGPT参数规模被扒：只有7B</span></a><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hntv21k5pnj30xa0iqwqt.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 04:30:00 GMT</pubDate>
+<pubDate>Sun, 17 Mar 2024 04:30:00 GMT</pubDate>
+</item>
+
+<item>
 <title>#蚂蚁集团启动2024春招##2024蚂蚁集团春招# 春招季，AI话题依旧火热。这不，蚂蚁集团今年的春招海报就是用AI技术辅助制作的。评论区里聊金三银四招聘季投简历不...</title>
 <link>https://weibo.com/6105753431/O5od1f2oz</link>
 <guid>https://weibo.com/6105753431/O5od1f2oz</guid>
 <content:encoded><![CDATA[
 <div> 蚂蚁集团、春招、AI技术、海报、技术人、大模型、应届毕业生、隐藏信息、毕业生、定夺
 
-<br><br>总结:
+<br /><br />总结:
 蚂蚁集团在今年的春招海报中使用了AI技术，引起了热烈讨论。许多人认为金三银四招聘季难投简历，AI技术展示了进步成果，吸引了毕业生的关注。海报背后还隐藏着许多信息，包括6个技术人物，显示了公司的技术实力。对应届毕业生来说，参与到AI时代进程中并不难理解。这些海报展示了蚂蚁集团的技术水平，值得毕业生们仔细了解并做出决定。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E5%90%AF%E5%8A%A82024%E6%98%A5%E6%8B%9B%23&amp;extparam=%23%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E5%90%AF%E5%8A%A82024%E6%98%A5%E6%8B%9B%23"><span class="surl-text">#蚂蚁集团启动2024春招#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%232024%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%98%A5%E6%8B%9B%23&amp;extparam=%232024%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%98%A5%E6%8B%9B%23"><span class="surl-text">#2024蚂蚁集团春招#</span></a> 春招季，AI话题依旧火热。<br /><br />这不，蚂蚁集团今年的春招海报就是用AI技术辅助制作的。评论区里聊金三银四招聘季投简历不易的，聊海报中传递的AI技术成果的，好不热闹。<br /><br />如今大模型进展如火如荼，应届毕业生想参与到AI这一时代进程中去也不难理解。<br /><br />蚂蚁集团为什么选择在春招海报上放这几个技术人呢？<br /><br />我仔细了解一番后发现，这6张海报的背后其实有不少隐藏信息。所以毕业生们，我们且先逐一来看看，然后再做定夺。<a href="https://mp.weixin.qq.com/s/Wh7IgJuG19FHOUz2xgJQ2w"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">蚂蚁集团春招海报选这6个人，背后到底有何意图</span></a><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hntqmnjsjfj39ij4vv4r1.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hntqmmmhe7j39ij4vvhe4.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hntqmorvclj39ij4vv7wu.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hntqmpsdggj39ij5f5e8f.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hntqmmn3rfj39ij4vv4r0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hntqmr3l2rj38pz4h7he5.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 01:35:30 GMT</pubDate>
-<pubDate>Sun, 17 Mar 2024 01:35:30 GMT</pubDate>
 </item>
-
 <item>
 <title>#国产大模型创业一哥秀商业化##智谱称已布局Sora赛道# 左手融钱，右手投资，还刚刚发布了过去一年与商业化博弈的成果。这就是智谱AI在发布ChatGLM千亿对话模型一...</title>
 <link>https://weibo.com/6105753431/O5gPMdpIT</link>

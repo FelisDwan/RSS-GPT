@@ -296,3 +296,21 @@ Summarized using GPT-3.5-turbo
 Append: [【整数标记化(tokenization)：语言模型数字处理的”bug"?】- GPT模型的整数标记化(tokenize)方式存在很大问题，这让模型学习数学知识和表示数学事实变得非常困难...](https://weibo.com/1402400261/O5nMx2bXx)
 append_entries: 4
 Finish: 2024-03-17 04:13:29.487923
+------------------------------------------------------
+Started: 2024-03-17 06:13:00.394197
+Existing_entries: 41
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 79
+Summarized using GPT-3.5-turbo
+Append: ['Transformers 库快速入门教程' GitHub: github.com/jsksxs360/How-to-use-Transformers #开源# #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O5pcFy2Gb)
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [【Flux 是一个 C++20 库，提供一系列用于序列处理的算法和适配器，类似于 C++20 ranges、Python itertools 和 Rust iterators】'Flux - A C++20 library for seq...](https://weibo.com/1402400261/O5p6WDJDd)
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [【StyleTTS 2: 可通过pip安装的Python包，用于实现人类水平的文本转语音和语音克隆】'StyleTTS 2: The Python Package - Pip installable package for StyleTTS ...](https://weibo.com/1402400261/O5oQCmWh7)
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.24 12:00，*可可粉*转发+评论即可参与。本书旨在揭开大语言模...](https://weibo.com/1402400261/O5oJlsK39)
+append_entries: 4
+Finish: 2024-03-17 06:13:19.087734
