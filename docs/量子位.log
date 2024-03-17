@@ -211,3 +211,12 @@ Existing_entries: 21
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-17 02:18:26.344300
+------------------------------------------------------
+Started: 2024-03-17 04:13:05.057453
+Existing_entries: 21
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [#蚂蚁集团启动2024春招##2024蚂蚁集团春招# 春招季，AI话题依旧火热。这不，蚂蚁集团今年的春招海报就是用AI技术辅助制作的。评论区里聊金三银四招聘季投简历不...](https://weibo.com/6105753431/O5od1f2oz)
+append_entries: 1
+Finish: 2024-03-17 04:13:11.067797

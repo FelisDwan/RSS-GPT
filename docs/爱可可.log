@@ -278,3 +278,21 @@ Summarized using GPT-3.5-turbo
 Append: [ACORN是一种新的、性能优异且不限制谓词类型的混合搜索方法，通过改良HNSW索引和引入谓词子图遍历来同时高效处理向量和结构化数据，克服了传统方法在性能和搜索...](https://weibo.com/1402400261/O5mPdmC1P)
 append_entries: 10
 Finish: 2024-03-17 02:19:11.699852
+------------------------------------------------------
+Started: 2024-03-17 04:13:11.117809
+Existing_entries: 37
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 611
+Summarized using GPT-3.5-turbo
+Append: [【对开源AI工具的观察总结】数据来源:- 通过GitHub搜索GPT、LLM和generative ai等关键词,结果分别为118K、590个、531个和38个。- 限定stars大于500的仓库,最终获...](https://weibo.com/1402400261/O5o4KnaXm)
+Token length: 608
+Summarized using GPT-3.5-turbo
+Append: [【Deepfakes：从数字现实到虚假现实】1. 深度伪造(Deepfakes)利用先进的人工智能技术,生成逼真的虚假图像、视频和音频。 - 利用游戏引擎(如Unreal Engine 5)模拟...](https://weibo.com/1402400261/O5nUy4lA5)
+Token length: 787
+Summarized using GPT-3.5-turbo
+Append: [【大型语言模型(LLM)文本生成的理论速度极限】- LLM文本生成是一个按词(token)顺序进行的过程，当前词生成时依赖之前的所有词的状态，不存在并行的可能。 - LLM...](https://weibo.com/1402400261/O5nRLvdhX)
+Token length: 632
+Summarized using GPT-3.5-turbo
+Append: [【整数标记化(tokenization)：语言模型数字处理的”bug"?】- GPT模型的整数标记化(tokenize)方式存在很大问题，这让模型学习数学知识和表示数学事实变得非常困难...](https://weibo.com/1402400261/O5nMx2bXx)
+append_entries: 4
+Finish: 2024-03-17 04:13:29.487923
