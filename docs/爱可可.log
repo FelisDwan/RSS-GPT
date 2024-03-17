@@ -386,3 +386,9 @@ Summarized using GPT-3.5-turbo
 Append: [【flybody是一个用于 MuJoCo 物理模拟和强化学习应用的果蝇模型，基于 Google DeepMind 和 HHMI Janelia 研究中心的相结合的作品，旨在建立果蝇体系生物物理模拟...](https://weibo.com/1402400261/O5qqjDbVj)
 append_entries: 10
 Finish: 2024-03-17 10:10:46.537098
+------------------------------------------------------
+Started: 2024-03-17 12:18:50.085931
+Existing_entries: 65
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-03-17 12:18:50.792370

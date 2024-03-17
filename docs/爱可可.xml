@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>几篇论文实现代码：《CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets》(ICLR 2024) GitHub: github.com/lifan-yuan/CRAFT [fig...</title>
 <link>https://weibo.com/1402400261/O5qIuBoo2</link>
@@ -11,20 +12,19 @@
 <content:encoded><![CDATA[
 <div> 关键词：自定义LLM，专业工具集，知识获取，红队行动，好奇心驱动，执行反馈，活体动画控制器，3D人体恢复，立体匹配，目标检测，语言模型协作解码，视频理解，第一人称视角，不确定性规划，图像到3D转换，扩散模型，口头反馈学习，通用视觉转换器，多语言隐语言，智能工作任务解决，数据过滤，脆弱性攻击，闭环检测，实时生成，视频理解，数据初始化，目标跟踪，极长序列理解，代码评估，物体变化评估，偏好优化，模型增强，风格转移，建模。
 
-总结：<br><br>
-1. 《CRAFT》介绍了通过创建和从专业工具集中检索个性化LLM的方法，提高了知识获取能力。<br>
-2. 《Curiosity-driven Red Teaming for Large Language Models》探讨了通过好奇心驱动的方式进行网络攻击红队行动。<br>
-3. 《Making Language Models Better Tool Learners with Execution Feedback》利用执行反馈提升语言模型的学习能力。<br>
-4. 《PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios》介绍了一种用于驾驶场景的行人动画控制器。<br>
-5. 《Score-Guided Diffusion for 3D Human Recovery》提出了一种评分引导的方法用于3D人体恢复。<br>
-6. 《Robust Synthetic-to-Real Transfer for Stereo Matching》探讨了立体匹配中合成到真实数据的转移问题。<br>
-7. 《Generative Region-Language Pretraining for Open-Ended Object Detection》介绍了用于目标检测的区域语言预训练方法。<br>
-8. 《Learning to Decode Collaboratively with Multiple Language Models》讨论了多语言模型协作解码的学习方式。<br>
-9. 《TempCompass: Do Video LLMs Really Understand Videos?》探究了视频理解中LLM的实际效果。<br>
-10. 《Can Vision-Language Models Think from a First-Person Perspective?》研究了视觉语言模型是否具备第一人称视角思维。<br> <div>
+总结：<br /><br />
+1. 《CRAFT》介绍了通过创建和从专业工具集中检索个性化LLM的方法，提高了知识获取能力。<br />
+2. 《Curiosity-driven Red Teaming for Large Language Models》探讨了通过好奇心驱动的方式进行网络攻击红队行动。<br />
+3. 《Making Language Models Better Tool Learners with Execution Feedback》利用执行反馈提升语言模型的学习能力。<br />
+4. 《PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios》介绍了一种用于驾驶场景的行人动画控制器。<br />
+5. 《Score-Guided Diffusion for 3D Human Recovery》提出了一种评分引导的方法用于3D人体恢复。<br />
+6. 《Robust Synthetic-to-Real Transfer for Stereo Matching》探讨了立体匹配中合成到真实数据的转移问题。<br />
+7. 《Generative Region-Language Pretraining for Open-Ended Object Detection》介绍了用于目标检测的区域语言预训练方法。<br />
+8. 《Learning to Decode Collaboratively with Multiple Language Models》讨论了多语言模型协作解码的学习方式。<br />
+9. 《TempCompass: Do Video LLMs Really Understand Videos?》探究了视频理解中LLM的实际效果。<br />
+10. 《Can Vision-Language Models Think from a First-Person Perspective?》研究了视觉语言模型是否具备第一人称视角思维。<br /> <div>
 几篇论文实现代码：<br />《CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets》(ICLR 2024) GitHub: github.com/lifan-yuan/CRAFT [fig3]<br />《Curiosity-driven Red Teaming for Large Language Models》(ICLR 2024) GitHub: github.com/Improbable-AI/curiosity_redteam<br />《Making Language Models Better Tool Learners with Execution Feedback》(NAACL 2024) GitHub: github.com/zjunlp/TRICE [fig6]<br />《PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios》(CVPR 2024) GitHub: github.com/IDC-Flash/PacerPlus<br />《Score-Guided Diffusion for 3D Human Recovery》(CVPR 2024) GitHub: github.com/statho/ScoreHMR<br />《Robust Synthetic-to-Real Transfer for Stereo Matching》(CVPR 2024) GitHub: github.com/jiaw-z/DKT-Stereo<br />《Generative Region-Language Pretraining for Open-Ended Object Detection》(CVPR 2024) GitHub: github.com/FoundationVision/GenerateU<br />《Learning to Decode Collaboratively with Multiple Language Models》(2024) GitHub: github.com/clinicalml/co-llm<br />《TempCompass: Do Video LLMs Really Understand Videos?》(2024) GitHub: github.com/llyx97/TempCompass [fig1]<br />《Can Vision-Language Models Think from a First-Person Perspective?》(2024) GitHub: github.com/AdaCheng/EgoThink<br />《Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in Large Language Models》(2024) GitHub: github.com/zhiyuanhubj/UoT [fig2]<br />《Envision3D: One Image to 3D with Anchor Views Interpolation》(2024) GitHub: github.com/PKU-YuanGroup/Envision3D<br />《DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models》(2024) GitHub: github.com/sekstini/basedxl<br />《RLVF: Learning from Verbal Feedback without Overgeneralization》(2024) GitHub: github.com/austrian-code-wizard/c3po<br />《GiT: Towards Generalist Vision Transformer through Universal Language Interface》(2024) GitHub: github.com/Haiyang-W/GiT [fig7]<br />《Do Llamas Work in English? On the Latent Language of Multilingual Transformers》(2024) GitHub: github.com/epfl-dlab/llm-latent-language<br />《WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?》(2024) GitHub: github.com/ServiceNow/WorkArena<br />《Superfiltering: Weak-to-Strong Data Filtering for Fast Instruction-Tuning》(2024) GitHub: github.com/tianyi-lab/Superfiltering [fig4] <br />《COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability》(NeurIPS 2024) GitHub: github.com/Yu-Fangxu/COLD-Attack [fig5]<br />《Effectively Detecting Loop Closures using Point Cloud Density Maps》(2024) GitHub: github.com/PRBonn/MapClosures [fig8] <br />《StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control.》(2024) GitHub: github.com/ironjr/StreamMultiDiffusion<br />《Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding》(2024) GitHub: github.com/OpenGVLab/video-mamba-suite [fig9]<br />《Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting》(2024) GitHub: github.com/KU-CVLAB/RAIN-GS<br />《VastTrack: Vast Category Visual Object Tracking》(2024) GitHub: github.com/HengLan/VastTrack<br />《InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory》(2024) GitHub: github.com/thunlp/InfLLM [fig10]<br />《LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code》(2024) GitHub: github.com/LiveCodeBench/LiveCodeBench<br />《ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes》(2024) GitHub: github.com/Muhammad-Huzaifaa/ObjectCompose [fig11]<br />《Reference-free Monolithic Preference Optimization with Odds Ratio》(2024) GitHub: github.com/xfactlab/orpo<br />《CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences》(2024) GitHub: github.com/martin-wey/CodeUltraFeedback <br />《DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation》(2024) GitHub: github.com/j96w/DexCap<br />《Strengthening Multimodal Large Language Model with Bootstrapped Preference Optimization》(2024) GitHub: github.com/pipilurj/BPO<br />《Grimoire is All You Need for Enhancing Large Language Models》(2024) GitHub: github.com/IAAR-Shanghai/Grimoire<br />《FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models》(2024) GitHub: github.com/FreeStyleFreeLunch/FreeStyle<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnu1peo3wfj244e1plkjl.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnu1pfjmrfj23qq0ukau1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnu1pg33q3j21480x6nb5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnu1pgtzc9j22c5276k96.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnu1ph7lzpj227u0ouqct.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnu1phyr60j23qt1z1tyo.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnu1pijfg4j21qg0o6dsd.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnu1pja928j21mj0kjdo2.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnu1pjvqsmj22880ymdsk.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnu1pkdxpdj21k20m40w9.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnu1pkywzjj21gg0jw108.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:58:32 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 07:58:32 GMT</pubDate>
 </item>
 <item>
@@ -34,11 +34,10 @@
 <content:encoded><![CDATA[
 <div> AI-in-a-Box、工程师、人工智能、机器学习、解决方案、快速、高质量、降低成本、降低风险
 
-<br><br>总结:
+<br /><br />总结:
 AI-in-a-Box是一个旨在帮助工程师建立人工智能和机器学习解决方案的工具。通过提供快速而高质量的解决方案，AI-in-a-Box可以降低架构师的成本，降低风险。工程师可以在GitHub上找到AI-in-a-Box的资源，帮助他们更有效地开发人工智能和机器学习项目。 <div>
 【AI-in-a-Box：旨在帮助工程师建立人工智能和机器学习解决方案，并提供快速而高质量的解决方案，以减少架构师的成本和降低风险】'AI-in-a-Box' GitHub: github.com/Azure/AI-in-a-Box <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnu1hqwzepj20m80cd0uv.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:50:59 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 07:50:59 GMT</pubDate>
 </item>
 <item>
@@ -53,7 +52,6 @@ AI-in-a-Box是一个旨在帮助工程师建立人工智能和机器学习解决
 【ShareGPT Builder：一个功能强大的 Flask 应用，用于创建和存储 ChatGPT 模型的训练样本，允许手动创建和存储 SFT 格式的聊天对话，并自动将其添加到 JSON 文件中，以便其他模型可访问】'ShareGPT Builder - a versatile Flask application that provides two key functionalities for training Language Learning Models (LLMs)’ GitHub: github.com/teknium1/ShareGPT-Builder <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnu1g28ioyj20u00v0tc9.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 07:49:20 GMT</pubDate>
-<pubDate>Sun, 17 Mar 2024 07:49:20 GMT</pubDate>
 </item>
 <item>
 <title>【视频生成相关研究列表】’A Collection of Video Generation Studies - A collection of awesome video generation studies.' GitHub: github.com/AlonzoLeeeo...</title>
@@ -62,11 +60,10 @@ AI-in-a-Box是一个旨在帮助工程师建立人工智能和机器学习解决
 <content:encoded><![CDATA[
 <div> GitHub、视频生成、研究、收藏、视频、生成、研究、集合、研究、学习
 
-<br><br>总结:
+<br /><br />总结:
 该GitHub仓库收集了一系列关于视频生成的研究，涵盖了各种有趣的视频生成研究，为视频生成领域的学习提供了丰富的资源。研究内容包括视频的生成方法、技术应用以及相关算法等，为研究者们提供了广阔的研究方向。通过这些研究，可以深入了解视频生成的原理和方法，为视频生成技术的进一步发展提供了参考和借鉴。GitHub上的资源丰富多样，对视频生成领域的研究有很大的帮助。 <div>
 【视频生成相关研究列表】’A Collection of Video Generation Studies - A collection of awesome video generation studies.' GitHub: github.com/AlonzoLeeeooo/awesome-video-generation <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnu1deazrtj21fo0g4ad5.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:47:07 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 07:47:07 GMT</pubDate>
 </item>
 <item>
@@ -76,11 +73,10 @@ AI-in-a-Box是一个旨在帮助工程师建立人工智能和机器学习解决
 <content:encoded><![CDATA[
 <div> 平台，婴儿，认知发展，研究，开源，数据，功能，分析，关键，GitHub
 
-<br><br>总结:
+<br /><br />总结:
 MIMo是一个用于研究婴儿认知发展的平台，提供关键数据和功能，开源且可用于分析婴儿认知发育。用户可以在GitHub上找到该平台的代码。MIMo是一个重要的工具，用于帮助研究人员深入研究婴儿认知发展的过程，并产生有价值的发现。 <div>
 【MIMo：用于婴儿认知发展研究的开源平台，提供分析婴儿认知发育的关键数据和功能】'MIMo - a platform for the research of the cognitive development of infants' GitHub: github.com/trieschlab/MIMo <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnu1c6ud7cj21bi0u0q89.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:45:42 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 07:45:42 GMT</pubDate>
 </item>
 <item>
@@ -88,11 +84,10 @@ MIMo是一个用于研究婴儿认知发展的平台，提供关键数据和功�
 <link>https://weibo.com/1402400261/O5qCu1PLb</link>
 <guid>https://weibo.com/1402400261/O5qCu1PLb</guid>
 <content:encoded><![CDATA[
-<div> 开源项目、本地保持匿名、Local RAG、LLM、RAG、文件提取、检索增强生成、无需第三方、敏感数据保护、GitHub<br><br>总结:
+<div> 开源项目、本地保持匿名、Local RAG、LLM、RAG、文件提取、检索增强生成、无需第三方、敏感数据保护、GitHub<br /><br />总结:
 Local RAG是一个开源项目，使用开源大预言模型（LLM）来提取文件并进行检索增强生成（RAG），并且能够在本地网络中保持匿名。该项目无需第三方参与，能够有效保护敏感数据的安全。GitHub链接为github.com/jonfairbanks/local-rag。 <div>
 【Local RAG：一个开源项目，使用 开源大预言模型 (LLM) 提取文件并进行检索增强生成 (RAG)，无需第三方或敏感数据，在本地保持匿名】'Local RAG - Ingest files for retrieval augmented generation (RAG) with open-source Large Language Models (LLMs), all without 3rd parties or sensitive data leaving your network.' GitHub: github.com/jonfairbanks/local-rag <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnu1a5h6fxj21g10u0q5e.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:43:43 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 07:43:43 GMT</pubDate>
 </item>
 <item>
@@ -102,11 +97,10 @@ Local RAG是一个开源项目，使用开源大预言模型（LLM）来提取�
 <content:encoded><![CDATA[
 <div> Python、库、自然语言处理、数据集、语言模型、模块、Web采集、文本、GPU加速、高质量
 
-<br><br>总结:
+<br /><br />总结:
 NeMo Curator是一个Python库，旨在帮助自然语言处理研究人员创建和处理数据集，用于训练大型语言模型。该库包含可扩展的模块，允许从无标注Web采集高质量文本，并提供GPU加速功能。通过NeMo Curator，研究人员可以更轻松地获取并处理文本数据，提高训练效率和模型性能。 <div>
 【NeMo Curator：一个 Python 库，用于创建和处理自然语言处理 (NLP) 数据集，以便训练大型语言模型 (LLM)。该库包含一些可扩展的模块，允许 NLP 研究人员从无标注 Web 采集高质量文本，并提供 GPU 加速功能】'NeMo Curator - Scalable toolkit for data curation' GitHub: github.com/NVIDIA/NeMo-Curator <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnu14hfnofj21ji0pgwln.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:38:13 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 07:38:13 GMT</pubDate>
 </item>
 <item>
@@ -115,11 +109,10 @@ NeMo Curator是一个Python库，旨在帮助自然语言处理研究人员创�
 <guid>https://weibo.com/1402400261/O5qwr6nHP</guid>
 <content:encoded><![CDATA[
 <div> Awesome List、项目、合集、抓取、资源、开发、技术、网站、GitHub、工具
-<br>这篇文章是关于各类Awesome List项目的合集，内容涵盖了各种技术、开发资源，以及可在GitHub上找到的工具和网站。这些列表项目汇总了相关领域的优质资源，为开发者提供了丰富的参考和学习资料。从这些列表中可以获取各种有用的信息和工具，帮助开发者提升技能和解决问题。整理这些Awesome List的合集是为了让开发者更便捷地找到他们所需的资源和工具，提升开发效率和技术水平。
-<br>总结: 这篇文章介绍了关于各类Awesome List项目的合集，涵盖了各种技术、开发资源和工具，为开发者提供了丰富的学习和参考资料。整理这些资源的目的是为了帮助开发者更便捷地获取他们所需的信息，提升技术水平。 <div>
+<br />这篇文章是关于各类Awesome List项目的合集，内容涵盖了各种技术、开发资源，以及可在GitHub上找到的工具和网站。这些列表项目汇总了相关领域的优质资源，为开发者提供了丰富的参考和学习资料。从这些列表中可以获取各种有用的信息和工具，帮助开发者提升技能和解决问题。整理这些Awesome List的合集是为了让开发者更便捷地找到他们所需的资源和工具，提升开发效率和技术水平。
+<br />总结: 这篇文章介绍了关于各类Awesome List项目的合集，涵盖了各种技术、开发资源和工具，为开发者提供了丰富的学习和参考资料。整理这些资源的目的是为了帮助开发者更便捷地获取他们所需的信息，提升技术水平。 <div>
 【超赞列表合集，从各类Awesome list项目抓取而来】“Awesome List” <a href="https://asmen.icopy.site/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnu0tfohbrj217q0om0xl.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:28:49 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 07:28:49 GMT</pubDate>
 </item>
 <item>
@@ -127,13 +120,12 @@ NeMo Curator是一个Python库，旨在帮助自然语言处理研究人员创�
 <link>https://weibo.com/1402400261/O5qsp2NdU</link>
 <guid>https://weibo.com/1402400261/O5qsp2NdU</guid>
 <content:encoded><![CDATA[
-<div> BrowserGym, Gym环境, Web任务自动化, 开源项目, Chrome浏览器, 自动化任务, 网站, 应用<br>
-<br>
-总结:<br>
+<div> BrowserGym, Gym环境, Web任务自动化, 开源项目, Chrome浏览器, 自动化任务, 网站, 应用<br />
+<br />
+总结:<br />
 BrowserGym是一个开源项目，提供了一个基于Chrome浏览器的Gym环境，用于自动化各种网站和应用的任务。用户可以通过BrowserGym在Chromium浏览器中进行Web任务自动化，提高效率并简化操作。这个项目在GitHub上有源代码，帮助用户更好地进行Web任务自动化。 <div>
 【BrowserGym: 用于 Web 任务自动化的开源项目，提供 Chrome 浏览器环境的 Gym 集成，用于自动化各种网站和应用的任务】’BrowserGym: a Gym Environment for Web Task Automation - BrowserGym, a gym environment for web task automation in the Chromium browser.' GitHub: github.com/ServiceNow/BrowserGym <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnu0kdzmk6j20yy0u0gp3.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:18:53 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 07:18:53 GMT</pubDate>
 </item>
 <item>
@@ -141,16 +133,14 @@ BrowserGym是一个开源项目，提供了一个基于Chrome浏览器的Gym环�
 <link>https://weibo.com/1402400261/O5qqjDbVj</link>
 <guid>https://weibo.com/1402400261/O5qqjDbVj</guid>
 <content:encoded><![CDATA[
-<div> 果蝇模型, MuJoCo 物理模拟, 强化学习, Google DeepMind, HHMI Janelia, 生物物理模拟平台, GitHub, TuragaLab, reinforcement learning, 任务<br>
-<br>
-总结:<br>
+<div> 果蝇模型, MuJoCo 物理模拟, 强化学习, Google DeepMind, HHMI Janelia, 生物物理模拟平台, GitHub, TuragaLab, reinforcement learning, 任务<br />
+<br />
+总结:<br />
 该项目将果蝇模型应用于 MuJoCo 物理模拟和强化学习任务，结合了 Google DeepMind 和 HHMI Janelia 的研究成果，旨在建立果蝇体系生物物理模拟平台。该项目的代码存储在 GitHub 上的 TuragaLab/flybody 项目中。通过这个模型，研究人员可以在仿真环境中进行果蝇的生物物理模拟和强化学习，为研究果蝇行为和神经系统提供了新的工具和资源。 <div>
 【flybody是一个用于 MuJoCo 物理模拟和强化学习应用的果蝇模型，基于 Google DeepMind 和 HHMI Janelia 研究中心的相结合的作品，旨在建立果蝇体系生物物理模拟平台】'flybody: fruit fly body model for MuJoCo physics - MuJoCo fruit fly body model and reinforcement learning tasks' GitHub: github.com/TuragaLab/flybody <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnu0elerekj219u0u00y4.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 07:13:44 GMT</pubDate>
-<pubDate>Sun, 17 Mar 2024 07:13:44 GMT</pubDate>
 </item>
-
 <item>
 <title>【Magix 是一个用于训练大规模语言模型的轻量工具，具有灵活的数据和模型平行功能】'Magix - Supercharge huggingface transformers with model parallelism.' G...</title>
 <link>https://weibo.com/1402400261/O5q959sOY</link>

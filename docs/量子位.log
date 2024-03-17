@@ -247,3 +247,12 @@ Existing_entries: 25
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-17 10:10:08.511300
+------------------------------------------------------
+Started: 2024-03-17 12:18:43.140027
+Existing_entries: 25
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 54
+Summarized using GPT-3.5-turbo
+Append: [【#朱啸虎到底看好怎样的AI应用#】朱啸虎对AI大模型大泼冷水，却唯独看好它。这家国产AIGC公司有什么特别之处，能早早靠还原现实赚钱？ 量子位的微博视频](https://weibo.com/6105753431/O5rvO3UwG)
+append_entries: 1
+Finish: 2024-03-17 12:18:50.005063
