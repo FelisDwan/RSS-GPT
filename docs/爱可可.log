@@ -242,3 +242,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [终于回家了，真好，晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O5jZIaKTk)
 append_entries: 0
 Finish: 2024-03-17 00:52:37.271855
+------------------------------------------------------
+Started: 2024-03-17 02:18:26.381476
+Existing_entries: 27
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 522
+Summarized using GPT-3.5-turbo
+Append: [【开源路上，别让心理健康成了绊脚石】1. 开源维护者面临的心理健康挑战: - 工作与生活平衡 - 来自社区的期望和压力 - 个人对完美的追求2. 作者的应对方式: - 放...](https://weibo.com/1402400261/O5nGUCOBu)
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1347期)：语言模型算法带来的改进速率评估、用合成数据进行模型高效评估、检索增强思维在长程生成中实现上下文感知推理、面向向量嵌入和结构化数据的...](https://weibo.com/1402400261/O5nfJ9Pv8)
+Token length: 291
+Summarized using GPT-3.5-turbo
+Append: [[LG] Poly-View Contrastive Learning 网页链接 展示了一种名为多视对比学习(Poly-View Contrastive Learning)的新框架，挑战了传统对比学习中常见的观点，即需...](https://weibo.com/1402400261/O5nbmvDDn)
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: [[CV] Score-Guided Diffusion for 3D Human Recovery 网页链接 介绍了一种名为Score-Guided Human Mesh Recovery(ScoreHMR)的新方法，用于解决3D人体姿态和形状...](https://weibo.com/1402400261/O5n8ZBO7k)
+Token length: 331
+Summarized using GPT-3.5-turbo
+Append: [[LG] Defending Against Unforeseen Failure Modes with Latent Adversarial Training 网页链接 深入探讨了AI系统部署后出现的意外行为，并提出一种新的防御手段...](https://weibo.com/1402400261/O5n6f85Bk)
+Token length: 303
+Summarized using GPT-3.5-turbo
+Append: [[LG] ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training 网页链接 提出PROTLLM，一个能同时处理蛋白质中心和蛋白质-语言任务的...](https://weibo.com/1402400261/O5n3Awz5o)
+Token length: 448
+Summarized using GPT-3.5-turbo
+Append: [[CL] CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences 网页链接 介绍了CodeUltraFeedback和CODAL-Ben...](https://weibo.com/1402400261/O5n0v593n)
+Token length: 247
+Summarized using GPT-3.5-turbo
+Append: [详尽分析了人工神经网络在持续学习过程中面临的灾难性遗忘挑战，探讨了六种主要的计算方法来提高持续学习能力，强调了在深度学习与认知科学之间建立联系的重要性...](https://weibo.com/1402400261/O5mVI6XCv)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Continual Learning and Catastrophic Forgetting》G M. v d Ven, N Soures, D Kudithipudi [KU Leuve & University of Texas at San Antonio] (2024) 网...](https://weibo.com/1402400261/O5mVF0Qpu)
+Token length: 317
+Summarized using GPT-3.5-turbo
+Append: [ACORN是一种新的、性能优异且不限制谓词类型的混合搜索方法，通过改良HNSW索引和引入谓词子图遍历来同时高效处理向量和结构化数据，克服了传统方法在性能和搜索...](https://weibo.com/1402400261/O5mPdmC1P)
+append_entries: 10
+Finish: 2024-03-17 02:19:11.699852

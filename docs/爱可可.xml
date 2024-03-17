@@ -4,6 +4,143 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>【开源路上，别让心理健康成了绊脚石】1. 开源维护者面临的心理健康挑战: - 工作与生活平衡 - 来自社区的期望和压力 - 个人对完美的追求2. 作者的应对方式: - 放...</title>
+<link>https://weibo.com/1402400261/O5nGUCOBu</link>
+<guid>https://weibo.com/1402400261/O5nGUCOBu</guid>
+<content:encoded><![CDATA[
+<div> 心理健康, 开源维护者, 压力, 应对方式, 社区, 建议, 展望, 资源, 可持续发展, 平衡
+
+总结:<br><br>本文探讨了开源维护者在面临心理健康挑战时的困境，包括工作与生活平衡、社区压力、追求完美等问题。作者提出了应对方式，如放慢节奏、写博客宣泄情绪、与社区沟通，以及对开源贡献者的建议，如设定合理预期、寻求帮助、关注自我等。同时，指出开源社区应营造友善氛围、关注心理健康、提供支持资源。关键在于不断学习调整，找到适合自己的方式，平衡投入和自我保护。 <div>
+【开源路上，别让心理健康成了绊脚石】<br />1. 开源维护者面临的心理健康挑战:<br />   - 工作与生活平衡<br />   - 来自社区的期望和压力<br />   - 个人对完美的追求<br />2. 作者的应对方式:<br />   - 放慢节奏,享受过程而非执着于立竿见影的结果<br />   - 写博客梳理思路,宣泄负面情绪<br />   - 与社区保持开诚布公的沟通<br />3. 作者对开源贡献者的建议:<br />   - 设定合理预期,接纳"够好"的结果<br />   - 必要时寻求帮助,与他人分享感受<br />   - 关注自我,投入个人生活与兴趣爱好<br />4. 作者对开源社区的展望:<br />   - 营造友善、包容的氛围<br />   - 关注贡献者的心理健康<br />   - 提供更多帮助和支持资源<br />5. 开源之路没有完美的解决方案,关键是不断学习、调整,找到适合自己的方式。<br /><br />点评:<br />1. 开源工作获得回报的周期较长,需要贡献者保持耐心和动力。<br />2. 部分评论质疑开源是否必然导致心理压力,认为关键在于自我管理。<br />3. 有建议指出,参与者应主动控制参与度,必要时"说不"以保障个人生活。<br />4. 开源社区应提供更多支持资源,如心理健康指南、互助小组等。<br />5. 开源项目的可持续发展,需要在贡献者投入和自我保护间找到平衡。<br /><br />《Mental Health in Open Source》 <a href="https://antfu.me/posts/mental-health-oss"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hntocrscepj20x00u0n1p.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 00:16:24 GMT</pubDate>
+<pubDate>Sun, 17 Mar 2024 00:16:24 GMT</pubDate>
+</item>
+<item>
+<title>今日推介(第1347期)：语言模型算法带来的改进速率评估、用合成数据进行模型高效评估、检索增强思维在长程生成中实现上下文感知推理、面向向量嵌入和结构化数据的...</title>
+<link>https://weibo.com/1402400261/O5nfJ9Pv8</link>
+<guid>https://weibo.com/1402400261/O5nfJ9Pv8</guid>
+<content:encoded><![CDATA[
+<div> 语言模型算法、改进速率评估、合成数据、模型高效评估、检索增强思维、长程生成、上下文感知推理、面向向量嵌入、结构化数据、高性能、谓词不可知搜索方法、持续学习、灾难性遗忘
+
+总结:<br><br>本文分析了语言模型算法带来的改进速率评估以及使用合成数据进行模型高效评估的方法。进一步讨论了检索增强思维在长程生成中实现上下文感知推理的重要性。同时介绍了面向向量嵌入和结构化数据的高性能和谓词不可知搜索方法的应用。最后，探讨了持续学习与灾难性遗忘的问题，为相关领域的研究提供了启示。 <div>
+今日推介(第1347期)：语言模型算法带来的改进速率评估、用合成数据进行模型高效评估、检索增强思维在长程生成中实现上下文感知推理、面向向量嵌入和结构化数据的高性能和谓词不可知搜索方法、持续学习与灾难性遗忘  公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/687438947"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(3.17)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hntmepeyz2j20k0094jsj.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hntmet15vnj20k00g50us.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hntmevbeezj20k00eptaq.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hntmezj2v6j20k00bfjs2.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hntmf23pboj20k006v0ty.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 23:09:24 GMT</pubDate>
+<pubDate>Sat, 16 Mar 2024 23:09:24 GMT</pubDate>
+</item>
+<item>
+<title>[LG] Poly-View Contrastive Learning 网页链接 展示了一种名为多视对比学习(Poly-View Contrastive Learning)的新框架，挑战了传统对比学习中常见的观点，即需...</title>
+<link>https://weibo.com/1402400261/O5nbmvDDn</link>
+<guid>https://weibo.com/1402400261/O5nbmvDDn</guid>
+<content:encoded><![CDATA[
+<div> 对比学习、多视对比学习、视角数量、样本总量、计算资源、训练周期、批次数量、表现优势、图像表示学习、高效性
+<br><br>总结:
+研究展示了一种新框架——多视对比学习，挑战了传统对比学习观点，证明增加单个样本的视角数量而非样本总量可以获得更好的表现。使用多视角对比模型，在限定的训练周期和批次设置下，可以超越传统对比学习模型的效果。这一研究改变了对大批量和长周期训练需求的传统看法，为图像表示学习提供了新方向，突显了高效性。 <div>
+[LG] Poly-View Contrastive Learning  <br /><a href="https://arxiv.org/abs/2403.05490"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />展示了一种名为多视对比学习(Poly-View Contrastive Learning)的新框架，挑战了传统对比学习中常见的观点，即需要大量样本和多个训练周期来提高性能。研究表明，通过增加单个样本的视角数量而非样本总量，可以在有限的计算资源下获得更优的表现。具体来说，使用多视角对比模型，在128个训练周期、每批次256个样本的设置下，就能超越标准对比学习模型SimCLR在1024个周期、每批次4096个样本的训练效果。该研究改变了对大批量和长周期训练需求的传统看法，为高效的图像表示学习指明了新方向。<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntm3w9ye2j213u1m2qoj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntm3wx3pxj21ui10awtc.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 22:58:40 GMT</pubDate>
+<pubDate>Sat, 16 Mar 2024 22:58:40 GMT</pubDate>
+</item>
+<item>
+<title>[CV] Score-Guided Diffusion for 3D Human Recovery 网页链接 介绍了一种名为Score-Guided Human Mesh Recovery(ScoreHMR)的新方法，用于解决3D人体姿态和形状...</title>
+<link>https://weibo.com/1402400261/O5n8ZBO7k</link>
+<guid>https://weibo.com/1402400261/O5n8ZBO7k</guid>
+<content:encoded><![CDATA[
+<div> Score-Guided Human Mesh Recovery, 3D人体姿态和形状重建, 扩散模型, 得分引导, 图像观测, 单帧模型拟合, 多视角重建, 视频序列, 基准测试
+
+<br><br>总结:
+本文介绍了一种新方法Score-Guided Human Mesh Recovery (ScoreHMR) 用于解决3D人体姿态和形状重建的逆问题。与传统方法不同，该方法利用扩散模型的潜空间并通过得分引导实现与图像观测的对齐。该方法在多项基准测试中展现出较高的准确性，有效提高了单帧模型拟合、多视角重建和视频序列中人体动作的精度，超越了所有优化基准模型。ScoreHMR不需要特定任务的扩散模型再训练，具有较高的实用性。 <div>
+[CV] Score-Guided Diffusion for 3D Human Recovery  <br /><a href="https://arxiv.org/abs/2403.09623"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />介绍了一种名为Score-Guided Human Mesh Recovery(ScoreHMR)的新方法，用于解决3D人体姿态和形状重建的逆问题。与传统优化或回归方法不同，ScoreHMR利用扩散模型的潜空间并通过得分引导来实现与图像观测的对齐。这种方法不需要对无依赖任务的扩散模型进行特定任务的再训练，有效地提高了单帧模型拟合、多视角重建和视频序列中人体动作的准确性，并在多项基准测试中超越了所有优化基准模型。<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntlxtzz9ij21a81ich9h.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntlxunm8nj21qa0y8dt3.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 22:52:50 GMT</pubDate>
+<pubDate>Sat, 16 Mar 2024 22:52:50 GMT</pubDate>
+</item>
+<item>
+<title>[LG] Defending Against Unforeseen Failure Modes with Latent Adversarial Training 网页链接 深入探讨了AI系统部署后出现的意外行为，并提出一种新的防御手段...</title>
+<link>https://weibo.com/1402400261/O5n6f85Bk</link>
+<guid>https://weibo.com/1402400261/O5n6f85Bk</guid>
+<content:encoded><![CDATA[
+<div> 潜对抗训练, 意外行为, 防御手段, 潜表示层, 压缩, 抽象, 结构化, 图像分类, 文本分类, 文本生成
+
+<br><br>
+
+总结: 本文深入探讨了AI系统部署后可能出现的意外行为，并提出了一种新的防御手段——潜对抗训练（LAT）。LAT通过在模型的潜表示层面干预，利用更加压缩、抽象和结构化的概念表示来防御未知的失败模式。实验证明，LAT在图像分类、文本分类和文本生成任务中，相比传统的对抗训练（AT），能提高模型对未知对抗样本类别的鲁棒性，同时移除特洛伊木马。这一发现显示LAT的潜力，为防御开发者无法明确识别的失败模式提供了可能的解决方案。 <div>
+[LG] Defending Against Unforeseen Failure Modes with Latent Adversarial Training  <br /><a href="https://arxiv.org/abs/2403.05030"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />深入探讨了AI系统部署后出现的意外行为，并提出一种新的防御手段：潜对抗训练(LAT)。LAT区别于传统的对抗训练(AT)，它不通过生成触发模型失败的输入，而是在模型的潜表示层面进行干预，利用网络对信息进行处理时构建的更加压缩、抽象和结构化的概念表示。通过在图像分类、文本分类和文本生成任务中的实验表明，与AT相比，LAT通常能在不损害干净数据性能的同时，提高模型对未见过的对抗样本类别的鲁棒性，并能移除特洛伊木马。这一发现表明LAT可以成为一种有前景的工具，用于防御开发者无法显式识别的失败模式。<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntlqrmnlzj212u1jctr6.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntlqql6xrj21hi1cudyi.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 22:46:03 GMT</pubDate>
+<pubDate>Sat, 16 Mar 2024 22:46:03 GMT</pubDate>
+</item>
+<item>
+<title>[LG] ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training 网页链接 提出PROTLLM，一个能同时处理蛋白质中心和蛋白质-语言任务的...</title>
+<link>https://weibo.com/1402400261/O5n3Awz5o</link>
+<guid>https://weibo.com/1402400261/O5n3Awz5o</guid>
+<content:encoded><![CDATA[
+<div> PROTLLM、蛋白质挂载机制、蛋白质词表、InterPT、跨模态大型语言模型、零样本学习、上下文学习、蛋白质中心任务、蛋白质-语言任务、预训练数据集
+
+<br><br>总结:
+PROTLLM是一个跨模态大型语言模型，具有动态蛋白质挂载机制，可以处理复杂输入中的任意数量蛋白质。通过专门的蛋白质词表，模型能够同时预测自然语言和蛋白质。研究构建了大规模的蛋白质-文本数据集InterPT用于预训练，融合了结构化和非结构化数据源。PROTLLM在蛋白质中心任务上表现优于基线模型，并展现出零样本学习和上下文学习的能力。这项研究为蛋白质-语言任务提供了新的解决方案，并为蛋白质研究领域带来了创新的进展。 <div>
+[LG] ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training  <br /><a href="https://arxiv.org/abs/2403.07920"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />提出PROTLLM，一个能同时处理蛋白质中心和蛋白质-语言任务的跨模态大型语言模型(LLM)。其特色是动态蛋白质挂载机制，使模型能够处理含有任意数量蛋白质的复杂输入。通过开发专门的蛋白质词表，模型能够从大量候选者中预测自然语言和蛋白质。构建了一个大规模交错的蛋白质-文本数据集InterPT用于预训练，融合了结构化和非结构化数据源。PROTLLM在蛋白质中心任务上优于专门的基线，并且在蛋白质-语言任务上展示了零样本和上下文学习能力。<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntljyrwk6j213a1je7nq.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntljzjjocj21fu11kakh.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 22:39:31 GMT</pubDate>
+<pubDate>Sat, 16 Mar 2024 22:39:31 GMT</pubDate>
+</item>
+<item>
+<title>[CL] CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences 网页链接 介绍了CodeUltraFeedback和CODAL-Ben...</title>
+<link>https://weibo.com/1402400261/O5n0v593n</link>
+<guid>https://weibo.com/1402400261/O5n0v593n</guid>
+<content:encoded><![CDATA[
+<div> CodeUltraFeedback, CODAL-Bench, 数据集, 大型语言模型, 编程偏好, AI反馈, LLM-as-a-Judge方法, 偏好优化, 微调, RLAIF, 功能正确性, CodeLlama-7B-Instruct模型, SFT, DPO
+
+总结:<br><br>本文介绍了CodeUltraFeedback和CODAL-Bench，提供了一套用于微调和评估大型语言模型(LLM)以符合编程偏好的数据集和基准。CodeUltraFeedback包含复杂指令，通过AI反馈调整LLM偏好，反映了五种编程偏好。利用LLM-as-a-Judge方法对LLM的响应进行了标注，包括数值评分和文本反馈。研究表明经过微调的CodeLlama-7B-Instruct模型在功能正确性和偏好对齐方面表现优于基础模型和更大的34B LLM。这证明了CodeUltraFeedback在偏好调整中的实用性，以及SFT和DPO在提升LLM与人类编程偏好对齐方面的潜力。 <div>
+[CL] CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences  <br /><a href="https://arxiv.org/abs/2403.09032"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />介绍了CodeUltraFeedback和CODAL-Bench，一套用于微调和评估大型语言模型(LLM)以符合编程偏好的数据集和基准。CodeUltraFeedback包含10000条复杂指令，用于通过AI反馈调整LLM偏好，反映了五种编程偏好。利用来自GPT-3.5的LLM-as-a-Judge方法，对LLM的响应进行了标注，包括数值评分和文本反馈。通过直接偏好优化(DPO)和AI反馈强化学习(RLAIF)的研究表明，经过微调的CodeLlama-7B-Instruct模型在功能正确性和偏好对齐方面均优于未微调的基础模型和更大的34B LLM。这证明了CodeUltraFeedback在偏好调整中的实用性，以及SFT和DPO在提升LLM与人类编程偏好对齐方面的潜力。<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntlc1minqj218a1ic4nd.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntlc27482j21b01c2du8.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntlc2bylej20y019cjyn.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 22:31:54 GMT</pubDate>
+<pubDate>Sat, 16 Mar 2024 22:31:54 GMT</pubDate>
+</item>
+<item>
+<title>详尽分析了人工神经网络在持续学习过程中面临的灾难性遗忘挑战，探讨了六种主要的计算方法来提高持续学习能力，强调了在深度学习与认知科学之间建立联系的重要性...</title>
+<link>https://weibo.com/1402400261/O5mVI6XCv</link>
+<guid>https://weibo.com/1402400261/O5mVI6XCv</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 人工神经网络，持续学习，灾难性遗忘，深度学习，认知科学，计算方法，互相启发，发展，联系，挑战
+
+总结:<br><br>
+本文详细分析了人工神经网络在持续学习过程中所面临的灾难性遗忘挑战，并通过探讨六种主要的计算方法来提高持续学习能力。作者强调了在深度学习与认知科学之间建立联系的重要性，旨在促进两个领域之间的互相启发和发展。文章指出，在人工智能领域持续学习是一个关键的问题，因为传统神经网络容易忘记之前学到的知识，导致新知识的学习会覆盖旧知识。为解决这一问题，提出了六种方法，包括反向传播、重放缓冲区、正交正则化、动态权重、增量学习和任务分解等。这些方法在一定程度上提高了人工神经网络的持续学习能力。同时，文章呼吁深度学习与认知科学之间建立更多的联系，通过相互启发和发展推动这两个领域的进步。这种综合性的研究方法可以为人工智能领域的持续学习问题带来新的突破。通过深入探讨人工神经网络如何应对灾难性遗忘挑战，可以不断提升其在持续学习任务中的表现，推动人工智能技术的发展。 <div>
+详尽分析了人工神经网络在持续学习过程中面临的灾难性遗忘挑战，探讨了六种主要的计算方法来提高持续学习能力，强调了在深度学习与认知科学之间建立联系的重要性，旨在推动两领域的互相启发和发展。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Continual Learning and Catastrophic Forgetting》G M. v d Ven, N Soures, D Kudithipudi [KU Leuve &amp; University of Texas at San Antonio] (2024) <a href="https://arxiv.org/abs/2403.05175"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntklqwed9j21eo0dwgs1.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntklrqmumj21na0motf2.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntklsa9x2j21n40kaaj9.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntklsujzaj21n20nk7cy.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntkznz89nj21120o7439.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 22:20:06 GMT</pubDate>
+<pubDate>Sat, 16 Mar 2024 22:20:06 GMT</pubDate>
+</item>
+<item>
+<title>[LG]《Continual Learning and Catastrophic Forgetting》G M. v d Ven, N Soures, D Kudithipudi [KU Leuve &amp; University of Texas at San Antonio] (2024) 网...</title>
+<link>https://weibo.com/1402400261/O5mVF0Qpu</link>
+<guid>https://weibo.com/1402400261/O5mVF0Qpu</guid>
+<content:encoded><![CDATA[
+<div> 学习，持续学习，灾难性遗忘，机器学习，人工智能，神经网络，模型，挑战，解决方案，实验<br>
+<br>
+总结:<br>
+本文讨论了持续学习和灾难性遗忘的问题，提出了一种解决方案来解决这一挑战。研究人员指出，传统的机器学习算法在面对持续学习任务时会出现灾难性遗忘的情况，导致已学习过的知识被遗忘。为了克服这一问题，他们提出了一种基于神经网络的方法，通过对模型进行增量学习和保留重要信息的方式来解决灾难性遗忘。研究人员进行了一系列实验来验证他们的方法的有效性，结果表明他们的方法在持续学习任务中具有较好的性能表现。这项研究为解决持续学习和灾难性遗忘问题提供了新的思路和方法。 <div>
+[LG]《Continual Learning and Catastrophic Forgetting》G M. v d Ven, N Soures, D Kudithipudi [KU Leuve &amp; University of Texas at San Antonio] (2024) <a href="https://arxiv.org/abs/2403.05175"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntklqwed9j21eo0dwgs1.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntklrqmumj21na0motf2.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntklsa9x2j21n40kaaj9.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntklsujzaj21n20nk7cy.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntkznz89nj21120o7439.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 22:19:59 GMT</pubDate>
+<pubDate>Sat, 16 Mar 2024 22:19:59 GMT</pubDate>
+</item>
+<item>
+<title>ACORN是一种新的、性能优异且不限制谓词类型的混合搜索方法，通过改良HNSW索引和引入谓词子图遍历来同时高效处理向量和结构化数据，克服了传统方法在性能和搜索...</title>
+<link>https://weibo.com/1402400261/O5mPdmC1P</link>
+<guid>https://weibo.com/1402400261/O5mPdmC1P</guid>
+<content:encoded><![CDATA[
+<div> ACORN, HNSW索引, 混合搜索方法, 向量数据, 结构化数据, 高性能, 不限制谓词类型, 复杂多模态数据集, 高查询吞吐量, 低构建开销
+
+<br><br>总结:
+研究介绍了一种新的混合搜索方法ACORN，它通过改良HNSW索引和引入谓词子图遍历来同时处理向量数据和结构化数据。ACORN能够高效处理复杂多模态数据集，克服了传统方法在性能和搜索谓词表达式上的限制。研究表明，ACORN实现了高查询吞吐量和低构建开销的优异性能，为搜索领域带来了新的可能性。 <div>
+ACORN是一种新的、性能优异且不限制谓词类型的混合搜索方法，通过改良HNSW索引和引入谓词子图遍历来同时高效处理向量和结构化数据，克服了传统方法在性能和搜索谓词表达式上的限制，实现了在复杂多模态数据集上的高查询吞吐量和低构建开销。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [IR]《ACORN: Performant and Predicate-Agnostic Search Over Vector Embeddings and Structured Data》L Patel, P Kraft, C Guestrin, M Zaharia [Stanford University &amp; DBOS, Inc &amp; UC Berkeley] (2024) <a href="https://arxiv.org/abs/2403.04871"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntkivhxhvj211e11eao2.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntkivwjjlj210y0l4wh3.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntkiwh65wj211a0tyjws.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntkiwpg9jj21160jetb3.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntkiy3hepj213s0e2gnl.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntkiy2ugdj20jg0d33zo.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntkiy3nidj213r0csgob.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntkiy2z5dj213m08qgn0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntkiy3nxyj20jg0f175q.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sat, 16 Mar 2024 22:04:06 GMT</pubDate>
+<pubDate>Sat, 16 Mar 2024 22:04:06 GMT</pubDate>
+</item>
 
 <item>
 <title>几篇论文实现代码：《DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization》(CVPR 2024) GitHub: github.c...</title>
