@@ -5,16 +5,150 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>【Magix 是一个用于训练大规模语言模型的轻量工具，具有灵活的数据和模型平行功能】'Magix - Supercharge huggingface transformers with model parallelism.' G...</title>
+<link>https://weibo.com/1402400261/O5q959sOY</link>
+<guid>https://weibo.com/1402400261/O5q959sOY</guid>
+<content:encoded><![CDATA[
+<div> Magix, huggingface, transformers, model parallelism, GitHub, 训练大规模语言模型, 轻量工具, 灵活的数据, 模型平行功能
+
+<br><br>总结:
+Magix 是一个用于训练大规模语言模型的轻量工具，能够有效地利用模型并行性，并具有灵活的数据和模型平行功能。通过 Magix，用户可以在 GitHub 上找到支持 model parallelism 的 huggingface transformers。Magix 的出现为训练大规模语言模型提供了更加高效和灵活的选择。 <div>
+【Magix 是一个用于训练大规模语言模型的轻量工具，具有灵活的数据和模型平行功能】'Magix - Supercharge huggingface transformers with model parallelism.' GitHub: github.com/luyug/magix <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hntz6t5nagj21e00pqjvg.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 06:31:17 GMT</pubDate>
+<pubDate>Sun, 17 Mar 2024 06:31:17 GMT</pubDate>
+</item>
+<item>
+<title>【ArXiv Paper Reader：旨在简化和流利的arXiv论文阅读，使用 LaTeX 代码转换为 HTML 页面，然后提取文本和公式，将其转换为视频，并创建与 PDF 文档匹配的图，...</title>
+<link>https://weibo.com/1402400261/O5q2nDkz5</link>
+<guid>https://weibo.com/1402400261/O5q2nDkz5</guid>
+<content:encoded><![CDATA[
+<div> 简化、流利、arXiv论文、LaTeX代码、HTML页面、提取文本、公式、视频、PDF文档、图像<br>
+<br>
+提供了一个名为ArXiv Paper Reader的工具，旨在简化和流利地阅读arXiv论文。该工具首先将LaTeX代码转换为HTML页面，然后提取文本、公式，并将其转换为视频。接着创建与PDF文档匹配的图像，并将文本分段并转换为音频。通过这种方式，用户可以更方便地理解和阅读arXiv论文，提高阅读效率。总的来说，这个工具为阅读arXiv论文提供了更加便捷的方式，使得用户可以更加愉快地进行学术阅读。<br><br>总结: <div>
+【ArXiv Paper Reader：旨在简化和流利的arXiv论文阅读，使用 LaTeX 代码转换为 HTML 页面，然后提取文本和公式，将其转换为视频，并创建与 PDF 文档匹配的图，以及文本分段并将其转换为音频】'ArXiv Paper Reader - Code behind Arxiv Papers' GitHub: github.com/imelnyk/ArxivPapers <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hntypo9wd3j221b0u0n1i.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 06:14:47 GMT</pubDate>
+<pubDate>Sun, 17 Mar 2024 06:14:47 GMT</pubDate>
+</item>
+<item>
+<title>【Skyvern 利用 LLM 和计算机视觉，自动化浏览器基础工作流。它提供一个简洁的 API 端点，允许完全自动化手动工作流，取代难以维护或易于故障的自动化解决方案】...</title>
+<link>https://weibo.com/1402400261/O5pYY8wLP</link>
+<guid>https://weibo.com/1402400261/O5pYY8wLP</guid>
+<content:encoded><![CDATA[
+<div> LLMs, 计算机视觉, 自动化, 浏览器, API, 手动工作流, 维护, 故障, 解决方案, GitHub<br><br>总结: Skyvern利用LLM和计算机视觉技术，自动化浏览器基础工作流。其提供了一个简洁的API端点，允许完全自动化手动工作流，取代难以维护或易于故障的自动化解决方案。该项目的GitHub链接为github.com/Skyvern-AI/skyvern。 <div>
+【Skyvern 利用 LLM 和计算机视觉，自动化浏览器基础工作流。它提供一个简洁的 API 端点，允许完全自动化手动工作流，取代难以维护或易于故障的自动化解决方案】'Skyvern - Automate browser-based workflows with LLMs and Computer Vision' GitHub: github.com/Skyvern-AI/skyvern <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hntygovm8aj213t0u0wgj.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 06:06:22 GMT</pubDate>
+<pubDate>Sun, 17 Mar 2024 06:06:22 GMT</pubDate>
+</item>
+<item>
+<title>【Pretzel是一个开源，在线浏览器式数据探索和可视化的工具，提供快速便捷的数据分析和可视化功能。它无需后台设置，可在浏览器中实时运行，无需任何服务器连接...</title>
+<link>https://weibo.com/1402400261/O5pPCFNVf</link>
+<guid>https://weibo.com/1402400261/O5pPCFNVf</guid>
+<content:encoded><![CDATA[
+<div> Pretzel, 开源, 在线浏览器, 数据探索, 可视化, 数据分析, 数据变换, 实时更新, DuckDB-Wasm, PRQL
+
+<br><br>总结:
+Pretzel是一个开源的在线浏览器式数据探索和可视化工具，无需后台设置，可实时在浏览器中运行，提供快速便捷的数据分析和可视化功能。用户可以通过视觉化的数据变换区块轻松操控数据，并实时更新所有与变换区块和图表相关的内容，使用了DuckDB-Wasm和PRQL技术。 <div>
+【Pretzel是一个开源，在线浏览器式数据探索和可视化的工具，提供快速便捷的数据分析和可视化功能。它无需后台设置，可在浏览器中实时运行，无需任何服务器连接。Pretzel通过视觉化的数据变换区块轻松操控数据，并实时更新所有与变换区块和图表相关的区块和图表】'Pretzel - Open-source, browser-local data exploration using DuckDB-Wasm and PRQL' GitHub: github.com/pretzelai/pretzelai <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hntxt0cgs0j21bz0u0qa8.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 05:43:21 GMT</pubDate>
+<pubDate>Sun, 17 Mar 2024 05:43:21 GMT</pubDate>
+</item>
+<item>
+<title>【扩散蒸馏相关论文资源列表】’Awesome-Diffusion-Distillation - A list of papers, docs, codes about diffusion distillation.This repo collects various d...</title>
+<link>https://weibo.com/1402400261/O5pF46IZu</link>
+<guid>https://weibo.com/1402400261/O5pF46IZu</guid>
+<content:encoded><![CDATA[
+<div> GitHub, papers, docs, codes, diffusion distillation, distillation methods<br>
+<br>
+总结：<br>
+这个GitHub仓库收集了关于扩散模型的各种蒸馏方法，欢迎贡献未被收录的相关作品（论文、代码库）。扩散蒸馏是一个重要的研究领域，通过这个仓库可以找到多种不同的蒸馏方法和资源。希望这个仓库可以帮助研究人员更好地了解和应用扩散蒸馏技术。 <div>
+【扩散蒸馏相关论文资源列表】’Awesome-Diffusion-Distillation - A list of papers, docs, codes about diffusion distillation.This repo collects various distillation methods for the Diffusion model. Welcome to PR the works (papers, repositories) missed by the repo.' GitHub: github.com/cantbebetter2/Awesome-Diffusion-Distillation <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hntwv7uq2gj20u80u0wj8.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 05:17:19 GMT</pubDate>
+<pubDate>Sun, 17 Mar 2024 05:17:19 GMT</pubDate>
+</item>
+<item>
+<title>【Recommender AI Agent: 使用大语言模型提供交互式推荐功能的agent】’Recommender AI Agent: Integrating Large Language Models for Interactive Recommendat...</title>
+<link>https://weibo.com/1402400261/O5pAps9gS</link>
+<guid>https://weibo.com/1402400261/O5pAps9gS</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Recommender AI Agent, 大语言模型, 交互式推荐, GitHub, Microsoft
+
+总结:<br><br>
+这篇文章介绍了一个名为'Recommender AI Agent'的项目，该项目利用大语言模型来提供交互式推荐功能。通过GitHub上的链接github.com/microsoft/RecAI 可以找到该项目的代码和资源。这个项目的目标是整合大语言模型，通过与用户的交互，为他们提供更加个性化的推荐服务。这种推荐代理的技术可以被应用到各种领域，帮助用户更快地找到他们感兴趣的内容。Microsoft是这个项目的背后支持者，展示了他们在人工智能和数据科学领域的实力和创新能力。通过这种新型推荐技术，用户可以享受到更加智能化和高效的推荐体验，提升用户体验和满意度。 <div>
+【Recommender AI Agent: 使用大语言模型提供交互式推荐功能的agent】’Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations' GitHub: github.com/microsoft/RecAI <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hntwpyjejsj21b70glgp4.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 05:05:52 GMT</pubDate>
+<pubDate>Sun, 17 Mar 2024 05:05:52 GMT</pubDate>
+</item>
+<item>
+<title>'Campus2025 - 2025届互联网校招信息汇总' GitHub: github.com/NAOSI-DLUT/Campus2025 #开源# #校招# [图片]</title>
+<link>https://weibo.com/1402400261/O5pyCbZZ7</link>
+<guid>https://weibo.com/1402400261/O5pyCbZZ7</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Campus2025, 2025届, 互联网, 校招, 信息, 汇总
+
+<br><br>总结:
+GitHub上有一个名为Campus2025的项目，汇总了2025届互联网校园招聘的信息。这个项目提供了一个集中查找各种互联网公司校招信息的平台，帮助学生更方便地了解招聘信息和机会。对于即将步入社会的2025届学生来说，这个项目提供了一个很好的资源，可以帮助他们更好地规划自己的职业发展方向。通过这个项目，学生可以及时了解各个互联网公司的招聘信息，选择最适合自己的发展方向和机会。整合了各种互联网公司的招聘信息，让学生可以更方便地比较和选择自己感兴趣的企业和岗位。建议2025届的学生多关注这个项目，及时了解就业信息，为自己的职业发展做好准备。 <div>
+'Campus2025 - 2025届互联网校招信息汇总' GitHub: github.com/NAOSI-DLUT/Campus2025 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%A0%A1%E6%8B%9B%23&amp;isnewpage=1"><span class="surl-text">#校招#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hntwle8h77j20un0u00wu.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 05:01:27 GMT</pubDate>
+<pubDate>Sun, 17 Mar 2024 05:01:27 GMT</pubDate>
+</item>
+<item>
+<title>【大模型数据增强相关文献资源列表】’Papers and resources on data augmentation using large models - The official GitHub page for the survey paper "A Su...</title>
+<link>https://weibo.com/1402400261/O5pxswqTp</link>
+<guid>https://weibo.com/1402400261/O5pxswqTp</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 数据增强, 大模型, 调查论文, GitHub, 资源, 机器学习, 深度学习
+
+总结:<br><br>
+这篇文章是关于在大模型时代中使用数据增强的调查论文。GitHub上有一份关于数据增强的官方调查论文页面，提供了大模型数据增强相关的论文和资源列表。该调查论文涵盖了数据增强在机器学习和深度学习中的应用，以及大模型时代如何利用数据增强来提升模型性能。通过研究论文和资源，我们可以更好地了解数据增强在大模型领域的应用和重要性，为我们在实践中更好地利用数据增强提供了指导和参考。 <div>
+【大模型数据增强相关文献资源列表】’Papers and resources on data augmentation using large models - The official GitHub page for the survey paper "A Survey on Data Augmentation in Large Model Era"' GitHub: github.com/MLGroup-JLU/LLM-data-aug-survey <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hntwi7n59vj210s0u0jxn.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hntwidk0cgj21480u0jwj.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 04:58:36 GMT</pubDate>
+<pubDate>Sun, 17 Mar 2024 04:58:36 GMT</pubDate>
+</item>
+<item>
+<title>【DRL-Based Trajectory Tracking (DRLTT) 是一个用于自动驾驶轨迹跟踪的开源项目，它结合深度强化学习(DRL)技术，并具有高效性和准确性的功能，可用于轨迹跟踪...</title>
+<link>https://weibo.com/1402400261/O5pshzWGg</link>
+<guid>https://weibo.com/1402400261/O5pshzWGg</guid>
+<content:encoded><![CDATA[
+<div> GitHub, DRL-Based Trajectory Tracking, 深度强化学习, 轨迹跟踪, 自动驾驶, 开源项目, 高效性, 准确性, 任务
+
+<br><br>总结:
+DRL-Based Trajectory Tracking (DRLTT) 是一个开源项目，采用深度强化学习技术，旨在实现自动驾驶轨迹跟踪任务。该项目结合了高效性和准确性的特点，提供了一个有效的解决方案。通过 GitHub 平台展示和分享，用户可以了解和参与该项目，促进自动驾驶技术的发展。 <div>
+【DRL-Based Trajectory Tracking (DRLTT) 是一个用于自动驾驶轨迹跟踪的开源项目，它结合深度强化学习(DRL)技术，并具有高效性和准确性的功能，可用于轨迹跟踪任务】'DRL-Based Trajectory Tracking (DRLTT) - DRL-based trajectory tracking.' GitHub: github.com/MARMOTatZJU/drl-based-trajectory-tracking <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hntw56a5v2j215e0u079l.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 04:45:51 GMT</pubDate>
+<pubDate>Sun, 17 Mar 2024 04:45:51 GMT</pubDate>
+</item>
+<item>
+<title>【Cpptrace：一个简洁、可移植和自建的 C++ stacktracker 库，支持 C++11 及更高版本的 Linux、macOS 和 Windows 运行环境，包括 MinGW 和 Cygwingwin。其目的是...</title>
+<link>https://weibo.com/1402400261/O5prI8BI3</link>
+<guid>https://weibo.com/1402400261/O5prI8BI3</guid>
+<content:encoded><![CDATA[
+<div> 简洁 可移植 自建 C++ stacktracker 库 C++11 Linux macOS Windows MinGW Cygwinwin<br>
+<br>总结:<br>Cpptrace是一个简洁、可移植和自建的 C++ stacktracker 库，支持C++11及更高版本，在Linux、macOS和Windows运行环境下可使用，包括MinGW和Cygwingwin。它的目的是简化堆栈追踪，使其变得更容易。Cpptrace库的GitHub地址为github.com/jeremy-rifkin/cpptrace。 <div>
+【Cpptrace：一个简洁、可移植和自建的 C++ stacktracker 库，支持 C++11 及更高版本的 Linux、macOS 和 Windows 运行环境，包括 MinGW 和 Cygwingwin。其目的是简化堆栈追踪，使其变得更容易】'Cpptrace - Simple, portable, and self-contained stacktrace library for C++11 and newer' GitHub: github.com/jeremy-rifkin/cpptrace <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23C%2B%2B%23"><span class="surl-text">#C++#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hntw3ow5brj20xc0u0tce.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 17 Mar 2024 04:44:26 GMT</pubDate>
+<pubDate>Sun, 17 Mar 2024 04:44:26 GMT</pubDate>
+</item>
+
+<item>
 <title>'Transformers 库快速入门教程' GitHub: github.com/jsksxs360/How-to-use-Transformers #开源# #机器学习# #人工智能# [图片]</title>
 <link>https://weibo.com/1402400261/O5pcFy2Gb</link>
 <guid>https://weibo.com/1402400261/O5pcFy2Gb</guid>
 <content:encoded><![CDATA[
 <div> Transformers, 库, 快速, 入门, 教程, GitHub, 使用, 教程, 详细
 
-<br><br>总结: 该GitHub仓库提供了一个关于如何快速入门使用Transformers库的教程，详细介绍了如何利用这个功能强大的库来进行自然语言处理和其他机器学习任务。通过阅读这篇教程，你能够了解Transformers库的基本功能和使用方法，帮助你更快地上手并应用于实际项目中。如果你对自然语言处理或机器学习感兴趣，不妨花一些时间学习这篇教程，会受益匪浅。 <div>
+<br /><br />总结: 该GitHub仓库提供了一个关于如何快速入门使用Transformers库的教程，详细介绍了如何利用这个功能强大的库来进行自然语言处理和其他机器学习任务。通过阅读这篇教程，你能够了解Transformers库的基本功能和使用方法，帮助你更快地上手并应用于实际项目中。如果你对自然语言处理或机器学习感兴趣，不妨花一些时间学习这篇教程，会受益匪浅。 <div>
 'Transformers 库快速入门教程' GitHub: github.com/jsksxs360/How-to-use-Transformers <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hntv14tvcoj21ii0u042p.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 04:07:23 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 04:07:23 GMT</pubDate>
 </item>
 <item>
@@ -23,11 +157,10 @@
 <guid>https://weibo.com/1402400261/O5p6WDJDd</guid>
 <content:encoded><![CDATA[
 <div> C++20, 库, Flux, 序列处理, 算法, 适配器, ranges, Python itertools, Rust iterators  
-<br><br>总结:  
+<br /><br />总结:  
 Flux 是一个 C++20 库，提供一系列用于序列处理的算法和适配器，类似于 C++20 ranges、Python itertools 和 Rust iterators。这个库可以让开发者更加方便地处理序列数据，提供了丰富的功能和工具。通过 Flux，开发者可以更高效地进行序列处理，实现更加复杂和灵活的操作。它为 C++ 程序员提供了一种简洁而强大的方式来处理序列数据，帮助他们提高代码的可读性和性能。Flux 库的开发者在 GitHub 上持续维护和更新，为广大开发者提供了一个优秀的序列处理工具。 <div>
 【Flux 是一个 C++20 库，提供一系列用于序列处理的算法和适配器，类似于 C++20 ranges、Python itertools 和 Rust iterators】'Flux - A C++20 library for sequence-orientated programming' GitHub: github.com/tcbrindle/flux <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hntumcqwwaj21ji0puq7x.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 03:53:17 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 03:53:17 GMT</pubDate>
 </item>
 <item>
@@ -37,11 +170,10 @@ Flux 是一个 C++20 库，提供一系列用于序列处理的算法和适配�
 <content:encoded><![CDATA[
 <div> StyleTTS 2, Python包, pip安装, 文本转语音, 语音克隆, GitHub, sidharthrajaram, 人类水平, 实现, 
 
-总结:<br><br>
+总结:<br /><br />
 这篇文章介绍了StyleTTS 2，一个Python包，可以通过pip安装，用于实现人类水平的文本转语音和语音克隆。该包提供了一种简单而有效的方法来实现高质量的语音合成和克隆，让用户能够快速轻松地创建自然流畅的语音内容。GitHub上有相关资源和文档，使用户可以更方便地了解和使用这个工具。如果你想要实现人类水平的文本转语音和语音克隆，不妨尝试使用StyleTTS 2这一方便易用的工具。 <div>
 【StyleTTS 2: 可通过pip安装的Python包，用于实现人类水平的文本转语音和语音克隆】'StyleTTS 2: The Python Package - Pip installable package for StyleTTS 2 human-level text-to-speech and voice cloning' GitHub: github.com/sidharthrajaram/StyleTTS2 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnttgd54x5j21ki0gu41j.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 03:13:03 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 03:13:03 GMT</pubDate>
 </item>
 <item>
@@ -51,13 +183,11 @@ Flux 是一个 C++20 库，提供一系列用于序列处理的算法和适配�
 <content:encoded><![CDATA[
 <div> 度小满、大语言模型、杨青、全彩印刷、实践性、知识体系、训练经验、干货满满、系统性、神秘面纱
 
-总结:<br><br>本书《大语言模型：原理与工程实践(全彩)》由度小满的杨青负责编写，深入解读大语言模型的内在机理和应用实践。书籍的特色在于系统性的知识体系和对实践性的重视，配有代码并采用全彩印刷，内容充实且实用。作者作为大语言模型实践者，分享了他在十亿、百亿、千亿参数规模大语言模型训练方面的丰富经验，这些经验都被真诚而详尽地呈现在书中。通过本书，读者能够全面了解大语言模型的运作原理和实际应用，深入学习大模型的构建和训练方法，是一本值得一读的权威指南。 <div>
+总结:<br /><br />本书《大语言模型：原理与工程实践(全彩)》由度小满的杨青负责编写，深入解读大语言模型的内在机理和应用实践。书籍的特色在于系统性的知识体系和对实践性的重视，配有代码并采用全彩印刷，内容充实且实用。作者作为大语言模型实践者，分享了他在十亿、百亿、千亿参数规模大语言模型训练方面的丰富经验，这些经验都被真诚而详尽地呈现在书中。通过本书，读者能够全面了解大语言模型的运作原理和实际应用，深入学习大模型的构建和训练方法，是一本值得一读的权威指南。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.24 12:00，*可可粉*转发+评论即可参与。本书旨在揭开大语言模型的神秘面纱，透彻地解读其内在机理和应用实践。一大特色体现在其知识体系的系统性，另一大特色是对实践性的重视。配代码、全彩印刷。本书作者杨青是度小满轩辕大模型负责人，作为真正的大语言模型实践者，拥有十亿、百亿、千亿等不同参数规模大语言模型的训练经验。在本书中，这些经验都被毫无保留地融入其中，干货满满，绝非空谈。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5012867076850203"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb85d5j20m90m9jw5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8np7j20m90m90vz.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8bphj20m90m9789.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb9t7fj20m90m9dph.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvb8gi3j20m90m90xl.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvbf5k1j21hc0u0wud.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvbadpbj21dd0rsguo.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntsvbag7dj20rs0rs793.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb7ig9j20rs0m841y.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 02:55:08 GMT</pubDate>
-<pubDate>Sun, 17 Mar 2024 02:55:08 GMT</pubDate>
 </item>
-
 <item>
 <title>【对开源AI工具的观察总结】数据来源:- 通过GitHub搜索GPT、LLM和generative ai等关键词,结果分别为118K、590个、531个和38个。- 限定stars大于500的仓库,最终获...</title>
 <link>https://weibo.com/1402400261/O5o4KnaXm</link>

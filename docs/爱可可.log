@@ -314,3 +314,39 @@ Summarized using GPT-3.5-turbo
 Append: [#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.24 12:00，*可可粉*转发+评论即可参与。本书旨在揭开大语言模...](https://weibo.com/1402400261/O5oJlsK39)
 append_entries: 4
 Finish: 2024-03-17 06:13:19.087734
+------------------------------------------------------
+Started: 2024-03-17 08:12:35.776965
+Existing_entries: 45
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [【Magix 是一个用于训练大规模语言模型的轻量工具，具有灵活的数据和模型平行功能】'Magix - Supercharge huggingface transformers with model parallelism.' G...](https://weibo.com/1402400261/O5q959sOY)
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [【ArXiv Paper Reader：旨在简化和流利的arXiv论文阅读，使用 LaTeX 代码转换为 HTML 页面，然后提取文本和公式，将其转换为视频，并创建与 PDF 文档匹配的图，...](https://weibo.com/1402400261/O5q2nDkz5)
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [【Skyvern 利用 LLM 和计算机视觉，自动化浏览器基础工作流。它提供一个简洁的 API 端点，允许完全自动化手动工作流，取代难以维护或易于故障的自动化解决方案】...](https://weibo.com/1402400261/O5pYY8wLP)
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: [【Pretzel是一个开源，在线浏览器式数据探索和可视化的工具，提供快速便捷的数据分析和可视化功能。它无需后台设置，可在浏览器中实时运行，无需任何服务器连接...](https://weibo.com/1402400261/O5pPCFNVf)
+Token length: 314
+Summarized using GPT-3.5-turbo
+Append: [【扩散蒸馏相关论文资源列表】’Awesome-Diffusion-Distillation - A list of papers, docs, codes about diffusion distillation.This repo collects various d...](https://weibo.com/1402400261/O5pF46IZu)
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [【Recommender AI Agent: 使用大语言模型提供交互式推荐功能的agent】’Recommender AI Agent: Integrating Large Language Models for Interactive Recommendat...](https://weibo.com/1402400261/O5pAps9gS)
+Token length: 73
+Summarized using GPT-3.5-turbo
+Append: ['Campus2025 - 2025届互联网校招信息汇总' GitHub: github.com/NAOSI-DLUT/Campus2025 #开源# #校招# [图片]](https://weibo.com/1402400261/O5pyCbZZ7)
+Token length: 233
+Summarized using GPT-3.5-turbo
+Append: [【大模型数据增强相关文献资源列表】’Papers and resources on data augmentation using large models - The official GitHub page for the survey paper "A Su...](https://weibo.com/1402400261/O5pxswqTp)
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: [【DRL-Based Trajectory Tracking (DRLTT) 是一个用于自动驾驶轨迹跟踪的开源项目，它结合深度强化学习(DRL)技术，并具有高效性和准确性的功能，可用于轨迹跟踪...](https://weibo.com/1402400261/O5pshzWGg)
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [【Cpptrace：一个简洁、可移植和自建的 C++ stacktracker 库，支持 C++11 及更高版本的 Linux、macOS 和 Windows 运行环境，包括 MinGW 和 Cygwingwin。其目的是...](https://weibo.com/1402400261/O5prI8BI3)
+append_entries: 10
+Finish: 2024-03-17 08:13:12.833509

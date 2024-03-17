@@ -232,3 +232,12 @@ Summarized using GPT-3.5-turbo
 Append: [【#ChatGPT参数规模被扒只有7B# 】ChatGPT惨遭攻击，参数规模终于被扒出来了——很可能只有7B（70亿）。消息来自南加州大学最新研究，他们使用一种攻击方法，花...](https://weibo.com/6105753431/O5plQyr1S)
 append_entries: 2
 Finish: 2024-03-17 06:13:00.337098
+------------------------------------------------------
+Started: 2024-03-17 08:12:29.552981
+Existing_entries: 24
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 458
+Summarized using GPT-3.5-turbo
+Append: [【#AI大模型控制红绿灯# 】大模型“上路”，干起了交通信号控制（TSC）的活～模型名为LightGPT，以排队及不同区段快要接近信号灯的车辆对路口交通状况分析，进而...](https://weibo.com/6105753431/O5q7w4f2u)
+append_entries: 1
+Finish: 2024-03-17 08:12:35.715299
