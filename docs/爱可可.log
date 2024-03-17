@@ -408,3 +408,10 @@ Summarized using GPT-3.5-turbo
 Append: [《爱可可微博热门分享(3.17)》 爱可可微博热门分享(3.17) [图片]](https://weibo.com/1402400261/O5tkBDmpW)
 append_entries: 1
 Finish: 2024-03-17 16:12:05.737233
+------------------------------------------------------
+Started: 2024-03-17 18:12:22.514108
+Existing_entries: 66
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O5tllm1rL)
+append_entries: 0
+Finish: 2024-03-17 18:12:22.600051
