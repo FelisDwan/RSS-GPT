@@ -266,3 +266,12 @@ Existing_entries: 14
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-03-18 04:13:07.972475
+------------------------------------------------------
+Started: 2024-03-18 06:15:19.278556
+Existing_entries: 14
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [一个专注于 ComfyUI 的作者，把他公开的工作流整理并开源到 GitHub 上。一共有 36 个，分为 14 大类，涵盖了 Stable Scascade、3D、LLM+SD、Portrait Master、SV...](https://weibo.com/5722964389/O5yAbdbar)
+append_entries: 1
+Finish: 2024-03-18 06:15:24.101298
