@@ -346,3 +346,23 @@ Existing_entries: 34
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-18 10:12:13.306030
+------------------------------------------------------
+Started: 2024-03-18 12:19:15.227434
+Existing_entries: 34
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 58
+Summarized using GPT-3.5-turbo
+Append: [【#马斯克AI大模型Grok开源#】和OpenAI正面刚？马斯克Grok正式开源，3140亿参数，是当前全球最大开源模型。国产大模型公司有福了。 量子位的微博视频](https://weibo.com/6105753431/O5Bkscx4a)
+Token length: 41
+Summarized using GPT-3.5-turbo
+Append: [⏰ AIGC评选报名最后2周！我们正在寻找值得关注的企业与产品 [并不简单]欢迎报名评选！ ⏰ AIGC评选报名最后2周！我们正在寻找值得关注的企业与产品—— [图片]](https://weibo.com/6105753431/O5BaaESMP)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [【#大模型带货家居家电#】都说今年是大模型落地元年，但实际进展还是快得超出想象了。这不，在一年一度的AWE（中国家电及消费电子博览会）现场，我们发现大模型...](https://weibo.com/6105753431/O5AVHrv6s)
+Token length: 2
+Summarized using GPT-3.5-turbo
+Append: [#Meta新神经接口##通过手腕跟踪来自大脑的信号# 量子位的微博视频](https://weibo.com/6105753431/O5AozAaeW)
+Append: [【#全球首个类Sora开源复现方案#】全球首个开源的类Sora架构视频生成模型，来了！整个训练流程，包括数据处理、所有训练细节和模型权重，全部开放。这就是刚刚发...](https://weibo.com/6105753431/O5zWcnxLZ)
+Append: [#Midjourney角色一致性功能展示# （cr.@minchoi） [图片][图片][图片][图片][图片][图片][图片][图片][图片]](https://weibo.com/6105753431/O5zVOAdFb)
+append_entries: 6
+Finish: 2024-03-18 12:19:33.183175
