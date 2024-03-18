@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【Mistral-7b模型DPO微调实战】《Fine-tune a Mistral-7b model with Direct Preference Optimization | by Maxime Labonne | Towards Data Science》 网页链接 ...</title>
 <link>https://weibo.com/1402400261/O5zuA01tt</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> 模型微调、Mistral-7b、DPO、实战、Direct Preference Optimization、Maxime Labonne、Towards Data Science  
 
-<br>总结: 本文介绍了如何使用Direct Preference Optimization (DPO)技术对Mistral-7b模型进行微调。作者详细讲解了DPO的原理和操作步骤，以及如何在实战中应用这一技术来提高模型性能。通过对模型进行微调，可以更好地适应特定任务需求，提升模型的表现效果。文章为想要了解和应用DPO微调的人提供了有用的指导和思路。 <div>
+<br />总结: 本文介绍了如何使用Direct Preference Optimization (DPO)技术对Mistral-7b模型进行微调。作者详细讲解了DPO的原理和操作步骤，以及如何在实战中应用这一技术来提高模型性能。通过对模型进行微调，可以更好地适应特定任务需求，提升模型的表现效果。文章为想要了解和应用DPO微调的人提供了有用的指导和思路。 <div>
 【Mistral-7b模型DPO微调实战】《Fine-tune a Mistral-7b model with Direct Preference Optimization | by Maxime Labonne | Towards Data Science》 <a href="https://towardsdatascience.com/fine-tune-a-mistral-7b-model-with-direct-preference-optimization-708042745aac"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnv4fpp48tj20u00vqn3w.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnv4g7mtn0j212w0ecac3.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 06:18:58 GMT</pubDate>
 <pubDate>Mon, 18 Mar 2024 06:18:58 GMT</pubDate>
 </item>
 <item>
@@ -24,10 +24,9 @@
 <content:encoded><![CDATA[
 <div> 关键词: Grok-1, Elon Musk, xAI, 开源, Apache 2.0, Mixture-of-Experts, AI技术, 创新, OpenAI, 大众化
 
-总结:<br><br>Elon Musk的xAI公司开发了3140亿参数的大型语言模型Grok-1，并以Apache 2.0许可证开源发布其基础模型权重和网络架构。这一举措旨在推动AI技术的大众化，提高可及性，鼓励创新和知识共享。Grok-1采用Mixture-of-Experts架构，提高效率，但性能仍落后于GPT-4。开源Grok-1引发了关于Musk对OpenAI的“反击”和AI公司商业模式的讨论，但也有利于促进AI技术的发展，体现了AI领域复杂的利益博弈。 Musk的举动反映了他对于开源理念的批评，致力于推动AI透明发展的理念。Gro-1作为大型语言模型的技术细节的披露也具有一定的创新性，探索了AI公司通常保密的内容。 <div>
+总结:<br /><br />Elon Musk的xAI公司开发了3140亿参数的大型语言模型Grok-1，并以Apache 2.0许可证开源发布其基础模型权重和网络架构。这一举措旨在推动AI技术的大众化，提高可及性，鼓励创新和知识共享。Grok-1采用Mixture-of-Experts架构，提高效率，但性能仍落后于GPT-4。开源Grok-1引发了关于Musk对OpenAI的“反击”和AI公司商业模式的讨论，但也有利于促进AI技术的发展，体现了AI领域复杂的利益博弈。 Musk的举动反映了他对于开源理念的批评，致力于推动AI透明发展的理念。Gro-1作为大型语言模型的技术细节的披露也具有一定的创新性，探索了AI公司通常保密的内容。 <div>
 【Grok-1开源：Musk的AI大众化还是对OpenAI的"报复"?】<br />- Grok-1是由Elon Musk的xAI公司开发的大型语言模型，具有3140亿个参数。  <br />- xAI决定以Apache 2.0许可证的形式开源发布Grok-1的基础模型权重和网络架构。  <br />- 这是Grok-1预训练阶段的原始基础模型检查点，未经过任何特定任务的微调。  <br />- Grok-1采用Mixture-of-Experts(MoE)架构，每个token只激活25%的权重，提高了效率。  <br />- xAI团队使用自主开发的基于Kubernetes、Rust和JAX的定制训练栈，在短短4个月内从头训练出Grok。  <br />- 开源Grok-1是为了促进AI技术的大众化，提高可及性，鼓励创新和知识共享。  <br />- 这一举措反映了Musk对OpenAI等公司背离开源理念的批评，体现了他推动AI透明发展的理念。  <br /><br />思考：  <br />- 披露了Grok-1作为一款大型语言模型的技术细节，这在AI公司通常都是保密的，具有一定的创新性。  <br />- 尽管Grok-1的性能优于GPT-3.5，但仍落后于GPT-4等顶尖模型，引发了网友对其实际能力的质疑。  <br />- 有观点认为，开源Grok-1只是Musk对OpenAI的一次"反击"，质疑其真正目的是否在于推动AI大众化。  <br />- 另一方面，也有观点认为，即使出于某种动机，开源本身就是一种进步，有利于促进AI技术的发展。  <br />- 引发了大众对AI公司商业模式、开源与闭源码之争的深入思考，体现了AI领域复杂的利益博弈。<br />《Open Release of Grok-1》 <a href="https://x.ai/blog/grok-os"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnv4cloolbj210a0u0wl5.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 06:15:21 GMT</pubDate>
 <pubDate>Mon, 18 Mar 2024 06:15:21 GMT</pubDate>
 </item>
 <item>
@@ -37,10 +36,9 @@
 <content:encoded><![CDATA[
 <div> Dynamic Adapter, Prompt Tuning, Parameter-Efficient, Transfer Learning, Point Cloud Analysis, Dense Predictions, Vision Transformer, Convolutional Multi-scale Feature Interaction, Pretrained Model Merging, Decompiling Binary Code, Large Language Models, Open Graph Foundation Models, Graph Structure Learning, Variational Learning, Deep Networks, Low-bit Diffusion Model Quantization, Selective Finetuning
 
-<br><br>总结:《Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis》提出了一种参数高效的迁移学习方法，通过动态适配器和提示调整技术实现点云分析。《ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions》结合了视觉Transformer和卷积多尺度特征交互，用于密集预测任务。《Training-free Pretrained Model Merging》介绍了一种无需训练的预训练模型融合方法。《LLM4Decompile: Decompiling Binary Code with Large Language Models》展示了使用大型语言模型进行反汇编的方法。《OpenGraph: Towards Open Graph Foundation Models》提出了开放图基础模型的概念。《GraphEdit: Large Language Models for Graph Structure Learning》利用大型语言模型学习图结构信息。《Variational Learning is Effective for Large Deep Networks》表明变分学习对于大型深度网络是有效的。《QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning》提出了一种低比特扩散模型量化方法，通过高效的选择性微调实现。 <div>
+<br /><br />总结:《Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis》提出了一种参数高效的迁移学习方法，通过动态适配器和提示调整技术实现点云分析。《ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions》结合了视觉Transformer和卷积多尺度特征交互，用于密集预测任务。《Training-free Pretrained Model Merging》介绍了一种无需训练的预训练模型融合方法。《LLM4Decompile: Decompiling Binary Code with Large Language Models》展示了使用大型语言模型进行反汇编的方法。《OpenGraph: Towards Open Graph Foundation Models》提出了开放图基础模型的概念。《GraphEdit: Large Language Models for Graph Structure Learning》利用大型语言模型学习图结构信息。《Variational Learning is Effective for Large Deep Networks》表明变分学习对于大型深度网络是有效的。《QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning》提出了一种低比特扩散模型量化方法，通过高效的选择性微调实现。 <div>
 几篇论文实现代码：<br />《Dynamic Adapter Meets Prompt Tuning:<br />Parameter-Efficient Transfer Learning for Point Cloud Analysis》(CVPR 2024) GitHub: github.com/LMD0311/DAPT [fig3] <br />《ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions》(CVPR 2024) GitHub: github.com/Traffic-X/ViT-CoMer [fig4] <br />《Training-free Pretrained Model Merging》(CVPR 2024) GitHub: github.com/zju-vipa/training_free_model_merging<br />《LLM4Decompile: Decompiling Binary Code with Large Language Models》(2024) GitHub: github.com/albertan017/LLM4Decompile [fig1]<br />《OpenGraph: Towards Open Graph Foundation Models》(2024) GitHub: github.com/HKUDS/OpenGraph [fig2] <br />《GraphEdit: Large Language Models for Graph Structure Learning》(2024) GitHub: github.com/HKUDS/GraphEdit [fig5] <br />《Variational Learning is Effective for Large Deep Networks》(2024) GitHub: github.com/team-approx-bayes/ivon<br />《QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning》(2024) GitHub: github.com/hatchetProject/QuEST<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnv2v4e953j243r4v5e82.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnv32rj34xj224i0dan57.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnv36w50wqj21cy0k0gsb.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnv3ik1f5wj21ch09yq7y.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnv3l0345lj248p1mvqv6.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 06:07:30 GMT</pubDate>
 <pubDate>Mon, 18 Mar 2024 06:07:30 GMT</pubDate>
 </item>
 <item>
@@ -50,11 +48,10 @@
 <content:encoded><![CDATA[
 <div> 辅助编程、GitHub Copilot、ChatGPT、Python、非官方翻译、学习、人工智能、技术、程序员、工具
 
-<br><br>总结:
+<br /><br />总结:
 《AI 辅助编程：借助 GitHub Copilot 和 ChatGPT 掌握 Python》一书的非官方翻译介绍了如何利用人工智能工具GitHub Copilot和ChatGPT来提升Python编程技能。通过本书，读者可以学习如何更高效地使用这些工具，从而提高编程的效率和质量。GitHub Copilot能够自动生成代码建议，提供实时的智能编程支持，而ChatGPT则可以帮助解决编程中的困惑和问题。对于想要深入了解人工智能在编程领域的应用的程序员和技术爱好者来说，本书是一本值得一读的教材。 <div>
 '《AI 辅助编程：借助 GitHub Copilot 和 ChatGPT 掌握 Python》 - 《Learn AI-Assisted Python Programming: With GitHub Copilot and ChatGPT》一书的非官方翻译' GitHub: github.com/cssmagic/Learn-AI-Assisted-Python-Programming <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnv3yhaqhwj20u011ljuh.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 06:01:56 GMT</pubDate>
 <pubDate>Mon, 18 Mar 2024 06:01:56 GMT</pubDate>
 </item>
 <item>
@@ -64,11 +61,10 @@
 <content:encoded><![CDATA[
 <div> Sora, 开源项目, Lite-Sora, 视频生成算法, 基础框架, 探索, 提高, 简洁, 易懂, 代码
 
-<br><br>总结：
+<br /><br />总结：
 Lite-Sora是一个旨在复制Sora的开源项目，致力于通过简洁易懂的代码，探索和提高视频生成算法的基础框架。该项目旨在提供一个更简单、更易理解的代码实现，以帮助研究人员和开发者进一步探索视频生成算法。通过这一努力，Lite-Sora有望为视频算法领域的发展做出贡献，并促进相关技术的提升和应用。 <div>
 【Lite-Sora是一个旨在复制 Sora 的开源项目，致力于通过简洁易懂的代码，探索和提高视频生成算法的基础框架】'Lite-Sora - An initiative to replicate Sora' GitHub: github.com/modelscope/lite-sora <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnv3rv4bkuj212l0u0gq0.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 05:55:25 GMT</pubDate>
 <pubDate>Mon, 18 Mar 2024 05:55:25 GMT</pubDate>
 </item>
 <item>
@@ -78,10 +74,9 @@ Lite-Sora是一个旨在复制Sora的开源项目，致力于通过简洁易懂�
 <content:encoded><![CDATA[
 <div> 关键词: 视觉语言模型架构, GitHub, 模型, 架构, 论文, 研究, 深度学习, 计算机视觉
 
-视觉语言模型架构大列表是一个GitHub项目，收集了一些知名的视觉语言模型以及它们的架构。这些模型包括了通过深度学习技术在计算机视觉领域取得了显著成就的一些论文和研究工作。该项目为研究人员提供了一个参考和学习的资源，帮助他们更好地了解和应用视觉语言模型的相关技术和架构。如果对视觉语言模型感兴趣的研究人员可以通过GitHub项目找到各种信息和资料，加深对该领域的理解和应用。<br><br>总结:视觉语言模型架构大列表是一个收集了知名视觉语言模型及其架构的GitHub项目，为研究人员提供了丰富的参考和学习资源，帮助他们更好地应用深度学习技术在计算机视觉领域。 <div>
+视觉语言模型架构大列表是一个GitHub项目，收集了一些知名的视觉语言模型以及它们的架构。这些模型包括了通过深度学习技术在计算机视觉领域取得了显著成就的一些论文和研究工作。该项目为研究人员提供了一个参考和学习的资源，帮助他们更好地了解和应用视觉语言模型的相关技术和架构。如果对视觉语言模型感兴趣的研究人员可以通过GitHub项目找到各种信息和资料，加深对该领域的理解和应用。<br /><br />总结:视觉语言模型架构大列表是一个收集了知名视觉语言模型及其架构的GitHub项目，为研究人员提供了丰富的参考和学习资源，帮助他们更好地应用深度学习技术在计算机视觉领域。 <div>
 【视觉语言模型架构大列表】’Awesome Vision Language Model Architectures - Famous Vision Language Models and Their Architectures' GitHub: github.com/gokayfem/Awesome-VLM-Architectures <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnv3np7gf4j211p0u079s.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 05:51:28 GMT</pubDate>
 <pubDate>Mon, 18 Mar 2024 05:51:28 GMT</pubDate>
 </item>
 <item>
@@ -91,11 +86,10 @@ Lite-Sora是一个旨在复制Sora的开源项目，致力于通过简洁易懂�
 <content:encoded><![CDATA[
 <div> ThreePipe、Three.js、3D、渲染、模块化、可扩展性、GitHub、框架、渲染器、扩展性
 
-<br><br>总结:
+<br /><br />总结:
 ThreePipe是一个基于Three.js的3D查看器框架，专注于渲染、模块化和可扩展性。它提供了一个强大的渲染引擎，允许用户创建各种3D效果。框架采用模块化设计，使得用户可以轻松地扩展和定制功能。同时，ThreePipe具有良好的可扩展性，可以满足不同项目的需求。用户可以在GitHub上找到该项目，并利用其强大功能来实现各种3D渲染效果。Overall, ThreePipe是一个强大而灵活的3D渲染框架，适用于各种项目和需求。 <div>
 【ThreePipe：基于 Three.js 的3D渲染框架，致力于渲染、模块化和可扩展性】'ThreePipe - A 3D viewer framework built on top of three.js with a focus on rendering, modularity and extensibility.' GitHub: github.com/repalash/threepipe <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%233D%23"><span class="surl-text">#3D#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnv3kip681j20zr0u00yp.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 05:48:22 GMT</pubDate>
 <pubDate>Mon, 18 Mar 2024 05:48:22 GMT</pubDate>
 </item>
 <item>
@@ -105,11 +99,10 @@ ThreePipe是一个基于Three.js的3D查看器框架，专注于渲染、模块�
 <content:encoded><![CDATA[
 <div> GitHub, Beyond Jupyter, 软件设计资源, 课程, 机器学习应用, 原则, 实现, 项目
 
-<br><br>总结:
+<br /><br />总结:
 "Beyond Jupyter - Software design principles for machine learning applications" 是一个旨在帮助软件设计人员以更原则的方式实现机器学习项目的课程和软件设计资源。通过 GitHub 上的项目，可以了解和学习如何聚焦机器学习应用，以更高效和可靠的方式设计和实现项目。这个资源是为那些希望深入了解机器学习应用的软件设计人员而设计的，帮助他们掌握关键的设计原则和方法，提升项目的质量和效率。通过 Beyond Jupyter，软件设计人员可以更好地理解如何应用这些原则，进而在实际项目中取得更好的成果。这个资源将成为学习和实践机器学习应用开发的重要指南，为软件设计人员提供了更多设计优化的思路和技巧，帮助他们在机器学习领域取得更大的成功。 <div>
 【Beyond Jupyter 是一个用于聚焦机器学习应用的软件设计资源/课程，旨在帮助软件设计人员以更原则的方式实现机器学习项目】'Beyond Jupyter - Software design principles for machine learning applications' GitHub: github.com/aai-institute/beyond-jupyter <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnv3dnznbdj20u60u043r.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 05:42:25 GMT</pubDate>
 <pubDate>Mon, 18 Mar 2024 05:42:25 GMT</pubDate>
 </item>
 <item>
@@ -119,11 +112,10 @@ ThreePipe是一个基于Three.js的3D查看器框架，专注于渲染、模块�
 <content:encoded><![CDATA[
 <div> 嵌入系统、WebAssembly、开放源框架、安全、可扩展、应用、Mechanoid、GitHub、embedded systems、应用程序
 
-<br><br>总结:
+<br /><br />总结:
 Mechanoid是一个用于嵌入式系统上构建和运行WebAssembly应用的开放源框架。它有助于创建更安全和可扩展的应用程序，通过GitHub可以找到该项目。Mechanoid为嵌入式系统提供了一种新的方式来构建和运行WebAssembly应用，从而提高了系统的安全性和可扩展性。 <div>
 【Mechanoid：用于嵌入系统上构建和运行 WebAssembly 应用的开放源框架，有助于创建更安全的和可扩展的应用】'Mechanoid - Mechanoid is a framework for WebAssembly applications on embedded systems.' GitHub: github.com/hybridgroup/mechanoid <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23WebAssembly%23"><span class="surl-text">#WebAssembly#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnv3cb2vxcj20x50u0n20.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 05:40:28 GMT</pubDate>
 <pubDate>Mon, 18 Mar 2024 05:40:28 GMT</pubDate>
 </item>
 <item>
@@ -133,13 +125,11 @@ Mechanoid是一个用于嵌入式系统上构建和运行WebAssembly应用的开
 <content:encoded><![CDATA[
 <div> Next.js, Tailwind CSS, Developer Portfolio, Software Developer, Showcase, GitHub
 
-<br><br>总结: 该软件开发者个人网站采用了 Next.js 和 Tailwind CSS 技术，帮助用户展示其代码和技能。用户可以通过该网站展示自己作为软件开发者的工作和技能，同时在 GitHub 上查看源代码。 <div>
+<br /><br />总结: 该软件开发者个人网站采用了 Next.js 和 Tailwind CSS 技术，帮助用户展示其代码和技能。用户可以通过该网站展示自己作为软件开发者的工作和技能，同时在 GitHub 上查看源代码。 <div>
 【Developer Portfolio：软件开发者的个人网站，使用 Next.js 和 Tailwind CSS，帮助用户展示他们的代码和技能】'Developer Portfolio - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.' GitHub: github.com/said7388/developer-portfolio <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnv3885smgj21f60ol0wr.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 18 Mar 2024 05:36:37 GMT</pubDate>
-<pubDate>Mon, 18 Mar 2024 05:36:37 GMT</pubDate>
 </item>
-
 <item>
 <title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.2...</title>
 <link>https://weibo.com/1402400261/O5wrb274Y</link>

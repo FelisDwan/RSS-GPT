@@ -519,3 +519,9 @@ Summarized using GPT-3.5-turbo
 Append: [【Developer Portfolio：软件开发者的个人网站，使用 Next.js 和 Tailwind CSS，帮助用户展示他们的代码和技能】'Developer Portfolio - Software Developer Por...](https://weibo.com/1402400261/O5zdocRSc)
 append_entries: 10
 Finish: 2024-03-18 08:14:59.958342
+------------------------------------------------------
+Started: 2024-03-18 10:12:13.413116
+Existing_entries: 86
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-03-18 10:12:13.457599
