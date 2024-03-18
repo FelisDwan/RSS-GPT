@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.2...</title>
 <link>https://weibo.com/1402400261/O5wrb274Y</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 关键词: 大语言模型, 系统性, 实践性, 全彩印刷, 作者杨青, 经验, 训练, 干货, 度小满, 轩辕
 
-总结:<br><br>
+总结:<br /><br />
 本书《大语言模型：原理与工程实践(全彩)》揭开大语言模型的神秘面纱，重点在于系统性和实践性。作者杨青是度小满轩辕大模型负责人，具有丰富的训练经验，将这些经验融入书中，引导读者深入理解大语言模型的内在机理和应用实践。书中以全彩印刷方式呈现，配有代码示例，干货满满，让读者能够从中获益良多。欢迎参与转发并评论，有机会赢得3本《大语言模型：原理与工程实践(全彩)》。 <div>
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.24 12:00，*可可粉*转发+评论即可参与。本书旨在揭开大语言模型的神秘面纱，透彻地解读其内在机理和应用实践。一大特色体现在其知识体系的系统性，另一大特色是对实践性的重视。配代码、全彩印刷。本书作者杨青是度小满轩辕大模型负责人，作为真正的大语言模型实践者，拥有十亿、百亿、千亿等不同参数规模大语言模型的训练经验。在本书中，这些经验都被毫无保留地融入其中，干货满满，绝非空谈。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5012867076850203"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb85d5j20m90m9jw5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8np7j20m90m90vz.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8bphj20m90m9789.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb9t7fj20m90m9dph.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvb8gi3j20m90m90xl.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvbf5k1j21hc0u0wud.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvbadpbj21dd0rsguo.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntsvbag7dj20rs0rs793.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb7ig9j20rs0m841y.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 22:32:21 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 22:32:21 GMT</pubDate>
 </item>
 <item>
@@ -25,11 +25,10 @@
 <content:encoded><![CDATA[
 <div> LLM、生成式推理、KV缓存压缩、分散专家混合、广义预测模型、自动驾驶、半参数化token-sequence、协同监督、大规模监控、人工智能修改内容
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了几种新颖的技术方案，包括用于LLM近无损生成式推理高效KV缓存压缩方案、分散专家混合实现、面向自动驾驶的广义预测模型、半参数化token-sequence协同监督和大规模监控人工智能修改内容等。这些技术方案在不同领域具有广泛的应用前景，有助于提高推理和预测的精度和效率，推动自动驾驶、监控和人工智能领域的发展。 <div>
 今日推介(第1348期)：用于LLM近无损生成式推理高效KV缓存压缩方案、分散专家混合实现、面向自动驾驶的广义预测模型、半参数化token-sequence协同监督、大规模监控人工智能修改内容 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/687551508"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(3.18)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnuqxnm0mij20k009egn1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnuqxqs7cwj20k00ccwg4.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnuqxyljvsj20k00b4dhx.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnuqy42myvj20k00llq53.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnuqy7wavlj20k00aa0ts.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 22:31:46 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 22:31:46 GMT</pubDate>
 </item>
 <item>
@@ -41,11 +40,10 @@
 SemGauss-SLAM, 3D高斯表示, 语义SLAM系统, 语义信息, 地图存储, 特征级损失函数, 语义关联, 累积漂移, Replica, ScanNet
 
 总结:
-<br><br>总结:
+<br /><br />总结:
 SemGauss-SLAM是首个利用3D高斯表示的语义SLAM系统，解决了传统语义SLAM系统在未知区域预测和地图存储需求大的限制。系统通过将语义特征嵌入到3D高斯表示中，并引入特征级损失函数来更新3D高斯表示，提供更高层次的优化指导。另外，系统还引入了基于语义关联的束调整，以减少累积漂移并提高重建精度。经过在Replica和ScanNet数据集上的测试，SemGauss-SLAM在映射和追踪精度、新视角语义合成和3D语义映射方面均表现优于现有的密集语义SLAM方法。SemGauss-SLAM的提出为语义SLAM系统的发展带来了新的可能性。 <div>
 [RO] SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM  <br /><a href="https://arxiv.org/abs/2403.07494"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />提出SemGauss-SLAM，首个利用3D高斯表示的语义SLAM系统，解决了传统语义SLAM系统在未知区域预测和地图存储需求大的限制。SemGauss-SLAM通过将语义特征嵌入到3D高斯表示中，有效编码了语义信息，实现了精确的语义场景表示。此外， 提出了特征级损失函数来更新3D高斯表示，以提供更高层次的优化指导。系统还引入了基于语义关联的束调整，以减少累积漂移并提高重建精度。在Replica和ScanNet数据集上的测试结果显示，SemGauss-SLAM在映射和追踪精度、新视角语义合成和3D语义映射方面均优于现有的密集语义SLAM方法。<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnuqlyt63fj21861jk1cb.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnuqlyraxbj21d00x6tjo.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnuqlysfhfj21cc11ok6d.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnuqlyqecqj21cg0vsakf.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 22:20:02 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 22:20:02 GMT</pubDate>
 </item>
 <item>
@@ -55,11 +53,10 @@ SemGauss-SLAM是首个利用3D高斯表示的语义SLAM系统，解决了传统�
 <content:encoded><![CDATA[
 <div> StreamMultiDiffusion, 实时交互式生成, 区域语义控制, 多提示流批处理, 高质量图像生成, 语义调色板, 用户交互性, 推断速度, 实时图像生成, 手绘区域图像
 
-<br><br>总结:
+<br /><br />总结:
 StreamMultiDiffusion是一种新型实时交互式文本到图像生成框架，通过稳定快速推断技术和多提示流批处理架构，实现了基于区域的语义控制下的实时图像生成。该框架速度比现有解决方案快10倍，在单个GPU上可达到1.57 FPS的生成速度。它结合了高质量图像生成和强大的批处理能力，提供了名为"语义调色板"的新范式，用户可实时生成具有预设语义意义的手绘区域图像。StreamMultiDiffusion解决了之前模型在提高推断速度与增强用户交互性之间的不兼容问题，为实时交互式生成领域带来了重要的技术突破。 <div>
 [CV] StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control  <br /><a href="https://arxiv.org/abs/2403.09055"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />介绍了一种名为StreamMultiDiffusion的新型实时交互式文本到图像生成框架。该框架解决了之前模型在提高推断速度与增强用户交互性之间的不兼容问题。通过稳定快速推断技术并将模型重新架构为多提示流批处理架构，StreamMultiDiffusion实现了基于区域的语义控制下的实时图像生成，速度比现有解决方案快10倍，且在单个GPU上达到1.57 FPS的生成速度。此框架的创新之处在于将高质量图像生成与强大的批处理能力相结合，提供了名为"语义调色板"的新范式，用户可实时生成具有预设语义意义的手绘区域图像。<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnuqgnrbgfj211u1ik4ek.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnuqgnpwqij214i0r8gtu.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnuqgno87oj214g0j0wj9.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 22:14:53 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 22:14:53 GMT</pubDate>
 </item>
 <item>
@@ -69,11 +66,10 @@ StreamMultiDiffusion是一种新型实时交互式文本到图像生成框架，
 <content:encoded><![CDATA[
 <div> UPS, PDE Solver, 预训练大型语言模型, 跨模态适应, 多任务学习, PDEBench, 基础模型, 计算效率, 模态对齐, 分辨率
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了一种名为UPS(Unified PDE Solver)的方法，用于解决不同空间时间偏微分方程(PDE)。UPS通过将预训练大型语言模型适应到PDE求解中，实现了在各种域、维度和分辨率上有效、数据高效的求解。该方法采用两阶段的跨模态适应过程，结合模态对齐和多任务学习的概念，使得UPS在使用的训练样本较少的情况下仍能获得强大的实证结果。在PDEBench的1D和2D数据集上，UPS超越了现有基准，在10个任务中取得了8个最佳成绩，并能够通过少量样本迁移到不同的PDE家族、系数和分辨率。这项工作为PDE求解领域的基础模型建设迈出了重要一步，并展示了在计算效率方面的优势。UPS方法的提出为PDE求解领域注入了新的活力和创新思路，有望进一步推动该领域的发展。 <div>
 [LG] UPS: Towards Foundation Models for PDE Solving via Cross-Modal Adaptation  <br /><a href="https://arxiv.org/abs/2403.07187"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />介绍了一种名为UPS(Unified PDE Solver)的方法，用于解决不同空间时间偏微分方程(PDE)。UPS通过将预训练大型语言模型(LLM )适应到PDE求解中，实现了在各种域、维度和分辨率上有效、数据高效的求解。两阶段的跨模态适应过程利用了模态对齐和多任务学习的概念，使得UPS在使用的训练样本远少于以往方法的情况下，仍能获得强大的实证结果。特别地，UPS在PDEBench的1D和2D数据集上超越了现有基准，实现了10个任务中8个的最佳成绩，并能够通过少量样本迁移到不同的PDE家族、系数和分辨率。这项工作为PDE求解领域的基础模型建设迈出了重要一步，并展示了在计算效率方面的优势。<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnuq8awiipj21as1jsh9j.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnuq8b8r02j21oo0tu7ji.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 22:06:51 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 22:06:51 GMT</pubDate>
 </item>
 <item>
@@ -83,11 +79,10 @@ StreamMultiDiffusion是一种新型实时交互式文本到图像生成框架，
 <content:encoded><![CDATA[
 <div> 压缩、BPE算法、0-gram语言模型、训练文档量、英文语言模型、下游任务、分词器、模型性能、生成任务、土耳其语
 
-<br><br>总结:
+<br /><br />总结:
 本文深入探讨了字节对比编码(BPE)算法在文本压缩中的重要性，并指出BPE实际上是一个潜在的0-gram语言模型。研究通过控制BPE的训练文档量，从100万份文档到零文档(即字符级的分词器)，并分别基于这些分词器预训练英文语言模型，在多个任务上进行微调。结果显示，分词器的压缩能力与模型的下游任务表现存在明显的相关性，压缩性能更好的分词器能显著提高模型整体性能。特别是在生成任务上，这种相关性更为显著，并且小模型比大模型更依赖高质量的分词。通过在土耳其语上的实验验证，研究证实这一结论不仅适用于英语，而且在跨语言上具有普适性。因此，构建更好的压缩分词器被认为是提升语言模型性能的有效途径。 <div>
 [CL] Unpacking Tokenization: Evaluating Text Compression and its Correlation with Model Performance  <br /><a href="https://arxiv.org/abs/2403.06265"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />深入探讨了字节对比编码(BPE)算法中压缩的重要性，并指出其实为一个潜在的0-gram语言模型。研究通过控制BPE的训练文档量，从100万份文档到零文档(即字符级的分词器)，并分别基于这些分词器预训练英文语言模型，在多个任务上进行微调。结果显示，分词器的压缩能力与模型的下游任务表现存在明显的相关性，压缩性能更好的分词器能显著提高模型整体性能。此外，该相关性在生成任务上更为显著，并且小模型比大模型更依赖高质量的分词。通过在土耳其语上的实验验证，确认了这一结论不仅适用于英语，而是具有跨语言的普适性。研究表明，构建更好的压缩分词器是提升语言模型性能的有效途径。<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnuq42bb6ij213a1j0kb3.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnuq42d1ooj21580j2jur.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 22:02:46 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 22:02:46 GMT</pubDate>
 </item>
 <item>
@@ -97,11 +92,10 @@ StreamMultiDiffusion是一种新型实时交互式文本到图像生成框架，
 <content:encoded><![CDATA[
 <div> 关键词: 大规模语言模型、科学同行评审、分布式GPT量化、极大似然估计、特定形容词、信息生态系统、AI修改内容、使用频率、计算效率、高风险生态系统
 
-总结:<br><br>
+总结:<br /><br />
 这篇文章提出了一种新的分布式GPT量化框架，结合极大似然估计和特定形容词的使用频率，可以有效监测和估计大规模语言模型在信息生态系统中修改或生成内容的比例。这种方法计算效率高于现有方法，为理解和管理LLM在高风险信息生态系统中的影响提供了重要工具。作者通过在AI会议同行评审中的案例研究，展示了这种框架在实际应用中的效果，来自Stanford University & NEC Labs的研究团队对此进行了深入研究。 <div>
 针对大规模语言模型(如ChatGPT)在科学同行评审中的应用，提出一种新的分布式GPT量化框架，通过极大似然估计结合特定形容词的使用频率，有效地监测并估计信息生态系统中AI修改或生成的内容比例，计算效率远超现有方法，对于理解和管理LLM在高风险信息生态系统中的影响提供了重要工具。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews》W Liang, Z Izzo, Y Zhang, H Lepp... [Stanford University &amp; NEC Labs] (2024) <a href="https://arxiv.org/abs/2403.07183"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupehnp17j20rm1beamr.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupei7riyj20w40te7bm.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnupeildg5j21s60wyn62.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnupeit8cej20vy0v4q9s.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupyvs56mj20iz0h2wgv.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnupyvs6pij20j10f9taj.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnupyvsbv7j20iz0g50ut.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnupyvs1ouj20iz0bj759.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupyvrzpjj20iz0cjab9.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 21:57:54 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 21:57:54 GMT</pubDate>
 </item>
 <item>
@@ -111,10 +105,9 @@ StreamMultiDiffusion是一种新型实时交互式文本到图像生成框架，
 <content:encoded><![CDATA[
 <div> 关键词: 监测，AI修改内容，ChatGPT，会议审稿，规模，影响，案例研究，人工智能，会议，同行评审
 
-总结:<br><br>这篇文章是由斯坦福大学和NEC实验室的研究人员撰写的，旨在研究AI修改内容对人工智能会议审稿的影响。研究使用ChatGPT进行了案例研究，探讨了AI技术在会议审稿中的规模化应用。他们发现AI修改内容可能对同行评审过程产生影响，提出了一些监测和应对AI修改内容影响的建议。这项研究展示了AI技术在学术领域中的潜在影响，并呼吁对AI修改内容进行更加深入的研究和监测。 <div>
+总结:<br /><br />这篇文章是由斯坦福大学和NEC实验室的研究人员撰写的，旨在研究AI修改内容对人工智能会议审稿的影响。研究使用ChatGPT进行了案例研究，探讨了AI技术在会议审稿中的规模化应用。他们发现AI修改内容可能对同行评审过程产生影响，提出了一些监测和应对AI修改内容影响的建议。这项研究展示了AI技术在学术领域中的潜在影响，并呼吁对AI修改内容进行更加深入的研究和监测。 <div>
 [CL]《Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews》W Liang, Z Izzo, Y Zhang, H Lepp... [Stanford University &amp; NEC Labs] (2024) <a href="https://arxiv.org/abs/2403.07183"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupehnp17j20rm1beamr.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupei7riyj20w40te7bm.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnupeildg5j21s60wyn62.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnupeit8cej20vy0v4q9s.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupyvs56mj20iz0h2wgv.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnupyvs6pij20j10f9taj.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnupyvsbv7j20iz0g50ut.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnupyvs1ouj20iz0bj759.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupyvrzpjj20iz0cjab9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnupyvs356j20jd0c80u1.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnupyvs27ij20iz0df75s.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupyvs9jej20iv0f575x.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnupyvsggfj20wa0krwh4.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnupyvsr8zj20wj0knju5.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 21:57:48 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 21:57:48 GMT</pubDate>
 </item>
 <item>
@@ -122,12 +115,11 @@ StreamMultiDiffusion是一种新型实时交互式文本到图像生成框架，
 <link>https://weibo.com/1402400261/O5w1DlH5W</link>
 <guid>https://weibo.com/1402400261/O5w1DlH5W</guid>
 <content:encoded><![CDATA[
-<div> 半参数化token-sequence、协同监督、训练方法、嵌入空间、信息检索、表现力、泛化能力、预测模式、局限<br>
-<br>
-提出的半参数化token-sequence协同监督训练方法结合了参数化token嵌入空间和非参数化sequence嵌入空间的优势，在信息检索任务中表现出显著的提升，并具备较强的泛化能力。这一方法突破了传统单一预测模式的局限，通过同时利用两种不同嵌入空间的监督，达到了更好的训练效果。提出的方法为语言模型的发展带来了新的思路和方法，为相关研究领域提供了有价值的参考。<br><br>总结: <br>这篇文章介绍了一种半参数化token-sequence协同监督训练方法，通过结合参数化token嵌入空间和非参数化sequence嵌入空间的优势，提升了语言模型在信息检索任务中的表现力和泛化能力，突破了传统单一预测模式的局限。提出的方法为语言模型研究领域带来了新的可能性和启发。 <div>
+<div> 半参数化token-sequence、协同监督、训练方法、嵌入空间、信息检索、表现力、泛化能力、预测模式、局限<br />
+<br />
+提出的半参数化token-sequence协同监督训练方法结合了参数化token嵌入空间和非参数化sequence嵌入空间的优势，在信息检索任务中表现出显著的提升，并具备较强的泛化能力。这一方法突破了传统单一预测模式的局限，通过同时利用两种不同嵌入空间的监督，达到了更好的训练效果。提出的方法为语言模型的发展带来了新的思路和方法，为相关研究领域提供了有价值的参考。<br /><br />总结: <br />这篇文章介绍了一种半参数化token-sequence协同监督训练方法，通过结合参数化token嵌入空间和非参数化sequence嵌入空间的优势，提升了语言模型在信息检索任务中的表现力和泛化能力，突破了传统单一预测模式的局限。提出的方法为语言模型研究领域带来了新的可能性和启发。 <div>
 提出一种半参数化token-sequence协同监督训练方法，通过同时利用参数化token嵌入空间和非参数化sequence嵌入空间的监督，显著提升了语言模型在信息检索任务中的表现力及泛化能力，特别在于其训练过程中结合了两种不同嵌入空间的优势，突破了传统单一预测模式的局限。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Semiparametric Token-Sequence Co-Supervision》H Lee, D Kim, J Jun, S Joo, J Jang, K On, M Seo [KAIST AI] (2024) <a href="https://arxiv.org/abs/2403.09024"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnuotlll0bj20l40w8qaf.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnuotm570sj20oe0qctcw.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnuotmhkc2j21cc0sggry.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnuotmq88hj20o80icabd.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnuouk0fgqj20hs0hvgmp.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnuouk12kpj20hm0d3jrx.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnuouk19wfj20hn0nsjt8.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 21:29:25 GMT</pubDate>
 <pubDate>Sun, 17 Mar 2024 21:29:25 GMT</pubDate>
 </item>
 <item>
@@ -137,13 +129,11 @@ StreamMultiDiffusion是一种新型实时交互式文本到图像生成框架，
 <content:encoded><![CDATA[
 <div> 关键词: Semiparametric, Token-Sequence, Co-Supervision, AI, KAIST, Lee, Kim, Jun, Joo, Jang
 
-总结:<br><br>这篇文章来自于韩国科学技术研究院（KAIST AI）的研究团队，论文的题目是《Semiparametric Token-Sequence Co-Supervision》。研究人员包括H Lee、D Kim、J Jun、S Joo、J Jang、K On和M Seo。研究主要探讨了半参数化标记序列协同监督的方法。作者提出的方法结合了参数化和非参数化模型，利用标记序列的监督信息来提高模型性能。通过实验验证了该方法的有效性和优越性，展示了其在各种应用场景中的潜力。这项研究对于进一步发展半参数化方法在人工智能领域的应用具有指导意义。 <div>
+总结:<br /><br />这篇文章来自于韩国科学技术研究院（KAIST AI）的研究团队，论文的题目是《Semiparametric Token-Sequence Co-Supervision》。研究人员包括H Lee、D Kim、J Jun、S Joo、J Jang、K On和M Seo。研究主要探讨了半参数化标记序列协同监督的方法。作者提出的方法结合了参数化和非参数化模型，利用标记序列的监督信息来提高模型性能。通过实验验证了该方法的有效性和优越性，展示了其在各种应用场景中的潜力。这项研究对于进一步发展半参数化方法在人工智能领域的应用具有指导意义。 <div>
 [CL]《Semiparametric Token-Sequence Co-Supervision》H Lee, D Kim, J Jun, S Joo, J Jang, K On, M Seo [KAIST AI] (2024) <a href="https://arxiv.org/abs/2403.09024"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnuotlll0bj20l40w8qaf.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnuotm570sj20oe0qctcw.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnuotmhkc2j21cc0sggry.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnuotmq88hj20o80icabd.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnuouk0fgqj20hs0hvgmp.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnuouk12kpj20hm0d3jrx.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnuouk19wfj20hn0nsjt8.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 21:19:02 GMT</pubDate>
-<pubDate>Sun, 17 Mar 2024 21:19:02 GMT</pubDate>
 </item>
-
 <item>
 <title>《爱可可微博热门分享(3.17)》 爱可可微博热门分享(3.17) [图片]</title>
 <link>https://weibo.com/1402400261/O5tkBDmpW</link>

@@ -4,6 +4,7 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+
 <item>
 <title>不久前，OpenAI Sora 以其惊人的视频生成效果迅速走红，在一众文生视频模型中突出重围，成为全球瞩目的焦点。继 2 周前推出成本直降 46% 的 Sora 训练推理复现流...</title>
 <link>https://weibo.com/5722964389/O5x0Lhh0I</link>
@@ -11,13 +12,11 @@
 <content:encoded><![CDATA[
 <div> 关键词: OpenAI Sora, 视频生成模型, Colossal-AI, 开源, GitHub, 训练流程, 多阶段训练, 提升质量, 高效训练, 文生视频
 
-总结：<br><br>近期，OpenAI Sora以惊人的视频生成效果走红，Colossal-AI团队全面开源了全球首个类Sora架构视频生成模型"Open-Sora 1.0"。这个模型的复现方案参考了Stable Video Diffusion(SVD)工作，包括大规模图像预训练、大规模视频预训练和高质量视频数据微调三个阶段。多阶段训练可逐步扩展数据，提升视频生成质量。Colossal-AI团队还提供了高效训练加持的Colossal-AI加速系统。他们已将整个训练流程、模型权重、训练细节、数据处理过程、demo展示和上手教程全面免费开源至GitHub，降低了Sora复现的门槛，提升了视频生成的质量。 <div>
+总结：<br /><br />近期，OpenAI Sora以惊人的视频生成效果走红，Colossal-AI团队全面开源了全球首个类Sora架构视频生成模型"Open-Sora 1.0"。这个模型的复现方案参考了Stable Video Diffusion(SVD)工作，包括大规模图像预训练、大规模视频预训练和高质量视频数据微调三个阶段。多阶段训练可逐步扩展数据，提升视频生成质量。Colossal-AI团队还提供了高效训练加持的Colossal-AI加速系统。他们已将整个训练流程、模型权重、训练细节、数据处理过程、demo展示和上手教程全面免费开源至GitHub，降低了Sora复现的门槛，提升了视频生成的质量。 <div>
 不久前，OpenAI Sora 以其惊人的视频生成效果迅速走红，在一众文生视频模型中突出重围，成为全球瞩目的焦点。<br /><br />继 2 周前推出成本直降 46% 的 Sora 训练推理复现流程后，近日 Colossal-AI 团队又全面开源全球首个类 Sora 架构视频生成模型 「Open-Sora 1.0」，涵盖了整个训练流程，包括数据处理、所有训练细节和模型权重。<br /><br />GitHub：github.com/hpcaitech/Open-Sora<br /><br />Open-Sora 的复现方案参考了 Stable Video Diffusion (SVD) 工作，共包括三个阶段，分别是：<br /><br />1. 大规模图像预训练；<br />2. 大规模视频预训练；<br />3. 高质量视频数据微调。<br /><br />每个阶段都会基于前一个阶段的权重继续训练。相比于从零开始单阶段训练，多阶段训练通过逐步扩展数据，更高效地达成高质量视频生成的目标。<br /><br />除了大幅降低 Sora 复现的技术门槛，提升视频生成在时长、分辨率、内容等多个维度的质量，作者团队还提供了 Colossal-AI 加速系统进行 Sora 复现的高效训练加持。<br /><br />关于文生视频的模型架构、训练好的模型权重、复现的所有训练细节、数据预处理过程、demo 展示和详细的上手教程，Colossal-AI 团队已经全面免费开源至 GitHub。 <a href="https://video.weibo.com/show?fid=1034:5013049518784581"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">GitHubDaily的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax3.sinaimg.cn/orj480/006fiYtfgy1hnudwbmjajj31hc0u0mzn.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/u0/NnrNTgNbgx08dmBQ1y8g010412008E9U0E010.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1710724460&amp;ssig=ogHf%2B5jSOl&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/u0/cZVqAOxigx08dmBPqJcc010412004x570E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1710724460&amp;ssig=FK59oVCUjU&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/u0/OGnrmBtwgx08dmBPuvdu010412002ReB0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1710724460&amp;ssig=vkKG1uaxuz&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5013049518784581" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
 <pubDate>Mon, 18 Mar 2024 00:00:01 GMT</pubDate>
-<pubDate>Mon, 18 Mar 2024 00:00:01 GMT</pubDate>
 </item>
-
 <item>
 <title>推荐 GitHub 上一款开源免费的 Homebrew 可视化工具 Applite。通过提供设计简洁且易于使用的 Homebrew 可视化界面，让非技术用户轻松安装和管理第三方应用。GitH...</title>
 <link>https://weibo.com/5722964389/O5gUfje5o</link>

@@ -254,3 +254,9 @@ Summarized using GPT-3.5-turbo
 Append: [不久前，OpenAI Sora 以其惊人的视频生成效果迅速走红，在一众文生视频模型中突出重围，成为全球瞩目的焦点。继 2 周前推出成本直降 46% 的 Sora 训练推理复现流...](https://weibo.com/5722964389/O5x0Lhh0I)
 append_entries: 1
 Finish: 2024-03-18 00:51:20.094680
+------------------------------------------------------
+Started: 2024-03-18 02:17:22.280427
+Existing_entries: 14
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-03-18 02:17:22.383967
