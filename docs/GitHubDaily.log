@@ -299,3 +299,9 @@ Summarized using GPT-3.5-turbo
 Append: [推荐 GitHub 上一款跨平台视频下载工具 Lux。这是使用 Go 语言编写的视频下载命令行工具，支持几乎所有视频平台，如抖音、B 站、YouTube、Twitter、腾讯、爱奇艺...](https://weibo.com/5722964389/O5zLeAFOt)
 append_entries: 2
 Finish: 2024-03-18 12:20:44.374762
+------------------------------------------------------
+Started: 2024-03-18 14:11:15.532450
+Existing_entries: 17
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-03-18 14:11:15.768584
