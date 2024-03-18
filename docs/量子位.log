@@ -301,3 +301,12 @@ Summarized using GPT-3.5-turbo
 Append: [#马斯克开源大模型# 就在刚刚，马斯克开源了自家大模型Grok-1——具有3140亿参数的专家混合模型，由 xAI从头开始训练！如此体量直接斩获目前最大开源模型的头衔...](https://weibo.com/6105753431/O5wXx1cYM)
 append_entries: 1
 Finish: 2024-03-18 02:17:22.016378
+------------------------------------------------------
+Started: 2024-03-18 04:12:58.991196
+Existing_entries: 27
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [【#马斯克开源大模型# #马斯克Grok大模型开源#】马斯克说到做到：旗下大模型Grok现已开源！代码和模型权重已上线GitHub。官方信息显示，此次开源的Grok-1是一个3...](https://weibo.com/6105753431/O5xCiCajI)
+append_entries: 1
+Finish: 2024-03-18 04:13:03.612935
