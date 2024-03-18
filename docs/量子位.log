@@ -328,3 +328,15 @@ Summarized using GPT-3.5-turbo
 Append: [奥特曼：今年是人类历史上最有趣的一年（不包括未来） [图片]](https://weibo.com/6105753431/O5yzJFTZY)
 append_entries: 4
 Finish: 2024-03-18 06:15:16.466065
+------------------------------------------------------
+Started: 2024-03-18 08:13:59.388995
+Existing_entries: 32
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 561
+Summarized using GPT-3.5-turbo
+Append: [#月之暗面200万字上下文版本模型可申请内测#杨植麟的大模型公司月之暗面发布了更长上下文窗口的版本：200万字上下文版本，今天即刻在Kimi上开启内测。并且在与Ki...](https://weibo.com/6105753431/O5zn2FBab)
+Token length: 16
+Summarized using GPT-3.5-turbo
+Append: [#苹果正与谷歌讨论让Gemini为iPhone提供AI服务# #苹果与谷歌及OpenAl讨论合作#Breaking News～ [图片]](https://weibo.com/6105753431/O5zgDrFU4)
+append_entries: 2
+Finish: 2024-03-18 08:14:08.430924

@@ -483,3 +483,39 @@ Existing_entries: 76
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-18 06:15:19.264107
+------------------------------------------------------
+Started: 2024-03-18 08:14:08.526289
+Existing_entries: 76
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [【Mistral-7b模型DPO微调实战】《Fine-tune a Mistral-7b model with Direct Preference Optimization | by Maxime Labonne | Towards Data Science》 网页链接 ...](https://weibo.com/1402400261/O5zuA01tt)
+Token length: 682
+Summarized using GPT-3.5-turbo
+Append: [【Grok-1开源：Musk的AI大众化还是对OpenAI的"报复"?】- Grok-1是由Elon Musk的xAI公司开发的大型语言模型，具有3140亿个参数。 - xAI决定以Apache 2.0许可证的...](https://weibo.com/1402400261/O5zt6FiHP)
+Token length: 997
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Dynamic Adapter Meets Prompt Tuning:Parameter-Efficient Transfer Learning for Point Cloud Analysis》(CVPR 2024) GitHub: github.com...](https://weibo.com/1402400261/O5zpVkm35)
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: ['《AI 辅助编程：借助 GitHub Copilot 和 ChatGPT 掌握 Python》 - 《Learn AI-Assisted Python Programming: With GitHub Copilot and ChatGPT》一书的非官方翻...](https://weibo.com/1402400261/O5znFfuof)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [【Lite-Sora是一个旨在复制 Sora 的开源项目，致力于通过简洁易懂的代码，探索和提高视频生成算法的基础框架】'Lite-Sora - An initiative to replicate Sora' G...](https://weibo.com/1402400261/O5zl1iU2Y)
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [【视觉语言模型架构大列表】’Awesome Vision Language Model Architectures - Famous Vision Language Models and Their Architectures' GitHub: github.com/go...](https://weibo.com/1402400261/O5zjq0Nxe)
+Token length: 204
+Summarized using GPT-3.5-turbo
+Append: [【ThreePipe：基于 Three.js 的3D渲染框架，致力于渲染、模块化和可扩展性】'ThreePipe - A 3D viewer framework built on top of three.js with a focus on ren...](https://weibo.com/1402400261/O5zia1jpe)
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [【Beyond Jupyter 是一个用于聚焦机器学习应用的软件设计资源/课程，旨在帮助软件设计人员以更原则的方式实现机器学习项目】'Beyond Jupyter - Software design ...](https://weibo.com/1402400261/O5zfKpymb)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [【Mechanoid：用于嵌入系统上构建和运行 WebAssembly 应用的开放源框架，有助于创建更安全的和可扩展的应用】'Mechanoid - Mechanoid is a framework for WebAss...](https://weibo.com/1402400261/O5zeX4TwZ)
+Token length: 288
+Summarized using GPT-3.5-turbo
+Append: [【Developer Portfolio：软件开发者的个人网站，使用 Next.js 和 Tailwind CSS，帮助用户展示他们的代码和技能】'Developer Portfolio - Software Developer Por...](https://weibo.com/1402400261/O5zdocRSc)
+append_entries: 10
+Finish: 2024-03-18 08:14:59.958342
