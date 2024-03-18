@@ -429,3 +429,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O5tllm1rL)
 append_entries: 0
 Finish: 2024-03-17 22:09:33.928374
+------------------------------------------------------
+Started: 2024-03-18 00:50:22.075486
+Existing_entries: 66
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.2...](https://weibo.com/1402400261/O5wrb274Y)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1348期)：用于LLM近无损生成式推理高效KV缓存压缩方案、分散专家混合实现、面向自动驾驶的广义预测模型、半参数化token-sequence协同监督、大规模监...](https://weibo.com/1402400261/O5wqWCDe7)
+Token length: 335
+Summarized using GPT-3.5-turbo
+Append: [[RO] SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM 网页链接 提出SemGauss-SLAM，首个利用3D高斯表示的语义SLAM系统，解决了传统语义SLAM系统在未知...](https://weibo.com/1402400261/O5wmb3Pkm)
+Token length: 355
+Summarized using GPT-3.5-turbo
+Append: [[CV] StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control 网页链接 介绍了一种名为StreamMultiDiffusion的新型实时交...](https://weibo.com/1402400261/O5wk5pWuI)
+Token length: 379
+Summarized using GPT-3.5-turbo
+Append: [[LG] UPS: Towards Foundation Models for PDE Solving via Cross-Modal Adaptation 网页链接 介绍了一种名为UPS(Unified PDE Solver)的方法，用于解决不同空间...](https://weibo.com/1402400261/O5wgPnoUr)
+Token length: 382
+Summarized using GPT-3.5-turbo
+Append: [[CL] Unpacking Tokenization: Evaluating Text Compression and its Correlation with Model Performance 网页链接 深入探讨了字节对比编码(BPE)算法中压缩的重...](https://weibo.com/1402400261/O5wfamsiJ)
+Token length: 340
+Summarized using GPT-3.5-turbo
+Append: [针对大规模语言模型(如ChatGPT)在科学同行评审中的应用，提出一种新的分布式GPT量化框架，通过极大似然估计结合特定形容词的使用频率，有效地监测并估计信息生态...](https://weibo.com/1402400261/O5wdcqM4V)
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews》W Liang, Z Izzo, Y Zhang, H Lepp.....](https://weibo.com/1402400261/O5wd9mRwc)
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [提出一种半参数化token-sequence协同监督训练方法，通过同时利用参数化token嵌入空间和非参数化sequence嵌入空间的监督，显著提升了语言模型在信息检索任务中的...](https://weibo.com/1402400261/O5w1DlH5W)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Semiparametric Token-Sequence Co-Supervision》H Lee, D Kim, J Jun, S Joo, J Jang, K On, M Seo [KAIST AI] (2024) 网页链接 #机器学习##人工智能##论...](https://weibo.com/1402400261/O5vXq7N1N)
+append_entries: 10
+Finish: 2024-03-18 00:51:13.540191
