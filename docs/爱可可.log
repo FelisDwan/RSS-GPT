@@ -634,3 +634,36 @@ Existing_entries: 101
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-19 06:13:57.303992
+------------------------------------------------------
+Started: 2024-03-19 08:13:45.823248
+Existing_entries: 101
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 378
+Summarized using GPT-3.5-turbo
+Append: [【LLM-RLHF-Tuning：用于AI训练的开源工具包，提供PPO/DPO等算法】’LLM-RLHF-Tuning - Comprehensive toolkit for Reinforcement Learning from Human Feedback...](https://weibo.com/1402400261/O5IPUvXAm)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [【LitServe：开源AI模型推理服务器，其目的是简洁且可扩展，可用于各种 GPU 上运行 ML 模型】'LitServe - Inference server for AI/ML models that is minimal a...](https://weibo.com/1402400261/O5IP2c64C)
+Token length: 96
+Summarized using GPT-3.5-turbo
+Append: ['Fin-Eva Version 1.0 金融领域中文语言专业数据评测集' GitHub: github.com/alipay/financial_evaluation_dataset #开源# #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O5IOogmaT)
+Token length: 282
+Summarized using GPT-3.5-turbo
+Append: [【文本到图像扩散模型可控生成相关文献资源列表】’Awesome Controllable T2I Diffusion Models - A collection of resources on controllable generation with ...](https://weibo.com/1402400261/O5IKZstEp)
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [【基于 Nextjs、React、Drizzle和Stripe 的Duolingo全栈克隆项目】'Build a Duolingo Clone With Nextjs, React, Drizzle, Stripe (2024)' GitHub: github.com/A...](https://weibo.com/1402400261/O5IKkvNsI)
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [【LlamaGym：用来简化基于语言模型的强化学习环境的开源项目，包含通用抽象类，帮助用户快速地尝试和探索各种 基于LLM的强化学习环境】'LlamaGym - Fine-tune LL...](https://weibo.com/1402400261/O5IJsqeyl)
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [【3DGS.cpp：跨平台、高性能的Gaussian Splatting渲染器，支持 Windows、Linux、macOS、iOS和visionOS】'3DGS.cpp - A cross-platform, high performance render...](https://weibo.com/1402400261/O5IIYiYZA)
+Token length: 364
+Summarized using GPT-3.5-turbo
+Append: [【Garnet：微软研究团队开发的远程缓存-存储项目，具有强性能(吞吐量和延迟)， 可扩展性，存储、恢复，集群分片，密钥迁移和复制等功能】'Garnet - Garnet is a ...](https://weibo.com/1402400261/O5IIimt1C)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [【Pointrix：可微点渲染库，支持3D Gaussian Splatting等的渲染】'Pointrix: a differentiable point-based rendering libraries supporting 3D Gaussian Splatt...](https://weibo.com/1402400261/O5IGMqG5k)
+append_entries: 9
+Finish: 2024-03-19 08:14:35.422355

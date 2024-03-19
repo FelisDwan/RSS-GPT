@@ -423,3 +423,12 @@ Existing_entries: 41
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-19 06:13:54.839717
+------------------------------------------------------
+Started: 2024-03-19 08:13:36.566715
+Existing_entries: 41
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 344
+Summarized using GPT-3.5-turbo
+Append: [【#荣耀AI PC开价5999#】只需5999，就能买到一台当下最火的AI PC！预热已久的荣耀MagicBook Pro 16正式发布。作为一台AI PC，它支持AI智慧搜索、AI文档总结、AI...](https://weibo.com/6105753431/O5JdDmXbw)
+append_entries: 1
+Finish: 2024-03-19 08:13:45.696907
