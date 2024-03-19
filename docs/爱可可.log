@@ -604,3 +604,21 @@ Summarized using GPT-3.5-turbo
 Append: [[CL]《RAFT: Adapting Language Model to Domain Specific RAG》T Zhang, S G. Patil, N Jain, S Shen, M Zaharia, I Stoica, J E. Gonzalez [UC Berkeley] (202...](https://weibo.com/1402400261/O5FmNEWOr)
 append_entries: 10
 Finish: 2024-03-19 00:49:51.007155
+------------------------------------------------------
+Started: 2024-03-19 02:17:11.709318
+Existing_entries: 97
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 539
+Summarized using GPT-3.5-turbo
+Append: [【专家混合(MoE)模型详解】 - MoE通过使用稀疏的MoE层来替换稠密的前馈网络层，从而实现更高效的预训练。MoE层包含多个“专家”(通常是FFN)，以及一个门控网络来...](https://weibo.com/1402400261/O5Guy1JXq)
+Token length: 569
+Summarized using GPT-3.5-turbo
+Append: [【Quanto：pytorch量化工具包】1. quanto是一个灵活的pytorch量化工具包,提供了独特的功能:- 支持eager模式(可用于非可trace的模型)- 量化后的模型可在任意设备...](https://weibo.com/1402400261/O5GtgpFzZ)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.2...](https://weibo.com/1402400261/O5GrXa9Og)
+Token length: 761
+Summarized using GPT-3.5-turbo
+Append: [【解密Meta的GenAI基础设施】- Meta宣布投资建设了两座规模为24k GPU的AI集群，用于支持公司当前和未来的AI模型研发，包括下一代语言模型Llama 3。 - 详细介绍了...](https://weibo.com/1402400261/O5Gn8yily)
+append_entries: 4
+Finish: 2024-03-19 02:17:38.733596

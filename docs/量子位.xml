@@ -4,6 +4,7 @@
 <title>量子位的微博</title>
 <link>https://weibo.com/6105753431/</link>
 
+
 <item>
 <title>#英伟达发布新核弹B200##英伟达发布全球最强AI芯片# AI春晚GTC，皮衣老黄再次燃爆全场。时隔两年，英伟达官宣新一代Blackwell架构，定位直指“新工业革命的引擎...</title>
 <link>https://weibo.com/6105753431/O5G23zuSA</link>
@@ -11,13 +12,11 @@
 <content:encoded><![CDATA[
 <div> 关键词: AI春晚GTC, 英伟达, Blackwell架构, GPU, B200, GB200, AI推理微服务, cuLitho, 黄仁勋, GPT-4
 
-总结:<br><br>本文报道了英伟达在AI春晚GTC上宣布推出新一代Blackwell架构，定位为“新工业革命的引擎”，包括GPU新核弹B200和超级芯片GB200等产品。黄仁勋表示，Blackwell架构训练1.8万亿参数的GPT模型所需的GPU数量和能源消耗大幅减少。Blackwell架构还包含多项革新，如第二代Transformer引擎、第五代NVLink高速互联等。GB200支持最高27万亿参数的模型，而GPT-4只有1.7万亿参数。英伟达2024年战略更聚焦AI，强调推理算力和AI应用部署市场。另外，英伟达与苹果合作在Vision Pro方面，开发者可以在工业元宇宙进行空间计算。总的来说，在整个AI界的影响力和号召力上，黄仁勋的表现超过了马斯克和Altman。 <div>
+总结:<br /><br />本文报道了英伟达在AI春晚GTC上宣布推出新一代Blackwell架构，定位为“新工业革命的引擎”，包括GPU新核弹B200和超级芯片GB200等产品。黄仁勋表示，Blackwell架构训练1.8万亿参数的GPT模型所需的GPU数量和能源消耗大幅减少。Blackwell架构还包含多项革新，如第二代Transformer引擎、第五代NVLink高速互联等。GB200支持最高27万亿参数的模型，而GPT-4只有1.7万亿参数。英伟达2024年战略更聚焦AI，强调推理算力和AI应用部署市场。另外，英伟达与苹果合作在Vision Pro方面，开发者可以在工业元宇宙进行空间计算。总的来说，在整个AI界的影响力和号召力上，黄仁勋的表现超过了马斯克和Altman。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83%E6%96%B0%E6%A0%B8%E5%BC%B9B200%23&amp;extparam=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83%E6%96%B0%E6%A0%B8%E5%BC%B9B200%23"><span class="surl-text">#英伟达发布新核弹B200#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83%E5%85%A8%E7%90%83%E6%9C%80%E5%BC%BAAI%E8%8A%AF%E7%89%87%23&amp;extparam=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83%E5%85%A8%E7%90%83%E6%9C%80%E5%BC%BAAI%E8%8A%AF%E7%89%87%23"><span class="surl-text">#英伟达发布全球最强AI芯片#</span></a> <br /><br />AI春晚GTC，皮衣老黄再次燃爆全场。<br /><br />时隔两年，英伟达官宣新一代Blackwell架构，定位直指“新工业革命的引擎” /  “把AI扩展到万亿参数”。<br /><br />作为架构更新大年，本次大会亮点颇多：<br /><br />- GPU新核弹B200，超级芯片GB200<br />- Blackwell架构新服务器，一个机柜顶一个超算<br />- AI推理微服务，要做世界AI的入口<br />- 新光刻技术cuLitho进驻台积电，改进产能。<br />……<br /><br />黄仁勋表示：“过去，在90天内训练一个1.8万亿参数的MoE架构GPT模型，需要8000个Hopper架构GPU，15兆瓦功率。”<br /><br />如今，同样给90天时间，在Blackwell架构下只需要2000个GPU，以及1/4的能源消耗。<br /><br />在标准的1750亿参数GPT-3基准测试中，GB200的性能是H100的7倍，提供的训练算力是H100的4倍。<br /><br />Blackwell架构除了芯片本身外，还包含多项重大革新：<br /><br />- 第二代Transformer引擎：动态为神经网络中的每个神经元启用FP6和FP4精度支持。<br />- 第五代NVLink高速互联：为每个GPU 提供了1.8TB/s双向吞吐量，确保多达576个GPU之间的无缝高速通信。<br />- Ras Engine（可靠性、可用性和可维护性引擎）：基于AI的预防性维护来运行诊断和预测可靠性问题。<br />- Secure AI：先进的加密计算功能，在不影响性能的情况下保护AI模型和客户数据，对于医疗保健和金融服务等隐私敏感行业至关重要。<br />- 专用解压缩引擎：支持最新格式，加速数据库查询，以提供数据分析和数据科学的最高性能。<br /><br />在这些技术支持下，一个GB200 NVL72就最高支持27万亿参数的模型。而GPT-4根据泄露数据，也不过只有1.7万亿参数。<br /><br />最后总结一下，与往年相比英伟达2024年战略更聚焦AI了，而且产品更有针对性。<br /><br />比如第五代NVLink还特意为MoE架构大模型优化通讯瓶颈。<br /><br />新的芯片和软件服务，都在不断的强调推理算力，要进一步打开AI应用部署市场。<br /><br />当然作为算力之王，AI并不是英伟达的全部。<br /><br />这次大会上，还特别宣布了与苹果在Vision Pro方面的合作，让开发者在工业元宇宙里搞空间计算。<br /><br />总而言之，要论在整个AI界的影响力、号召力，在这一刻，无论是“钢铁侠”马斯克还是“奥特曼”Sam Altman，恐怕都比不过眼前这位“皮衣客”黄仁勋。<img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hnvx5rg1b2g30p00e8hdx.gif" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hnvx5x1h7ij30zk0m87az.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hnvxb8ybrfg30nm0d61kx.gif" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 18 Mar 2024 22:57:56 GMT</pubDate>
-<pubDate>Mon, 18 Mar 2024 22:57:56 GMT</pubDate>
 </item>
-
 <item>
 <title>【#马斯克AI大模型Grok开源#】和OpenAI正面刚？马斯克Grok正式开源，3140亿参数，是当前全球最大开源模型。国产大模型公司有福了。 量子位的微博视频</title>
 <link>https://weibo.com/6105753431/O5Bkscx4a</link>
