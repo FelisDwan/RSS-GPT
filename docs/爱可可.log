@@ -568,3 +568,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O5CC4ED3i)
 append_entries: 0
 Finish: 2024-03-18 22:10:45.709425
+------------------------------------------------------
+Started: 2024-03-19 00:49:07.245950
+Existing_entries: 87
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1349期)：面向推测译码加速的最优块级草稿验证、基于冻结特征增强的少样本图像分类、用RAG提高LLM事实准确性以对抗幻觉、适应特定域RAG的语言模型、...](https://weibo.com/1402400261/O5FPKcyln)
+Token length: 349
+Summarized using GPT-3.5-turbo
+Append: [[CV] FDGaussian: Fast Gaussian Splatting from Single Image via Geometric-aware Diffusion Model 网页链接 介绍了FDGaussian，一个基于单张图片的3D重建新框...](https://weibo.com/1402400261/O5FLgxilx)
+Token length: 353
+Summarized using GPT-3.5-turbo
+Append: [[CV] SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians 网页链接 介绍了SWAG模型，首个用于3D高斯Splatting(3DGS)技术在野外场景中扩...](https://weibo.com/1402400261/O5FJpsMWG)
+Token length: 309
+Summarized using GPT-3.5-turbo
+Append: [[CV] FeatUp: A Model-Agnostic Framework for Features at Any Resolution 网页链接 介绍了FeatUp，一个模型和任务不可知的框架，用于提高任意视觉模型特征的分...](https://weibo.com/1402400261/O5FHrfw0x)
+Token length: 375
+Summarized using GPT-3.5-turbo
+Append: [[CV] VideoAgent: Long-form Video Understanding with Large Language Model as Agent 网页链接 提出了一种新的基于Agent的系统VideoAgent，用于长视频理解。该...](https://weibo.com/1402400261/O5FFDAV2O)
+Token length: 333
+Summarized using GPT-3.5-turbo
+Append: [[LG] Understanding the Double Descent Phenomenon in Deep Learning 网页链接 解析了深度学习中的“双重下降”现象，这一现象与传统机器学习理论相悖，即超参...](https://weibo.com/1402400261/O5FCWiOLD)
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: [通过结合经典推测性解码与Medusa方法的优势，提出一种新的单模型推测性解码策略“循环起草器”(ReDrafter)，采用循环依赖设计的轻量级草稿头和动态树注意力算法...](https://weibo.com/1402400261/O5Ftyf0Gw)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Recurrent Drafter for Fast Speculative Decoding in Large Language Models》A Zhang, C Wang, Y Wang, X Zhang, Y Cheng [Apple] (2024) 网页链接 #机...](https://weibo.com/1402400261/O5FtvAoqi)
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [论文提出检索增强微调(RAFT)策略，通过训练大型语言模型区分并利用相关文档来提升特定领域内的问题回答能力，创新地解决了模型在面对分心文档时的适应性问题，并...](https://weibo.com/1402400261/O5FmW7B1p)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [[CL]《RAFT: Adapting Language Model to Domain Specific RAG》T Zhang, S G. Patil, N Jain, S Shen, M Zaharia, I Stoica, J E. Gonzalez [UC Berkeley] (202...](https://weibo.com/1402400261/O5FmNEWOr)
+append_entries: 10
+Finish: 2024-03-19 00:49:51.007155

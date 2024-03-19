@@ -4,6 +4,144 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>今日推介(第1349期)：面向推测译码加速的最优块级草稿验证、基于冻结特征增强的少样本图像分类、用RAG提高LLM事实准确性以对抗幻觉、适应特定域RAG的语言模型、...</title>
+<link>https://weibo.com/1402400261/O5FPKcyln</link>
+<guid>https://weibo.com/1402400261/O5FPKcyln</guid>
+<content:encoded><![CDATA[
+<div> 面向推测译码加速、块级草稿验证、冻结特征增强、少样本图像分类、RAG、LLM、事实准确性、适应特定域、语言模型、大型语言模型
+
+<br><br>总结:
+本文提出了面向推测译码加速的最优块级草稿验证方法，在图像分类任务中使用冻结特征增强来处理少样本情况，同时利用RAG提高LLM事实准确性以对抗幻觉。文章还探讨了适应特定域RAG的语言模型，并提出了面向大型语言模型快速推测解码的循环起草器。这些方法有望在加速推测译码和提高语言模型准确性方面发挥重要作用。 <div>
+今日推介(第1349期)：面向推测译码加速的最优块级草稿验证、基于冻结特征增强的少样本图像分类、用RAG提高LLM事实准确性以对抗幻觉、适应特定域RAG的语言模型、面向大型语言模型快速推测解码的循环起草器 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/687756478"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(3.19)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnvwfx7dt5j20k0089dgm.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnvwfzaly2j20k00q2n0h.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnvwg1j2dmj20k00edace.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnvwg40ht4j20k009ygmx.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnvwg5x3qrj20k00cmjtc.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 22:27:35 GMT</pubDate>
+<pubDate>Mon, 18 Mar 2024 22:27:35 GMT</pubDate>
+</item>
+<item>
+<title>[CV] FDGaussian: Fast Gaussian Splatting from Single Image via Geometric-aware Diffusion Model 网页链接 介绍了FDGaussian，一个基于单张图片的3D重建新框...</title>
+<link>https://weibo.com/1402400261/O5FLgxilx</link>
+<guid>https://weibo.com/1402400261/O5FLgxilx</guid>
+<content:encoded><![CDATA[
+<div> 关键词: FDGaussian, 单张图片, 3D重建, 正交平面分解, 扩散模型, 极线注意力, 高斯Splatting, 高斯散度显著性, 多视角一致性, 文本到3D应用
+
+总结:<br><br>
+该篇文章介绍了一种名为FDGaussian的新框架，用于基于单张图片进行3D重建。传统方法在多视角一致性和几何真实性方面存在一些问题，而FDGaussian则通过正交平面分解提取3D特征，利用扩散模型生成一致的多视角图像。此外，还引入了基于极线注意力的高斯Splatting技术，能加速不同视点图像的融合。通过提出的高斯散度显著性(GDS)指标，可以减少优化过程中不必要的拆分和克隆操作。实验表明，FDGaussian不仅可以保持多视角一致性，还能重建出具有详细几何信息的高质量3D对象，并且能够无缝集成到文本到3D应用中。 <div>
+[CV]  FDGaussian: Fast Gaussian Splatting from Single Image via Geometric-aware Diffusion Model  <br /><a href="https://arxiv.org/abs/2403.10242"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />介绍了FDGaussian，一个基于单张图片的3D重建新框架。传统的方法在多视角一致性和几何真实性上存在缺陷。FDGaussian通过正交平面分解提取3D特征，使用扩散模型生成一致的多视角图像。此外，引入了基于极线注意力的高斯Splatting，加速了不同视点图像融合，以及提出了高斯散度显著性(GDS)指标，减少了优化过程中不必要的拆分和克隆操作。实验表明，FDGaussian在保持多视角一致性的同时，能够重建出具有详细几何信息的高质量3D对象，并且能与文本到图像模型无缝集成，用于文本到3D应用。<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnvw4o40iqj21261jyanf.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnvw4oln6nj213e0z6k01.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnvw4oso0fj213m0g4n0j.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 22:16:33 GMT</pubDate>
+<pubDate>Mon, 18 Mar 2024 22:16:33 GMT</pubDate>
+</item>
+<item>
+<title>[CV] SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians 网页链接 介绍了SWAG模型，首个用于3D高斯Splatting(3DGS)技术在野外场景中扩...</title>
+<link>https://weibo.com/1402400261/O5FJpsMWG</link>
+<guid>https://weibo.com/1402400261/O5FJpsMWG</guid>
+<content:encoded><![CDATA[
+<div> 关键词: SWAG模型, 3D高斯Splatting, 图像外观, 高光照条件, 无监督学习, 瞬时高斯, 遮挡物移除, 训练速度提升, 渲染速度提升, 高质量重建
+
+总结:<br><br>本文介绍了SWAG模型，其为首个将3D高斯Splatting技术应用于野外场景中的模型。SWAG通过学习嵌入空间捕捉图像外观的变化，并对3D高斯的颜色进行调制，实现对不同光照条件下场景的建模。模型引入了无监督学习处理瞬时高斯的新机制，从而移除场景中的遮挡物。SWAG在野外数据集上表现出色，训练和渲染速度也大幅提升，达到最新的行业标准。文章展示了如何通过模型对外观进行建模和处理瞬时对象，实现对复杂真实世界场景的高效高质量重建。 <div>
+[CV] SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians  <br /><a href="https://arxiv.org/abs/2403.10427"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />介绍了SWAG模型，首个用于3D高斯Splatting(3DGS)技术在野外场景中扩展的应用。SWAG模型通过学习嵌入空间捕捉图像外观的变化，并对3D高斯的颜色进行调制，实现对不同光照条件下场景的建模。此外，模型还引入了一种新机制，通过无监督学习处理瞬时高斯，从而在没有前置条件的情况下移除场景中的遮挡物。相比先前的方法，SWAG不仅提升了3DGS在野外数据集上的表现，而且在训练和渲染速度上都有显著提高，达到了最新的行业标准。文章展示了如何在没有精确结构信息的状况下，通过对外观的建模和瞬时对象的处理，实现对复杂真实世界场景的高效和高质量重建。<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnvvzxxa0vj20yi1e4n8l.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnvvzym8ygj21oo15igzh.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnvvzz4ojjj21oo100tk6.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 22:12:00 GMT</pubDate>
+<pubDate>Mon, 18 Mar 2024 22:12:00 GMT</pubDate>
+</item>
+<item>
+<title>[CV] FeatUp: A Model-Agnostic Framework for Features at Any Resolution 网页链接 介绍了FeatUp，一个模型和任务不可知的框架，用于提高任意视觉模型特征的分...</title>
+<link>https://weibo.com/1402400261/O5FHrfw0x</link>
+<guid>https://weibo.com/1402400261/O5FHrfw0x</guid>
+<content:encoded><![CDATA[
+<div> FeatUp, 特征, 分辨率, 模型不可知, 多视角一致性, 上采样网络, 密集预测任务, 可解释性, NeRF, CUDA实现
+
+<br><br>总结:
+文章介绍了FeatUp，一个模型和任务不可知的框架，用于提高任意视觉模型特征的分辨率，同时保持原有语义。FeatUp使用多视角一致性损失来聚合低分辨率视图信息，学习高分辨率信息，有通用的前馈上采样网络和过拟合单个图像隐式表示两种体系结构。该框架提高了密集预测任务的性能，增强了模型可解释性，并采用了类似于NeRF的多视角一致性方法，具有高效的CUDA实现。FeatUp为提高特征分辨率和模型解释性提供了新的可能性。 <div>
+[CV] FeatUp: A Model-Agnostic Framework for Features at Any Resolution  <br /><a href="https://arxiv.org/abs/2403.10516"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />介绍了FeatUp，一个模型和任务不可知的框架，用于提高任意视觉模型特征的分辨率，同时保持原有语义，通过多视角一致性损失来聚合从模型输出中经过轻微变换图像得到的低分辨率视图信息，从而学习高分辨率信息。FeatUp有两种体系结构：一种是通用的前馈上采样网络，另一种是过拟合单个图像的隐式表示。该框架能够提高语义分割和深度预测等密集预测任务的性能，并增强模型可解释性。值得注意的是，FeatUp采用了类似于NeRF的多视角一致性方法，并且其高效的CUDA实现显著优于现有技术。<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnvvux0wnij214m1m2nfo.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnvvuvmrjaj21mw0qownc.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnvvuvlqhgj21nm0jgahb.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnvvuvky7pj21nk0f20yk.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 22:07:08 GMT</pubDate>
+<pubDate>Mon, 18 Mar 2024 22:07:08 GMT</pubDate>
+</item>
+<item>
+<title>[CV] VideoAgent: Long-form Video Understanding with Large Language Model as Agent 网页链接 提出了一种新的基于Agent的系统VideoAgent，用于长视频理解。该...</title>
+<link>https://weibo.com/1402400261/O5FFDAV2O</link>
+<guid>https://weibo.com/1402400261/O5FFDAV2O</guid>
+<content:encoded><![CDATA[
+<div> 大型语言模型(LLM)、视觉语言模型(VLM)、对比语言-图像模型(CLIP)、长视频理解、Agent、交互式推理、零样本准确率、EgoSchema、NExT-QA、效率。
+
+总结:<br><br>
+研究提出了基于Agent的VideoAgent系统，以大型语言模型(LLM)为中心Agent，通过交互式推理和规划来理解长视频。利用视觉语言模型(VLM)和对比语言-图像模型(CLIP)来提取和转换视觉信息。实验结果显示，VideoAgent在EgoSchema和NExT-QA基准测试中表现出色，零样本准确率分别达到54.1%和71.3%，同时仅平均使用8.4和8.2帧。这表明以Agent为基础的方法在长视频理解领域具有潜在的潜力，效率和效果优于现有方法。 <div>
+[CV] VideoAgent: Long-form Video Understanding with Large Language Model as Agent  <br /><a href="https://arxiv.org/abs/2403.10517"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />提出了一种新的基于Agent的系统VideoAgent，用于长视频理解。该系统以大型语言模型(LLM)作为中心Agent，通过迭代式识别和汇总关键信息以回答问题，利用视觉语言模型(VLM)和对比语言-图像模型(CLIP)作为工具提取和转换视觉信息。该方法模仿人类理解长视频的认知过程，重在交互式推理和规划而非直接处理长期视觉输入。实验结果显示，VideoAgent在EgoSchema和NExT-QA基准测试中分别取得了54.1%和71.3%的零样本准确率，仅平均使用8.4和8.2帧，效率和效果均优于现有最先进方法。本研究突显了以Agent为基础的方法在推进长视频理解方面的潜力。<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnvvq9ed7qj214o1m0dxb.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnvvq9rvh2j21ck0t612p.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnvvqaegkpj21c80nuqaz.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnvvqb1w9ij21c81c4x0m.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 22:02:42 GMT</pubDate>
+<pubDate>Mon, 18 Mar 2024 22:02:42 GMT</pubDate>
+</item>
+<item>
+<title>[LG] Understanding the Double Descent Phenomenon in Deep Learning 网页链接 解析了深度学习中的“双重下降”现象，这一现象与传统机器学习理论相悖，即超参...</title>
+<link>https://weibo.com/1402400261/O5FCWiOLD</link>
+<guid>https://weibo.com/1402400261/O5FCWiOLD</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 双重下降现象, 深度学习, 统计学习, 泛化误差, 归纳偏差, 梯度下降, 超参数化模型, 线性模型, 超参数化优化, 神经网络
+
+总结:<br><br>
+本文解析了深度学习中的双重下降现象，即超参数化模型在数据插值点之后继续增加复杂度，测试误差反而降低。文章首先梳理了经典统计学习中的泛化误差概念，引入了双重下降现象。接着讨论了归纳偏差在选择平滑经验风险最小化解中的关键作用，特别是梯度下降在有多个解的情形下偏向于某些解的隐性特性。进一步通过两个线性模型具体探讨了双重下降的原因，并回顾了相关研究，如超参数化优化和神经网络中的拥塞转换现象。文章深入剖析了深度学习中的泛化行为，为理解深度学习提供了重要见解。 <div>
+[LG] Understanding the Double Descent Phenomenon in Deep Learning  <br /><a href="https://arxiv.org/abs/2403.10459"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />解析了深度学习中的“双重下降”现象，这一现象与传统机器学习理论相悖，即超参数化模型在数据插值点之后继续增加复杂度，测试误差反而降低。文中首先梳理了经典统计学习中的泛化误差概念，并以此引入双重下降现象。接着，讨论了归纳偏差在选择平滑经验风险最小化解中的关键作用，特别是梯度下降在有多个解的情形下偏向于某些解的隐性特性。最后，文章通过两个线性模型具体探讨了双重下降的原因，并回顾了相关研究，如超参数化优化和作为物理系统的神经网络中的拥塞转换(jamming transition)现象。本文对于理解深度学习中的泛化行为提供了深刻见解。<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnvvjbzd2yj212s1ie14m.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnvvjcgs1sj21640dywh6.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnvvjcwillj216m0imjvr.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnvvjdc28rj21680fu0vf.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 21:56:03 GMT</pubDate>
+<pubDate>Mon, 18 Mar 2024 21:56:03 GMT</pubDate>
+</item>
+<item>
+<title>通过结合经典推测性解码与Medusa方法的优势，提出一种新的单模型推测性解码策略“循环起草器”(ReDrafter)，采用循环依赖设计的轻量级草稿头和动态树注意力算法...</title>
+<link>https://weibo.com/1402400261/O5Ftyf0Gw</link>
+<guid>https://weibo.com/1402400261/O5Ftyf0Gw</guid>
+<content:encoded><![CDATA[
+<div> 关键词：推测性解码，Medusa方法，单模型，循环起草器，循环依赖设计，轻量级草稿头，动态树注意力算法，推断延迟，模型部署，优势
+
+<br><br>总结:
+本文提出了一种新的单模型推测性解码策略“循环起草器”(ReDrafter)，结合经典推测性解码与Medusa方法，采用循环依赖设计的轻量级草稿头和动态树注意力算法。该方法有效降低了大型语言模型的推断延迟，简化了模型部署，具有显著优势。研究结果表明，“循环起草器”能够在大型语言模型中表现出色，为实际应用提供了新的思路和可能性。 <div>
+通过结合经典推测性解码与Medusa方法的优势，提出一种新的单模型推测性解码策略“循环起草器”(ReDrafter)，采用循环依赖设计的轻量级草稿头和动态树注意力算法，有效降低了大型语言模型的推断延迟，简化了模型部署，具有实际应用中的显著优势。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Recurrent Drafter for Fast Speculative Decoding in Large Language Models》A Zhang, C Wang, Y Wang, X Zhang, Y Cheng [Apple] (2024) <a href="https://arxiv.org/abs/2403.09919"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnvulnyqnwj218k0tqang.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnvuloc2kcj21gq12edl5.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnvuloksbtj21ho0xu4a2.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnvulons0hj21hc0o2n4k.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnvuv4qsh0j21gy0mcjyf.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnvuumqosxj20vh0k7diu.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnvuv5fakoj21hg0tiqbd.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 21:32:55 GMT</pubDate>
+<pubDate>Mon, 18 Mar 2024 21:32:55 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《Recurrent Drafter for Fast Speculative Decoding in Large Language Models》A Zhang, C Wang, Y Wang, X Zhang, Y Cheng [Apple] (2024) 网页链接 #机...</title>
+<link>https://weibo.com/1402400261/O5FtvAoqi</link>
+<guid>https://weibo.com/1402400261/O5FtvAoqi</guid>
+<content:encoded><![CDATA[
+<div> 大语言模型，高效解码，快速推测，反复草案，苹果，研究，技术，人工智能，科技，语言处理
+
+<br><br>总结:
+本文介绍了一种在大型语言模型中进行快速推测解码的方法，称为“Recurrent Drafter”。该方法通过反复草案的方式，利用循环神经网络来提高解码效率和速度。研究是由苹果公司的张、王和程等人共同完成的，对人工智能和语言处理技术领域具有重要意义。通过该方法，可以在大语言模型中实现高效的快速推测，为科技领域带来新的突破。 <div>
+[CL]《Recurrent Drafter for Fast Speculative Decoding in Large Language Models》A Zhang, C Wang, Y Wang, X Zhang, Y Cheng [Apple] (2024) <a href="https://arxiv.org/abs/2403.09919"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnvulnyqnwj218k0tqang.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnvuloc2kcj21gq12edl5.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnvuloksbtj21ho0xu4a2.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnvulons0hj21hc0o2n4k.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnvuv4qsh0j21gy0mcjyf.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnvuumqosxj20vh0k7diu.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnvuv5fakoj21hg0tiqbd.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 21:32:48 GMT</pubDate>
+<pubDate>Mon, 18 Mar 2024 21:32:48 GMT</pubDate>
+</item>
+<item>
+<title>论文提出检索增强微调(RAFT)策略，通过训练大型语言模型区分并利用相关文档来提升特定领域内的问题回答能力，创新地解决了模型在面对分心文档时的适应性问题，并...</title>
+<link>https://weibo.com/1402400261/O5FmW7B1p</link>
+<guid>https://weibo.com/1402400261/O5FmW7B1p</guid>
+<content:encoded><![CDATA[
+<div> 增强微调, 检索, 大型语言模型, 问题回答, 领域特定, 适应性问题, 数据集, 有效性, 传统微调方法
+
+<br><br>总结:
+本论文提出了检索增强微调（RAFT）策略，该策略通过训练大型语言模型，在特定领域内区分并利用相关文档，提升问题回答能力。研究创新地解决了模型在面对分心文档时的适应性问题，经多个数据集验证，RAFT策略优于传统微调方法，具有更好的有效性。这一研究结果对语言模型领域具有重要意义，为解决领域特定问题提供了一种新的探索思路。 <div>
+论文提出检索增强微调(RAFT)策略，通过训练大型语言模型区分并利用相关文档来提升特定领域内的问题回答能力，创新地解决了模型在面对分心文档时的适应性问题，并在多个数据集上验证了其优于传统微调方法的有效性。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《RAFT: Adapting Language Model to Domain Specific RAG》T Zhang, S G. Patil, N Jain, S Shen, M Zaharia, I Stoica, J E. Gonzalez [UC Berkeley] (2024) <a href="https://arxiv.org/abs/2403.10131"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnvud0zq50j20ma13eqcp.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnvud1htzhj21p60mgdpq.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnvud1p1qfj21oq0u8k08.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnvud1v4naj21p010cqhm.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnvudzt6mpj212b0ckgo5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnvudztbeqj212c0hewhu.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 21:16:37 GMT</pubDate>
+<pubDate>Mon, 18 Mar 2024 21:16:37 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《RAFT: Adapting Language Model to Domain Specific RAG》T Zhang, S G. Patil, N Jain, S Shen, M Zaharia, I Stoica, J E. Gonzalez [UC Berkeley] (202...</title>
+<link>https://weibo.com/1402400261/O5FmNEWOr</link>
+<guid>https://weibo.com/1402400261/O5FmNEWOr</guid>
+<content:encoded><![CDATA[
+<div> 领域自适应语言模型，RAFT，特定领域RAG，UC Berkeley，语言模型
+
+总结:<br><br>本文介绍了一种新颖的方法，称为RAFT，用于将通用语言模型适应到特定领域的RAG中。研究人员提出了一种新颖的自适应机制，以提高领域特定问答生成的性能。他们在UC Berkeley进行了实验，并展示了该方法的有效性。这项工作对于提高领域特定语言模型的性能具有重要意义。 <div>
+[CL]《RAFT: Adapting Language Model to Domain Specific RAG》T Zhang, S G. Patil, N Jain, S Shen, M Zaharia, I Stoica, J E. Gonzalez [UC Berkeley] (2024) <a href="https://arxiv.org/abs/2403.10131"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnvud0zq50j20ma13eqcp.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnvud1htzhj21p60mgdpq.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnvud1p1qfj21oq0u8k08.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnvud1v4naj21p010cqhm.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnvudzt6mpj212b0ckgo5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnvudztbeqj212c0hewhu.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 18 Mar 2024 21:16:18 GMT</pubDate>
+<pubDate>Mon, 18 Mar 2024 21:16:18 GMT</pubDate>
+</item>
 
 <item>
 <title>《爱可可微博热门分享(3.18)》 爱可可微博热门分享(3.18) [图片]</title>
