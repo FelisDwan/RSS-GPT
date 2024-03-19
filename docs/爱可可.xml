@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【LLM-RLHF-Tuning：用于AI训练的开源工具包，提供PPO/DPO等算法】’LLM-RLHF-Tuning - Comprehensive toolkit for Reinforcement Learning from Human Feedback...</title>
 <link>https://weibo.com/1402400261/O5IPUvXAm</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> RLHF, 开源工具包, AI训练, PPO, DPO, 算法, 指导微调, 奖励模型训练, 配置, Alpaca, LLaMA
 
-<br><br>总结:
+<br /><br />总结:
 LLM-RLHF-Tuning是一个用于AI训练的开源工具包，提供了PPO和DPO等算法，支持指导微调和奖励模型训练。该工具包适用于Alpaca、LLaMA和LLaMA2模型，可以进行各种配置。通过使用LLM-RLHF-Tuning，用户可以更有效地进行强化学习训练，提高模型性能和表现。GitHub链接：github.com/raghavc/LLM-RLHF-Tuning-with-PPO-and-DPO <div>
 【LLM-RLHF-Tuning：用于AI训练的开源工具包，提供PPO/DPO等算法】’LLM-RLHF-Tuning - Comprehensive toolkit for Reinforcement Learning from Human Feedback (RLHF) training, featuring instruction fine-tuning, reward model training, and support for PPO and DPO algorithms with various configurations for the Alpaca, LLaMA, and LLaMA2 models.' GitHub: github.com/raghavc/LLM-RLHF-Tuning-with-PPO-and-DPO <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnw9pflkjaj21d20u00z3.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 06:06:15 GMT</pubDate>
 <pubDate>Tue, 19 Mar 2024 06:06:15 GMT</pubDate>
 </item>
 <item>
@@ -27,11 +27,10 @@ LLM-RLHF-Tuning是一个用于AI训练的开源工具包，提供了PPO和DPO等
 
 LitServe是一个开源AI/ML模型推理服务器，目的是提供一个简洁且可扩展的解决方案，适用于各种GPU上运行ML模型。该项目在GitHub上有开源代码。
 
-总结:<br><br>
+总结:<br /><br />
 LitServe是一个推理服务器，专为AI/ML模型设计。它被设计为简洁且高度可扩展，适用于在各种GPU上运行ML模型。LitServe的目标是提供一个高效的解决方案，帮助开发人员轻松部署和运行他们的模型。LitServe的开源代码可以在GitHub上找到，有兴趣的人可以查看并参与其中。 <div>
 【LitServe：开源AI模型推理服务器，其目的是简洁且可扩展，可用于各种 GPU 上运行 ML 模型】'LitServe - Inference server for AI/ML models that is minimal and highly scalable.' GitHub: github.com/Lightning-AI/litserve <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnw9n6ltoaj21cl0u0dk4.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 06:04:05 GMT</pubDate>
 <pubDate>Tue, 19 Mar 2024 06:04:05 GMT</pubDate>
 </item>
 <item>
@@ -41,11 +40,10 @@ LitServe是一个推理服务器，专为AI/ML模型设计。它被设计为简�
 <content:encoded><![CDATA[
 <div> 关键词: 金融领域、中文语言、数据评测集、GitHub、Alipay、版本、专业、数据、评测、金融
 
-总结:<br><br>
+总结:<br /><br />
 文章介绍了Alipay开发的金融领域中文语言专业数据评测集——Fin-Eva Version 1.0。该数据集旨在为金融领域的研究者和开发者提供一个可靠的数据源，帮助他们进行评测和研究工作。数据集包含了丰富的金融领域数据，并在GitHub上开放下载，方便用户获取和使用。用户可以在GitHub上找到相关信息，并了解数据集的具体内容和版本信息。通过使用该数据集，研究者和开发者可以从中获取有价值的信息，用于进行金融领域的研究和分析工作。 Fin-Eva Version 1.0标志着Alipay在金融领域数据开放方面的贡献，并为相关领域的学术研究和技术开发提供了重要支持。 <div>
 'Fin-Eva Version 1.0 金融领域中文语言专业数据评测集' GitHub: github.com/alipay/financial_evaluation_dataset <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnw9lj7nzgj216y0u0wkq.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 06:02:30 GMT</pubDate>
 <pubDate>Tue, 19 Mar 2024 06:02:30 GMT</pubDate>
 </item>
 <item>
@@ -55,11 +53,10 @@ LitServe是一个推理服务器，专为AI/ML模型设计。它被设计为简�
 <content:encoded><![CDATA[
 <div> GitHub, Controllable generation, Text-to-image diffusion models, Resources, Collection, Awesome, Priv-Creation, Controllable T2I Diffusion Models
 
-<br><br>总结:
+<br /><br />总结:
 本文资源集合了一些关于文本到图像扩散模型可控生成的资源。GitHub中包含了多种有关可控生成的信息。这些资源涵盖了文本到图像扩散模型的多个方面，对于研究和实践都具有重要价值。特别是对于那些对文本到图像生成感兴趣的研究者和开发人员，这些资源将提供丰富的参考资料和工具，有助于在这一领域取得进展。GitHub链接为github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models。 <div>
 【文本到图像扩散模型可控生成相关文献资源列表】’Awesome Controllable T2I Diffusion Models - A collection of resources on controllable generation with text-to-image diffusion models.' GitHub: github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models?continueFlag=92653a077e6b01a49a5f05f9aa55a3e7 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnw9cn6stmj216s0lwgox.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 05:54:08 GMT</pubDate>
 <pubDate>Tue, 19 Mar 2024 05:54:08 GMT</pubDate>
 </item>
 <item>
@@ -67,11 +64,10 @@ LitServe是一个推理服务器，专为AI/ML模型设计。它被设计为简�
 <link>https://weibo.com/1402400261/O5IKkvNsI</link>
 <guid>https://weibo.com/1402400261/O5IKkvNsI</guid>
 <content:encoded><![CDATA[
-<div> Nextjs、React、Drizzle、Stripe、全栈、克隆项目、Duolingo、GitHub、AntonioErdeljac</br>
+<div> Nextjs、React、Drizzle、Stripe、全栈、克隆项目、Duolingo、GitHub、AntonioErdeljac
 本文介绍了一个基于Nextjs、React、Drizzle和Stripe的Duolingo全栈克隆项目，作者是AntonioErdeljac，并提供了GitHub链接。项目的目标是构建一个类似于Duolingo的学习平台，通过使用React库来构建用户界面，Nextjs作为应用程序框架，Drizzle作为以太坊区块链的项目开发工具，Stripe用于实现支付功能。项目的实现可以帮助开发人员学习如何使用这些技术和工具来构建现代Web应用程序。 <div>
 【基于 Nextjs、React、Drizzle和Stripe 的Duolingo全栈克隆项目】'Build a Duolingo Clone With Nextjs, React, Drizzle, Stripe (2024)' GitHub: github.com/AntonioErdeljac/next14-duolingo-clone <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnw9az1oeoj20zk0k00vb.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 05:52:30 GMT</pubDate>
 <pubDate>Tue, 19 Mar 2024 05:52:30 GMT</pubDate>
 </item>
 <item>
@@ -81,10 +77,9 @@ LitServe是一个推理服务器，专为AI/ML模型设计。它被设计为简�
 <content:encoded><![CDATA[
 <div> LLamaGym, 开源项目, 强化学习环境, 基于语言模型, 抽象类, 探索, Fine-tune, LLM agents, 在线强化学习
 
-总结:<br><br>LLamaGym是一个开源项目，用于简化基于语言模型的强化学习环境，包含通用抽象类，帮助用户快速尝试和探索各种基于LLM的强化学习环境。用户可以通过这个项目来调优LLM代理并进行在线强化学习。GitHub链接：github.com/KhoomeiK/LlamaGym。 <div>
+总结:<br /><br />LLamaGym是一个开源项目，用于简化基于语言模型的强化学习环境，包含通用抽象类，帮助用户快速尝试和探索各种基于LLM的强化学习环境。用户可以通过这个项目来调优LLM代理并进行在线强化学习。GitHub链接：github.com/KhoomeiK/LlamaGym。 <div>
 【LlamaGym：用来简化基于语言模型的强化学习环境的开源项目，包含通用抽象类，帮助用户快速地尝试和探索各种 基于LLM的强化学习环境】'LlamaGym - Fine-tune LLM agents with online reinforcement learning' GitHub: github.com/KhoomeiK/LlamaGym <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnw98vz3zjj20xz0u0tdc.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 05:50:21 GMT</pubDate>
 <pubDate>Tue, 19 Mar 2024 05:50:21 GMT</pubDate>
 </item>
 <item>
@@ -93,11 +88,10 @@ LitServe是一个推理服务器，专为AI/ML模型设计。它被设计为简�
 <guid>https://weibo.com/1402400261/O5IIYiYZA</guid>
 <content:encoded><![CDATA[
 <div> 高性能、跨平台、Gaussian Splatting、渲染器、Vulkan Compute、Windows、Linux、macOS、iOS、visionOS
-<br><br>总结:
+<br /><br />总结:
 3DGS.cpp是一个跨平台、高性能的渲染器，使用Vulkan Compute技术实现Gaussian Splatting。支持多种操作系统，包括Windows、Linux、macOS、iOS和visionOS。项目托管在GitHub上，网址为github.com/shg8/3DGS.cpp。 <div>
 【3DGS.cpp：跨平台、高性能的Gaussian Splatting渲染器，支持 Windows、Linux、macOS、iOS和visionOS】'3DGS.cpp - A cross-platform, high performance renderer for Gaussian Splatting using Vulkan Compute. Supports Windows, Linux, macOS, iOS, and visionOS' GitHub: github.com/shg8/3DGS.cpp <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnw97nb7o7j20u00uj44e.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 05:49:09 GMT</pubDate>
 <pubDate>Tue, 19 Mar 2024 05:49:09 GMT</pubDate>
 </item>
 <item>
@@ -107,12 +101,11 @@ LitServe是一个推理服务器，专为AI/ML模型设计。它被设计为简�
 <content:encoded><![CDATA[
 <div> 远程缓存-存储、微软研究团队、强性能、吞吐量、延迟、可扩展性、存储恢复、集群分片、密钥迁移、复制
 
-<br><br>
+<br /><br />
 总结:
 微软研究团队开发了远程缓存-存储项目Garnet，具备强大的性能表现，包括高吞吐量和低延迟。该项目具有良好的可扩展性，支持存储、恢复、集群分片、密钥迁移和复制等功能。此外，Garnet可以与现有的Redis客户端兼容，为用户提供更好的使用体验。 <div>
 【Garnet：微软研究团队开发的远程缓存-存储项目，具有强性能(吞吐量和延迟)， 可扩展性，存储、恢复，集群分片，密钥迁移和复制等功能】'Garnet - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.' GitHub: github.com/microsoft/garnet <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnw95wf41dj218m0u0jyi.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 05:47:29 GMT</pubDate>
 <pubDate>Tue, 19 Mar 2024 05:47:29 GMT</pubDate>
 </item>
 <item>
@@ -120,19 +113,17 @@ LitServe是一个推理服务器，专为AI/ML模型设计。它被设计为简�
 <link>https://weibo.com/1402400261/O5IGMqG5k</link>
 <guid>https://weibo.com/1402400261/O5IGMqG5k</guid>
 <content:encoded><![CDATA[
-<div> Point-based rendering, differentiable, 3D Gaussian Splatting, library, Pointrix, GitHub, support <br>
-<br>
-要点一：Pointrix是一个可微的点渲染库，支持3D Gaussian Splatting等技术。<br>
-要点二：该库的GitHub链接为github.com/pointrix-project/pointrix。 <br>
-要点三：Pointrix提供了高效的点渲染和处理功能，可用于各种3D图形应用中。<br>
-要点四：库支持不同的渲染技术，包括3D Gaussian Splatting等，可以实现更加逼真的渲染效果。<br> 
+<div> Point-based rendering, differentiable, 3D Gaussian Splatting, library, Pointrix, GitHub, support <br />
+<br />
+要点一：Pointrix是一个可微的点渲染库，支持3D Gaussian Splatting等技术。<br />
+要点二：该库的GitHub链接为github.com/pointrix-project/pointrix。 <br />
+要点三：Pointrix提供了高效的点渲染和处理功能，可用于各种3D图形应用中。<br />
+要点四：库支持不同的渲染技术，包括3D Gaussian Splatting等，可以实现更加逼真的渲染效果。<br /> 
 总结: Pointrix是一个支持3D Gaussian Splatting等渲染技术的可微点渲染库，在GitHub上可以找到该项目。这个库提供了高效的点渲染和处理功能，适用于各种3D图形应用，并可以实现更加逼真的渲染效果。 <div>
 【Pointrix：可微点渲染库，支持3D Gaussian Splatting等的渲染】'Pointrix: a differentiable point-based rendering libraries supporting 3D Gaussian Splatting and beyond' GitHub: github.com/pointrix-project/pointrix <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnw91zmhtsj20v70u0dk5.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Tue, 19 Mar 2024 05:43:45 GMT</pubDate>
-<pubDate>Tue, 19 Mar 2024 05:43:45 GMT</pubDate>
 </item>
-
 <item>
 <title>【专家混合(MoE)模型详解】 - MoE通过使用稀疏的MoE层来替换稠密的前馈网络层，从而实现更高效的预训练。MoE层包含多个“专家”(通常是FFN)，以及一个门控网络来...</title>
 <link>https://weibo.com/1402400261/O5Guy1JXq</link>

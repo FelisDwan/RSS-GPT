@@ -667,3 +667,9 @@ Summarized using GPT-3.5-turbo
 Append: [【Pointrix：可微点渲染库，支持3D Gaussian Splatting等的渲染】'Pointrix: a differentiable point-based rendering libraries supporting 3D Gaussian Splatt...](https://weibo.com/1402400261/O5IGMqG5k)
 append_entries: 9
 Finish: 2024-03-19 08:14:35.422355
+------------------------------------------------------
+Started: 2024-03-19 10:11:51.382496
+Existing_entries: 110
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-03-19 10:11:51.529462

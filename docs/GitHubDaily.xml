@@ -4,6 +4,20 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+<item>
+<title>推荐 GitHub 上一个开源免费创建临时邮箱的工具 Vmail.DEV。其使用 Cloudflare email worker 实现的临时电子邮件服务。实现了如下功能：- 接收电子邮件- 显示电...</title>
+<link>https://weibo.com/5722964389/O5JwwFwS3</link>
+<guid>https://weibo.com/5722964389/O5JwwFwS3</guid>
+<content:encoded><![CDATA[
+<div> GitHub 开源 临时邮箱 Cloudflare email worker 接收 显示 存储 自托管 部署
+
+<br><br>总结:
+Vmail.DEV 是一个开源免费的临时邮箱工具，使用 Cloudflare email worker 实现临时电子邮件服务，具有接收、显示和存储电子邮件的功能。用户可以选择自托管部署，实现更加个性化的使用体验。GitHub 上的项目链接为github.com/yesmore/vmail。 <div>
+推荐 GitHub 上一个开源免费创建临时邮箱的工具 Vmail.DEV。<br /><br />其使用 Cloudflare email worker 实现的临时电子邮件服务。<br /><br />实现了如下功能：<br /><br />- 接收电子邮件<br />- 显示电子邮件<br />- 邮件存储<br /><br />GitHub：github.com/yesmore/vmail<br /><br />另外，支持自托管，可以自己部署一个使用。 <img src="https://tvax4.sinaimg.cn/large/006fiYtfgy1hnwcqm60foj310a0kvn19.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 19 Mar 2024 07:51:15 GMT</pubDate>
+<pubDate>Tue, 19 Mar 2024 07:51:15 GMT</pubDate>
+</item>
 
 <item>
 <title>推荐 GitHub 上最近连续霸榜的一个自媒体爬虫工具 MediaCrawler。目前已支持小红书、抖音、快手、B 站、微博等自媒体平台的视频、图片、评论、点赞、转发信息抓...</title>
