@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【专家混合(MoE)模型详解】 - MoE通过使用稀疏的MoE层来替换稠密的前馈网络层，从而实现更高效的预训练。MoE层包含多个“专家”(通常是FFN)，以及一个门控网络来...</title>
 <link>https://weibo.com/1402400261/O5Guy1JXq</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 稀疏、MoE层、专家、门控网络、计算预算、预训练、参数数量、训练效率、知识蒸馏、开源实现
 
-<br><br>总结:
+<br /><br />总结:
 MoE是一种通过稀疏的MoE层来取代稠密的前馈网络层，实现更高效预训练的模型。MoE包含多个专家和门控网络，能在相同计算预算下训练更大规模的模型，且在预训练过程中速度更快且质量相当。MoE在推理速度更快但内存需求高，微调困难且容易过拟合，但可通过多任务提示调优和单任务微调改善效果。选择MoE还是稠密模型取决于具体场景，可调整门控网络、专家容量等提高效率，也可通过知识蒸馏将MoE模型蒸馏为稠密模型。开源实现有Megablocks、Fairseq、OpenMoE等，模型包括Switch Transformers、NLLB MoE、OpenMoE等。未来MoE研究方向包括知识蒸馏、模型合并、量化等。 <div>
 【专家混合(MoE)模型详解】  <br />- MoE通过使用稀疏的MoE层来替换稠密的前馈网络层，从而实现更高效的预训练。MoE层包含多个“专家”(通常是FFN)，以及一个门控网络来确定哪些tokens被送到哪个专家。   <br />- MoE可以在相同的计算预算下预训练出更大规模的模型。与稠密模型相比，MoE模型可以在预训练过程中以更快的速度达到相同的质量。   <br />- MoE模型推理速度更快，但需要加载全部参数到内存，所以内存需求高。   <br />- MoE模型微调较难，容易过拟合，但最近的工作显示先进行多任务提示调优然后再单任务微调可以改善效果。   <br />- 与稠密模型直接比较参数数量是错误的，因为它们表示不同的意义。选择MoE还是稠密模型取决于具体场景。   <br />- 为提高训练和推理效率，可调整门控网络、专家容量、精度等。还可通过知识蒸馏将MoE模型蒸馏为稠密模型。   <br />- 一些开源的MoE实现包括Megablocks、Fairseq、OpenMoE等。已发布的开源MoE模型有Switch Transformers、NLLB MoE、OpenMoE等。   <br />- MoE模型的一些激动人心的研究方向包括知识蒸馏、模型合并、量化等。<br />《Mixture of Experts Explained》 <a href="https://huggingface.co/blog/moe"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnvzcsvvqoj210r0u0td2.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 00:08:07 GMT</pubDate>
 <pubDate>Tue, 19 Mar 2024 00:08:07 GMT</pubDate>
 </item>
 <item>
@@ -23,17 +23,16 @@ MoE是一种通过稀疏的MoE层来取代稠密的前馈网络层，实现更�
 <link>https://weibo.com/1402400261/O5GtgpFzZ</link>
 <guid>https://weibo.com/1402400261/O5GtgpFzZ</guid>
 <content:encoded><![CDATA[
-<div> 量化工具包 PyTorch CUDA MPS QLinear QConv2d 动态 静态 int8 int2 int4 Transformers 模型 流程 校准 调优 冻结 性能 准确率 加速比 实现细节 dispatch PTQ 优化算法<br>
-<br>
-总结:<br>
-1. quanto是一个灵活的pytorch量化工具包，支持eager模式和量化后模型在任意设备上运行。<br>
-2. 典型的量化流程包括量化、校准、调优和冻结。<br>
-3. quanto与huggingface transformers库深度集成，可通过QuantoConfig来量化任意模型。<br>
-4. quanto的实现细节包括定制Tensor子类、量化模块和针对常见函数的量化版本。<br>
+<div> 量化工具包 PyTorch CUDA MPS QLinear QConv2d 动态 静态 int8 int2 int4 Transformers 模型 流程 校准 调优 冻结 性能 准确率 加速比 实现细节 dispatch PTQ 优化算法<br />
+<br />
+总结:<br />
+1. quanto是一个灵活的pytorch量化工具包，支持eager模式和量化后模型在任意设备上运行。<br />
+2. 典型的量化流程包括量化、校准、调优和冻结。<br />
+3. quanto与huggingface transformers库深度集成，可通过QuantoConfig来量化任意模型。<br />
+4. quanto的实现细节包括定制Tensor子类、量化模块和针对常见函数的量化版本。<br />
 5. quanto的性能展示了不同量化配置的准确率以及量化带来的加速比。 <div>
 【Quanto：pytorch量化工具包】<br />1. quanto是一个灵活的pytorch量化工具包,提供了独特的功能:<br />- 支持eager模式(可用于非可trace的模型)<br />- 量化后的模型可在任意设备上运行(包括CUDA和MPS)  <br />- 自动插入量化和反量化代码<br />- 自动插入量化的函数操作<br />- 自动插入量化的模块(如QLinear、QConv2d等)<br />- 提供从动态到静态量化的流程  <br />- 支持量化模型的状态字典序列化<br />- 不仅支持int8权重,还支持int2和int4<br />- 不仅支持int8激活,还支持float8<br />2. 典型的量化流程包括:量化、校准、调优和冻结。<br />3. quanto与huggingface transformers库深度集成,可通过QuantoConfig来量化任意模型。<br />4. quanto的实现细节:<br />- 提供了针对不同量化类型的定制Tensor子类<br />- 提供了可处理quanto tensor的量化模块,如QLinear、QConv2d等<br />- 通过pytorch dispatch机制,实现了常见函数的量化版本<br />- 计划集成各种PTQ优化算法<br />5. quanto的性能:<br />- 在多个模型上展示了不同量化配置的准确率<br />- 展示了相比全精度,量化带来的加速比<br />《Quanto: a pytorch quantization toolkit》 <a href="https://huggingface.co/blog/quanto-introduction"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnvz9gsvxfj20u00v7q7c.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 00:04:58 GMT</pubDate>
 <pubDate>Tue, 19 Mar 2024 00:04:58 GMT</pubDate>
 </item>
 <item>
@@ -42,13 +41,12 @@ MoE是一种通过稀疏的MoE层来取代稠密的前馈网络层，实现更�
 <guid>https://weibo.com/1402400261/O5GrXa9Og</guid>
 <content:encoded><![CDATA[
 <div> 知识体系、实践性、全彩印刷、杨青、度小满、轩辕大模型、十亿、百亿、千亿、训练经验
-<br>
-<br>
-总结:<br>
+<br />
+<br />
+总结:<br />
 本书《大语言模型：原理与工程实践(全彩)》由度小满轩辕大模型负责人杨青撰写，旨在揭开大语言模型的神秘面纱，深入解读内在机理和应用实践。书中系统性的知识体系和对实践性的重视是其特色之一，同时作者结合自己在不同参数规模大语言模型训练经验，将实践经验融入书中，内容干货十足，非空谈。书籍全彩印刷，配有代码，适合想要深入了解大语言模型的读者阅读。欢迎转发评论参与赢取《大语言模型：原理与工程实践(全彩)》。 <div>
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.24 12:00，*可可粉*转发+评论即可参与。本书旨在揭开大语言模型的神秘面纱，透彻地解读其内在机理和应用实践。一大特色体现在其知识体系的系统性，另一大特色是对实践性的重视。配代码、全彩印刷。本书作者杨青是度小满轩辕大模型负责人，作为真正的大语言模型实践者，拥有十亿、百亿、千亿等不同参数规模大语言模型的训练经验。在本书中，这些经验都被毫无保留地融入其中，干货满满，绝非空谈。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5012867076850203"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb85d5j20m90m9jw5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8np7j20m90m90vz.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8bphj20m90m9789.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb9t7fj20m90m9dph.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvb8gi3j20m90m90xl.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvbf5k1j21hc0u0wud.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvbadpbj21dd0rsguo.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntsvbag7dj20rs0rs793.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb7ig9j20rs0m841y.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 00:01:44 GMT</pubDate>
 <pubDate>Tue, 19 Mar 2024 00:01:44 GMT</pubDate>
 </item>
 <item>
@@ -58,13 +56,11 @@ MoE是一种通过稀疏的MoE层来取代稠密的前馈网络层，实现更�
 <content:encoded><![CDATA[
 <div> 存储部署、网络、AI集群、GenAI基础设施、Meta、Grand Teton、RDMA over RoCE、InfiniBand、NVIDIA H100 GPU、Llama 3
 
-总结:<br><br>Meta宣布投资建设了两座规模为24k GPU的AI集群，用于支持公司当前和未来的AI模型研发，包括下一代语言模型Llama 3。这两座AI集群基于自研的开源硬件Grand Teton，拥有优化的网络部署和存储系统。通过软硬件协同设计，Meta在大规模集群上高效运行复杂的AI工作负载，并计划继续扩张基础设施，部署35万块NVIDIA H100 GPU，确保其AI基础设施灵活可靠地支持快速发展的AI模型和研究。Meta致力于开放的AI创新，贡献开源硬件和软件项目，为整个行业解决大规模AI的挑战。在AI系统日益复杂的今天，基础设施的重要性不容忽视，需要与算法同步优化和创新。文章着重介绍了Meta在GenAI基础设施的存储部署方面的定制化工作，呈现了一个不同的视角，强调了基础设施细节对支撑AI系统的重要性。人们对Meta采用两种不同的存储部署方式表示好奇，也有人质疑定制化基础设施是否真的有必要，是否会带来过高的成本和复杂性。Meta通过自研硬件、持续优化软件框架等方式，确保其AI基础设施能够始终满足快速发展的需求。 <div>
+总结:<br /><br />Meta宣布投资建设了两座规模为24k GPU的AI集群，用于支持公司当前和未来的AI模型研发，包括下一代语言模型Llama 3。这两座AI集群基于自研的开源硬件Grand Teton，拥有优化的网络部署和存储系统。通过软硬件协同设计，Meta在大规模集群上高效运行复杂的AI工作负载，并计划继续扩张基础设施，部署35万块NVIDIA H100 GPU，确保其AI基础设施灵活可靠地支持快速发展的AI模型和研究。Meta致力于开放的AI创新，贡献开源硬件和软件项目，为整个行业解决大规模AI的挑战。在AI系统日益复杂的今天，基础设施的重要性不容忽视，需要与算法同步优化和创新。文章着重介绍了Meta在GenAI基础设施的存储部署方面的定制化工作，呈现了一个不同的视角，强调了基础设施细节对支撑AI系统的重要性。人们对Meta采用两种不同的存储部署方式表示好奇，也有人质疑定制化基础设施是否真的有必要，是否会带来过高的成本和复杂性。Meta通过自研硬件、持续优化软件框架等方式，确保其AI基础设施能够始终满足快速发展的需求。 <div>
 【解密Meta的GenAI基础设施】<br />- Meta宣布投资建设了两座规模为24k GPU的AI集群，用于支持公司当前和未来的AI模型研发，包括下一代语言模型Llama 3。   <br />- 详细介绍了这两座AI集群的硬件配置，包括网络、存储、计算单元等。两者都使用了自研的开源硬件Grand Teton作为基础。   <br />- AI集群的网络部分采用了RDMA over RoCE和InfiniBand两种解决方案，用于评估不同互联方式的可扩展性。存储部分则自研了优化过的分布式存储系统。   <br />- 通过软硬件协同设计，Meta能够在这样的大规模集群上高效运行复杂的AI工作负载，并取得很好的性能。文章给出了优化前后集群性能对比的数据。   <br />- Meta致力于开放的AI创新，持续贡献开源硬件和软件项目。此举有助于整个行业解决大规模AI的挑战。   <br />- 到2024年底，Meta计划继续扩张基础设施，部署35万块NVIDIA H100 GPU，计算能力将达到近60万块H100的规模。   <br />- Meta正通过自研硬件、持续优化软件框架等方式，确保其AI基础设施能够灵活可靠地支持快速发展的AI模型和研究。<br /><br />思考：  <br />- 文章着重介绍了Meta在GenAI基础设施的存储部署方面所做的定制化工作。  <br />- 通常人们更关注AI模型和算法本身，而较少关注支撑AI系统的基础设施细节，文章提供了一个不同的视角。  <br />- 有人会对Meta采用两种不同的存储部署方式表示好奇，也有人质疑定制化基础设施是否真的有必要，是否会带来过高的成本和复杂性。  <br />- 在AI系统日益复杂的今天，基础设施的重要性不容忽视，需要与算法同步优化和创新。<br />《Building Meta’s GenAI Infrastructure - Engineering at Meta》 <a href="https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnvytnizjsj215w0u0q9s.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnvytpx4yjj21400u0jt3.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 18 Mar 2024 23:49:52 GMT</pubDate>
-<pubDate>Mon, 18 Mar 2024 23:49:52 GMT</pubDate>
 </item>
-
 <item>
 <title>今日推介(第1349期)：面向推测译码加速的最优块级草稿验证、基于冻结特征增强的少样本图像分类、用RAG提高LLM事实准确性以对抗幻觉、适应特定域RAG的语言模型、...</title>
 <link>https://weibo.com/1402400261/O5FPKcyln</link>
