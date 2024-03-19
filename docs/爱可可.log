@@ -685,3 +685,25 @@ Existing_entries: 110
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-19 14:10:20.625206
+------------------------------------------------------
+Started: 2024-03-19 16:14:18.668535
+Existing_entries: 110
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O5M2ZwYx2)
+Token length: 20
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(3.19)》 爱可可微博热门分享(3.19) [图片]](https://weibo.com/1402400261/O5M25EV5o)
+Token length: 1597
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution》(ICLR 2024) GitHub: github.com/mhamilton723/FeatUp《Lodge: A Coa...](https://weibo.com/1402400261/O5LEL1Uki)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [【大模型安全相关阅读列表】’Awesome-LM-SSP - A reading list for large models safety, security, and privacy.' GitHub: github.com/ThuCCSLab/Awesome-LM-S...](https://weibo.com/1402400261/O5LCjCzTu)
+Token length: 319
+Summarized using GPT-3.5-turbo
+Append: [【onefilellm: 面向大型语言模型(LLM)的命令行数据聚合工具】'onefilellm: Command Line Data Aggregation Tool for LLM Ingestion - Specify a github or local...](https://weibo.com/1402400261/O5Ly9EGb6)
+Token length: 69
+Summarized using GPT-3.5-turbo
+Append: [“Let's Build AI - A community-driven platform for AI enthusiasts” 网页链接 #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O5Lxmw6fC)
+append_entries: 5
+Finish: 2024-03-19 16:14:44.396934

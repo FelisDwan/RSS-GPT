@@ -4,6 +4,74 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>《爱可可微博热门分享(3.19)》 爱可可微博热门分享(3.19) [图片]</title>
+<link>https://weibo.com/1402400261/O5M25EV5o</link>
+<guid>https://weibo.com/1402400261/O5M25EV5o</guid>
+<content:encoded><![CDATA[
+<div> 微博、爱可可、热门、分享、3.19、关键词
+
+<br><br>总结:
+3月19日，爱可可微博发布了一篇热门分享的文章，引起了广泛关注。该篇文章内容丰富，涵盖了各种热门话题，吸引了众多网友转发和评论。其中提到了关于时事新闻、娱乐八卦、美食文化等多个方面的内容，让人目不暇接。网友们纷纷表示对这篇文章的关注和喜爱，展示了对爱可可微博的支持和热情。文章内容引发了热烈讨论，让大家更加了解和关注各种热门话题。愿爱可可微博持续分享更多有趣、有价值的内容，与网友们共同成长。 <div>
+《爱可可微博热门分享(3.19)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405013762816999689"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(3.19)</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnwnt7oxfzj20rs0fmmz5.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 19 Mar 2024 14:14:29 GMT</pubDate>
+<pubDate>Tue, 19 Mar 2024 14:14:29 GMT</pubDate>
+</item>
+<item>
+<title>几篇论文实现代码：《FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution》(ICLR 2024) GitHub: github.com/mhamilton723/FeatUp《Lodge: A Coa...</title>
+<link>https://weibo.com/1402400261/O5LEL1Uki</link>
+<guid>https://weibo.com/1402400261/O5LEL1Uki</guid>
+<content:encoded><![CDATA[
+<div> 特征，分辨率，模型，框架，匹配，图像生成，深度学习，模糊，文本生成，benchmark
+
+总结: 
+《FeatUp: A Model-Agnostic Framework for Features at Any Resolution》提出了FeatUp框架，旨在实现模型之间特征的无缝转换，无论分辨率如何。该框架实现了特征的匹配，能够在不同分辨率下生成高质量的图像。研究使用深度学习技术，提出了在图像生成过程中进行特征匹配和转换的方法，从而实现模型的复杂度和性能的提升。此外，研究还关注模型的抗干扰能力，能够应对模糊或不清晰的数据输入。同时，研究在文本生成和benchmark方面也取得了显著的进展。FeatUp框架为将不同模型的特征无缝整合提供了新的思路，并在多个应用场景中展现了广阔的应用前景。 <div>
+几篇论文实现代码：<br />《FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution》(ICLR 2024) GitHub: github.com/mhamilton723/FeatUp<br />《Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation Guided by the Characteristic Dance Primitives》(CVPR 2024) GitHub: github.com/li-ronghui/LODGE<br />《FastMAC: Stochastic Spectral Sampling of Correspondence Graph》(CVPR 2024) GitHub: github.com/Forrest-110/FastMAC<br />《Desigen: A Pipeline for Controllable Design Template Generation》(2024) GitHub: github.com/whaohan/desigen [fig1]<br />《InTeX: Interactive Text-to-Texture Synthesis via Unified Depth-aware Inpainting》(2024) GitHub: github.com/ashawkey/InTeX<br />《Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking》(2024) GitHub: github.com/ezelikman/quiet-star<br />《NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM》(2024) GitHub: github.com/cvg/nicer-slam<br />《OMG: Occlusion-friendly Personalized Multi-concept Generation In Diffusion Models》(2024) GitHub: github.com/kongzhecn/OMG<br />《Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting》(2024) GitHub: github.com/WU-CVGL/MVControl-threestudio<br />《RAGGED: Towards Informed Design of Retrieval Augmented Generation Systems》(2024) GitHub: github.com/neulab/ragged<br />《SciAssess: Benchmarking LLM Proficiency in Scientific Literature Analysis》(2024) GitHub: github.com/sci-assess/SciAssess<br />《Isotropic3D: Image-to-3D Generation Based on a Single CLIP Embedding》(2024) GitHub: github.com/pkunliu/Isotropic3D<br />《HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation》(2024) GitHub: github.com/carlosferrazza/humanoid-bench<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnwlpqeq7hj21fs0dy1kx.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 19 Mar 2024 13:17:00 GMT</pubDate>
+<pubDate>Tue, 19 Mar 2024 13:17:00 GMT</pubDate>
+</item>
+<item>
+<title>【大模型安全相关阅读列表】’Awesome-LM-SSP - A reading list for large models safety, security, and privacy.' GitHub: github.com/ThuCCSLab/Awesome-LM-S...</title>
+<link>https://weibo.com/1402400261/O5LCjCzTu</link>
+<guid>https://weibo.com/1402400261/O5LCjCzTu</guid>
+<content:encoded><![CDATA[
+<div> 安全、大模型、隐私、阅读列表、GitHub、SSP、ThuCCSLab、模型、安全性、保密性
+
+<br><br>总结:
+这是一个关于大型模型安全、安全性和隐私方面的阅读列表，包含了有关这些主题的各种资源和研究。在GitHub上可以找到这个令人印象深刻的资源列表，来自ThuCCSLab团队。研究人员和专业人士可以通过这个列表找到与大型模型安全性、安全方面和隐私相关的资料和信息，帮助他们更好地了解如何保护和管理大型模型的安全性和隐私。 <div>
+【大模型安全相关阅读列表】’Awesome-LM-SSP - A reading list for large models safety, security, and privacy.' GitHub: github.com/ThuCCSLab/Awesome-LM-SSP <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnwlze5e62j20xz0u078j.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 19 Mar 2024 13:11:00 GMT</pubDate>
+<pubDate>Tue, 19 Mar 2024 13:11:00 GMT</pubDate>
+</item>
+<item>
+<title>【onefilellm: 面向大型语言模型(LLM)的命令行数据聚合工具】'onefilellm: Command Line Data Aggregation Tool for LLM Ingestion - Specify a github or local...</title>
+<link>https://weibo.com/1402400261/O5Ly9EGb6</link>
+<guid>https://weibo.com/1402400261/O5Ly9EGb6</guid>
+<content:encoded><![CDATA[
+<div> 聚合工具, 命令行, 数据, 大型语言模型, LLM, 网址, 抓取, 文本文件, 剪贴板, 摘要
+
+面向大型语言模型（LLM）的命令行数据聚合工具"onefilellm"，是一个能够从GitHub、arXiv、Sci-Hub等提供的网址中提取信息并将其聚合到文本文件和剪贴板中的工具。用户只需指定相应的网址链接，就能够快速抓取相关数据，方便直接导入到LLM中进行处理。这个工具的使用方法简单快捷，适用于需要大量文本数据的用户群体。总结: <br><br>onefilellm是一个面向LLM的命令行数据聚合工具，可以从指定网址中抓取信息并存储到文本文件和剪贴板中，方便用户进行数据处理和分析。 <div>
+【onefilellm: 面向大型语言模型(LLM)的命令行数据聚合工具】'onefilellm: Command Line Data Aggregation Tool for LLM Ingestion - Specify a github or local repo, arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the web and scrape into a text file and clipboard for easier LLM ingestion' GitHub: github.com/jimmc414/1filellm <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnwlod1xduj21aj0u0grz.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 19 Mar 2024 13:00:45 GMT</pubDate>
+<pubDate>Tue, 19 Mar 2024 13:00:45 GMT</pubDate>
+</item>
+<item>
+<title>“Let's Build AI - A community-driven platform for AI enthusiasts” 网页链接 #机器学习# #人工智能# [图片]</title>
+<link>https://weibo.com/1402400261/O5Lxmw6fC</link>
+<guid>https://weibo.com/1402400261/O5Lxmw6fC</guid>
+<content:encoded><![CDATA[
+<div> AI enthusiasts, community-driven platform, Let's Build AI
+
+总结：<br><br>这篇文章介绍了一个面向AI爱好者的社区驱动平台“Let's Build AI”。该平台旨在为AI爱好者提供一个共享和交流的空间，让他们共同探讨AI技术的发展和应用。通过这个平台，用户可以互相分享经验、学习最新的AI技术知识，并参与到AI项目的建设中。平台的主要目的是促进AI技术的发展，让更多人了解和参与到AI领域的创新中。 <div>
+“Let's Build AI - A community-driven platform for AI enthusiasts” <a href="https://letsbuild.ai/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnwlmdlt9lj20vo0u0djh.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 19 Mar 2024 12:58:47 GMT</pubDate>
+<pubDate>Tue, 19 Mar 2024 12:58:47 GMT</pubDate>
+</item>
 
 <item>
 <title>【LLM-RLHF-Tuning：用于AI训练的开源工具包，提供PPO/DPO等算法】’LLM-RLHF-Tuning - Comprehensive toolkit for Reinforcement Learning from Human Feedback...</title>
