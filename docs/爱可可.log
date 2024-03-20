@@ -728,3 +728,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O5M2ZwYx2)
 append_entries: 0
 Finish: 2024-03-19 22:10:04.041514
+------------------------------------------------------
+Started: 2024-03-20 00:48:54.639474
+Existing_entries: 115
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.2...](https://weibo.com/1402400261/O5PWHyAxX)
+Token length: 111
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1350期)：人工反馈参数高效强化学习、利用生成式知识提取和基于图的表示和多模态智能图推理加速科学发现、基于深度学习的语言演化研究、分布式路径合...](https://weibo.com/1402400261/O5PcI60ah)
+Token length: 360
+Summarized using GPT-3.5-turbo
+Append: [[CV] Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation 网页链接 提出"潜对抗性扩散蒸馏"(LADD)方法，在深度学习扩散模型...](https://weibo.com/1402400261/O5P8C8z8n)
+Token length: 373
+Summarized using GPT-3.5-turbo
+Append: [[LG] Understanding Diffusion Models by Feynman's Path Integral 网页链接 通过引入Feynman路径积分的形式，为理解基于得分扩散模型中随机与确定性采样方案性...](https://weibo.com/1402400261/O5P0Z2xh9)
+Token length: 332
+Summarized using GPT-3.5-turbo
+Append: [[CV] LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images 网页链接 现有大型多模态模型(LMM)在处理不同长宽比和高分辨率图像时存在系统...](https://weibo.com/1402400261/O5OYrFho4)
+Token length: 337
+Summarized using GPT-3.5-turbo
+Append: [[CL] A Toolbox for Surfacing Health Equity Harms and Biases in Large Language Models 网页链接 提出一套工具和方法论，用于识别和评估大型语言模型(LLM)在...](https://weibo.com/1402400261/O5OWDhAoR)
+Token length: 261
+Summarized using GPT-3.5-turbo
+Append: [Larimar通过引入分布式情景记忆控制器，提供了一种无需昂贵重训练即可实现大型语言模型动态、一次性知识更新的高效方法，通过实验验证了其在多个事实编辑基准测...](https://weibo.com/1402400261/O5OTYmgiM)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Larimar: Large Language Models with Episodic Memory Control》P Das, S Chaudhury, E Nelson, I Melnyk... [IBM AI Research] (2024) 网页链接 #机器学...](https://weibo.com/1402400261/O5OTW8hMJ)
+Token length: 224
+Summarized using GPT-3.5-turbo
+Append: [提出DiPaCo模型，通过模块化设计和分布式路径组合的训练方法，显著降低了分布式学习环境中的通信需求，实现了在分散计算节点上高效、鲁棒的大规模机器学习模型训...](https://weibo.com/1402400261/O5OLCCU9O)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [[LG]《DiPaCo: Distributed Path Composition》A Douillard, Q Feng, A A. Rusu, A Kuncoro… [Google DeepMind] (2024) 网页链接 #机器学习##人工智能##论文# [...](https://weibo.com/1402400261/O5OLvzDCh)
+append_entries: 10
+Finish: 2024-03-20 00:49:44.874786
