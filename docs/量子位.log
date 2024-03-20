@@ -579,3 +579,15 @@ Existing_entries: 61
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-20 16:15:17.203701
+------------------------------------------------------
+Started: 2024-03-20 18:13:37.149014
+Existing_entries: 61
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 88
+Summarized using GPT-3.5-turbo
+Append: [#计算机小知识##纠错码原理# 计算机的数据都是以0和1的形式存储，如果0被干扰变成1，会导致电脑崩溃吗？为了解决这个问题，人们发明了纠错码，让电脑能自己发现...](https://weibo.com/6105753431/O5UpdyUKs)
+Token length: 61
+Summarized using GPT-3.5-turbo
+Append: [【#英伟达发布首款机器人大模型#】今年GTC大会上，英伟达重磅发布机器人大模型GROOT，老黄表示这就是英伟达的未来目标。AI机器人时代真的要来了？ 量子位的微博...](https://weibo.com/6105753431/O5Ul6zrLH)
+append_entries: 2
+Finish: 2024-03-20 18:13:48.457146

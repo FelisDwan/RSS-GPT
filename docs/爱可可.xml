@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>《爱可可微博热门分享(3.20)》 爱可可微博热门分享(3.20) [图片]</title>
 <link>https://weibo.com/1402400261/O5VrIvUz3</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> 微博，爱可可，热门，分享，热点，3.20，关注，话题，讨论，社交
 
-《爱可可微博热门分享(3.20)》报道了当日在微博上热门的话题和讨论内容。用户们热烈关注并分享了各种热点话题，展开了讨论和交流。这些热门话题引发了社交媒体上的热议，显示出用户对各种议题的关注和兴趣。大家纷纷在微博上发表看法，分享观点，形成了热门内容和吸引了众多关注。总的来说，这些讨论内容和话题在社交媒体上引起了广泛的关注和讨论。 <br><br>总结: <div>
+《爱可可微博热门分享(3.20)》报道了当日在微博上热门的话题和讨论内容。用户们热烈关注并分享了各种热点话题，展开了讨论和交流。这些热门话题引发了社交媒体上的热议，显示出用户对各种议题的关注和兴趣。大家纷纷在微博上发表看法，分享观点，形成了热门内容和吸引了众多关注。总的来说，这些讨论内容和话题在社交媒体上引起了广泛的关注和讨论。 <br /><br />总结: <div>
 《爱可可微博热门分享(3.20)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405014124667994223"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(3.20)</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnxtddcnroj20rf0ffmyp.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 14:12:21 GMT</pubDate>
 <pubDate>Wed, 20 Mar 2024 14:12:21 GMT</pubDate>
 </item>
 <item>
@@ -24,11 +24,10 @@
 <content:encoded><![CDATA[
 <div> 关键词：图像分割、神经网络、模型、变化检测、数据集、生成环境、模型修剪、视觉-语言模型、卷积神经网络、迁移学习
 
-总结：<br>
-这篇综述了几篇最新的论文以及他们在GitHub上的代码实现，涉及到图像分割、神经网络、模型稳定性、变化检测、数据集处理、生成环境、模型修剪、视觉-语言模型等多个领域。通过这些论文和代码的介绍，读者可以了解到最新的研究进展和方法，以及如何应用这些方法解决实际问题。同时，这些研究也展示了人工智能领域的多样性和个性化，为未来的研究和应用提供了思路和启发。 <br><br>总结: <div>
+总结：<br />
+这篇综述了几篇最新的论文以及他们在GitHub上的代码实现，涉及到图像分割、神经网络、模型稳定性、变化检测、数据集处理、生成环境、模型修剪、视觉-语言模型等多个领域。通过这些论文和代码的介绍，读者可以了解到最新的研究进展和方法，以及如何应用这些方法解决实际问题。同时，这些研究也展示了人工智能领域的多样性和个性化，为未来的研究和应用提供了思路和启发。 <br /><br />总结: <div>
 几篇论文实现代码：<br />《Bounding Box Stability against Feature Dropout Reflects Detector Generalization across Environments》(ICLR 2024) GitHub: github.com/YangYangGirl/BoS<br />《Diversified and Personalized Multi-rater Medical Image Segmentation》(CVPR 2024) GitHub: github.com/ycwu1997/D-Persona<br />《Arc2Face: A Foundation Model of Human Faces》(2024) GitHub: github.com/foivospar/Arc2Face [fig1]<br />《LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images》(2024) GitHub: github.com/thunlp/LLaVA-UHD [fig2]<br />《Generic 3D Diffusion Adapter Using Controlled Multi-View Editing》(2024) GitHub: github.com/Lakonik/MVEdit<br />《POCO: Pose and Shape Estimation with Confidence》(2024) GitHub: github.com/saidwivedi/POCO<br />《A Change Detection Reality Check》(2024) GitHub: github.com/isaaccorley/a-change-detection-reality-check<br />《Unified Training of Universal Time Series Forecasting Transformers》(2024) GitHub: github.com/SalesforceAIResearch/uni2ts<br />《The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning》(2024) GitHub: github.com/centerforaisafety/wmdp [fig3]<br />《Do Membership Inference Attacks Work on Large Language Models?》(2024) GitHub: github.com/iamgroot42/mimir<br />《RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model》(2024) GitHub: github.com/Meize0729/RSBuilding [fig4]<br />《InstructAny2Pix: Flexible Visual Editing via Multimodal Instruction Following》(2024) GitHub: github.com/jacklishufan/InstructAny2Pix<br />《Distilling Datasets Into Less Than One Image》(2024) GitHub: github.com/AsafShul/PoDD<br />《Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models》(2024) GitHub: github.com/dongyh20/Chain-of-Spot<br />《RA-ISF: Learning to Answer and Understand from Retrieval Augmentation via Iterative Self-Feedback》(2024) GitHub: github.com/OceannTwT/ra-isf [fig5]<br />《EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents》(2024) GitHub: github.com/aszala/EnvGen [fig6]<br />《Everybody Prune Now: Structured Pruning of LLMs with only Forward Passes》(2024) GitHub: github.com/ldery/Bonsai<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnxrvnly4pj219y0s6kjl.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnxrwcqnx1j21i00sa7cu.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnxsadvxz3j20rf0e542q.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnxsdqon3ij23641ewqv5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnxsowq13jj21060jegyd.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnxstvypkkj214r0fp179.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 14:09:40 GMT</pubDate>
 <pubDate>Wed, 20 Mar 2024 14:09:40 GMT</pubDate>
 </item>
 <item>
@@ -38,10 +37,9 @@
 <content:encoded><![CDATA[
 <div> GitHub, Mirascope, LLM, 工具集, Python, 简洁易写, 高质量, 快速开发, 可视水印去除
 
-总结：<br><br>这篇文章介绍了一个名为Mirascope的LLM工具集，能够快速高质量地开发可视水印去除的功能。使用该工具集，编写Python代码就像编写熟悉的Python代码一样简洁易写。通过在GitHub上查找“Awesome Visible Watermark Removal”，可以找到更多相关资源。Mirascope的特点包括快速开发和高质量输出，适合用于去除图片中的可视水印。整体来说，这个工具集为开发人员提供了便捷的工具来处理可视水印的相关问题。 <div>
+总结：<br /><br />这篇文章介绍了一个名为Mirascope的LLM工具集，能够快速高质量地开发可视水印去除的功能。使用该工具集，编写Python代码就像编写熟悉的Python代码一样简洁易写。通过在GitHub上查找“Awesome Visible Watermark Removal”，可以找到更多相关资源。Mirascope的特点包括快速开发和高质量输出，适合用于去除图片中的可视水印。整体来说，这个工具集为开发人员提供了便捷的工具来处理可视水印的相关问题。 <div>
 【可视水印去除相关资源列表Mirascope是一个快速高质量开发的 LLM 工具集，让编写 Python 代码如同使用熟悉的 Python 代码一样简洁易写。】’Awesome Visible Watermark Removal' GitHub: github.com/bcmi/Awesome-Visible-Watermark-Removal <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnxsztsh6qj20y20u00xq.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 13:59:11 GMT</pubDate>
 <pubDate>Wed, 20 Mar 2024 13:59:11 GMT</pubDate>
 </item>
 <item>
@@ -49,12 +47,11 @@
 <link>https://weibo.com/1402400261/O5Vlxv7Rw</link>
 <guid>https://weibo.com/1402400261/O5Vlxv7Rw</guid>
 <content:encoded><![CDATA[
-<div> LLM、快速、高质量、开发、工具集、Lightning、Mirascope、GitHub、高效、代码<br>
-<br>
-LLM工具集Mirascope旨在提供给开发者一个快速高质量开发的解决方案。通过这个Lightning工具集，开发者可以更加高效地进行代码开发，提高开发效率，同时保证代码质量。Mirascope的GitHub页面提供了详细的信息和资源，让开发者可以更好地了解和使用这个工具集。通过Mirascope，开发者可以更加轻松地完成开发任务，提升自身的开发能力。总而言之，Mirascope是一个值得开发者关注和使用的高效工具集。 <br><br>总结: <div>
+<div> LLM、快速、高质量、开发、工具集、Lightning、Mirascope、GitHub、高效、代码<br />
+<br />
+LLM工具集Mirascope旨在提供给开发者一个快速高质量开发的解决方案。通过这个Lightning工具集，开发者可以更加高效地进行代码开发，提高开发效率，同时保证代码质量。Mirascope的GitHub页面提供了详细的信息和资源，让开发者可以更好地了解和使用这个工具集。通过Mirascope，开发者可以更加轻松地完成开发任务，提升自身的开发能力。总而言之，Mirascope是一个值得开发者关注和使用的高效工具集。 <br /><br />总结: <div>
 【Mirascope：快速高质量开发的 LLM 工具集】'Mirascope - LLM toolkit for lightning-fast, high-quality development' GitHub: github.com/Mirascope/mirascope <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnxsxp7ojqj21ji0pagpj.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 13:57:08 GMT</pubDate>
 <pubDate>Wed, 20 Mar 2024 13:57:08 GMT</pubDate>
 </item>
 <item>
@@ -64,10 +61,9 @@ LLM工具集Mirascope旨在提供给开发者一个快速高质量开发的解�
 <content:encoded><![CDATA[
 <div> 关键词：self-supervised learning, 非序列数据, 表格数据, 监督学习
 
-总结:<br><br>这篇文章介绍了有关非序列数据中自监督学习的研究材料，主要关注表格数据的监督学习。自监督学习是一种无需人工标注的学习方法，通过模型自身生成标签进行训练。针对非序列数据，如表格数据，研究者们提出了许多创新的方法和技术，以实现更有效的监督学习。这个GitHub项目收集了相关研究材料，为对这一领域感兴趣的人提供了宝贵的资源和参考。通过研究这些材料，人们可以了解到最新的自监督学习技术在非序列数据上的应用和研究进展，有助于推动该领域的发展和创新。 <div>
+总结:<br /><br />这篇文章介绍了有关非序列数据中自监督学习的研究材料，主要关注表格数据的监督学习。自监督学习是一种无需人工标注的学习方法，通过模型自身生成标签进行训练。针对非序列数据，如表格数据，研究者们提出了许多创新的方法和技术，以实现更有效的监督学习。这个GitHub项目收集了相关研究材料，为对这一领域感兴趣的人提供了宝贵的资源和参考。通过研究这些材料，人们可以了解到最新的自监督学习技术在非序列数据上的应用和研究进展，有助于推动该领域的发展和创新。 <div>
 【表格数据的监督学习】’Awesome Self-Supervised Learning for Non-Sequential Tabular Data (SSL4NSTD) - A collection of research materials on SSL for non-sequential tabular data (SSL4NSTD)' GitHub: github.com/wwweiwei/awesome-self-supervised-learning-for-tabular-data <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnxsta90joj21ji0nkaf0.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 13:52:54 GMT</pubDate>
 <pubDate>Wed, 20 Mar 2024 13:52:54 GMT</pubDate>
 </item>
 <item>
@@ -75,11 +71,10 @@ LLM工具集Mirascope旨在提供给开发者一个快速高质量开发的解�
 <link>https://weibo.com/1402400261/O5VfXtRGo</link>
 <guid>https://weibo.com/1402400261/O5VfXtRGo</guid>
 <content:encoded><![CDATA[
-<div> GitHub, curated, DSPy, resources, list, awesome, Ganarajpr, resource, list, DSPy<br>
-<br>关于DSPy的资源列表已经在GitHub上由Ganarajpr精心整理，包含了丰富的资源和信息。这个列表提供了许多有用的链接和工具，可以帮助开发人员更好地了解和学习DSPy。其中包含了各种教程、文档、代码示例以及其他相关资源，适合初学者和有经验的开发者使用。值得一提的是，这个列表还不断更新，保持了最新的信息和动态。总的来说，这个资源列表为学习和使用DSPy提供了很好的支持，是一份非常棒的资源。<br><br>总结: <br>GitHub上的DSPy资源列表由Ganarajpr精心整理，包含丰富的资源和信息，适合初学者和有经验的开发者使用。列表包含各种教程、文档、代码示例等，不断更新保持最新信息。对学习和使用DSPy提供了很好的支持，是一份非常棒的资源。 <div>
+<div> GitHub, curated, DSPy, resources, list, awesome, Ganarajpr, resource, list, DSPy<br />
+<br />关于DSPy的资源列表已经在GitHub上由Ganarajpr精心整理，包含了丰富的资源和信息。这个列表提供了许多有用的链接和工具，可以帮助开发人员更好地了解和学习DSPy。其中包含了各种教程、文档、代码示例以及其他相关资源，适合初学者和有经验的开发者使用。值得一提的是，这个列表还不断更新，保持了最新的信息和动态。总的来说，这个资源列表为学习和使用DSPy提供了很好的支持，是一份非常棒的资源。<br /><br />总结: <br />GitHub上的DSPy资源列表由Ganarajpr精心整理，包含丰富的资源和信息，适合初学者和有经验的开发者使用。列表包含各种教程、文档、代码示例等，不断更新保持最新信息。对学习和使用DSPy提供了很好的支持，是一份非常棒的资源。 <div>
 【DSPy相关资源大列表】’Awesome DSPy - An Awesome list of curated DSPy resources.' GitHub: github.com/ganarajpr/awesome-dspy <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnxsjdyou6j20zk0u0afn.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 13:43:23 GMT</pubDate>
 <pubDate>Wed, 20 Mar 2024 13:43:23 GMT</pubDate>
 </item>
 <item>
@@ -91,11 +86,10 @@ LLM工具集Mirascope旨在提供给开发者一个快速高质量开发的解�
 
 分析中提到了一个名为text-splitter的工具，可以将文本分割成语义块，支持根据字符和标记计算长度。用户可以通过GitHub找到该工具的相关信息。
 
-总结:<br><br>
+总结:<br /><br />
 文章介绍了一个名为text-splitter的工具，可以将文本分割成语义块，适用于处理更大的文本。该工具支持根据字符和标记来计算文本长度，尤其适用于大型语言模型的使用。用户可以在GitHub上找到更多关于text-splitter的信息。 <div>
 【text-splitter：将文本分割成不同的片段，以便在处理更大的文本时更好地处理文本】'text-splitter - Split text into semantic chunks, up to a desired chunk size. Supports calculating length by characters and tokens (when used with large language models).' GitHub: github.com/benbrandt/text-splitter <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnxsfb0ovyj21ji0q6te9.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 13:39:27 GMT</pubDate>
 <pubDate>Wed, 20 Mar 2024 13:39:27 GMT</pubDate>
 </item>
 <item>
@@ -105,11 +99,10 @@ LLM工具集Mirascope旨在提供给开发者一个快速高质量开发的解�
 <content:encoded><![CDATA[
 <div> ONNX Runtime Server, TCP, HTTP, HTTPS, REST API, GitHub, kibae, inference, server
 
-<br><br>总结:
+<br /><br />总结:
 ONNX Runtime Server是一个提供TCP和HTTP/HTTPS REST API用于ONNX推断的服务器。该项目托管在GitHub上，由kibae维护。通过该服务器，可以实现对ONNX模型的推断功能，为机器学习应用提供便捷的服务。 <div>
 'ONNX Runtime Server: The ONNX Runtime Server is a server that provides TCP and HTTP/HTTPS REST APIs for ONNX inference.' GitHub: github.com/kibae/onnxruntime-server <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnxs86hph9j21hx0u0n4h.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 13:32:37 GMT</pubDate>
 <pubDate>Wed, 20 Mar 2024 13:32:37 GMT</pubDate>
 </item>
 <item>
@@ -117,13 +110,11 @@ ONNX Runtime Server是一个提供TCP和HTTP/HTTPS REST API用于ONNX推断的�
 <link>https://weibo.com/1402400261/O5Vaq8j2y</link>
 <guid>https://weibo.com/1402400261/O5Vaq8j2y</guid>
 <content:encoded><![CDATA[
-<div> LiDAR、位置识别、方法、数据集、算法、GitHub、Awesome LiDAR Place Recognition、curated list、Hogyun2<br><br>总结:本文介绍了一个GitHub上的资源链接，包括LiDAR的位置识别方法、数据集和不同的算法。这个资源列表由Hogyun2整理，涵盖了各种LiDAR算法和数据集，有助于研究人员和工程师在LiDAR领域进行定位和识别方面的工作。 <div>
+<div> LiDAR、位置识别、方法、数据集、算法、GitHub、Awesome LiDAR Place Recognition、curated list、Hogyun2<br /><br />总结:本文介绍了一个GitHub上的资源链接，包括LiDAR的位置识别方法、数据集和不同的算法。这个资源列表由Hogyun2整理，涵盖了各种LiDAR算法和数据集，有助于研究人员和工程师在LiDAR领域进行定位和识别方面的工作。 <div>
 【位置识别方法、数据集和各种LiDAR算法大列表】’Awesome LiDAR Place Recognition - A curated list of Place Recognition methods, datasets, and various algorithms for LiDAR' GitHub: github.com/hogyun2/awesome-lidar-place-recognition <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnxs56ij5ij21690u07ac.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 20 Mar 2024 13:29:44 GMT</pubDate>
-<pubDate>Wed, 20 Mar 2024 13:29:44 GMT</pubDate>
 </item>
-
 <item>
 <title>【TacticAI：用于足球战术分析的AI助手】- 提出了TacticAI，这是一种专门用于足球战术分析的人工智能助手，可以帮助教练员分析角球战术，并提出改进建议。该系统...</title>
 <link>https://weibo.com/1402400261/O5Q4I1xfk</link>
