@@ -555,3 +555,15 @@ Summarized using GPT-3.5-turbo
 Append: [【#AI简笔成画#】AI大牛朱俊彦发布了一项新研究——只需涂抹一笔，草图就能变成精美画作！而且是“啪的一下”那种，团队亲测数据是：用A100只要0.11秒，A6000则0...](https://weibo.com/6105753431/O5SScoOrF)
 append_entries: 3
 Finish: 2024-03-20 10:11:34.623509
+------------------------------------------------------
+Started: 2024-03-20 12:19:45.803148
+Existing_entries: 59
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [【#Claude3生成神经网络#】Claude 3现在可以将一些复杂概念生成更易理解的动画了。不管是神经网络架构，还是勾股定理，分分钟还你一个酷炫又专业的动画~简单来说...](https://weibo.com/6105753431/O5U06jlrz)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [【#AI生成高质量PNG#】现在，不论多复杂的图片，AI都可以把“主角”抠出来了，而且是细到毛发的那种。澳大利亚AI初创公司Leonardo.ai 推出了# Transparency # 新...](https://weibo.com/6105753431/O5TF2vnlA)
+append_entries: 2
+Finish: 2024-03-20 12:19:55.048825
