@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【TacticAI：用于足球战术分析的AI助手】- 提出了TacticAI，这是一种专门用于足球战术分析的人工智能助手，可以帮助教练员分析角球战术，并提出改进建议。该系统...</title>
 <link>https://weibo.com/1402400261/O5Q4I1xfk</link>
@@ -11,13 +12,11 @@
 <content:encoded><![CDATA[
 <div> 预测、生成、图神经网络、足球战术、人工智能、角球、利物浦足球俱乐部、嵌入表示、深度学习、实用性
 
-总结:<br><br>本研究提出了一种用于足球战术分析的人工智能助手TacticAI，利用图神经网络学习球员位置关系的高维嵌入表示，可以预测角球的接收者和射门概率，生成最有可能得分的球员布局建议。通过利物浦俱乐部专家的合作评估，得出了较好的定量结果。人工智能系统在足球战术分析领域的应用超越人类专家，具有实用性，为体育智能化发展提供新思路。尽管取得进展，但仍需进一步研究提高泛化和解释能力。 <div>
+总结:<br /><br />本研究提出了一种用于足球战术分析的人工智能助手TacticAI，利用图神经网络学习球员位置关系的高维嵌入表示，可以预测角球的接收者和射门概率，生成最有可能得分的球员布局建议。通过利物浦俱乐部专家的合作评估，得出了较好的定量结果。人工智能系统在足球战术分析领域的应用超越人类专家，具有实用性，为体育智能化发展提供新思路。尽管取得进展，但仍需进一步研究提高泛化和解释能力。 <div>
 【TacticAI：用于足球战术分析的AI助手】<br />- 提出了TacticAI，这是一种专门用于足球战术分析的人工智能助手，可以帮助教练员分析角球战术，并提出改进建议。该系统由利物浦足球俱乐部的专家共同开发和评估。   <br />- TacticAI包含预测和生成两个组件。预测组件可以预测角球的接收者和射门概率；生成组件可以为每个角球生成可选的球员布局，并推荐最有可能得分的布局。   <br />- TacticAI利用图神经网络学习球员位置关系的高维嵌入表示，以提高数据效率，并利用几何深度学习保证对球场对称性变换的不变性。这在足球数据有限的情况下非常重要。   <br />- 在预测接球队员和射门两个任务上，TacticAI都取得了不错的定量结果。尤其是射门预测，采用联合训练的方法，最终F1得分达到0.71。   <br />- TacticAI的生成组件可以根据指定的期望射门结果(提高或降低射门概率)，生成对球员位置和速度的调整建议。该建议与真实球员位置难以区分，且可以明显改变射门概率。   <br />- 利用利物浦俱乐部专家进行案例研究，结果表明TacticAI生成的建议不仅逼真，还有90%的时间被专家更青睐，确认了TacticAI的实用性。该研究为运用AI辅助足球战术分析提供了有力证据。<br /><br />点评：<br />- 在如此复杂的足球战术领域，AI系统的建议能够超越人类专家的水平，这打破了人们对人工智能只能处理简单任务的传统认知。  <br />- 将复杂的战术知识形式化为结构化数据，使其可被机器学习模型理解和操作，是本研究的核心创新点，这种方法可能会为人工智能在其他复杂决策领域的应用提供借鉴。  <br />- 尽管取得了令人鼓舞的进展，但人工智能系统在足球战术方面的应用仍处于初级阶段，未来需要更多的研究来提高其泛化能力和解释能力。  <br />- 该研究为人工智能在体育领域的应用开辟了新的思路，有望促进体育运动的科学化和智能化发展。<br />《TacticAI: an AI assistant for football tactics | Nature Communications》 <a href="https://www.nature.com/articles/s41467-024-45965-x?code=b78a856e-3875-4cce-80f1-55997cff0373&amp;error=cookies_not_supported"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnx5nnbi2bj20j10flmyo.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnx5nppmj2j20j109tt9w.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnx5nracrhj20j10bdjs2.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 20 Mar 2024 00:31:56 GMT</pubDate>
-<pubDate>Wed, 20 Mar 2024 00:31:56 GMT</pubDate>
 </item>
-
 <item>
 <title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.2...</title>
 <link>https://weibo.com/1402400261/O5PWHyAxX</link>
