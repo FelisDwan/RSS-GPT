@@ -591,3 +591,9 @@ Summarized using GPT-3.5-turbo
 Append: [【#英伟达发布首款机器人大模型#】今年GTC大会上，英伟达重磅发布机器人大模型GROOT，老黄表示这就是英伟达的未来目标。AI机器人时代真的要来了？ 量子位的微博...](https://weibo.com/6105753431/O5Ul6zrLH)
 append_entries: 2
 Finish: 2024-03-20 18:13:48.457146
+------------------------------------------------------
+Started: 2024-03-20 20:12:01.461317
+Existing_entries: 63
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-03-20 20:12:01.728146
