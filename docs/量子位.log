@@ -528,3 +528,15 @@ Summarized using GPT-3.5-turbo
 Append: [【#数百万篇论文将消失#】一项针对700多万份数字出版物的研究表明，超过四分之一的学术文章没有得到适当的存档和保存。该结果由来自伦敦大学伯克贝克学院的研究...](https://weibo.com/6105753431/O5R8wyURY)
 append_entries: 4
 Finish: 2024-03-20 06:14:15.314459
+------------------------------------------------------
+Started: 2024-03-20 08:13:40.150654
+Existing_entries: 54
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 405
+Summarized using GPT-3.5-turbo
+Append: [#旷视实战大模型# 距离ChatGPT、GPT-4等引爆新一轮人工智能变革的时刻，已经过去了整整一年的时间。在这一年里，国内外大量公司涌入大模型的“斗兽场”，加速大...](https://weibo.com/6105753431/O5SotdFEd)
+Token length: 296
+Summarized using GPT-3.5-turbo
+Append: [【#黄仁勋皮衣也就6万块#】🎙️ 在昨日的英伟达GTC 2024开发者大会上，英伟达CEO黄仁勋（老黄）再次以一身标志性皮衣亮相，成为焦点。不过，这次的皮衣细节大...](https://weibo.com/6105753431/O5RTv0GwZ)
+append_entries: 2
+Finish: 2024-03-20 08:13:54.009714

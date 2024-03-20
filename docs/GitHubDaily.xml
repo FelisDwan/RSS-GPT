@@ -4,20 +4,19 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+
 <item>
 <title>推荐 GitHub 上一款开源免费、简洁、可离线的音频转录和翻译工具 Buzz。可一键将音频或视频中的内容转换为文本，不需要联网，在本地电脑就可以离线运行。GitHub...</title>
 <link>https://weibo.com/5722964389/O5Rwp4vbC</link>
 <guid>https://weibo.com/5722964389/O5Rwp4vbC</guid>
 <content:encoded><![CDATA[
-<div> GitHub、开源、免费、音频转录、翻译工具、Buzz、简洁、可离线、OpenAI Whisper、准确率高<br>
-<br>
-音频转录和翻译工具 Buzz 是一款开源免费的工具，可以在本地电脑上离线运行。它基于 OpenAI Whisper 开发，识别准确率高。用户可以通过拖放导入音视频文件进行转录，并支持多种格式的文本导出。Buzz 还认可使用本地电脑麦克风实现音频识别和翻译，同时支持多种语音识别框架。除此之外，Buzz 还提供了命令行操作界面，并提供了 Mac、Windows 和 Linux 安装包。整体界面设计简洁美观，且完全开源免费，是一款功能强大且方便实用的音频转录工具。 <br> <br>总结: Buzz 是一款开源免费且功能强大的音频转录和翻译工具，可在本地电脑上离线运行，支持多种功能并提供多种方便的操作界面和功能。 <div>
+<div> GitHub、开源、免费、音频转录、翻译工具、Buzz、简洁、可离线、OpenAI Whisper、准确率高<br />
+<br />
+音频转录和翻译工具 Buzz 是一款开源免费的工具，可以在本地电脑上离线运行。它基于 OpenAI Whisper 开发，识别准确率高。用户可以通过拖放导入音视频文件进行转录，并支持多种格式的文本导出。Buzz 还认可使用本地电脑麦克风实现音频识别和翻译，同时支持多种语音识别框架。除此之外，Buzz 还提供了命令行操作界面，并提供了 Mac、Windows 和 Linux 安装包。整体界面设计简洁美观，且完全开源免费，是一款功能强大且方便实用的音频转录工具。 <br /> <br />总结: Buzz 是一款开源免费且功能强大的音频转录和翻译工具，可在本地电脑上离线运行，支持多种功能并提供多种方便的操作界面和功能。 <div>
 推荐 GitHub 上一款开源免费、简洁、可离线的音频转录和翻译工具 Buzz。<br /><br />可一键将音频或视频中的内容转换为文本，不需要联网，在本地电脑就可以离线运行。<br /><br />GitHub：github.com/chidiwilliams/buzz<br /><br />具有如下特性：<br /><br />- 基于 OpenAI Whisper 开发，识别准确率高；<br />- 支持拖放导入音视频文件，支持音频播放；<br />- 转录的文本支持导出 TXT、SRT 和 VTT 格式文件；<br />- 可直接通过本地电脑麦克风实现音频的转录和翻译；<br />- 支持使用 Whisper、Whisper.cpp、Faster Whisper 等语音识别框架；<br />- 提供命令行操作界面；<br />- 提供 Mac、Windows 和 Linux 安装包使用；<br />- 界面简洁美观，且完全开源免费。<img src="https://tvax4.sinaimg.cn/large/006fiYtfgy1hnxc1k4vikj31uo0z0x3m.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 20 Mar 2024 04:12:54 GMT</pubDate>
-<pubDate>Wed, 20 Mar 2024 04:12:54 GMT</pubDate>
 </item>
-
 <item>
 <title>推荐 GitHub 上一个开源免费创建临时邮箱的工具 Vmail.DEV。其使用 Cloudflare email worker 实现的临时电子邮件服务。实现了如下功能：- 接收电子邮件- 显示电...</title>
 <link>https://weibo.com/5722964389/O5JwwFwS3</link>
