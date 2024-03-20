@@ -809,3 +809,37 @@ Existing_entries: 126
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-20 14:10:27.973845
+------------------------------------------------------
+Started: 2024-03-20 16:15:17.355780
+Existing_entries: 126
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O5Vs5Fo63)
+Token length: 20
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(3.20)》 爱可可微博热门分享(3.20) [图片]](https://weibo.com/1402400261/O5VrIvUz3)
+Token length: 2048
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Bounding Box Stability against Feature Dropout Reflects Detector Generalization across Environments》(ICLR 2024) GitHub: github.co...](https://weibo.com/1402400261/O5VqD8Dwz)
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [【可视水印去除相关资源列表Mirascope是一个快速高质量开发的 LLM 工具集，让编写 Python 代码如同使用熟悉的 Python 代码一样简洁易写。】’Awesome Visible Wa...](https://weibo.com/1402400261/O5Vmnhd7B)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [【Mirascope：快速高质量开发的 LLM 工具集】'Mirascope - LLM toolkit for lightning-fast, high-quality development' GitHub: github.com/Mirascope/mirascop...](https://weibo.com/1402400261/O5Vlxv7Rw)
+Token length: 256
+Summarized using GPT-3.5-turbo
+Append: [【表格数据的监督学习】’Awesome Self-Supervised Learning for Non-Sequential Tabular Data (SSL4NSTD) - A collection of research materials on SSL for no...](https://weibo.com/1402400261/O5VjP0XY8)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [【DSPy相关资源大列表】’Awesome DSPy - An Awesome list of curated DSPy resources.' GitHub: github.com/ganarajpr/awesome-dspy #开源# #机器学习# #人工智...](https://weibo.com/1402400261/O5VfXtRGo)
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [【text-splitter：将文本分割成不同的片段，以便在处理更大的文本时更好地处理文本】'text-splitter - Split text into semantic chunks, up to a desired chunk...](https://weibo.com/1402400261/O5Ven65Ye)
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: ['ONNX Runtime Server: The ONNX Runtime Server is a server that provides TCP and HTTP/HTTPS REST APIs for ONNX inference.' GitHub: github.com/kibae/onn...](https://weibo.com/1402400261/O5VbAzaaN)
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [【位置识别方法、数据集和各种LiDAR算法大列表】’Awesome LiDAR Place Recognition - A curated list of Place Recognition methods, datasets, and various al...](https://weibo.com/1402400261/O5Vaq8j2y)
+append_entries: 9
+Finish: 2024-03-20 16:16:04.548198
