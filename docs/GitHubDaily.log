@@ -455,3 +455,9 @@ Summarized using GPT-3.5-turbo
 Append: [推荐 GitHub 上一个完全免费的闯关式 SQL 自学网站：SQL 之母。通过有趣的闯关式交互，让你从 0 到 1 掌握常用的 SQL 语法，简单易学！一共有 30 多个关卡，可在...](https://weibo.com/5722964389/O5TNi3BCb)
 append_entries: 1
 Finish: 2024-03-20 12:20:03.634981
+------------------------------------------------------
+Started: 2024-03-20 14:10:27.993353
+Existing_entries: 21
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-03-20 14:10:28.039701
