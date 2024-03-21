@@ -615,3 +615,18 @@ Existing_entries: 63
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-21 02:19:05.220648
+------------------------------------------------------
+Started: 2024-03-21 04:13:14.616325
+Existing_entries: 63
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [【#首个电机驱动人形机器人后空翻#】宇树科技刚刚发布新视频，展示了全球首款全尺寸电机驱动人形机器人#H1#原地空翻绝技。这款身高约 180CM，重约 47kg 的机器人...](https://weibo.com/6105753431/O60nhcL8K)
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [#Neuralink首次直播意念下棋#马斯克的脑机接口公司 Neuralink，刚刚直播了首位脑部植入芯片患者的最新情况——这位名叫诺兰·阿博的四肢瘫痪的病人在直播中一边...](https://weibo.com/6105753431/O60gat43d)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [【#龙与地下城设计师去世#】悼念游戏界传奇！3月18日，知名角色扮演游戏《龙与地下城》的设计师 Jim Ward 与世长辞，享年72岁。Jim Ward 在1976年开始了他的游戏...](https://weibo.com/6105753431/O5ZPXiYOt)
+append_entries: 3
+Finish: 2024-03-21 04:13:28.449109
