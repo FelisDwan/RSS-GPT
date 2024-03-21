@@ -864,3 +864,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O5Vs5Fo63)
 append_entries: 0
 Finish: 2024-03-20 22:09:32.270350
+------------------------------------------------------
+Started: 2024-03-21 00:50:48.641665
+Existing_entries: 135
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 743
+Summarized using GPT-3.5-turbo
+Append: [【OpenAI的GPT商店充斥大量违规内容】 - OpenAI 推出的 GPT 商店(GPT Store)旨在让开发者构建基于 OpenAI 生成式 AI 模型的定制聊天机器人，用于完成各种任务。 ...](https://weibo.com/1402400261/O5ZpaE0pX)
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [【AnimateDiff-Lightning：超快的文生视频实现】《AnimateDiff-Lightning - Lightning-fast text-to-video generation - a Hugging Face Space by ByteDance》 ...](https://weibo.com/1402400261/O5ZlXunOm)
+Token length: 828
+Summarized using GPT-3.5-turbo
+Append: [【用GaLore在消费级硬件上训练大模型】 - GaLore 是一种新的参数高效微调(Parameter Efficient Finetuning， PEFT)方法，可以在消费级GPU(如 RTX 3090)上高效训...](https://weibo.com/1402400261/O5ZkH1crh)
+Token length: 870
+Summarized using GPT-3.5-turbo
+Append: [【泛洪预警的"AI力量"：跨界协作,开放创新】 - 洪水是最常见的自然灾害，每年全球造成约500亿美元经济损失。气候变化导致洪水灾害频率上升。约15亿人面临洪水风...](https://weibo.com/1402400261/O5Zh7dYN0)
+Token length: 785
+Summarized using GPT-3.5-turbo
+Append: [【Common Corpus 让 AI 更透明】- Hugging Face发布了Common Corpus，这是迄今为训练大规模语言模型(LLM)发布的最大公共领域数据集。 - Common Corpus包含来自各...](https://weibo.com/1402400261/O5Zfw6TaS)
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [[good] - 转发 @张俊林say:&ensp;这里以通俗易懂的方式来分析Sora的可能做法，包括它的整体结构以及关键组件。我希望即使您不太懂技术，也能大致看明白Sora的可...](https://weibo.com/1402400261/O5ZdD4U3Z)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.2...](https://weibo.com/1402400261/O5Zd1EKiB)
+Token length: 106
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1351期)：用语言纠正即时提高机器人性能、基于图表的推理、基于大型语言模型的大规模文本挖掘、端到端视频条件策略学习与交叉注意力Transformer、非...](https://weibo.com/1402400261/O5YETn8cu)
+Token length: 363
+Summarized using GPT-3.5-turbo
+Append: [[CV] HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting 网页链接 介绍了一种新的HUGS管道，用于实现城市3D场景的整体理解，仅依靠RGB图像。...](https://weibo.com/1402400261/O5YBl0oTU)
+Token length: 282
+Summarized using GPT-3.5-turbo
+Append: [[LG] Securing Large Language Models: Threats, Vulnerabilities and Responsible Practices 网页链接 全面探讨了大型语言模型(LLM)在安全性和隐私方面的各种挑...](https://weibo.com/1402400261/O5YyJCGSc)
+append_entries: 10
+Finish: 2024-03-21 00:51:45.390200
