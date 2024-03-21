@@ -960,3 +960,9 @@ Summarized using GPT-3.5-turbo
 Append: [【GritQL 是一个描述式查询语言，可以用于搜索和修改代码，支持多种编程语言】'GritQL is a query language for searching, linting, and modifying code.' GitH...](https://weibo.com/1402400261/O61rC2jl3)
 append_entries: 9
 Finish: 2024-03-21 10:12:11.421375
+------------------------------------------------------
+Started: 2024-03-21 12:19:30.714018
+Existing_entries: 155
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-03-21 12:19:32.631192

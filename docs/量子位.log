@@ -668,3 +668,15 @@ Append: [【#SD核心团队被曝集体离职# 】最新消息，Stable Diffusio
 Append: [#AI提前7日预测洪水# 最新一期Nature发表了谷歌的一项新研究：AI已经能够提前7天预测洪灾了~具体而言，研究团队是通过收集大量气象及河流流量数据，训练出了一款...](https://weibo.com/6105753431/O61H4xlfE)
 append_entries: 6
 Finish: 2024-03-21 10:11:33.899994
+------------------------------------------------------
+Started: 2024-03-21 12:19:21.327847
+Existing_entries: 74
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 451
+Summarized using GPT-3.5-turbo
+Append: [#Reddit上市定价每股34美元# “美版贴吧” Reddit 以每股34美元的价格成功IPO，这一价格位于其预期范围顶点（曾计划每股31~34美元）。此次发行预期带来 5.19 亿...](https://weibo.com/6105753431/O63ruaimt)
+Token length: 69
+Summarized using GPT-3.5-turbo
+Append: [【#Neuralink首次直播意念下棋#】马斯克脑机接口公司首个人类植入者，已经能用意念下象棋、玩《文明6》了！900多万网友前来围观，许多人表示：马斯克正在改变人...](https://weibo.com/6105753431/O633JgkTs)
+append_entries: 2
+Finish: 2024-03-21 12:19:30.522328
