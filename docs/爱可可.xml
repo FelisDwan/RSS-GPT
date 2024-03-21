@@ -4,6 +4,32 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>《爱可可微博热门分享(3.21)》 爱可可微博热门分享(3.21) [图片]</title>
+<link>https://weibo.com/1402400261/O657woCn0</link>
+<guid>https://weibo.com/1402400261/O657woCn0</guid>
+<content:encoded><![CDATA[
+<div> 微博，热门，分享，爱可可，3.21
+
+总结：<br><br>爱可可微博3.21日分享了热门内容，引起众多网友关注。微博内容包括各种有趣、新鲜的信息，受到大家的热烈回应。网友们纷纷转发评论，展开讨论。这些分享丰富了用户的微博阅读体验，也增加了用户之间的互动。愿爱可可微博在未来能继续给大家带来更多精彩内容，引领网民们探索更广阔的世界。 <div>
+《爱可可微博热门分享(3.21)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405014496543375877"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(3.21)</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnz02s4zrkj20rs0fmad0.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 21 Mar 2024 14:50:04 GMT</pubDate>
+<pubDate>Thu, 21 Mar 2024 14:50:04 GMT</pubDate>
+</item>
+<item>
+<title>几篇论文实现代码：《AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents》(CVPR 2024) GitHub: github.com/jiemingcui/anyskill《Tack...</title>
+<link>https://weibo.com/1402400261/O64X3gfOe</link>
+<guid>https://weibo.com/1402400261/O64X3gfOe</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Open-Vocabulary Skill, Physical Skill Learning, Interactive Agents, Diffusion Models, Singularities, Time Intervals, Dance Camera Movement, Scene Reconstruction, Multi-View Generation, Model Merging Recipes
+
+总结: <br><br>《AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents》介绍了一种学习开放词汇物理技能的方法，可以应用于交互式代理系统。<br>《Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models》解决了扩散模型中时间间隔端点的奇异性问题。<br>《DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance》展示了一种能够结合音乐和舞蹈进行3D摄像机移动合成的方法。<br>《SuperPrimitive: Scene Reconstruction at a Primitive Level》介绍了在基本级别上进行场景重建的技术。<br>《VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model》展示了基于大型视频生成模型的一致性多视图生成方法。<br>《Evolutionary Optimization of Model Merging Recipes》探讨了模型合并配方的进化优化方法。<br>《When Do We Not Need Larger Vision Models?》讨论了何时不需要更大的视觉模型。<br>《RewardBench: Evaluating Reward Models》介绍了评估奖励模型的方法。<br>《Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models》展示了通过混合门控线性递归和局部注意力提高语言模型效率的方法。<br>《How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments》评估了大语言模型在多智能体环境中的游戏能力。<br>《GAPS: Geometry-Aware, Physics-Based, Self-Supervised Neural Garment Draping》介绍了几何感知、基于物理的、自监督神经服装披挂技术。<br>《Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive》解决了偏好优化失败模式的问题。<br>《UrbanGPT: Spatio-Temporal Large Language Models》展示了时空大型语言模型UrbanGPT。<br>《RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation》介绍了通过鲁棒适应实现准确参数高效微调的RoSA方法。 <div>
+几篇论文实现代码：<br />《AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents》(CVPR 2024) GitHub: github.com/jiemingcui/anyskill<br />《Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models》(CVPR 2024) GitHub: github.com/PangzeCheung/SingDiffusion [fig2]<br />《DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance》(CVPR 2024) GitHub: github.com/Carmenw1203/DanceCamera3D-Official<br />《SuperPrimitive: Scene Reconstruction at a Primitive Level》(CVPR 2024) GitHub: github.com/makezur/super_primitive<br />《VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model》(2024) GitHub: github.com/alibaba/VideoMV [fig1]<br />《Evolutionary Optimization of Model Merging Recipes》(2024) GitHub: github.com/SakanaAI/evolutionary-model-merge<br />《When Do We Not Need Larger Vision Models?》(2024) GitHub: github.com/bfshi/scaling_on_scales<br />《RewardBench: Evaluating Reward Models》(2024) GitHub: github.com/allenai/reward-bench<br /> 《Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models》(2024) GitHub: github.com/kyegomez/Griffin<br />《How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments》(2024) GitHub: github.com/CUHK-ARISE/GAMABench<br />《GAPS: Geometry-Aware, Physics-Based, Self-Supervised Neural Garment Draping》(2024) GitHub: github.com/Simonhfls/GAPS<br />《Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive》(2024) GitHub: github.com/abacusai/smaug<br />《UrbanGPT: Spatio-Temporal Large Language Models》(2024) GitHub: github.com/HKUDS/UrbanGPT [fig3]<br />《RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation》(2024) GitHub: github.com/IST-DASLab/RoSA<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnyzbcmxhij22jj14qhdt.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnyzbpmsauj20ub0mo4qp.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnyzc565i6j21k40j71kx.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 21 Mar 2024 14:24:16 GMT</pubDate>
+<pubDate>Thu, 21 Mar 2024 14:24:16 GMT</pubDate>
+</item>
 
 <item>
 <title>'FaceSearchSDK_Android - On Device Android Face 1:N and M:N Search With Liveness Detection &amp; Anti Spoofing SDK / 离线版Android 1:N 和M:N人脸检索，包含...</title>
