@@ -536,3 +536,9 @@ Summarized using GPT-3.5-turbo
 Append: [推荐 GitHub 上一款功能颇为齐全的工具箱 DevHub。这是一款专为开发者开发的 macOS 应用，里面集成了超过三十种常见实用小工具，旨在帮助开发者提升效率。比如有...](https://weibo.com/5722964389/O63Hvj9ky)
 append_entries: 1
 Finish: 2024-03-21 14:11:04.888574
+------------------------------------------------------
+Started: 2024-03-21 16:15:10.165899
+Existing_entries: 22
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-03-21 16:15:10.336630
