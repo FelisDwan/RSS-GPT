@@ -927,3 +927,36 @@ Existing_entries: 146
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-21 08:13:26.288285
+------------------------------------------------------
+Started: 2024-03-21 10:11:34.081170
+Existing_entries: 146
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: ['FaceSearchSDK_Android - On Device Android Face 1:N and M:N Search With Liveness Detection & Anti Spoofing SDK / 离线版Android 1:N 和M:N人脸检索，包含...](https://weibo.com/1402400261/O61EowFIA)
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [【OpenDMD：基于分布匹配蒸馏的一步扩散的开源实现和模型】'OpenDMD - Open source implementation and models of One-step Diffusion with Distribution Matchi...](https://weibo.com/1402400261/O61DBbZDs)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [【用于用户建模的大型语言模型(LLM-UM)相关论文列表】’Large Language Models for User Modeling (LLM-UM) Reading List - A list of large language models fo...](https://weibo.com/1402400261/O61CxpYtG)
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [【CoML：可以帮助数据科学和机器学习开发人员的开源项目，基于大型语言模型提供交互式自然语言编程接口，方便数据分析和机器学习任务】'CoML - Interactive codi...](https://weibo.com/1402400261/O61BmBLQw)
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [【GAMA-Bench：多Agent环境下LLM博弈能力的性能测试基准】’GAMA-Bench - Benchmarking LLMs' Gaming Ability in Multi-Agent Environments' GitHub: github.com...](https://weibo.com/1402400261/O61z7renB)
+Token length: 250
+Summarized using GPT-3.5-turbo
+Append: [【LLaMA Nuts and Bolts：旨在通过代码和文档了解 LLaMA 和其组件运行背后的原理的开源项目】'LLaMA Nuts and Bolts - A holistic way of understanding how LLa...](https://weibo.com/1402400261/O61xXbnCf)
+Token length: 255
+Summarized using GPT-3.5-turbo
+Append: [【Lightning Thunder：开源 PyTorch 代码编译器，可以使 PyTorch 程序更快，无论是单个加速器还是分布式环境】'Lightning Thunder - Source to source compiler ...](https://weibo.com/1402400261/O61wG8Lpb)
+Token length: 92
+Summarized using GPT-3.5-turbo
+Append: [【大语言模型与工具使用相关论文资源列表】’Awesome LMs with Tools' GitHub: github.com/zorazrw/awesome-tool-llm #开源# #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O61ud4TmF)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [【GritQL 是一个描述式查询语言，可以用于搜索和修改代码，支持多种编程语言】'GritQL is a query language for searching, linting, and modifying code.' GitH...](https://weibo.com/1402400261/O61rC2jl3)
+append_entries: 9
+Finish: 2024-03-21 10:12:11.421375

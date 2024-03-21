@@ -648,3 +648,23 @@ Existing_entries: 68
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-21 08:13:26.049011
+------------------------------------------------------
+Started: 2024-03-21 10:11:14.299334
+Existing_entries: 68
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [#谷歌学术PDF阅读器# 谷歌推出了新工具 #Scholar PDF Reader #，用它读论文可以直接跳转文末的参考文献了，还会直接帮你选择能够打开的版本。不仅如此，它还支持...](https://weibo.com/6105753431/O62POxKwg)
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [#AI画图新工具# GitHub 新开源了 #StreamMultiDiffusion# 项目。现在，你可以在多个特定区域内分别输入不同的文本提示来指导AI画图，一个提示负责一个区域，精准...](https://weibo.com/6105753431/O62P3C3gz)
+Token length: 399
+Summarized using GPT-3.5-turbo
+Append: [【#传奇大爷拿下数学界诺贝尔奖#；陶哲轩祝贺：他本应更知名】这是属于概率论的高光时刻。有着“数学诺贝尔奖”之称、与菲尔兹奖齐名的阿贝尔奖，今年颁给了72岁...](https://weibo.com/6105753431/O62IHqWmC)
+Token length: 51
+Summarized using GPT-3.5-turbo
+Append: [【#2分钟教你用一张纸挑选家电#】如何用一张纸挑选家电？AWE2024现场实测来了！从冰箱、空调到热水器，都给你安排得明明白白。 量子位的微博视频](https://weibo.com/6105753431/O62IkEzAL)
+Append: [【#SD核心团队被曝集体离职# 】最新消息，Stable Diffusion核心研究团队已集体辞职！名单包括研究团队领导、论文一作Robin Rombach，共同一作Andreas Blattmann...](https://weibo.com/6105753431/O62fmBdXm)
+Append: [#AI提前7日预测洪水# 最新一期Nature发表了谷歌的一项新研究：AI已经能够提前7天预测洪灾了~具体而言，研究团队是通过收集大量气象及河流流量数据，训练出了一款...](https://weibo.com/6105753431/O61H4xlfE)
+append_entries: 6
+Finish: 2024-03-21 10:11:33.899994
