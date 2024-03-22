@@ -780,3 +780,18 @@ Summarized using GPT-3.5-turbo
 Append: [#AI服务器每8个GPU就得搭配2个CPU# IGC的这把火，燃起来的可不只是百模大战的热度和雨后春笋般的各式AI应用。更是由于算力与通信需求的爆发式增长，使得底层的专...](https://weibo.com/6105753431/O6aT6n5DP)
 append_entries: 4
 Finish: 2024-03-22 08:14:27.106670
+------------------------------------------------------
+Started: 2024-03-22 10:12:15.986669
+Existing_entries: 90
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [#AI翻译图片文字# 喜欢日本漫画但是看不懂上面的文字怎么办？别担心，GitHub 开源了一款专门用于翻译漫画或图片中文字的 AI 工具。支持一键多语言翻译，还能一键...](https://weibo.com/6105753431/O6cfac4yP)
+Token length: 278
+Summarized using GPT-3.5-turbo
+Append: [#Windows可直接使用GPT4# 现在，单击 Windows 任务栏上的 Copilot 图标或 Surface 上的 Copilot 键就可以一键召唤 GPT-4 了。这意味着你无需再像以前那样在网页...](https://weibo.com/6105753431/O6bY4f8Dw)
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [#开源AI掌机爆火# 首批预售2.5小时抢光火爆一时的AI硬件Rabbit R1还没来得及发货，有人已经替他们开源了。设备名叫01 Light，通过它你可以直接语音操控电脑，跟...](https://weibo.com/6105753431/O6bQajyJh)
+append_entries: 3
+Finish: 2024-03-22 10:12:38.447158

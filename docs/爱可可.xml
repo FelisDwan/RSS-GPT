@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>几篇论文实现代码：《GRANDE: Gradient-Based Decision Tree Ensembles》(ICLR 2024) GitHub: github.com/s-marton/GRANDE 《Neural Markov Random Field for St...</title>
 <link>https://weibo.com/1402400261/O6b5z0qtw</link>
@@ -11,12 +12,11 @@
 <content:encoded><![CDATA[
 <div> 关键词: 决策树集成、梯度提升、神经网络、立体匹配、语音编辑、扩散模型、面部分析、3D图像处理、计算病理学、生成模型
 
-总结:<br><br>
+总结:<br /><br />
 本文介绍了多篇论文的实现代码，涵盖了各种领域的研究成果。首先介绍了《GRANDE: Gradient-Based Decision Tree Ensembles》和《Neural Markov Random Field for Stereo Matching》，这两篇论文探讨了决策树集成和神经网络在立体匹配中的应用。然后介绍了《VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild》，该论文提出了一种零样本语音编辑和文本转语音的方法。接着讲述了《Analyzing and Improving the Training Dynamics of Diffusion Models》和《FaceXFormer : A Unified Transformer for Facial Analysis》，这两篇论文分别研究了扩散模型的训练动态和面部分析中的统一Transformer模型。紧接着介绍了《MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images》和《HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression》，这两篇论文讨论了3D图像处理中的高效Gaussian Splatting方法。继而阐述了《Towards a General-Purpose Foundation Model for Computational Pathology》和《Gaussian Splatting on the Move:Blur and Rolling Shutter Compensation for Natural Camera Motion》，这两篇论文分别探索了计算病理学的通用基础模型和图像处理中的模糊和快门补偿技术。最后提到了《BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis》和《All in a Single Image: Large Multimodal Models are In-Image Learners》，这两篇论文分别介绍了快速文本转3D合成和大型多模态模型在图像学习中的应用。此外还包括了《GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM》和《Generative Enhancement for 3D Medical Images》等内容，涉及了缓存压缩和医疗图像生成增强等核心技术。整体而言，这些研究呈现了当今前沿科技领域的最新进展，为各个领域的研究和实践提供了重要参考。
  <div>
 几篇论文实现代码：<br />《GRANDE: Gradient-Based Decision Tree Ensembles》(ICLR 2024) GitHub: github.com/s-marton/GRANDE <br />《Neural Markov Random Field for Stereo Matching》(CVPR 2024) GitHub: github.com/aeolusguan/NMRF [fig1]<br />《VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild》(2024) GitHub: github.com/jasonppy/VoiceCraft<br />《Analyzing and Improving the Training Dynamics of Diffusion Models》(2024) GitHub: github.com/NVlabs/edm2<br />《FaceXFormer : A Unified Transformer for Facial Analysis》(2024) GitHub: github.com/Kartik-3004/facexformer [fig2]<br />《MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images》(2024) GitHub: github.com/donydchen/mvsplat<br />《HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression》(2024) GitHub: github.com/YihangChen-ee/HAC [fig3]<br />《Towards a General-Purpose Foundation Model for Computational Pathology》(2024) GitHub: github.com/mahmoodlab/UNI<br />《Gaussian Splatting on the Move:<br />Blur and Rolling Shutter Compensation for Natural Camera Motion》(2024) GitHub: github.com/SpectacularAI/3dgs-deblur<br />《BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis》(2024) GitHub: github.com/lutao2021/BrightDreamer <br />《All in a Single Image: Large Multimodal Models are In-Image Learners》(2024) GitHub: github.com/AGI-Edgerunners/IIL [fig4]<br />《GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLM》(2024) GitHub: github.com/opengear-project/GEAR<br />《Generative Enhancement for 3D Medical Images》(2024) GitHub: github.com/HKU-MedAI/GEM-3D [fig5]<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzodrsscuj24x81rbkjm.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzp8kduwdj223x13yb2a.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzpc961h0j22tg1lohdv.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnzq288ah6j23lr1ofb29.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzqa6d9coj20ve0jumzy.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 06:01:43 GMT</pubDate>
 <pubDate>Fri, 22 Mar 2024 06:01:43 GMT</pubDate>
 </item>
 <item>
@@ -24,12 +24,11 @@
 <link>https://weibo.com/1402400261/O6b5ub8q2</link>
 <guid>https://weibo.com/1402400261/O6b5ub8q2</guid>
 <content:encoded><![CDATA[
-<div> ReverserAI, automated, reverse engineering, local large language models, LLM, software, assistance, consumer hardware, GitHub<br>
-<br>
+<div> ReverserAI, automated, reverse engineering, local large language models, LLM, software, assistance, consumer hardware, GitHub<br />
+<br />
 ReverserAI (v1.0.1)是一个提供自动反向工程辅助的工具，通过在消费者硬件上使用本地大语言模型（LLMs）。用户可以利用这个工具对软件进行反向工程。用户可以在GitHub上找到该工具的源代码。 <div>
 【ReverserAI：通过使用本地大语言模型 (LLM)，自动推荐函数名称，帮用户进行软件逆向工程】'ReverserAI (v1.0.1) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.' GitHub: github.com/mrphrazer/reverser_ai <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnzqfdk4l1j20uw0jsad4.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnzqffzmlfj21w10u0gpb.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 06:01:32 GMT</pubDate>
 <pubDate>Fri, 22 Mar 2024 06:01:32 GMT</pubDate>
 </item>
 <item>
@@ -38,11 +37,10 @@ ReverserAI (v1.0.1)是一个提供自动反向工程辅助的工具，通过在�
 <guid>https://weibo.com/1402400261/O6b49eEqP</guid>
 <content:encoded><![CDATA[
 <div> 空间 omics数据、开源框架、SpatialData、多模态、GitHub、处理、数据、框架、信息。
-<br><br>总结:
+<br /><br />总结:
 SpatialData是一个开源框架，用于处理多模态空间 omics 数据。这个框架提供了一个通用的数据处理平台，可以处理不同类型的 omics 数据，并提供了交互性和可扩展性。用户可以通过GitHub访问这个框架，并利用它来处理他们的空间 omics 数据。通过SpatialData，用户可以更方便地对空间 omics 数据进行分析和处理，提高数据处理的效率和准确性。 <div>
 【SpatialData: 用于处理多模态空间 omics数据的开源框架】'SpatialData: an open and universal framework for processing spatial omics data. - An open and interoperable data framework for spatial omics data' GitHub: github.com/scverse/spatialdata <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnzqc0o7z6j210j0u0ah6.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 05:58:14 GMT</pubDate>
 <pubDate>Fri, 22 Mar 2024 05:58:14 GMT</pubDate>
 </item>
 <item>
@@ -52,11 +50,10 @@ SpatialData是一个开源框架，用于处理多模态空间 omics 数据。�
 <content:encoded><![CDATA[
 <div> PyTorch、RWKV、推理框架、大语言模型、原生实现、灵活、开源、GitHub、复杂、缺乏可扩展性
 
-总结:<br><br>
+总结:<br /><br />
 本文介绍了一个纯PyTorch原生实现的RWKV大语言模型推理框架，旨在解决官方原生实现过于复杂且缺乏可扩展性的问题。作者呼吁加入灵活的PyTorch生态系统，共同开源该项目。感兴趣的读者可在GitHub上找到相关代码。 <div>
 【RWKV_Pytorch：用纯Pytorch原生实现的RWKV大语言模型的推理框架】'RWKV_Pytorch - This is an inference framework for the RWKV large language model implemented purely in native PyTorch. The official native implementation is overly complex and lacks extensibility. Let's join the flexible PyTorch ecosystem and open-source it together!' GitHub: github.com/yuunnn-w/RWKV_Pytorch <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnzq6py8wdj21gb0u0af0.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 05:53:08 GMT</pubDate>
 <pubDate>Fri, 22 Mar 2024 05:53:08 GMT</pubDate>
 </item>
 <item>
@@ -65,11 +62,10 @@ SpatialData是一个开源框架，用于处理多模态空间 omics 数据。�
 <guid>https://weibo.com/1402400261/O6aYMeAQs</guid>
 <content:encoded><![CDATA[
 <div> 无人驾驶、世界模型、论文、资源、GitHub、自动驾驶、数据集、模拟、模型训练、深度学习
-<br>
+<br />
 无人驾驶技术的发展离不开对于世界模型的研究与应用。本文收集了一些与无人驾驶相关的世界模型论文资源，包括数据集、模拟环境、模型训练等方面的研究成果。这些论文和资源可以帮助研究人员更好地理解和优化自动驾驶系统，在深度学习和机器视觉等领域为无人驾驶的发展贡献力量。通过GitHub上的相关链接，研究人员可以方便地获取这些资源并开展进一步的研究与实验。 <div>
 【面向无人驾驶的世界模型相关论文资源列表】’Awesome World Models for Autonomous Driving - Collect some World Models for Autonomous Driving papers.' GitHub: github.com/LMD0311/Awesome-World-Model <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnzpy8ywndj21790u0dmd.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 05:45:00 GMT</pubDate>
 <pubDate>Fri, 22 Mar 2024 05:45:00 GMT</pubDate>
 </item>
 <item>
@@ -83,20 +79,18 @@ Ludic是一个轻量级的Python框架，类似于React，使用组件的方式�
 【Ludic：轻量Python框架，类似于 React，使用组件的方式构建 HTML 页面。它与 htmx.org框架集成在一起，无需编写大量 JavaScript，可以与 Starlette框架一起使用】'Ludic - Lightweight framework for building HTML pages in pure Python.' GitHub: github.com/paveldedik/ludic <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Python%23"><span class="surl-text">#Python#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnzpa34n6hj21ew0u0grx.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 22 Mar 2024 05:21:57 GMT</pubDate>
-<pubDate>Fri, 22 Mar 2024 05:21:57 GMT</pubDate>
 </item>
 <item>
 <title>【Devika：基于开源的 AI 软件工程师，可以理解人类的高级指令，并根据这些指令，分解成步骤，进行相关信息的研究，并编写代码实现目标】'Devika - Agentic AI S...</title>
 <link>https://weibo.com/1402400261/O6aOecw1v</link>
 <guid>https://weibo.com/1402400261/O6aOecw1v</guid>
 <content:encoded><![CDATA[
-<div> 开源 AI 软件工程师 Devika; 高级指令 分解 研究 编写代码 实现目标 Devin Cognition AI 竞争对手<br>
-<br>
+<div> 开源 AI 软件工程师 Devika; 高级指令 分解 研究 编写代码 实现目标 Devin Cognition AI 竞争对手<br />
+<br />
 总结: 
 Devika是一名基于开源的 AI 软件工程师，能够理解人类的高级指令，并将其分解成步骤，进行相关信息的研究，并编写代码来实现给定的目标。Devika旨在成为Devin AI的一个竞争性开源替代品。 <div>
 【Devika：基于开源的 AI 软件工程师，可以理解人类的高级指令，并根据这些指令，分解成步骤，进行相关信息的研究，并编写代码实现目标】'Devika - Agentic AI Software Engineer - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.' GitHub: github.com/stitionai/devika <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnzp769j5cj20un0u0n21.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 05:19:01 GMT</pubDate>
 <pubDate>Fri, 22 Mar 2024 05:19:01 GMT</pubDate>
 </item>
 <item>
@@ -106,11 +100,10 @@ Devika是一名基于开源的 AI 软件工程师，能够理解人类的高级�
 <content:encoded><![CDATA[
 <div> GitHub，TorchTune，PyTorch，LLM模型，语言模型，fine-tuning，训练工具，评估工具，HF格式，库
 
-总结:<br><br>
+总结:<br /><br />
 TorchTune是一个易于使用的PyTorch库，专为LLM模型的微调而设计。该库提供了多种功能，包括使用native-PyTorch实现的流行语言模型，支持各种格式的复原，以及提供训练和评估工具，例如HF格式的检查点支持。通过TorchTune，用户可以轻松编写、微调和实验各种LLM模型，为语言模型相关的任务提供了便利的工具和支持。GitHub链接：github.com/pytorch/torchtune <div>
 【TorchTune：易于使用的 PyTorch 库，可轻松编写、微调和实验LLM模型。该库提供了多种功能，包括使用 native-PyTorch 实现的流行语言模型，支持各种格式的复原，以及提供训练和评估工具，例如 HF 格式的检查点支持】'TorchTune - A Native-PyTorch Library for LLM Fine-tuning' GitHub: github.com/pytorch/torchtune <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnzp2l49hnj212u0u0dkv.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 05:14:39 GMT</pubDate>
 <pubDate>Fri, 22 Mar 2024 05:14:39 GMT</pubDate>
 </item>
 <item>
@@ -120,11 +113,10 @@ TorchTune是一个易于使用的PyTorch库，专为LLM模型的微调而设计�
 <content:encoded><![CDATA[
 <div> GitHub、Pico MLX Server、Apple、MLX AI框架、轻松入门、GUI
 
-<br><br>总结:
+<br /><br />总结:
 Pico MLX Server是一个供Apple的MLX AI框架使用的GUI工具，为用户提供了简单易用的入门方式。用户可以通过访问GitHub上的Pico MLX Server代码库来获取这一工具。 <div>
 【Pico MLX Server：Apple 的 MLX AI框架的轻松入门方式，提供了一个用于 MLX Server的GUI】’Pico MLX Server' GitHub: github.com/ronaldmannak/PicoMLXServer <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnzobeagodj21200fgq4i.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 04:48:33 GMT</pubDate>
 <pubDate>Fri, 22 Mar 2024 04:48:33 GMT</pubDate>
 </item>
 <item>
@@ -134,14 +126,12 @@ Pico MLX Server是一个供Apple的MLX AI框架使用的GUI工具，为用户提
 <content:encoded><![CDATA[
 <div> 开源脚本、训练、大语言模型、LLM、四块4090 GPU、定制训练、pipeline parallel、GitHub
 
-<br><br>总结:
+<br /><br />总结:
 qlora-pipe是一个用于训练大语言模型的开源脚本，能够在四块4090 GPU上进行定制训练。它采用pipeline parallel技术，可以加快训练进程，提高效率。用户可以在GitHub上找到qlora-pipe的源代码和详细说明，方便使用和定制。使用qlora-pipe可以帮助研究人员和开发者更好地训练和优化LLMs，提高模型的性能和准确性。 <div>
 【qlora-pipe：用于训练大语言模型的开源脚本，可以在四块4090 GPU上对LLM进行定制训练】'qlora-pipe - A pipeline parallel training script for LLMs.' GitHub: github.com/tdrussell/qlora-pipe <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnzo8tlkcnj20yt0u0afc.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 22 Mar 2024 04:46:04 GMT</pubDate>
-<pubDate>Fri, 22 Mar 2024 04:46:04 GMT</pubDate>
 </item>
-
 <item>
 <title>【AGI的定义之争：人工智能的终极目标还有多远？】- 人工通用智能(AGI)这一术语在当前有关人工智能的讨论中无处不在，但对其定义和内涵却存在诸多争议。 - 一些...</title>
 <link>https://weibo.com/1402400261/O69gfhC5j</link>
