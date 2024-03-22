@@ -728,3 +728,22 @@ Existing_entries: 78
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-22 02:16:41.132727
+------------------------------------------------------
+Started: 2024-03-22 04:12:45.254433
+Existing_entries: 78
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 262
+Summarized using GPT-3.5-turbo
+Append: [#联合国通过首个全球人工智能决议# 全球首个人工智能协议来了！3月21日，联合国大会一致通过题为“抓住安全、可靠和值得信赖的人工智能系统带来的机遇，促进可持...](https://weibo.com/6105753431/O69Ubceu3)
+Token length: 509
+Summarized using GPT-3.5-turbo
+Append: [#科幻小说家弗诺文奇去世# 著名硬科幻作家弗诺·文奇于本月20日逝世，享年79岁。1964年，文奇在《新世界》杂志上发表了他的第一篇科幻小说《Apartness》。在这之...](https://weibo.com/6105753431/O69RXF89k)
+Token length: 956
+Summarized using GPT-3.5-turbo
+Append: [#微软发布AI平板# 微软 “专为企业打造的两款Surface AI PC” 将于4月9日起正式发售，起价为1199美元。这两款新设备——Surface Pro 10 和 Surface Laptop 6 外...](https://weibo.com/6105753431/O69RGwSB7)
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [#Kimi大面积宕机# 原来Kimi聊天次数多了也会“有点累了”[doge]3月21日下午，月之暗面旗下大模型应用 Kimi 的APP和小程序均无法正常使用。月之暗面方面表示，自2...](https://weibo.com/6105753431/O69qlhC5O)
+Append: [#老黄即兴演讲# 量子位的微博视频](https://weibo.com/6105753431/O69p5dJD1)
+append_entries: 5
+Finish: 2024-03-22 04:13:14.750946
