@@ -605,3 +605,9 @@ Summarized using GPT-3.5-turbo
 Append: [利用 AI 进行实时语音绘图！该工具将传统的提示词输入换成了语音输入，帮你实时生成图像，做到语音控制绘图。使用到的技术框架，如下：- WhisperCPP（实时语音转...](https://weibo.com/5722964389/O6cO4n2jo)
 append_entries: 1
 Finish: 2024-03-22 12:19:46.316897
+------------------------------------------------------
+Started: 2024-03-22 14:10:53.368976
+Existing_entries: 23
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-03-22 14:10:53.514253

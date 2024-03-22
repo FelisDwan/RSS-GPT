@@ -4,21 +4,20 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+
 <item>
 <title>利用 AI 进行实时语音绘图！该工具将传统的提示词输入换成了语音输入，帮你实时生成图像，做到语音控制绘图。使用到的技术框架，如下：- WhisperCPP（实时语音转...</title>
 <link>https://weibo.com/5722964389/O6cO4n2jo</link>
 <guid>https://weibo.com/5722964389/O6cO4n2jo</guid>
 <content:encoded><![CDATA[
-<div> 关键词: AI、实时语音绘图、WhisperCPP、SDXL Turbo、LCM、Replicate、开源、GitHub、直播间、流量<br>
-<br>
-总结: <br>
+<div> 关键词: AI、实时语音绘图、WhisperCPP、SDXL Turbo、LCM、Replicate、开源、GitHub、直播间、流量<br />
+<br />
+总结: <br />
 文章介绍了利用AI进行实时语音绘图的工具，通过语音输入生成图像，使用了WhisperCPP进行语音转文本、SDXL Turbo生成图像模型、LCM加速图像生成；代码已在GitHub开源，技术开发者可学习使用；这一工具可以在直播间进行演示互动，吸引更多流量。 <div>
 利用 AI 进行实时语音绘图！<br /><br />该工具将传统的提示词输入换成了语音输入，帮你实时生成图像，做到语音控制绘图。<br /><br />使用到的技术框架，如下：<br /><br />- WhisperCPP（实时语音转文本）<br />- SDXL Turbo on Coreweave（图像生成模型）<br />- LCM (different versions) on Replicate（加速图像生成）<br /><br />目前代码已经开源，感兴趣的可以部署使用。<br /><br />GitHub：github.com/zeke/livestory<br /><br />技术开发者可以研究学习下该工具如何做。<br /><br />另外感觉挺好玩的，如果你拿它在直播间进行演示互动，流量会不会蹭蹭往上涨呢。 <a href="https://video.weibo.com/show?fid=1034:5014791115440175"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">GitHubDaily的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006fiYtfgy1hnzxx7ufbjj30uw0k0gm5.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/u0/G5ohI1HTgx08duhbxihG010412010SAS0E010.mp4?label=mp4_720p&amp;template=1112x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711107982&amp;ssig=6o%2FhFf%2FuL1&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/u0/9XQisvdMgx08duhbfm5a01041200vkKX0E010.mp4?label=mp4_hd&amp;template=740x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711107982&amp;ssig=rlXiKlboMj&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/u0/ztPW04xPgx08duhaxhzG01041200kak60E010.mp4?label=mp4_ld&amp;template=556x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711107982&amp;ssig=%2BhIjskLSGa&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5014791115440175" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
 <pubDate>Fri, 22 Mar 2024 10:24:07 GMT</pubDate>
-<pubDate>Fri, 22 Mar 2024 10:24:07 GMT</pubDate>
 </item>
-
 <item>
 <title>推荐 GitHub 上一款功能颇为齐全的工具箱 DevHub。这是一款专为开发者开发的 macOS 应用，里面集成了超过三十种常见实用小工具，旨在帮助开发者提升效率。比如有...</title>
 <link>https://weibo.com/5722964389/O63Hvj9ky</link>
