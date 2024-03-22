@@ -1005,3 +1005,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O658ja6GM)
 append_entries: 0
 Finish: 2024-03-21 22:10:50.036926
+------------------------------------------------------
+Started: 2024-03-22 00:49:01.676768
+Existing_entries: 157
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 763
+Summarized using GPT-3.5-turbo
+Append: [【SceneScript：语言模型赋能3D场景理解】- Meta Reality Labs 研究团队开发了一种名为 SceneScript 的新方法，用于重建 3D 场景并表示物理空间的布局。 - Scene...](https://weibo.com/1402400261/O68Jg0DkB)
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [#免费##抽奖# 携手@图灵文化 @图灵新知 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发+评论即可参与。带你轻松掌握数据结构与算法，以全新的视角带...](https://weibo.com/1402400261/O68BEFK2R)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.2...](https://weibo.com/1402400261/O68z3vsYr)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1352期)：用逆向训练减轻“逆转诅咒“、面向强化学习的视频原则性表示学习、通过多尺度特征学习改进小规模视觉模型性能、通过一次编码并行解码实现高...](https://weibo.com/1402400261/O6845wLPl)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [[CV] RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS 网页链接 通过辐射场监督点云表示的优化和渲染，实...](https://weibo.com/1402400261/O680Jvcgj)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [#### [LG] RewardBench: Evaluating Reward Models for Language Modeling 网页链接 提出语言模型奖励模型评估基准RewardBench，评估各类模型的优劣势，发现现有...](https://weibo.com/1402400261/O67YsjTA0)
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [[CL] RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content 网页链接 本文提出了一个多方面框架RigorLLM，通过数据增强、安全...](https://weibo.com/1402400261/O67Ul8jZG)
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [[LG] Evolutionary Optimization of Model Merging Recipes 网页链接 提出进化模型融合方法,在参数和数据流空间通过进化算法自动发现模型的最优组合,实现跨域模...](https://weibo.com/1402400261/O67Rq1hAm)
+Token length: 100
+Summarized using GPT-3.5-turbo
+Append: [[LG] Evaluating Frontier Models for Dangerous Capabilities 网页链接 论文系统地评估了多种领域的AI危险能力,为未来的科学评估和风险管控奠定基础。 [图片][...](https://weibo.com/1402400261/O67NpDkRT)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [函数树方法通过树结构化的单变量函数表示，实现了对复杂多变量函数的透明可解释建模。 - 转发 @爱可可-爱生活:&ensp;[LG]《Function Trees: Transparent Machine...](https://weibo.com/1402400261/O67KlbKQP)
+append_entries: 10
+Finish: 2024-03-22 00:49:55.977817
