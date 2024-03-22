@@ -747,3 +747,18 @@ Append: [#Kimi大面积宕机# 原来Kimi聊天次数多了也会“有点累了
 Append: [#老黄即兴演讲# 量子位的微博视频](https://weibo.com/6105753431/O69p5dJD1)
 append_entries: 5
 Finish: 2024-03-22 04:13:14.750946
+------------------------------------------------------
+Started: 2024-03-22 06:13:50.840670
+Existing_entries: 83
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [#HeyGen发布新版本# HeyGen 5.0来了！作为一站式视频制作平台，HeyGen此次更新如下：- 全新用户界面设计：5.0推出了新的用户界面，使得用户能更容易地导航和使用...](https://weibo.com/6105753431/O6aAf35pR)
+Token length: 383
+Summarized using GPT-3.5-turbo
+Append: [#Meta发布3D重建新方法# 现在，当你走进房间，所有物体都能高清显示完整3D结构了，而且还是旁边直接带注释那种~这就是来自Meta最新的3D物理空间重建方法——#Sce...](https://weibo.com/6105753431/O6ajfEnJb)
+Token length: 48
+Summarized using GPT-3.5-turbo
+Append: [【#奥特曼自曝GPT5提升超乎想象#】奥特曼专访自曝GPT5细节！将有飞跃性提升，超越3到4的升级，未来几月还将发布更强模型。 量子位的微博视频](https://weibo.com/6105753431/O6agL6ZqP)
+append_entries: 3
+Finish: 2024-03-22 06:14:05.171518
