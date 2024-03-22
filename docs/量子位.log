@@ -795,3 +795,15 @@ Summarized using GPT-3.5-turbo
 Append: [#开源AI掌机爆火# 首批预售2.5小时抢光火爆一时的AI硬件Rabbit R1还没来得及发货，有人已经替他们开源了。设备名叫01 Light，通过它你可以直接语音操控电脑，跟...](https://weibo.com/6105753431/O6bQajyJh)
 append_entries: 3
 Finish: 2024-03-22 10:12:38.447158
+------------------------------------------------------
+Started: 2024-03-22 12:19:31.501821
+Existing_entries: 93
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 84
+Summarized using GPT-3.5-turbo
+Append: [#AI语音实时转动画# 现在，你边讲故事，电脑能同时帮你生成画面了，真 “绘声绘色”[doge]这是一个来自 GitHub 的开源小项目，基于 whisper.cpp 开发。完整视频...](https://weibo.com/6105753431/O6d4u3EBU)
+Token length: 65
+Summarized using GPT-3.5-turbo
+Append: [【#AI足球教练上岗利物浦#】利物浦惊现AI足球教练！和DeepMind 三年联合研发，使用英超数据训练，战术赢过人类90%，还登上了Nature子刊。 量子位的微博视频](https://weibo.com/6105753431/O6cF9gJak)
+append_entries: 2
+Finish: 2024-03-22 12:19:40.422340
