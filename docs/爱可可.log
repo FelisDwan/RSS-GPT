@@ -1062,3 +1062,39 @@ Existing_entries: 168
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-22 06:14:07.194299
+------------------------------------------------------
+Started: 2024-03-22 08:14:27.310942
+Existing_entries: 168
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1526
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《GRANDE: Gradient-Based Decision Tree Ensembles》(ICLR 2024) GitHub: github.com/s-marton/GRANDE 《Neural Markov Random Field for St...](https://weibo.com/1402400261/O6b5z0qtw)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [【ReverserAI：通过使用本地大语言模型 (LLM)，自动推荐函数名称，帮用户进行软件逆向工程】'ReverserAI (v1.0.1) - Provides automated reverse engineering as...](https://weibo.com/1402400261/O6b5ub8q2)
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [【SpatialData: 用于处理多模态空间 omics数据的开源框架】'SpatialData: an open and universal framework for processing spatial omics data. - An open and ...](https://weibo.com/1402400261/O6b49eEqP)
+Token length: 355
+Summarized using GPT-3.5-turbo
+Append: [【RWKV_Pytorch：用纯Pytorch原生实现的RWKV大语言模型的推理框架】'RWKV_Pytorch - This is an inference framework for the RWKV large language model implem...](https://weibo.com/1402400261/O6b2509HT)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [【面向无人驾驶的世界模型相关论文资源列表】’Awesome World Models for Autonomous Driving - Collect some World Models for Autonomous Driving papers.' Gi...](https://weibo.com/1402400261/O6aYMeAQs)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [【Ludic：轻量Python框架，类似于 React，使用组件的方式构建 HTML 页面。它与 htmx.org框架集成在一起，无需编写大量 JavaScript，可以与 Starlette框架一起使...](https://weibo.com/1402400261/O6aPq4XB3)
+Token length: 430
+Summarized using GPT-3.5-turbo
+Append: [【Devika：基于开源的 AI 软件工程师，可以理解人类的高级指令，并根据这些指令，分解成步骤，进行相关信息的研究，并编写代码实现目标】'Devika - Agentic AI S...](https://weibo.com/1402400261/O6aOecw1v)
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [【TorchTune：易于使用的 PyTorch 库，可轻松编写、微调和实验LLM模型。该库提供了多种功能，包括使用 native-PyTorch 实现的流行语言模型，支持各种格式的复原...](https://weibo.com/1402400261/O6aMsh6ew)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [【Pico MLX Server：Apple 的 MLX AI框架的轻松入门方式，提供了一个用于 MLX Server的GUI】’Pico MLX Server' GitHub: github.com/ronaldmannak/PicoMLXServer...](https://weibo.com/1402400261/O6aBRuVBB)
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [【qlora-pipe：用于训练大语言模型的开源脚本，可以在四块4090 GPU上对LLM进行定制训练】'qlora-pipe - A pipeline parallel training script for LLMs.' GitHub...](https://weibo.com/1402400261/O6aAR2rFQ)
+append_entries: 10
+Finish: 2024-03-22 08:15:30.217296
