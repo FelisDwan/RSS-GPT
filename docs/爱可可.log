@@ -1147,3 +1147,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O6ehL3ILo)
 append_entries: 0
 Finish: 2024-03-22 22:10:12.072906
+------------------------------------------------------
+Started: 2024-03-23 00:47:53.601337
+Existing_entries: 179
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 710
+Summarized using GPT-3.5-turbo
+Append: [【AI代替受试者：科技进步与风险防范的平衡之道】- 随着 GPT-4 等大型语言模型变得越来越复杂，一些研究人员逐渐接受人工智能可以在某些科学研究中取代人类参与...](https://weibo.com/1402400261/O6iaDzKnw)
+Token length: 447
+Summarized using GPT-3.5-turbo
+Append: [【免费书稿：可微编程基础】- 一本关于概率图模型的教材的部分章节，主要介绍了联合概率分布、似然函数、最大后验推断、边缘推断等基本概念。 - 在联合概率分布...](https://weibo.com/1402400261/O6i5FnWqP)
+Token length: 518
+Summarized using GPT-3.5-turbo
+Append: [【博士论文：深度学习基础组成——一种范畴论方法】- 从范畴论的角度探讨了深度学习的基本组成部分，提出了一种新的理论框架。 - 引入"学习范畴"的概念，将深度...](https://weibo.com/1402400261/O6i3mhm0n)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@图灵文化 @图灵新知 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发...](https://weibo.com/1402400261/O6hv9jfWp)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：明日开奖，欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截...](https://weibo.com/1402400261/O6hv5AoXY)
+Token length: 98
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1353期)：AI发展与内存墙(Memory Wall)、语义解码新时代、少阳本类增量学习技巧包、跟个性化有害阈值的生成式语言模型聊天、模型编辑统一框架 公·众...](https://weibo.com/1402400261/O6huOyKvQ)
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [[CV] ReNoise: Real Image Inversion Through Iterative Noising 网页链接 ReNoise 通过迭代重加噪声精炼反演潜码估计的固定点迭代方法，实现高质量、高效率的扩...](https://weibo.com/1402400261/O6hrhuyvs)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [[CV] GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation 网页链接 GRM是首个将Transformer和像素对齐高斯集成的快速而...](https://weibo.com/1402400261/O6hp1kbP6)
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [[CL] Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity 网页链接 提出自适应检索增强生成框架，根据分...](https://weibo.com/1402400261/O6hlJDYfe)
+Token length: 108
+Summarized using GPT-3.5-turbo
+Append: [[CL] A Taxonomy of Ambiguity Types for NLP 网页链接 提出一个包含11种英语歧义类型的分类法，旨在建立更细致的语言理解分析和评估框架，为探究NLP模型处理不...](https://weibo.com/1402400261/O6hd8aDOF)
+append_entries: 10
+Finish: 2024-03-23 00:48:52.591786
