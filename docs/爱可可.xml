@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>几篇论文实现代码：《Detecting, Explaining, and Mitigating Memorization in Diffusion Models》(ICLR 2024) GitHub: github.com/YuxinWenRick/diffusion_memo...</title>
 <link>https://weibo.com/1402400261/O6lCmrshm</link>
@@ -12,10 +13,9 @@
 <div> 关键词: 深度融合模型、长文本处理、图像生成、数据重建、信息检索
 
 总结:
-<br><br>本研究提出了一种名为"Detecting, Explaining, and Mitigating Memorization in Diffusion Models"的深度融合模型，旨在解决扩散模型中出现的过拟合问题。通过GitHub上的开源代码，实现了对模型的检测、解释和缓解。该模型的应用范围涵盖了图像深度估计、数学问题求解、人脸画风提取、信息检索等多个领域。研究团队还提出了涵盖了深度加权平均和长文本处理等技术的新模型，为解决各类问题提供了新的思路和方法。整体而言，这些研究为深度学习模型的发展和应用带来了一定的推动力。 <div>
+<br /><br />本研究提出了一种名为"Detecting, Explaining, and Mitigating Memorization in Diffusion Models"的深度融合模型，旨在解决扩散模型中出现的过拟合问题。通过GitHub上的开源代码，实现了对模型的检测、解释和缓解。该模型的应用范围涵盖了图像深度估计、数学问题求解、人脸画风提取、信息检索等多个领域。研究团队还提出了涵盖了深度加权平均和长文本处理等技术的新模型，为解决各类问题提供了新的思路和方法。整体而言，这些研究为深度学习模型的发展和应用带来了一定的推动力。 <div>
 几篇论文实现代码：<br />《Detecting, Explaining, and Mitigating Memorization in Diffusion Models》(ICLR 2024) GitHub: github.com/YuxinWenRick/diffusion_memorization<br />《DepthFM: Fast Monocular Depth Estimation with Flow Matching》(2024) GitHub: github.com/CompVis/depth-fm [fig1]<br />《MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?》(2024) GitHub: github.com/ZrrSkywalker/MathVerse [fig2] <br />《Stylized Face Sketch Extraction via Generative Prior with Limited Data》(2024) GitHub: github.com/kwanyun/StyleSketch<br />《INSTRUCTIR: A Benchmark for Instruction Following of Information Retrieval Models》(2024) GitHub: github.com/kaistAI/InstructIR [fig3]<br />《Enhancing Information Flow in Transformers via Depth Weighted Averaging》(2024) GitHub: github.com/epfml/DenseFormer<br />《ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment》(2024) GitHub: github.com/TencentQQGYLab/ELLA<br />《HiGPT: Heterogeneous Graph Language Model》(2024) GitHub: github.com/HKUDS/HiGPT [fig4]<br />《Long-CLIP: Unlocking the Long-Text Capability of CLIP》(2024) GitHub: github.com/beichenzbc/Long-CLIP<br />《G3DR: Generative 3D Reconstruction in ImageNet》(2024) GitHub: github.com/preddy5/G3DR<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho0ytu59x4j21oj0oq1ky.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho0yzi3pouj21ho0oib29.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho10fojxmzj20yd0qfaoa.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho10rtf0k3j21ea0fe7hb.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 08:50:00 GMT</pubDate>
 <pubDate>Sat, 23 Mar 2024 08:50:00 GMT</pubDate>
 </item>
 <item>
@@ -25,11 +25,10 @@
 <content:encoded><![CDATA[
 <div> GitHub、TagGUI、图像标签、图像描述、跨平台、快速添加、编辑、AI模型、Stable Diffusion、图像数据集
 
-<br><br>总结:
+<br /><br />总结:
 TagGUI是一个跨平台的桌面应用程序，旨在帮助用户快速添加和编辑图像标签和描述。它专注于为生成器式AI模型（如Stable Diffusion）创建图像数据集，并支持自动生成描述。用户可以利用TagGUI管理和标注图像数据集，使其更加规范和易于使用。GitHub上有该项目的源代码，用户可前往github.com/jhc13/taggui获取更多信息和资源。 <div>
 【TagGUI：用于快速添加和编辑图像标签和描述的跨平台桌面应用，旨在为生成器式 AI 模型(如 Stable Diffusion)创建图像数据集，支持自动生成描述】’TagGUI - Tag manager and captioner for image datasets' GitHub: github.com/jhc13/taggui <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho10qotazbj21jn0u0wja.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho10qq4lkej211g0u011k.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 08:43:59 GMT</pubDate>
 <pubDate>Sat, 23 Mar 2024 08:43:59 GMT</pubDate>
 </item>
 <item>
@@ -43,7 +42,6 @@ TagGUI是一个跨平台的桌面应用程序，旨在帮助用户快速添加�
 【大语言模型自一致性相关文献资源列表】’Awesome LLM Self-Consistency - Awesome LLM Self-Consistency: a curated list of Self-consistency in Large Language Models' GitHub: github.com/SuperBruceJia/Awesome-LLM-Self-Consistency <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho10oxmykbj21ji0qwwko.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sat, 23 Mar 2024 08:42:12 GMT</pubDate>
-<pubDate>Sat, 23 Mar 2024 08:42:12 GMT</pubDate>
 </item>
 <item>
 <title>【WhisperWriter：使用 OpenAI Whisper 模型的免费软件，可以自动将用户的语音转录为文字】'WhisperWriter - A small dictation app using OpenAI's Whisper spe...</title>
@@ -52,11 +50,10 @@ TagGUI是一个跨平台的桌面应用程序，旨在帮助用户快速添加�
 <content:encoded><![CDATA[
 <div> OpenAI Whisper 模型、WhisperWriter、语音转录、免费软件、GitHub、人工智能
 
-<br><br>总结:
+<br /><br />总结:
 WhisperWriter是一个使用OpenAI的Whisper语音识别模型的小型听写应用程序，在GitHub上提供免费下载。用户可以通过该软件将语音自动转录为文字，实现方便快捷的文字输入。这个基于人工智能技术的应用为用户提供了更加智能化的听写体验，帮助提高工作效率。 <div>
 【WhisperWriter：使用 OpenAI Whisper 模型的免费软件，可以自动将用户的语音转录为文字】'WhisperWriter - A small dictation app using OpenAI's Whisper speech recognition model.' GitHub: github.com/savbell/whisper-writer <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> #人工智能 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho10ni91rkj20qs06kmxi.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 08:41:03 GMT</pubDate>
 <pubDate>Sat, 23 Mar 2024 08:41:03 GMT</pubDate>
 </item>
 <item>
@@ -65,12 +62,11 @@ WhisperWriter是一个使用OpenAI的Whisper语音识别模型的小型听写应
 <guid>https://weibo.com/1402400261/O6luDyuzy</guid>
 <content:encoded><![CDATA[
 <div> MoneyPrinterTurbo、大模型、短视频、生成、GitHub、harry0703、一键、利用、视频、开发者
-<br><br>
+<br /><br />
 总结:
 MoneyPrinterTurbo是一个利用大模型生成短视频的工具，开发者可以通过一键操作快速生成精美的短视频内容。项目托管在GitHub上，作者是harry0703。该工具的核心功能是利用先进的大模型技术，帮助用户快速生成高质量的短视频，节省创作时间和精力。愿意尝试新颖技术的开发者可以前往GitHub查看更多详细信息。 <div>
 'MoneyPrinterTurbo - 利用大模型，一键生成短视频' GitHub: github.com/harry0703/MoneyPrinterTurbo <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho10czddapj21da0u0adi.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 08:30:58 GMT</pubDate>
 <pubDate>Sat, 23 Mar 2024 08:30:58 GMT</pubDate>
 </item>
 <item>
@@ -80,14 +76,12 @@ MoneyPrinterTurbo是一个利用大模型生成短视频的工具，开发者可
 <content:encoded><![CDATA[
 <div> 音频内容创作、编辑 Agent、LLM、连接、音频专家模型、DSP 函数、音频内容创建、音频内容编辑、WavCraft、GitHub
 
-<br><br>总结:
+<br /><br />总结:
 WavCraft是基于LLM的音频内容创作和编辑Agent，通过连接各种音频专家模型和DSP函数，实现音频内容的创建和编辑。该项目的官方存储库位于GitHub上。通过WavCraft，用户可以利用人工智能技术进行音频内容的制作和编辑，提高效率和质量。GitHub链接: github.com/JinhuaLiang/WavCraft。 <div>
 【WavCraft：基于 LLM 的音频内容创作和编辑 Agent，通过连接各种音频专家模型和 DSP 函数，实现音频内容的创建和编辑】'WavCraft - Official repo for WavCraft, an AI agent for audio creation and editing' GitHub: github.com/JinhuaLiang/WavCraft <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho10cbs8e3j213e0u0qam.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sat, 23 Mar 2024 08:30:05 GMT</pubDate>
-<pubDate>Sat, 23 Mar 2024 08:30:05 GMT</pubDate>
 </item>
-
 <item>
 <title>【npx lumentis：用单个命令从转录文本和非结构化信息生成精美的文档】'npx lumentis - AI powered one-click comprehensive docs from transcripts and text.' ...</title>
 <link>https://weibo.com/1402400261/O6lgtxrjU</link>
