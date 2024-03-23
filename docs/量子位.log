@@ -867,3 +867,18 @@ Existing_entries: 95
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-23 08:12:24.654163
+------------------------------------------------------
+Started: 2024-03-23 10:11:15.803189
+Existing_entries: 95
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [#StabilityAI大动荡CEO辞职# 好突然！就在今天，Stability AI CEO宣布辞职了。Emad Mostaque，既不再担任CEO，公司董事会也退出。消息一出，大伙都无比震惊。 St...](https://weibo.com/6105753431/O6l8T78yV)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [#阿里百度360连夜开卷长文本# 一夜之间，国产大模型打起了长文本大战。从昨晚到今天凌晨，各大厂排队官宣跟进长文本能力：百度文心一言：下个月版本升级，开放20...](https://weibo.com/6105753431/O6l6UzOoG)
+Token length: 385
+Summarized using GPT-3.5-turbo
+Append: [【#通用图大模型HiGPT#：一己之力建模任何图结构关系！来自港大数据智能实验室&百度】一个模型建模所有图结构关系——香港大学数据智能实验室最新图结构大模型来...](https://weibo.com/6105753431/O6kZ1yzqh)
+append_entries: 3
+Finish: 2024-03-23 10:11:31.065486
