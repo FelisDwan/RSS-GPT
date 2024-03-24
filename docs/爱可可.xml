@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>今日推介(第1354期)：基于条件最优传输理解无限深无限宽ResNets训练、用Shapley交互揭示数据的底层结构、黑盒生成语言模型部分参数的窃取、LLM智能体长时会话记...</title>
 <link>https://weibo.com/1402400261/O6rbfxgVj</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 条件最优传输、ResNets训练、Shapley交互、数据结构、黑盒攻击、LLM智能体、长时记忆、立体声音频编码
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了基于条件最优传输理解无限深无限宽ResNets训练的方法，利用Shapley交互揭示数据的底层结构，探讨了黑盒生成语言模型部分参数的窃取问题，提出了LLM智能体长时会话记忆评估的技术，以及快速高保真立体声音频编码的研究成果。这些研究为深度学习和音频处理领域的发展提供了有益的思路和方法。 <div>
 今日推介(第1354期)：基于条件最优传输理解无限深无限宽ResNets训练、用Shapley交互揭示数据的底层结构、黑盒生成语言模型部分参数的窃取、LLM智能体长时会话记忆评估、快速高保真立体声音频编码 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/688692818"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(3.24)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho1pgtonofj20go0bz76y.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho1pgxhwb9j20go095gmb.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho1ph04d2fj20go0ez75t.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho1ph2vh1ej20go0rl0vy.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho1ph55flgj20go0fign7.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 22:59:41 GMT</pubDate>
 <pubDate>Sat, 23 Mar 2024 22:59:41 GMT</pubDate>
 </item>
 <item>
@@ -25,10 +25,9 @@
 <content:encoded><![CDATA[
 <div> 关键词: 图表自动理解, 大型基础模型, 调研, 方法, 进展, 未来研究方向, 研究与应用, 宝贵参考
 
-总结:<br><br>本文对图表自动理解领域进行了全面调研，系统地总结了关键问题、方法与进展，为研究与应用提供了宝贵参考。研究指出大型基础模型在自动理解任务中的重要性，也对未来研究方向进行了展望，促进了该领域的发展和进步。<br>Overall, this survey provides a comprehensive overview of the automatic chart understanding task, covering key issues, methods, and advancements. It offers valuable insights for both research and practical applications. The significance of large foundation models in automatic understanding tasks is highlighted, and future research directions are proposed to advance the field. <div>
+总结:<br /><br />本文对图表自动理解领域进行了全面调研，系统地总结了关键问题、方法与进展，为研究与应用提供了宝贵参考。研究指出大型基础模型在自动理解任务中的重要性，也对未来研究方向进行了展望，促进了该领域的发展和进步。<br />Overall, this survey provides a comprehensive overview of the automatic chart understanding task, covering key issues, methods, and advancements. It offers valuable insights for both research and practical applications. The significance of large foundation models in automatic understanding tasks is highlighted, and future research directions are proposed to advance the field. <div>
 [CL] From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models  <br /><a href="https://arxiv.org/abs/2403.12027"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />对图表自动理解任务进行了全面调研，系统梳理了关键问题、方法与进展，并对未来研究方向进行了展望，为该领域的研究与应用提供了宝贵参考。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho1p7mn0twj20y819aqn3.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1p7n7tfkj21r00p0wrf.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1p7nqo39j21p20m8n73.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho1p7oabjyj21rs0lkgt4.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 22:50:37 GMT</pubDate>
 <pubDate>Sat, 23 Mar 2024 22:50:37 GMT</pubDate>
 </item>
 <item>
@@ -38,11 +37,10 @@
 <content:encoded><![CDATA[
 <div> 智能交互式写作助手, 设计空间, 文献回顾, 结构化, 多维可能性, 研究人员, 设计人员, 生态系统, 任务, 技术
 
-总结:<br>
+总结:<br />
 本文提出了一个包含任务、用户、技术、交互和生态系统五个方面、35个维度和143个代码的写作助手设计空间，通过系统地回顾文献，为探索智能交互式写作助手的多维可能性空间提供了结构化的方式。这个设计空间可以帮助研究人员、设计人员和其他利益相关者全面理解这个快速发展领域，为进一步研究和设计提供了基础和指导。 <div>
 [CL] A Design Space for Intelligent and Interactive Writing Assistants  <br /><a href="https://arxiv.org/abs/2403.14117"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />通过系统地回顾文献，提出了一个包含任务、用户、技术、交互和生态系统五个方面、35个维度和143个代码的写作助手设计空间，以提供一种结构化的方式探索智能交互式写作助手的多维可能性空间，从而帮助研究人员、设计人员和其他利益相关者全面理解这一快速发展的领域。<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1opt2r41j213c1c84ov.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1optba1sj21ge1c61c1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho1optl9z2j21gc0rywl6.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1opu9kf7j21gm0msah6.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 22:33:29 GMT</pubDate>
 <pubDate>Sat, 23 Mar 2024 22:33:29 GMT</pubDate>
 </item>
 <item>
@@ -52,11 +50,10 @@
 <content:encoded><![CDATA[
 <div> 提取关键词：MergeKit、开源、模块化、可扩展、预训练语言模型、性能、适应范围、研究人员、实践者、新模型
 
-总结:<br><br>
+总结:<br /><br />
 研究人员和实践者可以利用开源的MergeKit工具包，模块化地、可扩展地合并预训练语言模型，创造出性能更优异、适应范围更广的新模型。这个库通过提供一个高效的方法，为合并大型语言模型提供了方便和效率。MergeKit的模块化设计使得用户可以根据需求自由选择模型组件，定制化自己的合并流程，帮助他们更好地利用不同模型的优势。通过MergeKit，研究人员和实践者可以更轻松地探索、实验和开发更先进的语言模型，提高模型的性能和适应性，推动领域的发展和创新。 <div>
 [CL] Arcee's MergeKit: A Toolkit for Merging Large Language Models  <br /><a href="https://arxiv.org/abs/2403.13257"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />提出MergeKit，一个开源、模块化、可扩展的模型合并库，使研究人员和实践者可以高效地合并预训练语言模型，从而创造出性能更优异、适应范围更广的新模型。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1oh4u01kj20w21cadz4.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho1oh54u1jj21h40y4n1w.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1oh5gfpfj21c61acqah.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1oh5t4o6j21ce152n8x.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 22:25:07 GMT</pubDate>
 <pubDate>Sat, 23 Mar 2024 22:25:07 GMT</pubDate>
 </item>
 <item>
@@ -66,10 +63,9 @@
 <content:encoded><![CDATA[
 <div> 关键词: MathVerse, 多模态信息, MLMM, 视觉数学理解, 推理能力
 
-MathVerse通过控制问题的多模态信息内容，配合逐步推理评分，可以更准确全面地检验MLLM的视觉数学理解和推理能力。文章指出，传统的语言模型可能无法准确理解和解决视觉数学问题，而MathVerse的多模态信息内容可以帮助MLLM更好地识别和理解数学问题中的图表和图片。此外，文章还介绍了MathVerse使用的逐步推理评分方法，通过结合多模态信息和逐步推理评分，可以更全面地评估MLLM的数学理解和推理能力。总体而言，MathVerse提供了一种全面且准确的评测方法，帮助评估MLLM在视觉数学问题中的表现。<br><br>总结: MathVerse通过控制问题的多模态信息内容，并配合逐步推理评分，可以更准确全面地检验MLLM的视觉数学理解和推理能力。<article> <div>
+MathVerse通过控制问题的多模态信息内容，配合逐步推理评分，可以更准确全面地检验MLLM的视觉数学理解和推理能力。文章指出，传统的语言模型可能无法准确理解和解决视觉数学问题，而MathVerse的多模态信息内容可以帮助MLLM更好地识别和理解数学问题中的图表和图片。此外，文章还介绍了MathVerse使用的逐步推理评分方法，通过结合多模态信息和逐步推理评分，可以更全面地评估MLLM的数学理解和推理能力。总体而言，MathVerse提供了一种全面且准确的评测方法，帮助评估MLLM在视觉数学问题中的表现。<br /><br />总结: MathVerse通过控制问题的多模态信息内容，并配合逐步推理评分，可以更准确全面地检验MLLM的视觉数学理解和推理能力。<article> <div>
 [CV] MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?  <br /><a href="https://arxiv.org/abs/2403.14624"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />MATHVERSE通过控制问题的多模态信息内容，配合逐步推理评分，可以更准确全面地检验MLLM的视觉数学理解和推理能力。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho1o9jninjj20vo1bi7j2.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho1o9k4w1jj21ii0xkn8e.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho1o9kk764j21i20p646w.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho1o9l1dxxj21i40vuqd1.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 22:17:50 GMT</pubDate>
 <pubDate>Sat, 23 Mar 2024 22:17:50 GMT</pubDate>
 </item>
 <item>
@@ -79,10 +75,9 @@ MathVerse通过控制问题的多模态信息内容，配合逐步推理评分�
 <content:encoded><![CDATA[
 <div> 关键词：MusicHiFi、GAN、梅尔谱、高保真、立体声、音频转换、快速、高效、端到端、框架
 
-总结:<br><br>总结: 本文提出了一种名为MusicHiFi的方法，通过三个GAN的级联，实现了从梅尔谱到高保真立体声音频转换的快速、高效的端到端框架。该方法由G Zhu、J Caceres、Z Duan和N J. Bryan在University of Rochester & Adobe Research进行研究。通过该方法，可以实现音频转换的高保真和立体声效果，为音频处理领域提供了新思路。 <div>
+总结:<br /><br />总结: 本文提出了一种名为MusicHiFi的方法，通过三个GAN的级联，实现了从梅尔谱到高保真立体声音频转换的快速、高效的端到端框架。该方法由G Zhu、J Caceres、Z Duan和N J. Bryan在University of Rochester & Adobe Research进行研究。通过该方法，可以实现音频转换的高保真和立体声效果，为音频处理领域提供了新思路。 <div>
 提出MusicHiFi方法，通过三个GAN的级联，实现了从梅尔谱到高保真立体声音频转换的快速、高效的端到端的框架。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [AS]《MusicHiFi: Fast High-Fidelity Stereo Vocoding》G Zhu, J Caceres, Z Duan, N J. Bryan [University of Rochester &amp; Adobe Research] (2024) <a href="https://arxiv.org/abs/2403.10493"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1nxf98tjj21340xqtnb.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1nxfoc0uj213410eahl.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1nxg1hpfj21380m0gra.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 22:10:36 GMT</pubDate>
 <pubDate>Sat, 23 Mar 2024 22:10:36 GMT</pubDate>
 </item>
 <item>
@@ -92,11 +87,10 @@ MathVerse通过控制问题的多模态信息内容，配合逐步推理评分�
 <content:encoded><![CDATA[
 <div> 关键词: MusicHiFi, Fast, High-Fidelity, Stereo, Vocoding, University of Rochester, Adobe Research, G Zhu, J Caceres, Z Duan
 
-总结:<br><br>
+总结:<br /><br />
 这篇文章介绍了一种名为MusicHiFi的快速高保真立体声声码技术，由罗切斯特大学和Adobe Research的G Zhu、J Caceres、Z Duan和N J. Bryan合作研究。他们利用这种技术实现了更高保真度的立体声音频编码，使得声音的还原更加清晰逼真。研究中提出了一种新的声码器算法，能够快速处理音频信号并保持高保真度，同时还考虑到了立体声效果的呈现。通过实验证明，MusicHiFi在音频编码方面具有很高的效果和性能，为高保真度立体声编码提供了新的可能性。 <div>
 [AS]《MusicHiFi: Fast High-Fidelity Stereo Vocoding》G Zhu, J Caceres, Z Duan, N J. Bryan [University of Rochester &amp; Adobe Research] (2024) <a href="https://arxiv.org/abs/2403.10493"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1nxf98tjj21340xqtnb.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1nxfoc0uj213410eahl.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1nxg1hpfj21380m0gra.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 22:06:11 GMT</pubDate>
 <pubDate>Sat, 23 Mar 2024 22:06:11 GMT</pubDate>
 </item>
 <item>
@@ -106,11 +100,10 @@ MathVerse通过控制问题的多模态信息内容，配合逐步推理评分�
 <content:encoded><![CDATA[
 <div> 非常长上下文对话理解、机器-人协作管线、高质量长期多轮对话数据集、问答任务、事件总结任务、对话生成任务、模型长期记忆能力评估、语言模型挑战
 
-<br><br>总结:
+<br /><br />总结:
 研究者通过机器-人协作管线构建了高质量长期多轮对话数据集，并分别设计了问答、事件总结和对话生成任务来评估模型的长期记忆能力。研究结果显示，当前语言模型在非常长的上下文对话理解方面仍存在挑战。这表明在开发长期记忆能力更强的语言模型时，还有待进一步研究和改进。 <div>
 通过机器-人协作管线构建高质量长期多轮对话数据集，并设计了问答、事件总结和对话生成任务对模型长期记忆能力进行全面评估，结果显示当前语言模型在非常长上下文对话理解方面仍面临挑战。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Evaluating Very Long-Term Conversational Memory of LLM Agents》A Maharana, D Lee, S Tulyakov, M Bansal, F Barbieri, Y Fang [University of Southern California &amp; University of North Carolina  Snap Inc] (2024) <a href="https://arxiv.org/abs/2402.17753"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1nou506bj20la18qk24.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho1nouvkj9j20oa146qan.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1novov6qj21c40s0wpt.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1nowej40j21c20jw7az.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho1nuqnrdhj20zt0fgdj9.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1nuqp0ryj20zs0lon1s.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1nuqp5aej20zs0lw78w.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho1nuqnm9gj20zs09bjtg.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1nuqpn96j20zt0nkjxy.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 22:03:39 GMT</pubDate>
 <pubDate>Sat, 23 Mar 2024 22:03:39 GMT</pubDate>
 </item>
 <item>
@@ -120,10 +113,9 @@ MathVerse通过控制问题的多模态信息内容，配合逐步推理评分�
 <content:encoded><![CDATA[
 <div> 关键词: Very Long-Term Conversational Memory, LLM Agents, Evaluation, University of Southern California, University of North Carolina, Snap Inc
 
-总结:<br><br>这篇文章评估了LLM代理人的非常长期对话记忆，作者来自南加州大学、北卡罗来纳大学和Snap Inc。研究表明，在考虑长期对话历史的情况下，LLM代理人在对话生成中表现更好。研究围绕着LLM代理人的记忆能力展开，通过评估代理人在回答各种问题时的表现，揭示了长期记忆对话对代理人性能的重要性。研究结果证明，在实验数据集上，LLM代理人在记忆对话历史方面表现出色，这为未来的对话系统研究提供了有益的见解。 <div>
+总结:<br /><br />这篇文章评估了LLM代理人的非常长期对话记忆，作者来自南加州大学、北卡罗来纳大学和Snap Inc。研究表明，在考虑长期对话历史的情况下，LLM代理人在对话生成中表现更好。研究围绕着LLM代理人的记忆能力展开，通过评估代理人在回答各种问题时的表现，揭示了长期记忆对话对代理人性能的重要性。研究结果证明，在实验数据集上，LLM代理人在记忆对话历史方面表现出色，这为未来的对话系统研究提供了有益的见解。 <div>
 [CL]《Evaluating Very Long-Term Conversational Memory of LLM Agents》A Maharana, D Lee, S Tulyakov, M Bansal, F Barbieri, Y Fang [University of Southern California &amp; University of North Carolina  Snap Inc] (2024) <a href="https://arxiv.org/abs/2402.17753"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1nou506bj20la18qk24.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho1nouvkj9j20oa146qan.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1novov6qj21c40s0wpt.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1nowej40j21c20jw7az.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho1nuqnrdhj20zt0fgdj9.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1nuqp0ryj20zs0lon1s.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1nuqp5aej20zs0lw78w.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho1nuqnm9gj20zs09bjtg.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1nuqpn96j20zt0nkjxy.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho1nuqpkurj20zs0mttdw.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1nuqp5vfj20zs0l9gpf.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho1nuqnphij20zx0ifjud.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 22:03:34 GMT</pubDate>
 <pubDate>Sat, 23 Mar 2024 22:03:34 GMT</pubDate>
 </item>
 <item>
@@ -139,9 +131,7 @@ MathVerse通过控制问题的多模态信息内容，配合逐步推理评分�
 研究人员设计了一种低成本的模型参数提取攻击，可针对商业语言模型API恢复部分关键参数，提醒需要警惕模型泄露风险，并采取适当防御措施。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Stealing Part of a Production Language Model》N Carlini, D Paleka, K D Dvijotham... [Google DeepMind] (2024) <a href="https://arxiv.org/abs/2403.06634"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho1nev4wrej20sq0zq481.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho1nevk1kxj20yi0v0n2x.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1nevt2q2j20yc0v40xb.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho1nl858scj212l0chac7.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1nl85a49j212s0chgno.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1nl85e89j212d0f4tb8.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho1nl85baxj212d0htq51.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 23 Mar 2024 21:54:31 GMT</pubDate>
-<pubDate>Sat, 23 Mar 2024 21:54:31 GMT</pubDate>
 </item>
-
 <item>
 <title>《爱可可微博热门分享(3.23)》 爱可可微博热门分享(3.23) [图片]</title>
 <link>https://weibo.com/1402400261/O6nJHsNeY</link>
