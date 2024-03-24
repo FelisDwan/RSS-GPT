@@ -1334,3 +1334,21 @@ Existing_entries: 212
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-24 02:21:16.561137
+------------------------------------------------------
+Started: 2024-03-24 04:13:56.671191
+Existing_entries: 212
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [【Nvidia提供的在线免费新课】1、Generative AI Explained 网页链接 2、Building A Brain in 10 Minutes | NVIDIA 网页链接 3、Augment your LLM Using Retrieva...](https://weibo.com/1402400261/O6su8CHHx)
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: [【LlamaIndex+Mistral开发指南】《Build Cool Stuff with Mistral! (RAG, Agents) - Google Slides》 网页链接 #机器学习# #人工智能# [图片][图片]](https://weibo.com/1402400261/O6s9ndzLj)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@图灵文化 @图灵新知 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发...](https://weibo.com/1402400261/O6rNW8q5w)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：今日开奖，欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截...](https://weibo.com/1402400261/O6rNRBQ1C)
+append_entries: 4
+Finish: 2024-03-24 04:14:17.926109
