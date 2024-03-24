@@ -939,3 +939,15 @@ Existing_entries: 99
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-24 04:13:56.419664
+------------------------------------------------------
+Started: 2024-03-24 06:13:56.945939
+Existing_entries: 99
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 367
+Summarized using GPT-3.5-turbo
+Append: [#Sora三巨头首次解密幕后信息# “Sora最快今年内开放公测。”在一场访谈中，OpenAI CTO Mira Murati亲自透露了这一消息。短短10分钟里，Sora技术细节、进展、规...](https://weibo.com/6105753431/O6tyljEe1)
+Token length: 360
+Summarized using GPT-3.5-turbo
+Append: [#比英伟达更猛的AI股# 今年的AI妖股，都知道英伟达，却少有人知道它——股价一年飙升900%、一脚踏进标普500，直接把英伟达都给秒了……它，就是超微电脑（SMCI）...](https://weibo.com/6105753431/O6tuJ1Xv9)
+append_entries: 2
+Finish: 2024-03-24 06:14:07.150336
