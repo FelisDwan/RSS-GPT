@@ -5,22 +5,38 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>《告别焦虑：用行动让内心重获自由》 网页链接 #焦虑# [图片]</title>
+<link>https://weibo.com/1402400261/O6vvx4X9m</link>
+<guid>https://weibo.com/1402400261/O6vvx4X9m</guid>
+<content:encoded><![CDATA[
+<div> 焦虑、行动、内心、自由、挑战、克服、积极、心理健康、改变、建议
+
+<br>
+这篇文章提出了让内心重获自由的方法，重点在于用积极的行动来克服焦虑。首先，作者指出焦虑可以通过行动来改变，建议读者积极面对挑战，而不是逃避。其次，文章强调了心理健康的重要性，认为通过调整心态和行为可以有效缓解焦虑。此外，作者还提到了一些应对焦虑的具体建议，如运动、冥想和寻求社交支持等方式。总的来说，要摆脱焦虑，关键在于采取行动，积极面对内心的困扰，从而重获内心的自由。 
+
+<br><br>总结: 挑战不要逃避，积极行动是克服焦虑的关键；心理健康的重要性不可忽视，调整心态和行为有助于缓解焦虑；建议采取运动、冥想和社交支持等方式来应对焦虑。 <div>
+《告别焦虑：用行动让内心重获自由》 <a href="https://www.toutiao.com/article/7349846808909136399/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%84%A6%E8%99%91%23&amp;isnewpage=1"><span class="surl-text">#焦虑#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho28kqrziaj20xb0u0q90.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 24 Mar 2024 10:00:37 GMT</pubDate>
+<pubDate>Sun, 24 Mar 2024 10:00:37 GMT</pubDate>
+</item>
+
+<item>
 <title>几篇论文实现代码:《InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior》(ICLR 2024) GitHub: github.com/chenguolin/In...</title>
 <link>https://weibo.com/1402400261/O6ue3uyGu</link>
 <guid>https://weibo.com/1402400261/O6ue3uyGu</guid>
 <content:encoded><![CDATA[
-<div> InstructScene, 3D室内场景合成, 语义图先验, GitHub, SPAD, CVPR 2024, 多视角漫反射器, AnyV2V, 视频编辑, Yell At Your Robot, 语言修正, Switch Diffusion Transformer, 去噪任务, 稀疏混合专家<br>
-<br>
-要点1: 《InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior》介绍了一种由指令驱动的3D室内场景合成算法，采用了语义图先验。<br>
-要点2: 《SPAD : Spatially Aware Multiview Diffusers》探讨了空间感知多视角漫反射器的研究，是CVPR 2024的文章。<br>
-要点3: 《AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks》提出了一个用于各种视频编辑任务的即插即用框架，名为AnyV2V。<br>
-要点4: 《Yell At Your Robot: Improving On-the-Fly from Language Corrections》聚焦于通过语言纠正来实时改进机器人的研究。<br>
-要点5: 《Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts》介绍了Switch Diffusion Transformer技术，将去噪任务与稀疏混合专家相结合。 <br>
-<br>
+<div> InstructScene, 3D室内场景合成, 语义图先验, GitHub, SPAD, CVPR 2024, 多视角漫反射器, AnyV2V, 视频编辑, Yell At Your Robot, 语言修正, Switch Diffusion Transformer, 去噪任务, 稀疏混合专家<br />
+<br />
+要点1: 《InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior》介绍了一种由指令驱动的3D室内场景合成算法，采用了语义图先验。<br />
+要点2: 《SPAD : Spatially Aware Multiview Diffusers》探讨了空间感知多视角漫反射器的研究，是CVPR 2024的文章。<br />
+要点3: 《AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks》提出了一个用于各种视频编辑任务的即插即用框架，名为AnyV2V。<br />
+要点4: 《Yell At Your Robot: Improving On-the-Fly from Language Corrections》聚焦于通过语言纠正来实时改进机器人的研究。<br />
+要点5: 《Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts》介绍了Switch Diffusion Transformer技术，将去噪任务与稀疏混合专家相结合。 <br />
+<br />
 总结: 这几篇论文分别探讨了不同方向的研究内容，涵盖了指令驱动的室内场景合成、多视角漫反射器、视频编辑框架、语言纠正改进机器人和稀疏混合专家在去噪任务中的应用。每篇论文都提出了创新的方法和技术，为相应领域的研究和进展提供了有益的参考和启发。 <div>
 几篇论文实现代码:<br />《InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior》(ICLR 2024) GitHub: github.com/chenguolin/InstructScene[fig3]<br />《SPAD : Spatially Aware Multiview Diffusers》(CVPR 2024) GitHub: github.com/yashkant/spad [fig2]<br />《AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks》(2024) GitHub: github.com/TIGER-AI-Lab/AnyV2V [fig1] <br />《Yell At Your Robot: Improving On-the-Fly from Language Corrections》(2024) GitHub: github.com/yay-robot/yay_robot [fig4]<br />《Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts》(2024) GitHub: github.com/byeongjun-park/Switch-DiT [fig5]<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho20jwayxhj20w60o64g1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho21unbx45j220k0jgb1m.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho21z0t2pvj23140x6qv6.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho226e7gcoj22uf0te4qp.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho22t646awj21zh0r1hdt.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 06:44:50 GMT</pubDate>
 <pubDate>Sun, 24 Mar 2024 06:44:50 GMT</pubDate>
 </item>
 <item>
@@ -29,11 +45,10 @@
 <guid>https://weibo.com/1402400261/O6ud6lpoj</guid>
 <content:encoded><![CDATA[
 <div> 文件合并 指令 LLMs GitHub 文本 提取 合并 目录 文件 输出所有要点。
-<br><br>
+<br /><br />
 总结: 该文章介绍了一个工具，可以将一个目录中的文件合并成一个更完整的提示文本，用于与LLMs一起使用。工具的GitHub链接为github.com/simonw/files-to-prompt。 <div>
 【files-to-prompt：将一个目录中的文件合并成一个更完整的提示文本】'files-to-prompt - Concatenate a directory full of files into a single prompt for use with LLMs' GitHub: github.com/simonw/files-to-prompt <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho22ukraruj214y0g676a.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 06:42:29 GMT</pubDate>
 <pubDate>Sun, 24 Mar 2024 06:42:29 GMT</pubDate>
 </item>
 <item>
@@ -48,19 +63,17 @@ Auto-coder 是一款功能强大的命令行工具，使用 Byzer-LLM 语言模�
 【auto-coder：功能强大的命令行版Devin，使用 Byzer-LLM 语言模型，提供自动化代码生成功能，支持多种编程语言，通过上下文自动生成代码，帮助开发者快速完成AI代码创作】'auto-coder - game-changing Auto-Coder’ GitHub: github.com/allwefantasy/auto-coder <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho22srr00pj211w0u0jxg.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 24 Mar 2024 06:40:39 GMT</pubDate>
-<pubDate>Sun, 24 Mar 2024 06:40:39 GMT</pubDate>
 </item>
 <item>
 <title>【RAGTune：用于自动调整和优化RAG管线的工具。允许您评估不同的 LLMs(大型语言模型)、嵌入模型、查询转换器和重排器等组件】'RAGTune - Tuning and Evaluation ...</title>
 <link>https://weibo.com/1402400261/O6ualh97E</link>
 <guid>https://weibo.com/1402400261/O6ualh97E</guid>
 <content:encoded><![CDATA[
-<div> GitHub、RAGTune、自动调整、优化、RAG管线、评估、LLMs、大型语言模型、嵌入模型、查询转换器<br>
-<br>
+<div> GitHub、RAGTune、自动调整、优化、RAG管线、评估、LLMs、大型语言模型、嵌入模型、查询转换器<br />
+<br />
 RAGTune是用于自动调整和优化RAG管线的工具，允许用户评估不同的LLMs、嵌入模型、查询转换器和重排器等组件。该工具在GitHub上开源，即将添加自动化优化功能。用户可以通过RAGTune对RAG管线进行调整和评估，以找到最佳的组件配置。该工具有助于提高RAG管线的性能和效率，为语言模型的应用提供更好的支持。 <div>
 【RAGTune：用于自动调整和优化RAG管线的工具。允许您评估不同的 LLMs(大型语言模型)、嵌入模型、查询转换器和重排器等组件】'RAGTune - Tuning and Evaluation of RAG pipeline. (Automated optimization to be added soon)' GitHub: github.com/misbahsy/RAGTune <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho22nljeh1j21ji0ggn02.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 06:35:41 GMT</pubDate>
 <pubDate>Sun, 24 Mar 2024 06:35:41 GMT</pubDate>
 </item>
 <item>
@@ -70,11 +83,10 @@ RAGTune是用于自动调整和优化RAG管线的工具，允许用户评估不�
 <content:encoded><![CDATA[
 <div> NextJS, Ollama LLM, 聊天界面, HTML, 界面美观, GitHub, 部署, 单击部署
 
-<br><br>总结:
+<br /><br />总结:
 这是一个用NextJS构建的Ollama LLMs的全功能美观聊天界面的Web界面，可一键部署在GitHub上。界面设计简洁美观，用户可以轻松进行互动和通讯。通过GitHub可轻松获取该项目并进行单击部署，极大地方便了用户的使用和部署过程。 <div>
 【Ollama LLM的漂亮HTML<br />聊天界面】’Fully-featured &amp; beautiful web interface for Ollama LLMs - Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS. Deploy with a single click.' GitHub: github.com/jakobhoeg/nextjs-ollama-llm-ui <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho22eisl9uj218c0s0acx.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 06:27:29 GMT</pubDate>
 <pubDate>Sun, 24 Mar 2024 06:27:29 GMT</pubDate>
 </item>
 <item>
@@ -83,15 +95,13 @@ RAGTune是用于自动调整和优化RAG管线的工具，允许用户评估不�
 <guid>https://weibo.com/1402400261/O6u552Kkf</guid>
 <content:encoded><![CDATA[
 <div> GUI、WSL2、管理、Windows Subsystem for Linux、发行版、安装、卸载、更新、备份、恢复
-<br><br>
+<br /><br />
 总结:
 WSL Manager 是一个用户友好的小软件，可以帮助用户轻松管理 Windows Subsystem for Linux (WSL) 发行版。该管理器提供图形界面(GUI)，可以快速地安装、卸载、更新、备份和恢复 WSL2 实例。用户可以通过 GitHub 访问该软件的代码库。 <div>
 【WSL Manager：WSL发行版管理器，一个用户友好的小软件，可帮助您轻松管理 Windows Subsystem for Linux(WSL)发行版，包括安装、卸载、更新、备份和恢复】’Welcome to WSL Manager - A GUI to quickly manage your WSL2 instances' GitHub: github.com/bostrot/wsl2-distro-manager <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23WSL%23"><span class="surl-text">#WSL#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho229yk23wj21c00u0go7.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 24 Mar 2024 06:22:43 GMT</pubDate>
-<pubDate>Sun, 24 Mar 2024 06:22:43 GMT</pubDate>
 </item>
-
 <item>
 <title>【Financial Agent：用LangChain开发的金融Agent】’Financial Agent - A financial agent, built entirely with LangChain!' GitHub: github.com/virattt/finan...</title>
 <link>https://weibo.com/1402400261/O6u1MaB1s</link>
