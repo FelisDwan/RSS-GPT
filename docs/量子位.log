@@ -957,3 +957,18 @@ Existing_entries: 101
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-24 08:12:45.732357
+------------------------------------------------------
+Started: 2024-03-24 10:11:05.568738
+Existing_entries: 101
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 42
+Summarized using GPT-3.5-turbo
+Append: [📣 观众报名开启啦！#中国AIGC产业峰会# 首批嘉宾公布！4月17日，北京金茂万丽酒店，欢迎报名参会 [打call][打call] 报名开启｜2024中国AIGC产业峰会定档4月17...](https://weibo.com/6105753431/O6uZi98e6)
+Token length: 335
+Summarized using GPT-3.5-turbo
+Append: [报名开启啦！#2024中国AIGC产业峰会定档4月17日# ，首批嘉宾重磅来袭 [我想开了]4月17日，中国AIGC产业峰会将以「你好，新应用」为主题，我们希望邀请来自技术、...](https://weibo.com/6105753431/O6uXZoql0)
+Token length: 66
+Summarized using GPT-3.5-turbo
+Append: [#Suno##音乐版ChatGPT# Suno V3发布！每个人都能免费体验5首歌，且每首两分钟。可以输入歌词、音乐风格等操作，就能生成歌曲。来听听歌剧版《宫保鸡丁》网页链接...](https://weibo.com/6105753431/O6uVe1tAo)
+append_entries: 3
+Finish: 2024-03-24 10:11:21.441138

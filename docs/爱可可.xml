@@ -5,17 +5,104 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>几篇论文实现代码:《InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior》(ICLR 2024) GitHub: github.com/chenguolin/In...</title>
+<link>https://weibo.com/1402400261/O6ue3uyGu</link>
+<guid>https://weibo.com/1402400261/O6ue3uyGu</guid>
+<content:encoded><![CDATA[
+<div> InstructScene, 3D室内场景合成, 语义图先验, GitHub, SPAD, CVPR 2024, 多视角漫反射器, AnyV2V, 视频编辑, Yell At Your Robot, 语言修正, Switch Diffusion Transformer, 去噪任务, 稀疏混合专家<br>
+<br>
+要点1: 《InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior》介绍了一种由指令驱动的3D室内场景合成算法，采用了语义图先验。<br>
+要点2: 《SPAD : Spatially Aware Multiview Diffusers》探讨了空间感知多视角漫反射器的研究，是CVPR 2024的文章。<br>
+要点3: 《AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks》提出了一个用于各种视频编辑任务的即插即用框架，名为AnyV2V。<br>
+要点4: 《Yell At Your Robot: Improving On-the-Fly from Language Corrections》聚焦于通过语言纠正来实时改进机器人的研究。<br>
+要点5: 《Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts》介绍了Switch Diffusion Transformer技术，将去噪任务与稀疏混合专家相结合。 <br>
+<br>
+总结: 这几篇论文分别探讨了不同方向的研究内容，涵盖了指令驱动的室内场景合成、多视角漫反射器、视频编辑框架、语言纠正改进机器人和稀疏混合专家在去噪任务中的应用。每篇论文都提出了创新的方法和技术，为相应领域的研究和进展提供了有益的参考和启发。 <div>
+几篇论文实现代码:<br />《InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior》(ICLR 2024) GitHub: github.com/chenguolin/InstructScene[fig3]<br />《SPAD : Spatially Aware Multiview Diffusers》(CVPR 2024) GitHub: github.com/yashkant/spad [fig2]<br />《AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks》(2024) GitHub: github.com/TIGER-AI-Lab/AnyV2V [fig1] <br />《Yell At Your Robot: Improving On-the-Fly from Language Corrections》(2024) GitHub: github.com/yay-robot/yay_robot [fig4]<br />《Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts》(2024) GitHub: github.com/byeongjun-park/Switch-DiT [fig5]<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho20jwayxhj20w60o64g1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho21unbx45j220k0jgb1m.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho21z0t2pvj23140x6qv6.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho226e7gcoj22uf0te4qp.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho22t646awj21zh0r1hdt.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 24 Mar 2024 06:44:50 GMT</pubDate>
+<pubDate>Sun, 24 Mar 2024 06:44:50 GMT</pubDate>
+</item>
+<item>
+<title>【files-to-prompt：将一个目录中的文件合并成一个更完整的提示文本】'files-to-prompt - Concatenate a directory full of files into a single prompt for use...</title>
+<link>https://weibo.com/1402400261/O6ud6lpoj</link>
+<guid>https://weibo.com/1402400261/O6ud6lpoj</guid>
+<content:encoded><![CDATA[
+<div> 文件合并 指令 LLMs GitHub 文本 提取 合并 目录 文件 输出所有要点。
+<br><br>
+总结: 该文章介绍了一个工具，可以将一个目录中的文件合并成一个更完整的提示文本，用于与LLMs一起使用。工具的GitHub链接为github.com/simonw/files-to-prompt。 <div>
+【files-to-prompt：将一个目录中的文件合并成一个更完整的提示文本】'files-to-prompt - Concatenate a directory full of files into a single prompt for use with LLMs' GitHub: github.com/simonw/files-to-prompt <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho22ukraruj214y0g676a.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 24 Mar 2024 06:42:29 GMT</pubDate>
+<pubDate>Sun, 24 Mar 2024 06:42:29 GMT</pubDate>
+</item>
+<item>
+<title>【auto-coder：功能强大的命令行版Devin，使用 Byzer-LLM 语言模型，提供自动化代码生成功能，支持多种编程语言，通过上下文自动生成代码，帮助开发者快速完成AI...</title>
+<link>https://weibo.com/1402400261/O6ucmiW6v</link>
+<guid>https://weibo.com/1402400261/O6ucmiW6v</guid>
+<content:encoded><![CDATA[
+<div> 关键词: auto-coder, 命令行版, Byzer-LLM 语言模型, 自动化代码生成, 多种编程语言, 上下文自动生成代码, 开发者, AI代码创作, GitHub
+
+总结:
+Auto-coder 是一款功能强大的命令行工具，使用 Byzer-LLM 语言模型实现自动化代码生成，支持多种编程语言。通过上下文分析，可以帮助开发者快速完成AI代码创作。用户可以在 GitHub 上找到该工具的代码库。 <div>
+【auto-coder：功能强大的命令行版Devin，使用 Byzer-LLM 语言模型，提供自动化代码生成功能，支持多种编程语言，通过上下文自动生成代码，帮助开发者快速完成AI代码创作】'auto-coder - game-changing Auto-Coder’ GitHub: github.com/allwefantasy/auto-coder <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho22srr00pj211w0u0jxg.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 24 Mar 2024 06:40:39 GMT</pubDate>
+<pubDate>Sun, 24 Mar 2024 06:40:39 GMT</pubDate>
+</item>
+<item>
+<title>【RAGTune：用于自动调整和优化RAG管线的工具。允许您评估不同的 LLMs(大型语言模型)、嵌入模型、查询转换器和重排器等组件】'RAGTune - Tuning and Evaluation ...</title>
+<link>https://weibo.com/1402400261/O6ualh97E</link>
+<guid>https://weibo.com/1402400261/O6ualh97E</guid>
+<content:encoded><![CDATA[
+<div> GitHub、RAGTune、自动调整、优化、RAG管线、评估、LLMs、大型语言模型、嵌入模型、查询转换器<br>
+<br>
+RAGTune是用于自动调整和优化RAG管线的工具，允许用户评估不同的LLMs、嵌入模型、查询转换器和重排器等组件。该工具在GitHub上开源，即将添加自动化优化功能。用户可以通过RAGTune对RAG管线进行调整和评估，以找到最佳的组件配置。该工具有助于提高RAG管线的性能和效率，为语言模型的应用提供更好的支持。 <div>
+【RAGTune：用于自动调整和优化RAG管线的工具。允许您评估不同的 LLMs(大型语言模型)、嵌入模型、查询转换器和重排器等组件】'RAGTune - Tuning and Evaluation of RAG pipeline. (Automated optimization to be added soon)' GitHub: github.com/misbahsy/RAGTune <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho22nljeh1j21ji0ggn02.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 24 Mar 2024 06:35:41 GMT</pubDate>
+<pubDate>Sun, 24 Mar 2024 06:35:41 GMT</pubDate>
+</item>
+<item>
+<title>【Ollama LLM的漂亮HTML聊天界面】’Fully-featured &amp; beautiful web interface for Ollama LLMs - Fully-featured, beautiful web interface for Ollama LLMs -...</title>
+<link>https://weibo.com/1402400261/O6u7122XO</link>
+<guid>https://weibo.com/1402400261/O6u7122XO</guid>
+<content:encoded><![CDATA[
+<div> NextJS, Ollama LLM, 聊天界面, HTML, 界面美观, GitHub, 部署, 单击部署
+
+<br><br>总结:
+这是一个用NextJS构建的Ollama LLMs的全功能美观聊天界面的Web界面，可一键部署在GitHub上。界面设计简洁美观，用户可以轻松进行互动和通讯。通过GitHub可轻松获取该项目并进行单击部署，极大地方便了用户的使用和部署过程。 <div>
+【Ollama LLM的漂亮HTML<br />聊天界面】’Fully-featured &amp; beautiful web interface for Ollama LLMs - Fully-featured, beautiful web interface for Ollama LLMs - built with NextJS. Deploy with a single click.' GitHub: github.com/jakobhoeg/nextjs-ollama-llm-ui <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho22eisl9uj218c0s0acx.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 24 Mar 2024 06:27:29 GMT</pubDate>
+<pubDate>Sun, 24 Mar 2024 06:27:29 GMT</pubDate>
+</item>
+<item>
+<title>【WSL Manager：WSL发行版管理器，一个用户友好的小软件，可帮助您轻松管理 Windows Subsystem for Linux(WSL)发行版，包括安装、卸载、更新、备份和恢复】’Wel...</title>
+<link>https://weibo.com/1402400261/O6u552Kkf</link>
+<guid>https://weibo.com/1402400261/O6u552Kkf</guid>
+<content:encoded><![CDATA[
+<div> GUI、WSL2、管理、Windows Subsystem for Linux、发行版、安装、卸载、更新、备份、恢复
+<br><br>
+总结:
+WSL Manager 是一个用户友好的小软件，可以帮助用户轻松管理 Windows Subsystem for Linux (WSL) 发行版。该管理器提供图形界面(GUI)，可以快速地安装、卸载、更新、备份和恢复 WSL2 实例。用户可以通过 GitHub 访问该软件的代码库。 <div>
+【WSL Manager：WSL发行版管理器，一个用户友好的小软件，可帮助您轻松管理 Windows Subsystem for Linux(WSL)发行版，包括安装、卸载、更新、备份和恢复】’Welcome to WSL Manager - A GUI to quickly manage your WSL2 instances' GitHub: github.com/bostrot/wsl2-distro-manager <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23WSL%23"><span class="surl-text">#WSL#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho229yk23wj21c00u0go7.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 24 Mar 2024 06:22:43 GMT</pubDate>
+<pubDate>Sun, 24 Mar 2024 06:22:43 GMT</pubDate>
+</item>
+
+<item>
 <title>【Financial Agent：用LangChain开发的金融Agent】’Financial Agent - A financial agent, built entirely with LangChain!' GitHub: github.com/virattt/finan...</title>
 <link>https://weibo.com/1402400261/O6u1MaB1s</link>
 <guid>https://weibo.com/1402400261/O6u1MaB1s</guid>
 <content:encoded><![CDATA[
 <div> Financial Agent, LangChain, 金融, Agent, GitHub, 开发, 技术，LangChain, 金融服务，GitHub
 
-<br><br>总结:
+<br /><br />总结:
 这篇文章介绍了使用LangChain开发的金融Agent，即Financial Agent。这个金融Agent完全由LangChain构建而成，通过GitHub提供给用户下载和使用。使用LangChain开发金融Agent将为用户提供更高效的金融服务，同时展示了LangChain在金融科技领域的应用和潜力。如果需要构建金融服务的系统或应用，可以考虑使用这个Financial Agent作为参考和模板。 <div>
 【Financial Agent：用LangChain开发的金融Agent】’Financial Agent - A financial agent, built entirely with LangChain!' GitHub: github.com/virattt/financial-agent <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho221nfhmtj21ji0g4417.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 06:14:35 GMT</pubDate>
 <pubDate>Sun, 24 Mar 2024 06:14:35 GMT</pubDate>
 </item>
 <item>
@@ -25,10 +112,10 @@
 <content:encoded><![CDATA[
 <div> GitHub, RefactorGraph, 分层解耦, 深度学习, 推理引擎, InfiniTensor  
 
-<br>
+<br />
 深度学习在计算机视觉、自然语言处理等领域取得重大进展，但是许多现有的深度学习框架存在性能瓶颈和复杂性高的问题。RefactorGraph是一个开源的分层解耦的深度学习推理引擎，旨在解决这些问题。该引擎的主要特点包括支持图编译、模块化设计、优化策略等。RefactorGraph通过将计算图分解为多个层次，实现了更好的性能和更简洁清晰的代码。同时，它还提供了灵活的操作和分布式计算的支持，使得用户能够更轻松地定制和优化深度学习模型。总的来说，RefactorGraph为深度学习的推理过程提供了一个高效、灵活的解决方案，对推动深度学习技术的发展具有积极意义。
 
-<br><br>
+<br /><br />
 总结:  
 1. RefactorGraph是一个分层解耦的深度学习推理引擎，旨在解决深度学习框架存在的性能瓶颈和复杂性问题。  
 2. 该引擎支持图编译、模块化设计和优化策略，为用户提供更高效的计算图管理和优化方式。  
@@ -38,7 +125,6 @@
 'RefactorGraph - 分层解耦的深度学习推理引擎' GitHub: github.com/InfiniTensor/RefactorGraph <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho21xtlr6xj214w0u0q7z.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 24 Mar 2024 06:10:54 GMT</pubDate>
-<pubDate>Sun, 24 Mar 2024 06:10:54 GMT</pubDate>
 </item>
 <item>
 <title>【Mistral Transformer：用于运行和微调Mistral 7B模型的简洁代码】’Mistral Transformer - minimal code to run our 7B model and to finetune it’ GitHub: g...</title>
@@ -47,11 +133,10 @@
 <content:encoded><![CDATA[
 <div> GitHub, Mistral Transformer, 运行, 微调, 7B模型, 简洁代码
 
-<br><br>总结:
+<br /><br />总结:
 Mistral Transformer是一个用于运行和微调Mistral 7B模型的工具，提供了简洁的代码。用户可以在GitHub上找到相关代码。该工具可帮助用户快速运行和微调模型，提高工作效率。 <div>
 【Mistral Transformer：用于运行和微调Mistral 7B模型的简洁代码】’Mistral Transformer - minimal code to run our 7B model and to finetune it’ GitHub: github.com/mistralai-sf24/hackathon <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho21qpbzv0j21be0u0gqy.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho21qtnqeyj22k40u0794.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 06:04:13 GMT</pubDate>
 <pubDate>Sun, 24 Mar 2024 06:04:13 GMT</pubDate>
 </item>
 <item>
@@ -59,16 +144,14 @@ Mistral Transformer是一个用于运行和微调Mistral 7B模型的工具，提
 <link>https://weibo.com/1402400261/O6tHorWH1</link>
 <guid>https://weibo.com/1402400261/O6tHorWH1</guid>
 <content:encoded><![CDATA[
-<div> 自托管、远程、开发环境、管理系统、服务器、云服务器、建立、管理、lapdev、GitHub<br>
-<br>
-总结：<br>
+<div> 自托管、远程、开发环境、管理系统、服务器、云服务器、建立、管理、lapdev、GitHub<br />
+<br />
+总结：<br />
 文章介绍了 Lapdev 系统，它是一个自托管的远程开发环境管理系统，可以在服务器或云服务器上建立和管理开发环境。用户可以通过 GitHub 上的 lapce/lapdev 找到该系统的详细信息和代码。该系统的主要特点包括自托管、远程开发环境、服务器和云服务器部署支持，以及便于管理开发环境的功能。通过 Lapdev，用户可以方便地搭建和管理自己的开发环境，提高开发效率。 <div>
 【Lapdev：自托管远程开发环境管理系统，可以在服务器或云服务器上建立和管理远程开发环境】'Lapdev - Self-Hosted Remote Dev Environment' GitHub: github.com/lapce/lapdev <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E5%8F%91%23&amp;isnewpage=1"><span class="surl-text">#开发#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho20l3dc63j21ek0u0din.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 24 Mar 2024 05:24:22 GMT</pubDate>
-<pubDate>Sun, 24 Mar 2024 05:24:22 GMT</pubDate>
 </item>
-
 <item>
 <title>恭喜@Litoch 等3名用户获得【《大语言模型：原理与工程实践(全彩)》】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：网页...</title>
 <link>https://weibo.com/1402400261/O6takDgUm</link>

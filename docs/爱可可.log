@@ -1379,3 +1379,27 @@ Summarized using GPT-3.5-turbo
 Append: [【Lapdev：自托管远程开发环境管理系统，可以在服务器或云服务器上建立和管理远程开发环境】'Lapdev - Self-Hosted Remote Dev Environment' GitHub: github.com...](https://weibo.com/1402400261/O6tHorWH1)
 append_entries: 4
 Finish: 2024-03-24 08:13:08.175618
+------------------------------------------------------
+Started: 2024-03-24 10:11:21.708422
+Existing_entries: 221
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 645
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码:《InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior》(ICLR 2024) GitHub: github.com/chenguolin/In...](https://weibo.com/1402400261/O6ue3uyGu)
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [【files-to-prompt：将一个目录中的文件合并成一个更完整的提示文本】'files-to-prompt - Concatenate a directory full of files into a single prompt for use...](https://weibo.com/1402400261/O6ud6lpoj)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [【auto-coder：功能强大的命令行版Devin，使用 Byzer-LLM 语言模型，提供自动化代码生成功能，支持多种编程语言，通过上下文自动生成代码，帮助开发者快速完成AI...](https://weibo.com/1402400261/O6ucmiW6v)
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [【RAGTune：用于自动调整和优化RAG管线的工具。允许您评估不同的 LLMs(大型语言模型)、嵌入模型、查询转换器和重排器等组件】'RAGTune - Tuning and Evaluation ...](https://weibo.com/1402400261/O6ualh97E)
+Token length: 242
+Summarized using GPT-3.5-turbo
+Append: [【Ollama LLM的漂亮HTML聊天界面】’Fully-featured & beautiful web interface for Ollama LLMs - Fully-featured, beautiful web interface for Ollama LLMs -...](https://weibo.com/1402400261/O6u7122XO)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [【WSL Manager：WSL发行版管理器，一个用户友好的小软件，可帮助您轻松管理 Windows Subsystem for Linux(WSL)发行版，包括安装、卸载、更新、备份和恢复】’Wel...](https://weibo.com/1402400261/O6u552Kkf)
+append_entries: 6
+Finish: 2024-03-24 10:11:51.092110
