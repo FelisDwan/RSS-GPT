@@ -981,3 +981,9 @@ Summarized using GPT-3.5-turbo
 Append: [【#乔布斯1985年演讲预测AI发展#】乔布斯竟然在1985年就预测到了AI的发展，他是怎么说的？ 量子位的微博视频](https://weibo.com/6105753431/O6vjV0lWa)
 append_entries: 1
 Finish: 2024-03-24 12:18:55.958557
+------------------------------------------------------
+Started: 2024-03-24 14:09:05.798297
+Existing_entries: 105
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-03-24 14:09:05.940901
