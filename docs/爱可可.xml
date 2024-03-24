@@ -5,20 +5,83 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>【Financial Agent：用LangChain开发的金融Agent】’Financial Agent - A financial agent, built entirely with LangChain!' GitHub: github.com/virattt/finan...</title>
+<link>https://weibo.com/1402400261/O6u1MaB1s</link>
+<guid>https://weibo.com/1402400261/O6u1MaB1s</guid>
+<content:encoded><![CDATA[
+<div> Financial Agent, LangChain, 金融, Agent, GitHub, 开发, 技术，LangChain, 金融服务，GitHub
+
+<br><br>总结:
+这篇文章介绍了使用LangChain开发的金融Agent，即Financial Agent。这个金融Agent完全由LangChain构建而成，通过GitHub提供给用户下载和使用。使用LangChain开发金融Agent将为用户提供更高效的金融服务，同时展示了LangChain在金融科技领域的应用和潜力。如果需要构建金融服务的系统或应用，可以考虑使用这个Financial Agent作为参考和模板。 <div>
+【Financial Agent：用LangChain开发的金融Agent】’Financial Agent - A financial agent, built entirely with LangChain!' GitHub: github.com/virattt/financial-agent <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho221nfhmtj21ji0g4417.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 24 Mar 2024 06:14:35 GMT</pubDate>
+<pubDate>Sun, 24 Mar 2024 06:14:35 GMT</pubDate>
+</item>
+<item>
+<title>'RefactorGraph - 分层解耦的深度学习推理引擎' GitHub: github.com/InfiniTensor/RefactorGraph #开源# #机器学习# #人工智能# [图片]</title>
+<link>https://weibo.com/1402400261/O6u0hyrji</link>
+<guid>https://weibo.com/1402400261/O6u0hyrji</guid>
+<content:encoded><![CDATA[
+<div> GitHub, RefactorGraph, 分层解耦, 深度学习, 推理引擎, InfiniTensor  
+
+<br>
+深度学习在计算机视觉、自然语言处理等领域取得重大进展，但是许多现有的深度学习框架存在性能瓶颈和复杂性高的问题。RefactorGraph是一个开源的分层解耦的深度学习推理引擎，旨在解决这些问题。该引擎的主要特点包括支持图编译、模块化设计、优化策略等。RefactorGraph通过将计算图分解为多个层次，实现了更好的性能和更简洁清晰的代码。同时，它还提供了灵活的操作和分布式计算的支持，使得用户能够更轻松地定制和优化深度学习模型。总的来说，RefactorGraph为深度学习的推理过程提供了一个高效、灵活的解决方案，对推动深度学习技术的发展具有积极意义。
+
+<br><br>
+总结:  
+1. RefactorGraph是一个分层解耦的深度学习推理引擎，旨在解决深度学习框架存在的性能瓶颈和复杂性问题。  
+2. 该引擎支持图编译、模块化设计和优化策略，为用户提供更高效的计算图管理和优化方式。  
+3. RefactorGraph通过将计算图分解为多个层次，实现更好的性能和更简洁清晰的代码。  
+4. 提供了灵活的操作和分布式计算支持，使用户能够定制和优化深度学习模型。  
+5. 对推动深度学习技术的发展具有积极意义，为深度学习推理过程提供了一个高效、灵活的解决方案。 <div>
+'RefactorGraph - 分层解耦的深度学习推理引擎' GitHub: github.com/InfiniTensor/RefactorGraph <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho21xtlr6xj214w0u0q7z.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 24 Mar 2024 06:10:54 GMT</pubDate>
+<pubDate>Sun, 24 Mar 2024 06:10:54 GMT</pubDate>
+</item>
+<item>
+<title>【Mistral Transformer：用于运行和微调Mistral 7B模型的简洁代码】’Mistral Transformer - minimal code to run our 7B model and to finetune it’ GitHub: g...</title>
+<link>https://weibo.com/1402400261/O6tXzobsR</link>
+<guid>https://weibo.com/1402400261/O6tXzobsR</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Mistral Transformer, 运行, 微调, 7B模型, 简洁代码
+
+<br><br>总结:
+Mistral Transformer是一个用于运行和微调Mistral 7B模型的工具，提供了简洁的代码。用户可以在GitHub上找到相关代码。该工具可帮助用户快速运行和微调模型，提高工作效率。 <div>
+【Mistral Transformer：用于运行和微调Mistral 7B模型的简洁代码】’Mistral Transformer - minimal code to run our 7B model and to finetune it’ GitHub: github.com/mistralai-sf24/hackathon <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho21qpbzv0j21be0u0gqy.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho21qtnqeyj22k40u0794.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 24 Mar 2024 06:04:13 GMT</pubDate>
+<pubDate>Sun, 24 Mar 2024 06:04:13 GMT</pubDate>
+</item>
+<item>
+<title>【Lapdev：自托管远程开发环境管理系统，可以在服务器或云服务器上建立和管理远程开发环境】'Lapdev - Self-Hosted Remote Dev Environment' GitHub: github.com...</title>
+<link>https://weibo.com/1402400261/O6tHorWH1</link>
+<guid>https://weibo.com/1402400261/O6tHorWH1</guid>
+<content:encoded><![CDATA[
+<div> 自托管、远程、开发环境、管理系统、服务器、云服务器、建立、管理、lapdev、GitHub<br>
+<br>
+总结：<br>
+文章介绍了 Lapdev 系统，它是一个自托管的远程开发环境管理系统，可以在服务器或云服务器上建立和管理开发环境。用户可以通过 GitHub 上的 lapce/lapdev 找到该系统的详细信息和代码。该系统的主要特点包括自托管、远程开发环境、服务器和云服务器部署支持，以及便于管理开发环境的功能。通过 Lapdev，用户可以方便地搭建和管理自己的开发环境，提高开发效率。 <div>
+【Lapdev：自托管远程开发环境管理系统，可以在服务器或云服务器上建立和管理远程开发环境】'Lapdev - Self-Hosted Remote Dev Environment' GitHub: github.com/lapce/lapdev <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E5%8F%91%23&amp;isnewpage=1"><span class="surl-text">#开发#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho20l3dc63j21ek0u0din.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 24 Mar 2024 05:24:22 GMT</pubDate>
+<pubDate>Sun, 24 Mar 2024 05:24:22 GMT</pubDate>
+</item>
+
+<item>
 <title>恭喜@Litoch 等3名用户获得【《大语言模型：原理与工程实践(全彩)》】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：网页...</title>
 <link>https://weibo.com/1402400261/O6takDgUm</link>
 <guid>https://weibo.com/1402400261/O6takDgUm</guid>
 <content:encoded><![CDATA[
 <div> 大语言模型，抽奖，书籍，作者，知识体系，实践性，代码，全彩印刷，杨青，训练经验
 
-<br><br>总结:
+<br /><br />总结:
 微博举办了抽奖活动，恭喜3名幸运用户获得了《大语言模型：原理与工程实践(全彩)》一书。该书由杨青撰写，旨在揭开大语言模型的神秘面纱，透彻解读其内在机理和应用实践。书籍特色包括系统性的知识体系和实践性的重视，配有代码和全彩印刷。作者具有大语言模型实践经验，在书中分享了训练经验和干货内容，让读者能够深入了解和运用大语言模型。活动截止时间为2024年3月24日12:00，感兴趣的用户可转发和评论参与抽奖。 <div>
 恭喜<a href="https://weibo.com/n/Litoch">@Litoch</a> 等3名用户获得【《大语言模型：原理与工程实践(全彩)》】。微博官方唯一抽奖工具<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> 对本次抽奖进行监督，结果公正有效。公示链接：<a href="https://lottery.media.weibo.com/lottery/h5/result/new?id=20198320&amp;pageid=100140E51188562"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.24 12:00，*可可粉*转发+评论即可参与。本书旨在揭开大语言模型的神秘面纱，透彻地解读其内在机理和应用实践。一大特色体现在其知识体系的系统性，另一大特色是对实践性的重视。配代码、全彩印刷。本书作者杨青是度小满轩辕大模型负责人，作为真正的大语言模型实践者，拥有十亿、百亿、千亿等不同参数规模大语言模型的训练经验。在本书中，这些经验都被毫无保留地融入其中，干货满满，绝非空谈。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5012867076850203"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb85d5j20m90m9jw5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8np7j20m90m90vz.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8bphj20m90m9789.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb9t7fj20m90m9dph.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvb8gi3j20m90m90xl.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvbf5k1j21hc0u0wud.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvbadpbj21dd0rsguo.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntsvbag7dj20rs0rs793.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb7ig9j20rs0m841y.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Sun, 24 Mar 2024 04:02:55 GMT</pubDate>
-<pubDate>Sun, 24 Mar 2024 04:02:55 GMT</pubDate>
 </item>
-
 <item>
 <title>【Nvidia提供的在线免费新课】1、Generative AI Explained 网页链接 2、Building A Brain in 10 Minutes | NVIDIA 网页链接 3、Augment your LLM Using Retrieva...</title>
 <link>https://weibo.com/1402400261/O6su8CHHx</link>
