@@ -1023,3 +1023,18 @@ Existing_entries: 105
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-25 02:19:59.520934
+------------------------------------------------------
+Started: 2024-03-25 04:14:03.108357
+Existing_entries: 105
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [#文本转教学视频AI# 现在，直接输入 prompt “矩阵的行列式是什么？”，AI就能马上给你生成一个含讲解的2分钟视频了~[666]这个AI叫做#Gatekeep#，是一个专注教学...](https://weibo.com/6105753431/O6BUemNly)
+Token length: 40
+Summarized using GPT-3.5-turbo
+Append: [#跑酷机器狗# 云深处科技发布了#具身智能#新视频，视频中的机器狗可以像人类跑酷一样灵活爬楼梯和跳跃~[赞] 量子位的微博视频](https://weibo.com/6105753431/O6BGJf6mu)
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [#消失的llya# llya去哪了？这是很多网友在 OpenAI “宫斗”结束后最大的疑惑。24日，推特上一位长期追踪科技领域名人的博主分享了一张llya的照片。有眼尖的网友...](https://weibo.com/6105753431/O6BwJ22Iu)
+append_entries: 3
+Finish: 2024-03-25 04:14:18.499492
