@@ -1448,3 +1448,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O6xekbrKQ)
 append_entries: 0
 Finish: 2024-03-24 22:11:13.116454
+------------------------------------------------------
+Started: 2024-03-25 00:51:06.386920
+Existing_entries: 229
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@图灵文化 @图灵新知 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发...](https://weibo.com/1402400261/O6B15iVGw)
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1355期)：用图神经网络学习神经网络等变表示、Zigzag Mamba扩散模型、基于文本到图像模型的一步图像翻译、基于内容帧运动潜分解的高效视频扩散模型、...](https://weibo.com/1402400261/O6Ajk28GJ)
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [[CL] LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models 网页链接 LLAMAFACTORY是一个模块化、标准化、易用的框架，可以高效微调大规模语言...](https://weibo.com/1402400261/O6AfZcveI)
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [[CV] SceneScript: Reconstructing Scenes With An Autoregressive Structured Language Model 网页链接 通过设计可扩展的结构化语言SceneScript以及对应的大规...](https://weibo.com/1402400261/O6AdPiLs7)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [[CV] Nellie: Automated organelle segmentation, tracking, and hierarchical feature extraction in 2D/3D live-cell microscopy 网页链接 Nellie是一个开源的...](https://weibo.com/1402400261/O6A91e8W9)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [[LG] A Survey on Uncertainty Quantification for Deep Learning: An Uncertainty Source Perspective 网页链接 通过不确定性来源的视角首次系统回顾各类DNN不...](https://weibo.com/1402400261/O6A6olNpV)
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [[RO] BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation 网页链接 提出BEHAVIOR-1K基准测试，包...](https://weibo.com/1402400261/O6A2M6jdy)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [AnyV2V是一个通用的视频编辑框架，通过将过程拆分为图像编辑和I2V生成，实现基于各类图像编辑模型的高保真视频编辑。 - 转发 @爱可可-爱生活:&ensp;[CV]《AnyV2V...](https://weibo.com/1402400261/O6zZkqBQ2)
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [[CV]《AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks》M Ku, C Wei, W Ren, H Yang, W Chen [University of Waterloo & Harmony.AI]...](https://weibo.com/1402400261/O6zZgmRdg)
+Token length: 222
+Summarized using GPT-3.5-turbo
+Append: [通过内容帧和运动潜表示对视频进行紧凑编码，设计高效视频扩散模型CMD，实现高质量视频生成同时大幅降低计算成本。 - 转发 @爱可可-爱生活:&ensp;[CV]《Efficien...](https://weibo.com/1402400261/O6zU22DoB)
+append_entries: 10
+Finish: 2024-03-25 00:51:57.082179
