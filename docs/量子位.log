@@ -1038,3 +1038,21 @@ Summarized using GPT-3.5-turbo
 Append: [#消失的llya# llya去哪了？这是很多网友在 OpenAI “宫斗”结束后最大的疑惑。24日，推特上一位长期追踪科技领域名人的博主分享了一张llya的照片。有眼尖的网友...](https://weibo.com/6105753431/O6BwJ22Iu)
 append_entries: 3
 Finish: 2024-03-25 04:14:18.499492
+------------------------------------------------------
+Started: 2024-03-25 06:15:02.485322
+Existing_entries: 108
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 629
+Summarized using GPT-3.5-turbo
+Append: [OpenAI公关跳起来捂他嘴：#Transformer作者公开承认参与Q*# Transformer作者中唯一去了OpenAI的那位，公开承认了：他参与了Q*项目，是这项新技术的发明者之一。...](https://weibo.com/6105753431/O6D1IwvBk)
+Token length: 260
+Summarized using GPT-3.5-turbo
+Append: [爆火AI程序员 Devin 背后的 “那个男人“ ，早期童年视频流出！Devin的创始人Scott Wu不仅是一位科技企业家，还是一位神童。他在九岁时就学会了编程，多年来一直...](https://weibo.com/6105753431/O6CUNzSjm)
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [#理解手语手套# 现在，戴上一副AI手套就可以让其他人理解你的手语了，而且还是实时转语音的那种~这个手套叫做 “SignAloud” ，由 MIT 的两位学生发明。它可以识...](https://weibo.com/6105753431/O6CD7nRBW)
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [#免费版阿里Animation# 还记得阿里之前推出的那个“一张图生成动态视频”的AI吗？国外这次搞了个看起来更强的，而且还免费。新 AI 名叫#Viggle#，基于JST-1模型...](https://weibo.com/6105753431/O6CvsqWNW)
+append_entries: 4
+Finish: 2024-03-25 06:15:21.811709

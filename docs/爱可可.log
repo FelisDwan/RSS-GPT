@@ -1496,3 +1496,21 @@ Existing_entries: 239
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-25 04:14:20.786193
+------------------------------------------------------
+Started: 2024-03-25 06:15:22.098360
+Existing_entries: 239
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [【Gmeek：一个博客框架，使用 git 托管代码，简洁易用，无需本地部署，只需搭建和写作即可完成博客搭建。】'Gmeek - Gmeek is a Blog All in Github' GitHub: gi...](https://weibo.com/1402400261/O6CK5oqfm)
+Token length: 82
+Summarized using GPT-3.5-turbo
+Append: ['LapisCV - 开箱即用的 Obsidian / Typora 简历' GitHub: github.com/BingyanStudio/LapisCV #开源# #简历# [图片][图片][图片]](https://weibo.com/1402400261/O6CJKnpvw)
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [【Rye language： 一种动态编程语言，结合了 Rebol、Factor、Linux shells 和 Golang 等思想，仍在不断发展中】'Rye language - homoiconic dynamic programming...](https://weibo.com/1402400261/O6CIG9SM8)
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [【codel：可以用来完成各种复杂的任务和项目的自动化AI Agent，无论是使用终端、浏览器还是编辑器】'codel - Fully autonomous AI Agent that can perform compl...](https://weibo.com/1402400261/O6CI39B4M)
+append_entries: 4
+Finish: 2024-03-25 06:15:43.428533
