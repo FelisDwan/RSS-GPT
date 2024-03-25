@@ -1056,3 +1056,22 @@ Summarized using GPT-3.5-turbo
 Append: [#免费版阿里Animation# 还记得阿里之前推出的那个“一张图生成动态视频”的AI吗？国外这次搞了个看起来更强的，而且还免费。新 AI 名叫#Viggle#，基于JST-1模型...](https://weibo.com/6105753431/O6CvsqWNW)
 append_entries: 4
 Finish: 2024-03-25 06:15:21.811709
+------------------------------------------------------
+Started: 2024-03-25 08:15:38.412631
+Existing_entries: 112
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 349
+Summarized using GPT-3.5-turbo
+Append: [#宫保鸡丁杀入全球AI音乐榜前十##音乐版ChatGPT被玩疯了# 等等，用菜谱做歌词？！当《宫保鸡丁》碰上音乐剧，瞬间高大上了起来~于是这首歌随即登上了全球AI音乐...](https://weibo.com/6105753431/O6DOL9tTZ)
+Token length: 284
+Summarized using GPT-3.5-turbo
+Append: [模型合并就进化，直接拿下SOTA！#Transformer作者创业新成果火了# 把Huggingface上的现成模型拿来“攒一攒”——直接就能组合出新的强大模型？！日本大模型公司s...](https://weibo.com/6105753431/O6DMkrhjN)
+Token length: 55
+Summarized using GPT-3.5-turbo
+Append: [MistralAI黑客马拉松的一个团队，根据游戏中当前帧的ASCII表示来训练7B开源模型玩《DOOM》。 量子位的微博视频](https://weibo.com/6105753431/O6DLnt7FF)
+Token length: 391
+Summarized using GPT-3.5-turbo
+Append: [#兆级长文本已是一线大模型机构标配能力# “据我了解，国内多个一线大模型机构，都已经突破了兆级的长文本能力。”以上，是“2024全球开发者先锋大会”大模型前...](https://weibo.com/6105753431/O6DyW7tE2)
+Append: [笑死！有网友最近发现有一大波AI初创公司的名字与它们的命运彷佛有奇妙呼应~仔细一琢磨好像还真是这样 [笑cry]- OpenAI→ClosedAI- Stability AI→Instability A...](https://weibo.com/6105753431/O6D9zkSHA)
+append_entries: 5
+Finish: 2024-03-25 08:16:08.001657

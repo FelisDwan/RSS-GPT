@@ -1514,3 +1514,39 @@ Summarized using GPT-3.5-turbo
 Append: [【codel：可以用来完成各种复杂的任务和项目的自动化AI Agent，无论是使用终端、浏览器还是编辑器】'codel - Fully autonomous AI Agent that can perform compl...](https://weibo.com/1402400261/O6CI39B4M)
 append_entries: 4
 Finish: 2024-03-25 06:15:43.428533
+------------------------------------------------------
+Started: 2024-03-25 08:16:08.297729
+Existing_entries: 243
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1501
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Online GNN Evaluation Under Test-Time Graph Distribution Shifts》(ICLR 2024) GitHub: github.com/Amanda-Zheng/LEBED [fig5]《FITS: M...](https://weibo.com/1402400261/O6Dg6rZPh)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [【Multimodal Gamer：在电脑上用多媒态模型打游戏的框架】'Multimodal Gamer - A framework to enable multimodal models to play games on a computer.' GitHub...](https://weibo.com/1402400261/O6Dfbp8b8)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [【遥感图像描述相关文献资源列表】’awesome-remote-image-captioning - A list of awesome remote sensing image captioning resources' GitHub: github.com/iO...](https://weibo.com/1402400261/O6DernLcd)
+Token length: 91
+Summarized using GPT-3.5-turbo
+Append: ['Char detection base on crnn 字符（单字）检测基于CRNN' GitHub: github.com/fanqie03/char-detection #开源# #机器学习# #人工智能# [图片][图片][图片]](https://weibo.com/1402400261/O6DdU75Wt)
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: [【NineRec: 多模态大规模数据集和多领域推荐系统基准】'[TPAMI 2024] NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation - A Lar...](https://weibo.com/1402400261/O6Dc9bvae)
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [【codeium-parse：命令行代码解析工具，支持语法解析，帮用户轻松处理代码格式】’codeium-parse - A command line tool for parsing code syntax' GitHub: gith...](https://weibo.com/1402400261/O6DbvzzHC)
+Token length: 277
+Summarized using GPT-3.5-turbo
+Append: [【Chat with MLX：高性能的macOS应用，将本地文档与一个个性化大型语言模型(LLM)连接起来。利用检索增强生成 (RAG)，可有效地搜索和查询文档】'Chat with MLX - ...](https://weibo.com/1402400261/O6D6NezKY)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [【Cookbook to Craft Good Code：一个帮助编写高质量代码的开源指南，强调代码的可读性、简洁性和易维护性】'Cookbook to Craft Good Code - Cookbook for Craft...](https://weibo.com/1402400261/O6D41EcNQ)
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [【LightwheelOcc：面向自动驾驶的3D Occupancy合成数据集】'LightwheelOcc - LightwheelOcc: A 3D Occupancy Synthetic Dataset in Autonomous Driving' GitHub:...](https://weibo.com/1402400261/O6CVRecv2)
+Token length: 223
+Summarized using GPT-3.5-turbo
+Append: [【Whispering：一个开源项目，旨在通过 OpenAI Whisper API 简化语音到文字转换体验】'Whispering - Seamlessly convert spoken words into text with AI assist...](https://weibo.com/1402400261/O6CLFqb7N)
+append_entries: 10
+Finish: 2024-03-25 08:17:06.633236

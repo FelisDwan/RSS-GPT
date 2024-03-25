@@ -5,17 +5,152 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>几篇论文实现代码：《Online GNN Evaluation Under Test-Time Graph Distribution Shifts》(ICLR 2024) GitHub: github.com/Amanda-Zheng/LEBED [fig5]《FITS: M...</title>
+<link>https://weibo.com/1402400261/O6Dg6rZPh</link>
+<guid>https://weibo.com/1402400261/O6Dg6rZPh</guid>
+<content:encoded><![CDATA[
+<div> Online GNN Evaluation, Test-Time Graph Distribution Shifts, FITS, Time Series, Boosting Continual Learning, Vision-Language Models, SpeeDiT, Diffusion Models, BiRefNet, Image Segmentation, Simplified Diffusion Schrödinger Bridge, DPOT, PDE Pre-Training, GCTM, Image Manipulation, MLM_Filter, Finetuned Multimodal Language Models, EnCLAP, Neural Audio Codec, Automated Audio Captioning, MapQR, Vectorized Map Construction, CLIP-VIS, Video Instance Segmentation
+
+<br>
+总结: 在这几篇论文中，提出了许多新颖的方法和技术来解决各种问题。其中包括针对在线图卷积神经网络评估和测试时图分布漂移的解决方案，涉及到时间序列建模、视觉-语言模型持续学习的增强、加速扩散模型训练等领域。此外，还有针对高分辨率图像分割、自动音频字幕生成、地图构建和视频实例分割等问题的创新方法。这些研究为不同领域的深度学习应用提供了新的思路和技术手段，推动了相关领域的发展。 <div>
+几篇论文实现代码：<br />《Online GNN Evaluation Under Test-Time Graph Distribution Shifts》(ICLR 2024) GitHub: github.com/Amanda-Zheng/LEBED [fig5]<br />《FITS: Modeling Time Series with 10k parameters》(ICLR 2024) GitHub: github.com/VEWOXIC/FITS<br />《Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters》(CVPR 2024) GitHub: github.com/JiazuoYu/MoE-Adapters4CL [fig5]<br />《SpeeDiT: Accelerating DiTs and General Diffusion Models via Principle Timestep Adjustment Training》(2024) GitHub: github.com/1zeryu/SpeeDiT<br />《Bilateral Reference for High-Resolution Dichotomous Image Segmentation》(2024) GitHub: github.com/ZhengPeng7/BiRefNet<br />《Simplified Diffusion Schrödinger Bridge》(2024) GitHub: github.com/tzco/Simplified-Diffusion-Schrodinger-Bridge<br />《DPOT: Auto-Regressive Denoising Operator Transformer for Large-Scale PDE Pre-Training》(2024) GitHub: github.com/HaoZhongkai/DPOT [fig1]<br />《Generalized Consistency Trajectory Models for Image Manipulation》(2024) GitHub: github.com/1202kbs/GCTM [fig2]<br />《Finetuned Multimodal Language Models are High-Quality Image-Text Data Filters》(2024) GitHub: github.com/Victorwz/MLM_Filter<br />《EnCLAP: Combining Neural Audio Codec and Audio-Text Joint Embedding for Automated Audio Captioning》(2024) GitHub: github.com/jaeyeonkim99/EnCLAP [fig3]<br />《Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction》(2024) GitHub: github.com/HXMap/MapQR [fig6]<br />《CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation》(2024) GitHub: github.com/zwq456/CLIP-VIS [fig4]<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho34oe5qplj21k60qe7br.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho358pd30dj20pl0kr7ic.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho35bi313rj28cc38o7wk.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho362w5f4hj23r61egnpd.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho3661b06bj215t0hnqif.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho36js2y5xj23300s0qdi.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 05:44:36 GMT</pubDate>
+<pubDate>Mon, 25 Mar 2024 05:44:36 GMT</pubDate>
+</item>
+<item>
+<title>【Multimodal Gamer：在电脑上用多媒态模型打游戏的框架】'Multimodal Gamer - A framework to enable multimodal models to play games on a computer.' GitHub...</title>
+<link>https://weibo.com/1402400261/O6Dfbp8b8</link>
+<guid>https://weibo.com/1402400261/O6Dfbp8b8</guid>
+<content:encoded><![CDATA[
+<div> 多媒体模型、游戏、电脑、框架、GitHub、模型训练、模型推理、游戏场景、输入模态、输出模态
+
+<br><br>总结:
+这篇文章介绍了一个名为Multimodal Gamer的框架，该框架可以让多媒体模型在电脑上玩游戏。通过在GitHub上提供代码，作者展示了如何使用多媒体模型进行游戏。该框架包括模型训练和推理两个主要阶段，能够在游戏场景中使用不同的输入模态和输出模态。通过这个框架，研究人员和开发人员可以更好地探索多媒体模型在游戏领域的应用，并尝试开发更加智能的游戏玩家。 <div>
+【Multimodal Gamer：在电脑上用多媒态模型打游戏的框架】'Multimodal Gamer - A framework to enable multimodal models to play games on a computer.' GitHub: github.com/joshbickett/multimodal-gamer <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho36qeh1z4j20x40u00xr.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 05:42:20 GMT</pubDate>
+<pubDate>Mon, 25 Mar 2024 05:42:20 GMT</pubDate>
+</item>
+<item>
+<title>【遥感图像描述相关文献资源列表】’awesome-remote-image-captioning - A list of awesome remote sensing image captioning resources' GitHub: github.com/iO...</title>
+<link>https://weibo.com/1402400261/O6DernLcd</link>
+<guid>https://weibo.com/1402400261/O6DernLcd</guid>
+<content:encoded><![CDATA[
+<div> 远程感知、图像描述、资源列表、GitHub、iOPENCap、遥感图像、图像标注、资源、思维导图、研究方向、深度学习、数据集
+
+遥感图像描述是一个研究方向，该文献资源列表收集了一些相关的资源，可以在GitHub上找到。iOPENCap是其中的一个项目。远程感知领域关注图像描述和遥感图像，提供了一些资源和数据集用于深度学习研究。该资源列表包括数据集、文献和代码等资源，可以帮助研究人员更好地开展远程感知领域的工作。思维导图也是其中的一种资源，可以帮助研究人员更好地理解和整理这个研究方向。 <div>
+【遥感图像描述相关文献资源列表】’awesome-remote-image-captioning - A list of awesome remote sensing image captioning resources' GitHub: github.com/iOPENCap/awesome-remote-image-captioning <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho36oi536nj20x70u046t.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 05:40:30 GMT</pubDate>
+<pubDate>Mon, 25 Mar 2024 05:40:30 GMT</pubDate>
+</item>
+<item>
+<title>'Char detection base on crnn 字符（单字）检测基于CRNN' GitHub: github.com/fanqie03/char-detection #开源# #机器学习# #人工智能# [图片][图片][图片]</title>
+<link>https://weibo.com/1402400261/O6DdU75Wt</link>
+<guid>https://weibo.com/1402400261/O6DdU75Wt</guid>
+<content:encoded><![CDATA[
+<div> CRNN、字符检测、单字、GitHub、fanqie03、字符检测、基于、CNN、RNN、文本检测
+<br>
+本文介绍了基于CRNN的字符（单字）检测技术，通过GitHub仓库fanqie03/char-detection进行实现。该技术结合了卷积神经网络（CNN）和循环神经网络（RNN）的特点，能够有效地识别文本中的单个字符。文章中详细介绍了CRNN的原理及实现步骤，包括字符检测的数据集准备、模型训练和测试等内容。通过对字符图像进行预处理、特征提取和序列识别，实现了高效率和准确度的字符检测。这种基于CRNN的方法在文本识别领域具有广泛的应用前景，能够帮助用户快速准确地识别字符信息。总的来说，本文提供了一种有效的字符检测方法，为相关领域的研究和应用提供了有益的参考。 
+<br><br>总结: <div>
+'Char detection base on crnn 字符（单字）检测基于CRNN' GitHub: github.com/fanqie03/char-detection <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho36n1krarj20v50e2429.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho36n344nbj20an0fwtah.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho36n4karyj20jh0mxaca.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 05:39:11 GMT</pubDate>
+<pubDate>Mon, 25 Mar 2024 05:39:11 GMT</pubDate>
+</item>
+<item>
+<title>【NineRec: 多模态大规模数据集和多领域推荐系统基准】'[TPAMI 2024] NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation - A Lar...</title>
+<link>https://weibo.com/1402400261/O6Dc9bvae</link>
+<guid>https://weibo.com/1402400261/O6Dc9bvae</guid>
+<content:encoded><![CDATA[
+<div> 数据集，多模态，大规模，多领域，推荐系统，基准，跨领域迁移学习，GitHub，NineRec，TPAMI 2024
+
+总结:<br><br>这篇文章介绍了NineRec，一个用于评估可转移推荐的基准数据集套件。该数据集包括大规模的多模态数据，用于多领域推荐系统的基准测试。作者提出了一种用于跨领域迁移学习的NineRec框架，并在TPAMI 2024上发布。GitHub上提供了相关资源。NineRec为推荐系统领域提供了重要的研究工具，并在实验中展示了其有效性和影响力。 <div>
+【NineRec: 多模态大规模数据集和多领域推荐系统基准】'[TPAMI 2024] NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation - A Large-scale Multimodal Dataset and Benchmark for Multi-domain Recommender System' GitHub: github.com/westlake-repl/NineRec <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho36ik5cu8j20z30u044j.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho36il7kmqj20xh0u0486.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 05:34:51 GMT</pubDate>
+<pubDate>Mon, 25 Mar 2024 05:34:51 GMT</pubDate>
+</item>
+<item>
+<title>【codeium-parse：命令行代码解析工具，支持语法解析，帮用户轻松处理代码格式】’codeium-parse - A command line tool for parsing code syntax' GitHub: gith...</title>
+<link>https://weibo.com/1402400261/O6DbvzzHC</link>
+<guid>https://weibo.com/1402400261/O6DbvzzHC</guid>
+<content:encoded><![CDATA[
+<div> codeium-parse、命令行、代码解析工具、语法解析、GitHub、Exafunction、轻松处理代码格式
+
+总结:<br><br>本文介绍了一个名为codeium-parse的命令行工具，用于解析代码语法。该工具支持用户处理代码格式，帮助用户快速解析代码的语法。用户可以在GitHub上找到该工具的开源代码，项目地址为github.com/Exafunction/codeium-parse。 <div>
+【codeium-parse：命令行代码解析工具，支持语法解析，帮用户轻松处理代码格式】’codeium-parse - A command line tool for parsing code syntax' GitHub: github.com/Exafunction/codeium-parse <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho36gz1bpbj20z60u078y.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 05:33:17 GMT</pubDate>
+<pubDate>Mon, 25 Mar 2024 05:33:17 GMT</pubDate>
+</item>
+<item>
+<title>【Chat with MLX：高性能的macOS应用，将本地文档与一个个性化大型语言模型(LLM)连接起来。利用检索增强生成 (RAG)，可有效地搜索和查询文档】'Chat with MLX - ...</title>
+<link>https://weibo.com/1402400261/O6D6NezKY</link>
+<guid>https://weibo.com/1402400261/O6D6NezKY</guid>
+<content:encoded><![CDATA[
+<div> 关键词: MLX, macOS应用, 本地文档, 大型语言模型, 检索增强生成, 搜索, 查询
+
+总结:
+MLX是一个高性能的macOS应用，它将本地文档与一个个性化的大型语言模型(LLM)连接起来。通过利用检索增强生成(RAG)，用户可以有效地搜索和查询文档。这个应用提供了一种新颖的方式来管理和利用本地文档，并帮助用户更高效地查找和使用信息。MLX的功能强大，可以满足用户对文档管理和查询的各种需求，是一款实用的工具。MLX提供了一种直观、灵活的界面，让用户可以轻松地与文档和语言模型进行交互。通过MLX，用户可以更快速地查找所需信息，提高工作效率。MLX的设计简洁、易用，适合各种用户群体使用，是一款有很高潜力的应用。MLX的开发团队在不断努力改进和优化应用，以提供更好的用户体验和功能。MLX将成为用户处理文档和获取信息的得力助手，为他们节省时间和精力。 <div>
+【Chat with MLX：高性能的macOS应用，将本地文档与一个个性化大型语言模型(LLM)连接起来。利用检索增强生成 (RAG)，可有效地搜索和查询文档】'Chat with MLX - Chat with MLX is a high-performance macOS application that connects your local documents to a personalized large language model (LLM).' GitHub: github.com/mlx-chat/mlx-chat-app <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho364urcyuj219s0u0gq6.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 05:21:39 GMT</pubDate>
+<pubDate>Mon, 25 Mar 2024 05:21:39 GMT</pubDate>
+</item>
+<item>
+<title>【Cookbook to Craft Good Code：一个帮助编写高质量代码的开源指南，强调代码的可读性、简洁性和易维护性】'Cookbook to Craft Good Code - Cookbook for Craft...</title>
+<link>https://weibo.com/1402400261/O6D41EcNQ</link>
+<guid>https://weibo.com/1402400261/O6D41EcNQ</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Cookbook, Craft, Good Code, 高质量代码, 可读性, 简洁性, 易维护性
+
+<br><br>总结:
+《Cookbook to Craft Good Code》是一个帮助编写高质量代码的开源指南，强调代码的可读性、简洁性和易维护性。该指南包含了许多有用的建议和实用的技巧，可以帮助开发人员写出更好的代码。重点强调了如何使代码易于阅读、简洁明了以及方便维护，旨在提高代码的质量和可维护性。通过遵循这些指南，开发人员可以提高他们编写代码的效率，并减少潜在的bug和问题，从而提高整体开发质量。整体而言，这个指南为编写高质量代码提供了一些非常有用的建议和技巧，值得开发人员借鉴和参考。 <div>
+【Cookbook to Craft Good Code：一个帮助编写高质量代码的开源指南，强调代码的可读性、简洁性和易维护性】'Cookbook to Craft Good Code - Cookbook for Crafting Good Code' GitHub: github.com/Mountchicken/CodeCookbook <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%BC%96%E7%A8%8B%23&amp;isnewpage=1"><span class="surl-text">#编程#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho35xpcxokj21bq0u0jy9.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 05:14:51 GMT</pubDate>
+<pubDate>Mon, 25 Mar 2024 05:14:51 GMT</pubDate>
+</item>
+<item>
+<title>【LightwheelOcc：面向自动驾驶的3D Occupancy合成数据集】'LightwheelOcc - LightwheelOcc: A 3D Occupancy Synthetic Dataset in Autonomous Driving' GitHub:...</title>
+<link>https://weibo.com/1402400261/O6CVRecv2</link>
+<guid>https://weibo.com/1402400261/O6CVRecv2</guid>
+<content:encoded><![CDATA[
+<div> 关键词：自动驾驶、3D Occupancy、合成数据集、LightwheelOcc、OpenDriveLab、GitHub
+
+总结:<br><br>本文介绍了面向自动驾驶的3D Occupancy合成数据集LightwheelOcc，旨在提供给研究人员用于自动驾驶系统中的数据处理和算法开发。数据集由OpenDriveLab团队开发，可在GitHub上获取。数据集的发布有助于推动自动驾驶技术的发展，提高系统性能和安全性。LightwheelOcc的开发是为了解决现有数据集的不足，为自动驾驶研究提供更多选择和资源支持。数据集的合成方法有效地模拟了自动驾驶场景，能够提供真实且多样化的数据样本，有助于提高自动驾驶系统的鲁棒性和准确性。通过使用LightwheelOcc数据集，研究人员可以进行更全面的数据分析和算法验证，促进自动驾驶技术的快速发展。 <div>
+【LightwheelOcc：面向自动驾驶的3D  Occupancy合成数据集】'LightwheelOcc - LightwheelOcc: A 3D Occupancy Synthetic Dataset in Autonomous Driving' GitHub: github.com/OpenDriveLab/LightwheelOcc <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho35cb2r26j21420u0teu.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 04:54:43 GMT</pubDate>
+<pubDate>Mon, 25 Mar 2024 04:54:43 GMT</pubDate>
+</item>
+<item>
+<title>【Whispering：一个开源项目，旨在通过 OpenAI Whisper API 简化语音到文字转换体验】'Whispering - Seamlessly convert spoken words into text with AI assist...</title>
+<link>https://weibo.com/1402400261/O6CLFqb7N</link>
+<guid>https://weibo.com/1402400261/O6CLFqb7N</guid>
+<content:encoded><![CDATA[
+<div> OpenAI，Whispering，语音到文字转换，OpenAI Whisper API，开源项目，简化体验，AI辅助，无缝转换，文字，通信<br>
+<br>
+提到的开源项目Whispering旨在简化语音到文字转换体验，通过OpenAI Whisper API提供AI助力，让用户能够轻松实现从口述文字的转换，实现了无缝的沟通体验。 <div>
+【Whispering：一个开源项目，旨在通过 OpenAI Whisper API 简化语音到文字转换体验】'Whispering - Seamlessly convert spoken words into text with AI assistance, powered by OpenAI, for effortless communication.' GitHub: github.com/braden-w/whispering <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho34mo6satj211t0u0djr.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 04:29:37 GMT</pubDate>
+<pubDate>Mon, 25 Mar 2024 04:29:37 GMT</pubDate>
+</item>
+
+<item>
 <title>【Gmeek：一个博客框架，使用 git 托管代码，简洁易用，无需本地部署，只需搭建和写作即可完成博客搭建。】'Gmeek - Gmeek is a Blog All in Github' GitHub: gi...</title>
 <link>https://weibo.com/1402400261/O6CK5oqfm</link>
 <guid>https://weibo.com/1402400261/O6CK5oqfm</guid>
 <content:encoded><![CDATA[
 <div> Gmeek, 博客框架, git, 托管代码, 简洁易用, 无需本地部署, 搭建, 写作, 完成博客搭建
 
-<br><br>总结:
+<br /><br />总结:
 Gmeek是一个简洁易用的博客框架，使用git托管代码，无需本地部署，只需搭建和写作即可完成博客搭建。通过在GitHub上使用Gmeek，用户可以快速建立自己的博客，方便地进行写作和分享内容。Gmeek的特点是操作简单，只需一些基本的配置和写作，即可发布博客内容。对于想要快速搭建个人博客的用户来说，Gmeek是一个很好的选择。 <div>
 【Gmeek：一个博客框架，使用 git 托管代码，简洁易用，无需本地部署，只需搭建和写作即可完成博客搭建。】'Gmeek - Gmeek is a Blog All in Github' GitHub: github.com/Meekdai/Gmeek <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%8D%9A%E5%AE%A2%23&amp;isnewpage=1"><span class="surl-text">#博客#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho34inyapwj213j0o7mzg.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 04:25:43 GMT</pubDate>
 <pubDate>Mon, 25 Mar 2024 04:25:43 GMT</pubDate>
 </item>
 <item>
@@ -25,11 +160,10 @@ Gmeek是一个简洁易用的博客框架，使用git托管代码，无需本地
 <content:encoded><![CDATA[
 <div> GitHub、LapisCV、Obsidian、Typora、简历、开箱即用、BingyanStudio
 
-<br><br>总结:
+<br /><br />总结:
 这篇文章介绍了'LapisCV - 开箱即用的 Obsidian / Typora 简历'项目，项目地址为GitHub上的github.com/BingyanStudio/LapisCV。项目中提供了一款名为LapisCV的简历模板，可以在Obsidian或Typora上直接使用，帮助用户快速创建简历。通过该项目，用户可以轻松地定制自己的简历，提升求职竞争力。 <div>
 'LapisCV - 开箱即用的 Obsidian / Typora 简历' GitHub: github.com/BingyanStudio/LapisCV <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%AE%80%E5%8E%86%23&amp;isnewpage=1"><span class="surl-text">#简历#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho34hqkpjaj218l0u0gqh.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho34hrefgsj218c0u0gqe.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho34hsmj84j21c00u0aeh.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 04:24:53 GMT</pubDate>
 <pubDate>Mon, 25 Mar 2024 04:24:53 GMT</pubDate>
 </item>
 <item>
@@ -37,17 +171,16 @@ Gmeek是一个简洁易用的博客框架，使用git托管代码，无需本地
 <link>https://weibo.com/1402400261/O6CIG9SM8</link>
 <guid>https://weibo.com/1402400261/O6CIG9SM8</guid>
 <content:encoded><![CDATA[
-<div> Rye language, 动态编程语言, Rebol, Factor, Linux shells, Golang, 发展, homoiconic, GitHub, refaktor<br>
-<br>
-要点一：Rye language 是一种动态编程语言，结合了 Rebol、Factor、Linux shells 和 Golang 等思想，目前仍在不断发展中。<br>
-要点二：Rye language 是一种 homoiconic 动态编程语言，具有一些新的思想。<br>
-要点三：Rye language 的源代码托管在 GitHub 上，项目地址为github.com/refaktor/rye。 <br>
+<div> Rye language, 动态编程语言, Rebol, Factor, Linux shells, Golang, 发展, homoiconic, GitHub, refaktor<br />
+<br />
+要点一：Rye language 是一种动态编程语言，结合了 Rebol、Factor、Linux shells 和 Golang 等思想，目前仍在不断发展中。<br />
+要点二：Rye language 是一种 homoiconic 动态编程语言，具有一些新的思想。<br />
+要点三：Rye language 的源代码托管在 GitHub 上，项目地址为github.com/refaktor/rye。 <br />
 
-总结：<br>
+总结：<br />
 Rye language 是一种结合了多种编程语言思想的动态编程语言，包括 Rebol、Factor、Linux shells 和 Golang，它是一种 homoiconic 语言，具有一些新颖的概念。Rye language 的开发仍在不断进行中，代码托管在 GitHub 上，可随时查阅和参与。 <div>
 【Rye language： 一种动态编程语言，结合了 Rebol、Factor、Linux shells 和 Golang 等思想，仍在不断发展中】'Rye language - homoiconic dynamic programming language with some new ideas' GitHub: github.com/refaktor/rye <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%BC%96%E7%A8%8B%23&amp;isnewpage=1"><span class="surl-text">#编程#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho34f2mlflj21ji0oe0y5.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 04:22:15 GMT</pubDate>
 <pubDate>Mon, 25 Mar 2024 04:22:15 GMT</pubDate>
 </item>
 <item>
@@ -55,15 +188,13 @@ Rye language 是一种结合了多种编程语言思想的动态编程语言，�
 <link>https://weibo.com/1402400261/O6CI39B4M</link>
 <guid>https://weibo.com/1402400261/O6CI39B4M</guid>
 <content:encoded><![CDATA[
-<div> codel, 自动化AI Agent, 任务, 项目, 终端, 浏览器, 编辑器, GitHub, semanser, 复杂任务<br>
-<br>
-提到了一个名为codel的全自动AI Agent，能够利用终端、浏览器和编辑器完成复杂的任务和项目。该项目的代码托管在GitHub上，作者是semanser。codel的独特之处在于它能够完成各种不同类型的任务，并且可以在不同环境下运行，包括终端、浏览器和编辑器。这使得codel成为一个强大的工具，可以帮助用户自动化完成繁琐的工作，提高工作效率。通过GitHub上的开源代码，用户可以自定义和优化codel，以适应特定的需求和项目。总的来说，codel是一个十分实用和灵活的AI Agent，可以为用户提供强大的自动化功能，帮助他们应对各种复杂任务和项目。 <br><br>总结: <div>
+<div> codel, 自动化AI Agent, 任务, 项目, 终端, 浏览器, 编辑器, GitHub, semanser, 复杂任务<br />
+<br />
+提到了一个名为codel的全自动AI Agent，能够利用终端、浏览器和编辑器完成复杂的任务和项目。该项目的代码托管在GitHub上，作者是semanser。codel的独特之处在于它能够完成各种不同类型的任务，并且可以在不同环境下运行，包括终端、浏览器和编辑器。这使得codel成为一个强大的工具，可以帮助用户自动化完成繁琐的工作，提高工作效率。通过GitHub上的开源代码，用户可以自定义和优化codel，以适应特定的需求和项目。总的来说，codel是一个十分实用和灵活的AI Agent，可以为用户提供强大的自动化功能，帮助他们应对各种复杂任务和项目。 <br /><br />总结: <div>
 【codel：可以用来完成各种复杂的任务和项目的自动化AI Agent，无论是使用终端、浏览器还是编辑器】'codel - Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.' GitHub: github.com/semanser/codel <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho34d9jpl2j21i80u0jv8.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 25 Mar 2024 04:20:42 GMT</pubDate>
-<pubDate>Mon, 25 Mar 2024 04:20:42 GMT</pubDate>
 </item>
-
 <item>
 <title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@图灵文化 @图灵新知 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发...</title>
 <link>https://weibo.com/1402400261/O6B15iVGw</link>
