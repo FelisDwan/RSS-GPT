@@ -1084,3 +1084,12 @@ Summarized using GPT-3.5-turbo
 Append: [#Anthropic押注算力# Anthropic 的 CEO 近期参与了一档播客节目。在视频中，他预测未来两三年，模型训练 80%到90% 的成本都将花在算力上，包括购买GPU和定制芯片...](https://weibo.com/6105753431/O6Evslx4V)
 append_entries: 1
 Finish: 2024-03-25 10:12:17.526580
+------------------------------------------------------
+Started: 2024-03-25 12:19:14.373894
+Existing_entries: 118
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 44
+Summarized using GPT-3.5-turbo
+Append: [【#英伟达VS比特币涨幅大对比#】英伟达VS比特币和黄金，2020年到2024年投资回报对比，最后一年走势太炸裂！ 量子位的微博视频](https://weibo.com/6105753431/O6EKRCJ4y)
+append_entries: 1
+Finish: 2024-03-25 12:19:22.239250

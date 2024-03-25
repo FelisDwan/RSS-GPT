@@ -818,3 +818,12 @@ Summarized using GPT-3.5-turbo
 Append: [推荐 GitHub 上一个开源博客框架 Gmeek，超轻量级个人博客模版。无需本地部署，完全基于 Github Pages 、 Github Issues 和 Github Actions。从搭建到写作，仅需...](https://weibo.com/5722964389/O6Ede41wk)
 append_entries: 1
 Finish: 2024-03-25 10:12:24.027537
+------------------------------------------------------
+Started: 2024-03-25 12:19:22.645934
+Existing_entries: 24
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 357
+Summarized using GPT-3.5-turbo
+Append: [Google 在 GitHub 上分享了一份 Gemini API 学习手册。旨在帮助开发者更好地理解和使用 Gemini API，涵盖了 Gemini API 使用指南以及示例合集。手册内容：- 构建...](https://weibo.com/5722964389/O6EVM2ZlG)
+append_entries: 1
+Finish: 2024-03-25 12:19:30.932165
