@@ -1550,3 +1550,9 @@ Summarized using GPT-3.5-turbo
 Append: [【Whispering：一个开源项目，旨在通过 OpenAI Whisper API 简化语音到文字转换体验】'Whispering - Seamlessly convert spoken words into text with AI assist...](https://weibo.com/1402400261/O6CLFqb7N)
 append_entries: 10
 Finish: 2024-03-25 08:17:06.633236
+------------------------------------------------------
+Started: 2024-03-25 10:12:17.830757
+Existing_entries: 253
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-03-25 10:12:17.936483

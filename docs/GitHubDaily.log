@@ -809,3 +809,12 @@ Existing_entries: 23
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-03-25 08:17:08.654348
+------------------------------------------------------
+Started: 2024-03-25 10:12:17.958785
+Existing_entries: 23
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [推荐 GitHub 上一个开源博客框架 Gmeek，超轻量级个人博客模版。无需本地部署，完全基于 Github Pages 、 Github Issues 和 Github Actions。从搭建到写作，仅需...](https://weibo.com/5722964389/O6Ede41wk)
+append_entries: 1
+Finish: 2024-03-25 10:12:24.027537
