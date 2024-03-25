@@ -827,3 +827,12 @@ Summarized using GPT-3.5-turbo
 Append: [Google 在 GitHub 上分享了一份 Gemini API 学习手册。旨在帮助开发者更好地理解和使用 Gemini API，涵盖了 Gemini API 使用指南以及示例合集。手册内容：- 构建...](https://weibo.com/5722964389/O6EVM2ZlG)
 append_entries: 1
 Finish: 2024-03-25 12:19:30.932165
+------------------------------------------------------
+Started: 2024-03-25 14:10:27.004215
+Existing_entries: 25
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 548
+Summarized using GPT-3.5-turbo
+Append: [推荐 GitHub 上一个开源自部署托管移动应用和 macOS 应用的分发平台 Zealot。提供 iOS、Android SDK、fastlane 等丰富组件库，以及企业打包分发流程、上传应用全...](https://weibo.com/5722964389/O6G6PCzSD)
+append_entries: 1
+Finish: 2024-03-25 14:10:33.916092

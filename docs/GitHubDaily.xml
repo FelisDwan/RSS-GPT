@@ -5,19 +5,31 @@
 <link>https://weibo.com/5722964389/</link>
 
 <item>
+<title>推荐 GitHub 上一个开源自部署托管移动应用和 macOS 应用的分发平台 Zealot。提供 iOS、Android SDK、fastlane 等丰富组件库，以及企业打包分发流程、上传应用全...</title>
+<link>https://weibo.com/5722964389/O6G6PCzSD</link>
+<guid>https://weibo.com/5722964389/O6G6PCzSD</guid>
+<content:encoded><![CDATA[
+<div> GitHub、开源、自部署、托管、移动应用、macOS、分发平台、Zealot、iOS、Android
+<br>
+Zealot 是一个开源的自部署托管移动应用和 macOS 应用的分发平台，支持多平台应用托管，提供丰富的开发者套件和自动化构建插件。它可以解读应用内部的元信息，允许一键注册新测试设备到苹果开发者，并可接入各种通知服务实现自定义事件通知。用户可以灵活划分不同产品形态的应用渠道管理，支持多架构部署和第三方登录授权。此外，Zealot还具有黑暗模式可供用户自由切换。总结: Zealot 是一个功能强大的开源分发平台，提供丰富的功能和灵活的部署选项，方便开发者进行移动应用和 macOS 应用的托管和分发。 <div>
+推荐 GitHub 上一个开源自部署托管移动应用和 macOS 应用的分发平台 Zealot。<br /><br />提供 iOS、Android SDK、fastlane 等丰富组件库，以及企业打包分发流程、上传应用全套流程方案。<br /><br />并且可接入任意 CI 系统，实现一切自动化处理。<br /><br />GitHub：github.com/tryzealot/zealot<br /><br />具有如下特性：<br /><br />🌏 多平台应用托管: macOS、iOS、Android（apk/aab）、Windows、Linux 泛平台。<br />📱 测试设备一网打进: 自动同步 iOS 测试设备信息，允许一键注册新设备到苹果开发者。<br />🧑💻 丰富开发者套件: 提供 REST API、iOS、Android SDK 以及 fastlane 自动化构建插件。<br />💥 剖析应用内部的秘密: 解读 iOS、Android 应用或 iOS 描述文件的元信息。<br />🚨 内置多种事件通知: 数据可自定义 Income WebHook 到任意通知服务。<br />🗄 多渠道分类管理: 自由划分不同场景不同产品形态的应用渠道管理。<br />🎳 多架构部署: amd86/arm64/armv7 及各种部署方案应有尽有。<br />🔑 第三方登录: 飞书、Gitlab、Google、LDAP 和 OIDC 一键授权。<br />🌑 黑暗模式: 黑夜白昼自由切换。<img src="https://tvax2.sinaimg.cn/large/006fiYtfgy1ho3gib8opgj31fm128aov.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 25 Mar 2024 13:00:00 GMT</pubDate>
+<pubDate>Mon, 25 Mar 2024 13:00:00 GMT</pubDate>
+</item>
+
+<item>
 <title>Google 在 GitHub 上分享了一份 Gemini API 学习手册。旨在帮助开发者更好地理解和使用 Gemini API，涵盖了 Gemini API 使用指南以及示例合集。手册内容：- 构建...</title>
 <link>https://weibo.com/5722964389/O6EVM2ZlG</link>
 <guid>https://weibo.com/5722964389/O6EVM2ZlG</guid>
 <content:encoded><![CDATA[
 <div> GitHub、Gemini API、学习手册、开发者、理解、使用指南、示例合集、入门指南、快速上手教程、示例项目
-<br>
+<br />
 Google 在 GitHub 上分享了一份 Gemini API 学习手册，旨在帮助开发者更好地理解和使用 Gemini API。手册包括了构建 Gemini API 的入门指南、编写提示与利用 API 各项功能的快速上手教程，以及利用 API 创建的各种示例项目。大部分示例项目都是用 Python 编写，可以在 Google Colab 上运行，但需要一个免费申请的 Gemini API 密钥。密钥申请地址为aistudio.google.com/app/apikey。Gemini API 学习手册的 GitHub 地址为github.com/google-gemini/gemini-api-cookbook。 <div>
 Google 在 GitHub 上分享了一份 Gemini API 学习手册。<br /><br />旨在帮助开发者更好地理解和使用 Gemini API，涵盖了 Gemini API 使用指南以及示例合集。<br /><br />手册内容：<br /><br />- 构建 Gemini API 的简易入门指南。<br />- 编写提示与利用 API 各项功能的快速上手教程。<br />- 利用 API 能够创建的各种示例项目。<br /><br />GitHub：github.com/google-gemini/gemini-api-cookbook<br /><br />示例大部分是使用 Python 语言编写，格式为 .ipynb，可以在 Google Colab 上运行它们，但需要一个 Gemini API 密钥。<br /><br />而 Gemini API 密钥每个人都可以免费申请使用。<br /><br />申请地址：aistudio.google.com/app/apikey<img src="https://tvax4.sinaimg.cn/large/006fiYtfgy1ho3boa7m64j30oh0jvgsm.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 25 Mar 2024 10:00:00 GMT</pubDate>
-<pubDate>Mon, 25 Mar 2024 10:00:00 GMT</pubDate>
 </item>
-
 <item>
 <title>推荐 GitHub 上一个开源博客框架 Gmeek，超轻量级个人博客模版。无需本地部署，完全基于 Github Pages 、 Github Issues 和 Github Actions。从搭建到写作，仅需...</title>
 <link>https://weibo.com/5722964389/O6Ede41wk</link>
