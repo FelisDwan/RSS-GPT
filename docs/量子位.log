@@ -1141,3 +1141,18 @@ Summarized using GPT-3.5-turbo
 Append: [#3140亿参数Grok1推理加速近4倍# 马斯克说到做到开源Grok-1，开源社区一片狂喜。但基于Grok-1做改动or商用，都还有点难题：Grok-1使用Rust+JAX构建，对于习惯Pyt...](https://weibo.com/6105753431/O6KL2lNwT)
 append_entries: 2
 Finish: 2024-03-26 02:17:02.553706
+------------------------------------------------------
+Started: 2024-03-26 04:13:00.913287
+Existing_entries: 121
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [#飞书宣布裁员# 突发！飞书刚刚发了内部通知，接下来即将要裁员了。内部信中提到了以下几点：1.调整原因：为了应对效率降低和力量分散，需要 “适度” 缩减团队...](https://weibo.com/6105753431/O6LFgh0Vz)
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [#Claude3记者智能体# 基于Claude3创建的智能体现在可以帮忙写稿了，还是堪比记者水准的那种~[666]这就是 GitHub 新开源的#AI-Journalist #项目，用户只需提供一...](https://weibo.com/6105753431/O6LiSxwRY)
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [#用AppleVisionPro学医# Vision Pro又来给医学生带来亿点点震撼了！[doge]现在，使用苹果 Vision Pro 就能观察心脏的真实运作，还是在你眼前活生生跳动演示那种~...](https://weibo.com/6105753431/O6L7qFBaR)
+append_entries: 3
+Finish: 2024-03-26 04:13:16.295090
