@@ -1709,3 +1709,12 @@ Existing_entries: 275
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-26 14:11:00.380145
+------------------------------------------------------
+Started: 2024-03-26 16:13:48.086839
+Existing_entries: 275
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 236
+Summarized using GPT-3.5-turbo
+Append: [#免费##抽奖# 携手@博文视点Broadview 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评论即可参与。畅销书《码农翻身》第2部终于出版了，依然是用故...](https://weibo.com/1402400261/O6PqzpRsK)
+append_entries: 1
+Finish: 2024-03-26 16:13:55.561652

@@ -914,3 +914,9 @@ Summarized using GPT-3.5-turbo
 Append: [推荐 GitHub 上一个专为 macOS 设计的提醒菜单栏小工具 Reminders MenuBar。该工具可以理解为 macOS 上提醒事项的第三方客户端，让你能够直接在菜单栏上轻松管理...](https://weibo.com/5722964389/O6PxlkEKx)
 append_entries: 1
 Finish: 2024-03-26 14:11:10.323099
+------------------------------------------------------
+Started: 2024-03-26 16:13:55.589500
+Existing_entries: 28
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-03-26 16:13:57.231544
