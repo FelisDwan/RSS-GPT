@@ -1598,3 +1598,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O6GKGaUaB)
 append_entries: 0
 Finish: 2024-03-25 22:10:59.619972
+------------------------------------------------------
+Started: 2024-03-26 00:49:29.070232
+Existing_entries: 254
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [【LeaderboardFinder：找到适合特定场景的大模型排行榜】《LeaderboardFinder - Have you ever wondered which leaderboard would be best for your use case? -...](https://weibo.com/1402400261/O6KzqeZW5)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [【Marigold-LCM：无监督单目深度估计模型Demo，可以从单张图像中高效预测各像素点的深度信息，不需要额外的监督信号如深度图或者立体图像对】《Marigold-LCM Dep...](https://weibo.com/1402400261/O6Kxo2nsI)
+Token length: 898
+Summarized using GPT-3.5-turbo
+Append: [【Grok-1迎来PyTorch+HuggingFace优化版：推理加速3.8倍,开发门槛大幅降低】 - Grok-1是Musk的xAI开源的314亿参数Mixture of Experts模型，是目前最大的开源语言...](https://weibo.com/1402400261/O6Kvn0zQo)
+Token length: 830
+Summarized using GPT-3.5-turbo
+Append: [【从技术到创意：Sora如何重塑艺术家的工作流程】 - Sora模型目前仍处于早期试用阶段，OpenAI正在与视觉艺术家、设计师等创意社区进行交流，收集他们的反馈以改...](https://weibo.com/1402400261/O6KsWB6nm)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@图灵文化 @图灵新知 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发...](https://weibo.com/1402400261/O6KqpyYCe)
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1356期)：大型语言模型能在上下文中探索吗、用新型迭代数据增强来提升LLM、利用Spotlighting防御间接提示注入攻击、防止越狱把安全性定义清楚最重要...](https://weibo.com/1402400261/O6JNAD6QM)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [[LG] Accelerated Objective Gap and Gradient Norm Convergence for Gradient Descent via Long Steps 网页链接 构造涉及银比(silver ratio)的特殊步长表，通过...](https://weibo.com/1402400261/O6JJXjo0J)
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [[IR] FollowIR: Evaluating and Teaching Information Retrieval Models to Follow Instructions 网页链接 提出FOLLOWIR基准测试集和p-MRR评估指标，分析了现有...](https://weibo.com/1402400261/O6JHsE2Ne)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [[RO] Learning Quadruped Locomotion Using Differentiable Simulation 网页链接 通过分解与校准不同物理空间实现了可微仿真框架，使单四足机器人可在几分钟内学...](https://weibo.com/1402400261/O6JDwwbT9)
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [[LG] Compiler generated feedback for Large Language Models 网页链接 本文通过结合大型语言模型与编译器反馈的方式实现了LLVM IR代码优化，并证明采样技术可...](https://weibo.com/1402400261/O6JxKz4iD)
+append_entries: 10
+Finish: 2024-03-26 00:50:21.000383
