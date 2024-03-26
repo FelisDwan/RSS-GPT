@@ -5,19 +5,32 @@
 <link>https://weibo.com/5722964389/</link>
 
 <item>
+<title>推荐 GitHub 上一个专为 macOS 设计的提醒菜单栏小工具 Reminders MenuBar。该工具可以理解为 macOS 上提醒事项的第三方客户端，让你能够直接在菜单栏上轻松管理...</title>
+<link>https://weibo.com/5722964389/O6PxlkEKx</link>
+<guid>https://weibo.com/5722964389/O6PxlkEKx</guid>
+<content:encoded><![CDATA[
+<div> GitHub, macOS, 提醒菜单栏小工具, Reminders MenuBar, 同步, 创建, 编辑, 筛选, 截止日期, 完成状态
+
+<br><br>总结:
+Reminders MenuBar是一个专为macOS设计的提醒菜单栏小工具，能让用户通过菜单栏轻松管理提醒事项，包括同步、创建、编辑和筛选等功能。用户可以在菜单栏中直接与提醒事项进行交互，并且能快速设置提醒的截止日期，标记提醒的完成状态，编辑或删除提醒，查看即将到来的提醒列表，并且可以通过列表或完成状态进行提醒过滤。Reminders MenuBar与内置的提醒事项保持同步，让用户更便捷地管理自己的提醒事项。 <div>
+推荐 GitHub 上一个专为 macOS 设计的提醒菜单栏小工具 Reminders MenuBar。<br /><br />该工具可以理解为 macOS 上提醒事项的第三方客户端，让你能够直接在菜单栏上轻松管理提醒事项，如同步、创建、编辑以及筛选等操作。<br /><br />GitHub：github.com/DamascenoRafael/reminders-menubar<br /><br />具有如下功能：<br /><br />- 通过 macOS 菜单栏进行的所有交互；<br />- 与内置的提醒事项保持同步；<br />- 可以在选择的列表中创建新提醒；<br />- 可快速设置提醒的截止日期；<br />- 可将提醒标记为已完成/未完成；<br />- 编辑提醒、删除提醒或在列表之间移动提醒；<br />- 查看即将到来的提醒列表；<br />- 通过列表或完成状态过滤提醒。 <a href="https://video.weibo.com/show?fid=1034:5016231900545077"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">GitHubDaily的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax4.sinaimg.cn/orj480/006fiYtfgy1ho4je0fw1oj30m80egwfy.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/u0/LwZmyi9Igx08dACtAdOo010412000MeA0E010.mp4?label=mp4_720p&amp;template=800x520.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711462958&amp;ssig=oAytd1g0v7&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/u0/StGdb7ZEgx08dACtvVgY010412000Msc0E010.mp4?label=mp4_hd&amp;template=736x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711462958&amp;ssig=LiZcjPbi%2Ba&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/u0/O8mtxjC5gx08dACtxt0s010412000wMu0E010.mp4?label=mp4_ld&amp;template=552x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711462958&amp;ssig=UQNDNd3tSq&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5016231900545077" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 13:00:01 GMT</pubDate>
+<pubDate>Tue, 26 Mar 2024 13:00:01 GMT</pubDate>
+</item>
+
+<item>
 <title>推荐 GitHub 上开源免费一键生成短视频的 AI 工具 MoneyPrinterTurbo。只需提供一个视频 主题 或 关键词，就可以全自动生成视频的文案、素材、字幕以及背景音乐...</title>
 <link>https://weibo.com/5722964389/O6Omh9qzQ</link>
 <guid>https://weibo.com/5722964389/O6Omh9qzQ</guid>
 <content:encoded><![CDATA[
 <div> GitHub、开源、免费、一键生成短视频、AI工具、MoneyPrinterTurbo、视频主题、关键词、文案生成、多种视频尺寸
 
-总结:<br><br>推荐 GitHub 上开源免费一键生成短视频的 AI 工具 MoneyPrinterTurbo。项目采用完整的 MVC 架构，支持 API 和 Web 界面，可以自动生成视频文案、素材、字幕及背景音乐，并支持多种高清视频尺寸和批量视频生成。可调节视频片段时长及多种语音合成，支持中文和英文视频文案，以及多种模型接入，素材来源高清且无版权。 <div>
+总结:<br /><br />推荐 GitHub 上开源免费一键生成短视频的 AI 工具 MoneyPrinterTurbo。项目采用完整的 MVC 架构，支持 API 和 Web 界面，可以自动生成视频文案、素材、字幕及背景音乐，并支持多种高清视频尺寸和批量视频生成。可调节视频片段时长及多种语音合成，支持中文和英文视频文案，以及多种模型接入，素材来源高清且无版权。 <div>
 推荐 GitHub 上开源免费一键生成短视频的 AI 工具 MoneyPrinterTurbo。<br /><br />只需提供一个视频 主题 或 关键词，就可以全自动生成视频的文案、素材、字幕以及背景音乐，然后合成高清的短视频。<br /><br />项目是基于 MoneyPrinter 重构而来，进行了大量的优化，支持中文并提供易于使用的 Web 界面。<br /><br />GitHub：github.com/harry0703/MoneyPrinterTurbo<br /><br />功能特性：<br /><br />- 完整的 MVC 架构，代码 结构清晰，易于维护，支持 API 和 Web 界面。<br />- 支持视频文案 AI 自动生成，也可以自定义文案。<br />- 支持多种 高清视频 尺寸，常见的 9:16、16:9。<br />- 支持 批量视频生成，可以一次生成多个视频，然后选择一个最满意的。<br />- 支持 视频片段时长设置，方便调节素材切换频率。<br />- 支持 中文 和 英文 视频文案。<br />- 支持 多种语音 合成。<br />- 支持 字幕生成，可以调整 字体、位置、颜色、大小，同时支持字幕描边设置。<br />- 支持 背景音乐，随机或者指定音乐文件，可设置背景音乐音量。<br />- 视频素材来源 高清，而且 无版权。<br />- 支持 OpenAI、moonshot、Azure、gpt4free、one-api 等多种模型接入。<img src="https://tvax4.sinaimg.cn/large/006fiYtfgy1ho4gvcap5mj323u1a67mo.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Tue, 26 Mar 2024 10:00:01 GMT</pubDate>
-<pubDate>Tue, 26 Mar 2024 10:00:01 GMT</pubDate>
 </item>
-
 <item>
 <title>推荐 GitHub 上一个开源自部署托管移动应用和 macOS 应用的分发平台 Zealot。提供 iOS、Android SDK、fastlane 等丰富组件库，以及企业打包分发流程、上传应用全...</title>
 <link>https://weibo.com/5722964389/O6G6PCzSD</link>
