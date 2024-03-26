@@ -1718,3 +1718,13 @@ Summarized using GPT-3.5-turbo
 Append: [#免费##抽奖# 携手@博文视点Broadview 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评论即可参与。畅销书《码农翻身》第2部终于出版了，依然是用故...](https://weibo.com/1402400261/O6PqzpRsK)
 append_entries: 1
 Finish: 2024-03-26 16:13:55.561652
+------------------------------------------------------
+Started: 2024-03-26 18:13:29.947905
+Existing_entries: 276
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O6QjuFToC)
+Token length: 20
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(3.26)》 爱可可微博热门分享(3.26) [图片]](https://weibo.com/1402400261/O6Qj0dJAk)
+append_entries: 1
+Finish: 2024-03-26 18:13:37.591612
