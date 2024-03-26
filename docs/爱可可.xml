@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【LeaderboardFinder：找到适合特定场景的大模型排行榜】《LeaderboardFinder - Have you ever wondered which leaderboard would be best for your use case? -...</title>
 <link>https://weibo.com/1402400261/O6KzqeZW5</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> leaderboard, 大模型, 排行榜, 适合, 特定场景, Hugging Face Space, use case
 
-<br><br>总结:
+<br /><br />总结:
 这篇文章介绍了一个名为LeaderboardFinder的工具，可以帮助用户找到适合特定场景的大模型排行榜。用户可以通过Hugging Face Space平台来查找和比较不同排行榜，选择最适合自己使用情况的排行榜。LeaderboardFinder为用户提供了一个方便的方式，让他们能更快速地找到合适的模型排行榜。 <div>
 【LeaderboardFinder：找到适合特定场景的大模型排行榜】《LeaderboardFinder - Have you ever wondered which leaderboard would be best for your use case? - a Hugging Face Space by leaderboards》 <a href="https://huggingface.co/spaces/leaderboards/LeaderboardFinder"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho432sj0zbj21630u0dkr.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 26 Mar 2024 00:21:25 GMT</pubDate>
 <pubDate>Tue, 26 Mar 2024 00:21:25 GMT</pubDate>
 </item>
 <item>
@@ -23,13 +23,12 @@
 <link>https://weibo.com/1402400261/O6Kxo2nsI</link>
 <guid>https://weibo.com/1402400261/O6Kxo2nsI</guid>
 <content:encoded><![CDATA[
-<div> 深度估计模型, 无监督, 单目, 高效预测, 像素点, 深度信息, 无需监督信号, 单张图像, Marigold-LCM<br>
-<br>
-总结:<br>
+<div> 深度估计模型, 无监督, 单目, 高效预测, 像素点, 深度信息, 无需监督信号, 单张图像, Marigold-LCM<br />
+<br />
+总结:<br />
 本文介绍了一种无监督单目深度估计模型Marigold-LCM，能够高效预测单张图像中各像素点的深度信息，无需额外的监督信号如深度图或者立体图像对。该模型采用了先进的技术，实现了对深度信息的精准预测，为深度估计领域的发展带来新的可能性。模型的有效性和准确性得到了验证，具有重要的应用前景。 <div>
 【Marigold-LCM：无监督单目深度估计模型Demo，可以从单张图像中高效预测各像素点的深度信息，不需要额外的监督信号如深度图或者立体图像对】《Marigold-LCM Depth Estimation - a Hugging Face Space by prs-eth》 <a href="https://huggingface.co/spaces/prs-eth/marigold-lcm"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <a href="https://video.weibo.com/show?fid=1034:5016088346296344"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可-爱生活的微博视频</span></a> <br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax3.sinaimg.cn/orj480/5396ee05ly1ho42xdge0lj20k00kkwg2.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/uHAcl7sulx08dzZ0ZX8I010412003Yf20E010.mp4?label=mp4_720p&amp;template=720x740.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711416481&amp;ssig=tBj7oRCsNx&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/NhqyacNhlx08dzZ18hPq010412002O7Q0E010.mp4?label=mp4_hd&amp;template=540x552.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711416481&amp;ssig=gZnuwp4Do7&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/IeqyZjj1lx08dzZ135Sw010412001zN00E010.mp4?label=mp4_ld&amp;template=360x368.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711416481&amp;ssig=gFoNDmYGOs&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5016088346296344" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
-<pubDate>Tue, 26 Mar 2024 00:16:24 GMT</pubDate>
 <pubDate>Tue, 26 Mar 2024 00:16:24 GMT</pubDate>
 </item>
 <item>
@@ -39,12 +38,11 @@
 <content:encoded><![CDATA[
 <div> Grok-1, PyTorch, HuggingFace, Colossal-AI, 推理加速, 门槛降低, 易用版本, 性能优化, 并行加速, 开源贡献
 
-<br><br>
+<br /><br />
 总结: 
 Grok-1是Musk的开源语言模型，Colossal-AI团队提供了PyTorch版本，推动大语言模型的研究和应用。他们通过性能优化和推理加速提高了模型效率。未来更多的优化和应用有望推动AI技术的发展，促进自然语言处理等领域的进步。 <div>
 【Grok-1迎来PyTorch+HuggingFace优化版：推理加速3.8倍,开发门槛大幅降低】   <br />- Grok-1是Musk的xAI开源的314亿参数Mixture of Experts模型，是目前最大的开源语言模型，允许自由分发和商业化改进。   <br />- Colossal-AI团队提供了基于Python+PyTorch+HuggingFace的Grok-1易用版本，降低了使用门槛，方便AI开发者上手。   <br />- Colossal-AI通过张量并行等方式对Grok-1进行了性能优化，在8块H800服务器上使推理加速近4倍。   <br />- 推理示例非常简单，只需要运行提供的脚本，就可以自动下载并加载模型，获得对齐的推理结果。   <br />- Colossal-AI后续还会继续对Grok-1在并行加速、量化降低成本等方面进行优化，值得持续关注。   <br />- Grok-1的PyTorch实现极大地降低了使用门槛，使广大AI研发者不受框架限制即可利用此模型，是非常值得欢迎的开源贡献。   <br />- 此举也启发我们，应该继续探索各种方式来提升大模型的易用性、效率和可拓展性，推动AI技术向更开放、普惠的方向发展。   <br /><br />思考： <br />- Grok-1的开源对于推动大语言模型的研究和应用意义重大，特别是允许自由分发和商业化，极大地降低了中小企业和个人开发者的门槛。  <br />- Colossal-AI团队为主流AI开发者提供易用的PyTorch版本，体现了他们推动先进AI技术民主化的努力，值得称赞。近4倍的推理加速效果也令人印象深刻。  <br />- 文章提到Colossal-AI未来还会引入Grok-1在并行加速、量化减少成本等方面的优化，值得持续关注。这些优化有望进一步提升Grok-1的性能和可用性。  <br />- 随着越来越多的大模型被开源，并提供易用的推理优化方案，有望极大地促进自然语言处理、对话系统、内容生成等领域的技术进步和产业应用。<br />'Grok-1 Inference' GitHub: github.com/hpcaitech/ColossalAI/tree/main/examples/language/grok-1 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho42s8pv6pj21400u0793.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho42sabj9oj20t90gfgms.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho42sd4qrjj21xo0u0tel.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 26 Mar 2024 00:11:26 GMT</pubDate>
 <pubDate>Tue, 26 Mar 2024 00:11:26 GMT</pubDate>
 </item>
 <item>
@@ -54,11 +52,10 @@ Grok-1是Musk的开源语言模型，Colossal-AI团队提供了PyTorch版本，�
 <content:encoded><![CDATA[
 <div> Sora, 艺术家, 创意, 创作, 视觉效果, 创意社区, 生成能力, 原型制作, 资源限制, 抽象艺术
 
-总结:<br>
+总结:<br />
 Sora模型在重塑艺术家工作流程方面展现了巨大潜力。它通过强大的生成能力帮助艺术家实现脑海中想法，突破资源限制，拓展创意边界。Sora可以用于电影制作、音乐视觉化、时尚设计等领域，提高效率、加速原型制作和创意迭代，为创意产业带来新的可能性。这些优势使创作更高效、作品更具情感冲击力，同时也催生了新的艺术风格和美学。但同时，应审慎对待其潜在的负面影响。 <div>
 【从技术到创意：Sora如何重塑艺术家的工作流程】  <br />- Sora模型目前仍处于早期试用阶段，OpenAI正在与视觉艺术家、设计师等创意社区进行交流，收集他们的反馈以改进模型。   <br />- 从艺术家的创作中可以看出，Sora当前最擅长生成逼真或超现实的视觉效果，可以帮助艺术家将脑海中的想法快速实现。这对艺术创作来说是突破性的进步。   <br />- Sora的强大生成能力解放了艺术家的想象力，他们可以不受资源限制地尝试各种新的创意点子，并将其可视化实现。这为抽象艺术的发展提供了动力。   <br />- Sora可用于电影制作中原型和迭代创意，大大提高了效率。对于长期受预算限制的创意人员来说，这是一个突破。   <br />- Sora也可用于音乐视觉化，帮助将难以实现的视觉效果变为可能，为音乐艺术家开辟了新的创作方向。   <br />- 在时尚设计领域，Sora可以快速将设计师脑海中的理念可视化实现，加速设计迭代，突破技术限制。   <br />- Sora还可用于快速原型混合现实中的3D角色和场景。这减少了创作者在技术细节上的投入，让他们更专注于创意。   <br />- Sora为创意社区提供了强有力的想象力延伸和创作增强工具。它解放并拓展了艺术家的创作边界，对创意产业将产生深远影响。但我们也应关注其潜在的负面影响，并保持审慎态度。<br /><br />思考：  <br />- Sora似乎极大地拓展了艺术创作的边界，让许多原本不可能实现的创意构思成为可能，这一点令人印象深刻。  <br />- 有了Sora这样的工具辅助，艺术家们可以将更多的时间和精力放在创意构思本身，而不是被技术细节所束缚，这对于提升作品质量和情感冲击力有很大帮助。  <br />- Sora在快速迭代和原型制作方面的优势，可以帮助创意团队更高效地与客户沟通，推进项目进度。这对于时间和预算都很紧张的商业项目而言尤为重要。  <br />- Sora的"怪异性"和超现实效果，可能会催生一种新的艺术风格和美学，为视觉艺术领域带来新的活力和可能性。<br />《Sora: First Impressions》 <a href="https://openai.com/blog/sora-first-impressions"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax4.sinaimg.cn/orj480/5396ee05ly1ho42kw2nrhj20zk0k0dgv.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/o3V5zjyclx08dzYbCn9m01041200dReH0E010.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711416481&amp;ssig=FB8SfdWDG3&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/IywIoWFWlx08dzYbpkGI010412006LU20E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711416481&amp;ssig=5Df0oNLPD7&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/inIwVZ7Ilx08dzYbm4Vq010412004fwK0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711416481&amp;ssig=aXVJqTNw%2Fn&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5016085276065815" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
-<pubDate>Tue, 26 Mar 2024 00:05:28 GMT</pubDate>
 <pubDate>Tue, 26 Mar 2024 00:05:28 GMT</pubDate>
 </item>
 <item>
@@ -68,11 +65,10 @@ Sora模型在重塑艺术家工作流程方面展现了巨大潜力。它通过�
 <content:encoded><![CDATA[
 <div> hello算法, 可可粉, 数据结构, 算法, 动画图解, 实战代码, 互动环节, 轻松掌握, 新知识, 提问解决问题
 
-<br><br>总结:
+<br /><br />总结:
 《hello 算法》是一本帮助读者轻松掌握数据结构与算法的书籍。通过生动的动画图解，让抽象的数据结构和算法变得直观易懂。实战代码示例使读者能够即学即用，及时巩固新知识。书中设计了互动环节，帮助读者主动思考、提问和解决问题。通过本书，读者可以以全新的视角进入算法的世界，学习到丰富的知识，并通过互动环节不断提升自己的算法解决问题的能力。 <div>
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%87%E5%8C%96">@图灵文化</a> <a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%B0%E7%9F%A5">@图灵新知</a> 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发+评论即可参与。带你轻松掌握数据结构与算法，以全新的视角带你进入算法的世界。书中的每一章节都配有生动的动画图解，让抽象的数据结构和算法变得直观易懂。实战代码示例让你即学即用，及时巩固新知识。互动环节的设计帮助你主动思考，提问和解决问题。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5014630549948449"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfciddvdj21pe24a7wh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfchthjaj20m80m8q6g.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfcht5csj20m80m8go5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzfchtze3j20m80m8ach.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfci9xvsj2494494e81.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnzfcht5xoj20m80m8mzj.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 23:59:14 GMT</pubDate>
 <pubDate>Mon, 25 Mar 2024 23:59:14 GMT</pubDate>
 </item>
 <item>
@@ -82,11 +78,10 @@ Sora模型在重塑艺术家工作流程方面展现了巨大潜力。它通过�
 <content:encoded><![CDATA[
 <div> 大型语言模型、上下文探索、迭代数据增强、LLM、Spotlighting防御、间接提示注入攻击、防止越狱、安全性定义、概念嵌入生成
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了几个关键技术点。首先是关于大型语言模型在上下文中的探索能力，这对于提高模型的自然语言处理能力至关重要。其次是新型迭代数据增强技术的应用，可以有效提升LLM的性能。接着介绍了Spotlighting防御技术，可以防止间接提示注入攻击，提高系统的安全性。文章还提到了越狱问题，明确定义安全性是防止越狱的关键。最后讨论了大型语言模型的概念嵌入生成，为模型的发展提供了新思路。这些技术和方法的应用将进一步推动自然语言处理和人工智能领域的发展。 <div>
 今日推介(第1356期)：大型语言模型能在上下文中探索吗、用新型迭代数据增强来提升LLM、利用Spotlighting防御间接提示注入攻击、防止越狱把安全性定义清楚最重要、大型语言模型的概念嵌入生成 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/689014510"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho3znqy7f7j20go0f1myr.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho3znuwdacj20go0bs0ug.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho3znzg8ywj20go0ajdga.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho3zo35ouxj20go07faau.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho3zo6h03nj20go0aft9s.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 22:23:35 GMT</pubDate>
 <pubDate>Mon, 25 Mar 2024 22:23:35 GMT</pubDate>
 </item>
 <item>
@@ -96,11 +91,10 @@ Sora模型在重塑艺术家工作流程方面展现了巨大潜力。它通过�
 <content:encoded><![CDATA[
 <div> 银比、特殊步长表、目标函数差值、梯度范数、收敛速率、O(1/N^(1.2716...))、短步长梯度下降、证明、归纳法、改进
 
-<br><br>总结:
+<br /><br />总结:
 文章通过构造涉及银比的特殊步长表，同时在目标函数差值和梯度范数上通过归纳法证明了可以获得收敛速率为O(1/N^(1.2716...))的结果，这一结果改进了短步长梯度下降的经典成果。这种方法提供了更快速的梯度下降算法，为优化问题的解决提供了新的思路和工具。 <div>
 [LG] Accelerated Objective Gap and Gradient Norm Convergence for Gradient Descent via Long Steps  <br /><a href="https://arxiv.org/abs/2403.14045"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />构造涉及银比(silver ratio)的特殊步长表，通过归纳法证明可以在目标函数差值和梯度范数上同时获得O(1/N^(1.2716...))的收敛速率，改进了短步长梯度下降的经典结果。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho3zevlu2xj210s1ba7in.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 22:14:38 GMT</pubDate>
 <pubDate>Mon, 25 Mar 2024 22:14:38 GMT</pubDate>
 </item>
 <item>
@@ -110,11 +104,10 @@ Sora模型在重塑艺术家工作流程方面展现了巨大潜力。它通过�
 <content:encoded><![CDATA[
 <div> 模型评估, 指令理解, 信息检索, FOLLOWIR, 基准测试集, p-MRR, 指令遵循
 
-<br><br>总结:
+<br /><br />总结:
 该研究提出了FOLLOWIR基准测试集和p-MRR评估指标，旨在评估和教授信息检索模型遵循指令的能力。分析发现现有模型在遵循复杂指令方面存在不足，为提高信息检索模型的指令理解能力提供了基础。通过该研究，可以更好地了解信息检索模型在指令遵循方面的表现，并为进一步研究指令理解能力和提高模型性能提供参考。 <div>
 [IR] FollowIR: Evaluating and Teaching Information Retrieval Models to Follow Instructions  <br /><a href="https://arxiv.org/abs/2403.15246"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />提出FOLLOWIR基准测试集和p-MRR评估指标，分析了现有模型在遵循复杂指令方面的不足，为进一步提高信息检索模型的指令理解能力奠定基础。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho3z8mo922j20vc1bond1.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho3z8mw16gj21em0qewq7.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho3z8nl79fj21f819gwnh.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 22:08:29 GMT</pubDate>
 <pubDate>Mon, 25 Mar 2024 22:08:29 GMT</pubDate>
 </item>
 <item>
@@ -122,12 +115,11 @@ Sora模型在重塑艺术家工作流程方面展现了巨大潜力。它通过�
 <link>https://weibo.com/1402400261/O6JDwwbT9</link>
 <guid>https://weibo.com/1402400261/O6JDwwbT9</guid>
 <content:encoded><![CDATA[
-<div> 可微仿真框架, 四足机器人, 学习, 步态, 物理空间, 机器人<br>
-<br>
-通过分解和校准不同物理空间，研究人员开发了一种可微仿真框架，使得单四足机器人能够在几分钟内学习复杂的步态。这种框架可以直接迁移至实际机器人上，极大地提高了机器人学习的效率和准确性。通过这种方法，研究人员为机器人学习和应用带来了新的可能性，为未来的机器人技术发展提供了新思路和方法。<br><br>总结: <br>可微仿真框架提高了机器人学习效率，使得四足机器人可以快速学习复杂步态。该方法可直接应用于实际机器人上，为机器人技术发展带来新思路。 <div>
+<div> 可微仿真框架, 四足机器人, 学习, 步态, 物理空间, 机器人<br />
+<br />
+通过分解和校准不同物理空间，研究人员开发了一种可微仿真框架，使得单四足机器人能够在几分钟内学习复杂的步态。这种框架可以直接迁移至实际机器人上，极大地提高了机器人学习的效率和准确性。通过这种方法，研究人员为机器人学习和应用带来了新的可能性，为未来的机器人技术发展提供了新思路和方法。<br /><br />总结: <br />可微仿真框架提高了机器人学习效率，使得四足机器人可以快速学习复杂步态。该方法可直接应用于实际机器人上，为机器人技术发展带来新思路。 <div>
 [RO] Learning Quadruped Locomotion Using Differentiable Simulation  <br /><a href="https://arxiv.org/abs/2403.14864"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />通过分解与校准不同物理空间实现了可微仿真框架，使单四足机器人可在几分钟内学习复杂步态，并可直接迁移到实际机器人上。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho3yyc5homj210y1b6qo1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho3yyckgmdj21cu0waqb6.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho3yyd03vaj20oi0i2di2.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho3yydlcefj21cm0lqdpe.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 21:58:47 GMT</pubDate>
 <pubDate>Mon, 25 Mar 2024 21:58:47 GMT</pubDate>
 </item>
 <item>
@@ -137,14 +129,12 @@ Sora模型在重塑艺术家工作流程方面展现了巨大潜力。它通过�
 <content:encoded><![CDATA[
 <div> LLVM IR代码优化 大型语言模型 编译器反馈 采样技术 最优效果
 
-<br><br>总结:
+<br /><br />总结:
 本文讨论了如何结合大型语言模型与编译器反馈实现LLVM IR代码优化，并证明了采样技术可以取得近最优的效果。该方法通过引入大型语言模型对代码进行优化，并利用编译器反馈来调整优化策略，取得了令人满意的结果。这种方法在实践中展现出了很高的效果，为代码优化领域带来了新的思路和方法。 <div>
 [LG] Compiler generated feedback for Large Language Models  <br /><a href="https://arxiv.org/abs/2403.14714"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />本文通过结合大型语言模型与编译器反馈的方式实现了LLVM IR代码优化，并证明采样技术可以取得近最优的效果。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho3yjjlcuqj211g1awaw9.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho3yjk3qcrj21g00z4k32.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho3yjkh2fkj21gg0ne0zr.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho3yjkndsyj20qi0t20x6.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 25 Mar 2024 21:44:34 GMT</pubDate>
-<pubDate>Mon, 25 Mar 2024 21:44:34 GMT</pubDate>
 </item>
-
 <item>
 <title>《爱可可微博热门分享(3.25)》 爱可可微博热门分享(3.25) [图片]</title>
 <link>https://weibo.com/1402400261/O6GKpoEpC</link>

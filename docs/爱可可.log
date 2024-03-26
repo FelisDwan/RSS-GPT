@@ -1634,3 +1634,9 @@ Summarized using GPT-3.5-turbo
 Append: [[LG] Compiler generated feedback for Large Language Models 网页链接 本文通过结合大型语言模型与编译器反馈的方式实现了LLVM IR代码优化，并证明采样技术可...](https://weibo.com/1402400261/O6JxKz4iD)
 append_entries: 10
 Finish: 2024-03-26 00:50:21.000383
+------------------------------------------------------
+Started: 2024-03-26 02:17:02.878893
+Existing_entries: 264
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-03-26 02:17:03.813886
