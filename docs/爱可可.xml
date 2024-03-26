@@ -4,6 +4,144 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>几篇论文实现代码：《Differentiable Euler Characteristic Transforms for Shape Classification》(ICLR 2024) GitHub: github.com/aidos-lab/DECT《Str2Str: A...</title>
+<link>https://weibo.com/1402400261/O6MPm0zl4</link>
+<guid>https://weibo.com/1402400261/O6MPm0zl4</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Differentiable Euler Characteristic Transforms, Shape Classification, Zero-shot Protein Conformation Sampling, Neural Architecture Generation, Autonomous Driving, Human Image Animation, Topological Navigation, Object Relighting, Visual Recognition, Garment Dynamics
+
+总结:<br><br>
+本文介绍了几篇论文以及它们的实现代码，涵盖了形状分类、蛋白质构象采样、神经架构生成、自主驾驶、人物图像动画、拓扑导航、物体照明重建、视觉识别、服装动力学等领域。不同论文采用不同方法和模型，展示了在各个领域的应用和研究成果。这些研究对于推动人工智能领域的发展具有重要意义，为相关领域提供了新的思路和方法。每篇论文都在GitHub上公开了相应的实现代码，方便其他研究者和开发者进行复现和进一步研究。总体来说，这些论文为人工智能领域的不同方向带来了新的启发和发展方向。 <div>
+几篇论文实现代码：<br />《Differentiable Euler Characteristic Transforms for Shape Classification》(ICLR 2024) GitHub: github.com/aidos-lab/DECT<br />《Str2Str: A Score-based Framework for Zero-shot Protein Conformation Sampling》(ICLR 2024) GitHub: github.com/lujiarui/Str2Str [fig4] <br />《DiffusionNAG: Predictor-guided Neural Architecture Generation with Diffusion Models》(ICLR 2024) GitHub: github.com/CownowAn/DiffusionNAG [fig6]<br />《M-BEV: Masked BEV Perception for Robust Autonomous Driving》(AAAI 2024) GitHub: github.com/Sranc3/M-BEV<br />《Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance》(2024) GitHub: github.com/fudan-generative-vision/champ [fig1]<br />《LLM2LLM: Boosting LLMs with Novel Iterative Data Enhancement》(2024) GitHub: github.com/SqueezeAILab/LLM2LLM [fig2]<br />《PlaceNav: Topological Navigation through Place Recognition》(2024) GitHub: github.com/lasuomela/PlaceNav<br />《Objects With Lighting: A Real-World Dataset for Evaluating Reconstruction and Rendering for Object Relighting》(2024) GitHub: github.com/isl-org/objects-with-lighting<br />《RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition》(2024) GitHub: github.com/Liuziyu77/RAR [fig3]<br />《Neural Garment Dynamics via Manifold-Aware Transformers》(2024) GitHub: github.com/PeizhuoLi/manifold-aware-transformers<br />《PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model》(2024) GitHub: github.com/zamling/PSALM [fig5] <br />《Calib3D: Calibrating Model Preferences for Reliable 3D Scene Understanding》(2024) GitHub: github.com/ldkong1205/Calib3D<br />《Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting》(2024) GitHub: github.com/zhengzhang01/Pixel-GS<br />《LUCID: LLM-Generated Utterances for Complex and Interesting Dialogues》(2024) GitHub: github.com/apple/ml-lucid-datagen<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho4abzisurj25w13p6qv5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho4baefc75j21il0rydsw.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho4c4jtjkjj211q0o51kx.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4cdialr6j228k0zjdp0.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4cfbs7l9j227m15v1kx.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho4clt5s6uj2334140e0c.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 06:06:10 GMT</pubDate>
+<pubDate>Tue, 26 Mar 2024 06:06:10 GMT</pubDate>
+</item>
+<item>
+<title>【神经编程智能相关资源大列表】’Neural Code Intelligence Survey 2024; Reading lists and resources' GitHub: github.com/QiushiSun/NCISurvey #开源# #机器...</title>
+<link>https://weibo.com/1402400261/O6MP72Yu5</link>
+<guid>https://weibo.com/1402400261/O6MP72Yu5</guid>
+<content:encoded><![CDATA[
+<div> GitHub，神经编程智能，资源，大列表，调查，阅读列表，2024，编程智能，智能资源，神经网络
+
+<br><br>总结:
+该文章介绍了一个名为'Neural Code Intelligence Survey 2024; Reading lists and resources'的GitHub项目，旨在提供与神经编程智能相关的资源大列表。该项目汇总了各种阅读列表和资源，帮助研究人员和开发者了解神经编程智能领域的最新进展和相关资源。通过这个项目，人们可以更方便地获取相关文献和资料，促进神经编程智能领域的发展。 <div>
+【神经编程智能相关资源大列表】’Neural Code Intelligence Survey 2024; Reading lists and resources' GitHub: github.com/QiushiSun/NCISurvey <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho4d0m99f9j235s0p0wp9.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho4d0v502rj20tw0t2q7j.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 06:05:33 GMT</pubDate>
+<pubDate>Tue, 26 Mar 2024 06:05:33 GMT</pubDate>
+</item>
+<item>
+<title>【具身智能相关资源大列表】’Awesome-Embodied-AI' GitHub: github.com/yunlongdong/Awesome-Embodied-AI #开源# #机器学习# #人工智能# [图片]</title>
+<link>https://weibo.com/1402400261/O6MLs9Z8n</link>
+<guid>https://weibo.com/1402400261/O6MLs9Z8n</guid>
+<content:encoded><![CDATA[
+<div> GitHub、具身智能、资源、列表、 Awesome-Embodied-AI、代码库、云龙东、开放源代码、机器人、项目。
+
+<br><br>总结:
+Awesome-Embodied-AI是一个GitHub代码库，收集了与具身智能相关的资源，为开发机器人和其他具身智能项目提供了丰富的开放源代码资源。由云龙东创建，是一个非常有价值的资源列表。 <div>
+【具身智能相关资源大列表】’Awesome-Embodied-AI' GitHub: github.com/yunlongdong/Awesome-Embodied-AI <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho4cri39iij20w70u0q7g.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 05:56:33 GMT</pubDate>
+<pubDate>Tue, 26 Mar 2024 05:56:33 GMT</pubDate>
+</item>
+<item>
+<title>【Vid2Persona：用 AI 描述视频角色的性格，并作为角色与您聊天】'Vid2Persona - This project breathes life into video characters by using AI to describe t...</title>
+<link>https://weibo.com/1402400261/O6ML5kiCj</link>
+<guid>https://weibo.com/1402400261/O6ML5kiCj</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Vid2Persona, AI, 视频角色, 描述性格, 聊天 <br>
+<br>
+总结:<br>
+Vid2Persona是一个使用AI描述视频角色性格并与用户进行聊天的项目，通过GitHub可以了解更多相关信息。 <div>
+【Vid2Persona：用 AI 描述视频角色的性格，并作为角色与您聊天】'Vid2Persona - This project breathes life into video characters by using AI to describe their personality and then chat with you as them.' GitHub: github.com/deep-diver/Vid2Persona <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho4cqjcmbkj20u01mu113.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 05:55:39 GMT</pubDate>
+<pubDate>Tue, 26 Mar 2024 05:55:39 GMT</pubDate>
+</item>
+<item>
+<title>【The Pipe：一个多模态工具，用于将现实世界的信息输入大语言模型，基于多核设计，通过精心设计的启发式方法，从文件、文件夹、网页等来源创建有意义的文本和图...</title>
+<link>https://weibo.com/1402400261/O6MKv317f</link>
+<guid>https://weibo.com/1402400261/O6MKv317f</guid>
+<content:encoded><![CDATA[
+<div> GitHub, 多模态工具, 现实世界信息, 大语言模型, 多核设计, 启发式方法, 文件文件夹网页, 文本图像提示
+
+<br><br>总结:
+The Pipe是一个多模态工具，可以将现实世界的信息输入大语言模型。它采用多核设计和精心设计的启发式方法，可以从文件、文件夹、网页等来源创建有意义的文本和图像提示。用户可以通过GitHub找到The Pipe的开源代码，利用它来加强语言模型的学习和应用。 <div>
+【The Pipe：一个多模态工具，用于将现实世界的信息输入大语言模型，基于多核设计，通过精心设计的启发式方法，从文件、文件夹、网页等来源创建有意义的文本和图像提示】'The Pipe - Feed real-world data into large language models / 管道' GitHub: github.com/emcf/thepipe <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho4cp11869j20yp0u0n28.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 05:54:12 GMT</pubDate>
+<pubDate>Tue, 26 Mar 2024 05:54:12 GMT</pubDate>
+</item>
+<item>
+<title>【文生视频相关文献资源列表】’Awesome-Text-to-Video-Generation - A list for Text-to-Video, Image-to-Video works' GitHub: github.com/soraw-ai/Awesome-T...</title>
+<link>https://weibo.com/1402400261/O6MJMfNJG</link>
+<guid>https://weibo.com/1402400261/O6MJMfNJG</guid>
+<content:encoded><![CDATA[
+<div> GitHub、Awesome-Text-to-Video-Generation、文本到视频、图像到视频、资源列表、文献、soraw-ai、生成文本、生成视频、生成图像
+
+<br><br>总结:
+这是一个关于文本到视频和图像到视频生成的资源列表，收录了各种与这一主题相关的文献资料和项目。GitHub上的项目地址为github.com/soraw-ai/Awesome-Text-to-Video-Generation。该资源列表涵盖了生成文本到视频和图像到视频的各种作品和研究成果，是研究和开发这一领域的重要参考资料。通过这个资源列表，可以了解到当前在文本到视频和图像到视频生成方面的最新进展和成果。 <div>
+【文生视频相关文献资源列表】’Awesome-Text-to-Video-Generation - A list for Text-to-Video, Image-to-Video works' GitHub: github.com/soraw-ai/Awesome-Text-to-Video-Generation <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho4cn6zqyxj217t0u0qar.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 05:52:26 GMT</pubDate>
+<pubDate>Tue, 26 Mar 2024 05:52:26 GMT</pubDate>
+</item>
+<item>
+<title>【Prompt Quill：全球第一个基于RAG的提示工程助手，基于320万个可用提示库，目的是为了帮用户更好地创建用于生成图像的提示】’Welcome to Prompt Quill - worl...</title>
+<link>https://weibo.com/1402400261/O6MIvy3Ea</link>
+<guid>https://weibo.com/1402400261/O6MIvy3Ea</guid>
+<content:encoded><![CDATA[
+<div> RAG、提示工程助手、320万提示库、图像生成、GitHub、OSI1880VR、工具、创新、全球第一
+
+<br><br>总结:
+Prompt Quill是全球第一个基于RAG的提示工程助手，旨在帮助用户更好地创建用于生成图像的提示。它提供了一个庞大的提示库，包含320万个可用提示，用户可以在GitHub上找到该项目。此工具由OSI1880VR开发，标志着在提示领域的创新。 Prompt Quill的出现为图像生成领域带来了便利和效率。 <div>
+【Prompt Quill：全球第一个基于RAG的提示工程助手，基于320万个可用提示库，目的是为了帮用户更好地创建用于生成图像的提示】’Welcome to Prompt Quill - world's first RAG driven prompt engineer helper at this large scale‘ GitHub: github.com/osi1880vr/prompt_quill <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho4chy7dxmj20m80ciwhg.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho4cij6r6zj20vp0u0teb.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 05:49:17 GMT</pubDate>
+<pubDate>Tue, 26 Mar 2024 05:49:17 GMT</pubDate>
+</item>
+<item>
+<title>'FlowJax: Distributions and Normalizing Flows in Jax' GitHub: github.com/danielward27/flowjax #开源# #机器学习# #人工智能# [图片]</title>
+<link>https://weibo.com/1402400261/O6MFB1yZY</link>
+<guid>https://weibo.com/1402400261/O6MFB1yZY</guid>
+<content:encoded><![CDATA[
+<div> GitHub, FlowJax, Distributions, Normalizing Flows, Jax
+
+<br>FlowJax是一个在Jax中处理分布和正规化流的工具，作者是danielward27。他们在GitHub上发布了这个工具的源代码。FlowJax是一个用于处理分布和正规化流的工具，它使用Jax库来实现。Jax是一个针对机器学习的开源Python库，提供了自动微分和跨设备并行计算的功能。FlowJax的主要目的是使处理分布和正规化流的任务更加简单和高效。正规化流是一种用于近似复杂概率分布的技术，通过将简单分布映射到目标分布来实现。FlowJax可以帮助用户实现各种分布和正规化流模型，在Jax的基础上快速实现和测试新的方法。通过GitHub上的源代码，用户可以自行下载并使用FlowJax工具，进行更加高效的分布处理和正规化流建模。FlowJax的出现为在Jax中处理分布和正规化流任务的研究者和开发者提供了新的工具和资源，有助于推动这一领域的发展。总结: FlowJax是一个在Jax中处理分布和正规化流的工具，提供了简单和高效的方法来处理分布和正规化流模型，并为研究者和开发者提供了新的工具和资源。 <div>
+'FlowJax: Distributions and Normalizing Flows in Jax' GitHub: github.com/danielward27/flowjax <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho4ccdudddj20su0df77w.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 05:42:07 GMT</pubDate>
+<pubDate>Tue, 26 Mar 2024 05:42:07 GMT</pubDate>
+</item>
+<item>
+<title>【Sycamore：用于复杂非结构数据(文档、幻灯片、音频等)的开源项目，提供基于LLM的搜索和分析等服务】’ Sycamore is an LLM-powered search and analytics plat...</title>
+<link>https://weibo.com/1402400261/O6MEEpoLM</link>
+<guid>https://weibo.com/1402400261/O6MEEpoLM</guid>
+<content:encoded><![CDATA[
+<div> Sycamore, 开源项目, 复杂非结构数据, 文档, 幻灯片, 音频, LLN, 搜索, 分析, GitHub<br>
+<br>总结:
+Sycamore是一个基于LLN技术的开源搜索和分析平台，专门用于处理复杂非结构化数据，如文档、幻灯片和音频等。项目提供了强大的搜索和分析功能，适用于处理各种类型的非结构化数据。GitHub上有相关项目代码。 <div>
+【Sycamore：用于复杂非结构数据(文档、幻灯片、音频等)的开源项目，提供基于LLM的搜索和分析等服务】’ Sycamore is an LLM-powered search and analytics platform for unstructured data.' GitHub: github.com/aryn-ai/sycamore <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho4c9z4bznj21910u0gsh.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho4ca0kslpj21ra0u0n2u.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 05:39:48 GMT</pubDate>
+<pubDate>Tue, 26 Mar 2024 05:39:48 GMT</pubDate>
+</item>
+<item>
+<title>【A Survey of LLM Surveys：精心分类的LLM综述大列表】’A Survey of LLM Surveys - A collection of 150+ surveys on LLMs' GitHub: github.com/NiuTrans/ABig...</title>
+<link>https://weibo.com/1402400261/O6MDExdGc</link>
+<guid>https://weibo.com/1402400261/O6MDExdGc</guid>
+<content:encoded><![CDATA[
+<div> GitHub, LLM, surveys, collection, 150+, classifications, repository, NiuTrans, comprehensive, list
+
+<br><br>总结:
+这篇文章介绍了一个收集了150多份关于LLM（Large Language Model）的综述调查的GitHub仓库，其中详细分类整理了这些调查报告，提供了一个全面的列表。这个仓库由NiuTrans创建，为研究人员提供了一个有用的资源，帮助他们更好地了解和研究LLM。 <div>
+【A Survey of LLM Surveys：精心分类的LLM综述大列表】’A Survey of LLM Surveys - A collection of 150+ surveys on LLMs' GitHub: github.com/NiuTrans/ABigSurveyOfLLMs <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho4c7irs9nj20u00u5n10.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 26 Mar 2024 05:37:20 GMT</pubDate>
+<pubDate>Tue, 26 Mar 2024 05:37:20 GMT</pubDate>
+</item>
 
 <item>
 <title>【浓缩时间轴：AI简史】《A brief history of Artificial Intelligence》网页链接 #人工智能# [图片]</title>

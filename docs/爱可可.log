@@ -1661,3 +1661,39 @@ Existing_entries: 265
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-26 08:13:36.137463
+------------------------------------------------------
+Started: 2024-03-26 10:13:05.705461
+Existing_entries: 265
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1746
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Differentiable Euler Characteristic Transforms for Shape Classification》(ICLR 2024) GitHub: github.com/aidos-lab/DECT《Str2Str: A...](https://weibo.com/1402400261/O6MPm0zl4)
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [【神经编程智能相关资源大列表】’Neural Code Intelligence Survey 2024; Reading lists and resources' GitHub: github.com/QiushiSun/NCISurvey #开源# #机器...](https://weibo.com/1402400261/O6MP72Yu5)
+Token length: 89
+Summarized using GPT-3.5-turbo
+Append: [【具身智能相关资源大列表】’Awesome-Embodied-AI' GitHub: github.com/yunlongdong/Awesome-Embodied-AI #开源# #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O6MLs9Z8n)
+Token length: 222
+Summarized using GPT-3.5-turbo
+Append: [【Vid2Persona：用 AI 描述视频角色的性格，并作为角色与您聊天】'Vid2Persona - This project breathes life into video characters by using AI to describe t...](https://weibo.com/1402400261/O6ML5kiCj)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [【The Pipe：一个多模态工具，用于将现实世界的信息输入大语言模型，基于多核设计，通过精心设计的启发式方法，从文件、文件夹、网页等来源创建有意义的文本和图...](https://weibo.com/1402400261/O6MKv317f)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [【文生视频相关文献资源列表】’Awesome-Text-to-Video-Generation - A list for Text-to-Video, Image-to-Video works' GitHub: github.com/soraw-ai/Awesome-T...](https://weibo.com/1402400261/O6MJMfNJG)
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [【Prompt Quill：全球第一个基于RAG的提示工程助手，基于320万个可用提示库，目的是为了帮用户更好地创建用于生成图像的提示】’Welcome to Prompt Quill - worl...](https://weibo.com/1402400261/O6MIvy3Ea)
+Token length: 97
+Summarized using GPT-3.5-turbo
+Append: ['FlowJax: Distributions and Normalizing Flows in Jax' GitHub: github.com/danielward27/flowjax #开源# #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O6MFB1yZY)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [【Sycamore：用于复杂非结构数据(文档、幻灯片、音频等)的开源项目，提供基于LLM的搜索和分析等服务】’ Sycamore is an LLM-powered search and analytics plat...](https://weibo.com/1402400261/O6MEEpoLM)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [【A Survey of LLM Surveys：精心分类的LLM综述大列表】’A Survey of LLM Surveys - A collection of 150+ surveys on LLMs' GitHub: github.com/NiuTrans/ABig...](https://weibo.com/1402400261/O6MDExdGc)
+append_entries: 10
+Finish: 2024-03-26 10:13:51.994974
