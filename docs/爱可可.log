@@ -1865,3 +1865,13 @@ Existing_entries: 298
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-27 18:14:32.950206
+------------------------------------------------------
+Started: 2024-03-27 20:11:59.437586
+Existing_entries: 298
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O6ZI8rjCL)
+Token length: 20
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(3.27)》 爱可可微博热门分享(3.27) [图片]](https://weibo.com/1402400261/O6ZHV30UH)
+append_entries: 1
+Finish: 2024-03-27 20:12:06.677204
