@@ -4,6 +4,126 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>几篇论文实现代码：《Mastering Memory Tasks with World Models》(ICLR 2024) GitHub: github.com/chandar-lab/Recall2Imagine《Composed Video Retrieval via ...</title>
+<link>https://weibo.com/1402400261/O6WfYlh3o</link>
+<guid>https://weibo.com/1402400261/O6WfYlh3o</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Memory Tasks, World Models, Recall2Imagine, Video Retrieval, Logit Standardization, Knowledge Distillation, Vision-Language Models, Spec-Gaussian, AniPortrait, Data Mixing Laws
+
+总结:<br><br>本文介绍了几篇论文的实现代码，涵盖了多个领域包括记忆任务、视频检索、知识蒸馏、视觉-语言模型等。第一篇论文《Mastering Memory Tasks with World Models》通过实现代码Recall2Imagine来实现记忆任务。第二篇论文《Composed Video Retrieval via Enriched Context and Discriminative Embeddings》介绍了视频检索方法。第三篇论文《Logit Standardization in Knowledge Distillation》探讨了知识蒸馏中logit标准化的重要性。第四篇论文《Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models》提出了一种适用于视觉-语言模型的双重记忆网络方法。还有其他论文涉及3D高斯光滑、音频驱动的动态图像合成、数据混合规律、波谱图像处理等多个领域。这些论文的实现代码均可在GitHub上找到，为相关研究领域的学术研究者提供了重要的参考资源。 <div>
+几篇论文实现代码：<br />《Mastering Memory Tasks with World Models》(ICLR 2024) GitHub: github.com/chandar-lab/Recall2Imagine<br />《Composed Video Retrieval via Enriched Context and Discriminative Embeddings》(CVPR 2024) GitHub: github.com/OmkarThawakar/composed-video-retrieval<br />《Logit Standardization in Knowledge Distillation》(CVPR 2024) GitHub: github.com/sunshangquan/logit-standardization-KD<br />《Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models》(CVPR 2024) GitHub: github.com/YBZh/DMN [fig4]<br />《Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting》(2024) GitHub: github.com/ingra14m/Specular-Gaussians<br />《AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations》(2024) GitHub: github.com/Zejun-Yang/AniPortrait [fig1]<br />《Data Mixing Laws: Optimizing Data Mixtures by Predicting Language Modeling Performance》(2024) GitHub: github.com/yegcjs/mixinglaws<br />《RGBD GS-ICP SLAM》(2024) GitHub: github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM<br />《AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation》(2024) GitHub: github.com/c-yn/AdaIR [fig2]<br />《Sotopia-π: Interactive Learning of Socially Intelligent Language Agents》(2024) GitHub: github.com/sotopia-lab/sotopia-pi [fig3]<br />《Visual CoT: Unleashing Chain-of-Thought Reasoning in the Multi-Modal Language Model》(2024) GitHub: github.com/deepcs233/Visual-CoT [fig5]<br />《LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models》(2024) GitHub: github.com/42Shawn/LLaVA-PruMerge<br />《GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks》(2024) GitHub: github.com/alibaba/GraphTranslator [fig6]<br />《Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance》(2024) GitHub: github.com/fudan-generative-vision/champ<br />《Optimizing LiDAR Placements for Robust Driving Perception in Adverse Conditions》(2024) GitHub: github.com/ywyeli/Place3D<br />《TC4D: Trajectory-Conditioned Text-to-4D Generation》(2024) GitHub: github.com/sherwinbahmani/tc4d<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho5hr2enfbj214y0sddtp.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho5hu2pesmj20qi0hz7i3.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho5humfr3hj21jk1jkkh6.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho5ia4849cj20lb0fg46o.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho5iaui3hij21740gy430.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho5ihzzcdhj21h60tsgvg.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 06:06:28 GMT</pubDate>
+<pubDate>Wed, 27 Mar 2024 06:06:28 GMT</pubDate>
+</item>
+<item>
+<title>【Go-Redis：快速高效的内存型 Key-Value 存储，Redis的替代方案，用 Go 语言实现】'Go-Redis - Super fast drop-in replacement of the in memory key-value st...</title>
+<link>https://weibo.com/1402400261/O6WfRkdaQ</link>
+<guid>https://weibo.com/1402400261/O6WfRkdaQ</guid>
+<content:encoded><![CDATA[
+<div> Go-Redis、快速、高效、内存型、Key-Value、存储、替代方案、Go语言实现、GitHub、Dhravya
+
+<br><br>总结:
+Go-Redis是一个快速高效的内存型Key-Value存储，是Redis的替代方案，用Go语言实现。该项目托管在GitHub上，由Dhravya开发。Go-Redis是一个极具竞争力的项目，旨在提供与Redis相当甚至更快的性能。由于使用了Go语言实现，Go-Redis具有高效的并发处理能力和优秀的执行性能。通过使用Go-Redis，用户可以获得比传统的Redis更快的操作速度，这使得它成为许多项目的理想选择。如果您正在寻找一个快速、高效且易于集成的Key-Value存储解决方案，Go-Redis可能是您的不二之选。 <div>
+【Go-Redis：快速高效的内存型 Key-Value 存储，Redis的替代方案，用 Go 语言实现】'Go-Redis - Super fast drop-in replacement of the in memory key-value store Redis, made in Golang' GitHub: github.com/Dhravya/go-redis <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Redis%23"><span class="surl-text">#Redis#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho5inu9wf5j212f0u0q5w.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 06:06:11 GMT</pubDate>
+<pubDate>Wed, 27 Mar 2024 06:06:11 GMT</pubDate>
+</item>
+<item>
+<title>【C-Shopping：基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台】'C-Shopping v1.0.0 - A beautiful shopping platform developed with Ne...</title>
+<link>https://weibo.com/1402400261/O6WamwqdU</link>
+<guid>https://weibo.com/1402400261/O6WamwqdU</guid>
+<content:encoded><![CDATA[
+<div> Next.js, Desktop, Tablet, Phone, 购物平台, 适配, GitHub, 开发, 设备, 精美
+
+<br><br>总结:
+"C-Shopping v1.0.0"是一个基于Next.js开发的购物平台，可以适配多种设备，包括Desktop、Tablet和Phone。这个平台具有精美的界面设计，开发者已经将代码上传到GitHub上。希望通过这个平台提供更好的用户体验，满足不同设备的需求。 <div>
+【C-Shopping：基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台】'C-Shopping v1.0.0 - A beautiful shopping platform developed with Next.js, tailored for various devices including Desktop, Tablet, and Phone. ' GitHub: github.com/huanghanzhilian/c-shopping <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho5i9ndpbej20dw07x0up.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho5i9o9wgyj20rs0fq0ub.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho5i9qf5elj20rs0fqdh6.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 05:52:39 GMT</pubDate>
+<pubDate>Wed, 27 Mar 2024 05:52:39 GMT</pubDate>
+</item>
+<item>
+<title>【Flatito:用于搜索 YAML 和 JSON 文件的Grep工具，它可以帮助搜索文件中特定的关键字并获取相关信息】'Flatito: Grep for YAML and JSON files - Grep for YAML...</title>
+<link>https://weibo.com/1402400261/O6W9hxmvS</link>
+<guid>https://weibo.com/1402400261/O6W9hxmvS</guid>
+<content:encoded><![CDATA[
+<div> GitHub，Flatito，Grep，YAML，JSON，搜索工具，关键字，获取信息，ceritium，文件<br><br>总结:
+文章介绍了一款名为Flatito的工具，在GitHub上开源，用于搜索YAML和JSON文件中特定关键字的Grep工具。用户可以通过使用Flatito，搜索文件中的关键字，并获取相关信息。Flatito为程序员提供了便利，使他们能够快速准确地定位文件中的信息，提高工作效率。Flatito由ceritium开发，为用户提供了一个方便的工具，帮助他们更好地管理和处理YAML和JSON文件。 <div>
+【Flatito:用于搜索 YAML 和 JSON 文件的Grep工具，它可以帮助搜索文件中特定的关键字并获取相关信息】'Flatito: Grep for YAML and JSON files - Grep for YAML and JSON files' GitHub: github.com/ceritium/flatito <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho5i6zke6sj20ui0u0dlc.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 05:49:59 GMT</pubDate>
+<pubDate>Wed, 27 Mar 2024 05:49:59 GMT</pubDate>
+</item>
+<item>
+<title>【LLM-Culture：用于研究大型语言模型文化演化的开源框架】'LLM-Culture' GitHub: github.com/jeremyperez2/LLM-Culture #开源# #机器学习# #人工智能# [图片][...</title>
+<link>https://weibo.com/1402400261/O6W8b6Y2a</link>
+<guid>https://weibo.com/1402400261/O6W8b6Y2a</guid>
+<content:encoded><![CDATA[
+<div> GitHub, LLM-Culture, 研究, 大型语言模型, 文化演化, 开源框架
+
+<br><br>总结:
+LLM-Culture是一个用于研究大型语言模型文化演化的开源框架。该项目存储在GitHub上，旨在探讨和分析语言模型在不同文化背景下的发展和变化。通过这个框架，研究人员可以对大型语言模型的文化演化有更深入的理解，并且可以进行进一步的研究和探索。希望这个工具能够为语言模型研究领域带来更多的启发和成果。 <div>
+【LLM-Culture：用于研究大型语言模型文化演化的开源框架】'LLM-Culture' GitHub: github.com/jeremyperez2/LLM-Culture <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho5i41xnnmj22rl0u0wo9.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho5i43nxr3j21c00u0wh6.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho5i456uhyj22n90u0wog.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 05:47:16 GMT</pubDate>
+<pubDate>Wed, 27 Mar 2024 05:47:16 GMT</pubDate>
+</item>
+<item>
+<title>【WhatTheDuck：用于 DuckDB 的开源 web 应用，用户能将 CSV 文件上传并将其存储在表格中，并通过 SQL 进行查询】'WhatTheDuck - an open-source web applicatio...</title>
+<link>https://weibo.com/1402400261/O6W7maOoB</link>
+<guid>https://weibo.com/1402400261/O6W7maOoB</guid>
+<content:encoded><![CDATA[
+<div> DuckDB, 开源, web 应用, CSV 文件, 存储, 表格, SQL 查询, GitHub, incentius-foss, WhatTheDuck
+
+<br><br>总结:
+WhatTheDuck是一个基于DuckDB的开源web应用，允许用户上传CSV文件并将其存储在表格中，然后通过SQL查询数据。用户可以在GitHub上找到该项目的代码，链接为github.com/incentius-foss/WhatTheDuck。通过WhatTheDuck，用户可以方便地管理CSV数据并进行SQL查询操作，为数据分析和处理提供了便利和效率。 <div>
+【WhatTheDuck：用于 DuckDB 的开源 web 应用，用户能将 CSV 文件上传并将其存储在表格中，并通过 SQL 进行查询】'WhatTheDuck - an open-source web application built on DuckDB. It allows users to upload CSV files, store them in tables, and perform SQL queries on the data.' GitHub: github.com/incentius-foss/WhatTheDuck <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%95%B0%E6%8D%AE%E5%BA%93%23&amp;isnewpage=1"><span class="surl-text">#数据库#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho5i21ftj3j21im0pkgqe.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 05:45:14 GMT</pubDate>
+<pubDate>Wed, 27 Mar 2024 05:45:14 GMT</pubDate>
+</item>
+<item>
+<title>【BinaryVectorDB：用于高效搜索大规模向量数据库的开源项目】'BinaryVectorDB - Efficient Search on Large Datasets - Efficient vector database for hundred...</title>
+<link>https://weibo.com/1402400261/O6W2NnyJQ</link>
+<guid>https://weibo.com/1402400261/O6W2NnyJQ</guid>
+<content:encoded><![CDATA[
+<div> 向量数据库、高效搜索、大规模、开源项目、GitHub、BinaryVectorDB、向量、检索、百万级、嵌入<br>
+<br>
+BinaryVectorDB是一个开源项目，旨在提供高效搜索大规模向量数据库的解决方案。该项目在GitHub上托管，为用户提供了一个能够处理数亿个嵌入的有效向量数据库。通过BinaryVectorDB，用户可以快速检索和比对向量数据，实现快速而准确的搜索结果。这个项目的出现，为处理海量向量数据提供了便捷和高效的工具，为用户提供了更好的数据处理和资源利用方式。<br><br>总结: <br>BinaryVectorDB是一个开源项目，旨在提供高效搜索大规模向量数据库的解决方案。该项目在GitHub上托管，为用户提供了一个能够处理数亿个嵌入的有效向量数据库。通过BinaryVectorDB，用户可以快速检索和比对向量数据，实现快速而准确的搜索结果。这个项目的出现，为处理海量向量数据提供了便捷和高效的工具，为用户提供了更好的数据处理和资源利用方式。 <div>
+【BinaryVectorDB：用于高效搜索大规模向量数据库的开源项目】'BinaryVectorDB - Efficient Search on Large Datasets - Efficient vector database for hundred millions of embeddings.' GitHub: github.com/cohere-ai/BinaryVectorDB <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho5hpriibpj21250u0zpc.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 05:34:00 GMT</pubDate>
+<pubDate>Wed, 27 Mar 2024 05:34:00 GMT</pubDate>
+</item>
+<item>
+<title>【Freeze：代码和终端输出的截图生成】’Freeze - Generate images of code and terminal output' GitHub: github.com/charmbracelet/freeze #开源# #工具# [图...</title>
+<link>https://weibo.com/1402400261/O6W1ObpF9</link>
+<guid>https://weibo.com/1402400261/O6W1ObpF9</guid>
+<content:encoded><![CDATA[
+<div> GitHub、Freeze、代码、终端输出、生成、图片、charmbracelet、截图、工具、开发者<br>
+<br>
+重点介绍了一个名为Freeze的工具，可以帮助开发者生成代码和终端输出的截图。该工具由charmbracelet团队开发，通过GitHub进行了开源。Freeze可以将代码和终端输出转化为图片形式，方便开发者进行分享和展示。开发者可以通过Freeze轻松地生成漂亮的截图，提高展示代码和输出结果的效果和效率。 <div>
+【Freeze：代码和终端输出的截图生成】’Freeze - Generate images of code and terminal output' GitHub: github.com/charmbracelet/freeze <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%B7%A5%E5%85%B7%23&amp;isnewpage=1"><span class="surl-text">#工具#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho5hnigrrkj20ul0u076u.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 05:31:34 GMT</pubDate>
+<pubDate>Wed, 27 Mar 2024 05:31:34 GMT</pubDate>
+</item>
+<item>
+<title>【Hybrid-Net：基于 Transformer 的音源分离工具，可生成歌词、旋律、节奏等】'Hybrid-Net - Real-time audio source separation, generate lyrics, chords, bea...</title>
+<link>https://weibo.com/1402400261/O6W11h8la</link>
+<guid>https://weibo.com/1402400261/O6W11h8la</guid>
+<content:encoded><![CDATA[
+<div> Transformer、音源分离、歌词、旋律、节奏、实时、生成、Hybrid-Net、GitHub、工具
+
+Hybrid-Net 是一个基于 Transformer 技术的音源分离工具，能够实时分离音频源，并生成歌词、旋律和节奏。用户可以在GitHub上找到Hybrid-Net的源代码。这个工具利用了先进的深度学习技术，为音乐制作人和音乐爱好者提供了一种方便且高效的音源分离工具，使他们能够更好地编辑和制作音乐作品。Hybrid-Net的实时性和生成多种音乐元素的能力使其在音乐创作和制作领域具有很大的应用潜力。Hybrid-Net为音乐创作提供了更多可能性，让用户更容易地创作出优质的音乐作品。 <div>
+【Hybrid-Net：基于 Transformer 的音源分离工具，可生成歌词、旋律、节奏等】'Hybrid-Net - Real-time audio source separation, generate lyrics, chords, beat.' GitHub: github.com/DoMusic/Hybrid-Net <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho5hlmtar0j21400h6tat.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 27 Mar 2024 05:29:38 GMT</pubDate>
+<pubDate>Wed, 27 Mar 2024 05:29:38 GMT</pubDate>
+</item>
 
 <item>
 <title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评...</title>

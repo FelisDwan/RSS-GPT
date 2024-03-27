@@ -1796,3 +1796,36 @@ Existing_entries: 287
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-27 06:14:19.343472
+------------------------------------------------------
+Started: 2024-03-27 08:14:58.782036
+Existing_entries: 287
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1989
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Mastering Memory Tasks with World Models》(ICLR 2024) GitHub: github.com/chandar-lab/Recall2Imagine《Composed Video Retrieval via ...](https://weibo.com/1402400261/O6WfYlh3o)
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [【Go-Redis：快速高效的内存型 Key-Value 存储，Redis的替代方案，用 Go 语言实现】'Go-Redis - Super fast drop-in replacement of the in memory key-value st...](https://weibo.com/1402400261/O6WfRkdaQ)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [【C-Shopping：基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台】'C-Shopping v1.0.0 - A beautiful shopping platform developed with Ne...](https://weibo.com/1402400261/O6WamwqdU)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [【Flatito:用于搜索 YAML 和 JSON 文件的Grep工具，它可以帮助搜索文件中特定的关键字并获取相关信息】'Flatito: Grep for YAML and JSON files - Grep for YAML...](https://weibo.com/1402400261/O6W9hxmvS)
+Token length: 94
+Summarized using GPT-3.5-turbo
+Append: [【LLM-Culture：用于研究大型语言模型文化演化的开源框架】'LLM-Culture' GitHub: github.com/jeremyperez2/LLM-Culture #开源# #机器学习# #人工智能# [图片][...](https://weibo.com/1402400261/O6W8b6Y2a)
+Token length: 277
+Summarized using GPT-3.5-turbo
+Append: [【WhatTheDuck：用于 DuckDB 的开源 web 应用，用户能将 CSV 文件上传并将其存储在表格中，并通过 SQL 进行查询】'WhatTheDuck - an open-source web applicatio...](https://weibo.com/1402400261/O6W7maOoB)
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [【BinaryVectorDB：用于高效搜索大规模向量数据库的开源项目】'BinaryVectorDB - Efficient Search on Large Datasets - Efficient vector database for hundred...](https://weibo.com/1402400261/O6W2NnyJQ)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [【Freeze：代码和终端输出的截图生成】’Freeze - Generate images of code and terminal output' GitHub: github.com/charmbracelet/freeze #开源# #工具# [图...](https://weibo.com/1402400261/O6W1ObpF9)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [【Hybrid-Net：基于 Transformer 的音源分离工具，可生成歌词、旋律、节奏等】'Hybrid-Net - Real-time audio source separation, generate lyrics, chords, bea...](https://weibo.com/1402400261/O6W11h8la)
+append_entries: 9
+Finish: 2024-03-27 08:15:52.516603
