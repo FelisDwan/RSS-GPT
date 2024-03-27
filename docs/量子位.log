@@ -1261,3 +1261,15 @@ Existing_entries: 141
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-27 02:17:14.340683
+------------------------------------------------------
+Started: 2024-03-27 04:14:47.034241
+Existing_entries: 141
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [#机器狗捡东西# 一位网友分享了机器狗在家帮忙整理儿童玩具的视频，他表示“终于可以不用管这个烂摊子了”[doge]。这个机器狗采用的是一种视觉全身控制（VBC）框...](https://weibo.com/6105753431/O6UFmc1e3)
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [#苹果用户遭网络攻击# 警惕！近期有苹果用户遭遇复杂的钓鱼网络攻击，称为 “MFA轰炸”。攻击者利用苹果密码重置功能漏洞，强制设备显示大量系统提示，这些不断...](https://weibo.com/6105753431/O6Uq5l0Q2)
+append_entries: 2
+Finish: 2024-03-27 04:14:54.731047
