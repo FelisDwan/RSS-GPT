@@ -4,6 +4,7 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+
 <item>
 <title>推荐 GitHub 上一款可助你轻松创作高质量文章的 AI 工具 Claude-Journalist。该工具借助了 Claude 3，只需输入一个主题，它便会通过网络搜索收集相关信息，并帮...</title>
 <link>https://weibo.com/5722964389/O6TRedZob</link>
@@ -11,13 +12,11 @@
 <content:encoded><![CDATA[
 <div> GitHub、AI工具、Claude-Journalist、创作、高质量文章、Claude 3、主题、网络搜索、文章撰写、编辑
 
-工具Claude-Journalist借助了Claude 3，可帮助用户轻松创作高质量文章。用户只需输入一个主题，工具便通过网络搜索收集相关信息，进行文章撰写和编辑。工作流程包括：用户输入主题，生成搜索关键词，进行网络搜索，挑选最贴切的链接，提取文章内容，撰写文章，审阅并提出改进建议，重写文章，展示初稿和编辑后的文章。<br><br>总结:GitHub上推荐了一款AI工具Claude-Journalist，可助用户创作高质量文章。通过Claude 3，用户输入主题后，工具自动生成搜索关键词并进行网络搜索，提取相关信息撰写文章。工具还提供编辑服务，审阅文章并提出改进建议，最终展示文章初稿和编辑后的内容。Claude-Journalist能够帮助用户提升写作效率，创作优质的文章。 <div>
+工具Claude-Journalist借助了Claude 3，可帮助用户轻松创作高质量文章。用户只需输入一个主题，工具便通过网络搜索收集相关信息，进行文章撰写和编辑。工作流程包括：用户输入主题，生成搜索关键词，进行网络搜索，挑选最贴切的链接，提取文章内容，撰写文章，审阅并提出改进建议，重写文章，展示初稿和编辑后的文章。<br /><br />总结:GitHub上推荐了一款AI工具Claude-Journalist，可助用户创作高质量文章。通过Claude 3，用户输入主题后，工具自动生成搜索关键词并进行网络搜索，提取相关信息撰写文章。工具还提供编辑服务，审阅文章并提出改进建议，最终展示文章初稿和编辑后的内容。Claude-Journalist能够帮助用户提升写作效率，创作优质的文章。 <div>
 推荐 GitHub 上一款可助你轻松创作高质量文章的 AI 工具 Claude-Journalist。<br /><br />该工具借助了 Claude 3，只需输入一个主题，它便会通过网络搜索收集相关信息，并帮你进行撰写和编辑高质量的文章。<br /><br />你可以在 Colab 笔记上运行它开源的 .ipynb 文件，也可以在其自家平台上使用。<br /><br />GitHub：github.com/mshumer/ai-journalist<br /><br />简单说下它的工作流程：<br /><br />1. 用户输入一个写作主题；<br />2. 利用 Claude 3 Haiku 为该主题生成一系列搜索关键词；<br />3. 通过 SERP API 对这些关键词进行网络搜索；<br />4. Claude 将从搜索结果中挑选出最贴切、信息量最丰富的网页链接；<br />5. 利用 newspaper3k 库提取这些链接的文章内容；<br />6. Claude 基于这些内容撰写一篇高品质文章；<br />7. Claude 还将作为编辑，审阅文章并提出改进建议；<br />8. 根据这些建议，Claude 将文章重写；<br />9. 最后展示出初稿和经过编辑的文章。 <a href="https://video.weibo.com/show?fid=1034:5016327048593450"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">GitHubDaily的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax1.sinaimg.cn/orj480/006fiYtfgy1ho4ublkoahj31gs0u0jsx.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/u0/s5hlYv0Jgx08dB2iNHTW010412006Zxr0E010.mp4?label=mp4_720p&amp;template=1264x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711513467&amp;ssig=ifLJmyklPO&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/u0/rO0xxKmHgx08dB2iDxMY0104120045vX0E010.mp4?label=mp4_hd&amp;template=844x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711513467&amp;ssig=7NBXzK1bFK&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/u0/15GEIm8Lgx08dB2iwQis010412002AAu0E010.mp4?label=mp4_ld&amp;template=632x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711513467&amp;ssig=4GPnNEKWHH&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5016327048593450" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
 <pubDate>Wed, 27 Mar 2024 00:00:01 GMT</pubDate>
-<pubDate>Wed, 27 Mar 2024 00:00:01 GMT</pubDate>
 </item>
-
 <item>
 <title>推荐 GitHub 上一个专为 macOS 设计的提醒菜单栏小工具 Reminders MenuBar。该工具可以理解为 macOS 上提醒事项的第三方客户端，让你能够直接在菜单栏上轻松管理...</title>
 <link>https://weibo.com/5722964389/O6PxlkEKx</link>

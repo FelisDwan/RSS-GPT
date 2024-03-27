@@ -1273,3 +1273,18 @@ Summarized using GPT-3.5-turbo
 Append: [#苹果用户遭网络攻击# 警惕！近期有苹果用户遭遇复杂的钓鱼网络攻击，称为 “MFA轰炸”。攻击者利用苹果密码重置功能漏洞，强制设备显示大量系统提示，这些不断...](https://weibo.com/6105753431/O6Uq5l0Q2)
 append_entries: 2
 Finish: 2024-03-27 04:14:54.731047
+------------------------------------------------------
+Started: 2024-03-27 06:14:04.504807
+Existing_entries: 143
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [#DALLE3支持图像再编辑# DALL-E 3 迎来功能更新，它将支持对生成后的图像再编辑。具体是指用户可以涂抹想要更改的区域，然后在编辑框内以聊天的形式输入想要生成...](https://weibo.com/6105753431/O6VI7aONZ)
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [#用苹果VisionPro看世界# 国外有网友分享了自己用 Apple Vision Pro 沉浸式探索老家巴西的体验。他还去了接下来即将旅游的城市以提前打探消息，顺便游览了一些遗...](https://weibo.com/6105753431/O6VgGjCbp)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [#数字人占领短视频广告# 要不是经网友提醒，我都没发现这些带货视频全是 AI 制作的[doge]。这款AI是#Arcads#，能在几分钟内将文本转换为一个逼真且带有故事性的...](https://weibo.com/6105753431/O6VghE9JT)
+append_entries: 3
+Finish: 2024-03-27 06:14:18.822551

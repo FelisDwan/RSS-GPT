@@ -959,3 +959,9 @@ Summarized using GPT-3.5-turbo
 Append: [推荐 GitHub 上一款可助你轻松创作高质量文章的 AI 工具 Claude-Journalist。该工具借助了 Claude 3，只需输入一个主题，它便会通过网络搜索收集相关信息，并帮...](https://weibo.com/5722964389/O6TRedZob)
 append_entries: 1
 Finish: 2024-03-27 04:15:02.766685
+------------------------------------------------------
+Started: 2024-03-27 06:14:19.372348
+Existing_entries: 29
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-03-27 06:14:19.514255
