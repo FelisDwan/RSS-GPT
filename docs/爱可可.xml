@@ -4,17 +4,17 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【Redis架构演进之路】就像罗马不是一天建成的，Redis的架构也是随着时间的推移而不断进化的。 - Redis最初于2010年发布1.0版本，那时的架构非常简单，主要用作...</title>
 <link>https://weibo.com/1402400261/O6YFu0ZOC</link>
 <guid>https://weibo.com/1402400261/O6YFu0ZOC</guid>
 <content:encoded><![CDATA[
 <div> Redis、架构、演进、内存、持久化、故障转移、监控、集群、数据结构、多线程IO
-<br><br>总结:
+<br /><br />总结:
 Redis架构从简单的缓存应用不断演进，2013年的2.8版本引入了持久化和复制功能，提高了可用性。2015年的3.0版本推出集群功能，通过数据分片管理数据。2017年的5.0版本新增了Stream数据类型，2020年的6.0版本引入了多线程IO处理，进一步提升了性能。Redis的架构演进之路充满智慧和汗水，体现了业界对高性能、高可用数据存储的追求。Redis不断成长为强大的内存数据库，为业务应用开发带来便利和高效。Redis的发展历程，展示了持续创新和不断进化的精神。Redis架构模型的优化和技术的不断引入，为用户提供更稳定、更高效的数据服务。Redis的成功也启示着业界追求卓越的态度，值得持续关注和学习。 <div>
 【Redis架构演进之路】<br />就像罗马不是一天建成的，Redis的架构也是随着时间的推移而不断进化的。   <br />- Redis最初于2010年发布1.0版本，那时的架构非常简单，主要用作业务应用的缓存。但由于Redis是将数据存储在内存中，一旦重启，所有数据就会丢失，流量会直接冲击数据库。   <br />- 到了2013年，Redis 2.8版本解决了这个问题。它引入了RDB内存快照来持久化数据，同时还支持AOF(Append-Only-File)方式，将每个写命令都写入AOF文件。此外，Redis 2.8还增加了复制功能来提高可用性。主节点处理实时的读写请求，从节点则同步主节点的数据。   <br />- 为了实时监控Redis实例，Redis 2.8推出了Sentinel(哨兵)。它承担四大任务：监控、通知、自动故障转移和配置提供者。可以说，Sentinel为Redis保驾护航，时刻守护着Redis的可用性。   <br />- Redis的下一个里程碑是2015年发布的3.0版本，该版本增加了Redis集群功能。Redis集群是一种分布式数据库解决方案，通过数据分片来管理数据。整个数据被分为16384个槽位，每个节点负责一部分槽位。这就好比将一个大蛋糕切成16384份，分给不同的人去管理。   <br />- Redis之所以备受欢迎，是因为其高性能和丰富的数据结构，大大降低了开发业务应用的复杂度。2017年发布的Redis 5.0新增了Stream数据类型。2020年发布的Redis 6.0则引入了多线程IO处理，进一步提升了性能。Redis的架构模型被划分为网络模块和主处理模块，开发者发现网络模块往往会成为系统的瓶颈。而多线程IO的引入，则解决了这个潜在的问题。   <br />Redis的架构演进之路，充满了智慧和汗水。从最初简单的缓存应用，到集群分片、多线程IO，Redis一步步成长为今天这个强大的内存数据库。它的发展历程，也映射出了业界对高性能、高可用数据存储的追求。<img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho5tas9ihej20u01k9qbj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho5tbbdmc6j20te10otfe.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 12:14:48 GMT</pubDate>
 <pubDate>Wed, 27 Mar 2024 12:14:48 GMT</pubDate>
 </item>
 <item>
@@ -24,14 +24,12 @@ Redis架构从简单的缓存应用不断演进，2013年的2.8版本引入了�
 <content:encoded><![CDATA[
 <div> Latent Diffusion、Transformer、视频质量、计算量、用户界面、训练计算量、应用渗透度、真实世界模拟、合成数据、机器学习技术
 
-总结:<br><br>
+总结:<br /><br />
 Sora是基于Latent Diffusion和Transformer的扩散模型，提升了视频质量和一致性。数据量和计算量的扩大是改进视频生成模型的关键，计算量增加将带来性能提升。Runway等公司正在研发Sora用户界面，对实用性至关重要。训练计算量巨大，推理计算将大于训练。Sora学会了模拟真实世界，可用于合成数据和数据增强。Sora代表了视频生成模型向更高质量发展里程碑，展示了先进机器学习技术潜力。训练数据对性能至关重要，Sora可能借助大型视频数据集。AI生成视频技术的快速发展将影响多个行业，未来电影制作可能由AI完成。视频生成模型发展将增大对算力尤其GPU的需求，Sora为未来GPU需求预测提供重要参考。 <div>
 【Sora运行揭秘】<br />- Sora是基于Latent Diffusion和Transformer的扩散模型，相比早期的图像生成模型显著提升了视频质量和一致性。   <br />- 数据量和计算量的扩大是改进视频生成模型的关键，与大语言模型类似，可以预期计算量持续增加会带来模型性能的快速提升。   <br />- Runway等公司正在研发Sora等模型的用户界面和工作流程，这对其实用性至关重要。   <br />- Sora的训练计算量巨大，据估计需要4200-10500块H100 GPU计算一个月。但推理计算要大于训练计算，“收支平衡点”在生成1530-3810万分钟视频后。   <br />- 如果Sora类模型在TikTok和Youtube等平台达到较高应用渗透度，预计峰值需求将达到约72万个H100 GPU。   <br />- Sora隐含地学会了模拟真实世界，这对于在像素空间大规模训练机器人等具身智能体非常有用。   <br />- Sora类模型也可用于生成合成数据和数据增强，为缺乏数据的领域提供帮助。<br /><br />思考：  <br />- Sora代表了视频生成模型向更大规模、更高质量方向发展的重要里程碑。  <br />- Sora采用了多种先进的机器学习技术，包括扩散模型、潜在空间建模和Transformer架构，展示了这些技术在视频生成领域的巨大潜力。  <br />- 大规模高质量的训练数据对于视频生成模型的性能至关重要。Sora很可能得益于一个前所未有的大型视频数据集。  <br />- Sora的出现预示着AI生成视频技术的快速发展，将对电影、广告等多个行业产生深远影响。未来，AI有可能生成完整的电影，彻底改变视频内容的制作方式。  <br />- 随着视频生成模型的不断发展，对算力尤其是GPU的需求也将大幅增长。Sora为业界对未来GPU需求的预测提供了重要参考。<br />《Factorial Funds | Under The Hood: How OpenAI's Sora Model Works》 <a href="https://www.factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho5sx94j2qj20tu0grjup.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 27 Mar 2024 12:01:28 GMT</pubDate>
-<pubDate>Wed, 27 Mar 2024 12:01:28 GMT</pubDate>
 </item>
-
 <item>
 <title>几篇论文实现代码：《Mastering Memory Tasks with World Models》(ICLR 2024) GitHub: github.com/chandar-lab/Recall2Imagine《Composed Video Retrieval via ...</title>
 <link>https://weibo.com/1402400261/O6WfYlh3o</link>
