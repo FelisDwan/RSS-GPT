@@ -1336,3 +1336,9 @@ Summarized using GPT-3.5-turbo
 Append: [【#阿里AI让照片里的人做任何动作#】阿里发布新视频AI Champ，只要一张照片，就能让画面里的人做任何动作，网友：人类博主真要被取代了！ 量子位的微博视频](https://weibo.com/6105753431/O6XFNnaPb)
 append_entries: 3
 Finish: 2024-03-27 12:20:34.110570
+------------------------------------------------------
+Started: 2024-03-27 14:11:05.282899
+Existing_entries: 156
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-03-27 14:11:05.403764
