@@ -1742,3 +1742,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O6QjuFToC)
 append_entries: 0
 Finish: 2024-03-26 22:10:45.581003
+------------------------------------------------------
+Started: 2024-03-27 00:49:21.214904
+Existing_entries: 277
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 252
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评...](https://weibo.com/1402400261/O6TbSFiLr)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@图灵文化 @图灵新知 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发...](https://weibo.com/1402400261/O6TbNCOp0)
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1357期)：LLM Agent操作系统、从损失角度理解语言模型的涌现能力、用概率流推进扩散语言生成、基于大语言模型状态奖励和动作建模的强化学习推荐系统...](https://weibo.com/1402400261/O6TbDB7R4)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [[CV] Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections 网页链接 GS-W通过为每个高斯点建立独立、可自适应采样的内在与动态外...](https://weibo.com/1402400261/O6T8nkhR8)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [[CV] CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field 网页链接 提出CG-SLAM系统，通过高斯Splatting技术实现高效精...](https://weibo.com/1402400261/O6T3Ogxsv)
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [[CV] latentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction 网页链接 提出变分3D高斯表示以及从两个视角进行预测和新视...](https://weibo.com/1402400261/O6SYutbHt)
+Token length: 274
+Summarized using GPT-3.5-turbo
+Append: [提出一个双分支框架，通过3D高斯Splatting渲染和符号距离场表面重建的有效结合，实现了渲染质量和重建细节的同时改进。 - 转发 @爱可可-爱生活:&ensp;[CV]《GSDF...](https://weibo.com/1402400261/O6SU0i26G)
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [[CV]《GSDF: 3DGS Meets SDF for Improved Rendering and Reconstruction》M Yu, T Lu, L Xu, L Jiang, Y Xiangli, B Dai [Shanghai Artificial Intelligence La...](https://weibo.com/1402400261/O6STSyJ3k)
+Token length: 305
+Summarized using GPT-3.5-turbo
+Append: [提出使用大型语言模型作为强化学习推荐系统的环境，提供更精确的状态表达和反馈奖励，同时增强正样本，在多个数据集上持续改进性能。 - 转发 @爱可可-爱生活:&en...](https://weibo.com/1402400261/O6SMp8nBP)
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: [[IR]《Reinforcement Learning-based Recommender Systems with Large Language Models for State Reward and Action Modeling》J Wang, A Karatzoglou, I Arapa...](https://weibo.com/1402400261/O6SMlykck)
+append_entries: 10
+Finish: 2024-03-27 00:50:11.888525
