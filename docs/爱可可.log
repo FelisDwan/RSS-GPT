@@ -1847,3 +1847,15 @@ Existing_entries: 296
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-27 14:11:05.814575
+------------------------------------------------------
+Started: 2024-03-27 16:14:48.649184
+Existing_entries: 296
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 823
+Summarized using GPT-3.5-turbo
+Append: [【Redis架构演进之路】就像罗马不是一天建成的，Redis的架构也是随着时间的推移而不断进化的。 - Redis最初于2010年发布1.0版本，那时的架构非常简单，主要用作...](https://weibo.com/1402400261/O6YFu0ZOC)
+Token length: 804
+Summarized using GPT-3.5-turbo
+Append: [【Sora运行揭秘】- Sora是基于Latent Diffusion和Transformer的扩散模型，相比早期的图像生成模型显著提升了视频质量和一致性。 - 数据量和计算量的扩大是改进视...](https://weibo.com/1402400261/O6YA4eBGV)
+append_entries: 2
+Finish: 2024-03-27 16:15:07.433645
