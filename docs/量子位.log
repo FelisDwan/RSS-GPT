@@ -1396,3 +1396,22 @@ Summarized using GPT-3.5-turbo
 Append: [#通义大模型落地手机芯片# 3月28日，阿里云与知名半导体公司MediaTek联合宣布，通义千问18亿、40亿参数大模型已成功部署进天玑9300移动平台，可离线流畅运行即时...](https://weibo.com/6105753431/O7415owgr)
 append_entries: 3
 Finish: 2024-03-28 04:12:52.524237
+------------------------------------------------------
+Started: 2024-03-28 06:14:14.239430
+Existing_entries: 160
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 44
+Summarized using GPT-3.5-turbo
+Append: [#ChatGPT新功能# 针对生成的结果可以重新选择用GPT 4或者GPT 3.5 重新生成可以自由切换模型 量子位的微博视频](https://weibo.com/6105753431/O75iQqXZK)
+Token length: 471
+Summarized using GPT-3.5-turbo
+Append: [#钉钉AI全面升级#：好险，差点就被长文本卷到好家伙，现在随便打开一个大模型应用，支持的文本都有那————么长。最新消息，7亿人在用的钉钉也加入战局，一出...](https://weibo.com/6105753431/O75936igh)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [#数字人带来人类幻觉##数字人绕口令# 逼真的动作，自然的语调，还能直接来段绕口令，谁看了敢相信这是AI？[吃惊]这是数字人公司 Heygen 发布的Avatar in Motion ...](https://weibo.com/6105753431/O753DdjNn)
+Token length: 231
+Summarized using GPT-3.5-turbo
+Append: [#腾讯开源图片转视频AI# 腾讯也搞了一个让照片能说会唱的项目，比阿里EMO率先开源了~这个项目名叫#AniPortrait#，它可以根据音频（比如说话声）和一张静态的人脸...](https://weibo.com/6105753431/O751Qjaqc)
+Append: [#Anthropic获亚马逊40亿美元投资# 为了加深在生成式AI上的合作，亚马逊刚刚宣布了对 Anthropic 的新一轮投资。此次新增投资 27.5 亿美元，再加上去年9月12.5 亿...](https://weibo.com/6105753431/O750HwQ3X)
+append_entries: 5
+Finish: 2024-03-28 06:14:31.667966
