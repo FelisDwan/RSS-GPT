@@ -1381,3 +1381,18 @@ Summarized using GPT-3.5-turbo
 Append: [#小扎老黄交换皮夹克# 小扎最近在 ins 上分享了一张自己与老黄交换皮夹克的照片。而且还生怕网友不知道，暗戳戳提醒道，“Jersey change” ~[允悲]除此之外，他...](https://weibo.com/6105753431/O73I4D7oN)
 append_entries: 1
 Finish: 2024-03-28 02:21:05.803907
+------------------------------------------------------
+Started: 2024-03-28 04:12:33.340775
+Existing_entries: 157
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 402
+Summarized using GPT-3.5-turbo
+Append: [#宇宙大爆炸是如何得名的##Nature详解宇宙大爆炸名称起源# "Big Bang"这个词汇最早由英国天文学家弗雷德·霍伊尔在1949年的一次BBC科普演讲中提出。不过戏剧性的...](https://weibo.com/6105753431/O74pC47fq)
+Token length: 700
+Summarized using GPT-3.5-turbo
+Append: [#双系统思维提出者去世# 3月27日，颠覆经济学的诺贝尔奖获得者丹尼尔·卡尼曼去世，享年 90 岁。卡尼曼是以色列裔美国心理学家，也是畅销书《思考，快与慢》的作...](https://weibo.com/6105753431/O74aRk2HO)
+Token length: 625
+Summarized using GPT-3.5-turbo
+Append: [#通义大模型落地手机芯片# 3月28日，阿里云与知名半导体公司MediaTek联合宣布，通义千问18亿、40亿参数大模型已成功部署进天玑9300移动平台，可离线流畅运行即时...](https://weibo.com/6105753431/O7415owgr)
+append_entries: 3
+Finish: 2024-03-28 04:12:52.524237
