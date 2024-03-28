@@ -1882,3 +1882,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O6ZI8rjCL)
 append_entries: 0
 Finish: 2024-03-27 22:11:49.795365
+------------------------------------------------------
+Started: 2024-03-28 00:49:54.506127
+Existing_entries: 299
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 842
+Summarized using GPT-3.5-turbo
+Append: [【如何成为“效率大师”？】其实，提高工作效率并没有想象中那么难，只要掌握几个简单的技巧，你也可以成为效率之王。 - 首先，学会专注。把时间分块，在日历上...](https://weibo.com/1402400261/O73tVBTUS)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [【distil-large-v3：Whisper large-v3的蒸馏精简版】Distil-Whisper的设计旨在加快推理速度，仅使用两个解码器层，实现了与原版Whisper相媲美的语音识别准确性，...](https://weibo.com/1402400261/O73pWbPS5)
+Token length: 781
+Summarized using GPT-3.5-turbo
+Append: [【AI许可(licensing)：虚幻的安全感与真实的管理困境】- 一些组织主张通过许可证限制强大AI模型的扩散，类似于核武器或人体克隆。但是这种做法在实施上不可行。 ...](https://weibo.com/1402400261/O73nMkiHG)
+Token length: 750
+Summarized using GPT-3.5-turbo
+Append: [【模型微调是否仍有价值】- 最近有一些观点开始质疑模型微调的价值，作者认为在许多情况下，模型微调仍然非常有价值。 - 模型微调对于学习语法、风格和规则很有...](https://weibo.com/1402400261/O73m0AYRY)
+Token length: 834
+Summarized using GPT-3.5-turbo
+Append: [【用FrankenMoE集成多个预训练模型：MergeKit赋能高效MoE构建】- MoE(混合专家模型)是一种提高性能的模型架构，它使用多个子网络(称为“专家”)。MoE只激活相关...](https://weibo.com/1402400261/O73kchGO2)
+Token length: 669
+Summarized using GPT-3.5-turbo
+Append: [【RLHF成功背后的隐忧：AI安全亟需多管齐下】- 文章认为当前主流的模型对齐技术RLHF在防止语言模型非故意的伤害方面非常有效，使得聊天机器人产品得以推向大众消...](https://weibo.com/1402400261/O73iKrQzj)
+Token length: 826
+Summarized using GPT-3.5-turbo
+Append: [【模型安全≠使用安全，AI治理需要更全面的视角】- 在AI界存在一个普遍假设，即AI安全性是AI模型的一项特性。基于这个假设，许多公司投资了大量资源来提高模型的...](https://weibo.com/1402400261/O73hpqXEs)
+Token length: 252
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评...](https://weibo.com/1402400261/O73czeXBY)
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：明日开奖，欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@图灵文化 @图灵新知 送出3本《hello 算法》，截止2024.3.29 12:00，*...](https://weibo.com/1402400261/O73cwc9dI)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [【Chatbot匿名竞技场最新更新：Claude 3 0pus不负众望成为冠军，Starling-LM-7B-beta以7B的规模击败GPT 3.5、Mistral 和 Gemini Pro】《LMSys Chatbot Arena Lea...](https://weibo.com/1402400261/O72QQ683v)
+append_entries: 10
+Finish: 2024-03-28 00:50:43.016631
