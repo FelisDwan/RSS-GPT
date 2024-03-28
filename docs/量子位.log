@@ -1430,3 +1430,21 @@ Existing_entries: 166
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-28 10:11:25.511446
+------------------------------------------------------
+Started: 2024-03-28 12:20:41.621234
+Existing_entries: 166
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: [澜码科技创始人兼CEO周健确认参与 #中国AIGC产业峰会# ！周健2002年获得ACM国际大学生程序设计竞赛世界冠军，是首个在此项竞赛夺冠的亚洲团队成员。2006年加入谷...](https://weibo.com/6105753431/O77qz8ZPE)
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [#首个情感智能语音AI# Hume AI 发布了能从你的声音里听出喜怒哀乐的#EVI# 。它就像情感升级版的Siri，你可以和EVI像好朋友一样交谈，它将感知你说话时的细微情绪...](https://weibo.com/6105753431/O7748Fno3)
+Token length: 317
+Summarized using GPT-3.5-turbo
+Append: [#智谱AI携手英特尔打造PC智能助手# 2024年3月26日，2024全新英特尔商用客户端AI PC产品发布会在北京举办，基于ChatGLM端侧模型打造的【智谱AI PC智能助手】正式...](https://weibo.com/6105753431/O770Z80QR)
+Token length: 498
+Summarized using GPT-3.5-turbo
+Append: [#大模型可嗲用数百万个API# 近年来，人工智能发展迅速，尤其是像ChatGPT这样的基础大模型，在对话、上下文理解和代码生成等方面表现出色，能够为多种任务提供解...](https://weibo.com/6105753431/O76WJcbyW)
+append_entries: 4
+Finish: 2024-03-28 12:21:08.001066
