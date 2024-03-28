@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【如何成为“效率大师”？】其实，提高工作效率并没有想象中那么难，只要掌握几个简单的技巧，你也可以成为效率之王。 - 首先，学会专注。把时间分块，在日历上...</title>
 <link>https://weibo.com/1402400261/O73tVBTUS</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 专注 深度工作 艾森豪威尔矩阵 邮件处理 习惯 养成 目标计划 番茄工作法 回顾 说“不” 散步  自动化
 
-<br><br>总结:
+<br /><br />总结:
 首先，要学会专注，将时间分块，全神贯注地完成每项任务。其次，练习深度工作，保持专注，不分心。第三，使用艾森豪威尔矩阵来安排任务，注重重要事项。第四，批量处理邮件和消息，有效安排时间。第五，养成每天练习习惯，坚持一年即可看到成效。第六，利用番茄工作法战胜拖延症。第七，制定目标和计划，每天进行回顾。第八，学会对事情说“不”，拒绝无关紧要的事务。第九，每天晚上散步，可结合冥想。最后，尽可能自动化任务，提高效率。生活就像马拉松，效率是取得优异成绩的关键。 <div>
 【如何成为“效率大师”？】<br />其实，提高工作效率并没有想象中那么难，只要掌握几个简单的技巧，你也可以成为效率之王。   <br />- 首先，学会专注。把时间分块，在日历上为每个任务预留时间，然后全神贯注地完成当前的任务。可以尝试3:3:3法则：每天花3小时做最重要的项目，3小时做短期任务，3小时做日常维护。   <br />- 其次，练习"深度工作"。每天至少花4个小时专注工作，期间不要分心(可以把手机调到飞行模式)。学习新东西时，可以用费曼技巧：选一个主题，试着向一个5岁的孩子解释，然后继续研究以填补知识空白。   <br />- 第三，用艾森豪威尔(Eisenhower)矩阵来安排任务。目标是把更多时间花在重要的事情上，那些能推进你长期价值观、使命、目标和原则的事情。   <br />- 第四，批量处理邮件和消息。每天集中1-3次时间来处理邮件。对不必要的邮件立即删除，需要别人处理的转发出去，几分钟内可以回复的马上回，其他的则安排时间处理。   <br />- 第五，养成每天练习20分钟的习惯。坚持一年，你就会比90%的人做得更好。可以用"尽善尽美"(GTD)的方法来高效地安排每一件事。   <br />- 第六，用番茄工作法来战胜拖延症。选择一个任务，设置25分钟的计时器，专注工作，中间不要分心，然后休息一下，再重复。每完成4个番茄钟，就休息久一点。   <br />- 第七，制定年度、月度、周度和日常的目标和计划。没有目标，你可能哪儿也到不了。   <br />- 第八，进行每日和每周回顾。问问自己："我今天做了哪些符合目标的事情?""有什么地方可以改进吗?"   <br />- 第九，学会对很多事情说”不”！一个"不"就是对很多其他事情说"是"。   <br />- 第十，每天晚上散步30分钟。如果能在散步时冥想，那就更好了。   <br />- 最后，尽可能地自动化。试着用各种工具来自动化一切可以自动化的事情，尤其是重复性的任务。   <br />生活就像一场马拉松，效率就是你的配速。掌握这些技巧，相信你一定能在这场马拉松中取得优异的成绩。当然，知易行难，关键是要把这些方法落实到行动中。<img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho6ekdg9wgj20u01kt11n.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho6ekdwe11j20u019en53.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 00:30:05 GMT</pubDate>
 <pubDate>Thu, 28 Mar 2024 00:30:05 GMT</pubDate>
 </item>
 <item>
@@ -25,11 +25,10 @@
 <content:encoded><![CDATA[
 <div> 解码器层、语音识别、推理速度、准确性、幻听错误、分块长文本算法、错误率、Distil-Whisper、设计、提升速度
 
-<br><br>总结:
+<br /><br />总结:
 Distil-Whisper是一个蒸馏精简版的Whisper模型，旨在加快推理速度。它仅使用两个解码器层，但在语音识别准确性方面与原版Whisper相媲美，推理速度提升了6.3倍。此外，Distil-Whisper在降低幻听错误方面也取得了重大进展，使用分块长文本算法时，幻听错误率降低了约30%。Distil-Whisper的设计使得语音识别更加高效、准确，为技术领域带来了新的突破。 <div>
 【distil-large-v3：Whisper large-v3的蒸馏精简版】Distil-Whisper的设计旨在加快推理速度，仅使用两个解码器层，实现了与原版Whisper相媲美的语音识别准确性，但速度却提升了惊人的6.3倍。此外，Distil-Whisper在降低幻听错误方面也取得了重大进展，使用分块长文本算法时，幻听错误率降低了约30%。 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho6ea22y2cj20y20u0tdo.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 00:20:15 GMT</pubDate>
 <pubDate>Thu, 28 Mar 2024 00:20:15 GMT</pubDate>
 </item>
 <item>
@@ -39,10 +38,9 @@ Distil-Whisper是一个蒸馏精简版的Whisper模型，旨在加快推理速�
 <content:encoded><![CDATA[
 <div> 许可证、AI模型、扩散、训练成本、国际合作、利益、风险、监管套利、开源AI、灵活应对
 
-总结:<br><br>本文讨论了AI许可在管理风险方面的困境。许可证虽然被一些组织主张限制强大AI模型的扩散，但实施上存在诸多困难。训练成本逐渐下降，监控数据中心需要国际合作。少数大公司将获益，强制许可证可能加剧风险。许可证可能导致恶化风险和监管套利，开源AI也需要预防措施。需要更加开放和灵活的方式应对AI发展带来的影响。许可不能真正阻止恶意使用，执法难度大。颠覆性技术难以被垄断。要综合评估AI风险，并制定相应措施应对。 <div>
+总结:<br /><br />本文讨论了AI许可在管理风险方面的困境。许可证虽然被一些组织主张限制强大AI模型的扩散，但实施上存在诸多困难。训练成本逐渐下降，监控数据中心需要国际合作。少数大公司将获益，强制许可证可能加剧风险。许可证可能导致恶化风险和监管套利，开源AI也需要预防措施。需要更加开放和灵活的方式应对AI发展带来的影响。许可不能真正阻止恶意使用，执法难度大。颠覆性技术难以被垄断。要综合评估AI风险，并制定相应措施应对。 <div>
 【AI许可(licensing)：虚幻的安全感与真实的管理困境】<br />- 一些组织主张通过许可证限制强大AI模型的扩散，类似于核武器或人体克隆。但是这种做法在实施上不可行。   <br />- 尽管目前训练顶级AI模型需要大量算力，但随着算法和硬件的进步，训练成本正在急速下降。要全面监控数据中心以限制AI开发不可行且需要空前国际合作。   <br />- 尽管AI模型会扩散，但少数大公司将从这波爆发中获得巨大利益。强制许可证将进一步加剧这种风险，因为只有少数公司可以开发顶级AI。   <br />- 许可证可能导致AI风险恶化，包括安全风险、结果同质化、定义可接受言论界限、影响公众态度等。这也有利于行业巨头进行监管套利。   <br />- 鼓励不同背景的学术界、企业和非营利组织开发和评估顶级AI模型，可能是解决AI风险的更好方式。当然，开源AI也需要防范措施。   <br />- 总体而言，AI技术许可证在实施可行性和有效性上都存在重大障碍。我们需要更加开放和灵活的方式来应对AI发展带来的影响。<br /><br />思考：  <br />- 作者对许可能否有效管理AI风险提出了尖锐质疑，这个观点有一定道理，值得认真考虑。  <br />- 文章指出，许可无法真正阻止坏人，因为他们总能找到非法获取模型的办法。这提醒我们，单纯的许可可能并非万全之策。  <br />- 作者认为许可的支持者低估了执法难度，这一论断可能有一定道理。但能否通过技术创新等方式克服这些难度，可能还有待进一步探索。  <br />- 文章指出，从历史上看，颠覆性技术无法被垄断，终会扩散。这启示我们要用发展的眼光看待AI技术的传播。  <br />- 作者提醒我们不要被许可制造的虚假安全感所迷惑，而忽视了更紧迫的风险。这提示我们要全面评估AI风险，并相应制定综合防控措施。<br />《Licensing is neither feasible nor effective for addressing AI risks》 <a href="https://www.aisnakeoil.com/p/licensing-is-neither-feasible-nor"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho6e4nvbhwj20y20u0tdo.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 00:14:56 GMT</pubDate>
 <pubDate>Thu, 28 Mar 2024 00:14:56 GMT</pubDate>
 </item>
 <item>
@@ -52,10 +50,9 @@ Distil-Whisper是一个蒸馏精简版的Whisper模型，旨在加快推理速�
 <content:encoded><![CDATA[
 <div> 微调 价值 观点 场景 领域 评估 框架 提示工程 区分 RAG
 
-<br><br>总结: 本文讨论了模型微调的价值，认为在学习语法、风格和规则等方面仍然非常有帮助，但对于开发者工具等通用情况，微调的效果可能有限。作者强调了评估框架的重要性，指出微调需有系统的性能度量。此外，提示工程在微调中扮演着重要的角色，能帮助检验和改善模型的性能。文章还对微调和基于检索的方法进行了区分，指出它们各自适用于不同的场景和目的。综上所述，微调仍然是提升模型表现的有效手段，但其应用需根据具体情况进行决定。 <div>
+<br /><br />总结: 本文讨论了模型微调的价值，认为在学习语法、风格和规则等方面仍然非常有帮助，但对于开发者工具等通用情况，微调的效果可能有限。作者强调了评估框架的重要性，指出微调需有系统的性能度量。此外，提示工程在微调中扮演着重要的角色，能帮助检验和改善模型的性能。文章还对微调和基于检索的方法进行了区分，指出它们各自适用于不同的场景和目的。综上所述，微调仍然是提升模型表现的有效手段，但其应用需根据具体情况进行决定。 <div>
 【模型微调是否仍有价值】<br />- 最近有一些观点开始质疑模型微调的价值，作者认为在许多情况下，模型微调仍然非常有价值。   <br />- 模型微调对于学习语法、风格和规则很有帮助，而提示工程更适合为模型提供上下文和最新事实。   <br />- 在开发者工具、基础模型、通用助手等情况下，模型微调不太有价值。但在专业领域和特定使用案例中，模型微调可以明显改进性能。   <br />- 在产品早期阶段，由于没有域特定的评估体系，很难有效地进行模型微调。构建评估体系是使用模型微调的先决条件。   <br />- 文章给出了Honeycomb和ReChat两个案例，说明了如何通过模型微调学习特定语法、风格和规则，从而提升产品性能。   <br />- 模型微调不仅适用于小模型，大型模型如GPT-3.5也能从中获益。模型微调仍然是提升模型表现的有效手段，值得继续探索与改进。<br /><br />思考：  <br />- 文章对当前AI领域微调价值的看法提供了一个平衡的视角。作者在承认怀疑声音日益增多的同时，坚持认为微调在许多场景下仍有很高价值。  <br />- 一个关键见解是，微调的适用性在很大程度上取决于具体的使用场景和领域。对于通用的开发者工具或基础模型本身，微调的边际效用可能有限。但对于更专业的应用，微调仍可带来显著改善。  <br />- 文章强调要有一个鲁棒的评估框架，作为任何模型优化(包括微调)的基础。没有系统的性能度量方式，我们很容易武断地否定微调等技术。  <br />- 文章也突出了提示工程作为微调的前提和补充所扮演的角色。广泛的提示可以检验评估机制，如果效果令人满意，它本身就足够了。  <br />- 作者对微调和基于检索的方法(如RAG)做了有益的区分，前者更适合学习风格和语法模式，后者更适合注入最新信息。<br />《Hamel’s Blog - Is Fine-Tuning Still Valuable?》 <a href="https://hamel.dev/blog/posts/fine_tuning_valuable.html"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho6e0460lkj20u016rtg6.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 00:10:33 GMT</pubDate>
 <pubDate>Thu, 28 Mar 2024 00:10:33 GMT</pubDate>
 </item>
 <item>
@@ -65,11 +62,10 @@ Distil-Whisper是一个蒸馏精简版的Whisper模型，旨在加快推理速�
 <content:encoded><![CDATA[
 <div> MoE, 混合专家模型, FrankenMoE, MergeKit, 预训练模型, 性能提升, 创新思路, 高质量模型, 实用性, 创意方法
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了使用FrankenMoE集成多个预训练模型来创建MoE的方法。传统的MoE需要从头训练专家和路由器，而FrankenMoE通过MergeKit集成预训练模型，使MoE构建更快速、灵活、提高性能。作者创建了一个名为Beyonder-4x7B-v3的FrankenMoE模型，并取得了不错的结果。虽然FrankenMoE方法在性能提升方面有潜力，但也存在一些实际问题，如较高的VRAM需求，需要权衡利弊来决定使用。MergeKit为MoE构建提供了创新思路，具有很大实用价值，读者可以尝试实践。LazyMergeKit成功创建并评估了作者的frankenMoE，证明了方法的可行性和有效性。MergeKit的创新有望推动MoE技术的进一步发展和应用。 <div>
 【用FrankenMoE集成多个预训练模型：MergeKit赋能高效MoE构建】<br />- MoE(混合专家模型)是一种提高性能的模型架构，它使用多个子网络(称为“专家”)。MoE只激活相关的专家，从而实现更快的训练和推理。   <br />- 传统的MoE模型需要从头训练专家和路由器(确定哪些token由哪些专家处理)。而“FrankenMoE”则是通过集成多个预训练好的模型来创建MoE。   <br />- FrankenMoE的创建包括选择专家模型、定义正样本和负样本提示、使用MergeKit生成MoE模型。文章详细介绍了一个例子。   <br />- 作者创建了一个FrankenMoE模型Beyonder-4x7B-v3，它在多个基准测试中取得了不错的结果，展示了这种方法的潜力。   <br />- FrankenMoE在提高性能方面很有前景，但也存在一些实际中的问题，如较高的VRAM需求。需要权衡利弊来决定是否适合使用。   <br />- 这种方法为改进模型性能提供了一种创新思路，值得进一步探索，但还有待改进。建议读者尝试自己创建FrankenMoE模型。<br /><br />思考：  <br />- MergeKit通过集成预训练模型创建MoE的方法非常有创意，为MoE的构建提供了一种新的思路和途径。  <br />- 与从头训练MoE相比，MergeKit的方法可以更快速、灵活地创建高质量的MoE，具有很大的实用价值。  <br />- 文章对MergeKit创建frankenMoEs的过程进行了详细的介绍和示范，读者可以很容易地上手实践。  <br />- 作者使用LazyMergeKit成功创建并评估了自己的frankenMoE，证明了这一方法的可行性和有效性。  <br />- MergeKit在MoE领域的创新有望推动MoE技术的进一步发展和应用，值得业界关注和探索。<br />《Create Mixtures of Experts with MergeKit | by Maxime Labonne | Mar, 2024 | Towards Data Science》 <a href="https://towardsdatascience.com/create-mixtures-of-experts-with-mergekit-11b318c99562"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho6dvfyxq4j20u00vsgrj.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho6dvgrvsgj21hc0u0n21.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 00:06:05 GMT</pubDate>
 <pubDate>Thu, 28 Mar 2024 00:06:05 GMT</pubDate>
 </item>
 <item>
@@ -79,10 +75,9 @@ Distil-Whisper是一个蒸馏精简版的Whisper模型，旨在加快推理速�
 <content:encoded><![CDATA[
 <div> 模型对齐技术、RLHF、AI安全、聊天机器人、意图恶意使用、防范措施、内容审核、软件安全、灾难性风险
 
-总结：<br><br>本文指出，现有模型对齐技术在防止语言模型非故意伤害方面表现出色，尤其在聊天机器人领域取得成功。然而，对意图恶意使用的对手，模型对齐无法产生很大作用，因此需要额外的防范措施。模型对齐其实更像内容审核，而不是软件安全，应重视其局限性。对于AI安全问题，需要更系统性的思考，不能过度依赖模型对齐技术。需要开发更强大的对齐技术，同时关注模型外的防御措施，以确保全面的安全性。对于可能带来严重意外伤害的场景，单纯的技术方法可能不够，AI安全社区应高度重视。 <div>
+总结：<br /><br />本文指出，现有模型对齐技术在防止语言模型非故意伤害方面表现出色，尤其在聊天机器人领域取得成功。然而，对意图恶意使用的对手，模型对齐无法产生很大作用，因此需要额外的防范措施。模型对齐其实更像内容审核，而不是软件安全，应重视其局限性。对于AI安全问题，需要更系统性的思考，不能过度依赖模型对齐技术。需要开发更强大的对齐技术，同时关注模型外的防御措施，以确保全面的安全性。对于可能带来严重意外伤害的场景，单纯的技术方法可能不够，AI安全社区应高度重视。 <div>
 【RLHF成功背后的隐忧：AI安全亟需多管齐下】<br />- 文章认为当前主流的模型对齐技术RLHF在防止语言模型非故意的伤害方面非常有效，使得聊天机器人产品得以推向大众消费者。   <br />- 但是RLHF无法防止有意图的恶意使用。对付资金雄厚的对手，模型对齐毫无用处，因为对手可以重新训练模型或移除对齐。   <br />- 对付日常用户的恶意使用，模型对齐仍有一定效用，因为它使其更难进行故意误用。但不能仅依赖模型对齐，还需要产品级的其他防范措施。   <br />- 模型对齐更像是内容审核，而不是软件安全。它的不足不应引发恐慌，仍然是有用的。但对付灾难性风险，不应过分依赖模型对齐。   <br />- 需要开发更强大的对齐技术，同时关注模型之外的防御措施，扩大安全性的系统性思考。<br /><br />思考：  <br />- 文章指出，业界过度依赖模型对齐技术来解决AI安全问题，这一观点值得重视。我们不能把模型对齐视为万灵药。  <br />- RLHF等模型对齐技术在聊天机器人领域取得了成功，但其局限性也日益凸显。对齐完美与否，取决于诸多因素。  <br />- 对手绕过对齐技术引发的担忧合情合理。但暂停AI等极端措施是否必要和可行，仍有待商榷。  <br />- 文章提到即使对齐了，聊天机器人也可能有害，产品概念也很重要。这启示我们AI安全需要更全面的视角，不能只盯着模型本身。  <br />- 对于自主智能体等可能带来更严重意外伤害的场景，单纯的技术方法可能不够，这值得AI安全社区高度重视。<br />《Model alignment protects against accidental harms, not intentional ones》 <a href="https://www.aisnakeoil.com/p/model-alignment-protects-against"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho6drrmzkdj20ud0u0dks.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 00:02:32 GMT</pubDate>
 <pubDate>Thu, 28 Mar 2024 00:02:32 GMT</pubDate>
 </item>
 <item>
@@ -92,10 +87,9 @@ Distil-Whisper是一个蒸馏精简版的Whisper模型，旨在加快推理速�
 <content:encoded><![CDATA[
 <div> 模型安全, 使用安全, AI治理, 模型特性, 上下文, 系统性思考, 误用, 边际风险, 对抗测试, 社会成本
 
-总结:<br><br>这篇文章指出了AI安全不是模型特性，强调了模型的安全与其部署的上下文和环境密切相关。文章提出了四点建议，包括防范模型误用、评估边际风险、重塑对抗测试和让第三方进行对抗测试。作者认为模型无法判断某些恶意用途，提出责任划分会变得复杂，AI安全需要综合思考。文章还讨论了安全内容的差异化处理和警惕简单思维定势的重要性。整体而言，AI治理需要更全面的视角，并且不能简单地将安全问题归咎于模型特性。 <div>
+总结:<br /><br />这篇文章指出了AI安全不是模型特性，强调了模型的安全与其部署的上下文和环境密切相关。文章提出了四点建议，包括防范模型误用、评估边际风险、重塑对抗测试和让第三方进行对抗测试。作者认为模型无法判断某些恶意用途，提出责任划分会变得复杂，AI安全需要综合思考。文章还讨论了安全内容的差异化处理和警惕简单思维定势的重要性。整体而言，AI治理需要更全面的视角，并且不能简单地将安全问题归咎于模型特性。 <div>
 【模型安全≠使用安全，AI治理需要更全面的视角】<br />- 在AI界存在一个普遍假设，即AI安全性是AI模型的一项特性。基于这个假设，许多公司投资了大量资源来提高模型的安全性。但是文章认为这种做法是有限的，因为AI安全性不是模型的特性，而在很大程度上取决于模型被部署的上下文和环境。   <br />- 文章举了钓鱼邮件、生物恐怖主义和传播虚假信息等例子，说明模型本身无法判断这些用途是否恶意，因为模型无法获知完整的部署上下文。要做到只生成无害内容几乎不可能。   <br />- 文章提出了四点建议：一是防范模型误用的主要措施应位于模型之外；二是评估开源模型的边际风险；三是重塑对抗测试，以发现对手方的新能力；四是让第三方而不是开发者自己进行对抗测试。   <br />- 文章认为，接受模型无法杜绝误用意味着责任划分会变得非常复杂。开发者在道德上应承担部分由于AI滥用带来的社会成本，但在法律上很难执行。这是AI政策亟待解决的难题。   <br />- 文章提出AI安全性不是模型特性这一观点，认为仅仅对模型进行安全性改进是有限的，需要更广泛的系统性思考。这一观点对当前AI安全研究具有重要启发意义。<br /><br />思考：  <br />- 作者提出了一个有趣的观点，即AI安全不是模型的特性，这与业界的主流看法形成了鲜明对比，值得深入思考。  <br />- 文章指出，即使模型本身是安全的，也可能被用于恶意目的，这提醒我们在考虑AI安全时需要更全面的视角。  <br />- 作者认为不能将安全问题全权委托给模型决定，因为模型可能缺乏必要的上下文信息，这一论断有一定道理，但可能也并非放之四海而皆准。  <br />- 文章提到一些例外情况，如儿童色情内容等，表明某些内容本身就是有问题的。这提示我们在AI安全治理中，可能需要对不同类型的内容采取差异化的策略。  <br />- "安全是模型特性"说法之所以会流行，可能确实与其便利性有关。这提醒我们在探讨AI安全时，要警惕简单化、一刀切的思维定势。<br />《AI safety is not a model property》 <a href="https://www.aisnakeoil.com/p/ai-safety-is-not-a-model-property"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho6dob3pdpj20ug0u0n1d.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 23:59:14 GMT</pubDate>
 <pubDate>Wed, 27 Mar 2024 23:59:14 GMT</pubDate>
 </item>
 <item>
@@ -105,11 +99,10 @@ Distil-Whisper是一个蒸馏精简版的Whisper模型，旨在加快推理速�
 <content:encoded><![CDATA[
 <div> Java、Python、JavaScript、C语言、MySQL、Redis、技术、故事、码农翻身
 
-<br><br>总结:
+<br /><br />总结:
 《码农翻身2》是一本以故事方式讲解技术的畅销书，其中描述了编程语言王国之间的争斗和趣味故事。Java、Python、JavaScript等编程语言相互竞争，MySQL和Redis互相斗争，C语言则面临着单身的悲催。这本书旨在让读者掌握技术原理的同时，享受有趣的阅读体验。 <div>
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评论即可参与。畅销书《码农翻身》第2部终于出版了，依然是用故事的方式讲解技术，把看似枯燥乏味的技术，变成好玩有趣的故事。编程语言王国之间依然争斗得你死我活，今天Java向Python渗透，明天JavaScript就向Java猛烈进攻。而C语言春节回家，发现只有自己没有对象，十分悲催。MySQL和Redis互相看不顺眼，不断向对方使绊子。让大家掌握技术原理和本质的同时，又能读起来很爽。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5016276596163714"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4ohfsdnwj20m80m843i.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4ohgdugqj20m80m8tc1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho4ohgus3ij20m80m8q75.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho4ohhdfwxj20zk0zk7ar.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 23:47:18 GMT</pubDate>
 <pubDate>Wed, 27 Mar 2024 23:47:18 GMT</pubDate>
 </item>
 <item>
@@ -119,11 +112,10 @@ Distil-Whisper是一个蒸馏精简版的Whisper模型，旨在加快推理速�
 <content:encoded><![CDATA[
 <div> 可可粉、转发、评论、hello 算法、数据结构、算法、动画图解、实战代码示例、互动环节设计、轻松掌握
 
-<br><br>总结:
+<br /><br />总结:
 明日将会开奖，并欢迎大家参与携手送出3本《hello 算法》的活动。截止日期是2024年3月29日中午12点。参与方式是转发并评论*可可粉*即可参与。这本书旨在帮助读者轻松掌握数据结构与算法，通过全新的视角引领读者进入算法的世界。每一章节都配有生动的动画图解，使抽象的数据结构和算法变得直观易懂。书中的实战代码示例让读者可以即学即用，及时巩固新知识。互动环节的设计帮助读者主动思考，提出问题并解决问题。这本书的目的是让读者在学习数据结构与算法的过程中更加轻松愉快。 <div>
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：明日开奖，欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%87%E5%8C%96">@图灵文化</a> <a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%B0%E7%9F%A5">@图灵新知</a> 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发+评论即可参与。带你轻松掌握数据结构与算法，以全新的视角带你进入算法的世界。书中的每一章节都配有生动的动画图解，让抽象的数据结构和算法变得直观易懂。实战代码示例让你即学即用，及时巩固新知识。互动环节的设计帮助你主动思考，提问和解决问题。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5014630549948449"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfciddvdj21pe24a7wh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfchthjaj20m80m8q6g.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfcht5csj20m80m8go5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzfchtze3j20m80m8ach.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfci9xvsj2494494e81.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnzfcht5xoj20m80m8mzj.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 23:47:11 GMT</pubDate>
 <pubDate>Wed, 27 Mar 2024 23:47:11 GMT</pubDate>
 </item>
 <item>
@@ -133,14 +125,12 @@ Distil-Whisper是一个蒸馏精简版的Whisper模型，旨在加快推理速�
 <content:encoded><![CDATA[
 <div> 更新、竞技场、Claude 3 0pus、冠军、Starling-LM-7B-beta、击败、GPT 3.5、Mistral、Gemini Pro
 
-<br><br>总结:
+<br /><br />总结:
 最新更新显示，匿名竞技场中，Claude 3 0pus凭借强大实力成为冠军，而Starling-LM-7B-beta也以7B规模战胜了GPT 3.5、Mistral和Gemini Pro，引起广泛关注。 <div>
 【Chatbot匿名竞技场最新更新：Claude 3 0pus不负众望成为冠军，Starling-LM-7B-beta以7B的规模击败GPT 3.5、Mistral 和 Gemini Pro】《LMSys Chatbot Arena Leaderboard - a Hugging Face Space by lmsys》 <a href="https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho6bs0wrabj21c30u0q88.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 27 Mar 2024 22:53:46 GMT</pubDate>
-<pubDate>Wed, 27 Mar 2024 22:53:46 GMT</pubDate>
 </item>
-
 <item>
 <title>《爱可可微博热门分享(3.27)》 爱可可微博热门分享(3.27) [图片]</title>
 <link>https://weibo.com/1402400261/O6ZHV30UH</link>

@@ -1372,3 +1372,12 @@ Existing_entries: 156
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-28 00:49:54.152644
+------------------------------------------------------
+Started: 2024-03-28 02:21:01.095976
+Existing_entries: 156
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 257
+Summarized using GPT-3.5-turbo
+Append: [#小扎老黄交换皮夹克# 小扎最近在 ins 上分享了一张自己与老黄交换皮夹克的照片。而且还生怕网友不知道，暗戳戳提醒道，“Jersey change” ~[允悲]除此之外，他...](https://weibo.com/6105753431/O73I4D7oN)
+append_entries: 1
+Finish: 2024-03-28 02:21:05.803907
