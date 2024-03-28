@@ -1448,3 +1448,9 @@ Summarized using GPT-3.5-turbo
 Append: [#大模型可嗲用数百万个API# 近年来，人工智能发展迅速，尤其是像ChatGPT这样的基础大模型，在对话、上下文理解和代码生成等方面表现出色，能够为多种任务提供解...](https://weibo.com/6105753431/O76WJcbyW)
 append_entries: 4
 Finish: 2024-03-28 12:21:08.001066
+------------------------------------------------------
+Started: 2024-03-28 14:11:17.596420
+Existing_entries: 170
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-03-28 14:11:19.627767
