@@ -2122,3 +2122,16 @@ Summarized using GPT-3.5-turbo
 Append: [【Page Assist：开源 Chrome 插件它提供一个 Sidebar 和 Web UI，让你在任意网页和本地 AI 模型交互】’Page Assist - Use your locally running AI models to a...](https://weibo.com/1402400261/O7hpvAAoK)
 append_entries: 9
 Finish: 2024-03-29 14:11:07.887875
+------------------------------------------------------
+Started: 2024-03-29 16:12:30.364645
+Existing_entries: 338
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O7ieu6fIi)
+Token length: 20
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(3.29)》 爱可可微博热门分享(3.29) [图片]](https://weibo.com/1402400261/O7ie07MEC)
+Token length: 2699
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration》(CVPR 2024) GitHub: github.com/CyberAgentAILab/Super...](https://weibo.com/1402400261/O7hNne0Zq)
+append_entries: 2
+Finish: 2024-03-29 16:12:45.174704

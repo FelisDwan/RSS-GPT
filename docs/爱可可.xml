@@ -5,16 +5,45 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>《爱可可微博热门分享(3.29)》 爱可可微博热门分享(3.29) [图片]</title>
+<link>https://weibo.com/1402400261/O7ie07MEC</link>
+<guid>https://weibo.com/1402400261/O7ie07MEC</guid>
+<content:encoded><![CDATA[
+<div> 微博、热门、分享、爱可可、3.29、关键词
+
+<br><br>总结:
+3月29日，爱可可微博上热门分享了许多精彩内容，引起了广泛关注。其中包括美食推荐、旅行攻略、时尚资讯等各种各样的话题。用户们纷纷参与讨论，点赞和转发量也很高。爱可可微博的内容多样性和质量受到了用户的肯定。希望未来能继续为大家带来更多有趣的内容。 <div>
+《爱可可微博热门分享(3.29)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405017383558316417"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(3.29)</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho87newffvj20d607e3zd.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 14:02:01 GMT</pubDate>
+<pubDate>Fri, 29 Mar 2024 14:02:01 GMT</pubDate>
+</item>
+<item>
+<title>几篇论文实现代码：《SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration》(CVPR 2024) GitHub: github.com/CyberAgentAILab/Super...</title>
+<link>https://weibo.com/1402400261/O7hNne0Zq</link>
+<guid>https://weibo.com/1402400261/O7hNne0Zq</guid>
+<content:encoded><![CDATA[
+<div> 关键词：神经表面重建、多视图法线集成、情感图像生成、深度学习、自动驾驶、人物重建、虚拟人视频生成、语言模型、远程感知图像分类、视频对象分割。
+
+总结:<br><br>
+这篇论文整理了几篇实现代码，涵盖了神经表面重建、情感图像生成、神经网络鲁棒性评估等多个领域。其中包括了一种通过多视图法线集成实现神经表面重建的方法，以及一种用于生成情感图像内容的文本到图像扩散模型。同时还介绍了一种自动驾驶中用于融合单视图和多视图深度信息的自适应融合算法，以及一种在野外环境中从单目视频中重建多个人物的方法。此外还有一种用于挖掘多模态视觉语言模型潜力的MiniGemini模型，以及一种生成高保真虚拟人视频的MuseV模型等。<br>
+另外，还介绍了一种用于实现长视频理解的语言库，以及一种基于变分自动编码器的明暗风格内容分离模型。还有一种实时变换器开放词汇检测的方法，以及一种用状态空间模型实现遥感图像分类的RSMamba模型。同时还有一种用于控制区域级标题生成的ControlCap模型，以及一种使用文本到图像扩散实现注意力插值的AID模型。此外还有一种由LLM引导的组合式4D场景生成模型Comp4D，以及一种用于改善视觉识别中非层级Mamba算法的PlainMamba模型等。最后还介绍了一种通过调制交叉注意力内存实现高效视频对象分割的MAVOS模型，以及一种通过修剪和低秩修改评估安全性调整脆弱性的方法。 <div>
+几篇论文实现代码：<br />《SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration》(CVPR 2024) GitHub: github.com/CyberAgentAILab/SuperNormal [fig3] <br />《EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models》(CVPR 2024) GitHub: github.com/JingyuanYY/EmoGen [fig4]<br />《ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object》(CVPR 2024) GitHub: github.com/chenshuang-zhang/imagenet_d<br />《Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving》(CVPR 2024) GitHub: github.com/Junda24/AFNet<br />《MultiPly: Reconstruction of Multiple People from Monocular Video in the Wild》(CVPR 2024) GitHub: github.com/jzr99/MultiPly<br />《Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models》(2024) GitHub: github.com/dvlab-research/MiniGemini [fig1]<br />《MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising》(2024) GitHub: github.com/TMElyralab/MuseV [fig2] <br />《Long-form factuality in large language models》(2024) GitHub: github.com/google-deepmind/long-form-factuality<br />《Implicit Style-Content Separation using B-LoRA》(2024) GitHub: github.com/yardenfren1996/B-LoRA [fig5] <br />《Real-time Transformer-based Open-Vocabulary Detection with Efficient Fusion Head》(2024) GitHub: github.com/om-ai-lab/OmDet [fig8]<br />《RSMamba: Remote Sensing Image Classification with State Space Model》(2024) GitHub: github.com/KyanChen/RSMamba [fig9]<br />《Language Repository for Long Video Understanding》(2024) GitHub: github.com/kkahatapitiya/LangRepo [fig10]<br />《Light and Optimal Schr\"odinger Bridge Matching》(2024) GitHub: github.com/SKholkin/LightSB-Matching<br />《ControlCap: Controllable Region-level Captioning》(2024) GitHub: github.com/callsys/ControlCap [fig11]<br />《AID: Attention Interpolation of Text-to-Image Diffusion》(2024) GitHub: github.com/QY-H00/attention-interpolation-diffusion<br />《Comp4D: LLM-Guided Compositional 4D Scene Generation》(2024) GitHub: github.com/VITA-Group/Comp4D<br />《PlainMamba: Improving Non-hierarchical Mamba in Visual Recognition》(2024) GitHub: github.com/ChenhongyiYang/PlainMamba [fig7]<br />《Fed3DGS: Scalable 3D Gaussian Splatting with Federated Learning》(2024) GitHub: github.com/DensoITLab/Fed3DGS<br />《Efficient Video Object Segmentation via Modulated Cross-Attention Memory》(2024) GitHub: github.com/Amshaker/MAVOS [fig6]<br />《Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications》(2024) GitHub: github.com/boyiwei/alignment-attribution-code<br />《Surface and Edge Detection for Primitive Fitting of Point Clouds》(2024) GitHub: github.com/yuanqili78/SED-Net<br />《FollowIR: Evaluating and Teaching Information Retrieval Models to Follow Instructions》(2024) GitHub: github.com/orionw/FollowIR<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho81cu9q8pj22tu0uxe73.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho81cv52blj20re0jjjyq.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho81cylzabj22t02bc7wm.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho81cxbo0vj21ll0hfwsr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho81cyh6kmj20h909d419.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho81czzpxdj21yh0tykib.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho83zmbtfmj224y0n81kx.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho84jcw8cuj237a1nb17e.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho84yi8kbtj21x80i4qiw.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho84z1po9rj22po0sph3r.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho852lcklej21u61eeu0x.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 12:56:26 GMT</pubDate>
+<pubDate>Fri, 29 Mar 2024 12:56:26 GMT</pubDate>
+</item>
+
+<item>
 <title>【遥感多模态大语言模型相关论文资源列表】’Awesome-Remote-Sensing-Multimodal-Large-Language-Model (Vision-Language) - Multimodal Large Language Model f...</title>
 <link>https://weibo.com/1402400261/O7hIcz64J</link>
 <guid>https://weibo.com/1402400261/O7hIcz64J</guid>
 <content:encoded><![CDATA[
 <div> 遥感、多模态、大语言模型、远程感知、视觉-语言、资源、GitHub、论文、研究、文献
 
-总结：<br><br>这份资源列表涵盖了远程感知多模态大语言模型相关的研究论文和资源，提供了GitHub链接，供研究人员参考。远程感知是指利用卫星或无人机等远距离传感器获取地表信息的技术，多模态大语言模型则是融合了视觉和语言信息的模型。这个领域的研究涉及到文献综述、模型应用、数据集构建等方面，对于推动远程感知和人工智能领域的发展具有重要意义。 <div>
+总结：<br /><br />这份资源列表涵盖了远程感知多模态大语言模型相关的研究论文和资源，提供了GitHub链接，供研究人员参考。远程感知是指利用卫星或无人机等远距离传感器获取地表信息的技术，多模态大语言模型则是融合了视觉和语言信息的模型。这个领域的研究涉及到文献综述、模型应用、数据集构建等方面，对于推动远程感知和人工智能领域的发展具有重要意义。 <div>
 【遥感多模态大语言模型相关论文资源列表】’Awesome-Remote-Sensing-Multimodal-Large-Language-Model (Vision-Language) - Multimodal Large Language Model for Remote Sensing (Vision-Language)' GitHub: github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho85e0nazbj21a10u0q7t.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 12:43:42 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 12:43:42 GMT</pubDate>
 </item>
 <item>
@@ -29,7 +58,6 @@
 【高斯Splatting相关论文列表】’2024-Arxiv-Paper-List-Gaussian-Splatting - 2024 Gaussian Splatting Paper List(Arxiv)' GitHub: github.com/Lee-JaeWon/2024-Arxiv-Paper-List-Gaussian-Splatting <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho85b13zdrj20u00ul42w.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 29 Mar 2024 12:40:48 GMT</pubDate>
-<pubDate>Fri, 29 Mar 2024 12:40:48 GMT</pubDate>
 </item>
 <item>
 <title>【AxoNN：用于训练深度神经网络的并行框架】'AxoNN - A parallel framework for training deep neural networks' GitHub: github.com/axonn-ai/axonn #开源# #机...</title>
@@ -38,11 +66,10 @@
 <content:encoded><![CDATA[
 <div> 并行框架、训练、深度神经网络、AxoNN、GitHub、神经网络、深度学习、机器学习、人工智能
 
-<br><br>总结:
+<br /><br />总结:
 AxoNN是一个用于训练深度神经网络的并行框架，旨在提高训练过程的效率和速度。通过在GitHub上开源项目，AxoNN为研究人员和开发者提供了一个方便的工具，帮助他们在深度学习和机器学习领域进行神经网络的训练。AxoNN的并行架构使得训练过程更加快速，并能够处理大规模数据集。这个框架对于推动人工智能领域的发展具有重要意义，为神经网络的训练提供了新的可能性。AxoNN的开发和使用将有助于加速深度学习技术的发展，促进人工智能的应用和创新。 <div>
 【AxoNN：用于训练深度神经网络的并行框架】'AxoNN - A parallel framework for training deep neural networks' GitHub: github.com/axonn-ai/axonn <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho859cfbodj211a0iajtg.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 12:39:10 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 12:39:10 GMT</pubDate>
 </item>
 <item>
@@ -50,12 +77,11 @@ AxoNN是一个用于训练深度神经网络的并行框架，旨在提高训练
 <link>https://weibo.com/1402400261/O7hFUnXaF</link>
 <guid>https://weibo.com/1402400261/O7hFUnXaF</guid>
 <content:encoded><![CDATA[
-<div> Rust、语言模型、推理、平台、mistral.rs、快速、LLM、推断、GitHub、EricLBuehler<br>
-<br>
+<div> Rust、语言模型、推理、平台、mistral.rs、快速、LLM、推断、GitHub、EricLBuehler<br />
+<br />
 Rust编写的语言模型推理平台mistral.rs具有快速性能，支持深度语言模型推断。该项目托管在GitHub上，由EricLBuehler开发。通过mistral.rs，用户可以快速进行语言模型的推断，提高工作效率。该平台在推理速度和准确性方面表现优异，是一个值得关注的工具。 <div>
 【mistral.rs： 纯Rust写的语言模型推理平台】'mistral.rs - Blazingly fast LLM inference.' GitHub: github.com/EricLBuehler/mistral.rs <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho8586irc7j21310u0q6i.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 12:38:03 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 12:38:03 GMT</pubDate>
 </item>
 <item>
@@ -65,11 +91,10 @@ Rust编写的语言模型推理平台mistral.rs具有快速性能，支持深度
 <content:encoded><![CDATA[
 <div> GitHub, Docker image, Stable Diffusion WebUI, Kohya_ss, ComfyUI, ControlNet, After Detailer, Dreambooth, Deforum, ReActor
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了一个GitHub项目，提供了用于A1111 Stable Diffusion Web UI的Docker镜像，其中包含了Kohya_ss和ComfyUI。另外还提供了另一个Docker镜像，包含了Stable Diffusion WebUI以及ControlNet、After Detailer、Dreambooth、Deforum和ReActor等扩展功能。感兴趣的用户可以在github.com/ashleykleynhans/stable-diffusion-docker找到更多信息。 <div>
 'Docker image for A1111 Stable Diffusion Web UI, Kohya_ss and ComfyUI - Docker image for Stable Diffusion WebUI with ControlNet, After Detailer, Dreambooth, Deforum and ReActor extensions, as well as Kohya_ss and ComfyUI' GitHub: github.com/ashleykleynhans/stable-diffusion-docker <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho84ulotv0j21ji0ka41v.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 12:25:00 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 12:25:00 GMT</pubDate>
 </item>
 <item>
@@ -79,11 +104,10 @@ Rust编写的语言模型推理平台mistral.rs具有快速性能，支持深度
 <content:encoded><![CDATA[
 <div> 快速构建、LLM语音聊天应用、关键框架、开发人员、高效、聊天应用、Bolna、End-to-end、platform、GitHub
 
-总结:<br><br>
+总结:<br /><br />
 本文介绍了Bolna，一个能够实现LLM语音驱动的对话应用的端到端平台。通过提供关键框架，帮助开发人员轻松构建高效的聊天应用。开发者可以在GitHub上找到Bolna的源代码项目。 <div>
 【Bolna：快速构建LLM语音聊天应用的关键框架，帮助开发人员轻松打造高效的聊天应用】'Bolna - End-to-end platform enabling LLM based voice driven conversational applications' GitHub: github.com/bolna-ai/bolna <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho84hifed3j21bk0gmacb.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 12:12:28 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 12:12:28 GMT</pubDate>
 </item>
 <item>
@@ -92,11 +116,10 @@ Rust编写的语言模型推理平台mistral.rs具有快速性能，支持深度
 <guid>https://weibo.com/1402400261/O7hsykjAw</guid>
 <content:encoded><![CDATA[
 <div> PyTorch, JavaScript, 深度学习, 库, 语法, 开发人员, 实现, 模型, GitHub, 项目
-<br><br>总结:
+<br /><br />总结:
 PyTorch在JavaScript中的实现是一个类似于PyTorch的JavaScript库，从头开始构建。这个项目旨在提供一个类似于PyTorch的编程体验，使开发人员能够使用JavaScript语言来实现深度学习模型。通过GitHub上的项目，开发人员可以了解和使用这个深度学习库，从而在JavaScript环境中进行模型的开发和应用。JavaScript语言的灵活性和便捷性使得这个库可以更好地与前端开发集成，为开发人员提供了更多选择和可能性。通过这个项目，开发人员可以在JavaScript中体验和应用类似于PyTorch的深度学习功能，进一步推动了深度学习技术在不同领域的应用和发展。 <div>
 【PyTorch in JavaScript：一个深度学习 JavaScript 库，旨在与 PyTorch 的语法相类似，以便开发人员使用 JavaScript 实现深度学习模型】'PyTorch in JavaScript - A JavaScript library like PyTorch, built from scratch.' GitHub: github.com/eduardoleao052/js-torch <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho849wysk6j21am0u0gpo.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 12:05:08 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 12:05:08 GMT</pubDate>
 </item>
 <item>
@@ -105,13 +128,12 @@ PyTorch在JavaScript中的实现是一个类似于PyTorch的JavaScript库，从�
 <guid>https://weibo.com/1402400261/O7hrKuBtP</guid>
 <content:encoded><![CDATA[
 <div> GitHub、RAG、资源、列表、frutik、Awesome-RAG、资源列表、相关资源、大列表
-<br>
+<br />
 RAG是一个GitHub上的资源列表，由frutik创建并维护，收录了大量与RAG相关的资源。这个列表包含了各种与RAG技术相关的项目和工具，可以帮助用户更好地了解和学习RAG技术。通过这个资源列表，用户可以找到各种教程、示例代码、工具软件等，帮助他们在RAG领域取得更多的进展。总的来说，Awesome-RAG是一个集合了丰富资源并持续更新的GitHub资源列表，对RAG技术的学习和应用提供了很大的帮助。
-<br><br>
+<br /><br />
 总结: RAG资源列表是由frutik创建并维护的GitHub项目，整合了大量关于RAG技术的资源，包括教程、示例代码和工具软件，为用户提供了学习和应用RAG技术的支持。 <div>
 【RAG相关资源大列表】’Awesome-RAG' GitHub: github.com/frutik/Awesome-RAG <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho845k6jptj20sm1j4q92.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 12:03:10 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 12:03:10 GMT</pubDate>
 </item>
 <item>
@@ -121,14 +143,12 @@ RAG是一个GitHub上的资源列表，由frutik创建并维护，收录了大�
 <content:encoded><![CDATA[
 <div> 开源 Chrome 插件 Sidebar Web UI 任意网页 本地 AI 模型 交互 GitHub page-assist 
 
-<br><br>总结:
+<br /><br />总结:
 Page Assist 是一个开源的 Chrome 插件，它提供了一个 Sidebar 和 Web UI，让用户可以在任意网页上和本地 AI 模型进行交互。用户可以利用本地运行的 AI 模型来辅助浏览网页，提供更智能的功能和服务。这个项目的代码托管在 GitHub 上，地址为github.com/n4ze3m/page-assist。通过安装该插件，用户可以提升网页浏览的效率和体验，利用 AI 技术来更好地辅助自己的工作和学习。Page Assist 将 AI 技术与浏览器插件相结合，为用户提供了一种新的交互方式，帮助他们更好地利用本地AI模型，实现更智能化的网页浏览体验。 <div>
 【Page Assist：开源 Chrome 插件它提供一个 Sidebar 和 Web UI，让你在任意网页和本地 AI 模型交互】’Page Assist - Use your locally running AI models to assist you in your web browsing' GitHub: github.com/n4ze3m/page-assist <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho8423ptyjj20dc0a074e.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 29 Mar 2024 11:57:39 GMT</pubDate>
-<pubDate>Fri, 29 Mar 2024 11:57:39 GMT</pubDate>
 </item>
-
 <item>
 <title>【ratchet：跨平台浏览器ML框架】’ratchet - A cross-platform browser ML framework.' GitHub: github.com/huggingface/ratchet #开源# #机器学习# #人工智能#...</title>
 <link>https://weibo.com/1402400261/O7gRiszJV</link>
