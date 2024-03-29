@@ -1484,3 +1484,15 @@ Existing_entries: 170
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-29 00:49:56.860295
+------------------------------------------------------
+Started: 2024-03-29 02:17:07.427749
+Existing_entries: 170
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [#DeepMind创始人获骑士勋章# 恭喜Demis Hassabis！作为 DeepMind 联合创始人兼首席执行官，他因推动人工智能的发展而荣获英国骑士勋章。Knighthood（骑士爵位）...](https://weibo.com/6105753431/O7d0ClRPz)
+Token length: 406
+Summarized using GPT-3.5-turbo
+Append: [#反英伟达CUDA联盟集结# 市值2.3万亿美元、在AI加速市场大杀四方的英伟达，全行业都忍不了了。谷歌英特尔高通等联合成立“反CUDA联盟”——UXL基金会，欲从和英...](https://weibo.com/6105753431/O7cVUnZ0o)
+append_entries: 2
+Finish: 2024-03-29 02:17:16.355654
