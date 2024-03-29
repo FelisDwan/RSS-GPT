@@ -1987,3 +1987,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O7955zf6K)
 append_entries: 0
 Finish: 2024-03-28 22:10:32.926745
+------------------------------------------------------
+Started: 2024-03-29 00:49:57.224992
+Existing_entries: 309
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 252
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评...](https://weibo.com/1402400261/O7bWjsGOq)
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：今日开奖，欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@图灵文化 @图灵新知 送出3本《hello 算法》，截止2024.3.29 12:00，*...](https://weibo.com/1402400261/O7bWgwtuw)
+Token length: 102
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1359期)：大型语言模型中的长文本事实性、语言模型的少样本重校准、大型语言模型能产生具有同理心的反应、监控提示训练、适应任意分辨率的视觉Transf...](https://weibo.com/1402400261/O7bW44IwI)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [[CV] EgoLifter: Open-world 3D Segmentation for Egocentric Perception 网页链接 EgoLifter利用3D高斯与实例特征的组合以及对比学习，实现了从第一人称视频进...](https://weibo.com/1402400261/O7bSLBR4R)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [[CV] Benchmarking Object Detectors with COCO: A New Path Forward 网页链接 通过构建高质量的数据集COCO-ReM，揭示了目标检测模型评估的重要性，为未来的算法...](https://weibo.com/1402400261/O7bPVv6UR)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [[CL] Enhancing Legal Document Retrieval: A Multi-Phase Approach with Large Language Models 网页链接 通过在法律文档多阶段检索流程中集成提示驱动的大型语...](https://weibo.com/1402400261/O7bNMp76A)
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [[CL] BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text 网页链接 提出了面向生物医学领域的小型开源语言模型BioMedLM，证明了通过高质量...](https://weibo.com/1402400261/O7bLx6SZP)
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [[LG] Tutorial on Diffusion Models for Imaging and Vision 网页链接 本教程全面系统地介绍了从变分自编码器到扩散模型的发展脉络，数学推导细致，内容丰富，是...](https://weibo.com/1402400261/O7bJ6kisn)
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [通过自适应token融合模块和模糊位置编码增强了视觉Transformer的分辨率可扩展性，使其在广泛分辨率上都能保持高性能。 - 转发 @爱可可-爱生活:&ensp;[CV]《ViTAR...](https://weibo.com/1402400261/O7bFwiMRP)
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [[CV]《ViTAR: Vision Transformer with Any Resolution》Q Fan, Q You, X Han, Y Liu, Y Tao, H Huang, R He, H Yang [Chinese Academy of Sciences & ByteDance...](https://weibo.com/1402400261/O7bFtD4yb)
+append_entries: 10
+Finish: 2024-03-29 00:50:59.883824
