@@ -2089,3 +2089,36 @@ Summarized using GPT-3.5-turbo
 Append: [【Grok-1.5发布：支持128K超长上下文】- Grok-1.5是xAI最新发布的大型语言模型，具有更强的推理和解决问题的能力。 - Grok-1.5的一个显著改进是在编程和数学相关...](https://weibo.com/1402400261/O7fqKClTg)
 append_entries: 9
 Finish: 2024-03-29 12:21:25.869706
+------------------------------------------------------
+Started: 2024-03-29 14:10:04.706431
+Existing_entries: 329
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 256
+Summarized using GPT-3.5-turbo
+Append: [【遥感多模态大语言模型相关论文资源列表】’Awesome-Remote-Sensing-Multimodal-Large-Language-Model (Vision-Language) - Multimodal Large Language Model f...](https://weibo.com/1402400261/O7hIcz64J)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [【高斯Splatting相关论文列表】’2024-Arxiv-Paper-List-Gaussian-Splatting - 2024 Gaussian Splatting Paper List(Arxiv)' GitHub: github.com/Lee-JaeWon/202...](https://weibo.com/1402400261/O7hH1r6Pl)
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [【AxoNN：用于训练深度神经网络的并行框架】'AxoNN - A parallel framework for training deep neural networks' GitHub: github.com/axonn-ai/axonn #开源# #机...](https://weibo.com/1402400261/O7hGmmKev)
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [【mistral.rs： 纯Rust写的语言模型推理平台】'mistral.rs - Blazingly fast LLM inference.' GitHub: github.com/EricLBuehler/mistral.rs #开源# #机器学习# #...](https://weibo.com/1402400261/O7hFUnXaF)
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: ['Docker image for A1111 Stable Diffusion Web UI, Kohya_ss and ComfyUI - Docker image for Stable Diffusion WebUI with ControlNet, After Detailer, Dream...](https://weibo.com/1402400261/O7hAC6AMQ)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [【Bolna：快速构建LLM语音聊天应用的关键框架，帮助开发人员轻松打造高效的聊天应用】'Bolna - End-to-end platform enabling LLM based voice driven conversat...](https://weibo.com/1402400261/O7hvwvhmu)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [【PyTorch in JavaScript：一个深度学习 JavaScript 库，旨在与 PyTorch 的语法相类似，以便开发人员使用 JavaScript 实现深度学习模型】'PyTorch in JavaScript...](https://weibo.com/1402400261/O7hsykjAw)
+Token length: 67
+Summarized using GPT-3.5-turbo
+Append: [【RAG相关资源大列表】’Awesome-RAG' GitHub: github.com/frutik/Awesome-RAG #开源# #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O7hrKuBtP)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [【Page Assist：开源 Chrome 插件它提供一个 Sidebar 和 Web UI，让你在任意网页和本地 AI 模型交互】’Page Assist - Use your locally running AI models to a...](https://weibo.com/1402400261/O7hpvAAoK)
+append_entries: 9
+Finish: 2024-03-29 14:11:07.887875
