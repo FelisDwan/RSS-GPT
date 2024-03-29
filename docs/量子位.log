@@ -1514,3 +1514,12 @@ Summarized using GPT-3.5-turbo
 Append: [#吴恩达讲Agent# GPT 3.5如何打败GPT 4？吴恩达的回答是：智能体工作流。这就好比，有更好工作流程的人，他们的表现可能比那些聪明人更好。以上观点来自吴恩达在...](https://weibo.com/6105753431/O7doFp1mW)
 append_entries: 4
 Finish: 2024-03-29 04:14:16.677807
+------------------------------------------------------
+Started: 2024-03-29 06:14:06.541982
+Existing_entries: 176
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 286
+Summarized using GPT-3.5-turbo
+Append: [#微软客户抱怨Copilot不如ChatGPT好用# 有微软客户最近常抱怨，Copilot 似乎不如 ChatGPT 好用。明明都是同一家公司的技术，为什么用起来不一样呢？对此，微软回...](https://weibo.com/6105753431/O7e8tCSPE)
+append_entries: 1
+Finish: 2024-03-29 06:14:10.880825
