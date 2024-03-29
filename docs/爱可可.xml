@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>《爱可可微博热门分享(3.29)》 爱可可微博热门分享(3.29) [图片]</title>
 <link>https://weibo.com/1402400261/O7ie07MEC</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 微博、热门、分享、爱可可、3.29、关键词
 
-<br><br>总结:
+<br /><br />总结:
 3月29日，爱可可微博上热门分享了许多精彩内容，引起了广泛关注。其中包括美食推荐、旅行攻略、时尚资讯等各种各样的话题。用户们纷纷参与讨论，点赞和转发量也很高。爱可可微博的内容多样性和质量受到了用户的肯定。希望未来能继续为大家带来更多有趣的内容。 <div>
 《爱可可微博热门分享(3.29)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405017383558316417"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(3.29)</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho87newffvj20d607e3zd.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 14:02:01 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 14:02:01 GMT</pubDate>
 </item>
 <item>
@@ -25,15 +25,13 @@
 <content:encoded><![CDATA[
 <div> 关键词：神经表面重建、多视图法线集成、情感图像生成、深度学习、自动驾驶、人物重建、虚拟人视频生成、语言模型、远程感知图像分类、视频对象分割。
 
-总结:<br><br>
-这篇论文整理了几篇实现代码，涵盖了神经表面重建、情感图像生成、神经网络鲁棒性评估等多个领域。其中包括了一种通过多视图法线集成实现神经表面重建的方法，以及一种用于生成情感图像内容的文本到图像扩散模型。同时还介绍了一种自动驾驶中用于融合单视图和多视图深度信息的自适应融合算法，以及一种在野外环境中从单目视频中重建多个人物的方法。此外还有一种用于挖掘多模态视觉语言模型潜力的MiniGemini模型，以及一种生成高保真虚拟人视频的MuseV模型等。<br>
+总结:<br /><br />
+这篇论文整理了几篇实现代码，涵盖了神经表面重建、情感图像生成、神经网络鲁棒性评估等多个领域。其中包括了一种通过多视图法线集成实现神经表面重建的方法，以及一种用于生成情感图像内容的文本到图像扩散模型。同时还介绍了一种自动驾驶中用于融合单视图和多视图深度信息的自适应融合算法，以及一种在野外环境中从单目视频中重建多个人物的方法。此外还有一种用于挖掘多模态视觉语言模型潜力的MiniGemini模型，以及一种生成高保真虚拟人视频的MuseV模型等。<br />
 另外，还介绍了一种用于实现长视频理解的语言库，以及一种基于变分自动编码器的明暗风格内容分离模型。还有一种实时变换器开放词汇检测的方法，以及一种用状态空间模型实现遥感图像分类的RSMamba模型。同时还有一种用于控制区域级标题生成的ControlCap模型，以及一种使用文本到图像扩散实现注意力插值的AID模型。此外还有一种由LLM引导的组合式4D场景生成模型Comp4D，以及一种用于改善视觉识别中非层级Mamba算法的PlainMamba模型等。最后还介绍了一种通过调制交叉注意力内存实现高效视频对象分割的MAVOS模型，以及一种通过修剪和低秩修改评估安全性调整脆弱性的方法。 <div>
 几篇论文实现代码：<br />《SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration》(CVPR 2024) GitHub: github.com/CyberAgentAILab/SuperNormal [fig3] <br />《EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models》(CVPR 2024) GitHub: github.com/JingyuanYY/EmoGen [fig4]<br />《ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object》(CVPR 2024) GitHub: github.com/chenshuang-zhang/imagenet_d<br />《Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving》(CVPR 2024) GitHub: github.com/Junda24/AFNet<br />《MultiPly: Reconstruction of Multiple People from Monocular Video in the Wild》(CVPR 2024) GitHub: github.com/jzr99/MultiPly<br />《Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models》(2024) GitHub: github.com/dvlab-research/MiniGemini [fig1]<br />《MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising》(2024) GitHub: github.com/TMElyralab/MuseV [fig2] <br />《Long-form factuality in large language models》(2024) GitHub: github.com/google-deepmind/long-form-factuality<br />《Implicit Style-Content Separation using B-LoRA》(2024) GitHub: github.com/yardenfren1996/B-LoRA [fig5] <br />《Real-time Transformer-based Open-Vocabulary Detection with Efficient Fusion Head》(2024) GitHub: github.com/om-ai-lab/OmDet [fig8]<br />《RSMamba: Remote Sensing Image Classification with State Space Model》(2024) GitHub: github.com/KyanChen/RSMamba [fig9]<br />《Language Repository for Long Video Understanding》(2024) GitHub: github.com/kkahatapitiya/LangRepo [fig10]<br />《Light and Optimal Schr\"odinger Bridge Matching》(2024) GitHub: github.com/SKholkin/LightSB-Matching<br />《ControlCap: Controllable Region-level Captioning》(2024) GitHub: github.com/callsys/ControlCap [fig11]<br />《AID: Attention Interpolation of Text-to-Image Diffusion》(2024) GitHub: github.com/QY-H00/attention-interpolation-diffusion<br />《Comp4D: LLM-Guided Compositional 4D Scene Generation》(2024) GitHub: github.com/VITA-Group/Comp4D<br />《PlainMamba: Improving Non-hierarchical Mamba in Visual Recognition》(2024) GitHub: github.com/ChenhongyiYang/PlainMamba [fig7]<br />《Fed3DGS: Scalable 3D Gaussian Splatting with Federated Learning》(2024) GitHub: github.com/DensoITLab/Fed3DGS<br />《Efficient Video Object Segmentation via Modulated Cross-Attention Memory》(2024) GitHub: github.com/Amshaker/MAVOS [fig6]<br />《Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications》(2024) GitHub: github.com/boyiwei/alignment-attribution-code<br />《Surface and Edge Detection for Primitive Fitting of Point Clouds》(2024) GitHub: github.com/yuanqili78/SED-Net<br />《FollowIR: Evaluating and Teaching Information Retrieval Models to Follow Instructions》(2024) GitHub: github.com/orionw/FollowIR<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho81cu9q8pj22tu0uxe73.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho81cv52blj20re0jjjyq.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho81cylzabj22t02bc7wm.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho81cxbo0vj21ll0hfwsr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho81cyh6kmj20h909d419.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho81czzpxdj21yh0tykib.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho83zmbtfmj224y0n81kx.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho84jcw8cuj237a1nb17e.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho84yi8kbtj21x80i4qiw.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho84z1po9rj22po0sph3r.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho852lcklej21u61eeu0x.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 29 Mar 2024 12:56:26 GMT</pubDate>
-<pubDate>Fri, 29 Mar 2024 12:56:26 GMT</pubDate>
 </item>
-
 <item>
 <title>【遥感多模态大语言模型相关论文资源列表】’Awesome-Remote-Sensing-Multimodal-Large-Language-Model (Vision-Language) - Multimodal Large Language Model f...</title>
 <link>https://weibo.com/1402400261/O7hIcz64J</link>
