@@ -1541,3 +1541,15 @@ Summarized using GPT-3.5-turbo
 Append: [#Mamba架构第一次做大#！混合Transformer，打败Transformer精彩精彩，第一个把爆火Mamba架构真正扩展到足够大的工作来了。520亿参数，还是Mamba+Transformer混合...](https://weibo.com/6105753431/O7fNndVpN)
 append_entries: 1
 Finish: 2024-03-29 10:11:56.284682
+------------------------------------------------------
+Started: 2024-03-29 12:20:18.046077
+Existing_entries: 179
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 1184
+Summarized using GPT-3.5-turbo
+Append: [#AIGC的第四范式# 大模型的生成技能，已经到了普通人看不懂的境界！它可以根据用户过去5年的体检报告，生成未来第1年、第2年、第3年的体检报告。你看，这个生成...](https://weibo.com/6105753431/O7gvN3brK)
+Token length: 57
+Summarized using GPT-3.5-turbo
+Append: [春日回温，AIGC热潮也一波接一波！正逢其时——4月17日，让我们相聚 #中国AIGC产业峰会# 共同参与AIGC应用的新时代 👨💻👨💻 [图片]](https://weibo.com/6105753431/O7guF4BaZ)
+append_entries: 2
+Finish: 2024-03-29 12:20:29.649391

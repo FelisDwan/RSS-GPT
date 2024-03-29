@@ -4,6 +4,19 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+<item>
+<title>最近 Suno AI 实在火爆！在 GitHub 上有个非官方的 Suno API 项目，目前已支持生成歌曲、歌词等功能。具有如下特性：- 自动维护 token 与保活，无需担心 token ...</title>
+<link>https://weibo.com/5722964389/O7gDL4J5k</link>
+<guid>https://weibo.com/5722964389/O7gDL4J5k</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Suno AI, API, 歌曲生成, 歌词生成, token维护, 异步响应, 二次开发, AI镜像套壳网站接入
+
+总结:<br><br>最近 Suno AI 受欢迎，非官方 Suno API 项目在 GitHub 上支持生成歌曲和歌词等功能。项目自动维护token，保持活跃，响应速度快。代码简单易维护，方便二次开发。AI镜像套壳网站可以尝试接入。 <div>
+最近 Suno AI 实在火爆！<br /><br />在 GitHub 上有个非官方的 Suno API 项目，目前已支持生成歌曲、歌词等功能。<br /><br />具有如下特性：<br /><br />- 自动维护 token 与保活，无需担心 token 过期问题。<br />- 全异步，响应速度快，适合后期扩展。<br />- 代码简单，易于维护，可方便二次开发。<br /><br />GitHub：github.com/SunoAI-API/Suno-API<br /><br />如果你有在做 AI 镜像套壳网站，不妨试试接入到自己网站上。<img src="https://tvax4.sinaimg.cn/large/006fiYtfgy1ho7ywk0ddhj31f41a6am2.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 10:00:00 GMT</pubDate>
+<pubDate>Fri, 29 Mar 2024 10:00:00 GMT</pubDate>
+</item>
 
 <item>
 <title>推荐 GitHub 上一个内置文档系统的简约商务风 Hexo 主题 Stellar。支持丰富的标签和动态数据组件，可帮助你简单从容地应对各种表达需求。GitHub：github.com/xao...</title>

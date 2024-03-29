@@ -2056,3 +2056,36 @@ Existing_entries: 320
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-29 10:11:56.745551
+------------------------------------------------------
+Started: 2024-03-29 12:20:30.031321
+Existing_entries: 320
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [【ratchet：跨平台浏览器ML框架】’ratchet - A cross-platform browser ML framework.' GitHub: github.com/huggingface/ratchet #开源# #机器学习# #人工智能#...](https://weibo.com/1402400261/O7gRiszJV)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [【DeepSeek：基于LLM的检索引擎】'DeepSeek - LLM powered retrieval engine designed to process a ton of sources to collect a comprehensive list of entiti...](https://weibo.com/1402400261/O7gMqyvjl)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [【MAD-Lab：用来加速深学习架构设计的开源项目，使用简单的合成任务来预测模型在序列模式中的性能】'MAD-Lab - A MAD laboratory to improve AI architecture de...](https://weibo.com/1402400261/O7gfz9Dfi)
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: ['《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群' GitHub: github.com/easychen/one-person-businesses-methodology-v...](https://weibo.com/1402400261/O7gdbAQPy)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [【OpenTAD: 开源的PyTorch时间动作检测工具箱】'OpenTAD: An Open-Source Temporal Action Detection Toolbox. - OpenTAD is an open-source temporal action de...](https://weibo.com/1402400261/O7gcPf6p9)
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [【Valkey：一个新的开源项目，旨在重启之前的开源 Redis 项目】' - A new project to resume development on the formerly open-source Redis project. We're ca...](https://weibo.com/1402400261/O7gc7dqjj)
+Token length: 941
+Summarized using GPT-3.5-turbo
+Append: [GitHub: github.com/databricks/dbrx - 转发 @爱可可-爱生活:&ensp;【Databricks开源DBRX高性能大语言模型】- DBRX是Databricks开发的开源通用语言模型，在多项...](https://weibo.com/1402400261/O7g8IykIK)
+Token length: 722
+Summarized using GPT-3.5-turbo
+Append: [【Jamba：突破性的SSM-Transformer混合架构模型】- AI21 推出了名为 Jamba 的新型自然语言处理模型，首个基于 Mamba 结构化状态空间(Structured State Space mod...](https://weibo.com/1402400261/O7g6y9NdH)
+Token length: 915
+Summarized using GPT-3.5-turbo
+Append: [【Grok-1.5发布：支持128K超长上下文】- Grok-1.5是xAI最新发布的大型语言模型，具有更强的推理和解决问题的能力。 - Grok-1.5的一个显著改进是在编程和数学相关...](https://weibo.com/1402400261/O7fqKClTg)
+append_entries: 9
+Finish: 2024-03-29 12:21:25.869706
