@@ -1496,3 +1496,21 @@ Summarized using GPT-3.5-turbo
 Append: [#反英伟达CUDA联盟集结# 市值2.3万亿美元、在AI加速市场大杀四方的英伟达，全行业都忍不了了。谷歌英特尔高通等联合成立“反CUDA联盟”——UXL基金会，欲从和英...](https://weibo.com/6105753431/O7cVUnZ0o)
 append_entries: 2
 Finish: 2024-03-29 02:17:16.355654
+------------------------------------------------------
+Started: 2024-03-29 04:13:56.735932
+Existing_entries: 172
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 68
+Summarized using GPT-3.5-turbo
+Append: [#手机变机器人# 笑死，连手机都成精了！手机一放上 Looi 这款桌面机器人，你就多了一个日常玩闹伙伴和小管家，还能无线充电。（国外售价1百多美刀） 量子位的微...](https://weibo.com/6105753431/O7dVbANgY)
+Token length: 234
+Summarized using GPT-3.5-turbo
+Append: [#马斯克突发Grok1.5#！上下文长度至128k、HumanEval得分超GPT-4就在刚刚，马斯克Grok大模型宣布重大升级。难怪之前突然开源了Grok-1，因为他有更强的Grok-1.5了[...](https://weibo.com/6105753431/O7dFKsIJm)
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [#Grok新版本来了# 刚刚，马斯克旗下的Grok-1.5发布了最新预告。这是马上要来了的节奏吗~[doge]不愧是 “那个男人” ，上周Grok 1才刚开源，这又马不停蹄地整新活...](https://weibo.com/6105753431/O7dBiC82J)
+Token length: 421
+Summarized using GPT-3.5-turbo
+Append: [#吴恩达讲Agent# GPT 3.5如何打败GPT 4？吴恩达的回答是：智能体工作流。这就好比，有更好工作流程的人，他们的表现可能比那些聪明人更好。以上观点来自吴恩达在...](https://weibo.com/6105753431/O7doFp1mW)
+append_entries: 4
+Finish: 2024-03-29 04:14:16.677807
