@@ -2044,3 +2044,9 @@ Summarized using GPT-3.5-turbo
 Append: [恭喜@i_tuna 等3名用户获得【《hello 算法》】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：网页链接 - 转发 @爱可可-爱...](https://weibo.com/1402400261/O7eixaBMz)
 append_entries: 1
 Finish: 2024-03-29 06:14:16.896595
+------------------------------------------------------
+Started: 2024-03-29 08:13:49.754074
+Existing_entries: 320
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-03-29 08:13:49.923061

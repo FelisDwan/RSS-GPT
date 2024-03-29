@@ -1112,3 +1112,12 @@ Summarized using GPT-3.5-turbo
 Append: [分享 GitHub 上一份颇为全面的生成式 AI 学习指南 awesome-generative-ai-guide。涵盖了最新的生成式 AI 研究动态、面试资料、免费课程以及学习笔记等等丰富内容...](https://weibo.com/5722964389/O7ehDbXp3)
 append_entries: 1
 Finish: 2024-03-29 06:14:27.117611
+------------------------------------------------------
+Started: 2024-03-29 08:13:49.953552
+Existing_entries: 30
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [推荐 GitHub 上一个内置文档系统的简约商务风 Hexo 主题 Stellar。支持丰富的标签和动态数据组件，可帮助你简单从容地应对各种表达需求。GitHub：github.com/xao...](https://weibo.com/5722964389/O7fGfAZcH)
+append_entries: 1
+Finish: 2024-03-29 08:13:54.130563
