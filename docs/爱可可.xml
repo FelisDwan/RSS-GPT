@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【开源大语言模型的选择之道】- 近期不断有新的大型语言模型(LLM)发布，如Llama 2、Mixtral 8x7B、Zephyr 7B、SOLAR 10.7B和Code Llama等。这些模型规模越来越大...</title>
 <link>https://weibo.com/1402400261/O7n3vpf2O</link>
@@ -11,14 +12,12 @@
 <content:encoded><![CDATA[
 <div> 关键词: 大语言模型、选择、开源、性能、部署成本、可控性、多语言支持、部署流程、负责任、开源模型
 
-总结:<br>
+总结:<br />
 选择大语言模型时需考虑性能表现、调优空间、多语言支持等因素，开源模型具有更高的可控性、数据安全性和成本效益，但需要自行部署和维护。专用LLM在特定任务上表现更优，但通用LLM适用范围更广，需根据需求选择。在部署LLM时要考虑偏见、问责制等伦理问题，选择合适的模型大小和做好基础设施规划。API和监控可以简化部署流程和识别问题。发展中的LLM需要负责任地造福社会，模型参数量不代表在所有任务上表现更好，开源模型可能在灵活性、成本等方面更有优势。在实际应用中需全面评估质量、速度和成本，并不盲目追求参数量。开源模型可能是更好的选择，部署大语言模型需要考虑多方面策略，是一个复杂的过程。 <div>
 【开源大语言模型的选择之道】<br />- 近期不断有新的大型语言模型(LLM)发布，如Llama 2、Mixtral 8x7B、Zephyr 7B、SOLAR 10.7B和Code Llama等。这些模型规模越来越大，性能也在不断提升。   <br />- 选择使用哪个LLM要考虑多方面因素，如性能表现、调优空间、多语言支持、部署成本等。例如Llama 2在安全性方面较好，Mixtral 8x7B的效率高，Zephyr 7B理解人类意图的能力强。   <br />- 相比商业LLM，开源LLM有更高的可控性、数据安全性、成本效益及社区支持等优势。但它们也需要自行部署和维护。   <br />- 专用LLM比通用LLM在特定任务上的表现更优，但后者应用范围更广。需根据实际需求选择。   <br />- 大规模部署LLM需考虑偏见、透明度、问责制等伦理问题。同时要选择合适的模型大小，做好基础设施规划，实现可扩展性等。   <br />- API、模型服务框架等可以简化LLM的部署流程。日志和监控对于运行中识别问题也很重要。   <br />- LLM的潜力正在不断被开发，需要继续推动其以负责任的方式造福社会。<br /><br />思考：  <br />- 模型参数量越大，训练数据越多，并不一定意味着在所有任务上都表现更好，有时更小的模型针对特定领域优化反而更有优势。  <br />- 开源模型在灵活性、成本等方面可能比商业模型更有优势。  <br />- 大语言模型的发展速度惊人，但在实际应用中需要全面评估质量、速度、成本等因素，不能盲目追求参数量。  <br />- 开源正在成为AI领域的重要趋势，开源模型在许多场景下可能是更好的选择。  <br />- 部署大语言模型需要考虑诸多策略，涉及模型选择、推理优化、提示工程、伦理安全等方方面面，是一个复杂的过程。<br />《Navigating the World of Large Language Models》 <a href="https://www.bentoml.com/blog/navigating-the-world-of-large-language-models"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho8sy28h1vj20u00wtwka.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sat, 30 Mar 2024 02:19:55 GMT</pubDate>
-<pubDate>Sat, 30 Mar 2024 02:19:55 GMT</pubDate>
 </item>
-
 <item>
 <title>【不确定的确定性：用生成式模型颠覆天气预报】- 由于气象本质上是随机的，传统方法通过物理模拟生成一组预测来定量化不确定性，但这需要大量计算成本。Google提...</title>
 <link>https://weibo.com/1402400261/O7mnVgkA5</link>

@@ -1616,3 +1616,18 @@ Summarized using GPT-3.5-turbo
 Append: [【#AI+行业的时代来了#】第四范式新推出先知AIOS 5行业大模型平台，从生成图文视频，到生成“X模态”数据，AI真正化为行业生产力。 量子位的微博视频](https://weibo.com/6105753431/O7nOW0LLx)
 append_entries: 1
 Finish: 2024-03-30 06:13:23.755260
+------------------------------------------------------
+Started: 2024-03-30 08:14:18.096218
+Existing_entries: 184
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 442
+Summarized using GPT-3.5-turbo
+Append: [#揭秘大模型代码能力三大短板# 首个AI软件工程师Devin正式亮相，立即引爆了整个技术界。Devin不仅能够轻松解决编码任务，更可以自主完成软件开发的整个周期——...](https://weibo.com/6105753431/O7oQtuync)
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: [#OpenAI语音引擎公开#OpenAI雪藏的新产品——语音合成引擎Voice Engine，终于被正式揭幕。有了它，只需15秒的语音样本，就能克隆出一个人的声音，而且还能跨越语...](https://weibo.com/6105753431/O7oCx32wo)
+Token length: 576
+Summarized using GPT-3.5-turbo
+Append: [#是时候让CPU在AI应用上支棱起来了# 这是去年大语言模型大火之时，权威期刊IEEE Spectrum在一篇文章中，开门见山给出的一个观点；并且是由一群AI研究人员得出、...](https://weibo.com/6105753431/O7ovFxpBw)
+append_entries: 3
+Finish: 2024-03-30 08:14:28.345368

@@ -2225,3 +2225,9 @@ Summarized using GPT-3.5-turbo
 Append: [【开源大语言模型的选择之道】- 近期不断有新的大型语言模型(LLM)发布，如Llama 2、Mixtral 8x7B、Zephyr 7B、SOLAR 10.7B和Code Llama等。这些模型规模越来越大...](https://weibo.com/1402400261/O7n3vpf2O)
 append_entries: 1
 Finish: 2024-03-30 06:13:27.948998
+------------------------------------------------------
+Started: 2024-03-30 08:14:28.774624
+Existing_entries: 355
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-03-30 08:14:28.894776
