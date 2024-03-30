@@ -2156,3 +2156,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O7ieu6fIi)
 append_entries: 0
 Finish: 2024-03-29 22:10:47.339927
+------------------------------------------------------
+Started: 2024-03-30 00:47:36.224070
+Existing_entries: 340
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 871
+Summarized using GPT-3.5-turbo
+Append: [【三层评估法则：快速迭代，系统优化AI产品】- 构建语言模型产品的成功关键是快速迭代。必须具备评估质量、调试问题和改变系统行为的流程和工具。 - 评估系统有3...](https://weibo.com/1402400261/O7lI1oWfy)
+Token length: 1002
+Summarized using GPT-3.5-turbo
+Append: [【Voice Engine：15秒音频样本，开启逼真语音合成新时代】- OpenAI开发了一个名为Voice Engine的模型，可以通过15秒的音频样本生成自然语音，非常逼真地模拟原说...](https://weibo.com/1402400261/O7lGhyHkc)
+Token length: 252
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评...](https://weibo.com/1402400261/O7lvlzpnR)
+Token length: 98
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1360期)：只用少数微调模型达到模型融合性能、教语言模型提问澄清问题、直接偏好优化中长度与质量的解缠、将偏好数据集分割逐步使用的DPO、多专家递...](https://weibo.com/1402400261/O7lvdpHBP)
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [[CV] Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation 网页链接 提出Mesh2NeRF，一种从网格中直接获取NeRF表示的...](https://weibo.com/1402400261/O7lrfnG01)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [[CV] LocCa: Visual Pretraining with Location-aware Captioners 网页链接 LocCa通过引入位置感知描述任务实现了视觉表示对局部细节和整体语义的统一建模，在保...](https://weibo.com/1402400261/O7lp22VlA)
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [[LG] Tiny Machine Learning: Progress and Futures 网页链接 TinyML通过算法和系统的协同设计，实现深度学习模型在内存和计算有限的微控制器上的高效推理和训练...](https://weibo.com/1402400261/O7llHvZry)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [通过设计可证明H一致性的单阶段和两阶段代理损失函数，巧妙地将多专家递延框架扩展至回归问题，既适用于联合学习也适用于预训练模型。 - 转发 @爱可可-爱生活:&e...](https://weibo.com/1402400261/O7lg0kReZ)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Regression with Multi-Expert Deferral》A Mao, M Mohri, Y Zhong [Courant Institute of Mathematical Sciences & Google Research] (2024) 网页链接 #...](https://weibo.com/1402400261/O7lfY0hw3)
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [提出sDPO，将偏好数据集分步使用以获取更严格的下界约束，从而获得整体性能更强的语言模型。 - 转发 @爱可可-爱生活:&ensp;[CL]《sDPO: Don't Use Your Data All...](https://weibo.com/1402400261/O7lcEBZ31)
+append_entries: 10
+Finish: 2024-03-30 00:48:25.287116
