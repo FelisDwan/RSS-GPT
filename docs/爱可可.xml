@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【三层评估法则：快速迭代，系统优化AI产品】- 构建语言模型产品的成功关键是快速迭代。必须具备评估质量、调试问题和改变系统行为的流程和工具。 - 评估系统有3...</title>
 <link>https://weibo.com/1402400261/O7lI1oWfy</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> 快速迭代, 系统优化, AI产品, 评估, 单元测试, 模型评估, 人工评估, A/B测试, 日志记录, 微调
 
-总结:<br><br>这篇文章讲述了构建语言模型产品成功的关键在于快速迭代。作者提出了评估系统的三个层次：单元测试、模型和人工评估、A/B测试。单元测试是成本最低、频率最高的评估方式，要包含特定功能的场景和通用场景，不断更新。模型评估需要日志记录对话，构建特定领域的数据查看和标注工具，并定期进行人工评估。自动评估也很重要，可用于合成数据。作者强调A/B测试要谨慎引入，只有在产品较成熟时才适合。评估基础设施的建立可重复使用于调试和评估解决方案的效果。评估系统不仅能加速迭代，还能解锁微调和调试能力，从而提升AI系统的质量。整体而言，作者通过这些观点为AI产品开发提供了清晰的指导。 <div>
+总结:<br /><br />这篇文章讲述了构建语言模型产品成功的关键在于快速迭代。作者提出了评估系统的三个层次：单元测试、模型和人工评估、A/B测试。单元测试是成本最低、频率最高的评估方式，要包含特定功能的场景和通用场景，不断更新。模型评估需要日志记录对话，构建特定领域的数据查看和标注工具，并定期进行人工评估。自动评估也很重要，可用于合成数据。作者强调A/B测试要谨慎引入，只有在产品较成熟时才适合。评估基础设施的建立可重复使用于调试和评估解决方案的效果。评估系统不仅能加速迭代，还能解锁微调和调试能力，从而提升AI系统的质量。整体而言，作者通过这些观点为AI产品开发提供了清晰的指导。 <div>
 【三层评估法则：快速迭代，系统优化AI产品】<br />- 构建语言模型产品的成功关键是快速迭代。必须具备评估质量、调试问题和改变系统行为的流程和工具。   <br />- 评估系统有3个层次：单元测试、人工和模型评估、A/B测试。单元测试成本最低，频率最高。   <br />- 单元测试要包含特定功能的场景和通用场景，要不断根据新出现的错误更新。还要用语言模型生成测试用例。   <br />- 日志记录对话是模型评估的先决条件。要使查看数据无障碍，构建特定领域的数据查看和标注工具。定期人工评估样本很重要。   <br />- 可以用更强大的语言模型做自动评估。要跟踪模型和人工评价的相关性。自动评价也可以用于合成数据。   <br />- A/B测试确保AI产品驱动了预期的用户行为。当AI产品较成熟时再考虑。   <br />- 评估系统为微调和调试解锁能力。大部分微调工作是收集高质量数据，评估系统已具备数据生成和整理引擎。   <br />- 评估基础设施可重复使用于调试。可快速定位、复现错误，评估解决方案的效果。<br /><br />点评：  <br />- 作者基于多年从事语言模型相关工作的经验，指出鲁棒的评估系统对AI产品的成功至关重要，这一观点非常中肯和实用。  <br />- 文章强调了快速迭代对AI成功的重要性，并提出了质量评估、问题调试等必备流程和工具，为AI产品开发提供了清晰的指导。  <br />- 作者将评估分为三个层次：单元测试、模型和人工评估、A/B测试，这种分层思路有助于系统地开展评估工作，提高评估的针对性和有效性。  <br />- 对于第三层A/B测试，作者建议要谨慎对待，只有在产品足够成熟时才适合引入，这体现了作者对AI产品负责任开发的重视。  <br />- 文章还提到了评估AI子组件(如RAG)的重要性，这为进一步优化和改进AI系统提供了思路。  <br />- 作者强调评估系统不仅能加速迭代，还能解锁微调和调试能力，从而大幅提升AI系统质量，这一观点具有启发性，值得AI从业者深思。<br />《Your AI Product Needs Evals - How to construct domain-specific LLM evaluation systems.》 <a href="https://hamel.dev/blog/posts/evals/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho8n1bjwo3j20u013fq7s.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 22:54:15 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 22:54:15 GMT</pubDate>
 </item>
 <item>
@@ -22,13 +22,12 @@
 <link>https://weibo.com/1402400261/O7lGhyHkc</link>
 <guid>https://weibo.com/1402400261/O7lGhyHkc</guid>
 <content:encoded><![CDATA[
-<div> Voice Engine、OpenAI、15秒音频样本、逼真语音合成、安全措施、合成语音、风险、负责任部署、公开对话、全球公众<br>
-<br>
-总结：<br>
+<div> Voice Engine、OpenAI、15秒音频样本、逼真语音合成、安全措施、合成语音、风险、负责任部署、公开对话、全球公众<br />
+<br />
+总结：<br />
 OpenAI开发了Voice Engine模型，能通过15秒音频样本生成逼真语音，有广泛的应用前景。在试用阶段，OpenAI重视安全措施和负责任部署，通过公开对话推动社会适应该技术。合成语音技术存在滥用风险，OpenAI提出相应措施防范潜在滥用行为。透过预览展示技术潜力，强调提高全球公众对合成语音技术认识十分必要，体现开放和负责任态度。 <div>
 【Voice Engine：15秒音频样本，开启逼真语音合成新时代】<br />- OpenAI开发了一个名为Voice Engine的模型，可以通过15秒的音频样本生成自然语音，非常逼真地模拟原说话人的声音。这表明即使是一个小模型，也可以利用极短的音频样本生成富有情感和逼真的语音。   <br />- OpenAI已经在一小部分可靠合作伙伴中试用Voice Engine，发现它在教育、翻译、辅助交流等方面有广阔的应用前景。它可以为更广泛的受众创作语音内容，将内容翻译成多种语言保留原说话人的语调，为失语人群提供个性化语音等。   <br />- OpenAI认识到合成语音存在严重的风险，特别是在选举年。OpenAI正在与各国政府、媒体、娱乐、教育等领域的合作伙伴接触，收集他们的反馈意见。   <br />- OpenAI已经为Voice Engine引入了多项安全措施，包括给生成语音添加水印以追踪来源，监控其使用情况，需要合作伙伴遵守使用政策等。但OpenAI暂时还不会大规模部署这项技术。   <br />- OpenAI希望这项技术的预览能凸显它的潜力，同时也推动社会加强应对日渐逼真的生成模型带来的挑战的能力。OpenAI建议采取多项措施应对这一技术潮流。   <br />- OpenAI承诺会继续就合成语音的挑战和机遇与各界进行讨论。OpenAI将基于这些讨论结果决定是否和如何大规模部署这项技术。<br /><br />点评：  <br />- Voice Engine展示了OpenAI在语音合成技术方面的突破性进展，仅需15秒的音频样本就能生成逼真的自然语音，令人印象深刻。  <br />- OpenAI在Voice Engine的开发和应用中体现了对AI安全和负责任部署的高度重视，这种谨慎和知情的态度值得肯定。  <br />- 合成语音技术的滥用风险不容忽视，OpenAI提出的语音验证和禁止语音列表等措施，有助于在一定程度上防范潜在的滥用行为。  <br />- 通过Voice Engine的小规模预览，OpenAI展开了关于合成语音技术负责任部署的公开对话，这对于推动社会适应和应对这一新兴技术至关重要。  <br />- OpenAI强调，无论他们是否最终广泛部署Voice Engine，提高全球公众对语音合成技术发展趋势的认识和理解都十分必要，这体现了他们的开放和负责任态度。<br />《Navigating the Challenges and Opportunities of Synthetic Voices》 <a href="https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho8mwpd8pcj21fq0u0qa5.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 22:49:58 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 22:49:58 GMT</pubDate>
 </item>
 <item>
@@ -38,11 +37,10 @@ OpenAI开发了Voice Engine模型，能通过15秒音频样本生成逼真语音
 <content:encoded><![CDATA[
 <div> Java、Python、JavaScript、C语言、MySQL、Redis、技术、故事、编程语言、王国
 
-<br><br>总结:
+<br /><br />总结:
 《码农翻身2》是一本将技术知识以故事的形式生动讲解的畅销书，让看似枯燥的技术变得有趣。书中描述了编程语言王国的争斗，如Java向Python渗透、JavaScript向Java进攻、以及C语言的悲催处境。故事中MySQL和Redis之间的矛盾不断升级，让读者能轻松掌握技术原理。书籍内容丰富，既有技术知识，又富有趣味性。 <div>
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评论即可参与。畅销书《码农翻身》第2部终于出版了，依然是用故事的方式讲解技术，把看似枯燥乏味的技术，变成好玩有趣的故事。编程语言王国之间依然争斗得你死我活，今天Java向Python渗透，明天JavaScript就向Java猛烈进攻。而C语言春节回家，发现只有自己没有对象，十分悲催。MySQL和Redis互相看不顺眼，不断向对方使绊子。让大家掌握技术原理和本质的同时，又能读起来很爽。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5016276596163714"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4ohfsdnwj20m80m843i.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4ohgdugqj20m80m8tc1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho4ohgus3ij20m80m8q75.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho4ohhdfwxj20zk0zk7ar.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 22:23:01 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 22:23:01 GMT</pubDate>
 </item>
 <item>
@@ -52,11 +50,10 @@ OpenAI开发了Voice Engine模型，能通过15秒音频样本生成逼真语音
 <content:encoded><![CDATA[
 <div> 模型微调、模型融合、语言模型、问题澄清、偏好优化、长度与质量、DPO、专家递延回归
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了一些最新的研究成果和技术应用。首先，提出了一种只用少数微调模型就可以达到模型融合性能的方法，从而提高模型的效率和准确性。其次，讨论了如何教导语言模型提问以澄清问题，从而提高模型的理解和应用能力。接着，介绍了直接偏好优化中长度与质量的解缠技术，帮助优化结果更加准确和可靠。然后，讨论了将偏好数据集分割逐步使用的DPO方法，提高了数据集的利用效率。最后，介绍了多专家递延回归技术，有助于提高模型的预测和分析能力。这些技术都有着广泛的应用前景，可以帮助解决实际问题并提高工作效率。 <div>
 今日推介(第1360期)：只用少数微调模型达到模型融合性能、教语言模型提问澄清问题、直接偏好优化中长度与质量的解缠、将偏好数据集分割逐步使用的DPO、多专家递延回归 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/689840527"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(3.30)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho8m45hovtj20go06g3z8.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho8m47vrtij20go0aygn2.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho8m4b400wj20go0clwg7.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho8m4dj4ofj20go05u0t9.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho8m4h6e0pj20go09omz8.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 22:22:41 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 22:22:41 GMT</pubDate>
 </item>
 <item>
@@ -65,11 +62,10 @@ OpenAI开发了Voice Engine模型，能通过15秒音频样本生成逼真语音
 <guid>https://weibo.com/1402400261/O7lrfnG01</guid>
 <content:encoded><![CDATA[
 <div> 直接获取NeRF表示、网格、3D监督、渲染过程、单场景拟合、生成、精确可靠、提升表现、Mesh2NeRF、解析解  
-<br><br>总结:  
+<br /><br />总结:  
 本研究提出了一种名为Mesh2NeRF的方法，可以通过直接从网格中获取NeRF表示的解析解，为各类NeRF任务提供精确可靠的3D监督。这种方法可以绕过渲染过程中的不确定性，显著提升NeRF在单场景拟合和生成中的表现。Mesh2NeRF可以为NeRF任务提供更准确的监督信号，有望在3D场景表示与生成领域中发挥重要作用。 <div>
 [CV] Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation  <br /><a href="https://arxiv.org/abs/2403.19319"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>   <br />提出Mesh2NeRF，一种从网格中直接获取NeRF表示的解析解，可为各类NeRF任务提供精确可靠的3D监督，绕过渲染过程中的不确定性，显著提升NeRF在单场景拟合和生成中的表现。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho8lubomuaj20rg16gwqn.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho8luby8cxj21c012itm4.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 22:12:55 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 22:12:55 GMT</pubDate>
 </item>
 <item>
@@ -79,10 +75,9 @@ OpenAI开发了Voice Engine模型，能通过15秒音频样本生成逼真语音
 <content:encoded><![CDATA[
 <div> Visual Pretraining, Location-aware Captioners, LocCa, 图像理解, 定位性能, 位置感知描述任务, 视觉表示, 局部细节, 整体语义
 
-LocCa是一种通过引入位置感知描述任务实现视觉表示对局部细节和整体语义的统一建模方法。该方法在保持图像级理解能力的同时显著提升了定位性能。通过对图像进行位置感知描述任务的预训练，LocCa使得模型能够更好地对图像中的局部细节和整体语义进行捕捉和理解。这种方法为视觉表示学习带来了新的启发，为提升图像理解和定位性能提供了新的思路。LocCa的引入为视觉预训练领域带来了新的研究方向，将在未来的研究中继续发挥重要作用。<br><br>总结:LocCa通过引入位置感知描述任务实现了视觉表示对局部细节和整体语义的统一建模，在保持图像级理解能力的同时大幅提升了定位性能。 <div>
+LocCa是一种通过引入位置感知描述任务实现视觉表示对局部细节和整体语义的统一建模方法。该方法在保持图像级理解能力的同时显著提升了定位性能。通过对图像进行位置感知描述任务的预训练，LocCa使得模型能够更好地对图像中的局部细节和整体语义进行捕捉和理解。这种方法为视觉表示学习带来了新的启发，为提升图像理解和定位性能提供了新的思路。LocCa的引入为视觉预训练领域带来了新的研究方向，将在未来的研究中继续发挥重要作用。<br /><br />总结:LocCa通过引入位置感知描述任务实现了视觉表示对局部细节和整体语义的统一建模，在保持图像级理解能力的同时大幅提升了定位性能。 <div>
 [CV] LocCa: Visual Pretraining with Location-aware Captioners  <br /><a href="https://arxiv.org/abs/2403.19596"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>   <br />LocCa通过引入位置感知描述任务实现了视觉表示对局部细节和整体语义的统一建模，在保持图像级理解能力的同时大幅提升了定位性能。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho8lolftcpj20rc16mtky.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho8lom5f2fj21ck0y8akb.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 22:07:27 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 22:07:27 GMT</pubDate>
 </item>
 <item>
@@ -92,11 +87,10 @@ LocCa是一种通过引入位置感知描述任务实现视觉表示对局部细
 <content:encoded><![CDATA[
 <div> 关键词: TinyML, 算法, 深度学习模型, 微控制器, 推理, 训练, AI能力, 边缘物联网设备
 
-总结:<br><br>
+总结:<br /><br />
 本文介绍了Tiny Machine Learning（TinyML）技术的进展和未来发展。TinyML通过算法和系统的协同设计，在内存和计算有限的微控制器上实现了深度学习模型的高效推理和训练，从而将强大的AI能力扩展到无数的边缘物联网设备中。TinyML的发展为边缘设备赋予了智能化的能力，可以提供更快速、更可靠的数据处理和决策能力，推动了物联网领域的进一步发展。TinyML技术的未来发展将不断完善算法和系统设计，提高在资源有限的设备上的性能和效率，同时推动AI能力在边缘计算领域的广泛应用和普及。 <div>
 [LG] Tiny Machine Learning: Progress and Futures  <br /><a href="https://arxiv.org/abs/2403.19076"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>   <br />TinyML通过算法和系统的协同设计，实现深度学习模型在内存和计算有限的微控制器上的高效推理和训练，将强大的AI能力扩展到无数的边缘物联网设备中。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho8lg3cjwnj20wy17u7oc.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho8lg3ml3lj21kq0uuqet.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho8lg3sr1pj21ki18cqff.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho8lg3u4s2j21ke0iin5p.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 21:59:15 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 21:59:15 GMT</pubDate>
 </item>
 <item>
@@ -104,12 +98,11 @@ LocCa是一种通过引入位置感知描述任务实现视觉表示对局部细
 <link>https://weibo.com/1402400261/O7lg0kReZ</link>
 <guid>https://weibo.com/1402400261/O7lg0kReZ</guid>
 <content:encoded><![CDATA[
-<div> 代理损失函数, 单阶段, 两阶段, 多专家递延框架, 回归问题, 联合学习, 预训练模型<br>
-<br>
-提出了一种可以证明H一致性的单阶段和两阶段代理损失函数，将多专家递延框架扩展至回归问题。该方法适用于联合学习和预训练模型。通过设计巧妙的损失函数，实现了对多专家预测结果的推迟，在保证模型的一致性的同时提高了模型的性能和泛化能力。实验结果表明，该方法在回归问题上取得了良好的性能表现。总体而言，本文提出的方法在处理回归问题中充分发挥了多专家的优势，为相关领域的研究和应用提供了新的思路和方法。<br><br>总结: <div>
+<div> 代理损失函数, 单阶段, 两阶段, 多专家递延框架, 回归问题, 联合学习, 预训练模型<br />
+<br />
+提出了一种可以证明H一致性的单阶段和两阶段代理损失函数，将多专家递延框架扩展至回归问题。该方法适用于联合学习和预训练模型。通过设计巧妙的损失函数，实现了对多专家预测结果的推迟，在保证模型的一致性的同时提高了模型的性能和泛化能力。实验结果表明，该方法在回归问题上取得了良好的性能表现。总体而言，本文提出的方法在处理回归问题中充分发挥了多专家的优势，为相关领域的研究和应用提供了新的思路和方法。<br /><br />总结: <div>
 通过设计可证明H一致性的单阶段和两阶段代理损失函数，巧妙地将多专家递延框架扩展至回归问题，既适用于联合学习也适用于预训练模型。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Regression with Multi-Expert Deferral》A Mao, M Mohri, Y Zhong [Courant Institute of Mathematical Sciences &amp; Google Research] (2024) <a href="https://arxiv.org/abs/2403.19494"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho8kufil4jj21cq0sakch.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 21:45:13 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 21:45:13 GMT</pubDate>
 </item>
 <item>
@@ -119,10 +112,9 @@ LocCa是一种通过引入位置感知描述任务实现视觉表示对局部细
 <content:encoded><![CDATA[
 <div> 关键词: Regression, Multi-Expert Deferral, Courant Institute of Mathematical Sciences, Google Research
 
-总结:<br><br>这篇文章由毛阿(Mao)、莫里(Mohri)和钟杨(Zhong)共同撰写，研究了多专家推迟的回归方法。他们从数学科学研究所和谷歌研究部门发表了这项研究。<br>该研究提出了一种新方法，通过使用多个专家的意见来进行回归预测，以提高预测准确性。<br>专家推迟是指在有争议的情况下，将决策推迟到更有经验和专业知识的专家来做出。<br>研究使用了各种数学和统计方法来解决多专家推迟的回归问题，为实际应用提供了新的解决方案。<br>该研究成果对于数据科学领域以及商业决策具有重要意义，可以提高预测模型的准确性和稳定性。<br>毛阿、莫里和钟杨等研究人员的工作有望推动回归分析领域的进一步发展，为未来研究提供新的思路和方法。<br>通过结合数学科学和实际应用，他们的研究为数据分析领域带来了新的启示和突破。<br>毛阿、莫里和钟杨在多专家推迟的回归领域做出了重要贡献，为该领域的研究做出了新的探索和创新。<br>他们的研究成果为数据科学和机器学习领域提供了新的视角和方法，拓展了学术研究和实践应用的范围。<br>通过整合不同领域的专业知识和经验，毛阿、莫里和钟杨等研究人员为多专家推迟的回归方法提供了新的理论基础和实践指导。 <div>
+总结:<br /><br />这篇文章由毛阿(Mao)、莫里(Mohri)和钟杨(Zhong)共同撰写，研究了多专家推迟的回归方法。他们从数学科学研究所和谷歌研究部门发表了这项研究。<br />该研究提出了一种新方法，通过使用多个专家的意见来进行回归预测，以提高预测准确性。<br />专家推迟是指在有争议的情况下，将决策推迟到更有经验和专业知识的专家来做出。<br />研究使用了各种数学和统计方法来解决多专家推迟的回归问题，为实际应用提供了新的解决方案。<br />该研究成果对于数据科学领域以及商业决策具有重要意义，可以提高预测模型的准确性和稳定性。<br />毛阿、莫里和钟杨等研究人员的工作有望推动回归分析领域的进一步发展，为未来研究提供新的思路和方法。<br />通过结合数学科学和实际应用，他们的研究为数据分析领域带来了新的启示和突破。<br />毛阿、莫里和钟杨在多专家推迟的回归领域做出了重要贡献，为该领域的研究做出了新的探索和创新。<br />他们的研究成果为数据科学和机器学习领域提供了新的视角和方法，拓展了学术研究和实践应用的范围。<br />通过整合不同领域的专业知识和经验，毛阿、莫里和钟杨等研究人员为多专家推迟的回归方法提供了新的理论基础和实践指导。 <div>
 [LG]《Regression with Multi-Expert Deferral》A Mao, M Mohri, Y Zhong [Courant Institute of Mathematical Sciences &amp; Google Research] (2024) <a href="https://arxiv.org/abs/2403.19494"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho8kufil4jj21cq0sakch.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 21:45:06 GMT</pubDate>
 <pubDate>Fri, 29 Mar 2024 21:45:06 GMT</pubDate>
 </item>
 <item>
@@ -132,14 +124,12 @@ LocCa是一种通过引入位置感知描述任务实现视觉表示对局部细
 <content:encoded><![CDATA[
 <div> 关键词: sDPO, 偏好数据集, 下界约束, 语言模型, 整体性能, 转发, Upstage AI
 
-总结:<br><br>
+总结:<br /><br />
 这篇文章提出了sDPO方法，旨在通过分步使用偏好数据集来获取更严格的下界约束，从而提升语言模型的整体性能。sDPO的核心思想是不将所有数据一次性使用，而是分阶段使用，以优化模型的性能。作者通过实验和研究表明，sDPO能够有效提升语言模型的性能，使其更加强大和稳健。这一方法在未来可能对自然语言处理领域有着重要的影响，并值得进一步研究和探索。 <div>
 提出sDPO，将偏好数据集分步使用以获取更严格的下界约束，从而获得整体性能更强的语言模型。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《sDPO: Don't Use Your Data All at Once》D Kim, Y Kim, W Song, H Kim, Y Kim, S Kim, C Park [Upstage AI] (2024) <a href="https://arxiv.org/abs/2403.19270"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho8kl4nf9uj20o60qc44m.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho8kl5h2ltj21km0jswkb.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho8kl5nudnj20s40godhv.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho8kl5voulj20s00f6gnn.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 29 Mar 2024 21:36:58 GMT</pubDate>
-<pubDate>Fri, 29 Mar 2024 21:36:58 GMT</pubDate>
 </item>
-
 <item>
 <title>《爱可可微博热门分享(3.29)》 爱可可微博热门分享(3.29) [图片]</title>
 <link>https://weibo.com/1402400261/O7ie07MEC</link>
