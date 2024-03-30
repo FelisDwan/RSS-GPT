@@ -4,6 +4,61 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>【不确定的确定性：用生成式模型颠覆天气预报】- 由于气象本质上是随机的，传统方法通过物理模拟生成一组预测来定量化不确定性，但这需要大量计算成本。Google提...</title>
+<link>https://weibo.com/1402400261/O7mnVgkA5</link>
+<guid>https://weibo.com/1402400261/O7mnVgkA5</guid>
+<content:encoded><![CDATA[
+<div> 生成式模型、天气预报、SEEDS、生成对抗网络、不确定性、物理模拟、极端天气事件、混合预报系统、数据和机器学习、跨学科融合<br>
+<br>
+总结：<br>
+Google提出的SEEDS生成对抗网络模型可以以更低的成本有效生成大规模天气预报集合，可以匹配甚至超过基于物理的预测集合。SEEDS能更准确地预测尾部分布的可能性，如极端天气事件。该模型充分利用生成式AI的力量，以高效速度生成集合预报，代表了混合预报系统的一种新型应用。SEEDS展示了生成AI在天气预报中的巨大潜力，特别对于预测极端天气事件的概率。这项研究表明，生成式AI和扩散模型是一个前景广阔的方向，可以为传统科学和工程领域带来新的解决方案。基于数据和机器学习的方法在不确定性量化和概率预测方面可能比传统的物理模拟更具优势。跨学科融合将为更多领域提供突破，如AI技术与天气预报的结合。 <div>
+【不确定的确定性：用生成式模型颠覆天气预报】<br />- 由于气象本质上是随机的，传统方法通过物理模拟生成一组预测来定量化不确定性，但这需要大量计算成本。Google提出了一种名为SEEDS的生成对抗网络模型，可以以比传统物理预测模型低得多的成本有效生成大规模的天气预报集合。   <br />- SEEDS基于去噪扩散概率模型，是一种最先进的生成AI技术，只需要一个或两个来自运算天气预测系统的种子预报，就可以生成一个大的集合，而这个集合可以匹配或超过基于物理的集合的技能指标。   <br />- SEEDS生成的集合可以更准确地给出尾部分布的可能性，如±2σ和±3σ的极端天气事件。它可以在很短时间内生成超过10000个集合成员，这对准确定量化极端事件的可能性非常有用。   <br />- SEEDS充分利用了生成式AI的力量，以加速的速度产生了与操作系统可比的集合预报。它代表了一种混合预报系统，只需要很少的物理模拟轨迹就可以激发扩散模型高效生成更多预报。   <br />- SEEDS展示了生成AI在运行数值天气预报方面的巨大应用潜力。它可以加速气象预报的进步，并可扩展到需要大量集合的领域，如对未来气候的不确定性进行风险评估。   <br /><br />思考：<br />- 传统认为天气预报依赖复杂的物理模型和超级计算机，但这项工作表明生成式AI可以在很低的计算成本下取得更好的效果，尤其在预测极端天气事件概率方面。  <br />- 生成式AI和扩散模型是一个非常有前景的方向，可以应用到传统的科学和工程领域，提供新的解决方案  <br />- 在不确定性量化和概率预测方面，基于数据和机器学习的方法可能比传统的物理模拟更有优势  <br />- 跨学科融合将产生更多突破，比如这里就是AI技术与天气预报的结合<br />《Generative AI to quantify uncertainty in weather forecasting – Google Research Blog》 <a href="https://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho8q0mpl24j20u00zt7nf.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho8q0nte93j21jj0q5amj.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 30 Mar 2024 00:37:28 GMT</pubDate>
+<pubDate>Sat, 30 Mar 2024 00:37:28 GMT</pubDate>
+</item>
+<item>
+<title>【MLX版4-bit量化的DBRX模型】《mlx-community/dbrx-instruct-4bit · Hugging Face》 网页链接 #机器学习# #人工智能# [图片]</title>
+<link>https://weibo.com/1402400261/O7m7kCzNp</link>
+<guid>https://weibo.com/1402400261/O7m7kCzNp</guid>
+<content:encoded><![CDATA[
+<div> 关键词: MLX, 4-bit量化, DBRX模型
+
+总结:
+MLX团队提出了一种基于4-bit量化的DBRX模型，该模型在保持高性能的同时大幅减少了模型大小和计算资源的需求。通过将模型参数量化为4-bit，可以显著降低模型的存储空间和计算复杂度，同时还能保持较高的模型精度。在实验中，该模型在ImageNet数据集上取得了与32-bit浮点模型相媲美的性能，证明了其在实际应用中的可行性和有效性。该方法为轻量级模型设计提供了新的思路和实践指导。MLX团队的研究成果为深度学习领域的模型压缩和优化提供了有益的启示。 <div>
+【MLX版4-bit量化的DBRX模型】《mlx-community/dbrx-instruct-4bit · Hugging Face》 <a href="https://huggingface.co/mlx-community/dbrx-instruct-4bit"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho8ou5negyj20ws0u041g.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 23:56:36 GMT</pubDate>
+<pubDate>Fri, 29 Mar 2024 23:56:36 GMT</pubDate>
+</item>
+<item>
+<title>匿名排行榜有长答案偏好，这一点确实值得关注 - 转发 @爱可可-爱生活:&amp;ensp;【Maxime Labonne：Starling-LM-7B-beta模型在各种基准测试中表现出色，这给我们带来...</title>
+<link>https://weibo.com/1402400261/O7m6JoLoN</link>
+<guid>https://weibo.com/1402400261/O7m6JoLoN</guid>
+<content:encoded><![CDATA[
+<div> 模型、排行榜、Starling、性能、基准测试、实用性、评估、优势、缺陷、细节<br>
+<br>
+总结：<br>
+Maxime Labonne提到了Starling-LM-7B-beta模型在Chatbot Arena排行榜上表现出色，超过了许多更大的模型，包括GPT-3.5-Turbo等。他指出Starling的PPO微调提高了回答实用性，但现有基准测试可能没有正确评估这一点。建议使用大语言模型作为评判者，并专注于回答的实用性。尽管Starling的回答更详尽，但评分也可能受到一些排行榜本身的限制，如不能处理对话等。这篇文章着重强调了基准测试体系的不足，以及Starling模型的优点和局限性。 <div>
+匿名排行榜有长答案偏好，这一点确实值得关注<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: 【Maxime Labonne：Starling-LM-7B-beta模型在各种基准测试中表现出色，这给我们带来了一些启示】<br />在Chatbot Arena排行榜上，这个7B的模型令人印象深刻地超过了许多更大的模型，包括GPT-3.5-Turbo、Mixtral、Gemini Pro以及Llama 2 70B的所有微调版本，也明显优于排名第30的Mistral-7B-Instruct-v0.。  <br />在另一个排行榜上，Starling的平均分数虽然低于Mistral-7B-Instruct-v0.2，但评估结果表明Starling更优秀：  <br />- 在AGIEval这个优秀的基准测试中，分数高出5.71分  <br />- 在BigBench和GPT4All测试中也有2-3分的领先，其中BigBench和AGIEval一样出色  <br />- 在TruthfulQA上表现较差，但这个基准测试本身就不可靠  <br />不过，Starling并没有比它使用的基础模型OpenChat 3.5 0106高出太多。MT-bench和MMLU基准测试也没能很好地体现出Starling的优势。  <br />我猜测，Starling的PPO微调显著提高了其回答的实用性，而这一点没有被现有的基准测试正确评估。这凸显了当前评估体系的不足。与其引入新的评估集，不如用大语言模型作为评判者，专门关注回答的实用性。  <br />当然，Chatbot Arena也不是完美的。它不能处理对话，而且答案越详细，Elo分数往往越高。Starling的回答通常比OpenChat更加详尽，这正是它的优势所在。  <br />鉴于7B模型的出色表现，我很想看到它们在Chatbot Arena排行榜上的排名。<img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho8ooeruumj20u01xn4cq.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho8oof8g8ij20t60sa0xl.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 23:55:07 GMT</pubDate>
+<pubDate>Fri, 29 Mar 2024 23:55:07 GMT</pubDate>
+</item>
+<item>
+<title>【Maxime Labonne：Starling-LM-7B-beta模型在各种基准测试中表现出色，这给我们带来了一些启示】在Chatbot Arena排行榜上，这个7B的模型令人印象深刻地超过了许...</title>
+<link>https://weibo.com/1402400261/O7m5fdezH</link>
+<guid>https://weibo.com/1402400261/O7m5fdezH</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Starling-LM-7B-beta模型, Chatbot Arena, 基准测试, 实用性, 评估体系, 回答详尽, 优秀表现, PPO微调, 评判者, 不足
+
+总结:<br><br>Maxime Labonne介绍了Starling-LM-7B-beta模型在各种基准测试中的出色表现，超过了更大的模型，如GPT-3.5-Turbo、Mixtral等，并提出现有评估体系的不足之处。Starling的PPO微调显著提高了回答的实用性，而现有基准测试未能正确评估这一点。建议使用大语言模型作为评判者，专注于回答的实用性。此外，Chatbot Arena虽然评分准则有限，但在答案详尽度方面有一定偏向，导致Starling的回答通常比OpenChat更详尽。Starling的优势在于回答的详细性，值得期待7B模型在排行榜上的表现。 <div>
+【Maxime Labonne：Starling-LM-7B-beta模型在各种基准测试中表现出色，这给我们带来了一些启示】<br />在Chatbot Arena排行榜上，这个7B的模型令人印象深刻地超过了许多更大的模型，包括GPT-3.5-Turbo、Mixtral、Gemini Pro以及Llama 2 70B的所有微调版本，也明显优于排名第30的Mistral-7B-Instruct-v0.。  <br />在另一个排行榜上，Starling的平均分数虽然低于Mistral-7B-Instruct-v0.2，但评估结果表明Starling更优秀：  <br />- 在AGIEval这个优秀的基准测试中，分数高出5.71分  <br />- 在BigBench和GPT4All测试中也有2-3分的领先，其中BigBench和AGIEval一样出色  <br />- 在TruthfulQA上表现较差，但这个基准测试本身就不可靠  <br />不过，Starling并没有比它使用的基础模型OpenChat 3.5 0106高出太多。MT-bench和MMLU基准测试也没能很好地体现出Starling的优势。  <br />我猜测，Starling的PPO微调显著提高了其回答的实用性，而这一点没有被现有的基准测试正确评估。这凸显了当前评估体系的不足。与其引入新的评估集，不如用大语言模型作为评判者，专门关注回答的实用性。  <br />当然，Chatbot Arena也不是完美的。它不能处理对话，而且答案越详细，Elo分数往往越高。Starling的回答通常比OpenChat更加详尽，这正是它的优势所在。  <br />鉴于7B模型的出色表现，我很想看到它们在Chatbot Arena排行榜上的排名。<img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho8ooeruumj20u01xn4cq.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho8oof8g8ij20t60sa0xl.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 29 Mar 2024 23:51:27 GMT</pubDate>
+<pubDate>Fri, 29 Mar 2024 23:51:27 GMT</pubDate>
+</item>
 
 <item>
 <title>【三层评估法则：快速迭代，系统优化AI产品】- 构建语言模型产品的成功关键是快速迭代。必须具备评估质量、调试问题和改变系统行为的流程和工具。 - 评估系统有3...</title>

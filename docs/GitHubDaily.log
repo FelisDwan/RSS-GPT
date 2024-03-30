@@ -1181,3 +1181,9 @@ Summarized using GPT-3.5-turbo
 Append: [推荐 GitHub 上一个清新优雅、高颜值且功能强大的后台管理模板 Soybean Admin。内置了丰富的主题配置和组件，提供一站式的后台管理解决方案，无需额外配置，开箱...](https://weibo.com/5722964389/O7mkT9khB)
 append_entries: 1
 Finish: 2024-03-30 02:14:51.390651
+------------------------------------------------------
+Started: 2024-03-30 04:12:54.768147
+Existing_entries: 33
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-03-30 04:12:56.323016

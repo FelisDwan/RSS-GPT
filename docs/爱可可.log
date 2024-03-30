@@ -2198,3 +2198,21 @@ Existing_entries: 350
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-30 02:14:44.598387
+------------------------------------------------------
+Started: 2024-03-30 04:12:34.088637
+Existing_entries: 350
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 789
+Summarized using GPT-3.5-turbo
+Append: [【不确定的确定性：用生成式模型颠覆天气预报】- 由于气象本质上是随机的，传统方法通过物理模拟生成一组预测来定量化不确定性，但这需要大量计算成本。Google提...](https://weibo.com/1402400261/O7mnVgkA5)
+Token length: 73
+Summarized using GPT-3.5-turbo
+Append: [【MLX版4-bit量化的DBRX模型】《mlx-community/dbrx-instruct-4bit · Hugging Face》 网页链接 #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O7m7kCzNp)
+Token length: 736
+Summarized using GPT-3.5-turbo
+Append: [匿名排行榜有长答案偏好，这一点确实值得关注 - 转发 @爱可可-爱生活:&ensp;【Maxime Labonne：Starling-LM-7B-beta模型在各种基准测试中表现出色，这给我们带来...](https://weibo.com/1402400261/O7m6JoLoN)
+Token length: 707
+Summarized using GPT-3.5-turbo
+Append: [【Maxime Labonne：Starling-LM-7B-beta模型在各种基准测试中表现出色，这给我们带来了一些启示】在Chatbot Arena排行榜上，这个7B的模型令人印象深刻地超过了许...](https://weibo.com/1402400261/O7m5fdezH)
+append_entries: 4
+Finish: 2024-03-30 04:12:54.734616
