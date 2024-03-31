@@ -2276,3 +2276,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O7rJnwv4U)
 append_entries: 0
 Finish: 2024-03-30 22:10:42.479379
+------------------------------------------------------
+Started: 2024-03-31 00:54:35.707583
+Existing_entries: 355
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 252
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评...](https://weibo.com/1402400261/O7uVrf61S)
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1361期)：使用方向感知t-SNE可视化高维时间数据、超越回路重叠寻找模型机制、语言模型视角下的工具使用研究综述、用引导扩散从零开始生成强大的投毒...](https://weibo.com/1402400261/O7uVh0dhT)
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [通过构建反事实图像数据集微调扩散模型，实现了逼真的物体删除和插入，显著提高了渲染物体对场景效应的能力。 - 转发 @爱可可-爱生活:&ensp;[CV]《ObjectDrop: B...](https://weibo.com/1402400261/O7uR4D6Cm)
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [[CV]《ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion》D Winter, M Cohen, S Fruchter, Y Pritch, A Rav-Acha, ...](https://weibo.com/1402400261/O7uR2hqNe)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [利用引导扩散生成高质量和高效的中投毒基础样本，再与下游攻击算法相结合，实现了更隐蔽和强效的对抗机器学习。 - 转发 @爱可可-爱生活:&ensp;[LG]《Generating ...](https://weibo.com/1402400261/O7uKD6OzN)
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Generating Potent Poisons and Backdoors from Scratch with Guided Diffusion》H Souri, A Bansal, H Kazemi, L Fowl... [Johns Hopkins University & U...](https://weibo.com/1402400261/O7uKuxzfT)
+Token length: 238
+Summarized using GPT-3.5-turbo
+Append: [通过定义工具的概念、总结应用场景和方法、分析效率等方面，全面系统地回顾和分析了工具辅助语言模型的研究进展，为该领域的发展提供了重要指导。 - 转发 @爱可...](https://weibo.com/1402400261/O7uEwqhRZ)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [[CL]《What Are Tools Anyway? A Survey from the Language Model Perspective》Z Wang, Z Cheng, H Zhu, D Fried, G Neubig [CMU & Shanghai Jiao Tong Univers...](https://weibo.com/1402400261/O7uEusOfo)
+Token length: 234
+Summarized using GPT-3.5-turbo
+Append: [提出 EAP-IG 方法，实验证明它相比 EAP 可以提取出更忠实的回路，以更准确地理解语言模型的内在运算机制。 - 转发 @爱可可-爱生活:&ensp;[LG]《Have Faith in Fa...](https://weibo.com/1402400261/O7uBnidh5)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms》M Hanna, S Pezzelle, Y Belinkov [University of Amsterdam...](https://weibo.com/1402400261/O7uBkAiq9)
+append_entries: 10
+Finish: 2024-03-31 00:55:22.716985
