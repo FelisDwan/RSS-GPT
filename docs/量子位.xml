@@ -5,21 +5,34 @@
 <link>https://weibo.com/6105753431/</link>
 
 <item>
+<title>#IDEA新模型融合文本视觉Prompt# 还记得黑客帝国经典的子弹时间吗？IDEA研究院最新检测模型T-Rex2，可以齐刷刷给全部识别出来~而面对难倒一众大模型「吉娃娃or松...</title>
+<link>https://weibo.com/6105753431/O7xQbxPLY</link>
+<guid>https://weibo.com/6105753431/O7xQbxPLY</guid>
+<content:encoded><![CDATA[
+<div> IDEA研究院、T-Rex2、目标检测、视觉提示、文本提示、多目标跟踪、长尾数据、稀有物体、比较学习、Zero-Shot SOTA
+
+<br><br>总结:
+IDEA研究院最新推出的T-Rex2模型整合了视觉和文本提示的检测能力，通过比较学习实现多种输入形式的处理。该模型能够在不同模式下进行工作，包括文本提示模式、交互式视觉提示模式和通用视觉提示模式。在各种基准测试集上表现出色，实现了Zero-Shot SOTA的性能。通过融合不同提示方式，解决了目标检测中存在的一些局限性问题，提高了检测准确度和效率。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23IDEA%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%9E%8D%E5%90%88%E6%96%87%E6%9C%AC%E8%A7%86%E8%A7%89Prompt%23&amp;extparam=%23IDEA%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%9E%8D%E5%90%88%E6%96%87%E6%9C%AC%E8%A7%86%E8%A7%89Prompt%23"><span class="surl-text">#IDEA新模型融合文本视觉Prompt#</span></a> 还记得黑客帝国经典的子弹时间吗？<br /><br />IDEA研究院最新检测模型T-Rex2，可以齐刷刷给全部识别出来~<br /><br />而面对难倒一众大模型「吉娃娃or松饼」的难题，它只需被投喂一张吉娃娃的照片，就能瞬间迎刃而解。<br /><br />此前，也是同样的团队，推出了基于视觉提示的检测模型T-Rex。<br /><br />如今，他们将视觉和文本提示融合，相互弥补各自的缺陷，实现了更强的目标检测能力。<br /><br />并且与多目标跟踪模型结合后，各种视频检测任务也不在话下。<br /><br />来看新研究到底说了什么。<br /><br />在开集目标检测领域，尽管文本提示受到一定的青睐，但也存在一定的局限性。<br /><br />比如长尾数据短缺。稀有或者全新的物体类别的数据稀缺可能会削弱其学习效率。还有描述上的局限性，对于一些难以用语言描绘的对象，因受限于无法精确描述，也会削弱效果。<br /><br />而视觉提示提供了更直观且直接的对象表示方法，但在捕捉常见对象的概念时效果就会很差。<br /><br />T-Rex2通过对比学习在单个模型中整合两种提示，因此接受多种格式的输入，包括文本提示、视觉提示以及两者的组合。<br /><br />在不同场景中，它可以通过在两种提示方式之间切换来处理。<br /><br />因此，它大致有三种工作模式：<br /><br />文本提示模式、交互式视觉提示模式、通用视觉提示模式。<br />以通用视觉提示模式为例，用户可以通过向模型提供任意数量的示例图片，来自定义特定对象的视觉嵌入，然后使用这个嵌入来检测任意图像中的对象。<br /><br />也就是不需要用户与模型直接互动，就能完成检测任务。<br /><br />最终在在四个学术基准测试集 COCO, LVIS, ODinW, 和Roboflow100 上取得了 Zero-Shot SOTA的性能。<a href="https://mp.weixin.qq.com/s/NHqZ1hNBGUI9bv7xspN-fA"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">吉娃娃or松饼难题被解决！IDEA研究院新模型打通文本视觉Prompt，连黑客帝国的子弹都能数清楚</span></a><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hoa4krtzb6g30hs09u7wh.gif" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hoa4klfr6qg30hs09u4qp.gif" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hoa4kl1zswj30rw0a20zc.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hoa4kl2pynj30u00ieqcq.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 05:47:19 GMT</pubDate>
+<pubDate>Sun, 31 Mar 2024 05:47:19 GMT</pubDate>
+</item>
+
+<item>
 <title>#2024年值得关注的AIGC企业&amp;产品# 评选报名最后一天！ [图片]</title>
 <link>https://weibo.com/6105753431/O7x7A3sct</link>
 <guid>https://weibo.com/6105753431/O7x7A3sct</guid>
 <content:encoded><![CDATA[
-<div> AIGC企业, 2024年, 评选, 报名, 最后一天, 产品, 关注<br>
-<br>
-在2024年，AIGC企业举办了评选活动，吸引了众多企业报名参与。报名截止日期即将到来，具有潜力的产品和企业值得关注。随着AIGC的评选活动临近尾声，大家都在关注可能脱颖而出的企业及产品，希望获得业内认可和关注。这也预示着未来AIGC行业的发展方向和趋势。<br> 
+<div> AIGC企业, 2024年, 评选, 报名, 最后一天, 产品, 关注<br />
+<br />
+在2024年，AIGC企业举办了评选活动，吸引了众多企业报名参与。报名截止日期即将到来，具有潜力的产品和企业值得关注。随着AIGC的评选活动临近尾声，大家都在关注可能脱颖而出的企业及产品，希望获得业内认可和关注。这也预示着未来AIGC行业的发展方向和趋势。<br /> 
 
-总结: <br>2024年的AIGC企业评选活动即将截止报名，受到了广泛关注，各个企业纷纷参与其中，大家期待着在众多优秀产品中脱颖而出。 <div>
+总结: <br />2024年的AIGC企业评选活动即将截止报名，受到了广泛关注，各个企业纷纷参与其中，大家期待着在众多优秀产品中脱颖而出。 <div>
 #2024年值得关注的AIGC企业&amp;产品# 评选报名最后一天！ <img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hoa1f1y2hvj33cm46rx6q.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 31 Mar 2024 03:57:25 GMT</pubDate>
-<pubDate>Sun, 31 Mar 2024 03:57:25 GMT</pubDate>
 </item>
-
 <item>
 <title>#揭秘大模型代码能力三大短板# 首个AI软件工程师Devin正式亮相，立即引爆了整个技术界。Devin不仅能够轻松解决编码任务，更可以自主完成软件开发的整个周期——...</title>
 <link>https://weibo.com/6105753431/O7oQtuync</link>

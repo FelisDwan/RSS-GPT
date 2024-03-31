@@ -2345,3 +2345,24 @@ Summarized using GPT-3.5-turbo
 Append: [【DSPy：机器学习工作流重塑提示工程】- DSPy 是一个与众不同的提示工程框架，它将逻辑与提示分离，使开发人员能够通过 dspy.Module 确定性地编程逻辑，而不用关...](https://weibo.com/1402400261/O7vOKCeLv)
 append_entries: 5
 Finish: 2024-03-31 06:13:37.888603
+------------------------------------------------------
+Started: 2024-03-31 08:13:57.998944
+Existing_entries: 370
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 341
+Summarized using GPT-3.5-turbo
+Append: [【RestAI：基于LlamaIndex、Ollama和HF pipelines的AIaaS(人工智能即服务)开源平台】'RestAI - RestAI is an AIaaS (AI as a Service) open-source platform. Bu...](https://weibo.com/1402400261/O7xdOmrEj)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [【Plandex：基于OpenAI API的命令行AI编程引擎，用于处理复杂的任务，可以帮助用户分解大型任务为更小的子任务，并逐个实现这些子任务，帮助快速完成工作流，与...](https://weibo.com/1402400261/O7xaJE7HH)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [【深度伪造(Deepfake)相关文献资源列表】’Deepfake Generation and Detection: A Benchmark and Survey - A Survey on Deepfake Generation and Detection' Git...](https://weibo.com/1402400261/O7x9Clzzn)
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [【OpenUI：让使用者描述网页界面并实时渲染的开源项目】'OpenUI - OpenUI let's you describe UI using your imagination, then see it rendered live.' GitHub:...](https://weibo.com/1402400261/O7x5h1h9B)
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [【OpenDevin: 一个开源项目，旨在复制Devin，Devin是一个自主的AI软件工程师，能执行复杂的工程任务，并积极与用户协作进行软件开发项目的合作】'OpenDevin: Cod...](https://weibo.com/1402400261/O7x2Kl9x2)
+append_entries: 5
+Finish: 2024-03-31 08:14:22.237288
