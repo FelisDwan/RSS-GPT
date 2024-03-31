@@ -2366,3 +2366,9 @@ Summarized using GPT-3.5-turbo
 Append: [【OpenDevin: 一个开源项目，旨在复制Devin，Devin是一个自主的AI软件工程师，能执行复杂的工程任务，并积极与用户协作进行软件开发项目的合作】'OpenDevin: Cod...](https://weibo.com/1402400261/O7x2Kl9x2)
 append_entries: 5
 Finish: 2024-03-31 08:14:22.237288
+------------------------------------------------------
+Started: 2024-03-31 10:11:25.040819
+Existing_entries: 375
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-03-31 10:11:25.099228

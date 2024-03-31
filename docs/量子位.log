@@ -1709,3 +1709,15 @@ Summarized using GPT-3.5-turbo
 Append: [#IDEA新模型融合文本视觉Prompt# 还记得黑客帝国经典的子弹时间吗？IDEA研究院最新检测模型T-Rex2，可以齐刷刷给全部识别出来~而面对难倒一众大模型「吉娃娃or松...](https://weibo.com/6105753431/O7xQbxPLY)
 append_entries: 1
 Finish: 2024-03-31 08:13:57.556831
+------------------------------------------------------
+Started: 2024-03-31 10:11:16.463504
+Existing_entries: 189
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [#上海交大新框架解锁CLIP长文本能力# CLIP长文本能力被解锁，图像检索任务表现显著提升！一些关键细节也能被捕捉到。上海交大联合上海AI实验室提出新框架Long-CL...](https://weibo.com/6105753431/O7z8GfEmo)
+Token length: 271
+Summarized using GPT-3.5-turbo
+Append: [#腾讯游戏炸场GDC# 你敢信？一款手游里藏着400+个AI角色，且各自有各自的性格……这就是腾讯在一年一度的“游戏界春晚”GDC上展示的一场技术肌肉秀——《火影忍...](https://weibo.com/6105753431/O7z6ox5Tp)
+append_entries: 2
+Finish: 2024-03-31 10:11:24.588438
