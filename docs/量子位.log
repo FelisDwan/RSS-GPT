@@ -1727,3 +1727,15 @@ Existing_entries: 191
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-31 12:18:24.305115
+------------------------------------------------------
+Started: 2024-03-31 14:08:51.533147
+Existing_entries: 191
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 320
+Summarized using GPT-3.5-turbo
+Append: [#智谱已在大模型生态投资超13家企业# 最新消息！大模型融资王者智谱AI，刚刚往外投资了一家清华系公司。公司名为清程极智，业务是“构建高效的人工智能系统软件...](https://weibo.com/6105753431/O7AayBCH9)
+Token length: 286
+Summarized using GPT-3.5-turbo
+Append: [#百亿tokens免费额度##花小成本用好大模型# 百亿token补贴，4月起免费！这次的羊毛来自清华系AI公司无问芯穹，企业与个人皆可薅～这家公司成立于2023年5月，目标...](https://weibo.com/6105753431/O7A3PnDRd)
+append_entries: 2
+Finish: 2024-03-31 14:09:03.492275
