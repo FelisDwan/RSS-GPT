@@ -1691,3 +1691,12 @@ Existing_entries: 187
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-03-31 04:14:14.207887
+------------------------------------------------------
+Started: 2024-03-31 06:13:12.492344
+Existing_entries: 187
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 32
+Summarized using GPT-3.5-turbo
+Append: [#2024年值得关注的AIGC企业&产品# 评选报名最后一天！ [图片]](https://weibo.com/6105753431/O7x7A3sct)
+append_entries: 1
+Finish: 2024-03-31 06:13:17.081597

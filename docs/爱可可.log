@@ -2324,3 +2324,24 @@ Existing_entries: 365
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-31 04:14:14.727217
+------------------------------------------------------
+Started: 2024-03-31 06:13:17.519413
+Existing_entries: 365
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 18
+Summarized using GPT-3.5-turbo
+Append: [《LLM 应用开发实践笔记》 网页链接 #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O7wM56Ev8)
+Token length: 932
+Summarized using GPT-3.5-turbo
+Append: [对 预训练 MoE、upcycled MoE 和 FrankenMoE 三类 MoE 模型的简介。- 预训练 MoE预训练 MoE 旨在利用 MoE 架构从头开始预训练语言模型，以期获得比传统密集模型...](https://weibo.com/1402400261/O7wxgeqRs)
+Token length: 988
+Summarized using GPT-3.5-turbo
+Append: [《混合专家模型 (MoE) 详解》- MoE 是一种将大型语言模型中全连接层替换为稀疏层的技术，可以显著提高预训练效率。其包含两个主要元素：稀疏的 MoE 层和一个门控...](https://weibo.com/1402400261/O7w5scEbo)
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [《BrushNet - BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion | a Hugging Face Space by TencentARC》 网页链接 #...](https://weibo.com/1402400261/O7vT1o0c8)
+Token length: 646
+Summarized using GPT-3.5-turbo
+Append: [【DSPy：机器学习工作流重塑提示工程】- DSPy 是一个与众不同的提示工程框架，它将逻辑与提示分离，使开发人员能够通过 dspy.Module 确定性地编程逻辑，而不用关...](https://weibo.com/1402400261/O7vOKCeLv)
+append_entries: 5
+Finish: 2024-03-31 06:13:37.888603
