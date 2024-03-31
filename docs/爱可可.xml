@@ -4,6 +4,144 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>【AI生成内容泛滥，文化生态岌岌可危】- 各类AI模型(如GPT-4、ChatGPT等)产生的文本、图像、视频等内容，质量参差不齐，正在大量充斥互联网。这些内容包括学术论...</title>
+<link>https://weibo.com/1402400261/O7yyxwwUe</link>
+<guid>https://weibo.com/1402400261/O7yyxwwUe</guid>
+<content:encoded><![CDATA[
+<div> AI生成内容、文化生态、科学研究、影响、低质量视频、儿童认知、社会实验、公共文化资源、环境立法、清洁互联网法案
+
+<br><br>总结:
+AI生成内容在互联网上泛滥，给文化生态带来威胁，影响深远。在科学研究领域，AI生成内容的使用严重影响同行评审，可能带来不当行为。此外，在视频领域，低质量的AI合成儿童视频可能损害儿童认知发展，需要引起警惕。针对这一趋势，需要借鉴20世纪环境立法的经验，制定《清洁互联网法案》，强制监管AI生成内容，保护公共文化资源。AI公司应该加强自律，但同样需要法律监管来应对AI内容污染问题。AI的快速发展带来了一系列社会问题，需要重视并加强监管，避免其失控。 <div>
+【AI生成内容泛滥，文化生态岌岌可危】<br />- 各类AI模型(如GPT-4、ChatGPT等)产生的文本、图像、视频等内容，质量参差不齐，正在大量充斥互联网。这些内容包括学术论文、社交媒体帖子、虚假账号、搜索结果等。   <br />- AI生成内容对科学研究的影响尤其严重。研究发现，参加AI会议的科研人员在同行评审中大量使用类似AI生成文本的词汇。这意味着部分作者可能使用AI生成内容或辅助完成同行评审。   <br />- YouTube上也出现大量使用AI合成的低质量儿童视频，这可能会损害儿童认知发展。我们正在进行一场大规模的社会实验，还不知道后果如何。   <br />- 企业和个人出于经济利益考虑，会选择使用廉价的AI生成内容。这导致“公共文化资源”遭到污染，犯了“公地悲剧”的错误。   <br />- 20世纪需要环境立法来保护共享环境，21世纪同样需要立法来保护共享文化。具体可要求对AI生成内容进行标记或水印。   <br />- AI公司目前不愿添加高级水印，担心这会影响模型性能。需立法强制对生成内容添加统计图案等难以移除的水印，以便检测。   <br />- 我们需要等同于《清洁空气法案》的《清洁互联网法案》，通过立法监管来应对AI内容污染问题，不能仅期望企业自律。  <br /><br />思考：  <br />- AI生成内容泛滥成灾，污染文化环境，这一观点发人深省。AI的影响已经渗透到科学等重要领域，令人警醒。  <br />- 连科学论文评审都大量使用AI，反映出目前学术界对AI的过度依赖和急功近利，值得反思。  <br />- AI在学术领域的滥用，凸显了AI技术发展的负面影响。如何规范AI的使用，划定伦理道德底线，是一个亟待解决的问题。  <br />- 文章揭示了AI技术快速发展带来的社会问题，表明我们要高度警惕AI的负面影响，加强监管，防止其失控。<br />《Opinion | AI Garbage Is Already Polluting the Internet - The New York Times》 <a href="https://www.nytimes.com/2024/03/29/opinion/ai-internet-x-youtube.html?ugrp=u&amp;unlocked_article_code=1.gU0.U5Ee.kvPE0e0DodvZ&amp;smid=url-share"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoa7r3rbruj20u0126tfm.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 07:36:35 GMT</pubDate>
+<pubDate>Sun, 31 Mar 2024 07:36:35 GMT</pubDate>
+</item>
+<item>
+<title>几篇论文实现代码：《Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment》(ICLR 2024) GitHub: github.com/lisiyao21/Du...</title>
+<link>https://weibo.com/1402400261/O7yvaAD75</link>
+<guid>https://weibo.com/1402400261/O7yvaAD75</guid>
+<content:encoded><![CDATA[
+<div> 关键词：Duolando、GPT、强化学习、舞蹈伴奏、UniDepth、深度估计、T2I模型、超分辨率、LiDAR、视觉SLAM
+
+总结:
+Duolando是一种使用强化学习技术对GPT进行跟随的方法，用于舞蹈伴奏。UniDepth是一种通用的单目度量深度估计模型。 T2I模型可以通过识别语义方向实现连续、特定主题的属性控制。AdaSR-TalkingHead是一种用于一次性生成语音头像的自适应超分辨率技术。 LTA-OM是一种长期关联的激光雷达-惯性里程计和地图构建技术。EfficientVMamba是一种轻量级视觉Mamba的有选择性扫描技术。LITA是一种语言指导的时间定位助理模型。GaussianCube利用最优传输将高斯喷洒结构化用于三维生成建模。Perturbed-Attention Guidance是一种扰动注意力引导技术。ROUTERBENCH是用于多LLM路由系统的基准测试。Long-Context-Attention是用于长上下文LLM模型训练的分布式注意力实现。DevBench是用于软件开发的全面基准测试。Should-It-Be-Executed-Or-Processed探讨LLMs是否能够区分指令和数据。BasicPBC是学习匹配的动画油桶着色基准测试。EasyRL4Rec是一个用户友好的基于强化学习的推荐系统代码库。SuperPoint是一种自监督兴趣点检测和描述模型。EgoSchema是用于非常长形式视频语言理解的诊断基准测试。 <div>
+几篇论文实现代码：<br />《Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment》(ICLR 2024) GitHub: github.com/lisiyao21/Duolando<br />《UniDepth: Universal Monocular Metric Depth Estimation》(CVPR 2024) GitHub: github.com/lpiccinelli-eth/UniDepth [fig1]<br />《Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions》(2024) GitHub: github.com/CompVis/attribute-control<br />《Adaptive Super Resolution for One-Shot Talking Head Generation》(2024) GitHub: github.com/Songluchuan/AdaSR-TalkingHead<br />《LTA-OM: Long-Term Association LiDAR-Inertial Odometry and Mapping》(2024) GitHub: github.com/hku-mars/LTAOM<br />《EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba》(2024) GitHub: github.com/TerryPei/EfficientVMamba [fig2] <br />《LITA: Language Instructed Temporal-Localization Assistant》(2024) GitHub: github.com/NVlabs/LITA<br />《GaussianCube: Structuring Gaussian Splatting for 3D Generative Modeling using Optimal Transport》(2024) GitHub: github.com/GaussianCube/GaussianCube<br />《Perturbed-Attention Guidance》(2024) GitHub: github.com/KU-CVLAB/Perturbed-Attention-Guidance<br />《ROUTERBENCH: A Benchmark for Multi-LLM Routing System》(2024) GitHub: github.com/withmartian/routerbench<br />《Long-Context-Attention: Distributed Attention Implementations for Long Context LLM Model Training》(2024) GitHub: github.com/feifeibear/long-context-attention<br />《DevBench: A Comprehensive Benchmark for Software Development》(2024) GitHub: github.com/open-compass/DevBench [fig3]<br />《Can LLMs Separate Instructions From Data? And What Do We Even Mean By That?》(2024) GitHub: github.com/egozverev/Should-It-Be-Executed-Or-Processed<br />《Learning Inclusion Matching for Animation Paint Bucket Colorization》(2024) GitHub: github.com/ykdai/BasicPBC<br />《EasyRL4Rec: A User-Friendly Code Library for Reinforcement Learning Based Recommender Systems》(2024) GitHub: github.com/chongminggao/EasyRL4Rec<br />《SuperPoint: Self-Supervised Interest Point Detection and Description》(2024) GitHub: github.com/christian-rauch/super_point_inference<br />《EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding》(2024) GitHub: github.com/egoschema/EgoSchema<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoa145bowtj21rf0i6wu8.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoa1h04n3kj20l70deafb.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoa681no84j23zf1827wh.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 07:28:18 GMT</pubDate>
+<pubDate>Sun, 31 Mar 2024 07:28:18 GMT</pubDate>
+</item>
+<item>
+<title>【EPUB to Audiobook Converter：EPUB到有声书的转换器】’EPUB to Audiobook Converter - EPUB to audiobook converter, optimized for Audiobookshelf' GitHub...</title>
+<link>https://weibo.com/1402400261/O7yttipiX</link>
+<guid>https://weibo.com/1402400261/O7yttipiX</guid>
+<content:encoded><![CDATA[
+<div> GitHub, EPUB to Audiobook Converter, Audiobookshelf
+<br>
+EPUB到有声书的转换器，可以将EPUB转换为有声书，GitHub上有项目epub_to_audiobook，作者是p0n1，优化了Audiobookshelf的使用体验。
+
+<br><br>总结:
+EPUB到有声书的转换器是一个可以将EPUB格式的电子书转换为有声书的工具，适用于Audiobookshelf，作者是p0n1，在GitHub上开源了相关项目。 <div>
+【EPUB to Audiobook Converter：EPUB到有声书的转换器】’EPUB to Audiobook Converter - EPUB to audiobook converter, optimized for Audiobookshelf' GitHub: github.com/p0n1/epub_to_audiobook <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoa7e0zh6mj21010u0aec.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 07:24:06 GMT</pubDate>
+<pubDate>Sun, 31 Mar 2024 07:24:06 GMT</pubDate>
+</item>
+<item>
+<title>【Softmax for Arbitrary Label Trees：一个用于医学影像分割的框架】'Softmax for Arbitrary Label Trees - Softmax for Arbitrary Label Trees (SALT) is a fr...</title>
+<link>https://weibo.com/1402400261/O7yt26gby</link>
+<guid>https://weibo.com/1402400261/O7yt26gby</guid>
+<content:encoded><![CDATA[
+<div> 分词：Softmax、Arbitrary Label Trees、医学影像分割、框架、训练、分割网络、条件概率、模型、层级关系、数据
+
+总结:<br><br>这篇文章介绍了一个名为Softmax for Arbitrary Label Trees (SALT)的框架，用于训练医学影像分割网络。SALT利用条件概率来建模数据中的层级关系，从而更好地进行分割任务。该框架的GitHub链接是github.com/UMEssen/SALT。SALT框架可以帮助提高医学影像分割的准确性和效率，是一个有潜力的方法。 <div>
+【Softmax for Arbitrary Label Trees：一个用于医学影像分割的框架】'Softmax for Arbitrary Label Trees - Softmax for Arbitrary Label Trees (SALT) is a framework for training segmentation networks using conditional probabilities to model hierarchical relationships in the data.' GitHub: github.com/UMEssen/SALT <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoa7d02ja2j20u0112n32.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 07:23:00 GMT</pubDate>
+<pubDate>Sun, 31 Mar 2024 07:23:00 GMT</pubDate>
+</item>
+<item>
+<title>【Edge Infer：- 旨在资源受限的设备上运行小型 AI 模型(包括向量化和Onnx模型)，如 Android、iOS 或 MCU，实现高效的边缘智能，用于实时决策】'Edge Infer - Ed...</title>
+<link>https://weibo.com/1402400261/O7ys0ziZp</link>
+<guid>https://weibo.com/1402400261/O7ys0ziZp</guid>
+<content:encoded><![CDATA[
+<div> Edge Infer, 资源受限设备, 小型AI模型, 向量化, Onnx模型, Android, iOS, MCU, 边缘智能, 实时决策, GitHub
+
+总结:<br><br>Edge Infer 是一种旨在在资源受限的设备上运行小型AI模型的工具，包括向量化和Onnx模型，适用于Android、iOS或MCU等设备，实现高效的边缘智能，用于实时决策。Edge Infer的GitHub链接为github.com/unit-mesh/edge-infer。 <div>
+【Edge Infer：- 旨在资源受限的设备上运行小型 AI 模型(包括向量化和Onnx模型)，如 Android、iOS 或 MCU，实现高效的边缘智能，用于实时决策】'Edge Infer - EdgeInfer enables efficient edge intelligence by running small AI models, including embeddings and OnnxModels, on resource-constrained devices like Android, iOS, or MCUs for real-time decision-making. EdgeInfer' GitHub: github.com/unit-mesh/edge-infer <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoa7adt8y1j20yc0u0dil.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 07:20:30 GMT</pubDate>
+<pubDate>Sun, 31 Mar 2024 07:20:30 GMT</pubDate>
+</item>
+<item>
+<title>【hoarder-app：用于数据(链接、图片、笔记)收集的应用，支持AI自动打标和全文检索功能】'hoarder-app - A self-hostable bookmark-everything app (links, note...</title>
+<link>https://weibo.com/1402400261/O7yrtjJXR</link>
+<guid>https://weibo.com/1402400261/O7yrtjJXR</guid>
+<content:encoded><![CDATA[
+<div> 自托管、收藏一切数据的应用、链接、笔记、图片、AI自动标记、全文检索、GitHub、MohamedBassem、hoarder-app<br>
+<br>
+总结:<br>
+hoarder-app是一个自托管的应用程序，用于收藏各种数据，包括链接、笔记和图片。该应用支持AI自动标记和全文检索功能，用户可以方便地管理和查找自己收藏的信息。该项目可以在GitHub上找到，由MohamedBassem维护。 <div>
+【hoarder-app：用于数据(链接、图片、笔记)收集的应用，支持AI自动打标和全文检索功能】'hoarder-app - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search' GitHub: github.com/MohamedBassem/hoarder-app <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoa78e98l2j21jk0u0n4q.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 07:19:10 GMT</pubDate>
+<pubDate>Sun, 31 Mar 2024 07:19:10 GMT</pubDate>
+</item>
+<item>
+<title>【Popple：分布式、高可用、通用用途的键/值数据库】'Popple - Popple is a distributed, highly available, general purpose key/value database.' GitHub: git...</title>
+<link>https://weibo.com/1402400261/O7ypPED6c</link>
+<guid>https://weibo.com/1402400261/O7ypPED6c</guid>
+<content:encoded><![CDATA[
+<div> 分布式、高可用、通用、键/值数据库、Popple、GitHub、hoorayman、distributed、highly available、general purpose
+
+分布式键/值数据库Popple是一个通用、高可用的分布式键/值数据库，可以处理各种用途的数据。它具有弹性，能够在整个系统中分布数据，保证数据的高可用性。Popple的代码托管在GitHub上，由hoorayman开发和维护。采用分布式架构，Popple可以有效地存储和检索大量键/值对，适用于各种应用场景。总的来说，Popple是一个强大的键/值数据库，具有分布式部署和高可用性的特点，适用于多种通用用途。 <br><br>总结: Popple是一个分布式、高可用、通用用途的键/值数据库，由hoorayman开发，可用于处理各种数据应用。 <div>
+【Popple：分布式、高可用、通用用途的键/值数据库】'Popple - Popple is a distributed, highly available, general purpose key/value database.' GitHub: github.com/hoorayman/popple <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%95%B0%E6%8D%AE%E5%BA%93%23&amp;isnewpage=1"><span class="surl-text">#数据库#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoa74ti7tdj21240u0q73.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 07:15:08 GMT</pubDate>
+<pubDate>Sun, 31 Mar 2024 07:15:08 GMT</pubDate>
+</item>
+<item>
+<title>【rev.ng：基于LLVM和QEMU的二进制分析框架和反编译器】’The rev.ng binary analysis framework and decompiler' GitHub: github.com/revng/revng-c #开源# #机...</title>
+<link>https://weibo.com/1402400261/O7ynd9CZx</link>
+<guid>https://weibo.com/1402400261/O7ynd9CZx</guid>
+<content:encoded><![CDATA[
+<div> LLVM、QEMU、二进制分析框架、反编译器、GitHub、rev.ng、revng-c
+
+总结:<br><br>rev.ng是基于LLVM和QEMU的二进制分析框架和反编译器，它提供一种强大的工具来分析和反编译二进制文件。通过GitHub上的revng-c项目，用户可以轻松访问和使用这个框架。LLVM和QEMU的结合使得rev.ng具备了强大的分析和反编译能力，帮助用户更好地理解和操纵二进制文件。通过rev.ng，用户可以深入研究二进制文件的内部结构和功能，从而进行更高级的安全研究和分析工作。是一个有着广泛应用前景的二进制分析工具。 <div>
+【rev.ng：基于LLVM和QEMU的二进制分析框架和反编译器】’The rev.ng binary analysis framework and decompiler' GitHub: github.com/revng/revng-c <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoa6y3b15sj21i60l4n1o.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 07:08:41 GMT</pubDate>
+<pubDate>Sun, 31 Mar 2024 07:08:41 GMT</pubDate>
+</item>
+<item>
+<title>【EasyRL4Rec - 专注于强化学习(RL)为基础的推荐系统(RS)的全面且易于使用的库】'EasyRL4Rec - a comprehensive and easy-to-use library designed specifically...</title>
+<link>https://weibo.com/1402400261/O7ym7486g</link>
+<guid>https://weibo.com/1402400261/O7ym7486g</guid>
+<content:encoded><![CDATA[
+<div> 库，强化学习，推荐系统，全面，易于使用，github，Reinforcement Learning，Recommender Systems，comprehensive，easy-to-use
+
+总结:<br><br>
+"EasyRL4Rec"是一个专注于强化学习为基础的推荐系统的全面且易于使用的库。其设计旨在为推荐系统提供强化学习的解决方案，并在GitHub上提供代码库。该库提供了强化学习和推荐系统的综合性功能，并且易于使用，成为开发推荐系统的有力工具。 <div>
+【EasyRL4Rec - 专注于强化学习(RL)为基础的推荐系统(RS)的全面且易于使用的库】'EasyRL4Rec - a comprehensive and easy-to-use library designed specifically for Reinforcement Learning (RL)-based Recommender Systems (RSs)‘ GitHub: github.com/chongminggao/EasyRL4Rec <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoa6v4ng6rj20v60u0gpv.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 07:05:58 GMT</pubDate>
+<pubDate>Sun, 31 Mar 2024 07:05:58 GMT</pubDate>
+</item>
+<item>
+<title>【高效SAM分割模型大列表】’Efficient-Segment-Anything-Model - One summary of efficient segment anything models' GitHub: github.com/czg1225/Awesome-Eff...</title>
+<link>https://weibo.com/1402400261/O7yfei9ug</link>
+<guid>https://weibo.com/1402400261/O7yfei9ug</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Efficient-Segment-Anything-Model, 分割模型, 高效, 模型, 列表, 精彩, 总结, 优点, 应用
+
+<br><br>总结:
+本文介绍了高效SAM分割模型的一份大列表，包含了各种精彩的分割模型。这些模型在分割任务中具有高效性，能够快速准确地识别出目标物体。这些模型的优点在于其高效性和准确性，可以被广泛应用于图像分割、语义分割等领域。通过这个列表，研究者和开发者可以找到适合自己项目的高效SAM分割模型，提高分割任务的效率和准确率。 <div>
+【高效SAM分割模型大列表】’Efficient-Segment-Anything-Model - One summary of efficient segment anything models' GitHub: github.com/czg1225/Awesome-Efficient-Segment-Anything <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoa6dbad5kj20u00unq7j.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoa6dcle9yj215h0u0gq9.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoa6ddlmj6j20xi0c540f.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoa6deyl0kj235s0peqd6.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoa6dfx5dwj21tv0u00yz.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoa6dhbvx5j235s0natjb.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoa6diu3ruj22u80u0wo6.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoa6djqb0uj21f70u0q98.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoa6dlfv25j21j40u0jys.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 31 Mar 2024 06:49:01 GMT</pubDate>
+<pubDate>Sun, 31 Mar 2024 06:49:01 GMT</pubDate>
+</item>
 
 <item>
 <title>【RestAI：基于LlamaIndex、Ollama和HF pipelines的AIaaS(人工智能即服务)开源平台】'RestAI - RestAI is an AIaaS (AI as a Service) open-source platform. Bu...</title>

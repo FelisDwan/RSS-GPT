@@ -2372,3 +2372,39 @@ Existing_entries: 375
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-03-31 10:11:25.099228
+------------------------------------------------------
+Started: 2024-03-31 12:18:24.758018
+Existing_entries: 375
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 808
+Summarized using GPT-3.5-turbo
+Append: [【AI生成内容泛滥，文化生态岌岌可危】- 各类AI模型(如GPT-4、ChatGPT等)产生的文本、图像、视频等内容，质量参差不齐，正在大量充斥互联网。这些内容包括学术论...](https://weibo.com/1402400261/O7yyxwwUe)
+Token length: 2140
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment》(ICLR 2024) GitHub: github.com/lisiyao21/Du...](https://weibo.com/1402400261/O7yvaAD75)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [【EPUB to Audiobook Converter：EPUB到有声书的转换器】’EPUB to Audiobook Converter - EPUB to audiobook converter, optimized for Audiobookshelf' GitHub...](https://weibo.com/1402400261/O7yttipiX)
+Token length: 293
+Summarized using GPT-3.5-turbo
+Append: [【Softmax for Arbitrary Label Trees：一个用于医学影像分割的框架】'Softmax for Arbitrary Label Trees - Softmax for Arbitrary Label Trees (SALT) is a fr...](https://weibo.com/1402400261/O7yt26gby)
+Token length: 354
+Summarized using GPT-3.5-turbo
+Append: [【Edge Infer：- 旨在资源受限的设备上运行小型 AI 模型(包括向量化和Onnx模型)，如 Android、iOS 或 MCU，实现高效的边缘智能，用于实时决策】'Edge Infer - Ed...](https://weibo.com/1402400261/O7ys0ziZp)
+Token length: 231
+Summarized using GPT-3.5-turbo
+Append: [【hoarder-app：用于数据(链接、图片、笔记)收集的应用，支持AI自动打标和全文检索功能】'hoarder-app - A self-hostable bookmark-everything app (links, note...](https://weibo.com/1402400261/O7yrtjJXR)
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [【Popple：分布式、高可用、通用用途的键/值数据库】'Popple - Popple is a distributed, highly available, general purpose key/value database.' GitHub: git...](https://weibo.com/1402400261/O7ypPED6c)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [【rev.ng：基于LLVM和QEMU的二进制分析框架和反编译器】’The rev.ng binary analysis framework and decompiler' GitHub: github.com/revng/revng-c #开源# #机...](https://weibo.com/1402400261/O7ynd9CZx)
+Token length: 234
+Summarized using GPT-3.5-turbo
+Append: [【EasyRL4Rec - 专注于强化学习(RL)为基础的推荐系统(RS)的全面且易于使用的库】'EasyRL4Rec - a comprehensive and easy-to-use library designed specifically...](https://weibo.com/1402400261/O7ym7486g)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [【高效SAM分割模型大列表】’Efficient-Segment-Anything-Model - One summary of efficient segment anything models' GitHub: github.com/czg1225/Awesome-Eff...](https://weibo.com/1402400261/O7yfei9ug)
+append_entries: 10
+Finish: 2024-03-31 12:19:10.175411
