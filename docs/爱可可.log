@@ -2510,3 +2510,30 @@ Summarized using GPT-3.5-turbo
 Append: [【Mamba详解】- Mamba是一种新型的状态空间模型(State Space Model，SSM)，它取得了和Transformer类似的性能，但可以处理更长的序列(例如100万token)。这是通过...](https://weibo.com/1402400261/O7F4sn27H)
 append_entries: 4
 Finish: 2024-04-01 06:15:19.843548
+------------------------------------------------------
+Started: 2024-04-01 08:16:09.834955
+Existing_entries: 400
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 348
+Summarized using GPT-3.5-turbo
+Append: [【AutoGen AGI：旨在通过AutoGen技术来提升AI Agent的智能能力，重点在于提高AI Agent在沟通、决策制定以及复杂任务完成等方面的智能水平】’AutoGen AGI: Advan...](https://weibo.com/1402400261/O7H6Xezex)
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: ['IAmDirector - 每个人都能成为导演 - 本项目开源基于NextJS的前端， 希望能够提供一个用于生成式AI的文字转视频， 尤其是电影从编剧到视频生成的Web前端平台参...](https://weibo.com/1402400261/O7H6haljm)
+Token length: 84
+Summarized using GPT-3.5-turbo
+Append: ['我的大模型课 - 关于如何编写大模型的prompt的一系列课' GitHub: github.com/PandaBearLab/prompt-tutorial #开源# #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O7H4mo6a6)
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: ['因果推断：从概念到实践 - Causal Inference for the Brave and True的中文翻译版。全部代码基于Python，适用于计量经济学、量化社会学、策略评估等领域。英文...](https://weibo.com/1402400261/O7H1vwTXM)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [【AgentStudio：用于构建和基准测试通用虚拟Agent的开源工具包】'AgentStudio - An open toolkit for building and benchmarking general virtual agents in the...](https://weibo.com/1402400261/O7GZ8wt8n)
+Token length: 80
+Summarized using GPT-3.5-turbo
+Append: [【旨在复现Anthropic的稀疏自编码可视化】'sae_vis' GitHub: github.com/callummcdougall/sae_vis #开源# #机器学习# #人工智能# [图片][图片]](https://weibo.com/1402400261/O7GYcc9se)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [【Heron：可无缝集成多种图像/视频和语言模型的库. 此外, 还提供在各种数据集上训练的预训练权重】'Heron - a library that seamlessly integrates multiple Vis...](https://weibo.com/1402400261/O7GXBxwVd)
+append_entries: 7
+Finish: 2024-04-01 08:16:55.863671

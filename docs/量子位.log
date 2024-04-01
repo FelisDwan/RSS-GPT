@@ -1814,3 +1814,21 @@ Summarized using GPT-3.5-turbo
 Append: [#互联网先驱去世# 曾在2019年入选互联网名人堂的丹尼尔·林奇近日于家中去世，享年82岁。林奇是早期的互联网先驱，主要贡献是在1980、90年代推动互联网商业化。...](https://weibo.com/6105753431/O7GoGaEpY)
 append_entries: 4
 Finish: 2024-04-01 06:14:59.283654
+------------------------------------------------------
+Started: 2024-04-01 08:15:47.063403
+Existing_entries: 202
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 506
+Summarized using GPT-3.5-turbo
+Append: [#替代PPT的AI们# 工作党必备神器！分享 7个做 PPT 的 AI 工具，总有一款适合你~[doge]1.PopAi（新增PDF转幻灯片）特色：主打无缝集成聊天、阅读、写作、创作等工...](https://weibo.com/6105753431/O7HYhwhui)
+Token length: 398
+Summarized using GPT-3.5-turbo
+Append: [#大模型实时打街霸# 让大模型直接操纵格斗游戏《街霸》里的角色，捉对PK，谁更能打？GitHub上一种你没有见过的船新Benchmark火了。与llmsys大模型竞技场中，两个...](https://weibo.com/6105753431/O7HMqvdTv)
+Token length: 122
+Summarized using GPT-3.5-turbo
+Append: [#波士顿动力机器狗首次阵亡# 那天，唯一的伤亡者是我们的机器狗。美国警察最新公布一则案件：波士顿动力机器狗首次被枪杀阵亡。官方图显示，机器狗身上有多处枪...](https://weibo.com/6105753431/O7HH8vr9h)
+Token length: 246
+Summarized using GPT-3.5-turbo
+Append: [#计算机视觉女神被IEEE期刊封杀# 计算机学术界的女神“Lenna”被IEEE“封杀”了——IEEE计算机协会宣布，4月1日起不再接收包含该图像的论文。IEEE技术&会议活动...](https://weibo.com/6105753431/O7HlPmNCp)
+append_entries: 4
+Finish: 2024-04-01 08:16:09.344551
