@@ -1769,3 +1769,12 @@ Existing_entries: 193
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-01 00:54:46.632880
+------------------------------------------------------
+Started: 2024-04-01 02:25:53.708935
+Existing_entries: 193
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 240
+Summarized using GPT-3.5-turbo
+Append: [【#2024年AI大模型产业发展报告#】中国大模型产业该怎么看？最新权威参考来了。博鳌亚洲论坛2024年年会期间，人民网正式发布《2024年中国AI大模型产业发展报告》...](https://weibo.com/6105753431/O7Fgboje6)
+append_entries: 1
+Finish: 2024-04-01 02:25:58.948421

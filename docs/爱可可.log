@@ -2480,3 +2480,9 @@ Summarized using GPT-3.5-turbo
 Append: [LISA通过层级重要性采样有效模拟LoRA更新方式，实现内存高效的大规模语言模型微调，在多任务上性能优异。 - 转发 @爱可可-爱生活:&ensp;[LG]《LISA: Layerwise I...](https://weibo.com/1402400261/O7E08j19a)
 append_entries: 10
 Finish: 2024-04-01 00:55:17.542036
+------------------------------------------------------
+Started: 2024-04-01 02:25:59.425593
+Existing_entries: 396
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-01 02:25:59.564649
