@@ -1832,3 +1832,21 @@ Summarized using GPT-3.5-turbo
 Append: [#计算机视觉女神被IEEE期刊封杀# 计算机学术界的女神“Lenna”被IEEE“封杀”了——IEEE计算机协会宣布，4月1日起不再接收包含该图像的论文。IEEE技术&会议活动...](https://weibo.com/6105753431/O7HlPmNCp)
 append_entries: 4
 Finish: 2024-04-01 08:16:09.344551
+------------------------------------------------------
+Started: 2024-04-01 10:12:36.400648
+Existing_entries: 206
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 106
+Summarized using GPT-3.5-turbo
+Append: [1997年，世界上第一台扫地机器人诞生。二十多年来，扫地机器人不断进化，终于摘掉了“人工智障”的帽子。但有一个很简单的问题却一直没能解决——不会贴边。为什...](https://weibo.com/6105753431/O7IPxn90W)
+Token length: 282
+Summarized using GPT-3.5-turbo
+Append: [#人类护士AI# 医疗保健初创公司 Hippocratic Ai 发布了媲美人类护士的数字人，能和患者进行多轮语音对话并达到专业水准。[赞]Hippocratic 认为患者安全的首要问...](https://weibo.com/6105753431/O7IIVfK1V)
+Token length: 371
+Summarized using GPT-3.5-turbo
+Append: [#MiniGenimi# 现在，用大语言模型生成的图像，可以做到更逼真、更高清，且更连续了~来自港中文大学的团队在GitHub最新发布了#MiniGenimi#，这是一个可以增强多模...](https://weibo.com/6105753431/O7IllqBnr)
+Token length: 287
+Summarized using GPT-3.5-turbo
+Append: [#孟子3-13B大模型正式开源# ，万亿token数据训练澜舟科技官宣：孟子3-13B大模型正式开源！这一主打高性价比的轻量化大模型，面向学术研究完全开放，并支持免费商...](https://weibo.com/6105753431/O7I9qqa3h)
+append_entries: 4
+Finish: 2024-04-01 10:13:04.604792

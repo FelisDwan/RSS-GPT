@@ -2537,3 +2537,9 @@ Summarized using GPT-3.5-turbo
 Append: [【Heron：可无缝集成多种图像/视频和语言模型的库. 此外, 还提供在各种数据集上训练的预训练权重】'Heron - a library that seamlessly integrates multiple Vis...](https://weibo.com/1402400261/O7GXBxwVd)
 append_entries: 7
 Finish: 2024-04-01 08:16:55.863671
+------------------------------------------------------
+Started: 2024-04-01 10:13:05.100926
+Existing_entries: 407
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-01 10:13:05.283314

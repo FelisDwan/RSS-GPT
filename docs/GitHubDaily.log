@@ -1343,3 +1343,12 @@ Existing_entries: 33
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-04-01 08:16:55.978709
+------------------------------------------------------
+Started: 2024-04-01 10:13:05.318511
+Existing_entries: 33
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 366
+Summarized using GPT-3.5-turbo
+Append: [推荐 GitHub 上一款开源免费全能的下载工具 Motrix。界面简洁易用，支持下载 HTTP、FTP、BT、磁力链等资源，无广告无需开会员，可替代迅雷。GitHub：github.com/...](https://weibo.com/5722964389/O7HZK7Fje)
+append_entries: 1
+Finish: 2024-04-01 10:13:10.566783
