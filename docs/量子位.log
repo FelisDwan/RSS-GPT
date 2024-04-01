@@ -1868,3 +1868,9 @@ Summarized using GPT-3.5-turbo
 Append: [#Meta眼镜黑科技# “Hi，Meta，看看路边的这棵树是什么？”几秒后你可以听到眼镜传来快门的声音，然后听到结果播报。这是Meta AI 即将推出的新功能。根据纽约时...](https://weibo.com/6105753431/O7IRDfkuE)
 append_entries: 4
 Finish: 2024-04-01 12:21:10.905108
+------------------------------------------------------
+Started: 2024-04-01 14:10:35.058735
+Existing_entries: 214
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-04-01 14:10:35.209810

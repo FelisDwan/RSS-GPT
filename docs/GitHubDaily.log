@@ -1361,3 +1361,9 @@ Summarized using GPT-3.5-turbo
 Append: [推荐 GitHub 上一款开源免费的在线 AI 漫画生成工具 AI Comic Factory。基于 LLM + SDXL 技术开发自动生成漫画面板，并且可在 Hugging Face 上免费体验。简单三...](https://weibo.com/5722964389/O7IVfn7ua)
 append_entries: 1
 Finish: 2024-04-01 12:21:16.931035
+------------------------------------------------------
+Started: 2024-04-01 14:10:37.851776
+Existing_entries: 35
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-04-01 14:10:37.925247
