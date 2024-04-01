@@ -4,6 +4,20 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+<item>
+<title>推荐 GitHub 上一个视频平台数据爬取工具 Douyin_TikTok_Download_API。完全开源免费、开箱即用的高性能异步数据爬取工具，支持 API 调用，在线批量解析及下载无...</title>
+<link>https://weibo.com/5722964389/O7K6jeyVS</link>
+<guid>https://weibo.com/5722964389/O7K6jeyVS</guid>
+<content:encoded><![CDATA[
+<div> 抖音、TikTok、数据爬取、工具、开源、免费、高性能、API、解析、下载
+
+<br><br>总结:
+Douyin_TikTok_Download_API是一个开源免费的高性能数据爬取工具，支持API调用，可用于解析和下载抖音、TikTok、B站、西瓜、快手等平台的视频和图片。该工具还提供网页端批量解析和下载无水印视频功能，可以解析作者主页内的所有视频和视频内的评论信息。此外，还有制作pip包方便导入项目、iOS快捷指令调用API快速下载无水印视频/图集等功能，具有强大且便捷的数据爬取能力。 <div>
+推荐 GitHub 上一个视频平台数据爬取工具 Douyin_TikTok_Download_API。<br /><br />完全开源免费、开箱即用的高性能异步数据爬取工具，支持 API 调用，在线批量解析及下载无水印视频或图集，支持抖音、快手、TikTok、B 站等平台。<br /><br />GitHub：github.com/Evil0ctal/Douyin_TikTok_Download_API<br /><br />具有如下功能：<br /><br />- 抖音（TikTok）视频/图片解析；<br />- B 站、西瓜、快手视频解析<br />- 网页端批量解析(支持抖音/TikTok混合提交)<br />- 网页端解析结果页批量下载无水印视<br />- API 调用获取链接数据<br />- 制作 pip 包方便快速导入你的项目<br />- iOS 快捷指令快速调用 API 实现应用内下载无水印视频/图集<br />- 解析作者主页内所有视频<br />- 解析视频内所有评论信息<img src="https://tvax3.sinaimg.cn/large/006fiYtfgy1hobfrglctij30sr0h0gnk.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 01 Apr 2024 13:00:00 GMT</pubDate>
+<pubDate>Mon, 01 Apr 2024 13:00:00 GMT</pubDate>
+</item>
 
 <item>
 <title>推荐 GitHub 上一款开源免费的在线 AI 漫画生成工具 AI Comic Factory。基于 LLM + SDXL 技术开发自动生成漫画面板，并且可在 Hugging Face 上免费体验。简单三...</title>

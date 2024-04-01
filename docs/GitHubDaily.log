@@ -1367,3 +1367,12 @@ Existing_entries: 35
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-04-01 14:10:37.925247
+------------------------------------------------------
+Started: 2024-04-01 16:14:36.981450
+Existing_entries: 35
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 359
+Summarized using GPT-3.5-turbo
+Append: [推荐 GitHub 上一个视频平台数据爬取工具 Douyin_TikTok_Download_API。完全开源免费、开箱即用的高性能异步数据爬取工具，支持 API 调用，在线批量解析及下载无...](https://weibo.com/5722964389/O7K6jeyVS)
+append_entries: 1
+Finish: 2024-04-01 16:14:43.278462

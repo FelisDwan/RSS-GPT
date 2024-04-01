@@ -4,6 +4,46 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>几篇论文实现代码：《EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models》(ICLR 2024) GitHub: github.com/ThisisBillhe/Eff...</title>
+<link>https://weibo.com/1402400261/O7KcGCGEF</link>
+<guid>https://weibo.com/1402400261/O7KcGCGEF</guid>
+<content:encoded><![CDATA[
+<div> EfficientDM, quantization-aware fine-tuning, low-bit diffusion models, ICLR 2024, GitHub, TimeMixer, decomposable multiscale mixing, time series forecasting, LaDiC, diffusion models, autoregressive counterparts, image-to-text generation, NAACL 2024, Repurposing Diffusion-Based Image Generators, Monocular Depth Estimation, CVPR 2024
+
+总结:EfficientDM实现了对低比特扩散模型的高效量化感知微调，为ICLR 2024会议的研究中心。TimeMixer通过可分解的多尺度混合提高了时间序列预测的效果，作者发布了GitHub。LaDiC研究了扩散模型与自回归模型在图像到文本生成中的优劣，获得NAACL 2024提名。Marigold-Video项目重复利用扩散模型生成图像，用于单目深度估计，展示于CVPR 2024。SQLdepth提出了一种通用的自监督微结构单目深度估计方法，GitHub上提供了代码。AgentStudio是一个构建通用虚拟代理的工具包，CVPR 2024中的其中一个项目。SA-GS提出了适应尺度的高斯飞溅方法，无需训练即可抗锯齿，作者开源了GitHub代码。ICDPO通过上下文直接优先优化的方法来有效借鉴他人的对齐能力，详细信息可在GitHub上找到。DS-Agent实现了将大型语言模型与案例推理相结合的自动数据科学工具，CVPR 2024有相关研究成果。MoDiTalker是一种针对高保真头像生成的运动解耦扩散模型，KU-CVLAB团队开源了代码。NaturalSpeech 3利用分解编解码器和扩散模型实现了零预测语音合成，项目源代码在GitHub上可用。SVD-LLM提出了针对大型语言模型的截断意识奇异值分解方法，GitHub上有开源代码。Change-Agent致力于实现交互式远程遥感变化解释和分析，Chen-Yang-Liu团队的开源项目。Spectral Motion Alignment提出了一种使用扩散模型的视频运动传输的谱运动对齐方法，详细代码在GitHub上提供。 <div>
+几篇论文实现代码：<br />《EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models》(ICLR 2024) GitHub: github.com/ThisisBillhe/EfficientDM<br />《TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting》(ICLR 2024) GitHub: github.com/kwuking/TimeMixer [fig8]<br />《LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-text Generation?》(NAACL 2024) GitHub: github.com/wangyuchi369/LaDiC [fig7]<br />《Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation》(CVPR 2024) GitHub: github.com/pablodawson/Marigold-Video [fig2]<br />《Rewrite the Stars》(CVPR 2024) GitHub: github.com/ma-xu/Rewrite-the-Stars<br />《SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation》(2024) GitHub: github.com/hisfog/SfMNeXt-Impl<br />《AgentStudio: A Toolkit for Building General Virtual Agents》(2024) GitHub: github.com/SkyworkAI/agent-studio [fig1]<br />《Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation》(2024) GitHub: github.com/pablodawson/Marigold-Video<br />《SA-GS: Scale-Adaptive Gaussian Splatting for Training-Free Anti-Aliasing》(2024) GitHub: github.com/zsy1987/SA-GS<br />《ICDPO: Effectively Borrowing Alignment Capability of Others via In-context Direct Preference Optimization》(2024) GitHub: github.com/F2-Song/ICDPO [fig3]<br />《DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning》(2024) GitHub: github.com/guosyjlu/DS-Agent [fig4]<br />《MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation》(2024) GitHub: github.com/KU-CVLAB/MoDiTalker<br />《NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models》(2024) GitHub: github.com/lifeiteng/ns3_codec [fig5]<br />《SVD-LLM: Truncation-aware Singular Value Decomposition for Large Language Model Compression》(2024) GitHub: github.com/AIoT-MLSys-Lab/SVD-LLM<br />《Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis》(2024) GitHub: github.com/Chen-Yang-Liu/Change-Agent [fig6]<br />《Spectral Motion Alignment for Video Motion Transfer using Diffusion Models》(2024) GitHub: github.com/geonyeong-park/Spectral-Motion-Alignment<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hob8xp699mj227c0yc7wh.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hob909rjg3j21ac174dmw.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hob9db8l86j20gp05n40o.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hob9jehv2uj21qt0myque.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hobml5iiw0j21i40li46r.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hobmm7kf3jj211x0dlwj7.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hobn12rglbj242g1q44qq.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hobn2bdaqaj21nq0qoncb.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 01 Apr 2024 13:15:43 GMT</pubDate>
+<pubDate>Mon, 01 Apr 2024 13:15:43 GMT</pubDate>
+</item>
+<item>
+<title>'stable-diffusion-tutorial - 全网最全Stable Diffusion全套教程，从入门到进阶' GitHub: github.com/ai-vip/stable-diffusion-tutorial #开源# #机器学习# #人...</title>
+<link>https://weibo.com/1402400261/O7K8fh9af</link>
+<guid>https://weibo.com/1402400261/O7K8fh9af</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Stable Diffusion, 教程, 入门, 进阶, AI, VIP, 全套, 全网, 最全
+
+<br><br>总结:
+这篇文章是关于Stable Diffusion全套教程的GitHub项目，适合从入门到进阶学习。项目由AI VIP团队提供，涵盖了稳定传播的所有方面，并被称为全网最全的教程。通过该教程，读者可以系统学习稳定传播的原理、应用和进阶技巧，是学习AI技术的必备资源。 <div>
+'stable-diffusion-tutorial - 全网最全Stable Diffusion全套教程，从入门到进阶' GitHub: github.com/ai-vip/stable-diffusion-tutorial <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hobmunzax9j20u01g3dl7.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 01 Apr 2024 13:04:46 GMT</pubDate>
+<pubDate>Mon, 01 Apr 2024 13:04:46 GMT</pubDate>
+</item>
+<item>
+<title>【Jaiqu：基于AI的JSON转换工具】'Jaiqu - Automatically reformat any JSON into any schema with AI' GitHub: github.com/AgentOps-AI/Jaiqu #开源# #机器学习...</title>
+<link>https://weibo.com/1402400261/O7K80uAaB</link>
+<guid>https://weibo.com/1402400261/O7K80uAaB</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Jaiqu, AI, JSON, 转换工具, 自动重新格式化, 模式, AgentOps, 
+
+AI技术不断发展，在各个领域都有了广泛的应用。AgentOps团队开发了一款名为Jaiqu的基于AI技术的JSON转换工具，能自动将任何JSON数据重新格式化成任意模式。用户只需输入待转换的JSON数据，Jaiqu就能自动分析并转换为用户指定的模式，极大地提高了数据处理的效率。用户还可以通过GitHub获取Jaiqu的源代码和更多信息。这款工具的推出不仅简化了数据处理的流程，也展示了AI技术在数据处理领域的巨大潜力。 <br><br>总结:AI技术在数据处理工具中的应用，Jaiqu能自动将JSON重新格式化成任意模式，提高了数据处理效率，用户可通过GitHub获取更多信息。 <div>
+【Jaiqu：基于AI的JSON转换工具】'Jaiqu - Automatically reformat any JSON into any schema with AI' GitHub: github.com/AgentOps-AI/Jaiqu <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hobmub0sk7j20zh0u0tcz.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 01 Apr 2024 13:04:11 GMT</pubDate>
+<pubDate>Mon, 01 Apr 2024 13:04:11 GMT</pubDate>
+</item>
 
 <item>
 <title>【AutoGen AGI：旨在通过AutoGen技术来提升AI Agent的智能能力，重点在于提高AI Agent在沟通、决策制定以及复杂任务完成等方面的智能水平】’AutoGen AGI: Advan...</title>
