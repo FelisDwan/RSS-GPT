@@ -2444,3 +2444,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O7B86jkG1)
 append_entries: 0
 Finish: 2024-03-31 22:10:31.899275
+------------------------------------------------------
+Started: 2024-04-01 00:54:47.101036
+Existing_entries: 386
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 257
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：明日开奖，欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可...](https://weibo.com/1402400261/O7Ek9tAoi)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1362期)：基于开放式指令的自监督图像检索、Transformer网络的topos theory视角分析、编程语言模型漏洞检测现状评估、面向内存高效大型语言模型微调...](https://weibo.com/1402400261/O7Ek1uSou)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [[CV] DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video 网页链接 提出DINO-Tracker框架，将预训练模型的语义先验与针对单视频...](https://weibo.com/1402400261/O7EgX6B7M)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [[LG] Tensor Network-Constrained Kernel Machines as Gaussian Processes 网页链接 通过理论证明和实验验证首次建立了张量网络限制的核机和高斯过程之间的关系...](https://weibo.com/1402400261/O7EehAJow)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [[LG] AgentStudio: A Toolkit for Building General Virtual Agents 网页链接 提出了开源的AgentStudio工具包，它提供了通用的观察和动作空间，在线环境实现，以...](https://weibo.com/1402400261/O7Ecd1kjq)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [[CL] A comparison of Human, GPT-3.5, and GPT-4 Performance in a University-Level Coding Course 网页链接 研究发现当前语言模型在物理编程作业方面的能力尚...](https://weibo.com/1402400261/O7E9C39JI)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [[IR] Scaling Laws For Dense Retrieval 网页链接 通过对比对数似然指标和规模化实验，发现稠密检索模型性能也遵循资源量的幂律缩放关系，建立了模型性能预测和...](https://weibo.com/1402400261/O7E6urV1R)
+Token length: 280
+Summarized using GPT-3.5-turbo
+Append: [通过稀疏自编码器和线性近似，提出一种发现人类可解释语言模型特征之间因果关系的可扩展流水线，以构建细粒度回路解释模型行为，并应用于下游任务。 - 转发 @爱...](https://weibo.com/1402400261/O7E3Q9kNu)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models》S Marks, C Rager, E J. Michaud, Y Belinkov, D B...](https://weibo.com/1402400261/O7E3JjgAw)
+Token length: 270
+Summarized using GPT-3.5-turbo
+Append: [LISA通过层级重要性采样有效模拟LoRA更新方式，实现内存高效的大规模语言模型微调，在多任务上性能优异。 - 转发 @爱可可-爱生活:&ensp;[LG]《LISA: Layerwise I...](https://weibo.com/1402400261/O7E08j19a)
+append_entries: 10
+Finish: 2024-04-01 00:55:17.542036
