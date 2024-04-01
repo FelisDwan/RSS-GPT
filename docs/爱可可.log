@@ -2492,3 +2492,21 @@ Existing_entries: 396
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-01 04:13:51.535223
+------------------------------------------------------
+Started: 2024-04-01 06:14:59.765206
+Existing_entries: 396
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 854
+Summarized using GPT-3.5-turbo
+Append: [《用 bitsandbytes、4 比特量化和 QLoRA 打造亲民的 LLM》- 提出了QLoRA方法，可以在单GPU上微调超大规模语言模型(65B参数)，同时内存使用率显著降低，性能与全1...](https://weibo.com/1402400261/O7FaODDI3)
+Token length: 1408
+Summarized using GPT-3.5-turbo
+Append: [【生命的多尺度交响：集体智慧串联生物学】- 生物系统具有多尺度结构，从分子网络到细胞、组织、器官、整体和群体。每个层级都能在不同的问题空间中解决问题，如...](https://weibo.com/1402400261/O7F95wKcj)
+Token length: 461
+Summarized using GPT-3.5-turbo
+Append: [【RLHF人工反馈强化学习详解】- ChatGPT的训练可以分为三个阶段：预训练、监督微调(SFT)和人工反馈强化学习(RLHF)。 - 预训练的目标是训练一个大型语言模型(LLM)...](https://weibo.com/1402400261/O7F5VzPzQ)
+Token length: 912
+Summarized using GPT-3.5-turbo
+Append: [【Mamba详解】- Mamba是一种新型的状态空间模型(State Space Model，SSM)，它取得了和Transformer类似的性能，但可以处理更长的序列(例如100万token)。这是通过...](https://weibo.com/1402400261/O7F4sn27H)
+append_entries: 4
+Finish: 2024-04-01 06:15:19.843548
