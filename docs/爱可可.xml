@@ -5,17 +5,112 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>【CPU上的LLaMA语言模型推理速度优化实践】 - 作者为llamafile编写了84个新的矩阵乘法核，使其在CPU上处理prompt和图像的速度提高30%到500%。这对ARM和AVX512等C...</title>
+<link>https://weibo.com/1402400261/O7Osgu4Br</link>
+<guid>https://weibo.com/1402400261/O7Osgu4Br</guid>
+<content:encoded><![CDATA[
+<div> 矩阵乘法、CPU、LLaMA、优化、性能、跨平台、普及、应用、性能分析、改进
+<br><br>总结: 通过优化矩阵乘法内核，作者成功提升了LLaMA在CPU上的推理速度，对于资源受限设备的应用具有重要意义。跨平台和跨架构的优化使得LLaMA在更广泛的环境中运行，促进了LLM的普及和应用。作者通过性能分析找到瓶颈并进行有针对性的优化，展示了一种值得借鉴的工程方法。当前优化虽然对长提示的加速有限，但作者持续改进，相信后续表现会更加令人期待。文章首先突出了矩阵乘法在LLM中的核心地位和优化的重要性，详细描述了优化过程和结果，分享了性能优化经验。代码已提交给LLaMA的上游项目，以使更多用户受益。 <div>
+【CPU上的LLaMA语言模型推理速度优化实践】<br /> - 作者为llamafile编写了84个新的矩阵乘法核，使其在CPU上处理prompt和图像的速度提高30%到500%。这对ARM和AVX512等CPU架构提速明显。   <br />- 在不同的CPU硬件上测试了优化后的llamafile和原版llama.cpp的性能，结果显示llamafile的速度提升幅度可达2倍。测试的硬件包括Intel、ARM、AMD等在内的服务器、个人电脑和专业工作站。   <br />- 作者主要通过优化矩阵乘法来实现提速，因为分析发现矩阵乘法占了95%的时间。作者使用C++实现了优化的矩阵乘法内核。   <br />- 作者不仅关注服务器硬件的性能，还重视廉价的个人电脑和树莓派等爱好者硬件的性能提升，以使更多用户也能受益。   <br />- 作者还分析了不同数据类型如fp16、bfloat16等对速度和精度的影响。并增加了对这些数据类型的支持。   <br />- 作者的代码已提交给llama.cpp的上游项目，以便所有用户都能受益。代码使用MIT许可发布。   <br />- 文章详细描述了作者是如何通过优化关键的矩阵乘法操作来显著提高整个语言模型的推理速度的，旨在分享这一性能优化经验。   <br /><br />思考：  <br />- 作者通过优化矩阵乘法内核，大幅提升了llamafile在CPU上的推理速度，这对于在资源受限设备上部署LLM具有重要意义。  <br />- 跨平台和跨架构的优化使llamafile能够在更广泛的环境中运行，有利于LLM的普及和应用。  <br />- 通过性能分析定位瓶颈，并针对性优化，这种工程方法值得借鉴。  <br />- 虽然目前的优化对较长提示的加速效果有限，但作者正在持续改进，后续表现值得期待。  <br />- 文章在开头通过简洁的代码定义矩阵乘法，突出了其在LLM中的核心地位和优化的重要性。<br />《LLaMA Now Goes Faster on CPUs》 <a href="https://justine.lol/matmul"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoc5xqcm7uj211q0u0n4f.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 00:05:05 GMT</pubDate>
+<pubDate>Tue, 02 Apr 2024 00:05:05 GMT</pubDate>
+</item>
+<item>
+<title>“Datawhale - 专注于AI领域的开源组织，致力于构建一个纯粹的学习圈子，帮助学习者更好地成长” 网页链接 #机器学习# #人工智能# [图片][图片][图片]</title>
+<link>https://weibo.com/1402400261/O7OqmCa13</link>
+<guid>https://weibo.com/1402400261/O7OqmCa13</guid>
+<content:encoded><![CDATA[
+<div> Datawhale, AI领域, 开源组织, 纯粹学习圈子, 帮助学习者, 成长<br>
+<br>
+在AI领域，Datawhale是一个专注于开源组织，旨在构建一个纯粹的学习圈子，帮助学习者更好地成长。他们致力于为学习者提供资源和支持，促进知识的共享和学习的发展，旨在推动AI领域的进步和发展。通过不断学习和交流，学习者能够不断提升技能，实现个人的成长和发展。<br><br>总结: Datawhale是专注于AI领域的开源组织，旨在构建一个纯粹的学习圈子，帮助学习者更好地成长。通过资源和支持，推动知识分享和学习发展，促进个人技能提升和成长。 <div>
+“Datawhale - 专注于AI领域的开源组织，致力于构建一个纯粹的学习圈子，帮助学习者更好地成长” <a href="https://linklearner.com/home"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoc5s699fjj21hw0u0n0m.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoc5sp5b6gj20zs0u0dis.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoc5t3b46aj217n0u0gom.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 00:00:24 GMT</pubDate>
+<pubDate>Tue, 02 Apr 2024 00:00:24 GMT</pubDate>
+</item>
+<item>
+<title>【矩阵形状与矩阵乘法性能】- 矩阵乘法的性能随矩阵尺寸的增大而整体提升，这是由于计算强度提高和并行度提高带来的。运算相对于内存访问的算术强度越高，性能越...</title>
+<link>https://weibo.com/1402400261/O7OpehzFb</link>
+<guid>https://weibo.com/1402400261/O7OpehzFb</guid>
+<content:encoded><![CDATA[
+<div> 矩阵乘法、矩阵形状、性能、计算强度、并行度、划分、内存访问、算术强度、优化、深度学习<br>
+<br>
+总结:<br>
+矩阵乘法的性能随着矩阵尺寸的增大而提升，这与计算强度提高和并行度增加有关。算术强度越高，性能越好。矩阵乘法的性能与矩阵形状的可划分性密切相关，形状能被2、8、16等2的幂整除时性能更优。当形状大小超过波粒子整数倍时，会出现性能下降，这与硬件SM数量相关。微小的矩阵形状变化可能导致巨大的性能差异，选择能被缓存行大小整除的形状很重要。一些框架能自动优化矩阵形状，但手动优化依然重要。理解矩阵运算性能的决定因素，选择合适的矩阵形状，对深度学习模型的性能提升至关重要。 <div>
+【矩阵形状与矩阵乘法性能】<br />- 矩阵乘法的性能随矩阵尺寸的增大而整体提升，这是由于计算强度提高和并行度提高带来的。运算相对于内存访问的算术强度越高，性能越好。   <br />- 矩阵乘法的性能与矩阵形状的可划分性高度相关，当形状能被2、8、16等2的幂整除时，性能明显更好。这是由于划分(tiling)带来的更优内存访问模式。   <br />- 当矩阵形状大小超过波粒子(wave)的整数倍时，会出现明显的性能下降。这种波粒子量化的影响与硬件SM(流处理器)的数量相关。   <br />- 由于上述原因，微小的矩阵形状变化可能导致巨大的性能差异。选择能够被缓存行大小整除的形状非常重要。   <br />- 一些框架如torch.compile会自动优化矩阵形状，将其pad至更优形状。但由于存在显存消耗和波粒子量化难以优化的问题，手动优化形状依然重要。   <br />- 理解矩阵运算性能的决定因素，选择合适的矩阵形状，能显著提升矩阵计算的性能。这对基于矩阵运算的深度学习模型具有重要意义。<br />《What Shapes Do Matrix Multiplications Like? [medium]》 <a href="https://www.thonking.ai/p/what-shapes-do-matrix-multiplications"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoc5q6je9dj20w30u00wt.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 01 Apr 2024 23:57:36 GMT</pubDate>
+<pubDate>Mon, 01 Apr 2024 23:57:36 GMT</pubDate>
+</item>
+<item>
+<title>【用AutoTrain微调Mixtral 8x7B实战】《Finetune Mixtral 8x7B with AutoTrain》 网页链接 #机器学习# #人工智能# [图片]</title>
+<link>https://weibo.com/1402400261/O7OnL0nLA</link>
+<guid>https://weibo.com/1402400261/O7OnL0nLA</guid>
+<content:encoded><![CDATA[
+<div> 关键词：AutoTrain、微调、Mixtral 8x7B、实战
+
+总结:
+<br><br>
+本文介绍了如何使用AutoTrain对Mixtral 8x7B进行微调，以适应实际应用场景。首先介绍了Mixtral 8x7B的基本情况，然后详细说明了AutoTrain微调的流程和步骤。通过实例分析和操作步骤，读者可以了解如何利用AutoTrain进行深度模型微调，以提高模型在具体任务上的表现和效果。整个过程需要细致的数据准备、模型配置和调整，同时也需要合理的训练策略和参数设置。最后，作者总结了AutoTrain微调Mixtral 8x7B的实战经验，为读者提供了更加高效和实用的深度学习模型微调方法。通过本文的学习，读者可以更好地掌握深度学习模型微调的技巧和方法，以应对不同任务和场景的需求。 <div>
+【用AutoTrain微调Mixtral 8x7B实战】《Finetune Mixtral 8x7B with AutoTrain》 <a href="https://huggingface.co/blog/abhishek/autotrain-mixtral-dgx-cloud-local"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoc5me4grnj20u00utaec.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 01 Apr 2024 23:53:58 GMT</pubDate>
+<pubDate>Mon, 01 Apr 2024 23:53:58 GMT</pubDate>
+</item>
+<item>
+<title>HuggingFace开源AI方案手册 - 转发 @爱可可-爱生活:&amp;ensp;【Open-Source AI Cookbook：HuggingFace开源AI方案手册，涵盖了使用开源工具和模型构建AI应用和解决各...</title>
+<link>https://weibo.com/1402400261/O7OnguHgt</link>
+<guid>https://weibo.com/1402400261/O7OnguHgt</guid>
+<content:encoded><![CDATA[
+<div> HuggingFace, AI, 开源, 方案手册, 模型, 构建, 应用, 解决任务, GitHub, 笔记本
+
+<br><br>总结:
+HuggingFace开源AI方案手册是一个收集了实际构建AI应用和使用开源工具和模型解决各种机器学习任务的笔记本集合。该手册在GitHub上提供，涵盖了使用HuggingFace开源工具和模型的实用方面。读者可以通过这些示例了解如何利用开源工具和模型构建AI应用，解决各种机器学习任务。通过这些笔记本，读者可以更深入地了解如何利用HuggingFace的技术来提升自己的AI项目。GitHub链接提供了丰富的资源，为AI开发者提供了学习和研究的平台。 HuggingFace开源AI方案手册将帮助读者更好地理解和应用AI技术，推动AI的发展。 <div>
+HuggingFace开源AI方案手册<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: 【Open-Source AI Cookbook：HuggingFace开源AI方案手册，涵盖了使用开源工具和模型构建AI应用和解决各种任务的方法】'Open-Source AI Cookbook - a collection of notebooks illustrating practical aspects of building AI applications and solving various machine learning tasks using open-source tools and models.’ <a href="https://huggingface.co/learn/cookbook/index"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> GitHub: github.com/huggingface/cookbook <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hmw5wsoap6j20u00ypagc.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 01 Apr 2024 23:52:46 GMT</pubDate>
+<pubDate>Mon, 01 Apr 2024 23:52:46 GMT</pubDate>
+</item>
+<item>
+<title>【AI对话零门槛：ChatGPT开放免注册使用】- OpenAI推出了无需注册即可使用ChatGPT的功能，降低了使用门槛，让更多人可以体验AI的好处。 - 目前每周有超过1亿用户...</title>
+<link>https://weibo.com/1402400261/O7OmLyBYE</link>
+<guid>https://weibo.com/1402400261/O7OmLyBYE</guid>
+<content:encoded><![CDATA[
+<div> OpenAI, ChatGPT, 无需注册, 降低门槛, 1亿用户, 全球影响力, 用户隐私, 内容安全, 注册用户功能, AI普惠化
+
+总结:<br><br>OpenAI推出了无需注册即可使用ChatGPT的功能，降低了使用门槛，让更多人可以体验AI的好处。每周有超过1亿用户在185个国家使用ChatGPT，免注册使用将进一步扩大用户基础。虽然取消注册要求，但OpenAI重视用户隐私和内容安全，并提供注册用户专属功能。OpenAI的使命是让普通大众也能体验到AI工具带来的益处，这个新功能是朝着AI普惠化更进一步的重要一步。 <div>
+【AI对话零门槛：ChatGPT开放免注册使用】<br />- OpenAI推出了无需注册即可使用ChatGPT的功能，降低了使用门槛，让更多人可以体验AI的好处。   <br />- 目前每周有超过1亿用户在185个国家使用ChatGPT，以学习新知识、寻找创作灵感和获得问题解答。开放使用功能将进一步提升覆盖面。   <br />- 用户提供的信息可能会被OpenAI用来改进模型，但用户可以通过设置关闭此功能。更多详细信息可以在帮助中心查看。   <br />- 为提高内容安全，该体验增加了更广泛类别的提示和生成内容屏蔽。   <br />- 注册账户可以获得保存聊天记录、分享聊天、语音对话等额外功能。   <br />- 对任何之前因注册流程门槛而无法尝试AI的人来说，这个新功能提供了一个零门槛使用ChatGPT的机会。   <br />- OpenAI的使命是让普通大众也能体验到AI工具带来的益处。这个功能的推出是朝着使AI普惠化更进一步。<br /><br />思考：    <br />- 取消注册要求是OpenAI在普及AI方面迈出的重要一步，这将大大降低普通用户接触和体验ChatGPT的门槛，有利于加速AI技术的大众化进程。    <br />- ChatGPT的全球影响力已经非常显著，超过1亿的周活跃用户数据印证了其在知识获取、创意激发等方面的价值。免注册使用将进一步扩大其用户基础。    <br />- 在开放的同时，OpenAI也重视用户隐私和内容安全，为用户提供了控制个人数据使用的选项，并加强了内容审核，这种负责任的态度值得肯定。    <br />- 虽然免注册使用受到欢迎，但注册用户专属的附加功能仍有吸引力，OpenAI在两种模式间取得了较好的平衡。    <br />- 随着准入门槛的降低，ChatGPT在教育、创意、个人助理等领域的应用有望进一步深化，但同时也需警惕对人类认知和创造力的潜在负面影响。<br />《Start using ChatGPT instantly》 <a href="https://openai.com/blog/start-using-chatgpt-instantly"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoc5jv8pktj21i60u0q64.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 01 Apr 2024 23:51:32 GMT</pubDate>
+<pubDate>Mon, 01 Apr 2024 23:51:32 GMT</pubDate>
+</item>
+<item>
+<title>//@爱可可-爱生活：今日开奖，欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可...</title>
+<link>https://weibo.com/1402400261/O7OjVxm5u</link>
+<guid>https://weibo.com/1402400261/O7OjVxm5u</guid>
+<content:encoded><![CDATA[
+<div> Java Python JavaScript C语言 MySQL Redis 技术故事 编程语言 欢迎参与开奖活动！ 
+
+<br><br>总结:
+欢迎参与今日开奖活动，转发并评论可有机会获得《码农翻身2》。书中通过编程语言王国的争斗故事，以轻松幽默的方式讲解技术知识，让枯燥的技术变得有趣。不同编程语言相互攻击，技术原理交融，读者能够在阅读中掌握技术本质。MySQL和Redis之间的对抗，以及C语言的悲催经历，都让读者在阅读过程中获得乐趣和知识。《码农翻身2》的故事情节生动有趣，让大家能够深入理解技术知识，享受阅读乐趣。 <div>
+//<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：今日开奖，欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评论即可参与。畅销书《码农翻身》第2部终于出版了，依然是用故事的方式讲解技术，把看似枯燥乏味的技术，变成好玩有趣的故事。编程语言王国之间依然争斗得你死我活，今天Java向Python渗透，明天JavaScript就向Java猛烈进攻。而C语言春节回家，发现只有自己没有对象，十分悲催。MySQL和Redis互相看不顺眼，不断向对方使绊子。让大家掌握技术原理和本质的同时，又能读起来很爽。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5016276596163714"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4ohfsdnwj20m80m843i.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4ohgdugqj20m80m8tc1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho4ohgus3ij20m80m8q75.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho4ohhdfwxj20zk0zk7ar.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 01 Apr 2024 23:44:32 GMT</pubDate>
+<pubDate>Mon, 01 Apr 2024 23:44:32 GMT</pubDate>
+</item>
+
+<item>
 <title>今日推介(第1363期)：从大型语言模型中蒸馏的通用文本嵌入、慢变序列稳定机器学习模型再训练研究、语言模型段落记忆定位、LLM长文本不确定性量化、Transformer- ...</title>
 <link>https://weibo.com/1402400261/O7NJulgMx</link>
 <guid>https://weibo.com/1402400261/O7NJulgMx</guid>
 <content:encoded><![CDATA[
 <div> 蒸馏、文本嵌入、慢变序列、稳定机器学习、模型再训练、段落记忆、长文本、不确定性量化、Transformer、混合语言模型
 
-总结：<br>
+总结：<br />
 研究围绕大型语言模型展开，从中提取了通用文本嵌入，通过蒸馏技术实现。同时探讨了慢变序列稳定机器学习模型再训练的方法和实践。针对语言模型段落记忆问题，提出了相应的定位方法。此外，还对LLM长文本不确定性进行量化研究，以提升模型性能。最后，介绍了Transformer-mamba混合语言模型的开发和应用。整体研究丰富了自然语言处理领域的技术和应用。 <div>
 今日推介(第1363期)：从大型语言模型中蒸馏的通用文本嵌入、慢变序列稳定机器学习模型再训练研究、语言模型段落记忆定位、LLM长文本不确定性量化、Transformer- mamba混合语言模型 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/690275166"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(4.2)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoc2qnz3gxj21m30u00yq.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoc2qsoq97j21qp0u0tf9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoc2qy4q8cj20te1bcai1.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoc2r20mejj21ij0u0dp0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoc2r55kozj20u00vn0w8.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 22:14:45 GMT</pubDate>
 <pubDate>Mon, 01 Apr 2024 22:14:45 GMT</pubDate>
 </item>
 <item>
@@ -25,11 +120,10 @@
 <content:encoded><![CDATA[
 <div> 频率、并行度、批处理、大语言模型、推理平台、能效、性能权衡、数据中心、设计指导
 
-<br><br>总结:
+<br /><br />总结:
 本文通过调节频率、并行度和批处理等多种手段，全面探讨了优化大语言模型推理平台能效的各种性能权衡。文章为未来数据中心提供了宝贵的设计指导，为实现更加环保的LLMs起到了重要作用。 <div>
 [AI] Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference  <br /><a href="https://arxiv.org/abs/2403.20306"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />通过调节频率、并行度和批处理等多种手段，全面描绘了优化大语言模型推理平台能效的各种性能权衡，为未来的数据中心提供了宝贵的设计指导。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc2h6digoj20zq1b0kek.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc2h6ui3yj20ls19oaja.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc2h7ipd0j20ls1dwdp3.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc2h83c1cj20lu1dyajg.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 22:05:13 GMT</pubDate>
 <pubDate>Mon, 01 Apr 2024 22:05:13 GMT</pubDate>
 </item>
 <item>
@@ -39,11 +133,10 @@
 <content:encoded><![CDATA[
 <div> STRUM-LLM系统, 大语言模型, 生成, 结构, 归因, 对比性, 摘要, 无须标注数据, 处理任意长度输入, 自我修订, 质量提升
 
-<br><br>总结: 
+<br /><br />总结: 
 研究提出了STRUM-LLM系统，利用大语言模型生成结构化、归因和对比性的摘要，帮助用户在选择两个选项时做出明智决策。这一方法无需标注数据，能够处理任意长度的输入，并通过自我修订显著提升了摘要质量。 <div>
 [CL] STRUM-LLM: Attributed and Structured Contrastive Summarization  <br /><a href="https://arxiv.org/abs/2403.19710"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>   <br />提出了STRUM-LLM系统，使用大语言模型生成有结构、归因和对比性的摘要，以帮助用户在两个选项间进行明智决策，方法无须标注数据，可以处理任意长度输入，通过自我修订显著提升质量。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc25zf8dzj20yy1cstq0.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc25zrv8wj20sw162q9j.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 21:54:25 GMT</pubDate>
 <pubDate>Mon, 01 Apr 2024 21:54:25 GMT</pubDate>
 </item>
 <item>
@@ -53,11 +146,10 @@
 <content:encoded><![CDATA[
 <div> RealM, 指代消解, 语言模型选择任务, 非对话, 高效解决, 关键词
 
-<br><br>总结:
+<br /><br />总结:
 本文通过将指代消解建模为语言模型选择任务，证明了语言模型可以高效解决包含非对话在内的各类指代消解。语言模型在处理指代消解时表现出色，能够有效解决各种语境下的指代问题。这种方法有效缩减了指代消解的复杂性，提高了处理效率。RealM模型为指代消解提供了新的解决思路，为相关领域的研究和应用带来了新的启示。 <div>
 [CL] ReALM: Reference Resolution As Language Modeling  <br /><a href="https://arxiv.org/abs/2403.20329"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />本文通过将指代消解建模为语言模型选择任务，证明了语言模型可以高效解决包含非对话在内的各类指代消解。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc1wcriqnj20uu1a4qj3.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc1wcwzqgj20us10q42s.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 21:45:09 GMT</pubDate>
 <pubDate>Mon, 01 Apr 2024 21:45:09 GMT</pubDate>
 </item>
 <item>
@@ -65,15 +157,13 @@
 <link>https://weibo.com/1402400261/O7NuvCmpL</link>
 <guid>https://weibo.com/1402400261/O7NuvCmpL</guid>
 <content:encoded><![CDATA[
-<div> 频域核化 预训练Transformer 线性复杂度 模型 训练 推理 成本 性能 DiJiang<br>
-<br>
-提出了一种名为DiJiang的方法，通过频域核化将预训练的Transformer模型高效地转换为具有线性复杂度的模型。这一方法极大地降低了模型的训练和推理成本，同时仍保持了可比的性能水平。DiJiang方法的核心思想是利用频域核化技术，通过计算频域特征来简化模型的复杂度，从而提高模型的效率。通过实验证明，DiJiang模型在保持性能的同时，大幅减少了训练和推理的时间成本，为大规模语言模型的应用提供了一种高效的解决方案。总的来说，DiJiang方法为提升大型语言模型的效率和性能做出了重要贡献。<br><br>总结: <br>DiJiang通过频域核化将预训练Transformer模型转换为具有线性复杂度的模型，降低了训练和推理成本，保持了可比的性能。 <div>
+<div> 频域核化 预训练Transformer 线性复杂度 模型 训练 推理 成本 性能 DiJiang<br />
+<br />
+提出了一种名为DiJiang的方法，通过频域核化将预训练的Transformer模型高效地转换为具有线性复杂度的模型。这一方法极大地降低了模型的训练和推理成本，同时仍保持了可比的性能水平。DiJiang方法的核心思想是利用频域核化技术，通过计算频域特征来简化模型的复杂度，从而提高模型的效率。通过实验证明，DiJiang模型在保持性能的同时，大幅减少了训练和推理的时间成本，为大规模语言模型的应用提供了一种高效的解决方案。总的来说，DiJiang方法为提升大型语言模型的效率和性能做出了重要贡献。<br /><br />总结: <br />DiJiang通过频域核化将预训练Transformer模型转换为具有线性复杂度的模型，降低了训练和推理成本，保持了可比的性能。 <div>
 [CL] DiJiang: Efficient Large Language Models through Compact Kernelization  <br /><a href="https://arxiv.org/abs/2403.19928"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>       <br />DiJiang通过频域核化，实现了将预训练Transformer高效转换为线性复杂度模型，极大降低了训练和推理成本，同时保持了可比的性能。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc1oqlhhkj211m1c41e9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc1oqwsg9j21im0ocn3t.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc1oredckj20r20qajuj.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc1orxnowj21f40jote2.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 01 Apr 2024 21:37:52 GMT</pubDate>
-<pubDate>Mon, 01 Apr 2024 21:37:52 GMT</pubDate>
 </item>
-
 <item>
 <title>提出Jamba这种混合Transformer-Mamba结构的语言模型，在单GPU上实现了强大的性能，对长序列也很友好，是一种非常有前景的创新型架构。 - 转发 @爱可可-爱生活:&amp;e...</title>
 <link>https://weibo.com/1402400261/O7NrFyUBU</link>

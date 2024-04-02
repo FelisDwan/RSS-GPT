@@ -2651,3 +2651,30 @@ Summarized using GPT-3.5-turbo
 Append: [[CL] DiJiang: Efficient Large Language Models through Compact Kernelization 网页链接 DiJiang通过频域核化，实现了将预训练Transformer高效转换为线性复杂...](https://weibo.com/1402400261/O7NuvCmpL)
 append_entries: 5
 Finish: 2024-04-02 02:21:21.947300
+------------------------------------------------------
+Started: 2024-04-02 04:13:30.286948
+Existing_entries: 426
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 784
+Summarized using GPT-3.5-turbo
+Append: [【CPU上的LLaMA语言模型推理速度优化实践】 - 作者为llamafile编写了84个新的矩阵乘法核，使其在CPU上处理prompt和图像的速度提高30%到500%。这对ARM和AVX512等C...](https://weibo.com/1402400261/O7Osgu4Br)
+Token length: 56
+Summarized using GPT-3.5-turbo
+Append: [“Datawhale - 专注于AI领域的开源组织，致力于构建一个纯粹的学习圈子，帮助学习者更好地成长” 网页链接 #机器学习# #人工智能# [图片][图片][图片]](https://weibo.com/1402400261/O7OqmCa13)
+Token length: 476
+Summarized using GPT-3.5-turbo
+Append: [【矩阵形状与矩阵乘法性能】- 矩阵乘法的性能随矩阵尺寸的增大而整体提升，这是由于计算强度提高和并行度提高带来的。运算相对于内存访问的算术强度越高，性能越...](https://weibo.com/1402400261/O7OpehzFb)
+Token length: 70
+Summarized using GPT-3.5-turbo
+Append: [【用AutoTrain微调Mixtral 8x7B实战】《Finetune Mixtral 8x7B with AutoTrain》 网页链接 #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O7OnL0nLA)
+Token length: 336
+Summarized using GPT-3.5-turbo
+Append: [HuggingFace开源AI方案手册 - 转发 @爱可可-爱生活:&ensp;【Open-Source AI Cookbook：HuggingFace开源AI方案手册，涵盖了使用开源工具和模型构建AI应用和解决各...](https://weibo.com/1402400261/O7OnguHgt)
+Token length: 777
+Summarized using GPT-3.5-turbo
+Append: [【AI对话零门槛：ChatGPT开放免注册使用】- OpenAI推出了无需注册即可使用ChatGPT的功能，降低了使用门槛，让更多人可以体验AI的好处。 - 目前每周有超过1亿用户...](https://weibo.com/1402400261/O7OmLyBYE)
+Token length: 257
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：今日开奖，欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可...](https://weibo.com/1402400261/O7OjVxm5u)
+append_entries: 7
+Finish: 2024-04-02 04:13:59.852337

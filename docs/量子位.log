@@ -1916,3 +1916,22 @@ Summarized using GPT-3.5-turbo
 Append: [#ChatGPT不用登录了##OpenAI走上Open之路#就在刚刚，OpenAI狠狠地open了一把：从今天起，ChatGPT打开即用，无需再注册帐号和登录了！像图2这样，直接登录网站，...](https://weibo.com/6105753431/O7OKhw5XX)
 append_entries: 2
 Finish: 2024-04-02 02:21:03.565406
+------------------------------------------------------
+Started: 2024-04-02 04:13:14.339479
+Existing_entries: 216
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [#腾讯开源大模型长文本测试新方法# 大模型长文本能力测试，又有新方法了！腾讯MLPD实验室，用全新开源的“数星星”方法替代了传统的“大海捞针”测试。相比之下...](https://weibo.com/6105753431/O7PQZrzAU)
+Token length: 274
+Summarized using GPT-3.5-turbo
+Append: [#单图换人脸# 只需一张自拍，AI 能立马将你的脸换到任何人头上，还是连亲妈都会认错那种~[吃惊]这是 GitHub 新项目#Person2Person Diffusion#能够实现的效果，旨...](https://weibo.com/6105753431/O7PKzoQ7A)
+Token length: 296
+Summarized using GPT-3.5-turbo
+Append: [#天工SkyMusic邀请内测# 就在刚刚，天工SkyMusic宣布即日起面向社会开启免费邀测。[打call]本轮邀测将开放1000个免费名额，面向行业媒体、专家、以及感兴趣的音...](https://weibo.com/6105753431/O7Pqz6oRH)
+Token length: 280
+Summarized using GPT-3.5-turbo
+Append: [#顶级学术会议用ChatGPT审稿# 尴了个大尬！人们还在嘲讽有人用ChatGPT写论文忘了删掉“狐狸尾巴”，另一边审稿人也被曝出用ChatGPT写同行评论了。而且，还是来自...](https://weibo.com/6105753431/O7PmyxrLK)
+Append: [#贾扬清发布新AI扩展程序# 又一款免费阅读神器来了！[打call]（网页、PDF、YouTube、黑客新闻都能读）AI大牛贾扬清发布了新AI扩展程序#Elmo#，主打免费/无需账户...](https://weibo.com/6105753431/O7PfmCs4a)
+append_entries: 5
+Finish: 2024-04-02 04:13:29.768895
