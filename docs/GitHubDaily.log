@@ -1436,3 +1436,12 @@ Existing_entries: 38
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-04-02 10:13:11.390035
+------------------------------------------------------
+Started: 2024-04-02 12:19:57.177271
+Existing_entries: 38
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [推荐 GitHub 上一个开源免费简单的 Android 视频/音频下载工具 Seal。底层使用的是 yt-dlp 下载框架，支持数千个视频平台的视频或音频下载。而且使用简单，并遵...](https://weibo.com/5722964389/O7SlKfgqT)
+append_entries: 1
+Finish: 2024-04-02 12:20:01.716642

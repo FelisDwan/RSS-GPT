@@ -2708,3 +2708,9 @@ Summarized using GPT-3.5-turbo
 Append: [恭喜@VarusRey 等3名用户获得【《码农翻身2》】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：网页链接 - 转发 @爱可可-爱...](https://weibo.com/1402400261/O7Q1b6Oiu)
 append_entries: 4
 Finish: 2024-04-02 10:13:11.238543
+------------------------------------------------------
+Started: 2024-04-02 12:19:57.013328
+Existing_entries: 437
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-02 12:19:57.138765
