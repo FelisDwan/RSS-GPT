@@ -5,18 +5,60 @@
 <link>https://weibo.com/6105753431/</link>
 
 <item>
+<title>#阿里1号AI员工上岗# 就在刚刚，阿里云开始在内部全面推行 AI 编程了。据悉，阿里云使用通义灵码辅助程序员写代码、读代码、查 BUG、优化代码等。阿里云还专门给...</title>
+<link>https://weibo.com/6105753431/O7QwoEt7a</link>
+<guid>https://weibo.com/6105753431/O7QwoEt7a</guid>
+<content:encoded><![CDATA[
+<div> 阿里云, AI 编程, 通义灵码, 程序员, 代码, 优化, Java, Python, 下载量, 核心业务开发工作
+
+<br><br>总结:
+阿里云开始推行AI编程，使用通义灵码辅助程序员写代码、查找BUG等。通义灵码已掌握多种编程语言，下载量超过200万，将编写公司未来20%的代码。程序员仍是研发核心，将有更多时间专注于系统设计和核心业务开发。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E9%87%8C1%E5%8F%B7AI%E5%91%98%E5%B7%A5%E4%B8%8A%E5%B2%97%23&amp;extparam=%23%E9%98%BF%E9%87%8C1%E5%8F%B7AI%E5%91%98%E5%B7%A5%E4%B8%8A%E5%B2%97%23"><span class="surl-text">#阿里1号AI员工上岗#</span></a> <br /><br />就在刚刚，阿里云开始在内部全面推行 AI 编程了。<br /><br />据悉，阿里云使用通义灵码辅助程序员写代码、读代码、查 BUG、优化代码等。<br /><br />阿里云还专门给通义灵码分配了一个正式的员工工号——AI001。<br /><br />目前，通义灵码已熟练掌握 Java、Python、Go、JavaScript、TypeScript、C/C++、C# 等 200 多种编程语言。<br /><br />同时下载量超 200 万，每天有数百万行代码被程序员采纳。<br /><br />阿里云相关人士透露：“公司未来 20% 的代码将由通义灵码编写，但程序员仍然是研发的核心，他们将有更多时间专注于系统设计以及核心业务开发工作。”<img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hocf1yo9vxj30u0140x3j.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hocf1ynj5gj30u017an4h.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 05:20:46 GMT</pubDate>
+<pubDate>Tue, 02 Apr 2024 05:20:46 GMT</pubDate>
+</item>
+<item>
+<title>#阿里7B多模态文档理解大模型新SOTA# 多模态文档理解能力新SOTA！阿里mPLUG团队发布最新开源工作mPLUG-DocOwl 1.5，针对高分辨率图片文字识别、通用文档结构理解...</title>
+<link>https://weibo.com/6105753431/O7QtP7SOU</link>
+<guid>https://weibo.com/6105753431/O7QtP7SOU</guid>
+<content:encoded><![CDATA[
+<div> 多模态文档理解能力、mPLUG-DocOwl 1.5、高分辨率图片文字识别、通用文档结构理解、指令遵循、外部知识引入、大语言模型、文档图片理解能力、SOTA、多模态文档领域详细解释、应用潜力
+
+<br><br>总结:
+阿里mPLUG团队发布了最新开源工作mPLUG-DocOwl 1.5，针对多模态文档理解领域的重要挑战提出了有效解决方案。他们在解决高分辨率图片文字识别、通用文档结构理解、指令遵循、外部知识引入等问题上取得了新的SOTA。该模型在多个基准测试上取得优异表现，其中在DocVQA上达到82.2的效果。该团队从2023年7月份开始研究多模态文档理解，并陆续发布一系列开源工作。通过对mPLUG-DocOwl 1.5的剖析，我们可以更好地了解多模态文档理解领域的关键挑战和解决方案，为该领域的进一步发展提供重要参考。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E9%87%8C7B%E5%A4%9A%E6%A8%A1%E6%80%81%E6%96%87%E6%A1%A3%E7%90%86%E8%A7%A3%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%96%B0SOTA%23&amp;extparam=%23%E9%98%BF%E9%87%8C7B%E5%A4%9A%E6%A8%A1%E6%80%81%E6%96%87%E6%A1%A3%E7%90%86%E8%A7%A3%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%96%B0SOTA%23"><span class="surl-text">#阿里7B多模态文档理解大模型新SOTA#</span></a> <br />多模态文档理解能力新SOTA！<br /><br />阿里mPLUG团队发布最新开源工作mPLUG-DocOwl 1.5，针对高分辨率图片文字识别、通用文档结构理解、指令遵循、外部知识引入四大挑战，提出了一系列解决方案。<br /><br />话不多说，先来看效果。<br /><br />复杂结构的图表一键识别转换为Markdown格式：P1<br /><br />不同样式的图表都可以:P2<br /><br />更细节的文字识别和定位也能轻松搞定：P3<br /><br />还能对文档理解给出详细解释：P4<br /><br />要知道，“文档理解”目前是大语言模型实现落地的一个重要场景，市面上有很多辅助文档阅读的产品，有的主要通过OCR系统进行文字识别，配合LLM进行文字理解可以达到不错的文档理解能力。<br /><br />不过，由于文档图片类别多样、文字丰富且排版复杂，难以实现图表、信息图、网页等结构复杂图片的通用理解。<br /><br />当前爆火的多模态大模型QwenVL-Max、Gemini, Claude3、GPT4V都具备很强的文档图片理解能力，然而开源模型在这个方向上的进展缓慢。<br /><br />而阿里新研究mPLUG-DocOwl 1.5在10个文档理解基准上拿下SOTA，5个数据集上提升超过10个点，部分数据集上超过智谱17.3B的CogAgent，在DocVQA上达到82.2的效果。<br /><br />除了具备基准上简单回答的能力，通过少量“详细解释”（reasoning）数据的微调，DocOwl 1.5-Chat也能具备多模态文档领域详细解释的能力，具有很大的应用潜力。<br /><br />阿里mPLUG团队从2023年7月份开始投入多模态文档理解的研究，陆续发布了mPLUG-DocOwl、 UReader、mPLUG-PaperOwl、mPLUG-DocOwl 1.5，开源了一系列文档理解大模型和训练数据。<br /><br />本文从最新工作mPLUG-DocOwl 1.5出发，剖析“多模态文档理解”领域的关键挑战和有效解决方案。<br /><a href="https://mp.weixin.qq.com/s/vtymW1k93ZLSOqj0iWwe6A"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">阿里7B多模态文档理解大模型拿下新SOTA｜开源</span></a><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hocevbimg4j30u00dd795.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hocevg1ekij30u00b3q6t.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hocevmp9kwj30u01a1h96.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hocevsmmuaj30tc13wqq6.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 05:14:25 GMT</pubDate>
+<pubDate>Tue, 02 Apr 2024 05:14:25 GMT</pubDate>
+</item>
+<item>
+<title>#Transformer可视化科普# YouTube上超 600 万订阅者的 “3blue1brown” 又来给大家科普Transformer了！3Blue1Brown是一个数学教育和可视化的在线平台，由美国数...</title>
+<link>https://weibo.com/6105753431/O7Q6a7rRO</link>
+<guid>https://weibo.com/6105753431/O7Q6a7rRO</guid>
+<content:encoded><![CDATA[
+<div> 3blue1brown, YouTube, 订阅者, 科普, Transformer, 数学教育, 可视化, Grant Sanderson, GitHub, UP主.
+
+<br><br>总结:
+YouTube上拥有超过600万订阅者的3blue1brown频道又开始科普Transformer了！由美国数学家Grant Sanderson创建的3Blue1Brown是一个数学教育和可视化平台，在GitHub上拥有三万颗星的UP主。他的视频内容整齐、图文并茂，常常破千万播放量。感观者通常会因他的讲解而豁然开朗，能理解小高等数学、比特币、深度学习等概念。感兴趣的人应该马上学起来！此外，他还开发了动画引擎Manim。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Transformer%E5%8F%AF%E8%A7%86%E5%8C%96%E7%A7%91%E6%99%AE%23&amp;extparam=%23Transformer%E5%8F%AF%E8%A7%86%E5%8C%96%E7%A7%91%E6%99%AE%23"><span class="surl-text">#Transformer可视化科普#</span></a> <br /><br />YouTube上超 600 万订阅者的 “3blue1brown” 又来给大家科普Transformer了！<br /><br />3Blue1Brown是一个数学教育和可视化的在线平台，由美国数学家Grant Sanderson创建。<br /><br />作为在 GitHub 收获三万星的UP主，整齐的公式排版、图文并茂的内容介绍在Grant Sanderson这里都是标配，他甚至会添加文字备注和图注。<span class="url-icon"><img alt="[赞]" src="https://h5.sinaimg.cn/m/emoticon/icon/others/h_zan-44ddc70637.png" style="width: 1em; height: 1em;" /></span><br /><br />目前，Grant Sanderson发布的视频在YouTube上播放量经常破千万，很多看过 3blue1brown 视频的人都会提到，看完讲解之后有一种豁然开朗的感觉。<br /><br />小小高等数学、比特币、深度学习这些概念，通通拿下！<span class="url-icon"><img alt="[酷]" src="https://h5.sinaimg.cn/m/emoticon/icon/default/d_ku-774d16f5ce.png" style="width: 1em; height: 1em;" /></span><br /><br />还等什么，感兴趣就学起来吧~（每日劝学）<br /><br />PS：动画引擎 Manim 也是他开发的~<br /><br />作者B站账号：<a href="https://space.bilibili.com/88461692"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />YouTube频道：<a href="https://www.youtube.com/@3blue1brown"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <br />教学网页：<a href="https://www.3blue1brown.com/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://video.weibo.com/show?fid=1034:5018677423046718"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">量子位的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006Fd7o3gy1hocc9720zqj31hc0u0424.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/PUDXisK7lx08dLpHyEOQ01041206ljns0E030.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1Cx9YB1mmR49jS&amp;Expires=1712040708&amp;ssig=0aBO7tM3XR&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/fbULjz9qlx08dLpFgBtu01041203i0Oo0E020.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1Cx9YB1mmR49jS&amp;Expires=1712040708&amp;ssig=OGiRLlLrZa&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/DdWJbhPJlx08dLpFND5C010412023SBH0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1Cx9YB1mmR49jS&amp;Expires=1712040708&amp;ssig=IfD5yFx1Yv&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5018677423046718" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 04:16:07 GMT</pubDate>
+<pubDate>Tue, 02 Apr 2024 04:16:07 GMT</pubDate>
+</item>
+
+<item>
 <title>#腾讯开源大模型长文本测试新方法# 大模型长文本能力测试，又有新方法了！腾讯MLPD实验室，用全新开源的“数星星”方法替代了传统的“大海捞针”测试。相比之下...</title>
 <link>https://weibo.com/6105753431/O7PQZrzAU</link>
 <guid>https://weibo.com/6105753431/O7PQZrzAU</guid>
 <content:encoded><![CDATA[
 <div> 腾讯MLPD实验室, 数星星方法, 大模型长文本能力, GPT-4, Kimi Chat, 依赖关系, 评估, 实验条件, 结果, 长文本能力
 
-<br><br>
+<br /><br />
 总结:
 腾讯MLPD实验室采用了新的数星星方法，取代传统的大海捞针测试，以评估大模型处理长文本的能力。该方法更注重模型处理长依赖关系的能力，使评估更加全面精准。研究人员在实验中对GPT-4和Kimi Chat进行了数星星测试，结果显示在不同实验条件下，两款模型各有胜负，但都展现出很强的长文本能力。这表明数星星方法是一种有效的评估模型长文本能力的新方法。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%85%BE%E8%AE%AF%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%95%BF%E6%96%87%E6%9C%AC%E6%B5%8B%E8%AF%95%E6%96%B0%E6%96%B9%E6%B3%95%23&amp;extparam=%23%E8%85%BE%E8%AE%AF%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%95%BF%E6%96%87%E6%9C%AC%E6%B5%8B%E8%AF%95%E6%96%B0%E6%96%B9%E6%B3%95%23"><span class="surl-text">#腾讯开源大模型长文本测试新方法#</span></a> <br /><br />大模型长文本能力测试，又有新方法了！<br /><br />腾讯MLPD实验室，用全新开源的“数星星”方法替代了传统的“大海捞针”测试。<br /><br />相比之下，新方法更注重对模型处理长依赖关系能力的考察，对模型的评估更加全面精准。<br /><br />利用这种方法，研究人员对GPT-4和国内知名的Kimi Chat进行了“数星星”测试。<br /><br />结果，在不同的实验条件下，两款模型各有胜负，但都体现出了很强的长文本能力。<br /><br /><a href="https://mp.weixin.qq.com/s/rH7PNHYeTkZOlhSoFL6bpA"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">“大海捞针”out！“数星星”成测长文本能力更精准方法，来自鹅厂</span></a><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hocc2hquo9j30u007ttak.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hocc2aq7rvj30u006gq5u.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hocc2eos3mj30u00o6dr9.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hocc265mvxj30u00grtb9.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 02 Apr 2024 03:38:44 GMT</pubDate>
 <pubDate>Tue, 02 Apr 2024 03:38:44 GMT</pubDate>
 </item>
 <item>
@@ -26,10 +68,9 @@
 <content:encoded><![CDATA[
 <div> GitHub、自拍、人脸交换、神经网络、保真度、Rick Astley、埃隆·马斯克、范·迪塞尔、杰克·布莱克
 
-<br><br>总结:GitHub上有一个新项目，可以将自拍照中的人脸换到其他人头上，保真度很高。这个项目使用复杂的神经网络设计来生成逼真的个人图像。网友用Rick Astley的MV试验了这个项目，将Rick Astley的脸换成了埃隆·马斯克、范·迪塞尔和杰克·布莱克的脸。 <div>
+<br /><br />总结:GitHub上有一个新项目，可以将自拍照中的人脸换到其他人头上，保真度很高。这个项目使用复杂的神经网络设计来生成逼真的个人图像。网友用Rick Astley的MV试验了这个项目，将Rick Astley的脸换成了埃隆·马斯克、范·迪塞尔和杰克·布莱克的脸。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%8D%95%E5%9B%BE%E6%8D%A2%E4%BA%BA%E8%84%B8%23&amp;extparam=%23%E5%8D%95%E5%9B%BE%E6%8D%A2%E4%BA%BA%E8%84%B8%23"><span class="surl-text">#单图换人脸#</span></a> <br /><br />只需一张自拍，AI 能立马将你的脸换到任何人头上，还是连亲妈都会认错那种~<span class="url-icon"><img alt="[吃惊]" src="https://h5.sinaimg.cn/m/emoticon/icon/default/d_chijing-59b444adb6.png" style="width: 1em; height: 1em;" /></span><br /><br />这是 GitHub 新项目<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Person2Person+Diffusion%23&amp;extparam=%23Person2Person+Diffusion%23"><span class="surl-text">#Person2Person Diffusion#</span></a>能够实现的效果，旨在从单一源图像生成逼真的个人图像。<br /><br />这个项目的核心是一个错综复杂的神经网络，每一层都经过精心设计，以捕捉人类外表和姿势的本质。<br /><br />该项目采用动态、自适应的框架，以确保生成图像的保真度。<br /><br />既然说到保真度，那就先来看看网友的花式整活吧~<span class="url-icon"><img alt="[吃瓜]" src="https://h5.sinaimg.cn/m/emoticon/icon/default/d_chigua-7a95e6efc4.png" style="width: 1em; height: 1em;" /></span><br /><br />前情提示，项目作者提供了美国著名创作歌手Rick Astley的一段MV，网友把视频中的Rick Astley换成了以下3人：<br /><br />埃隆·马斯克 - 范·迪塞尔 - 杰克·布莱克（大家看看像吗？）<br /><br />GitHub：<a href="https://okaris.github.io/p2p-diffusion.github.io/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hocbm1626kj30ah0dzgmy.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hocbmcw67oj30zk144ag4.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hocbml0i0tj30sg10mwlu.jpg" /><br /><br /><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax3.sinaimg.cn/orj480/006Fd7o3ly1hocbnrq88ij30du0duaah.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/W81b6a0Nlx08dLm3EJEc010412000orh0E010.mp4?label=mp4_hd&amp;template=498x498.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712033505&amp;ssig=V4C%2FzxiSrf&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/GlskFUCulx08dLm3GRxC010412000f1C0E010.mp4?label=mp4_ld&amp;template=360x360.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712033505&amp;ssig=qJ%2F1I48Jus&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5018671857205252" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
-<pubDate>Tue, 02 Apr 2024 03:22:56 GMT</pubDate>
 <pubDate>Tue, 02 Apr 2024 03:22:56 GMT</pubDate>
 </item>
 <item>
@@ -44,7 +85,6 @@
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%A4%A9%E5%B7%A5SkyMusic%E9%82%80%E8%AF%B7%E5%86%85%E6%B5%8B%23&amp;extparam=%23%E5%A4%A9%E5%B7%A5SkyMusic%E9%82%80%E8%AF%B7%E5%86%85%E6%B5%8B%23"><span class="surl-text">#天工SkyMusic邀请内测#</span></a> <br /><br />就在刚刚，天工SkyMusic宣布即日起面向社会开启免费邀测。<span class="url-icon"><img alt="[打call]" src="https://h5.sinaimg.cn/m/emoticon/icon/default/fb_a1dacall-1e0c4593fc.png" style="width: 1em; height: 1em;" /></span><br /><br />本轮邀测将开放1000个免费名额，面向行业媒体、专家、以及感兴趣的音乐从业者。<br /><br />据悉，天工SkyMusic是国内首款、同时也是目前国内唯一公开可用的AI音乐生成大模型。<br /><br />它采用了音乐音频领域类 Sora 模型架构，目前能够生成 80 秒双声道立体声AI歌曲，且人声合成能达到“以假乱真”的程度。<br /><br />此外，它还支持说唱、民谣、放克、古风、电子等多种音乐风格，用户在创作音乐时，可以通过参考音频制定想要的音乐风格。<br /><br />最后，感兴趣的朋友可以通过网页填写申请~（手慢无）<br /><br />网页申请地址：<a href="https://rg975ojk5z.feishu.cn/share/base/form/shrcnTcBRpGzv5Sx9xAGd5V97Md"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><br />PS：申请不上也没关系，正式版将在4月17日面向全社会免费开放<img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hoca73innqj30fu06r0t1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hoca74asksj31ak0twan2.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Tue, 02 Apr 2024 02:33:38 GMT</pubDate>
-<pubDate>Tue, 02 Apr 2024 02:33:38 GMT</pubDate>
 </item>
 <item>
 <title>#顶级学术会议用ChatGPT审稿# 尴了个大尬！人们还在嘲讽有人用ChatGPT写论文忘了删掉“狐狸尾巴”，另一边审稿人也被曝出用ChatGPT写同行评论了。而且，还是来自...</title>
@@ -53,11 +93,10 @@
 <content:encoded><![CDATA[
 <div> 关键词: ChatGPT, 人工智能会议, 同行评论, AI含量, 研究分析, 斯坦福学者, 论文写作, 审稿人, Reddit, 网友反应
 
-总结:<br><br>
+总结:<br /><br />
 一些人在写论文时使用ChatGPT导致犯了尴尬错误，同时审稿人也被曝出使用ChatGPT来撰写同行评论，特别是在顶级人工智能会议如ICLR、NeurIPS中。斯坦福学者对这些同行评论进行研究分析发现，使用ChatGPT之后评论中AI相关内容的比例大幅增加，显示出明显的AI含量。Reddit上的机器学习板块立即热议此事，网友纷纷表示惊讶。这个现象进一步表明，人工智能技术的发展在学术界和科研领域中的影响力越来越大，也引发了对论文写作和审稿机制的关注。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%A1%B6%E7%BA%A7%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE%E7%94%A8ChatGPT%E5%AE%A1%E7%A8%BF%23&amp;extparam=%23%E9%A1%B6%E7%BA%A7%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE%E7%94%A8ChatGPT%E5%AE%A1%E7%A8%BF%23"><span class="surl-text">#顶级学术会议用ChatGPT审稿#</span></a> <br /><br />尴了个大尬！<br /><br />人们还在嘲讽有人用ChatGPT写论文忘了删掉“狐狸尾巴”，另一边审稿人也被曝出用ChatGPT写同行评论了。<br /><br />而且，还是来自ICLR、NeurIPS等顶会的那种。<br /><br />来自斯坦福的学者对一些顶级AI会议（如ICLR、NeurIPS、CoRL等）中的审稿意见进行了分析，结果发现——<br /><br />在ChatGPT出现之后，这些同行评论的“AI含量”大增，最多的高达16.9%，而有ChatGPT之前这个比例大约是2%。<br /><br />证据也很直观，AI常用的词汇出现频率，在ChatGPT发布之后噌的一下就上去了。<br /><br />消息一出，Reddit的机器学习板块立刻就炸了锅，有网友直呼：闭环了！<img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hoc9xgh3ofj30u00b178n.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hoc9xk89gxj30u00ck0wy.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hoc9xojlr1j30je06at9o.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 02 Apr 2024 02:23:46 GMT</pubDate>
 <pubDate>Tue, 02 Apr 2024 02:23:46 GMT</pubDate>
 </item>
 <item>
@@ -65,13 +104,10 @@
 <link>https://weibo.com/6105753431/O7PfmCs4a</link>
 <guid>https://weibo.com/6105753431/O7PfmCs4a</guid>
 <content:encoded><![CDATA[
-
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%B4%BE%E6%89%AC%E6%B8%85%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F%23&amp;extparam=%23%E8%B4%BE%E6%89%AC%E6%B8%85%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F%23"><span class="surl-text">#贾扬清发布新AI扩展程序#</span></a> <br /><br />又一款免费阅读神器来了！<span class="url-icon"><img alt="[打call]" src="https://h5.sinaimg.cn/m/emoticon/icon/default/fb_a1dacall-1e0c4593fc.png" style="width: 1em; height: 1em;" /></span>（网页、PDF、YouTube、黑客新闻都能读）<br /><br />AI大牛贾扬清发布了新AI扩展程序<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Elmo%23"><span class="surl-text">#Elmo#</span></a>，主打免费/无需账户/多语言支持。<br /><br />Elmo的主要功能包括：<br /><br />1.总结摘要和要点。允许您立即将网站内容浓缩成简洁的摘要。<br /><br />2.继续提问。您可以提出具体问题并直接从页面接收答案，从而节省了搜索材料的时间和精力。<br /><br />3.整合全网资料。您无需离开当前网页而继续深入研究。<br /><br />4.总结PDF。总结PDF文件并继续提问。<br /><br />5.总结 YouTube 视频。您可以和 youtube 视频互动，提出问题并接收见解，就好像您正在与视频本身交谈一样。<br /><br />chrome插件地址：<a href="https://chromewebstore.google.com/detail/elmo-your-ai-web-copilot/ipnlcfhfdicbfbchfoihipknbaeenenm"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hoc9fdrnzpj32i81moe81.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hoc9fdxno2j32i81mohdt.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hoc9fdq43pj32i81moqv5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hoc9fdnyflj32i81moe81.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Tue, 02 Apr 2024 02:06:03 GMT</pubDate>
-<pubDate>Tue, 02 Apr 2024 02:06:03 GMT</pubDate>
 </item>
-
 <item>
 <title>#她们正在和ChatGPT谈恋爱# TikTok 最近刮起了一阵 “AI男友风”~“磁性的嗓音，温柔的回复，风趣幽默”，这些都是人们对名为“Dan”（ChatGPT voice）这个虚拟...</title>
 <link>https://weibo.com/6105753431/O7OXT5Emo</link>

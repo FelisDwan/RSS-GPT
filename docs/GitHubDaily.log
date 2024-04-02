@@ -1415,3 +1415,12 @@ Existing_entries: 37
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-04-02 04:13:59.960431
+------------------------------------------------------
+Started: 2024-04-02 06:14:46.895473
+Existing_entries: 37
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 377
+Summarized using GPT-3.5-turbo
+Append: [推荐 GitHub 上一款高性能且好用的敏感词工具 sensitive-word。这是基于 DFA 算法实现高性能 Java 敏感词过滤工具框架，目前敏感词库内容已收录 6W+。GitHub：gi...](https://weibo.com/5722964389/O7PZDCOJl)
+append_entries: 1
+Finish: 2024-04-02 06:14:53.557331

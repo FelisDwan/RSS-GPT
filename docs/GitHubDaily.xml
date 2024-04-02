@@ -4,6 +4,20 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+<item>
+<title>推荐 GitHub 上一款高性能且好用的敏感词工具 sensitive-word。这是基于 DFA 算法实现高性能 Java 敏感词过滤工具框架，目前敏感词库内容已收录 6W+。GitHub：gi...</title>
+<link>https://weibo.com/5722964389/O7PZDCOJl</link>
+<guid>https://weibo.com/5722964389/O7PZDCOJl</guid>
+<content:encoded><![CDATA[
+<div> GitHub, 高性能, 敏感词工具, sensitive-word, DFA 算法, Java, 6W+, fluent-api, QPS, 脱敏, 格式转换, 自定义替换策略, 白名单
+
+<br><br>总结:
+敏感词工具 sensitive-word 是一款基于 DFA 算法实现的高性能 Java 敏感词过滤工具框架，GitHub 上已收录 6W+ 的敏感词库内容。该工具具有流畅的 fluent-api 实现，保持性能高达每秒 7W+ 次请求，并且应用无感知。使用者可以通过该工具进行敏感词判断、返回、脱敏等操作，同时支持格式转换，包括全角半角互换、英文大小写互换、忽略重复词等功能。此外，工具还支持敏感词检测、邮箱检测、数字检测、网址检测等功能，用户可以自定义替换策略和维护自定义敏感词和白名单。可以实现数据动态更新，使得应用实时生效，同时支持敏感词的标签接口和跳过特殊字符的匹配。通过这些功能，sensitive-word 工具提供了一套全面的敏感词处理解决方案，帮助用户高效地管理和处理敏感词相关问题。 <div>
+推荐 GitHub 上一款高性能且好用的敏感词工具 sensitive-word。<br /><br />这是基于 DFA 算法实现高性能 Java 敏感词过滤工具框架，目前敏感词库内容已收录 6W+。<br /><br />GitHub：github.com/houbb/sensitive-word<br /><br />具有如下特性：<br /><br />- 6W+ 词库，且不断优化更新。<br />- 基于 fluent-api 实现，使用优雅简洁。<br />- 基于 DFA 算法，性能为 7W+ QPS，应用无感。<br />- 支持敏感词的判断、返回、脱敏等常见操作。<br />- 支持常见的格式转换，如全角半角互换、英文大小写互换、忽略重复词等。<br />- 支持敏感词检测、邮箱检测、数字检测、网址检测等。<br />- 支持自定义替换策略。<br />- 支持用户自定义敏感词和白名单。<br />- 支持数据的数据动态更新（用户自定义），实时生效。<br />- 支持敏感词的标签接口。<br />- 支持跳过一些特殊字符，让匹配更灵活。<img src="https://tvax2.sinaimg.cn/large/006fiYtfgy1hobtzj2374j30om0tygth.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 04:00:03 GMT</pubDate>
+<pubDate>Tue, 02 Apr 2024 04:00:03 GMT</pubDate>
+</item>
 
 <item>
 <title>分享 GitHub 上一份成为出色的数据工程师学习手册 data-engineer-handbook。涵盖了颇为齐全的数据工程师相关内容，如书籍、课程、面试资料、优秀博客、社区以及...</title>

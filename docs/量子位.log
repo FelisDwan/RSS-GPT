@@ -1935,3 +1935,18 @@ Append: [#顶级学术会议用ChatGPT审稿# 尴了个大尬！人们还在嘲�
 Append: [#贾扬清发布新AI扩展程序# 又一款免费阅读神器来了！[打call]（网页、PDF、YouTube、黑客新闻都能读）AI大牛贾扬清发布了新AI扩展程序#Elmo#，主打免费/无需账户...](https://weibo.com/6105753431/O7PfmCs4a)
 append_entries: 5
 Finish: 2024-04-02 04:13:29.768895
+------------------------------------------------------
+Started: 2024-04-02 06:14:32.699245
+Existing_entries: 221
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: [#阿里1号AI员工上岗# 就在刚刚，阿里云开始在内部全面推行 AI 编程了。据悉，阿里云使用通义灵码辅助程序员写代码、读代码、查 BUG、优化代码等。阿里云还专门给...](https://weibo.com/6105753431/O7QwoEt7a)
+Token length: 748
+Summarized using GPT-3.5-turbo
+Append: [#阿里7B多模态文档理解大模型新SOTA# 多模态文档理解能力新SOTA！阿里mPLUG团队发布最新开源工作mPLUG-DocOwl 1.5，针对高分辨率图片文字识别、通用文档结构理解...](https://weibo.com/6105753431/O7QtP7SOU)
+Token length: 356
+Summarized using GPT-3.5-turbo
+Append: [#Transformer可视化科普# YouTube上超 600 万订阅者的 “3blue1brown” 又来给大家科普Transformer了！3Blue1Brown是一个数学教育和可视化的在线平台，由美国数...](https://weibo.com/6105753431/O7Q6a7rRO)
+append_entries: 3
+Finish: 2024-04-02 06:14:46.205466
