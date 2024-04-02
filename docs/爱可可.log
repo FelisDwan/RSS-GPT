@@ -2630,3 +2630,24 @@ Summarized using GPT-3.5-turbo
 Append: [[CL]《Gecko: Versatile Text Embeddings Distilled from Large Language Models》J Lee, Z Dai, X Ren, B Chen… [Google DeepMind] (2024) 网页链接 #机器学习...](https://weibo.com/1402400261/O7Nj4qu11)
 append_entries: 10
 Finish: 2024-04-02 00:52:54.490412
+------------------------------------------------------
+Started: 2024-04-02 02:21:04.070788
+Existing_entries: 421
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1363期)：从大型语言模型中蒸馏的通用文本嵌入、慢变序列稳定机器学习模型再训练研究、语言模型段落记忆定位、LLM长文本不确定性量化、Transformer- ...](https://weibo.com/1402400261/O7NJulgMx)
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [[AI] Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference 网页链接 通过调节频率、并行度和批处理等多种手段，全面描绘了优...](https://weibo.com/1402400261/O7NFCbFAF)
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [[CL] STRUM-LLM: Attributed and Structured Contrastive Summarization 网页链接 提出了STRUM-LLM系统，使用大语言模型生成有结构、归因和对比性的摘要，以帮助...](https://weibo.com/1402400261/O7NBeif7h)
+Token length: 106
+Summarized using GPT-3.5-turbo
+Append: [[CL] ReALM: Reference Resolution As Language Modeling 网页链接 本文通过将指代消解建模为语言模型选择任务，证明了语言模型可以高效解决包含非对话在内的各...](https://weibo.com/1402400261/O7NxtaOwL)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [[CL] DiJiang: Efficient Large Language Models through Compact Kernelization 网页链接 DiJiang通过频域核化，实现了将预训练Transformer高效转换为线性复杂...](https://weibo.com/1402400261/O7NuvCmpL)
+append_entries: 5
+Finish: 2024-04-02 02:21:21.947300

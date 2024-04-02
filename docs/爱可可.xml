@@ -5,17 +5,86 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>今日推介(第1363期)：从大型语言模型中蒸馏的通用文本嵌入、慢变序列稳定机器学习模型再训练研究、语言模型段落记忆定位、LLM长文本不确定性量化、Transformer- ...</title>
+<link>https://weibo.com/1402400261/O7NJulgMx</link>
+<guid>https://weibo.com/1402400261/O7NJulgMx</guid>
+<content:encoded><![CDATA[
+<div> 蒸馏、文本嵌入、慢变序列、稳定机器学习、模型再训练、段落记忆、长文本、不确定性量化、Transformer、混合语言模型
+
+总结：<br>
+研究围绕大型语言模型展开，从中提取了通用文本嵌入，通过蒸馏技术实现。同时探讨了慢变序列稳定机器学习模型再训练的方法和实践。针对语言模型段落记忆问题，提出了相应的定位方法。此外，还对LLM长文本不确定性进行量化研究，以提升模型性能。最后，介绍了Transformer-mamba混合语言模型的开发和应用。整体研究丰富了自然语言处理领域的技术和应用。 <div>
+今日推介(第1363期)：从大型语言模型中蒸馏的通用文本嵌入、慢变序列稳定机器学习模型再训练研究、语言模型段落记忆定位、LLM长文本不确定性量化、Transformer- mamba混合语言模型 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/690275166"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(4.2)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoc2qnz3gxj21m30u00yq.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoc2qsoq97j21qp0u0tf9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoc2qy4q8cj20te1bcai1.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoc2r20mejj21ij0u0dp0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoc2r55kozj20u00vn0w8.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 01 Apr 2024 22:14:45 GMT</pubDate>
+<pubDate>Mon, 01 Apr 2024 22:14:45 GMT</pubDate>
+</item>
+<item>
+<title>[AI] Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference 网页链接 通过调节频率、并行度和批处理等多种手段，全面描绘了优...</title>
+<link>https://weibo.com/1402400261/O7NFCbFAF</link>
+<guid>https://weibo.com/1402400261/O7NFCbFAF</guid>
+<content:encoded><![CDATA[
+<div> 频率、并行度、批处理、大语言模型、推理平台、能效、性能权衡、数据中心、设计指导
+
+<br><br>总结:
+本文通过调节频率、并行度和批处理等多种手段，全面探讨了优化大语言模型推理平台能效的各种性能权衡。文章为未来数据中心提供了宝贵的设计指导，为实现更加环保的LLMs起到了重要作用。 <div>
+[AI] Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference  <br /><a href="https://arxiv.org/abs/2403.20306"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />通过调节频率、并行度和批处理等多种手段，全面描绘了优化大语言模型推理平台能效的各种性能权衡，为未来的数据中心提供了宝贵的设计指导。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc2h6digoj20zq1b0kek.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc2h6ui3yj20ls19oaja.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc2h7ipd0j20ls1dwdp3.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc2h83c1cj20lu1dyajg.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 01 Apr 2024 22:05:13 GMT</pubDate>
+<pubDate>Mon, 01 Apr 2024 22:05:13 GMT</pubDate>
+</item>
+<item>
+<title>[CL] STRUM-LLM: Attributed and Structured Contrastive Summarization 网页链接 提出了STRUM-LLM系统，使用大语言模型生成有结构、归因和对比性的摘要，以帮助...</title>
+<link>https://weibo.com/1402400261/O7NBeif7h</link>
+<guid>https://weibo.com/1402400261/O7NBeif7h</guid>
+<content:encoded><![CDATA[
+<div> STRUM-LLM系统, 大语言模型, 生成, 结构, 归因, 对比性, 摘要, 无须标注数据, 处理任意长度输入, 自我修订, 质量提升
+
+<br><br>总结: 
+研究提出了STRUM-LLM系统，利用大语言模型生成结构化、归因和对比性的摘要，帮助用户在选择两个选项时做出明智决策。这一方法无需标注数据，能够处理任意长度的输入，并通过自我修订显著提升了摘要质量。 <div>
+[CL] STRUM-LLM: Attributed and Structured Contrastive Summarization  <br /><a href="https://arxiv.org/abs/2403.19710"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>   <br />提出了STRUM-LLM系统，使用大语言模型生成有结构、归因和对比性的摘要，以帮助用户在两个选项间进行明智决策，方法无须标注数据，可以处理任意长度输入，通过自我修订显著提升质量。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc25zf8dzj20yy1cstq0.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc25zrv8wj20sw162q9j.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 01 Apr 2024 21:54:25 GMT</pubDate>
+<pubDate>Mon, 01 Apr 2024 21:54:25 GMT</pubDate>
+</item>
+<item>
+<title>[CL] ReALM: Reference Resolution As Language Modeling 网页链接 本文通过将指代消解建模为语言模型选择任务，证明了语言模型可以高效解决包含非对话在内的各...</title>
+<link>https://weibo.com/1402400261/O7NxtaOwL</link>
+<guid>https://weibo.com/1402400261/O7NxtaOwL</guid>
+<content:encoded><![CDATA[
+<div> RealM, 指代消解, 语言模型选择任务, 非对话, 高效解决, 关键词
+
+<br><br>总结:
+本文通过将指代消解建模为语言模型选择任务，证明了语言模型可以高效解决包含非对话在内的各类指代消解。语言模型在处理指代消解时表现出色，能够有效解决各种语境下的指代问题。这种方法有效缩减了指代消解的复杂性，提高了处理效率。RealM模型为指代消解提供了新的解决思路，为相关领域的研究和应用带来了新的启示。 <div>
+[CL] ReALM: Reference Resolution As Language Modeling  <br /><a href="https://arxiv.org/abs/2403.20329"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />本文通过将指代消解建模为语言模型选择任务，证明了语言模型可以高效解决包含非对话在内的各类指代消解。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc1wcriqnj20uu1a4qj3.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc1wcwzqgj20us10q42s.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 01 Apr 2024 21:45:09 GMT</pubDate>
+<pubDate>Mon, 01 Apr 2024 21:45:09 GMT</pubDate>
+</item>
+<item>
+<title>[CL] DiJiang: Efficient Large Language Models through Compact Kernelization 网页链接 DiJiang通过频域核化，实现了将预训练Transformer高效转换为线性复杂...</title>
+<link>https://weibo.com/1402400261/O7NuvCmpL</link>
+<guid>https://weibo.com/1402400261/O7NuvCmpL</guid>
+<content:encoded><![CDATA[
+<div> 频域核化 预训练Transformer 线性复杂度 模型 训练 推理 成本 性能 DiJiang<br>
+<br>
+提出了一种名为DiJiang的方法，通过频域核化将预训练的Transformer模型高效地转换为具有线性复杂度的模型。这一方法极大地降低了模型的训练和推理成本，同时仍保持了可比的性能水平。DiJiang方法的核心思想是利用频域核化技术，通过计算频域特征来简化模型的复杂度，从而提高模型的效率。通过实验证明，DiJiang模型在保持性能的同时，大幅减少了训练和推理的时间成本，为大规模语言模型的应用提供了一种高效的解决方案。总的来说，DiJiang方法为提升大型语言模型的效率和性能做出了重要贡献。<br><br>总结: <br>DiJiang通过频域核化将预训练Transformer模型转换为具有线性复杂度的模型，降低了训练和推理成本，保持了可比的性能。 <div>
+[CL] DiJiang: Efficient Large Language Models through Compact Kernelization  <br /><a href="https://arxiv.org/abs/2403.19928"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>       <br />DiJiang通过频域核化，实现了将预训练Transformer高效转换为线性复杂度模型，极大降低了训练和推理成本，同时保持了可比的性能。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc1oqlhhkj211m1c41e9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc1oqwsg9j21im0ocn3t.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc1oredckj20r20qajuj.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc1orxnowj21f40jote2.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 01 Apr 2024 21:37:52 GMT</pubDate>
+<pubDate>Mon, 01 Apr 2024 21:37:52 GMT</pubDate>
+</item>
+
+<item>
 <title>提出Jamba这种混合Transformer-Mamba结构的语言模型，在单GPU上实现了强大的性能，对长序列也很友好，是一种非常有前景的创新型架构。 - 转发 @爱可可-爱生活:&amp;e...</title>
 <link>https://weibo.com/1402400261/O7NrFyUBU</link>
 <guid>https://weibo.com/1402400261/O7NrFyUBU</guid>
 <content:encoded><![CDATA[
 <div> Jamba, Transformer-Mamba, 语言模型, 单GPU, 性能, 长序列, 创新型架构
 
-<br><br>总结:
+<br /><br />总结:
 提出了一种混合Transformer-Mamba结构的语言模型Jamba，在单GPU上实现了强大的性能，对长序列也很友好。该架构具有前景，是一种创新型架构。 Jamba的设计结合了Transformer和Mamba的优点，具有高效的计算能力和长序列处理能力。在实验中，Jamba在多项任务上取得了优异的表现，证明了其性能和实用性。总体而言，Jamba是一种非常有潜力和前景的语言模型架构。 <div>
 提出Jamba这种混合Transformer-Mamba结构的语言模型，在单GPU上实现了强大的性能，对长序列也很友好，是一种非常有前景的创新型架构。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Jamba: A Hybrid Transformer-Mamba Language Model》O Lieber, B Lenz, H Bata, G Cohen... [A21 Labs] (2024) <a href="https://arxiv.org/abs/2403.19887"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc1aergz1j21ck0xswuj.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc1af49fgj215k17ugrx.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc1afhehij215g0imgny.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc1afrbl0j21500kmdko.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc1hd1qinj20vd0f0755.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc1hd24sbj20ve0g3abi.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc1hd1tsrj20vd0egmy7.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc1hd301hj20vh0oiwje.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc1hd1bxhj20ns0dc0t7.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 21:30:52 GMT</pubDate>
 <pubDate>Mon, 01 Apr 2024 21:30:52 GMT</pubDate>
 </item>
 <item>
@@ -25,11 +94,10 @@
 <content:encoded><![CDATA[
 <div> Jamba, Hybrid Transformer-Mamba, Language Model, A21 Labs, 2024, O Lieber, B Lenz, H Bata, G Cohen
 
-<br><br>总结:
+<br /><br />总结:
 这篇文章介绍了一种名为Jamba的混合Transformer-Mamba语言模型，由A21 Labs团队在2024年的研究成果。该模型结合了Transformer和Mamba的特性，具有较强的语言建模能力。研究团队通过对O Lieber、B Lenz、H Bata和G Cohen等成员的研究，展示了Jamba在自然语言处理领域的潜在应用和优势。Jamba模型的推出将为语言建模和相关领域的发展提供新的思路和可能性。 <div>
 [CL]《Jamba: A Hybrid Transformer-Mamba Language Model》O Lieber, B Lenz, H Bata, G Cohen... [A21 Labs] (2024) <a href="https://arxiv.org/abs/2403.19887"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc1aergz1j21ck0xswuj.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc1af49fgj215k17ugrx.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc1afhehij215g0imgny.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc1afrbl0j21500kmdko.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc1hd1qinj20vd0f0755.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc1hd24sbj20ve0g3abi.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc1hd1tsrj20vd0egmy7.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc1hd301hj20vh0oiwje.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc1hd1bxhj20ns0dc0t7.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 21:30:44 GMT</pubDate>
 <pubDate>Mon, 01 Apr 2024 21:30:44 GMT</pubDate>
 </item>
 <item>
@@ -39,10 +107,9 @@
 <content:encoded><![CDATA[
 <div> 关键词: 长文本生成, 句级一致性, 不确定性量化, LUQ 方法, 语言模型
 
-总结:<br><br>这篇文章介绍了一种针对长文本生成的句级一致性判断方法LUQ，并对不确定性进行了量化。研究结果显示，LUQ方法能显著提升语言模型的生成事实性。LUQ方法由来自剑桥大学和亚马逊AGI的C Zhang、F Liu、M Basaldella和N Collier合作研究，于2024年发表。这一方法的提出填补了长文本生成领域的研究空白，并为语言模型的发展带来了新的启示。LUQ方法不仅可以帮助评估生成文本的一致性，还可以对生成文本的不确定性进行量化，提高了生成文本的可信度。通过对LUQ方法的研究，可以为提高自然语言处理系统的效果提供有效的方法和技术。LUQ方法的应用前景广阔，对自然语言生成领域具有重要意义。 <div>
+总结:<br /><br />这篇文章介绍了一种针对长文本生成的句级一致性判断方法LUQ，并对不确定性进行了量化。研究结果显示，LUQ方法能显著提升语言模型的生成事实性。LUQ方法由来自剑桥大学和亚马逊AGI的C Zhang、F Liu、M Basaldella和N Collier合作研究，于2024年发表。这一方法的提出填补了长文本生成领域的研究空白，并为语言模型的发展带来了新的启示。LUQ方法不仅可以帮助评估生成文本的一致性，还可以对生成文本的不确定性进行量化，提高了生成文本的可信度。通过对LUQ方法的研究，可以为提高自然语言处理系统的效果提供有效的方法和技术。LUQ方法的应用前景广阔，对自然语言生成领域具有重要意义。 <div>
 针对长文本生成提出句级一致性判断的LUQ方法进行不确定性量化，结果表明LUQ可显著提升语言模型的生成事实性。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《LUQ: Long-text Uncertainty Quantification for LLMs》C Zhang, F Liu, M Basaldella, N Collier [University of Cambridge &amp; Amazon AGI] (2024) <a href="https://arxiv.org/abs/2403.20279"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc0zrcezoj20kg19ck2a.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc0zryhgij21rm0z0too.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc0zs8jphj21rg15sqfv.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc0zseif2j20vm0z678i.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc108mpwfj20ho0k3my5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc108mptdj20hm0d3mxj.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 21:14:28 GMT</pubDate>
 <pubDate>Mon, 01 Apr 2024 21:14:28 GMT</pubDate>
 </item>
 <item>
@@ -54,10 +121,9 @@
 
 LUQ: Long-text Uncertainty Quantification for LLMs 是由剑桥大学和亚马逊AGI合作的研究项目，致力于解决长文本对于语言模型的不确定性量化问题。研究着眼于提高语言模型对于长文本理解和处理的准确度，特别是在处理含有不确定性信息的文本时。通过引入新的方法和技术，研究团队成功地开发了LUQ框架，可以有效地衡量和管理语言模型在长文本处理过程中的不确定性。该框架的应用将有助于提升语言模型的性能，并推动自然语言处理领域的进一步发展。
 
-总结:<br><br>LUQ: Long-text Uncertainty Quantification for LLMs 是一个研究项目，旨在提高语言模型对长文本的处理准确度，尤其是在处理不确定性信息时。研究团队通过开发LUQ框架成功解决了这一问题，为自然语言处理领域的发展提供了新的思路和方法。 <div>
+总结:<br /><br />LUQ: Long-text Uncertainty Quantification for LLMs 是一个研究项目，旨在提高语言模型对长文本的处理准确度，尤其是在处理不确定性信息时。研究团队通过开发LUQ框架成功解决了这一问题，为自然语言处理领域的发展提供了新的思路和方法。 <div>
 [CL]《LUQ: Long-text Uncertainty Quantification for LLMs》C Zhang, F Liu, M Basaldella, N Collier [University of Cambridge &amp; Amazon AGI] (2024) <a href="https://arxiv.org/abs/2403.20279"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc0zrcezoj20kg19ck2a.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc0zryhgij21rm0z0too.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc0zs8jphj21rg15sqfv.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc0zseif2j20vm0z678i.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc108mpwfj20ho0k3my5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc108mptdj20hm0d3mxj.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 21:14:17 GMT</pubDate>
 <pubDate>Mon, 01 Apr 2024 21:14:17 GMT</pubDate>
 </item>
 <item>
@@ -67,10 +133,9 @@ LUQ: Long-text Uncertainty Quantification for LLMs 是由剑桥大学和亚马�
 <content:encoded><![CDATA[
 <div> 记忆、语言模型、注意力头、梯度分析、训练目标、鲁棒性、段落、定位、Google、ETH Zürich
 
-总结:<br><br>这篇文章通过梯度分析和训练目标发现，语言模型中的记忆主要集中在较低层的注意力头，这解释了记忆的鲁棒性。作者提出了定位段落记忆在语言模型中的方式，并对这一结论进行了实证研究。研究结果显示，语言模型在处理文本任务时对段落级别的记忆有显著影响，有助于解释语言模型的表现和性能。这一发现对语言模型研究和应用具有一定的启发意义，有望进一步拓展语言模型的应用领域。 <div>
+总结:<br /><br />这篇文章通过梯度分析和训练目标发现，语言模型中的记忆主要集中在较低层的注意力头，这解释了记忆的鲁棒性。作者提出了定位段落记忆在语言模型中的方式，并对这一结论进行了实证研究。研究结果显示，语言模型在处理文本任务时对段落级别的记忆有显著影响，有助于解释语言模型的表现和性能。这一发现对语言模型研究和应用具有一定的启发意义，有望进一步拓展语言模型的应用领域。 <div>
 通过梯度分析和训练目标，发现语言模型中的记忆主要集中在较低层的注意力头，解释了记忆的鲁棒性。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Localizing Paragraph Memorization in Language Models》N Stoehr, M Gordon, C Zhang, O Lewis [Google &amp; ETH Zürich] (2024) <a href="https://arxiv.org/abs/2403.19851"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc0y3jp0xj20uc1cogyf.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc0y3zf8jj20te1bcn7k.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc0y49vojj20t60vudn1.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc0y4lql2j21m00x8ajv.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc0yohechj20zx0wxq8n.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc0yog5k7j20zt0igae0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc0yogdymj20zx0sd77y.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc0yog11mj20zs0f4tay.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc0yofgnwj20zs0atta4.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 21:13:05 GMT</pubDate>
 <pubDate>Mon, 01 Apr 2024 21:13:05 GMT</pubDate>
 </item>
 <item>
@@ -80,11 +145,10 @@ LUQ: Long-text Uncertainty Quantification for LLMs 是由剑桥大学和亚马�
 <content:encoded><![CDATA[
 <div> Paragraph Memorization, Language Models, Localizing, Google, ETH Zürich, N Stoehr, M Gordon, C Zhang, O Lewis
 
-<br><br>总结:
+<br /><br />总结:
 这篇文章由N Stoehr, M Gordon, C Zhang, O Lewis等人在2024年发表，并由Google和ETH Zürich合作完成。研究的主题是关于在语言模型中的段落记忆的本地化。研究指出了语言模型在总结信息时的一些问题，并提出了一种新的方法来处理这个问题，以提高模型的效率和准确性。研究结果显示，这种本地化的方法可以显著改善语言模型的记忆和总结能力，在各种应用场景中都具有潜在的重要性。文章的研究方法和结论对自然语言处理领域具有一定的参考价值。 <div>
 [CL]《Localizing Paragraph Memorization in Language Models》N Stoehr, M Gordon, C Zhang, O Lewis [Google &amp; ETH Zürich] (2024) <a href="https://arxiv.org/abs/2403.19851"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc0y3jp0xj20uc1cogyf.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc0y3zf8jj20te1bcn7k.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc0y49vojj20t60vudn1.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc0y4lql2j21m00x8ajv.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc0yohechj20zx0wxq8n.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc0yog5k7j20zt0igae0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc0yogdymj20zx0sd77y.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc0yog11mj20zs0f4tay.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc0yofgnwj20zs0atta4.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc0yohxfgj20zy1atn5d.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc0yogkxlj20zs0j8776.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc0yogkj8j20z40a90uf.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc0yoggjuj20zx0mf76t.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 21:12:47 GMT</pubDate>
 <pubDate>Mon, 01 Apr 2024 21:12:47 GMT</pubDate>
 </item>
 <item>
@@ -93,13 +157,12 @@ LUQ: Long-text Uncertainty Quantification for LLMs 是由剑桥大学和亚马�
 <guid>https://weibo.com/1402400261/O7NjUvh7e</guid>
 <content:encoded><![CDATA[
 <div> 模型距离度量, 混合整数规划, 数据批量再训练, 性能, 结构稳定性, 全局优化方法, 机器学习, 稳定性, 慢变化序列
-<br>
-<br>
+<br />
+<br />
 总结: 
 该研究提出了一种在机器学习模型数据批量再训练中考虑性能和保证结构稳定性的全局优化方法。通过定义模型距离度量并集成到混合整数规划算法中，利用慢变化序列确保模型稳定性。这种方法在实际应用中有望提升机器学习模型的性能和稳定性，对于机器学习领域具有一定的实用意义。 <div>
 通过定义模型距离度量并集成到混合整数规划算法中，提出一种在机器学习模型数据批量再训练问题上既考虑性能又保证结构稳定性的全局优化方法。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Towards Stable Machine Learning Model Retraining via Slowly Varying Sequences》V D Jr, Y Ma, P Paschalidis, D Bertsimas [Management, HEC Paris &amp; MIT &amp; Harvard University] (2024) <a href="https://arxiv.org/abs/2403.19871"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc0wvp1eej21d40rqdsd.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc0ww6ophj21m20rsjzn.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc0wwfi43j21ma0pmahx.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc0wwjpfmj21mo0todm9.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 21:11:44 GMT</pubDate>
 <pubDate>Mon, 01 Apr 2024 21:11:44 GMT</pubDate>
 </item>
 <item>
@@ -109,10 +172,9 @@ LUQ: Long-text Uncertainty Quantification for LLMs 是由剑桥大学和亚马�
 <content:encoded><![CDATA[
 <div> 稳定性、机器学习、模型再训练、缓慢变化序列、管理、HEC巴黎、MIT、哈佛大学
 
-总结:<br><br>这篇文章提出了一种通过缓慢变化序列实现稳定机器学习模型再训练的方法。研究人员来自管理、HEC巴黎、MIT和哈佛大学，他们的方法旨在解决机器学习模型再训练过程中出现的不稳定性问题。通过引入缓慢变化的序列，可以有效地降低模型训练过程中的不确定性，提高模型的稳定性和准确性。这项研究对于提高机器学习模型再训练的效率和可靠性具有重要意义。 <div>
+总结:<br /><br />这篇文章提出了一种通过缓慢变化序列实现稳定机器学习模型再训练的方法。研究人员来自管理、HEC巴黎、MIT和哈佛大学，他们的方法旨在解决机器学习模型再训练过程中出现的不稳定性问题。通过引入缓慢变化的序列，可以有效地降低模型训练过程中的不确定性，提高模型的稳定性和准确性。这项研究对于提高机器学习模型再训练的效率和可靠性具有重要意义。 <div>
 [LG]《Towards Stable Machine Learning Model Retraining via Slowly Varying Sequences》V D Jr, Y Ma, P Paschalidis, D Bertsimas [Management, HEC Paris &amp; MIT &amp; Harvard University] (2024) <a href="https://arxiv.org/abs/2403.19871"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc0wvp1eej21d40rqdsd.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc0ww6ophj21m20rsjzn.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoc0wwfi43j21ma0pmahx.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc0wwjpfmj21mo0todm9.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 21:11:34 GMT</pubDate>
 <pubDate>Mon, 01 Apr 2024 21:11:34 GMT</pubDate>
 </item>
 <item>
@@ -122,11 +184,10 @@ LUQ: Long-text Uncertainty Quantification for LLMs 是由剑桥大学和亚马�
 <content:encoded><![CDATA[
 <div> Gecko, 文本嵌入, 语言模型, 知识蒸馏, 容量, 语义理解, 基准测试, Google DeepMind
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了一种名为Gecko的方法，通过语言模型的知识蒸馏，将一个容量仅1.2亿参数的模型在通用语义理解基准测试中的性能提升至超过容量7倍大模型的竞争水平。Gecko模型通过迁移学习技术，将大语言模型中的信息压缩为小型模型，并提供了一种高效的文本嵌入方式。研究表明，Gecko在各种任务和语料上都能取得优异的结果，展示了其在文本理解领域的强大能力。Gecko的提出为文本嵌入领域的发展带来了新的思路和可能性，为构建高效、精确的语义理解模型提供了有力支持。 <div>
 通过语言模型的知识蒸馏，使一个容量仅1.2亿参数的模型在通用语义理解基准测试中，取得了超过容量7倍大模型的竞争性能。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Gecko: Versatile Text Embeddings Distilled from Large Language Models》J Lee, Z Dai, X Ren, B Chen… [Google DeepMind] (2024) <a href="https://arxiv.org/abs/2403.20327"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc0vbcwm8j21la0hidos.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc0vc19kkj21lk0tqtgq.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc0vcc327j21l60wm494.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Mon, 01 Apr 2024 21:09:58 GMT</pubDate>
 <pubDate>Mon, 01 Apr 2024 21:09:58 GMT</pubDate>
 </item>
 <item>
@@ -134,15 +195,13 @@ LUQ: Long-text Uncertainty Quantification for LLMs 是由剑桥大学和亚马�
 <link>https://weibo.com/1402400261/O7Nj4qu11</link>
 <guid>https://weibo.com/1402400261/O7Nj4qu11</guid>
 <content:encoded><![CDATA[
-<div> Gecko, Versatile, Text Embeddings, Large Language Models, DeepMind<br>
-<br>
-在这篇文章中，研究者介绍了一种称为Gecko的文本嵌入模型，该模型可以从大型语言模型中提炼出高效的文本嵌入。研究团队通过精心设计的训练策略，成功将Gecko应用于各种自然语言处理任务中，取得了令人瞩目的效果。该模型的灵活性和多功能性使其在不同任务和数据集上均表现出色，展现了其在文本表示学习领域的巨大潜力。总的来说，Gecko为利用大型语言模型提炼出高效文本嵌入提供了一种创新的方法，有望推动自然语言处理领域的发展。<br><br>总结： <br>Gecko模型是一种能够从大型语言模型中提炼文本嵌入的方法，具有灵活性和多功能性。通过精心设计的训练策略，Gecko在各种自然语言处理任务中取得了令人瞩目的效果，并展现出在文本表示学习领域的巨大潜力。 <div>
+<div> Gecko, Versatile, Text Embeddings, Large Language Models, DeepMind<br />
+<br />
+在这篇文章中，研究者介绍了一种称为Gecko的文本嵌入模型，该模型可以从大型语言模型中提炼出高效的文本嵌入。研究团队通过精心设计的训练策略，成功将Gecko应用于各种自然语言处理任务中，取得了令人瞩目的效果。该模型的灵活性和多功能性使其在不同任务和数据集上均表现出色，展现了其在文本表示学习领域的巨大潜力。总的来说，Gecko为利用大型语言模型提炼出高效文本嵌入提供了一种创新的方法，有望推动自然语言处理领域的发展。<br /><br />总结： <br />Gecko模型是一种能够从大型语言模型中提炼文本嵌入的方法，具有灵活性和多功能性。通过精心设计的训练策略，Gecko在各种自然语言处理任务中取得了令人瞩目的效果，并展现出在文本表示学习领域的巨大潜力。 <div>
 [CL]《Gecko: Versatile Text Embeddings Distilled from Large Language Models》J Lee, Z Dai, X Ren, B Chen… [Google DeepMind] (2024) <a href="https://arxiv.org/abs/2403.20327"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoc0vbcwm8j21la0hidos.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoc0vc19kkj21lk0tqtgq.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoc0vcc327j21l60wm494.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 01 Apr 2024 21:09:41 GMT</pubDate>
-<pubDate>Mon, 01 Apr 2024 21:09:41 GMT</pubDate>
 </item>
-
 <item>
 <title>《爱可可微博热门分享(4.1)》 爱可可微博热门分享(4.1) [图片]</title>
 <link>https://weibo.com/1402400261/O7KEQFkmk</link>

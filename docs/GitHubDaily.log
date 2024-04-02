@@ -1400,3 +1400,12 @@ Existing_entries: 36
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-04-02 00:52:54.692700
+------------------------------------------------------
+Started: 2024-04-02 02:21:21.983575
+Existing_entries: 36
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [分享 GitHub 上一份成为出色的数据工程师学习手册 data-engineer-handbook。涵盖了颇为齐全的数据工程师相关内容，如书籍、课程、面试资料、优秀博客、社区以及...](https://weibo.com/5722964389/O7OCo193W)
+append_entries: 1
+Finish: 2024-04-02 02:21:27.163069
