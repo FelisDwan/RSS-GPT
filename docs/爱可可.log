@@ -2756,3 +2756,13 @@ Summarized using GPT-3.5-turbo
 Append: [【MineLand： 基于 Minecraft 的大型多 Agent 交互模拟器，支持有限的多模态感知和物理需求】'MineLand - Simulating Large-Scale Multi-Agent Interactions wit...](https://weibo.com/1402400261/O7TtFvChI)
 append_entries: 10
 Finish: 2024-04-02 16:15:26.575848
+------------------------------------------------------
+Started: 2024-04-02 18:13:42.951778
+Existing_entries: 447
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O7UfVuOAx)
+Token length: 19
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(4.2)》 爱可可微博热门分享(4.2) [图片]](https://weibo.com/1402400261/O7UfG92ii)
+append_entries: 1
+Finish: 2024-04-02 18:13:48.889174
