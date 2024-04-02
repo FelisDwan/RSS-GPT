@@ -1445,3 +1445,12 @@ Summarized using GPT-3.5-turbo
 Append: [推荐 GitHub 上一个开源免费简单的 Android 视频/音频下载工具 Seal。底层使用的是 yt-dlp 下载框架，支持数千个视频平台的视频或音频下载。而且使用简单，并遵...](https://weibo.com/5722964389/O7SlKfgqT)
 append_entries: 1
 Finish: 2024-04-02 12:20:01.716642
+------------------------------------------------------
+Started: 2024-04-02 14:10:07.336251
+Existing_entries: 39
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 555
+Summarized using GPT-3.5-turbo
+Append: [推荐 GitHub 上一款专为 LLM 设计的可扩展且功能丰富的界面 Open WebUI。支持运行各种 LLM，包括 Ollama 和 OpenAI 兼容的 API、Gemini、Groq、Claude 等。列举...](https://weibo.com/5722964389/O7TwOm5sS)
+append_entries: 1
+Finish: 2024-04-02 14:10:16.778995
