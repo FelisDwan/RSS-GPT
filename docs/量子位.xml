@@ -4,6 +4,7 @@
 <title>量子位的微博</title>
 <link>https://weibo.com/6105753431/</link>
 
+
 <item>
 <title>#阿里1号AI员工上岗# 就在刚刚，阿里云开始在内部全面推行 AI 编程了。据悉，阿里云使用通义灵码辅助程序员写代码、读代码、查 BUG、优化代码等。阿里云还专门给...</title>
 <link>https://weibo.com/6105753431/O7QwoEt7a</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 阿里云, AI 编程, 通义灵码, 程序员, 代码, 优化, Java, Python, 下载量, 核心业务开发工作
 
-<br><br>总结:
+<br /><br />总结:
 阿里云开始推行AI编程，使用通义灵码辅助程序员写代码、查找BUG等。通义灵码已掌握多种编程语言，下载量超过200万，将编写公司未来20%的代码。程序员仍是研发核心，将有更多时间专注于系统设计和核心业务开发。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E9%87%8C1%E5%8F%B7AI%E5%91%98%E5%B7%A5%E4%B8%8A%E5%B2%97%23&amp;extparam=%23%E9%98%BF%E9%87%8C1%E5%8F%B7AI%E5%91%98%E5%B7%A5%E4%B8%8A%E5%B2%97%23"><span class="surl-text">#阿里1号AI员工上岗#</span></a> <br /><br />就在刚刚，阿里云开始在内部全面推行 AI 编程了。<br /><br />据悉，阿里云使用通义灵码辅助程序员写代码、读代码、查 BUG、优化代码等。<br /><br />阿里云还专门给通义灵码分配了一个正式的员工工号——AI001。<br /><br />目前，通义灵码已熟练掌握 Java、Python、Go、JavaScript、TypeScript、C/C++、C# 等 200 多种编程语言。<br /><br />同时下载量超 200 万，每天有数百万行代码被程序员采纳。<br /><br />阿里云相关人士透露：“公司未来 20% 的代码将由通义灵码编写，但程序员仍然是研发的核心，他们将有更多时间专注于系统设计以及核心业务开发工作。”<img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hocf1yo9vxj30u0140x3j.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hocf1ynj5gj30u017an4h.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 02 Apr 2024 05:20:46 GMT</pubDate>
 <pubDate>Tue, 02 Apr 2024 05:20:46 GMT</pubDate>
 </item>
 <item>
@@ -25,11 +25,10 @@
 <content:encoded><![CDATA[
 <div> 多模态文档理解能力、mPLUG-DocOwl 1.5、高分辨率图片文字识别、通用文档结构理解、指令遵循、外部知识引入、大语言模型、文档图片理解能力、SOTA、多模态文档领域详细解释、应用潜力
 
-<br><br>总结:
+<br /><br />总结:
 阿里mPLUG团队发布了最新开源工作mPLUG-DocOwl 1.5，针对多模态文档理解领域的重要挑战提出了有效解决方案。他们在解决高分辨率图片文字识别、通用文档结构理解、指令遵循、外部知识引入等问题上取得了新的SOTA。该模型在多个基准测试上取得优异表现，其中在DocVQA上达到82.2的效果。该团队从2023年7月份开始研究多模态文档理解，并陆续发布一系列开源工作。通过对mPLUG-DocOwl 1.5的剖析，我们可以更好地了解多模态文档理解领域的关键挑战和解决方案，为该领域的进一步发展提供重要参考。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E9%87%8C7B%E5%A4%9A%E6%A8%A1%E6%80%81%E6%96%87%E6%A1%A3%E7%90%86%E8%A7%A3%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%96%B0SOTA%23&amp;extparam=%23%E9%98%BF%E9%87%8C7B%E5%A4%9A%E6%A8%A1%E6%80%81%E6%96%87%E6%A1%A3%E7%90%86%E8%A7%A3%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%96%B0SOTA%23"><span class="surl-text">#阿里7B多模态文档理解大模型新SOTA#</span></a> <br />多模态文档理解能力新SOTA！<br /><br />阿里mPLUG团队发布最新开源工作mPLUG-DocOwl 1.5，针对高分辨率图片文字识别、通用文档结构理解、指令遵循、外部知识引入四大挑战，提出了一系列解决方案。<br /><br />话不多说，先来看效果。<br /><br />复杂结构的图表一键识别转换为Markdown格式：P1<br /><br />不同样式的图表都可以:P2<br /><br />更细节的文字识别和定位也能轻松搞定：P3<br /><br />还能对文档理解给出详细解释：P4<br /><br />要知道，“文档理解”目前是大语言模型实现落地的一个重要场景，市面上有很多辅助文档阅读的产品，有的主要通过OCR系统进行文字识别，配合LLM进行文字理解可以达到不错的文档理解能力。<br /><br />不过，由于文档图片类别多样、文字丰富且排版复杂，难以实现图表、信息图、网页等结构复杂图片的通用理解。<br /><br />当前爆火的多模态大模型QwenVL-Max、Gemini, Claude3、GPT4V都具备很强的文档图片理解能力，然而开源模型在这个方向上的进展缓慢。<br /><br />而阿里新研究mPLUG-DocOwl 1.5在10个文档理解基准上拿下SOTA，5个数据集上提升超过10个点，部分数据集上超过智谱17.3B的CogAgent，在DocVQA上达到82.2的效果。<br /><br />除了具备基准上简单回答的能力，通过少量“详细解释”（reasoning）数据的微调，DocOwl 1.5-Chat也能具备多模态文档领域详细解释的能力，具有很大的应用潜力。<br /><br />阿里mPLUG团队从2023年7月份开始投入多模态文档理解的研究，陆续发布了mPLUG-DocOwl、 UReader、mPLUG-PaperOwl、mPLUG-DocOwl 1.5，开源了一系列文档理解大模型和训练数据。<br /><br />本文从最新工作mPLUG-DocOwl 1.5出发，剖析“多模态文档理解”领域的关键挑战和有效解决方案。<br /><a href="https://mp.weixin.qq.com/s/vtymW1k93ZLSOqj0iWwe6A"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">阿里7B多模态文档理解大模型拿下新SOTA｜开源</span></a><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hocevbimg4j30u00dd795.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hocevg1ekij30u00b3q6t.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hocevmp9kwj30u01a1h96.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hocevsmmuaj30tc13wqq6.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 02 Apr 2024 05:14:25 GMT</pubDate>
 <pubDate>Tue, 02 Apr 2024 05:14:25 GMT</pubDate>
 </item>
 <item>
@@ -39,14 +38,12 @@
 <content:encoded><![CDATA[
 <div> 3blue1brown, YouTube, 订阅者, 科普, Transformer, 数学教育, 可视化, Grant Sanderson, GitHub, UP主.
 
-<br><br>总结:
+<br /><br />总结:
 YouTube上拥有超过600万订阅者的3blue1brown频道又开始科普Transformer了！由美国数学家Grant Sanderson创建的3Blue1Brown是一个数学教育和可视化平台，在GitHub上拥有三万颗星的UP主。他的视频内容整齐、图文并茂，常常破千万播放量。感观者通常会因他的讲解而豁然开朗，能理解小高等数学、比特币、深度学习等概念。感兴趣的人应该马上学起来！此外，他还开发了动画引擎Manim。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Transformer%E5%8F%AF%E8%A7%86%E5%8C%96%E7%A7%91%E6%99%AE%23&amp;extparam=%23Transformer%E5%8F%AF%E8%A7%86%E5%8C%96%E7%A7%91%E6%99%AE%23"><span class="surl-text">#Transformer可视化科普#</span></a> <br /><br />YouTube上超 600 万订阅者的 “3blue1brown” 又来给大家科普Transformer了！<br /><br />3Blue1Brown是一个数学教育和可视化的在线平台，由美国数学家Grant Sanderson创建。<br /><br />作为在 GitHub 收获三万星的UP主，整齐的公式排版、图文并茂的内容介绍在Grant Sanderson这里都是标配，他甚至会添加文字备注和图注。<span class="url-icon"><img alt="[赞]" src="https://h5.sinaimg.cn/m/emoticon/icon/others/h_zan-44ddc70637.png" style="width: 1em; height: 1em;" /></span><br /><br />目前，Grant Sanderson发布的视频在YouTube上播放量经常破千万，很多看过 3blue1brown 视频的人都会提到，看完讲解之后有一种豁然开朗的感觉。<br /><br />小小高等数学、比特币、深度学习这些概念，通通拿下！<span class="url-icon"><img alt="[酷]" src="https://h5.sinaimg.cn/m/emoticon/icon/default/d_ku-774d16f5ce.png" style="width: 1em; height: 1em;" /></span><br /><br />还等什么，感兴趣就学起来吧~（每日劝学）<br /><br />PS：动画引擎 Manim 也是他开发的~<br /><br />作者B站账号：<a href="https://space.bilibili.com/88461692"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />YouTube频道：<a href="https://www.youtube.com/@3blue1brown"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <br />教学网页：<a href="https://www.3blue1brown.com/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://video.weibo.com/show?fid=1034:5018677423046718"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">量子位的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006Fd7o3gy1hocc9720zqj31hc0u0424.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/PUDXisK7lx08dLpHyEOQ01041206ljns0E030.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1Cx9YB1mmR49jS&amp;Expires=1712040708&amp;ssig=0aBO7tM3XR&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/fbULjz9qlx08dLpFgBtu01041203i0Oo0E020.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1Cx9YB1mmR49jS&amp;Expires=1712040708&amp;ssig=OGiRLlLrZa&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/DdWJbhPJlx08dLpFND5C010412023SBH0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1Cx9YB1mmR49jS&amp;Expires=1712040708&amp;ssig=IfD5yFx1Yv&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5018677423046718" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
 <pubDate>Tue, 02 Apr 2024 04:16:07 GMT</pubDate>
-<pubDate>Tue, 02 Apr 2024 04:16:07 GMT</pubDate>
 </item>
-
 <item>
 <title>#腾讯开源大模型长文本测试新方法# 大模型长文本能力测试，又有新方法了！腾讯MLPD实验室，用全新开源的“数星星”方法替代了传统的“大海捞针”测试。相比之下...</title>
 <link>https://weibo.com/6105753431/O7PQZrzAU</link>

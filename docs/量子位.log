@@ -1950,3 +1950,9 @@ Summarized using GPT-3.5-turbo
 Append: [#Transformer可视化科普# YouTube上超 600 万订阅者的 “3blue1brown” 又来给大家科普Transformer了！3Blue1Brown是一个数学教育和可视化的在线平台，由美国数...](https://weibo.com/6105753431/O7Q6a7rRO)
 append_entries: 3
 Finish: 2024-04-02 06:14:46.205466
+------------------------------------------------------
+Started: 2024-04-02 08:14:05.307397
+Existing_entries: 224
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-04-02 08:14:05.448337
