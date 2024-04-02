@@ -2720,3 +2720,39 @@ Existing_entries: 437
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-02 14:10:07.297946
+------------------------------------------------------
+Started: 2024-04-02 16:14:44.547283
+Existing_entries: 437
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1300
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation》(CVPR 2024) GitHub: github.com/Aradhye2002/Ec...](https://weibo.com/1402400261/O7TPalOlz)
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [【VillagerBench: 多智能体合作前沿技术的基准套件，旨在挑战虚拟智能体共同完成的极限，从建筑项目到烹饪任务，再到逃脱房间的谜题】'VillagerBench: Benchmark...](https://weibo.com/1402400261/O7TOrFbis)
+Token length: 290
+Summarized using GPT-3.5-turbo
+Append: [【ChatDev IDE: 用于构建AI代理的工具，无论是在游戏中的NPC还是强大的代理工具，都可以在这个平台上设计想要的内容】'ChatDev IDE: Building Your AI Agent - C...](https://weibo.com/1402400261/O7TNEvwYT)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: ['LangGraph.js - a library for building stateful, multi-actor applications with LLMs, built on top of (and intended to be used with) LangChain.js' GitH...](https://weibo.com/1402400261/O7TMgqIjs)
+Token length: 388
+Summarized using GPT-3.5-turbo
+Append: [【nl-sh: 允许用户在终端中直接集成OpenAI的GPTs、Anthropic的Claude或本地GGUF格式的LLM，使操作人员能用流利的人类语言描述任务并执行】’nl-sh: Natural Lang...](https://weibo.com/1402400261/O7TJWloOf)
+Token length: 332
+Summarized using GPT-3.5-turbo
+Append: [【关于用Agent/大模型打游戏的相关文献资源列表】’A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges - This repo is...](https://weibo.com/1402400261/O7THU9SSK)
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [【GraphAr：开源的、用于存储和检索图数据的标准数据文件格式】'GraphAr - An open source, standard data file format for graph data storage and retrieval' ...](https://weibo.com/1402400261/O7TGHfnZl)
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: ['Translational-Style-ChatLLM：西式翻译腔聊天风格中文大模型 - 完全依靠ChatGPT生成数据微调的西式翻译腔聊天风格中文大模型' GitHub: github.com/Benson114/T...](https://weibo.com/1402400261/O7TG2qqfH)
+Token length: 279
+Summarized using GPT-3.5-turbo
+Append: [【用Transformer作为编码器和解码器的无损压缩的概念Demo】’Lossless Text Compression with Transformer-based Language Model - This repo is to demo the co...](https://weibo.com/1402400261/O7TFDoXRY)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [【MineLand： 基于 Minecraft 的大型多 Agent 交互模拟器，支持有限的多模态感知和物理需求】'MineLand - Simulating Large-Scale Multi-Agent Interactions wit...](https://weibo.com/1402400261/O7TtFvChI)
+append_entries: 10
+Finish: 2024-04-02 16:15:26.575848

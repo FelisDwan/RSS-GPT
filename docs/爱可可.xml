@@ -4,6 +4,142 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>几篇论文实现代码：《ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation》(CVPR 2024) GitHub: github.com/Aradhye2002/Ec...</title>
+<link>https://weibo.com/1402400261/O7TPalOlz</link>
+<guid>https://weibo.com/1402400261/O7TPalOlz</guid>
+<content:encoded><![CDATA[
+<div> ECoDepth, Diffusion Models, Monocular Depth Estimation, Conditioning, Effective, CVPR 2024, GitHub, Relation Rectification, Relation Rectification, Diffusion Model, Hourglass Tokenizer, Efficient, Transformer-Based, 3D Human Pose Estimation, XScale-NVS, Cross-Scale, Novel View Synthesis, Hash Featurized Manifold, DiJiang, Large Language Models, Compact Kernelization, Talk3D, Talking Portrait Synthesis, 3D Generative Prior, Motion Inversion, Video Customization, MineLand, Multi-Agent Interactions, Limited Multimodal Senses, Physical Needs, UPD, Unsolvable Problem Detection, Vision Language Models, Draw-and-Understand, Visual Prompts
+
+总结：<br><br> 《ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation》介绍了一种有效的条件扩展扩散模型，用于单目深度估计。GitHub上有相关的代码实现。 《Relation Rectification in Diffusion Model》讨论了扩散模型中的关系校正问题，也提供了相关的GitHub代码。《Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation》介绍了一种用于3D人体姿势估计的高效Transformer模型。XScale-NVS展示了一种跨尺度新视图合成方法，并使用哈希特征化流形。DiJiang通过紧凑内核化实现了高效的大型语言模型。Talk3D提出了一种通过个性化三维生成先验实现的高保真度语音合成方法。Motion Inversion展示了视频定制中的运动反转技术。MineLand通过模拟大规模多智能体交互，限制多模态感知和生理需求。UPD关注视觉语言模型的可信度评估。Draw-and-Understand利用视觉提示帮助大型语言模型理解用户需求。 <div>
+几篇论文实现代码：<br />《ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation》(CVPR 2024) GitHub: github.com/Aradhye2002/EcoDepth [fig2]<br />《Relation Rectification in Diffusion Model》(CVPR 2024) GitHub: github.com/WUyinwei-hah/RRNet<br />《Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation》(CVPR 2024) GitHub: github.com/NationalGAILab/HoT<br />《XScale-NVS: Cross-Scale Novel View Synthesis with Hash Featurized Manifold》(CVPR 2024) GitHub: github.com/THU-luvision/XScale-NVS<br />《DiJiang: Efficient Large Language Models through Compact Kernelization》(2024) GitHub: github.com/YuchuanTian/DiJiang [fig1]<br />《Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior》(2024) GitHub: github.com/KU-CVLAB/Talk3D [fig3] <br />《Motion Inversion for Video Customization》(2024) GitHub: github.com/EnVision-Research/MotionInversion<br />《MineLand: Simulating Large-Scale Multi-Agent Interactions with Limited Multimodal Senses and Physical Needs》(2024) GitHub: github.com/cocacola-lab/MineLand<br />《Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models》(2024) GitHub: github.com/AtsuMiyai/UPD [fig4]<br />《Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want》(2024) GitHub: github.com/AFeng-x/Draw-and-Understand [fig5]<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hocfuvwv8uj21je0kqak6.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hocfx3bw1xj21x00le1kx.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hocg07nt81j259e2g1npf.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hocs644i0fj20un0gztsi.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoctmropi0j22ec14q7he.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 13:45:14 GMT</pubDate>
+<pubDate>Tue, 02 Apr 2024 13:45:14 GMT</pubDate>
+</item>
+<item>
+<title>【VillagerBench: 多智能体合作前沿技术的基准套件，旨在挑战虚拟智能体共同完成的极限，从建筑项目到烹饪任务，再到逃脱房间的谜题】'VillagerBench: Benchmark...</title>
+<link>https://weibo.com/1402400261/O7TOrFbis</link>
+<guid>https://weibo.com/1402400261/O7TOrFbis</guid>
+<content:encoded><![CDATA[
+<div> 多智能体合作, 基准套件, 挑战, 虚拟智能体, 完成, 极限, 建筑项目, 烹饪任务, 逃脱房间, 谜题
+
+<br><br>总结:
+"VillagerBench"是一个用于多智能体合作的基准套件，旨在挑战虚拟智能体共同完成任务的极限。该套件涵盖了各种任务，包括建筑项目、烹饪任务和逃脱房间谜题，旨在促进智能体在团队合作中的表现。GitHub链接提供了更多关于该套件的信息和资源。 <div>
+【VillagerBench: 多智能体合作前沿技术的基准套件，旨在挑战虚拟智能体共同完成的极限，从建筑项目到烹饪任务，再到逃脱房间的谜题】'VillagerBench: Benchmarking Teamwork in the World of Minecraft' GitHub: github.com/cnsdqd-dyb/VillagerAgent <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoctlgywx1j22410u0qft.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 13:43:28 GMT</pubDate>
+<pubDate>Tue, 02 Apr 2024 13:43:28 GMT</pubDate>
+</item>
+<item>
+<title>【ChatDev IDE: 用于构建AI代理的工具，无论是在游戏中的NPC还是强大的代理工具，都可以在这个平台上设计想要的内容】'ChatDev IDE: Building Your AI Agent - C...</title>
+<link>https://weibo.com/1402400261/O7TNEvwYT</link>
+<guid>https://weibo.com/1402400261/O7TNEvwYT</guid>
+<content:encoded><![CDATA[
+<div> ChatDev IDE、AI代理、工具、游戏NPC、强大、设计、平台
+
+<br><br>总结:
+ChatDev IDE是一个用于构建AI代理的工具，无论是在游戏中的NPC还是强大的代理工具，用户可以在这个平台上设计他们想要的内容。GitHub上有相关项目：github.com/10cl/chatdev。ChatDev IDE为用户提供了便捷的设计和构建AI代理的功能，让用户可以自定义游戏中的NPC或其他强大的代理工具，实现个性化的需求。通过这个平台，用户可以更轻松地实现他们的AI代理设计和构建工作。 <div>
+【ChatDev IDE: 用于构建AI代理的工具，无论是在游戏中的NPC还是强大的代理工具，都可以在这个平台上设计想要的内容】'ChatDev IDE: Building Your AI Agent - ChatDev IDE is an tools for building your ai agent, Whether it's NPCs in games or powerful agent tools, you can design what you want for this platform.' GitHub: github.com/10cl/chatdev <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoctjattloj21hc0qjqe4.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoctjdq5a6j20u60czadw.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoctjf0qvtj218i0q5164.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 13:41:31 GMT</pubDate>
+<pubDate>Tue, 02 Apr 2024 13:41:31 GMT</pubDate>
+</item>
+<item>
+<title>'LangGraph.js - a library for building stateful, multi-actor applications with LLMs, built on top of (and intended to be used with) LangChain.js' GitH...</title>
+<link>https://weibo.com/1402400261/O7TMgqIjs</link>
+<guid>https://weibo.com/1402400261/O7TMgqIjs</guid>
+<content:encoded><![CDATA[
+<div> LangGraph.js, library, stateful, multi-actor applications, LLMs, LangChain.js, GitHub, LangGraph.js
+
+LangGraph.js是一个用于构建具有LLM的有状态多角色应用程序的库，它建立在LangChain.js之上并旨在与之一起使用。GitHub上有该项目的代码库。LangGraph.js可帮助开发人员构建具有状态和多角色功能的应用程序。LangGraph.js库适用于那些需要在应用程序中处理多个角色和状态的开发人员。LangGraph.js是一个建立在LangChain.js之上的库，旨在简化开发人员构建复杂应用程序的过程。LangGraph.js提供了一种有效的方式来管理状态和角色，并且能够与LangChain.js一起使用，使开发更加轻松。LangGraph.js的GitHub代码库包含了该库的所有代码，开发人员可以通过GitHub找到并了解该库的更多信息。LangGraph.js是一个强大的工具，可帮助开发人员快速构建具有LLM的多角色应用程序。总结：LangGraph.js是一个用于构建有状态、多角色应用程序的库，建立在LangChain.js之上，开发人员可以通过GitHub找到该项目的代码库。LangGraph.js提供了一种简化开发过程的有效方式，能够有效管理应用程序中的状态和角色，是一个强大的工具。 <div>
+'LangGraph.js - a library for building stateful, multi-actor applications with LLMs, built on top of (and intended to be used with) LangChain.js' GitHub: github.com/langchain-ai/langgraphjs <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoctfvf9u7j21g80u0dma.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 13:38:05 GMT</pubDate>
+<pubDate>Tue, 02 Apr 2024 13:38:05 GMT</pubDate>
+</item>
+<item>
+<title>【nl-sh: 允许用户在终端中直接集成OpenAI的GPTs、Anthropic的Claude或本地GGUF格式的LLM，使操作人员能用流利的人类语言描述任务并执行】’nl-sh: Natural Lang...</title>
+<link>https://weibo.com/1402400261/O7TJWloOf</link>
+<guid>https://weibo.com/1402400261/O7TJWloOf</guid>
+<content:encoded><![CDATA[
+<div> 终端、集成、OpenAI、GPTs、Anthropic、Claude、GGUF、LLM、描述任务、执行。<br><br>总结:
+文章介绍了一种名为Natural Language Shell的工具，可以在终端中直接集成OpenAI的GPTs、Anthropic的Claude或本地GGUF格式的LLM，使操作人员能够用流利的人类语言描述任务并执行。这种工具可以让操作人员在终端中以POSIX命令或流利的人类语言描述任务，从而简化操作流程并提高效率。通过集成不同的语言模型，可以提供更多的选择和个性化的体验。该工具的开源地址为github.com/mikecvet/nl-sh，可以在GitHub上查看更多相关信息和下载使用。 <div>
+【nl-sh: 允许用户在终端中直接集成OpenAI的GPTs、Anthropic的Claude或本地GGUF格式的LLM，使操作人员能用流利的人类语言描述任务并执行】’nl-sh: Natural Language Shell - The Natural Language Shell integrates OpenAI's GPTs, Anthropic's Claude, or local GGUF-formatted LLMs directly into the terminal experience, allowing operators to describe their tasks in either POSIX commands or fluent human language' GitHub: github.com/mikecvet/nl-sh <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoct9xdb1mj21db0u045y.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 13:32:22 GMT</pubDate>
+<pubDate>Tue, 02 Apr 2024 13:32:22 GMT</pubDate>
+</item>
+<item>
+<title>【关于用Agent/大模型打游戏的相关文献资源列表】’A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges - This repo is...</title>
+<link>https://weibo.com/1402400261/O7THU9SSK</link>
+<guid>https://weibo.com/1402400261/O7THU9SSK</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 游戏玩家代理、大型模型、方法、应用、挑战、调查、多模态、GitHub、资源
+
+总结: 
+<br><br>这篇文章是有关游戏玩家代理和大型模型的综述调查，介绍了相关方法、应用和挑战。GitHub上提供了一份不断更新的游戏玩家代理和大型多模态模型的文献资源列表。文章主要探讨了游戏玩家代理和大型模型的研究现状和挑战，为该领域的研究提供了有价值的参考。 <div>
+【关于用Agent/大模型打游戏的相关文献资源列表】’A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges - This repo is a live list of papers on game playing and large multimodality model - "A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges".' GitHub: github.com/BAAI-Agents/GPA-LM <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoct4p04f4j20u00umq8o.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 13:27:21 GMT</pubDate>
+<pubDate>Tue, 02 Apr 2024 13:27:21 GMT</pubDate>
+</item>
+<item>
+<title>【GraphAr：开源的、用于存储和检索图数据的标准数据文件格式】'GraphAr - An open source, standard data file format for graph data storage and retrieval' ...</title>
+<link>https://weibo.com/1402400261/O7TGHfnZl</link>
+<guid>https://weibo.com/1402400261/O7TGHfnZl</guid>
+<content:encoded><![CDATA[
+<div> GraphAr, 开源, 标准数据文件格式, 图数据, 存储, 检索, GitHub, GraphScope
+
+<br><br>总结:
+GraphAr是一个开源的标准数据文件格式，用于存储和检索图数据。它旨在提供一种统一的方式来组织和访问图数据，使得数据的存储和检索变得更加高效和便捷。通过使用GraphAr，用户可以更容易地管理和操作图数据，从而提高数据处理的效率和准确性。GraphAr将图数据存储在标准格式的文件中，可以通过GitHub获取并使用。 <div>
+【GraphAr：开源的、用于存储和检索图数据的标准数据文件格式】'GraphAr - An open source, standard data file format for graph data storage and retrieval' GitHub: github.com/GraphScope/GraphAr <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoct1ly59yj214w0u0n2x.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 13:24:22 GMT</pubDate>
+<pubDate>Tue, 02 Apr 2024 13:24:22 GMT</pubDate>
+</item>
+<item>
+<title>'Translational-Style-ChatLLM：西式翻译腔聊天风格中文大模型 - 完全依靠ChatGPT生成数据微调的西式翻译腔聊天风格中文大模型' GitHub: github.com/Benson114/T...</title>
+<link>https://weibo.com/1402400261/O7TG2qqfH</link>
+<guid>https://weibo.com/1402400261/O7TG2qqfH</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 西式翻译腔聊天风格、中文大模型、ChatGPT、GitHub
+
+总结:<br><br>这篇文章介绍了《Translational-Style-ChatLLM：西式翻译腔聊天风格中文大模型》，这是一个完全依靠ChatGPT生成数据微调的西式翻译腔聊天风格中文大模型。GitHub上有相关项目链接。 <div>
+'Translational-Style-ChatLLM：西式翻译腔聊天风格中文大模型 - 完全依靠ChatGPT生成数据微调的西式翻译腔聊天风格中文大模型' GitHub: github.com/Benson114/Translational-Style-ChatLLM <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hocszxfsemj21ee0kaaea.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 13:22:45 GMT</pubDate>
+<pubDate>Tue, 02 Apr 2024 13:22:45 GMT</pubDate>
+</item>
+<item>
+<title>【用Transformer作为编码器和解码器的无损压缩的概念Demo】’Lossless Text Compression with Transformer-based Language Model - This repo is to demo the co...</title>
+<link>https://weibo.com/1402400261/O7TFDoXRY</link>
+<guid>https://weibo.com/1402400261/O7TFDoXRY</guid>
+<content:encoded><![CDATA[
+<div> Transformer、编码器、解码器、无损压缩、文本、语言模型、Github、Lossless Text Compression、demo、概念
+
+总结:<br>
+本文介绍了使用Transformer作为编码器和解码器进行无损压缩的概念。这个概念的demo已经在GitHub上发布，展示了如何利用Transformer-based语言模型实现文本的无损压缩。这种方法可以有效地压缩文本数据，同时保证数据的完整性，有望在实际应用中发挥重要作用。 <div>
+【用Transformer作为编码器和解码器的无损压缩的概念Demo】’Lossless Text Compression with Transformer-based Language Model - This repo is to demo the concept of lossless compression with Transformers as encoder and decoder.' GitHub: github.com/Shawn-Guo-CN/Lossless_Text_Compression_with_Transformer <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hocsyuonitj21ca0u0gr9.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 13:21:45 GMT</pubDate>
+<pubDate>Tue, 02 Apr 2024 13:21:45 GMT</pubDate>
+</item>
+<item>
+<title>【MineLand： 基于 Minecraft 的大型多 Agent 交互模拟器，支持有限的多模态感知和物理需求】'MineLand - Simulating Large-Scale Multi-Agent Interactions wit...</title>
+<link>https://weibo.com/1402400261/O7TtFvChI</link>
+<guid>https://weibo.com/1402400261/O7TtFvChI</guid>
+<content:encoded><![CDATA[
+<div> GitHub, MineLand, Minecraft, 多Agent, 交互模拟器, 多模态感知, 物理需求
+<br>
+<br>
+总结:
+MineLand是一个基于Minecraft的大型多Agent交互模拟器，支持有限的多模态感知和物理需求。该模拟器允许多个Agent在虚拟世界中进行交互，并能感知不同的模态信息，同时还需满足物理需求。通过GitHub上的项目页面，用户可以了解更多有关MineLand的信息和使用方法。MineLand的研究意义在于模拟大规模多Agent之间的交互，为研究人员提供了一个实验平台，用于探索Agent之间的关系和行为。MineLand的开发对于深入理解多Agent系统的运行机制具有重要意义，有助于推动相关领域的发展。 <div>
+【MineLand： 基于 Minecraft 的大型多 Agent 交互模拟器，支持有限的多模态感知和物理需求】'MineLand - Simulating Large-Scale Multi-Agent Interactions with Limited Multimodal Senses and Physical Needs' GitHub: github.com/cocacola-lab/MineLand <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hocs47jdh4j21hc0u07kw.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 02 Apr 2024 12:52:17 GMT</pubDate>
+<pubDate>Tue, 02 Apr 2024 12:52:17 GMT</pubDate>
+</item>
 
 <item>
 <title>【StableTTS：轻量TTS模型，专为汉语和英语语音生成服务，参数仅有 10M】'StableTTS - Next-generation TTS model using flow-matching and DiT, inspired by St...</title>

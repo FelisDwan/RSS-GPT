@@ -4,21 +4,20 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+
 <item>
 <title>推荐 GitHub 上一款专为 LLM 设计的可扩展且功能丰富的界面 Open WebUI。支持运行各种 LLM，包括 Ollama 和 OpenAI 兼容的 API、Gemini、Groq、Claude 等。列举...</title>
 <link>https://weibo.com/5722964389/O7TwOm5sS</link>
 <guid>https://weibo.com/5722964389/O7TwOm5sS</guid>
 <content:encoded><![CDATA[
-<div> 界面设计、功能丰富、LLM、Open WebUI、支持、接口、代码突出显示、Markdown、LaTeX、RAG、多模型、安全管理<br>
-<br>
+<div> 界面设计、功能丰富、LLM、Open WebUI、支持、接口、代码突出显示、Markdown、LaTeX、RAG、多模型、安全管理<br />
+<br />
 提到的Open WebUI是专为LLM设计的界面，具有直观的设计和丰富的功能。它支持多种LLM，包括Ollama和OpenAI兼容的API、Gemini、Groq、Claude等。界面类似于ChatGPT，易于上手，并支持响应式设计，在桌面和移动设备上都有良好的体验。该界面还针对代码语法进行了突出显示，提升了可读性。同时，Open WebUI还完整支持Markdown和LaTeX，丰富了交互体验。此外，它集成了本地检索增强生成（RAG），支持加载文档到聊天中或添加到文档库中。具备多模型支持，可以无缝切换不同的聊天模型，并支持多模态交流，扩展了应用场景。在安全和多用户管理方面，Open WebUI提供了基于角色的访问控制和后端反向代理支持，有效增强了平台安全性。总的来说，这是一个功能强大且可定制的LLM WebUI，支持Docker部署，值得尝试和部署使用。  
-<br><br>总结: 界面设计直观，功能丰富，支持多种LLM，代码突出显示，Markdown和LaTeX支持完整，集成RAG，多模型支持，安全管理控制夯实。 <div>
+<br /><br />总结: 界面设计直观，功能丰富，支持多种LLM，代码突出显示，Markdown和LaTeX支持完整，集成RAG，多模型支持，安全管理控制夯实。 <div>
 推荐 GitHub 上一款专为 LLM 设计的可扩展且功能丰富的界面 Open WebUI。<br /><br />支持运行各种 LLM，包括 Ollama 和 OpenAI 兼容的 API、Gemini、Groq、Claude 等。<br /><br />列举几个特点：<br /><br />- 直观的界面：类似 ChatGPT 界面，可轻松上手和使用。<br />- 响应式设计：同时兼容在桌面和移动设备上享受无缝体验。<br />- 代码语法突出显示：代码语法突出显示功能，增强代码的可读性。<br />- 完整的 Markdown 和 LaTeX 支持：通过全面的 Markdown 和 LaTeX 功能来丰富交互，提升 LLM 体验。<br />- 本地检索增强生成（RAG）集成：支持文档直接加载到聊天中或将文件添加到文档库中，使用 # 提示中的命令轻松访问它们。<br />- 多模型支持与多模态互动：可以无缝切换不同的聊天模型进行互动，并支持包括图像在内的多模态交流，大大扩展了使用场景。<br />- 安全和多用户管理：提供了基于角色的访问控制（RBAC）和后端反向代理支持，增强了平台的安全性，同时通过直观的管理面板简化了用户管理流程。<br /><br />GitHub：github.com/open-webui/open-webui<br /><br />总的来说，这是一个功能极其丰富的，且可高度定制的 LLM WebUI，支持 Docker 部署，感兴趣的可部署使用。 <a href="https://video.weibo.com/show?fid=1034:5018542895202312"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">GitHubDaily的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006fiYtfgy1hobwt23pq6j31hc0u0jvg.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/u0/kVJhIVHKgx08dKMPR6yA010412002z8Q0E010.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712068490&amp;ssig=pvT%2B5Jl%2B60&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/u0/EbUPVptjgx08dKMPMBwY010412000OaT0E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712068490&amp;ssig=CCoWlQGwJ2&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/u0/q0SsrcUzgx08dKMPKp44010412000rhU0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712068490&amp;ssig=%2FwjIqGkwC6&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5018542895202312" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
 <pubDate>Tue, 02 Apr 2024 13:00:00 GMT</pubDate>
-<pubDate>Tue, 02 Apr 2024 13:00:00 GMT</pubDate>
 </item>
-
 <item>
 <title>推荐 GitHub 上一个开源免费简单的 Android 视频/音频下载工具 Seal。底层使用的是 yt-dlp 下载框架，支持数千个视频平台的视频或音频下载。而且使用简单，并遵...</title>
 <link>https://weibo.com/5722964389/O7SlKfgqT</link>
