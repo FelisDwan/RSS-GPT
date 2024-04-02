@@ -2594,3 +2594,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O7KFheWLA)
 append_entries: 0
 Finish: 2024-04-01 22:10:59.298849
+------------------------------------------------------
+Started: 2024-04-02 00:52:16.926125
+Existing_entries: 411
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [提出Jamba这种混合Transformer-Mamba结构的语言模型，在单GPU上实现了强大的性能，对长序列也很友好，是一种非常有前景的创新型架构。 - 转发 @爱可可-爱生活:&e...](https://weibo.com/1402400261/O7NrFyUBU)
+Token length: 111
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Jamba: A Hybrid Transformer-Mamba Language Model》O Lieber, B Lenz, H Bata, G Cohen... [A21 Labs] (2024) 网页链接 #机器学习##人工智能##论文# [图...](https://weibo.com/1402400261/O7NrCw64v)
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [针对长文本生成提出句级一致性判断的LUQ方法进行不确定性量化，结果表明LUQ可显著提升语言模型的生成事实性。 - 转发 @爱可可-爱生活:&ensp;[CL]《LUQ: Long-tex...](https://weibo.com/1402400261/O7Nl11qlt)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [[CL]《LUQ: Long-text Uncertainty Quantification for LLMs》C Zhang, F Liu, M Basaldella, N Collier [University of Cambridge & Amazon AGI] (2024) 网页链...](https://weibo.com/1402400261/O7NkWjPxB)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [通过梯度分析和训练目标，发现语言模型中的记忆主要集中在较低层的注意力头，解释了记忆的鲁棒性。 - 转发 @爱可可-爱生活:&ensp;[CL]《Localizing Paragraph Me...](https://weibo.com/1402400261/O7Nks758p)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Localizing Paragraph Memorization in Language Models》N Stoehr, M Gordon, C Zhang, O Lewis [Google & ETH Zürich] (2024) 网页链接 #机器学习##人...](https://weibo.com/1402400261/O7Nkkr4DX)
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [通过定义模型距离度量并集成到混合整数规划算法中，提出一种在机器学习模型数据批量再训练问题上既考虑性能又保证结构稳定性的全局优化方法。 - 转发 @爱可可-爱...](https://weibo.com/1402400261/O7NjUvh7e)
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Towards Stable Machine Learning Model Retraining via Slowly Varying Sequences》V D Jr, Y Ma, P Paschalidis, D Bertsimas [Management, HEC Paris &...](https://weibo.com/1402400261/O7NjQ4qli)
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [通过语言模型的知识蒸馏，使一个容量仅1.2亿参数的模型在通用语义理解基准测试中，取得了超过容量7倍大模型的竞争性能。 - 转发 @爱可可-爱生活:&ensp;[CL]《Gec...](https://weibo.com/1402400261/O7NjbofHT)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Gecko: Versatile Text Embeddings Distilled from Large Language Models》J Lee, Z Dai, X Ren, B Chen… [Google DeepMind] (2024) 网页链接 #机器学习...](https://weibo.com/1402400261/O7Nj4qu11)
+append_entries: 10
+Finish: 2024-04-02 00:52:54.490412
