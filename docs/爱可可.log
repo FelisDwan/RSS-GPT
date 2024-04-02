@@ -2690,3 +2690,21 @@ Existing_entries: 433
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-02 08:14:06.038280
+------------------------------------------------------
+Started: 2024-04-02 10:12:56.619144
+Existing_entries: 433
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [【StableTTS：轻量TTS模型，专为汉语和英语语音生成服务，参数仅有 10M】'StableTTS - Next-generation TTS model using flow-matching and DiT, inspired by St...](https://weibo.com/1402400261/O7QI8snkE)
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: [【HeyForm：开源的表单构建器，允许创建引人入胜的对话性形式用于调查、问卷、测验和投票，无需编程技能即可使用】'HeyForm - an open-source form builder that...](https://weibo.com/1402400261/O7QAdy3jc)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [【RAGFlow：基于深度文档理解构建的开源 RAG(Retrieval-Augmented Generation)引擎】'RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine ...](https://weibo.com/1402400261/O7Qzt7oOe)
+Token length: 297
+Summarized using GPT-3.5-turbo
+Append: [恭喜@VarusRey 等3名用户获得【《码农翻身2》】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：网页链接 - 转发 @爱可可-爱...](https://weibo.com/1402400261/O7Q1b6Oiu)
+append_entries: 4
+Finish: 2024-04-02 10:13:11.238543

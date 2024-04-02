@@ -1956,3 +1956,22 @@ Existing_entries: 224
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-02 08:14:05.448337
+------------------------------------------------------
+Started: 2024-04-02 10:12:39.890219
+Existing_entries: 224
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [#数字人录制真人秀# “这不是二壮吗？”“高二壮，你又来了！”……最近有网友在一档真人秀综艺《盒子里的猫》中再次发现了阿里大文娱数字人厘里的身影。这是继...](https://weibo.com/6105753431/O7SaUB0jD)
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: [阿里云通义大模型业务负责人徐栋 确认参与 #中国AIGC产业峰会# ！徐栋，阿里云通义大模型业务负责人。历任阿里云华南大区总经理、互联网行业总经理、无影产品负...](https://weibo.com/6105753431/O7S5WFGLN)
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [#3D重建模型# 开局一张图，AI 能在 0.1 秒内重新构建一个 3D 模型或整个场景了~[赞]这是 GitHub 上一个名为 #GRM# 的项目能够实现的效果。GRM 是一个用于 3D 重...](https://weibo.com/6105753431/O7RYO3aaG)
+Token length: 287
+Summarized using GPT-3.5-turbo
+Append: [#AI歌手# 不是周杰伦请不起，而是 AI 更有性价比~[doge]现在，使用一款叫#ACE Studio#的人声合成引擎，你就能制作达到专业歌手演唱水准的单曲了。这款 AI 目前提...](https://weibo.com/6105753431/O7RCZvAn0)
+Append: [#动画一键填色# 现在，仅需对一帧动画进行手动填色，算法便能自动将颜色传播到后续所有帧了。这是由南洋理工大学的S-lab团队开发的一种新型动画填色技术。在该技...](https://weibo.com/6105753431/O7RfQthwa)
+append_entries: 5
+Finish: 2024-04-02 10:12:56.089549
