@@ -2051,3 +2051,21 @@ Existing_entries: 235
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-03 06:14:01.471435
+------------------------------------------------------
+Started: 2024-04-03 08:14:07.916687
+Existing_entries: 235
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 383
+Summarized using GPT-3.5-turbo
+Append: [#国产音乐ChatGPT来了# Sora同款架构，唱作技巧全面发展AI音乐大模型最近有多火，不用多介绍了吧？（doge）不过，海外版应用别的先不说，奇奇怪怪的中文AI发音就...](https://weibo.com/6105753431/O80MW1vmz)
+Token length: 376
+Summarized using GPT-3.5-turbo
+Append: [#大规模3D场景渲染# 当前，3DGS作为一种三维重建算法极大推动了实时3D场景重建。但如何在不同尺度下有效地训练和渲染大规模3DGS一直是个问题。为了解决该问题，...](https://weibo.com/6105753431/O80CGo1LL)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [#长上下文大模型更容易越狱# 大模型厂商在上下文长度上卷的不可开交之际，一项最新研究泼来了一盆冷水——Claude背后厂商Anthropic发现，随着窗口长度的不断增加...](https://weibo.com/6105753431/O80mneMSK)
+Token length: 650
+Summarized using GPT-3.5-turbo
+Append: [#Sora发布首支MV# AIGC，算是狠狠地震荡了一把音乐圈。就在刚刚，OpenAI官方账号发布的一支由Sora制作的MV（Music Video）——《Worldweight》，引发了不少网友...](https://weibo.com/6105753431/O80jukCUQ)
+append_entries: 4
+Finish: 2024-04-03 08:14:23.480602

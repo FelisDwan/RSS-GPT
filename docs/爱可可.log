@@ -2861,3 +2861,12 @@ Existing_entries: 467
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-03 06:14:02.436260
+------------------------------------------------------
+Started: 2024-04-03 08:14:24.053568
+Existing_entries: 467
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [【SWE-agent：把语言模型(如GPT-4)变成软件工程Agent，可以修复实际GitHub仓库中的bug和issue】’SWE-agent: Agent Computer Interfaces Enable Software Engine...](https://weibo.com/1402400261/O7ZHpiqdp)
+append_entries: 1
+Finish: 2024-04-03 08:14:28.898266
