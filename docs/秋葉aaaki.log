@@ -1442,3 +1442,9 @@ Existing_entries: 10
 Fetching from https://rsshub.app/bilibili/user/article/12566101?mode=fulltext
 append_entries: 0
 Finish: 2024-04-03 18:13:49.592013
+------------------------------------------------------
+Started: 2024-04-03 20:12:55.555130
+Existing_entries: 10
+Fetching from https://rsshub.app/bilibili/user/article/12566101?mode=fulltext
+append_entries: 0
+Finish: 2024-04-03 20:12:56.074431
