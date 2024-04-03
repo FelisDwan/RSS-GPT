@@ -2933,3 +2933,13 @@ Summarized using GPT-3.5-turbo
 Append: ['MicroLlama-300M - a small Llama based model with 300M parameters trained from scratch with $500 budget' GitHub: github.com/keeeeenw/MicroLlama #开源#...](https://weibo.com/1402400261/O82DKw8P4)
 append_entries: 7
 Finish: 2024-04-03 16:13:41.463755
+------------------------------------------------------
+Started: 2024-04-03 18:13:43.188684
+Existing_entries: 481
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O83v4fLvf)
+Token length: 19
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(4.3)》 爱可可微博热门分享(4.3) [图片]](https://weibo.com/1402400261/O83uPoNq9)
+append_entries: 1
+Finish: 2024-04-03 18:13:49.022201
