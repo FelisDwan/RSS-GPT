@@ -2834,3 +2834,24 @@ Summarized using GPT-3.5-turbo
 Append: [[CL] Aurora-M: The First Open Source Multilingual Language Model Red-teamed according to the U.S. Executive Order 网页链接 通过持续预训练和安全性调整...](https://weibo.com/1402400261/O7X3khu4g)
 append_entries: 4
 Finish: 2024-04-03 02:18:57.408601
+------------------------------------------------------
+Started: 2024-04-03 04:14:18.728771
+Existing_entries: 462
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [【产品级RAG系统构建路线图(文集)】《Building Retrieval-Augmented Generation Systems | by Leonie Monigatti | Apr, 2024 | Medium》 网页链接 #机器学习# #...](https://weibo.com/1402400261/O7Yf0pSBS)
+Token length: 632
+Summarized using GPT-3.5-turbo
+Append: [【AutoRound:面向各硬件平台的LM权重量化SOTA算法】- Intel近期发布了AutoRound v0.1，这是一种针对低比特LM推理的创新型仅量化权重的算法，可以近乎无损地压缩...](https://weibo.com/1402400261/O7YcVkkww)
+Token length: 963
+Summarized using GPT-3.5-turbo
+Append: [【Genie游戏生成器：无监督学习开启游戏AI新纪元】- Google DeepMind开发了一个名为Genie的新模型，可以根据简短描述、手绘草图或照片，生成类似超级马里奥兄弟...](https://weibo.com/1402400261/O7Y6wuD4l)
+Token length: 991
+Summarized using GPT-3.5-turbo
+Append: [【OpenAI的Harvey客户案例分享】- Harvey是一家为法律、税务和金融专业人员提供生成式AI平台的初创公司。最近，它与OpenAI合作创建了一个定制化的案例法模型。 -...](https://weibo.com/1402400261/O7Y3zuvrk)
+Token length: 888
+Summarized using GPT-3.5-turbo
+Append: [【多样本越狱：LLM安全防线的突破口】- Anthropic研究团队发现了一种称为“多样本越狱”的新型对抗性攻击，可以突破大型语言模型的安全保护机制。 - 该攻击利用...](https://weibo.com/1402400261/O7XXf5SgD)
+append_entries: 5
+Finish: 2024-04-03 04:14:48.423238
