@@ -2855,3 +2855,9 @@ Summarized using GPT-3.5-turbo
 Append: [【多样本越狱：LLM安全防线的突破口】- Anthropic研究团队发现了一种称为“多样本越狱”的新型对抗性攻击，可以突破大型语言模型的安全保护机制。 - 该攻击利用...](https://weibo.com/1402400261/O7XXf5SgD)
 append_entries: 5
 Finish: 2024-04-03 04:14:48.423238
+------------------------------------------------------
+Started: 2024-04-03 06:14:02.037330
+Existing_entries: 467
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-03 06:14:02.436260

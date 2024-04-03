@@ -4,16 +4,16 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【产品级RAG系统构建路线图(文集)】《Building Retrieval-Augmented Generation Systems | by Leonie Monigatti | Apr, 2024 | Medium》 网页链接 #机器学习# #...</title>
 <link>https://weibo.com/1402400261/O7Yf0pSBS</link>
 <guid>https://weibo.com/1402400261/O7Yf0pSBS</guid>
 <content:encoded><![CDATA[
 <div> 构建路线图、RAG系统、产品级、检索增强生成系统、Leonie Monigatti、2024年、Medium、推荐系统、生成模型、自然语言处理
-总结:<br><br>本文着重介绍了构建检索增强生成系统（RAG系统）的产品级路线图，作者提到了RAG系统在推荐系统和生成模型中的应用，强调了其在自然语言处理领域的重要性。文章指出了产品级RAG系统的关键元素和构建步骤，为读者提供了实用的指导和建议。文章还探讨了RAG系统在未来的发展方向，展望了其在2024年的发展前景。通过阅读本文，读者可以了解RAG系统的基本概念和构建方法，为相关研究和应用提供了重要参考。 <div>
+总结:<br /><br />本文着重介绍了构建检索增强生成系统（RAG系统）的产品级路线图，作者提到了RAG系统在推荐系统和生成模型中的应用，强调了其在自然语言处理领域的重要性。文章指出了产品级RAG系统的关键元素和构建步骤，为读者提供了实用的指导和建议。文章还探讨了RAG系统在未来的发展方向，展望了其在2024年的发展前景。通过阅读本文，读者可以了解RAG系统的基本概念和构建方法，为相关研究和应用提供了重要参考。 <div>
 【产品级RAG系统构建路线图(文集)】《Building Retrieval-Augmented Generation Systems | by Leonie Monigatti | Apr, 2024 | Medium》 <a href="https://medium.com/@iamleonie/building-retrieval-augmented-generation-systems-be587f42aedb"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hodd4w69c4j20u010xtd0.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hodd50i04tj20fk08raal.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hodd52tlwmj20fk08raae.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hodd54eke4j20go0gojsb.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hodd567v5oj20u00u00wc.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hodd58d5q4j20as0asdg8.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 00:59:53 GMT</pubDate>
 <pubDate>Wed, 03 Apr 2024 00:59:53 GMT</pubDate>
 </item>
 <item>
@@ -23,10 +23,9 @@
 <content:encoded><![CDATA[
 <div> Intel、AutoRound、量化算法、LM、权重量化、硬件平台、SOTA、精度、模型部署、符号梯度下降
 
-总结:<br><br>Intel最近发布了面向各硬件平台的AutoRound v0.1算法，该算法针对LM进行仅量化权重的创新性处理，可以近乎无损地压缩各种流行模型。AutoRound只需调优200步，便可在各种情况下超过其他算法，兼容多种量化设备并支持无缝部署。该算法利用符号梯度下降微调权重的量化和最小最大值，取得了优于其他算法的综合精度，且已在多个模型上发布了精调过的量化模型，精度优于原始浮点模型。 <div>
+总结:<br /><br />Intel最近发布了面向各硬件平台的AutoRound v0.1算法，该算法针对LM进行仅量化权重的创新性处理，可以近乎无损地压缩各种流行模型。AutoRound只需调优200步，便可在各种情况下超过其他算法，兼容多种量化设备并支持无缝部署。该算法利用符号梯度下降微调权重的量化和最小最大值，取得了优于其他算法的综合精度，且已在多个模型上发布了精调过的量化模型，精度优于原始浮点模型。 <div>
 【AutoRound:面向各硬件平台的LM权重量化SOTA算法】<br />- Intel近期发布了AutoRound v0.1，这是一种针对低比特LM推理的创新型仅量化权重的算法，可以近乎无损地压缩各种流行模型，如gemma-7B、Mistral-7b等。   <br />- AutoRound只需要调优200步，就可以在W4G128、W4G-1、W3G128和W2G128情况下，在大多数场景下持续超过其他算法如GPTQ、AWQ、OmniQuant等。   <br />- AutoRound兼容Intel Guadi2、Intel CPU和Nvidia GPU等量化设备，支持将量化模型无缝部署到Intel CPU和Nvidia GPU平台。   <br />- AutoRound采用符号梯度下降微调权重的量化和最小最大值，只需200步。它利用解空间边界明确的优势。   <br />- 在公平设置下，AutoRound取得了优于GPTQ、AWQ、HQQ、OmniQuant等算法的综合精度。随着调优步数的增加，性能可以进一步提升。   <br />- AutoRound已经发布了若干精调过的量化模型，在多个模型上的精度优于原始浮点模型。<br />《AutoRound: SOTA Weight-Only Quantization Algorithm for LLMs Across Hardware Platforms | by Intel(R) Neural Compressor | Apr, 2024 | Medium》 <a href="https://medium.com/@NeuralCompressor/autoround-sota-weight-only-quantization-algorithm-for-llms-across-hardware-platforms-99fe6eac2861"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hodczs1e69j20u00w9tds.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 00:54:45 GMT</pubDate>
 <pubDate>Wed, 03 Apr 2024 00:54:45 GMT</pubDate>
 </item>
 <item>
@@ -36,10 +35,9 @@
 <content:encoded><![CDATA[
 <div> Genie、无监督学习、游戏AI、Genie训练、视频数据、生成式AI、降低门槛、交互式生成、视觉技巧、商业应用前景
 
-总结:<br><br>Genie是Google DeepMind开发的游戏生成器，通过无监督学习可以生成类似超级马里奥兄弟的2D平台游戏。它通过观看3万小时的2D平台游戏视频进行训练，可以根据简短描述、手绘草图或照片生成游戏。Genie展示了生成式AI在游戏领域的潜力，为游戏开发提供更多创意支持，并且无监督学习方法可以提高模型的泛化能力。其实时生成游戏画面的能力为玩家提供更加个性化和沉浸式的游戏体验。Genie学会了视差等游戏中的视觉技巧，表明其对美学设计原则有一定理解。虽然目前为内部研究项目，但DeepMind已展望其商业应用前景，即转化为游戏制作工具，显示对其技术的乐观态度。随着Genie功能的完善和推理速度的提高，有望成为一个颠覆性的游戏生成平台，为游戏行业带来新的创新动力。 <div>
+总结:<br /><br />Genie是Google DeepMind开发的游戏生成器，通过无监督学习可以生成类似超级马里奥兄弟的2D平台游戏。它通过观看3万小时的2D平台游戏视频进行训练，可以根据简短描述、手绘草图或照片生成游戏。Genie展示了生成式AI在游戏领域的潜力，为游戏开发提供更多创意支持，并且无监督学习方法可以提高模型的泛化能力。其实时生成游戏画面的能力为玩家提供更加个性化和沉浸式的游戏体验。Genie学会了视差等游戏中的视觉技巧，表明其对美学设计原则有一定理解。虽然目前为内部研究项目，但DeepMind已展望其商业应用前景，即转化为游戏制作工具，显示对其技术的乐观态度。随着Genie功能的完善和推理速度的提高，有望成为一个颠覆性的游戏生成平台，为游戏行业带来新的创新动力。 <div>
 【Genie游戏生成器：无监督学习开启游戏AI新纪元】<br />- Google DeepMind开发了一个名为Genie的新模型，可以根据简短描述、手绘草图或照片，生成类似超级马里奥兄弟这样的2D平台游戏。   <br />- Genie通过观看网上3万小时的数百款2D平台游戏视频进行训练，学会了判断游戏人物在视频中的8种可能动作，从而生成每一帧图像。   <br />- Genie可以将简单游戏从手绘草图生成出来。它学会了平台游戏中的一些常见视觉效果，如前景移动速度快于背景的视差效果。   <br />- Genie可能被开发成游戏制作工具。它也可以通过观看机械臂操作日用品的视频，学习控制机械臂。   <br />- Genie使用的技术与大型语言模型类似，运行速度有望达到每秒30帧。它可以生成虚拟环境，用于训练机器人解决各种任务。   <br />- Genie是DeepMind的内部研究项目，暂时不会发布。但它可能成为未来创造力表达的新工具。<br /><br />思考：  <br />- Genie展示了生成式AI在游戏领域的巨大潜力。从零开始自动生成游戏，将极大地降低游戏开发的门槛，为游戏设计师提供更多创意支持。  <br />- 仅使用视频数据进行训练，无需手动标注，这种无监督学习方法可以充分利用海量的游戏视频资源，提高模型的泛化能力。这种方法也可能启发其他领域的AI研究。  <br />- 实时生成游戏画面的能力令人印象深刻。这种交互式生成方式为玩家提供了更加个性化和沉浸式的游戏体验，同时也对模型的推理速度提出了更高要求。  <br />- Genie学会了视差等游戏中的视觉技巧，表明它不仅掌握了游戏的基本规则，还理解了一些美学设计原则。这展现了深度学习在理解和生成视觉内容方面的强大能力。  <br />- 虽然Genie还是一个研究项目，但谷歌DeepMind已经展望了其商业应用前景，即转化为游戏制作工具。这表明他们对这一技术的成熟度和实用性持乐观态度。  <br />- 随着推理速度的提高和功能的完善，Genie有望成为一个颠覆性的游戏生成平台，为游戏行业注入新的创新动力。同时，它也可能对游戏开发者的职业前景产生一定影响。<br />《Google DeepMind’s new generative model makes Super Mario-like games from scratch | MIT Technology Review》 <a href="https://www.technologyreview.com/2024/02/29/1089317/google-deepminds-new-generative-model-makes-super-mario-like-games-from-scratch"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hodcjj9lydj20vz0u0gth.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 00:38:59 GMT</pubDate>
 <pubDate>Wed, 03 Apr 2024 00:38:59 GMT</pubDate>
 </item>
 <item>
@@ -49,11 +47,10 @@
 <content:encoded><![CDATA[
 <div> 合作、定制化、案例法模型、LLM、推理、领域知识、重要差异、高效率、跨领域、用户体验
 
-<br><br>总结:
+<br /><br />总结:
 OpenAI与Harvey合作创建了定制化的案例法模型，为法律、税务和金融专业人员提供生成式AI平台。这个模型注入新的知识和推理方式，融合了大量数据，提供案例法上下文深度。律师更喜欢定制化模型的输出，因为它提供更完整、深入的答案。创始人建议构建与未来LLM能力相关的解决方案，充分利用模型进步带来的价值。该合作展示了定制化LLM在垂直领域应用的潜力，为传统行业带来变革。创始人背景的跨领域视角和经验对LLM应用至关重要。AI技术有望提高行业效率和生产力，对从业者的技能要求和就业前景可能产生影响。面临的挑战是确保输出的相关性和准确性，提供可靠的来源引用。Harvey致力于简化用户体验，降低使用门槛，以推动AI技术的大规模采用。 <div>
 【OpenAI的Harvey客户案例分享】<br />- Harvey是一家为法律、税务和金融专业人员提供生成式AI平台的初创公司。最近，它与OpenAI合作创建了一个定制化的案例法模型。   <br />- 这个模型允许Harvey为复杂的推理、广泛的领域知识以及超出单次模型调用能力的任务提供AI系统，如文档起草、复杂诉讼场景的问答以及数百份合同之间的重大差异识别。   <br />- Harvey的创始人认为，LLM可以聚合信息并呈现给律师进行审查，从而提高工作效率。基础模型在推理方面很强，但缺乏法律工作所需的知识。   <br />- Harvey与OpenAI合作，向基础模型中注入新的知识和推理方式，创建一个定制化的案例法模型。该模型融合了相当于100亿Token的数据，以提供案例法所需的上下文深度。   <br />- 测试结果显示，97%的时间律师更喜欢定制化案例法模型的输出结果，因为它提供了更完整、深入的答案并涵盖了更相关的案例法。   <br />- Harvey计划利用该模型探索其他应用，如起草简要和动议，或帮助律师理解不同管辖区域之间的案例法差异。   <br />- Harvey的合伙创始人建议其他创始人要面向未来的LLM能力进行构建，解决更复杂的问题，以充分利用模型进步带来的价值。<br /><br />思考：    <br />- Harvey与OpenAI的合作展示了定制化LLM在垂直领域应用中的巨大潜力。通过注入特定领域知识，LLM可以胜任需要复杂推理和专业知识的任务，这将极大地拓展LLM的应用范围。    <br />- Harvey的成功表明，LLM正在为传统的知识密集型行业带来变革，如法律、税务和金融。AI技术有望提高这些行业的效率和生产力，同时也可能对从业者的技能要求和就业前景产生影响。    <br /> 创始人的背景结合了法律专业和AI技术，这种跨领域的视角和经验对于将LLM成功应用于法律行业至关重要。这启示我们，未来的创新可能越来越多地来自不同领域的交叉融合。    <br />- Harvey面临的一个挑战是如何确保AI系统输出的相关性和准确性，并提供可靠的来源引用。这对于法律等要求严谨的领域尤为重要。Harvey在这方面取得的进展值得关注。    <br />- 通过将多个模型调用组合成单一输出，Harvey旨在简化用户体验，降低使用门槛。这种以用户为中心的思路对于推动AI技术的大规模采用非常必要。<br />《OpenAI customer story: Harvey》 <a href="https://openai.com/customer-stories/harvey"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hodcbz1ohfj21gm0u0q76.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 00:31:43 GMT</pubDate>
 <pubDate>Wed, 03 Apr 2024 00:31:43 GMT</pubDate>
 </item>
 <item>
@@ -63,14 +60,12 @@ OpenAI与Harvey合作创建了定制化的案例法模型，为法律、税务�
 <content:encoded><![CDATA[
 <div> 多样本越狱、LLM安全防线、对抗性攻击、大型语言模型、in-context学习、Anthropic研究团队、安全漏洞、多样本越狱攻击、缓解措施、AI安全挑战
 
-<br><br>总结:
+<br /><br />总结:
 Anthropic研究团队发现了一种名为多样本越狱的新型对抗性攻击，能够突破大型语言模型的安全防护，利用模型处理长上下文能力，在prompt中插入特定格式的文本引导模型产生潜在有害响应。随着示例对话数量增加，攻击成功率也增加，显示多样本越狱的可行性。攻击与模型的in-context学习能力有关，大型语言模型更容易受到攻击，因为其学习能力更强。Anthropic已采取限制上下文长度等缓解措施，但完全解决多样本越狱仍具挑战性。发现漏洞并与业界分享显现了负责任的态度和开放协作精神，有助于整个AI社区共同应对安全挑战。增强安全防护是迫切需要的，尤其随着模型能力的增强，引入新安全风险。文章提醒我们平衡上下文窗口扩大带来的性能提升和安全隐患之间的问题，在评估LLM安全性时需考虑不同攻击手段的组合效果。多样本越狱攻击的有效性及与其他攻击技术相结合的威力，强调AI安全问题的复杂性，需要产学研各界持续投入和协同努力。 <div>
 【多样本越狱：LLM安全防线的突破口】<br />- Anthropic研究团队发现了一种称为“多样本越狱”的新型对抗性攻击，可以突破大型语言模型的安全保护机制。   <br />- 该攻击利用了大型语言模型能处理更长上下文的能力，通过在prompt中加入大量特定格式的文本，迫使模型产生潜在有害的响应。   <br />- 随着prompt中示例对话数量的增加，模型产生有害响应的比例也在增加，这表明多样本越狱是可行的。   <br />- 多样本越狱似乎与模型的in-context学习能力有关，随着示例数增多，模型的in-context学习效果呈幂律提升，越狱成功率也是如此。   <br />- 相比小模型，大型语言模型更容易被多样本越狱攻击，因为它们的in-context学习能力更强。   <br />- Anthropic已经采取了一些缓解措施，如限制上下文窗口长度、对prompt进行分类处理等，取得了一定效果。   <br />- 发布这项研究有助于提高对这种新型攻击的重视，促使AI研究者尽快找到有效的防御手段。   <br />- 随着模型变得更强大，缓解这类攻击变得更加重要。Anthropic将继续研究如何在不损害模型有用性的前提下防御多样本越狱。<br /><br />思考：  <br />- 多样本越狱技术揭示了当前LLM安全防护的一个重要漏洞，表明随着模型能力的增强，安全风险也在不断升高，需要引起高度重视。  <br />- Anthropic主动披露漏洞并与业界分享，体现了负责任的态度和开放协作的精神，值得赞赏。这种做法有利于推动整个AI社区共同应对安全挑战。  <br />- 上下文窗口的扩大是LLM发展的重要趋势，带来了性能提升的同时，也引入了新的安全隐患。如何在两者间取得平衡，是一个值得深入探讨的问题。  <br />- 文章通过实验数据展示了多样本越狱的有效性，并指出与其他越狱技术结合会进一步增强威力，这提醒我们在评估LLM安全性时需要考虑各种攻击手段的组合效果。  <br />- 虽然Anthropic已经采取了一些缓解措施，但完全解决多样本越狱并非易事。这凸显了AI安全问题的复杂性，需要产学研各界持续投入和协同努力。<br />《Many-shot jailbreaking \ Anthropic》 <a href="https://www.anthropic.com/research/many-shot-jailbreaking"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hodbdvefxgj20uj0u0440.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 03 Apr 2024 00:16:07 GMT</pubDate>
-<pubDate>Wed, 03 Apr 2024 00:16:07 GMT</pubDate>
 </item>
-
 <item>
 <title>今日推介(第1364期)：用语言模型识别有说服力的论点、让LLM在不泄露隐私信息的情况下获得其他LLM的帮助、基于可控大语言模型的安全性与可用性平衡、旋转LLM实现...</title>
 <link>https://weibo.com/1402400261/O7XbFuHyV</link>
