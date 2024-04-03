@@ -2780,3 +2780,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O7UfVuOAx)
 append_entries: 0
 Finish: 2024-04-02 22:12:52.698841
+------------------------------------------------------
+Started: 2024-04-03 00:49:13.045245
+Existing_entries: 448
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [[CL] Mapping the Increasing Use of LLMs in Scientific Papers 网页链接进行第一个大规模分析追踪学术界LLM使用趋势，发现计算机科学增长最快，与作者更频繁发...](https://weibo.com/1402400261/O7WZOuJ28)
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Noise-Aware Training of Layout-Aware Language Models》R Sarkhel, X Ren, L B Costa, G Su, V Perot, Y Xie, E Koukoumidis, A Nandi [Google & The Oh...](https://weibo.com/1402400261/O7WVazuaD)
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: [QuaRot通过旋转消除激活中的离群点实现了包括权重、激活和KV缓存在内的端到端4-bit LLM量化，保持了几乎全部的模型性能。 - 转发 @爱可可-爱生活:&ensp;[LG]《Qu...](https://weibo.com/1402400261/O7WOzeI6F)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [[LG]《QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs》S Ashkboos, A Mohtashami, M L. Croci, B Li, M Jaggi, D Alistarh, T Hoefler, J Hensman [ETH...](https://weibo.com/1402400261/O7WMs7i3U)
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [通过自生成训练数据并采用不同的微调策略，实现了不需要额外人工标注就能控制大语言模型响应中的安全性和有用性。 - 转发 @爱可可-爱生活:&ensp;[CL]《Towards S...](https://weibo.com/1402400261/O7WGy0sEy)
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Towards Safety and Helpfulness Balanced Responses via Controllable Large Language Models》Y Tuan, X Chen, E M Smith, L Martin… [Meta AI & Unive...](https://weibo.com/1402400261/O7WGolSsF)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [设计保护隐私的级联系统和查询生成算法，使本地模型可利用远程模型提高性能而不泄露敏感信息。 - 转发 @爱可可-爱生活:&ensp;[LG]《Can LLMs get help from othe...](https://weibo.com/1402400261/O7WFX0WBK)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Can LLMs get help from other LLMs without revealing private information?》F Hartmann, D Tran, P Kairouz… [Google Research] (2024) 网页链接 #机...](https://weibo.com/1402400261/O7WFT9hUp)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [通过检测有说服力论据的能力来研究LLM生成个性化信息的潜力，无需直接人工实验，为持续监测LLM能力发展提供了有效途径。 - 转发 @爱可可-爱生活:&ensp;[CL]《Can...](https://weibo.com/1402400261/O7WD0skj7)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Can Language Models Recognize Convincing Arguments?》P Rescala, M H Ribeiro, T Hu, R West [EPFL & University of Cambridge] (2024) 网页链接 #机器...](https://weibo.com/1402400261/O7WCWhYof)
+append_entries: 10
+Finish: 2024-04-03 00:49:47.072374
