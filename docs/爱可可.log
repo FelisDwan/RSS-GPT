@@ -2882,3 +2882,27 @@ Existing_entries: 468
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-03 12:19:48.876563
+------------------------------------------------------
+Started: 2024-04-03 14:10:33.866874
+Existing_entries: 468
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [【RAG评估数据集】’Docugami Knowledge Graph Retrieval Augmented Generation (KG-RAG) Datasets - Knowledge Graph Retrieval Augmented Generation (KG-RAG)...](https://weibo.com/1402400261/O82wcrw6z)
+Token length: 308
+Summarized using GPT-3.5-turbo
+Append: [【JailbreakBench：开源的鲁棒性基准，用于评估对大型语言模型(LLM)进行大规模越狱的进展。该基准提供的 JBB-Behaviors 数据集，包含 100 种不同的滥用行为，这...](https://weibo.com/1402400261/O82mC0lCR)
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [【Arena-Hard：用于评估指令微调LLM的工具，包含500个挑战性用户查询】'Arena-Hard - Arena-Hard benchmark' GitHub: github.com/lm-sys/arena-hard #开源# #机...](https://weibo.com/1402400261/O82le12r2)
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [【Evalverse：旨在支持LLM(大型语言模型)评估需求。提供一个简单、标准化、用户友好的方案，用于处理和管理LLM评估，满足AI研究工程师和科学家的需求】'evalvers...](https://weibo.com/1402400261/O82kzwXJ8)
+Token length: 266
+Summarized using GPT-3.5-turbo
+Append: [【Lightning Whisper MLX：极快的Whisper实现，特别优化用于Apple Silicon的MLX，比Whisper CPP快10倍，比目前的MLX Whisper实现快4倍】’Lightning Whisper MLX...](https://weibo.com/1402400261/O82i71rii)
+Token length: 108
+Summarized using GPT-3.5-turbo
+Append: ['TorchComp - Differentiable dynamic range controller in PyTorch GitHub: github.com/yoyololicon/torchcomp #开源# #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O82eZuBpL)
+append_entries: 6
+Finish: 2024-04-03 14:11:00.439514

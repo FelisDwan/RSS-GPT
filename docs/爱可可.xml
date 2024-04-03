@@ -4,6 +4,89 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>【RAG评估数据集】’Docugami Knowledge Graph Retrieval Augmented Generation (KG-RAG) Datasets - Knowledge Graph Retrieval Augmented Generation (KG-RAG)...</title>
+<link>https://weibo.com/1402400261/O82wcrw6z</link>
+<guid>https://weibo.com/1402400261/O82wcrw6z</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Docugami, Knowledge Graph, 数据集, KG-RAG, 检索, 生成, 文档
+
+<br><br>总结:
+文章介绍了Docugami Knowledge Graph Retrieval Augmented Generation (KG-RAG) 数据集，并提供了相关的GitHub链接。该数据集是用于知识图检索和生成的一种评估数据集。数据集涵盖了不同知识图领域的信息，旨在帮助研究人员进行相关实验和模型评估。通过使用KG-RAG数据集，可以更好地理解知识图检索和生成的相关问题，并提供了一种衡量模型性能的标准。KG-RAG数据集是一个有用的资源，可以促进知识图领域的研究和发展。 <div>
+【RAG评估数据集】’Docugami Knowledge Graph Retrieval Augmented Generation (KG-RAG) Datasets - Knowledge Graph Retrieval Augmented Generation (KG-RAG) Eval Datasets' GitHub: github.com/docugami/KG-RAG-datasets <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hodw13rmouj20zi0u0tft.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 03 Apr 2024 11:53:14 GMT</pubDate>
+<pubDate>Wed, 03 Apr 2024 11:53:14 GMT</pubDate>
+</item>
+<item>
+<title>【JailbreakBench：开源的鲁棒性基准，用于评估对大型语言模型(LLM)进行大规模越狱的进展。该基准提供的 JBB-Behaviors 数据集，包含 100 种不同的滥用行为，这...</title>
+<link>https://weibo.com/1402400261/O82mC0lCR</link>
+<guid>https://weibo.com/1402400261/O82mC0lCR</guid>
+<content:encoded><![CDATA[
+<div> OpenAI, 鲁棒性基准, 大型语言模型, 滥用行为, JBB-Behaviors 数据集, 基准领域表, 攻击和防御算法
+
+<br><br>总结:
+JailbreakBench是一个开源的鲁棒性基准，专注于评估对大型语言模型进行大规模越狱的进展。其提供了包含100种不同滥用行为的JBB-Behaviors数据集，这些行为经过精挑细选，符合OpenAI的使用策略。此外，该基准还提供了领域表，用于追踪算法在攻击和防御数据集滥用行为方面的性能表现。通过JailbreakBench，研究人员和开发者可以更好地评估和改进语言模型的鲁棒性，促进模型在安全性方面的进步。 <div>
+【JailbreakBench：开源的鲁棒性基准，用于评估对大型语言模型(LLM)进行大规模越狱的进展。该基准提供的 JBB-Behaviors 数据集，包含 100 种不同的滥用行为，这些行为是根据 OpenAI 的使用策略性精选的。此外，该基准还提供了官方的JailbreakBench领域表，用于跟踪对数据集中滥用行为进行攻击和防御的算法的性能】'JailbreakBench - An Open Robustness Benchmark for Jailbreaking Language Models' GitHub: github.com/JailbreakBench/jailbreakbench <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hodvchzx40j210s0u0tej.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 03 Apr 2024 11:29:36 GMT</pubDate>
+<pubDate>Wed, 03 Apr 2024 11:29:36 GMT</pubDate>
+</item>
+<item>
+<title>【Arena-Hard：用于评估指令微调LLM的工具，包含500个挑战性用户查询】'Arena-Hard - Arena-Hard benchmark' GitHub: github.com/lm-sys/arena-hard #开源# #机...</title>
+<link>https://weibo.com/1402400261/O82le12r2</link>
+<guid>https://weibo.com/1402400261/O82le12r2</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Arena-Hard, 评估指令微调LLM工具, 500个挑战性用户查询
+
+<br><br>总结:
+GitHub上提供了一个名为Arena-Hard的工具，用于评估指令微调LLM的性能表现。该工具包含500个具有挑战性的用户查询，能够帮助研究人员和开发者对模型进行更全面的评估和测试。通过使用这个工具，可以更好地了解模型在复杂场景下的表现，并为进一步优化和改进模型提供参考。Arena-Hard benchmark项目为研究人员提供了一个有力的工具，帮助他们更好地评估和优化LLM模型的性能。 <div>
+【Arena-Hard：用于评估指令微调LLM的工具，包含500个挑战性用户查询】'Arena-Hard - Arena-Hard benchmark' GitHub: github.com/lm-sys/arena-hard <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hodv8xnp01j21ji0hc0vl.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 03 Apr 2024 11:26:11 GMT</pubDate>
+<pubDate>Wed, 03 Apr 2024 11:26:11 GMT</pubDate>
+</item>
+<item>
+<title>【Evalverse：旨在支持LLM(大型语言模型)评估需求。提供一个简单、标准化、用户友好的方案，用于处理和管理LLM评估，满足AI研究工程师和科学家的需求】'evalvers...</title>
+<link>https://weibo.com/1402400261/O82kzwXJ8</link>
+<guid>https://weibo.com/1402400261/O82kzwXJ8</guid>
+<content:encoded><![CDATA[
+<div> LLM，评估需求，简单，标准化，用户友好，处理，管理，AI研究工程师，科学家
+
+<br><br>总结:
+Evalverse是一个旨在支持LLM评估需求的解决方案，提供简单、标准化、用户友好的工具，用于处理和管理LLM评估，满足AI研究工程师和科学家的需求。GitHub上有相关信息。 <div>
+【Evalverse：旨在支持LLM(大型语言模型)评估需求。提供一个简单、标准化、用户友好的方案，用于处理和管理LLM评估，满足AI研究工程师和科学家的需求】'evalverse - The Universe of Evaluation. All about the evaluation for LLMs.' GitHub: github.com/UpstageAI/evalverse <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hodv73vdiuj20u00z60xy.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hodv78c1tuj21z40u0q6g.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hodv79izxjj21hc0u0tbg.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 03 Apr 2024 11:24:35 GMT</pubDate>
+<pubDate>Wed, 03 Apr 2024 11:24:35 GMT</pubDate>
+</item>
+<item>
+<title>【Lightning Whisper MLX：极快的Whisper实现，特别优化用于Apple Silicon的MLX，比Whisper CPP快10倍，比目前的MLX Whisper实现快4倍】’Lightning Whisper MLX...</title>
+<link>https://weibo.com/1402400261/O82i71rii</link>
+<guid>https://weibo.com/1402400261/O82i71rii</guid>
+<content:encoded><![CDATA[
+<div> Apple Silicon, Whisper, MLX, 极快, 优化, GitHub, 快10倍, 快4倍
+
+<br><br>总结:
+Lightning Whisper MLX是一个针对Apple Silicon进行了特别优化的Whisper实现，使用MLX技术实现极快的速度。相比Whisper CPP实现，速度提升了10倍，比目前的MLX Whisper实现也快了4倍。该项目已经在GitHub上开源，地址为github.com/mustafaaljadery/lightning-whisper-mlx。这个项目为Apple Silicon用户提供了更高效的Whisper体验。 <div>
+【Lightning Whisper MLX：极快的Whisper实现，特别优化用于Apple Silicon的MLX，比Whisper CPP快10倍，比目前的MLX Whisper实现快4倍】’Lightning Whisper MLX - An extremely fast implementation of whisper optimized for Apple Silicon using MLX.' GitHub: github.com/mustafaaljadery/lightning-whisper-mlx <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hodv0w73xaj210t0u0ad0.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 03 Apr 2024 11:18:31 GMT</pubDate>
+<pubDate>Wed, 03 Apr 2024 11:18:31 GMT</pubDate>
+</item>
+<item>
+<title>'TorchComp - Differentiable dynamic range controller in PyTorch GitHub: github.com/yoyololicon/torchcomp #开源# #机器学习# #人工智能# [图片]</title>
+<link>https://weibo.com/1402400261/O82eZuBpL</link>
+<guid>https://weibo.com/1402400261/O82eZuBpL</guid>
+<content:encoded><![CDATA[
+<div> PyTorch、动态范围控制器、可微分、GitHub、torchcomp、yoyololicon、代码库、实现、技术、深度学习<br>
+<br>
+本文介绍了一个名为TorchComp的PyTorch包，该包实现了一个可微分的动态范围控制器。用户可以在GitHub上找到该项目，作者是yoyololicon。该动态范围控制器对于深度学习中的动态范围管理非常有用，可以帮助优化模型性能。该代码库提供了实现这一技术的工具和方法，为用户提供了更多灵活性和控制权。如果你对动态范围控制器和PyTorch感兴趣，可以查看该项目并了解更多细节。<br><br>总结: <br>PyTorch、动态范围控制器、可微分、GitHub、torchcomp、yoyololicon、代码库、实现、技术、深度学习  <div>
+'TorchComp - Differentiable dynamic range controller in PyTorch GitHub: github.com/yoyololicon/torchcomp <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hodusz1fc5j21ji0m8gpo.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 03 Apr 2024 11:10:50 GMT</pubDate>
+<pubDate>Wed, 03 Apr 2024 11:10:50 GMT</pubDate>
+</item>
 
 <item>
 <title>【SWE-agent：把语言模型(如GPT-4)变成软件工程Agent，可以修复实际GitHub仓库中的bug和issue】’SWE-agent: Agent Computer Interfaces Enable Software Engine...</title>
