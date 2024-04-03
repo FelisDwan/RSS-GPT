@@ -2078,3 +2078,15 @@ Summarized using GPT-3.5-turbo
 Append: [#开源版Devin# 来自普林斯顿 NLP 团队的几位成员开源了一个新系统#SWE-agent#，旨在自主解决 GitHub 存储库中的问题。根据 SWE-bench 基准测试显示的结果，它的...](https://weibo.com/6105753431/O81f54iKP)
 append_entries: 1
 Finish: 2024-04-03 10:12:30.318263
+------------------------------------------------------
+Started: 2024-04-03 12:19:35.845327
+Existing_entries: 240
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 311
+Summarized using GPT-3.5-turbo
+Append: [#法律大模型# OpenAI 与 Harvey 公司合作为法律人量身定制了一个判例法模型。Harvey 由1位律师及1位前谷歌 AI 工程师创办，他们认识到利用 LLM 整合信息并呈现给...](https://weibo.com/6105753431/O82hEvqvp)
+Token length: 20
+Summarized using GPT-3.5-turbo
+Append: [当尊者摇身一变，成了人工智能导师[doge]……#尊者的人工智能课# 量子位的微博视频](https://weibo.com/6105753431/O821H5row)
+append_entries: 2
+Finish: 2024-04-03 12:19:47.093706
