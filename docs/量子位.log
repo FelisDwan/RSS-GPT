@@ -2017,3 +2017,12 @@ Existing_entries: 229
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-03 00:49:12.502551
+------------------------------------------------------
+Started: 2024-04-03 02:18:39.567632
+Existing_entries: 229
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [#VisionPro多人共享空间##VisionPro首次重大更新# 苹果 Vision Pro 迎来首个重大功能更新。现在，使用苹果 Vision Pro 就可以让所有人的全息投影出现在同一空间...](https://weibo.com/6105753431/O7YeryPI7)
+append_entries: 1
+Finish: 2024-04-03 02:18:43.557080
