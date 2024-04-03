@@ -2069,3 +2069,12 @@ Summarized using GPT-3.5-turbo
 Append: [#Sora发布首支MV# AIGC，算是狠狠地震荡了一把音乐圈。就在刚刚，OpenAI官方账号发布的一支由Sora制作的MV（Music Video）——《Worldweight》，引发了不少网友...](https://weibo.com/6105753431/O80jukCUQ)
 append_entries: 4
 Finish: 2024-04-03 08:14:23.480602
+------------------------------------------------------
+Started: 2024-04-03 10:12:23.055051
+Existing_entries: 239
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 429
+Summarized using GPT-3.5-turbo
+Append: [#开源版Devin# 来自普林斯顿 NLP 团队的几位成员开源了一个新系统#SWE-agent#，旨在自主解决 GitHub 存储库中的问题。根据 SWE-bench 基准测试显示的结果，它的...](https://weibo.com/6105753431/O81f54iKP)
+append_entries: 1
+Finish: 2024-04-03 10:12:30.318263
