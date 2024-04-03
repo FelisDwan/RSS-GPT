@@ -2906,3 +2906,30 @@ Summarized using GPT-3.5-turbo
 Append: ['TorchComp - Differentiable dynamic range controller in PyTorch GitHub: github.com/yoyololicon/torchcomp #开源# #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O82eZuBpL)
 append_entries: 6
 Finish: 2024-04-03 14:11:00.439514
+------------------------------------------------------
+Started: 2024-04-03 16:13:12.402383
+Existing_entries: 474
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 2588
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《3D-MoLM: Towards 3D Molecule-Text Interpretation in Language Models》(2024) GitHub: github.com/lsh0520/3D-MoLM [fig4]《ViTamin: De...](https://weibo.com/1402400261/O83g9DU0A)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [【Home LLM：基于本地LLM的家庭助理】’Home LLM - A Home Assistant integration that allows you to control your house using an LLM running locally' GitHu...](https://weibo.com/1402400261/O83bBsjHZ)
+Token length: 157
+Summarized using GPT-3.5-turbo
+Append: [【学术论文极简LaTeX模板】'Minimalist LaTeX Template for Academic Papers - Minimalist LaTeX template for academic papers' GitHub: github.com/pmichailla...](https://weibo.com/1402400261/O82XehgrP)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: ['Open Parse - Streamlines the process of preparing documents for LLM's.' GitHub: github.com/Filimoa/open-parse #开源# #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O82VU8v1i)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [【LLM相关论文分类列表】’Awesome-LLM-related-Papers-Comprehensive-Topics - Awesome LLM-related papers and repos on very comprehensive topics.' GitHub:...](https://weibo.com/1402400261/O82JOEFhu)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [【llm-export：llm模型导出工具，能够将llm模型导出为onnx和mnn模型】'llm-export - llm-export can export llm model to onnx.' GitHub: github.com/wangzhaode...](https://weibo.com/1402400261/O82Fu6YUD)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: ['MicroLlama-300M - a small Llama based model with 300M parameters trained from scratch with $500 budget' GitHub: github.com/keeeeenw/MicroLlama #开源#...](https://weibo.com/1402400261/O82DKw8P4)
+append_entries: 7
+Finish: 2024-04-03 16:13:41.463755

@@ -5,17 +5,121 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>几篇论文实现代码：《3D-MoLM: Towards 3D Molecule-Text Interpretation in Language Models》(2024) GitHub: github.com/lsh0520/3D-MoLM [fig4]《ViTamin: De...</title>
+<link>https://weibo.com/1402400261/O83g9DU0A</link>
+<guid>https://weibo.com/1402400261/O83g9DU0A</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 3D-MoLM, 语言模型, 分子-文本解释, ViTamin, 视觉模型, 梯度对齐, 跨域人脸反欺诈, DePT, 全息提示调整, XScale-NVS, 视图合成, SWE-agent, 软件工程, Agent界面，CameraCtrl, 文本到视频生成, QuaRot, 旋转语言模型, CSD, 扩散模型, Evalverse, 语言模型评估库, JailbreakBench, 鲁邦测试基准, Eurus, 偏好树, LLaVA-Hound-DPO, 视频模型优化, LG_SDG, 医学图像分割, MuseTalk, 实时唇语同步, JaxUED, Jax库, LifelongMemory, 长时记忆, TimeMachine, 时间序列预测, 1-bit LLMs, 1.58比特语言模型, SPRIGHT, 文本到图像模型, Proxy调整, MiM-ISTD, 红外小目标检测
+
+<br><br>总结: 
+"3D-MoLM: Towards 3D Molecule-Text Interpretation in Language Models"提出了一种在语言模型中实现3D分子-文本解释的方法，利用GitHub上的代码进行实现。
+"ViTamin: Designing Scalable Vision Models in the Vision-language Era"介绍了在视觉-语言时代设计可扩展视觉模型的技术，并提供了GitHub代码。
+"Gradient Alignment for Cross-Domain Face Anti-Spoofing"讨论了跨域人脸反欺诈中的梯度对齐问题，并提供了GitHub代码。
+"DePT: Decoupled Prompt Tuning"介绍了一种全息提示调整的方法，帮助提升模型性能，相关代码在GitHub上有提供。
+"XScale-NVS: Cross-Scale Novel View Synthesis with Hash Featurized Manifold"描述了跨尺度观点合成的技术，相关代码在GitHub上可找到。
+"SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models"研究了软件工程语言模型中代理界面的应用，相关代码可在GitHub上获取。
+"CameraCtrl: Enabling Camera Control for Text-to-Video Generation"介绍了一种控制相机生成文本到视频的技术，相关代码在GitHub上有提供。
+"QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs"讨论了在旋转语言模型中实现无异常的4比特推断的方法，相关代码在GitHub上有提供。
+"Measuring Style Similarity in Diffusion Models"探讨了扩散模型中的风格相似性衡量方法，相关代码在GitHub上可找到。
+"Evalverse: Unified and Accessible Library for Large Language Model Evaluation"提供了一个统一且易用的语言模型评估库，相关代码在GitHub上有提供。 <div>
+几篇论文实现代码：<br />《3D-MoLM: Towards 3D Molecule-Text Interpretation in Language Models》(2024) GitHub: github.com/lsh0520/3D-MoLM [fig4]<br />《ViTamin: Designing Scalable Vision Models in the Vision-language Era》(CVPR 2024) GitHub: github.com/Beckschen/ViTamin [fig1]<br />《Gradient Alignment for Cross-Domain Face Anti-Spoofing》(CVPR 2024) GitHub: github.com/Leminhbinh0209/CVPR24-FAS<br />《DePT: Decoupled Prompt Tuning》(CVPR 2024) GitHub: github.com/Koorye/DePT [fig5]<br />《XScale-NVS: Cross-Scale Novel View Synthesis with Hash Featurized Manifold》(CVPR 2024) GitHub: github.com/THU-luvision/XScale-NVS<br />《SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models》(2024) GitHub: github.com/princeton-nlp/SWE-agent<br />《CameraCtrl: Enabling Camera Control for Text-to-Video Generation》(2024) GitHub: github.com/hehao13/CameraCtrl<br />《QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs》(2024) GitHub: github.com/spcl/QuaRot<br />《Measuring Style Similarity in Diffusion Models》(2024) GitHub: github.com/learn2phoenix/CSD<br />《Evalverse: Unified and Accessible Library for Large Language Model Evaluation》(2024) GitHub: github.com/UpstageAI/evalverse<br />《JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models》(2024) GitHub: github.com/JailbreakBench/jailbreakbench<br />《Advancing LLM Reasoning Generalists with Preference Trees》(2024) GitHub: github.com/OpenBMB/Eurus<br />《Direct Preference Optimization of Video Large Multimodal Models from Language Model Reward》(2024) GitHub: github.com/RifleZhang/LLaVA-Hound-DPO<br />《Language Grounded Single Source Domain Generalization in Medical Image Segmentation》(2024) GitHub: github.com/ShahinaKK/LG_SDG [fig2]<br />《MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting》(2024) GitHub: github.com/TMElyralab/MuseTalk [fig3]<br />《JaxUED: A simple and useable UED library in Jax》(2024) GitHub: github.com/DramaCow/jaxued<br />《LifelongMemory: Leveraging LLMs for Answering Queries in Long-form Egocentric Videos》(2024) GitHub: github.com/Agentic-Learning-AI-Lab/lifelong-memory<br />《TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting》(2024) GitHub: github.com/Atik-Ahamed/TimeMachine<br />《The Era of 1-bit LLMs All Large Language Models are in 1.58 Bits》(2024) GitHub: github.com/rejunity/tiny-asic-1_58bit-matrix-mul<br />《Getting it Right: Improving Spatial Consistency in Text-to-Image Models》(2024) GitHub: github.com/SPRIGHT-T2I/SPRIGHT<br />《Tuning Language Models by Proxy》(2024) GitHub: github.com/alisawuffles/proxy-tuning<br />《MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection》(2024) GitHub: github.com/txchen-USTC/MiM-ISTD [fig6]<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hodvmdi4ttj20wn0k011z.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hodvpkbxh3j23tn2vru0y.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hodw340ylwj22s419lk3q.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hodwtb71cbj21890eidy5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hodwucbmrpj212q0d37c8.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hody2sz7yoj20lo0bh40p.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 03 Apr 2024 13:46:27 GMT</pubDate>
+<pubDate>Wed, 03 Apr 2024 13:46:27 GMT</pubDate>
+</item>
+<item>
+<title>【Home LLM：基于本地LLM的家庭助理】’Home LLM - A Home Assistant integration that allows you to control your house using an LLM running locally' GitHu...</title>
+<link>https://weibo.com/1402400261/O83bBsjHZ</link>
+<guid>https://weibo.com/1402400261/O83bBsjHZ</guid>
+<content:encoded><![CDATA[
+<div> LLM、Home Assistant、GitHub、本地、家庭助理、控制、房屋、集成、acond96、家庭助手<br>
+<br>
+LLM是一个基于本地LLM的家庭助理，可以让用户通过Home Assistant集成来控制房屋。用户可以在GitHub上找到这个项目，作者是acond96。这个家庭助手的特点是可以在本地运行，提供更安全和私密的控制体验。通过Home LLM，用户可以方便地管理房屋设备和自动化任务，带来更便捷的生活方式。 <div>
+【Home LLM：基于本地LLM的家庭助理】’Home LLM - A Home Assistant integration that allows you to control your house using an LLM running locally' GitHub: github.com/acon96/home-llm <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hodyz6j2pgj213c0u0n2q.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 03 Apr 2024 13:35:14 GMT</pubDate>
+<pubDate>Wed, 03 Apr 2024 13:35:14 GMT</pubDate>
+</item>
+<item>
+<title>【学术论文极简LaTeX模板】'Minimalist LaTeX Template for Academic Papers - Minimalist LaTeX template for academic papers' GitHub: github.com/pmichailla...</title>
+<link>https://weibo.com/1402400261/O82XehgrP</link>
+<guid>https://weibo.com/1402400261/O82XehgrP</guid>
+<content:encoded><![CDATA[
+<div> LaTeX, 模板, 学术论文, GitHub, 精简, pmichaillat 
+
+<br><br>总结:
+这篇学术论文介绍了一个极简的LaTeX模板，主要用于撰写学术论文。该模板提供了简洁的设计和布局，适用于学术界的各种研究领域。作者提供了GitHub地址，方便用户下载和使用。这个模板以简洁、易用和专业为特点，可以帮助学术作者高效地撰写论文。 <div>
+【学术论文极简LaTeX模板】'Minimalist LaTeX Template for Academic Papers - Minimalist LaTeX template for academic papers' GitHub: github.com/pmichaillat/latex-paper <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hodxydcpzqj21iq0tidm6.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 03 Apr 2024 12:59:49 GMT</pubDate>
+<pubDate>Wed, 03 Apr 2024 12:59:49 GMT</pubDate>
+</item>
+<item>
+<title>'Open Parse - Streamlines the process of preparing documents for LLM's.' GitHub: github.com/Filimoa/open-parse #开源# #机器学习# #人工智能# [图片]</title>
+<link>https://weibo.com/1402400261/O82VU8v1i</link>
+<guid>https://weibo.com/1402400261/O82VU8v1i</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Open Parse, Streamlines, documents, preparing, LLM's, Filimoa, 
+
+此项目名为Open Parse，旨在简化准备文件为LLM的过程。该项目的GitHub链接为github.com/Filimoa/open-parse。通过使用Open Parse，用户可以更高效地处理文件，节省时间和精力。该工具可以帮助LLM的工作更加流畅和高效，提升工作效率。通过GitHub平台，用户可以方便地获取并使用Open Parse工具，为文件处理过程带来便利。总之，Open Parse是一款实用的工具，为准备文件为LLM提供了便捷的解决方案。 <br><br>总结： <br>Open Parse是一个可以简化准备文件为LLM的过程的工具，通过GitHub平台提供给用户使用，为文件处理过程带来便利，提升工作效率。 <div>
+'Open Parse - Streamlines the process of preparing documents for LLM's.' GitHub: github.com/Filimoa/open-parse <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hodxusqf37j20u00uhdk2.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 03 Apr 2024 12:56:33 GMT</pubDate>
+<pubDate>Wed, 03 Apr 2024 12:56:33 GMT</pubDate>
+</item>
+<item>
+<title>【LLM相关论文分类列表】’Awesome-LLM-related-Papers-Comprehensive-Topics - Awesome LLM-related papers and repos on very comprehensive topics.' GitHub:...</title>
+<link>https://weibo.com/1402400261/O82JOEFhu</link>
+<guid>https://weibo.com/1402400261/O82JOEFhu</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Awesome, LLM, Papers, Repos, Comprehensive Topics, 论文分类, 相关研究, 研究领域
+
+<br><br>总结:该GitHub项目收集了关于LLM（硕士法学）相关的优秀论文和资源，涵盖了非常全面的主题。通过这个项目，研究者可以轻松地找到有关LLM领域的相关研究成果和资源，有助于帮助他们深入了解和探索这一领域。GitHub平台的开放性和便利性使得研究者们可以方便地分享和获取LLM相关研究成果，促进了学术交流和合作。希望这个项目能够为研究者们提供有益的参考和指导，推动LLM研究领域的发展。 <div>
+【LLM相关论文分类列表】’Awesome-LLM-related-Papers-Comprehensive-Topics - Awesome LLM-related papers and repos on very comprehensive topics.' GitHub: github.com/shure-dev/Awesome-LLM-related-Papers-Comprehensive-Topics <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hodx00affrj20vf0u0gqe.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 03 Apr 2024 12:26:47 GMT</pubDate>
+<pubDate>Wed, 03 Apr 2024 12:26:47 GMT</pubDate>
+</item>
+<item>
+<title>【llm-export：llm模型导出工具，能够将llm模型导出为onnx和mnn模型】'llm-export - llm-export can export llm model to onnx.' GitHub: github.com/wangzhaode...</title>
+<link>https://weibo.com/1402400261/O82Fu6YUD</link>
+<guid>https://weibo.com/1402400261/O82Fu6YUD</guid>
+<content:encoded><![CDATA[
+<div> llm-export, llm模型, 导出工具, onnx, mnn模型<br>
+<br>
+llm-export是一种工具，可以将llm模型导出为onnx和mnn模型。这个工具在GitHub上有开源代码，可以方便地将llm模型转换为onnx格式，便于在其他平台上使用。通过使用llm-export工具，用户可以快速方便地转换和导出llm模型，从而实现跨平台应用和部署。 <div>
+【llm-export：llm模型导出工具，能够将llm模型导出为onnx和mnn模型】'llm-export - llm-export can export llm model to onnx.' GitHub: github.com/wangzhaode/llm-export <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hodwovijovj213i0oe0vz.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 03 Apr 2024 12:16:06 GMT</pubDate>
+<pubDate>Wed, 03 Apr 2024 12:16:06 GMT</pubDate>
+</item>
+<item>
+<title>'MicroLlama-300M - a small Llama based model with 300M parameters trained from scratch with $500 budget' GitHub: github.com/keeeeenw/MicroLlama #开源#...</title>
+<link>https://weibo.com/1402400261/O82DKw8P4</link>
+<guid>https://weibo.com/1402400261/O82DKw8P4</guid>
+<content:encoded><![CDATA[
+<div> MicroLlama-300M, small, Llama, 300M parameters, trained from scratch, $500 budget, GitHub, keeeeenw, MicroLlama
+
+<br><br>
+总结:
+本文介绍了一个名为MicroLlama-300M的小型Llama模型，拥有300M个参数，并且是从头开始用500美元的预算训练的。该项目的源代码托管在GitHub上的keeeeenw/MicroLlama仓库中。MicroLlama-300M模型通过在有限预算下训练，展示了良好的性能和效率。 <div>
+'MicroLlama-300M - a small Llama based model with 300M parameters trained from scratch with $500 budget' GitHub: github.com/keeeeenw/MicroLlama <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hodwkg7r0wj20z80u0431.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 03 Apr 2024 12:11:50 GMT</pubDate>
+<pubDate>Wed, 03 Apr 2024 12:11:50 GMT</pubDate>
+</item>
+
+<item>
 <title>【RAG评估数据集】’Docugami Knowledge Graph Retrieval Augmented Generation (KG-RAG) Datasets - Knowledge Graph Retrieval Augmented Generation (KG-RAG)...</title>
 <link>https://weibo.com/1402400261/O82wcrw6z</link>
 <guid>https://weibo.com/1402400261/O82wcrw6z</guid>
 <content:encoded><![CDATA[
 <div> GitHub, Docugami, Knowledge Graph, 数据集, KG-RAG, 检索, 生成, 文档
 
-<br><br>总结:
+<br /><br />总结:
 文章介绍了Docugami Knowledge Graph Retrieval Augmented Generation (KG-RAG) 数据集，并提供了相关的GitHub链接。该数据集是用于知识图检索和生成的一种评估数据集。数据集涵盖了不同知识图领域的信息，旨在帮助研究人员进行相关实验和模型评估。通过使用KG-RAG数据集，可以更好地理解知识图检索和生成的相关问题，并提供了一种衡量模型性能的标准。KG-RAG数据集是一个有用的资源，可以促进知识图领域的研究和发展。 <div>
 【RAG评估数据集】’Docugami Knowledge Graph Retrieval Augmented Generation (KG-RAG) Datasets - Knowledge Graph Retrieval Augmented Generation (KG-RAG) Eval Datasets' GitHub: github.com/docugami/KG-RAG-datasets <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hodw13rmouj20zi0u0tft.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 11:53:14 GMT</pubDate>
 <pubDate>Wed, 03 Apr 2024 11:53:14 GMT</pubDate>
 </item>
 <item>
@@ -25,11 +129,10 @@
 <content:encoded><![CDATA[
 <div> OpenAI, 鲁棒性基准, 大型语言模型, 滥用行为, JBB-Behaviors 数据集, 基准领域表, 攻击和防御算法
 
-<br><br>总结:
+<br /><br />总结:
 JailbreakBench是一个开源的鲁棒性基准，专注于评估对大型语言模型进行大规模越狱的进展。其提供了包含100种不同滥用行为的JBB-Behaviors数据集，这些行为经过精挑细选，符合OpenAI的使用策略。此外，该基准还提供了领域表，用于追踪算法在攻击和防御数据集滥用行为方面的性能表现。通过JailbreakBench，研究人员和开发者可以更好地评估和改进语言模型的鲁棒性，促进模型在安全性方面的进步。 <div>
 【JailbreakBench：开源的鲁棒性基准，用于评估对大型语言模型(LLM)进行大规模越狱的进展。该基准提供的 JBB-Behaviors 数据集，包含 100 种不同的滥用行为，这些行为是根据 OpenAI 的使用策略性精选的。此外，该基准还提供了官方的JailbreakBench领域表，用于跟踪对数据集中滥用行为进行攻击和防御的算法的性能】'JailbreakBench - An Open Robustness Benchmark for Jailbreaking Language Models' GitHub: github.com/JailbreakBench/jailbreakbench <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hodvchzx40j210s0u0tej.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 11:29:36 GMT</pubDate>
 <pubDate>Wed, 03 Apr 2024 11:29:36 GMT</pubDate>
 </item>
 <item>
@@ -39,11 +142,10 @@ JailbreakBench是一个开源的鲁棒性基准，专注于评估对大型语言
 <content:encoded><![CDATA[
 <div> GitHub, Arena-Hard, 评估指令微调LLM工具, 500个挑战性用户查询
 
-<br><br>总结:
+<br /><br />总结:
 GitHub上提供了一个名为Arena-Hard的工具，用于评估指令微调LLM的性能表现。该工具包含500个具有挑战性的用户查询，能够帮助研究人员和开发者对模型进行更全面的评估和测试。通过使用这个工具，可以更好地了解模型在复杂场景下的表现，并为进一步优化和改进模型提供参考。Arena-Hard benchmark项目为研究人员提供了一个有力的工具，帮助他们更好地评估和优化LLM模型的性能。 <div>
 【Arena-Hard：用于评估指令微调LLM的工具，包含500个挑战性用户查询】'Arena-Hard - Arena-Hard benchmark' GitHub: github.com/lm-sys/arena-hard <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hodv8xnp01j21ji0hc0vl.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 11:26:11 GMT</pubDate>
 <pubDate>Wed, 03 Apr 2024 11:26:11 GMT</pubDate>
 </item>
 <item>
@@ -53,11 +155,10 @@ GitHub上提供了一个名为Arena-Hard的工具，用于评估指令微调LLM�
 <content:encoded><![CDATA[
 <div> LLM，评估需求，简单，标准化，用户友好，处理，管理，AI研究工程师，科学家
 
-<br><br>总结:
+<br /><br />总结:
 Evalverse是一个旨在支持LLM评估需求的解决方案，提供简单、标准化、用户友好的工具，用于处理和管理LLM评估，满足AI研究工程师和科学家的需求。GitHub上有相关信息。 <div>
 【Evalverse：旨在支持LLM(大型语言模型)评估需求。提供一个简单、标准化、用户友好的方案，用于处理和管理LLM评估，满足AI研究工程师和科学家的需求】'evalverse - The Universe of Evaluation. All about the evaluation for LLMs.' GitHub: github.com/UpstageAI/evalverse <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hodv73vdiuj20u00z60xy.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hodv78c1tuj21z40u0q6g.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hodv79izxjj21hc0u0tbg.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 11:24:35 GMT</pubDate>
 <pubDate>Wed, 03 Apr 2024 11:24:35 GMT</pubDate>
 </item>
 <item>
@@ -67,11 +168,10 @@ Evalverse是一个旨在支持LLM评估需求的解决方案，提供简单、�
 <content:encoded><![CDATA[
 <div> Apple Silicon, Whisper, MLX, 极快, 优化, GitHub, 快10倍, 快4倍
 
-<br><br>总结:
+<br /><br />总结:
 Lightning Whisper MLX是一个针对Apple Silicon进行了特别优化的Whisper实现，使用MLX技术实现极快的速度。相比Whisper CPP实现，速度提升了10倍，比目前的MLX Whisper实现也快了4倍。该项目已经在GitHub上开源，地址为github.com/mustafaaljadery/lightning-whisper-mlx。这个项目为Apple Silicon用户提供了更高效的Whisper体验。 <div>
 【Lightning Whisper MLX：极快的Whisper实现，特别优化用于Apple Silicon的MLX，比Whisper CPP快10倍，比目前的MLX Whisper实现快4倍】’Lightning Whisper MLX - An extremely fast implementation of whisper optimized for Apple Silicon using MLX.' GitHub: github.com/mustafaaljadery/lightning-whisper-mlx <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hodv0w73xaj210t0u0ad0.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 11:18:31 GMT</pubDate>
 <pubDate>Wed, 03 Apr 2024 11:18:31 GMT</pubDate>
 </item>
 <item>
@@ -79,15 +179,13 @@ Lightning Whisper MLX是一个针对Apple Silicon进行了特别优化的Whisper
 <link>https://weibo.com/1402400261/O82eZuBpL</link>
 <guid>https://weibo.com/1402400261/O82eZuBpL</guid>
 <content:encoded><![CDATA[
-<div> PyTorch、动态范围控制器、可微分、GitHub、torchcomp、yoyololicon、代码库、实现、技术、深度学习<br>
-<br>
-本文介绍了一个名为TorchComp的PyTorch包，该包实现了一个可微分的动态范围控制器。用户可以在GitHub上找到该项目，作者是yoyololicon。该动态范围控制器对于深度学习中的动态范围管理非常有用，可以帮助优化模型性能。该代码库提供了实现这一技术的工具和方法，为用户提供了更多灵活性和控制权。如果你对动态范围控制器和PyTorch感兴趣，可以查看该项目并了解更多细节。<br><br>总结: <br>PyTorch、动态范围控制器、可微分、GitHub、torchcomp、yoyololicon、代码库、实现、技术、深度学习  <div>
+<div> PyTorch、动态范围控制器、可微分、GitHub、torchcomp、yoyololicon、代码库、实现、技术、深度学习<br />
+<br />
+本文介绍了一个名为TorchComp的PyTorch包，该包实现了一个可微分的动态范围控制器。用户可以在GitHub上找到该项目，作者是yoyololicon。该动态范围控制器对于深度学习中的动态范围管理非常有用，可以帮助优化模型性能。该代码库提供了实现这一技术的工具和方法，为用户提供了更多灵活性和控制权。如果你对动态范围控制器和PyTorch感兴趣，可以查看该项目并了解更多细节。<br /><br />总结: <br />PyTorch、动态范围控制器、可微分、GitHub、torchcomp、yoyololicon、代码库、实现、技术、深度学习  <div>
 'TorchComp - Differentiable dynamic range controller in PyTorch GitHub: github.com/yoyololicon/torchcomp <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hodusz1fc5j21ji0m8gpo.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 03 Apr 2024 11:10:50 GMT</pubDate>
-<pubDate>Wed, 03 Apr 2024 11:10:50 GMT</pubDate>
 </item>
-
 <item>
 <title>【SWE-agent：把语言模型(如GPT-4)变成软件工程Agent，可以修复实际GitHub仓库中的bug和issue】’SWE-agent: Agent Computer Interfaces Enable Software Engine...</title>
 <link>https://weibo.com/1402400261/O7ZHpiqdp</link>
