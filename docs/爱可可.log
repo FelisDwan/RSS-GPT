@@ -2993,3 +2993,24 @@ Summarized using GPT-3.5-turbo
 Append: [[LG]《Asymptotics of Language Model Alignment》J Q Yang, S Salamatian, Z Sun, A T Suresh, A Beirami [University of Sydney & MIT & Google Research] (20...](https://weibo.com/1402400261/O86bpwyeM)
 append_entries: 10
 Finish: 2024-04-04 00:51:41.764683
+------------------------------------------------------
+Started: 2024-04-04 02:20:54.046260
+Existing_entries: 492
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [#免费##抽奖# 携手@异步图书 送出3本《大语言模型：基础与前沿》，截至2024.4.12 12:00，*可可粉*转发+评论即可参与。本书全面且深入介绍了大语言模型及其前沿进...](https://weibo.com/1402400261/O86TsEVJz)
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [#免费##抽奖# 携手@博文视点Broadview 送出3本《LangChain实战》，截至2024.4.11 12:00，*可可粉*转发+评论即可参与。本书专为初学者和对LangChain应用及大语言...](https://weibo.com/1402400261/O86RdFp49)
+Token length: 100
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1365期)：潜扩散模型的缩放特性、语言模型对齐的渐近性、面向高效LLM生成的提示混合专家、用偏好树提高LLM推理能力、长上下文LLM的长上下文学习能力...](https://weibo.com/1402400261/O86Ihb4Al)
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [[CV] ViTamin: Designing Scalable Vision Models in the Vision-Language Era 网页链接 通过重新评估视觉语言模型的视觉后骨干设计，提出了一种融合卷积和Trans...](https://weibo.com/1402400261/O86CVvK4U)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [[CV] Surface Reconstruction from Gaussian Splatting via Novel Stereo Views 网页链接 提出通过3DGS合成立体视图并立体匹配获取深度的表面重建方法，使重建质...](https://weibo.com/1402400261/O86zqaJ9s)
+append_entries: 5
+Finish: 2024-04-04 02:21:16.004543
