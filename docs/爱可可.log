@@ -3014,3 +3014,18 @@ Summarized using GPT-3.5-turbo
 Append: [[CV] Surface Reconstruction from Gaussian Splatting via Novel Stereo Views 网页链接 提出通过3DGS合成立体视图并立体匹配获取深度的表面重建方法，使重建质...](https://weibo.com/1402400261/O86zqaJ9s)
 append_entries: 5
 Finish: 2024-04-04 02:21:16.004543
+------------------------------------------------------
+Started: 2024-04-04 04:15:11.530148
+Existing_entries: 497
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [【LLM“红队”课程：教你如何测试和发现LLM应用中的漏洞，以使其更安全。通过提示注入攻击各种聊天机器人应用，看系统如何反应，理解安全失败。LLM失败会导致法...](https://weibo.com/1402400261/O87ROztmK)
+Token length: 883
+Summarized using GPT-3.5-turbo
+Append: [【代码转换+精准时间戳：Universal-1树立语音AI新标杆】 - AssemblyAI发布了一个名为Universal-1的新语音识别(ASR)模型，在多个测试场景中展现出优异的性能和鲁...](https://weibo.com/1402400261/O87O4kb9T)
+Token length: 996
+Summarized using GPT-3.5-turbo
+Append: [【代号Lavender的AI“暗杀”系统：以色列AI军事应用引发伦理和道义拷问】- 以色列军方在加沙战争的前几周使用一个名为"Lavender"的AI机器，通过大规模监控收集的...](https://weibo.com/1402400261/O87JkzOO5)
+append_entries: 3
+Finish: 2024-04-04 04:15:24.321888

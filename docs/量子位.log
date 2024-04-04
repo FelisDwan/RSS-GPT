@@ -2135,3 +2135,9 @@ Summarized using GPT-3.5-turbo
 Append: [#腾讯开源视频生成新工具# 先上代码再发论文，腾讯新开源文生视频工具火了。名为MuseV，主打基于视觉条件并行去噪的无限长度和高保真虚拟人视频生成。老规矩，先...](https://weibo.com/6105753431/O87uq1uxn)
 append_entries: 1
 Finish: 2024-04-04 02:20:53.443225
+------------------------------------------------------
+Started: 2024-04-04 04:15:10.762448
+Existing_entries: 243
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-04-04 04:15:10.915086

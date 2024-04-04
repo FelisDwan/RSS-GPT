@@ -5,16 +5,57 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>【LLM“红队”课程：教你如何测试和发现LLM应用中的漏洞，以使其更安全。通过提示注入攻击各种聊天机器人应用，看系统如何反应，理解安全失败。LLM失败会导致法...</title>
+<link>https://weibo.com/1402400261/O87ROztmK</link>
+<guid>https://weibo.com/1402400261/O87ROztmK</guid>
+<content:encoded><![CDATA[
+<div> 红队、LLM应用、漏洞、安全、注入攻击、系统反应、安全失败、法律责任、声誉损害、服务中断
+<br>
+<br>
+总结：本文介绍了一门关于“红队”测试LLM应用的课程，通过教授如何测试和发现应用中的漏洞，从而使其更安全。课程内容包括提示注入攻击各种聊天机器人应用，观察系统反应并理解安全失败的原因。强调LLM应用的失败可能导致法律责任、声誉损害和高昂的服务中断，因此学习如何积极测试、攻击和改进LLM应用的健壮性至关重要。通过本课程，学习者可以提升安全意识，提高对应用漏洞的识别和应对能力。 <div>
+【LLM“红队”课程：教你如何测试和发现LLM应用中的漏洞，以使其更安全。通过提示注入攻击各种聊天机器人应用，看系统如何反应，理解安全失败。LLM失败会导致法律责任、声誉损害和代价高昂的服务中断。该课程帮助你积极测试、攻击和改进LLM应用的健壮性】《Red Teaming LLM Applications - DeepLearning.AI》 <a href="https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/?hss_channel=tw-992153930095251456"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoejn3p2y6j20u00w20w8.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 01:30:13 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 01:30:13 GMT</pubDate>
+</item>
+<item>
+<title>【代码转换+精准时间戳：Universal-1树立语音AI新标杆】 - AssemblyAI发布了一个名为Universal-1的新语音识别(ASR)模型，在多个测试场景中展现出优异的性能和鲁...</title>
+<link>https://weibo.com/1402400261/O87O4kb9T</link>
+<guid>https://weibo.com/1402400261/O87O4kb9T</guid>
+<content:encoded><![CDATA[
+<div> AssemblyAI, Universal-1, 语音识别, ASR, 性能, 鲁棒性, 用户偏好测试, 代码转换, 时间戳, 鲁棒性, 推理速度
+
+<br><br>总结:
+AssemblyAI发布了Universal-1新语音识别模型，展现出优异性能和鲁棒性。在用户偏好测试中，大多数用户更喜欢Universal-1。Universal-1具有代码转换能力，可转录多种语言。精准估计单词级时间戳，适用于音视频编辑和会话分析。在多个数据集中性能表现优异，特别是在电话和嘈杂环境中。推理速度优于其他模型，有助于实时处理应用。在各方面的表现证明了AssemblyAI在语音识别领域的实力，将推动语音AI在各行业应用。用户偏好、代码转换、时间戳精准度、鲁棒性和推理速度等方面都展示了Universal-1的优势，提升了其实用性和适用性。 <div>
+【代码转换+精准时间戳：Universal-1树立语音AI新标杆】  <br />- AssemblyAI发布了一个名为Universal-1的新语音识别(ASR)模型，在多个测试场景中展现出优异的性能和鲁棒性。  <br />- 在用户偏好测试中，71%的用户更喜欢Universal-1的输出，而不是AssemblyAI之前的Conformer-2模型。  <br />- Universal-1展现出了在单个音频文件中转录多种语言的能力，即代码转换能力。  <br />- Universal-1能够精确估计单词级别的时间戳，这对于音视频编辑和会话分析等下游应用至关重要。  <br />- 在11个数据集中的5个上，Universal-1的单词错误率(WER)最低，在电话和嘈杂等声学挑战性环境中表现出强大的鲁棒性。它比Conformer-2的WER相对降低了11%。  <br />- 在相同的推理硬件上，Universal-1的处理速度优于OpenAI的Whisper Large-v3模型。  <br /><br />点评：  <br />- Universal-1在多个测试集上的出色表现证明了AssemblyAI在语音识别领域的技术实力。这将进一步推动语音AI在各行各业的应用。  <br />- 用户偏好测试结果表明，Universal-1不仅在客观指标上有优势，在主观体验上也得到了用户的认可。这对于以用户为中心的产品设计非常重要。  <br />- 代码转换能力使Universal-1能够处理多语言场景，这在全球化背景下具有重要价值，有助于提高语音技术的包容性。  <br />- 精确的单词级时间戳估计使Universal-1能够支持更广泛的应用，如字幕生成、会议纪要等，提升了其实用性。  <br />- 在嘈杂环境中的鲁棒性是Universal-1的一大亮点。这使其能够适应更多真实世界的场景，如呼叫中心、公共场所等，拓宽了应用范围。  <br />- 在推理速度上的优势使Universal-1更具成本效益，这对于需要实时处理的应用(如语音助手)尤为重要。<br />《AssemblyAI Research | Building the world's leading Speech AI models》 <a href="https://www.assemblyai.com/research/universal-1"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoejd6b80tj218g0p0mzw.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoejd8sgjfj218g0p0dis.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoejdb3h4mj218g0p0wgo.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 01:20:59 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 01:20:59 GMT</pubDate>
+</item>
+<item>
+<title>【代号Lavender的AI“暗杀”系统：以色列AI军事应用引发伦理和道义拷问】- 以色列军方在加沙战争的前几周使用一个名为"Lavender"的AI机器，通过大规模监控收集的...</title>
+<link>https://weibo.com/1402400261/O87JkzOO5</link>
+<guid>https://weibo.com/1402400261/O87JkzOO5</guid>
+<content:encoded><![CDATA[
+<div> 以色列、AI军事应用、伦理、道义、暗杀系统、Lavender、加沙战争、目标选择、人道主义法、国际社会
+<br><br>总结:
+文章揭示了以色列在加沙战争中使用AI进行目标选择和暗杀的情况。以色列军方通过名为"Lavender"的AI系统，对加沙地区居民进行监控和评分，将大部分人列入涉嫌"哈马斯武装分子"的名单，严重违反国际人道主义法。另一个名为"Where’s Daddy?"的系统跟踪目标并向军方发出打击信号，故意攻击家庭住宅，展现了行动的残酷和不人道性。高级指挥官的言论暗示了以色列军方普遍使用人体目标AI的可能性，对此应引起国际社会高度关注和谴责。这种利用AI进行杀戮的做法对人工智能军事应用提出了监管挑战，国际社会需要建立规范，确保人工智能发展符合人道主义精神。 <div>
+【代号Lavender的AI“暗杀”系统：以色列AI军事应用引发伦理和道义拷问】<br />- 以色列军方在加沙战争的前几周使用一个名为"Lavender"的AI机器，通过大规模监控收集的信息，对加沙地带230万居民中的大多数人进行分析和评分，标记了大约37,000名巴勒斯坦人为涉嫌的"哈马斯武装分子"，大部分是初级成员，列入暗杀名单。   <br />- Lavender软件为加沙的几乎每个人给出1到100的评分，表示他们是哈马斯或巴勒斯坦伊斯兰圣战组织军事翼活跃分子的可能性。  <br />- 以色列军方还使用一个名为"Where’s Daddy?"的系统跟踪这些目标，并在他们进入家中时向军方发出信号。然后军方选择使用"哑弹"打击这些家庭住宅。  <br />- Lavender与以色列军方的另一个AI系统"The Gospel"不同，后者标记军方声称武装分子使用的建筑物和结构，而Lavender标记人并将其列入暗杀名单。  <br />- 以色列高级指挥官曾多次暗示像Lavender这样的人体目标机器的存在。一位8200部队数据科学和AI中心的指挥官在一次私人讲座中也提到了这一点。<br /><br />点评：  <br />- 这篇调查报道揭示了以色列在加沙战争中大规模使用AI进行目标选择和暗杀的惊人细节，引发了对高度自动化战争的伦理和法律问题的严重关切。  <br />- Lavender系统对平民进行大规模监控和评分，并将其列入暗杀名单，这种做法严重违反国际人道主义法，可能构成战争罪。它模糊了战斗人员和平民之间的界限，使平民处于极其危险的境地。  <br />- "Where’s Daddy?"系统跟踪目标并在其进入家中时发出打击信号，故意攻击家庭住宅，这进一步凸显了以色列军事行动的残酷性和不人道性。  <br />- 与标记建筑物的"The Gospel"系统不同，Lavender直接针对人，创建"杀戮名单"，这种做法更加令人不安，因为它赋予机器决定生死的权力。  <br />- 以色列高级指挥官关于人体目标AI的言论表明，这种做法在以色列军方中可能相当普遍，需要国际社会高度警惕和谴责。  <br />- 这种利用AI进行杀戮的做法，对人工智能军事应用的治理和监管提出了严峻挑战。国际社会亟需建立相关规范，防止AI武器化，确保人工智能的发展符合人道主义精神。<br />《‘Lavender’: The AI machine directing Israel’s bombing spree in Gaza》 <a href="https://www.972mag.com/lavender-ai-israeli-army-gaza/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoeiw7qd47j21at0u0aeu.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 01:09:19 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 01:09:19 GMT</pubDate>
+</item>
+
+<item>
 <title>#免费##抽奖# 携手@异步图书 送出3本《大语言模型：基础与前沿》，截至2024.4.12 12:00，*可可粉*转发+评论即可参与。本书全面且深入介绍了大语言模型及其前沿进...</title>
 <link>https://weibo.com/1402400261/O86TsEVJz</link>
 <guid>https://weibo.com/1402400261/O86TsEVJz</guid>
 <content:encoded><![CDATA[
 <div> 大语言模型、前沿、科学家、工程师、学生、案例、庖丁解牛、全面、深入、方法与工具
 
-总结:<br><br>文章介绍了一本名为《大语言模型：基础与前沿》的书籍，截至2024年4月12日，读者可以通过转发+评论参与送出3本这本书。这本书全面深入地介绍了大语言模型以及其前沿进展，适合所有需要了解这个领域或掌握这种方法与工具的科学家、工程师和学生参考。与纯理论的说教模式不同，这本书采用了从案例入手的方式，采用庖丁解牛的方法帮助读者理解和认识大语言模型。 <div>
+总结:<br /><br />文章介绍了一本名为《大语言模型：基础与前沿》的书籍，截至2024年4月12日，读者可以通过转发+评论参与送出3本这本书。这本书全面深入地介绍了大语言模型以及其前沿进展，适合所有需要了解这个领域或掌握这种方法与工具的科学家、工程师和学生参考。与纯理论的说教模式不同，这本书采用了从案例入手的方式，采用庖丁解牛的方法帮助读者理解和认识大语言模型。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%BC%82%E6%AD%A5%E5%9B%BE%E4%B9%A6">@异步图书</a>  送出3本《大语言模型：基础与前沿》，截至2024.4.12 12:00，*可可粉*转发+评论即可参与。本书全面且深入介绍了大语言模型及其前沿进展，适合所有需要了解这个领域或掌握这种方法与工具的科学家、工程师和学生参考。摒弃了纯理论的说教模式，从案例入手， 采用庖丁解牛的方式帮助读者理解与认识大语言模型。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5019331269755053"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoef8oboqij20ga0m8q8p.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoef9segl7j20m90m9q6z.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoef9t5km0j20m90m942f.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoef9tq2esj20m90m9gpe.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef9ugq5dj20m90m9dif.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 23:01:32 GMT</pubDate>
 <pubDate>Wed, 03 Apr 2024 23:01:32 GMT</pubDate>
 </item>
 <item>
@@ -24,11 +65,10 @@
 <content:encoded><![CDATA[
 <div> LangChain, LangServe, LangSmith, LLM, 初学者, 多个核心应用场景, LCEL, LangChain团队, 生成式人工智能, LangChain生态系统
 
-总结:<br>
+总结:<br />
 本文介绍了LangChain团队的新书《LangChain实战》，针对初学者和对LangChain应用感兴趣的开发者。书籍基于LangChain 0.1版本，配套详解视频，重点介绍了多个核心应用场景，并深入探讨了LCEL的应用方式。同时，书中详细探讨了LangChain、LangServe和LangSmith，帮助读者全面了解LangChain团队在生成式人工智能领域的布局。欢迎感兴趣的读者转发+评论参与活动，赢取精彩的实战书籍！ <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《LangChain实战》，截至2024.4.11 12:00，*可可粉*转发+评论即可参与。本书专为初学者和对LangChain应用及大语言模型（LLM）应用感兴趣的开发者而编写的，基于LangChain 0.1版本，配套600分钟详解视频，重点介绍了多个核心应用场景，并且深入探讨了LCEL的应用方式。同时，本书围绕LangChain生态系统的概念，详细探讨LangChain、LangServe和LangSmith，帮助读者全面了解LangChain团队在生成式人工智能领域的布局。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5019329879867805"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef5y7mh4j20m80m843w.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef5ywtixj20ku0zzdmx.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef60gn5cj20m80m80x0.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef61a08vj20m80m8wio.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef62eb09j20m80m8tdb.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 22:56:01 GMT</pubDate>
 <pubDate>Wed, 03 Apr 2024 22:56:01 GMT</pubDate>
 </item>
 <item>
@@ -38,11 +78,10 @@
 <content:encoded><![CDATA[
 <div> 潜扩散模型, 缩放特性, 语言模型, 对齐, 渐近性, 提示混合专家, 偏好树, 推理能力, 长上下文, 学习能力
 
-<br><br>总结:
+<br /><br />总结:
 本文讨论了潜扩散模型的缩放特性和语言模型对齐的渐近性。研究指出，面向高效LLM生成的提示混合专家可以提高LLM的推理能力。同时，通过偏好树的方法，可以进一步提高LLM的推理能力。长上下文LLM具有较强的长上下文学习能力，需要进行专门的评估。研究展示了这些模型在不同场景下的表现，为提高自然语言处理模型的性能提供了重要参考。 <div>
 今日推介(第1365期)：潜扩散模型的缩放特性、语言模型对齐的渐近性、面向高效LLM生成的提示混合专家、用偏好树提高LLM推理能力、长上下文LLM的长上下文学习能力评估 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/690674008"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoeejddux9j21ao0pi79e.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoeejff0r5j20wg0u042g.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoeejixv1qj21hi0rmgpq.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoeejlnscej20x00oo0w5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoeejqx22gj21hc0qswlh.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 22:33:57 GMT</pubDate>
 <pubDate>Wed, 03 Apr 2024 22:33:57 GMT</pubDate>
 </item>
 <item>
@@ -52,11 +91,10 @@
 <content:encoded><![CDATA[
 <div> 关键词: ViTamin, 视觉语言模型, 可拓展性, 下游任务迁移, 混合网络, 卷积, Transformer
 
-总结:<br><br>
+总结:<br /><br />
 本文重新评估了视觉语言模型的设计，提出了混合网络ViTamin，结合了卷积和Transformer，实现了比ViT更好的可拓展性和下游任务迁移。ViTamin的设计在视觉语言领域具有重要意义，为改善模型性能和应用提供了新的思路。ViTamin的融合设计使其能够更好地理解图像和语言之间的关系，为解决视觉与语言结合的挑战提供了一种创新的方法。混合网络的设计不仅提高了模型在不同任务上的表现，还为未来的研究和应用奠定了基础。这项研究为视觉语言模型的发展和优化提供了有益的启示，为相关领域的进一步探索和创新指明了方向。ViTamin的成功应用证明了混合网络在视觉与语言结合中的潜力，为未来的研究和应用带来了新的可能性。ViTamin的提出对视觉与语言模型的发展具有重要的理论和实际意义，为构建更加智能和有效的视觉语言系统奠定了基础。 <div>
 [CV] ViTamin: Designing Scalable Vision Models in the Vision-Language Era  <br /><a href="https://arxiv.org/abs/2404.02132"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />通过重新评估视觉语言模型的视觉后骨干设计，提出了一种融合卷积和Transformer的混合网络ViTamin，实现了比ViT更好的可拓展性和下游任务迁移。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoee611zmpj212m1aqh6x.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoee61avepj21cy16i4e9.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoee61nvddj21de0okn69.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 03 Apr 2024 22:20:48 GMT</pubDate>
 <pubDate>Wed, 03 Apr 2024 22:20:48 GMT</pubDate>
 </item>
 <item>
@@ -64,16 +102,14 @@
 <link>https://weibo.com/1402400261/O86zqaJ9s</link>
 <guid>https://weibo.com/1402400261/O86zqaJ9s</guid>
 <content:encoded><![CDATA[
-<div> 3DGS合成、立体视图、立体匹配、表面重建、质量、速度、神经重建<br>
-<br>
-总结:<br>
+<div> 3DGS合成、立体视图、立体匹配、表面重建、质量、速度、神经重建<br />
+<br />
+总结:<br />
 本研究提出了一种通过3DGS合成立体视图并进行立体匹配来获取深度的表面重建方法。与仅基于3DGS的方法相比，该方法重建质量更高，而且速度也要快得多，超越了复杂的神经重建方法。通过这种创新方法，可以更有效地重建物体的表面结构，为三维重建领域的进展带来了新的可能性。 <div>
 [CV] Surface Reconstruction from Gaussian Splatting via Novel Stereo Views  <br /><a href="https://arxiv.org/abs/2404.01810"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />提出通过3DGS合成立体视图并立体匹配获取深度的表面重建方法，使重建质量超过仅基于3DGS的方法，速度也远快于复杂的神经重建。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoedwz5a6rj20s816kn8d.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoedwzkmn3j21380la0zd.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoedx0a70pj213a19i7ei.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 03 Apr 2024 22:12:09 GMT</pubDate>
-<pubDate>Wed, 03 Apr 2024 22:12:09 GMT</pubDate>
 </item>
-
 <item>
 <title>[LG] Are large language models superhuman chemists? 网页链接 提出ChemBench化学基准测试，发现前沿大语言模型整体超过人类专家，但在化学推理和安全评估方面...</title>
 <link>https://weibo.com/1402400261/O86umebTC</link>
