@@ -2957,3 +2957,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O83v4fLvf)
 append_entries: 0
 Finish: 2024-04-03 22:09:59.342021
+------------------------------------------------------
+Started: 2024-04-04 00:51:12.912015
+Existing_entries: 482
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [[LG] Are large language models superhuman chemists? 网页链接 提出ChemBench化学基准测试，发现前沿大语言模型整体超过人类专家，但在化学推理和安全评估方面...](https://weibo.com/1402400261/O86umebTC)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [[CL] Octopus v2: On-device language model for super agent 网页链接 提出了一种通过为每个函数指定唯一标记并进行微调的方法，使20亿参数的在设备语言模型在...](https://weibo.com/1402400261/O86rNDTtw)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [通过构建长文本上下文学习基准LongICLBench，比较多种语言模型的能力，发现当前模型在复杂场景下理解长文本仍面临困难。 - 转发 @爱可可-爱生活:&ensp;[CL]《Lon...](https://weibo.com/1402400261/O86pp4qkN)
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Long-context LLMs Struggle with Long In-context Learning》T Li, G Zhang, Q D Do, X Yue, W Chen [University of Waterloo] (2024) 网页链接 #机器学...](https://weibo.com/1402400261/O86pmeO8M)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [通过高质量对齐数据ULTRAINTERACT与定制化的模型优化策略，开发出目前开源环境下推理能力最强的大规模语言模型EURUS。 - 转发 @爱可可-爱生活:&ensp;[CL]《Advan...](https://weibo.com/1402400261/O86lPhdtz)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Advancing LLM Reasoning Generalists with Preference Trees》L Yuan, G Cui, H Wang, N Ding... [Tsinghua University & Northeastern University] (202...](https://weibo.com/1402400261/O86lMeoTl)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [GRIFFIN利用预训练语言模型自身结构特点简单有效地实现了混合专家，大幅减少了计算成本和内存需求，为部署加速提供了灵活高效的新途径。 - 转发 @爱可可-爱生活:...](https://weibo.com/1402400261/O86gFr9eO)
+Token length: 106
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Prompt-prompted Mixture of Experts for Efficient LLM Generation》H Dong, B Chen, Y Chi [CMU] (2024) 网页链接 #机器学习##人工智能##论文# [图片][...](https://weibo.com/1402400261/O86gyEnxx)
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [在简单假设下，证明best-of-N对齐方法渐进等价于最优KL约束强化学习解，从理论上解释了其优异的实际表现。 - 转发 @爱可可-爱生活:&ensp;[LG]《Asymptotics of L...](https://weibo.com/1402400261/O86breDei)
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Asymptotics of Language Model Alignment》J Q Yang, S Salamatian, Z Sun, A T Suresh, A Beirami [University of Sydney & MIT & Google Research] (20...](https://weibo.com/1402400261/O86bpwyeM)
+append_entries: 10
+Finish: 2024-04-04 00:51:41.764683
