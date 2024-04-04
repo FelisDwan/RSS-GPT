@@ -5,17 +5,147 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>几篇论文实现代码：《Readout Guidance: Learning Control from Diffusion Features》(CVPR 2024) GitHub: github.com/google-research/readout_guidance《COMO:...</title>
+<link>https://weibo.com/1402400261/O89B424n4</link>
+<guid>https://weibo.com/1402400261/O89B424n4</guid>
+<content:encoded><![CDATA[
+<div> readout guidance, learning control, diffusion features, CVPR 2024, GitHub, code implementation, COMO, compact mapping, odometry, Exploiting Diffusion Prior, generalizable dense prediction, Jailbreaking Leading Safety-Aligned LLMs, simple adaptive attacks, Sparse Feature Circuits, interpretable causal graphs, Long-context LLMs, in-context learning, SciMMIR, scientific multi-modal information retrieval, T-GATE, text-to-image diffusion models, LightM-UNet, medical image segmentation, AniPortrait, audio-driven portrait animations
+
+总结:<br><br>这篇论文介绍了几篇在CVPR 2024会议上发表的论文实现代码的GitHub地址，涉及到了各种领域的计算机视觉研究成果。具体包括了对控制学习的提升、紧凑型地图制作和测距技术、利用扩散先验进行密集预测、对语言模型的攻击与编辑、长上下文学习时间过长、科学多模态信息检索、文本-图片扩散模型的推理难点、医学图像分割轻量级UNet模型以及音频驱动的逼真肖像动画合成等方面的研究。这些工作为各领域研究提供了重要的工具和基础模型，推动了计算机视觉领域的进步。 <div>
+几篇论文实现代码：<br />《Readout Guidance: Learning Control from Diffusion Features》(CVPR 2024) GitHub: github.com/google-research/readout_guidance<br />《COMO: Compact Mapping and Odometry》(CVPR 2024) GitHub: github.com/edexheim/como<br />《Exploiting Diffusion Prior for Generalizable Dense Prediction》(CVPR 2024) GitHub: github.com/shinying/dmp<br />《Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks》(2024) GitHub: github.com/tml-epfl/llm-adaptive-attacks<br />《Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models》(2024) GitHub: github.com/saprmarks/feature-circuits<br />《Long-context LLMs Struggle with Long In-context Learning》(2024) GitHub: github.com/TIGER-AI-Lab/LongICLBench<br />《SciMMIR： Benchmarking Scientific Multi-modal Information Retrieval》(2024) GitHub: github.com/Wusiwei0410/SciMMIR [fig1]<br />《T-GATE: Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models》(2024) GitHub: github.com/HaozheLiu-ST/T-GATE [fig2]<br />《LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation》(2024) GitHub: github.com/MrBlankness/LightM-UNet<br />《AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations》(2024) GitHub: github.com/Blizaine/AniPortrait [fig3]<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoepawlkxqj20ra0cv13q.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoepvk3i3fj24ct1xk1l4.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoer3jpmafj214y0sddtp.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 05:54:26 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 05:54:26 GMT</pubDate>
+</item>
+<item>
+<title>【RAG Arena：基于 Next.js 和 LangChain 的开源聊天机器人项目，提供了一种接受多个响应的查询体验】'RAG Arena - RAG Arena is an open-source Next.js projec...</title>
+<link>https://weibo.com/1402400261/O89Al8eSF</link>
+<guid>https://weibo.com/1402400261/O89Al8eSF</guid>
+<content:encoded><![CDATA[
+<div> Next.js, LangChain, 开源项目, 聊天机器人, 查询体验, 多个响应, 用户投票, 数据检索方法, GitHub
+
+<br><br>总结:
+RAG Arena 是 Mendable.ai 开发的基于 Next.js 和 LangChain 的开源项目，与 LangChain 接口交互，提供了一种 RAG 聊天机器人体验，查询可以接收多个响应。用户可以对这些响应进行投票，然后解除模糊以展示被使用的检索器，通过不同的数据检索方法来区分聊天机器人。GitHub 上有相关的项目链接。 <div>
+【RAG Arena：基于 Next.js 和 LangChain 的开源聊天机器人项目，提供了一种接受多个响应的查询体验】'RAG Arena - RAG Arena is an open-source Next.js project made by Mendable.ai that interfaces with LangChain to provide a RAG chatbot experience where queries receive multiple responses. Users vote on these responses, which are then unblurred to reveal the Retriever used, differentiating the chatbots by their data retrieval methods.' GitHub: github.com/mendableai/rag-arena <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoer87quqnj21740kg787.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 05:52:39 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 05:52:39 GMT</pubDate>
+</item>
+<item>
+<title>【L7VP：地理空间智能可视分析和应用开发工具】'L7VP - L7VP is an geospatial intelligent visual analysis and application development tools.' GitHub: gith...</title>
+<link>https://weibo.com/1402400261/O89xd5vnp</link>
+<guid>https://weibo.com/1402400261/O89xd5vnp</guid>
+<content:encoded><![CDATA[
+<div> 地理空间、智能、可视分析、应用开发工具、L7VP、GitHub、antvis、README、开发、工具
+
+总结:<br><br>文章介绍了一款名为L7VP的地理空间智能可视分析和应用开发工具，可在GitHub上找到相关信息。该工具提供了智能的地理空间数据分析和可视化功能，方便开发人员进行应用开发和数据分析。用户可以通过GitHub上的README文件了解更多关于L7VP工具的详情。 <div>
+【L7VP：地理空间智能可视分析和应用开发工具】'L7VP - L7VP is an geospatial intelligent visual analysis and application development tools.' GitHub: github.com/antvis/L7VP?tab=readme-ov-file <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoer07278bj21hc0u00y8.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 05:44:57 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 05:44:57 GMT</pubDate>
+</item>
+<item>
+<title>【Praison AI：将 AutoGen 和 CrewAI 或类似框架集成到一个低代码解决方案中，用于构建和管理多智能体 LLM 系统，重点放在简单性、定制化和高效人机协同上】'Pra...</title>
+<link>https://weibo.com/1402400261/O89wKk5UU</link>
+<guid>https://weibo.com/1402400261/O89wKk5UU</guid>
+<content:encoded><![CDATA[
+<div> AutoGen,CrewAI,多智能体,LLM系统,低代码解决方案,简单性,定制化,高效人机协同,PraisonAI,GitHub <br>
+<br>
+总结:<br>
+Praison AI是一个整合了AutoGen和CrewAI等框架的低代码解决方案，用于构建和管理多智能体LLM系统。该解决方案专注于提供简单、定制化和高效的人机协同体验。开发者可以通过PraisonAI快速搭建和管理多智能体系统，从而实现更高效的工作流程和协作模式。感兴趣的用户可以在GitHub上找到PraisonAI的源代码和更多信息。 <div>
+【Praison AI：将 AutoGen 和 CrewAI 或类似框架集成到一个低代码解决方案中，用于构建和管理多智能体 LLM 系统，重点放在简单性、定制化和高效人机协同上】'Praison AI - PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.' GitHub: github.com/MervinPraison/PraisonAI <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoeqz07r47j21740hudip.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 05:43:48 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 05:43:48 GMT</pubDate>
+</item>
+<item>
+<title>【RunsOn: 自建 GitHub Action 运行器，提供更便宜、更快的 CI/CD 体验】’RunsOn: 10x cheaper GitHub Action runners. - 10x cheaper GitHub Action runners. ...</title>
+<link>https://weibo.com/1402400261/O89vx5PAn</link>
+<guid>https://weibo.com/1402400261/O89vx5PAn</guid>
+<content:encoded><![CDATA[
+<div> RunsOn, 自建 GitHub Action 运行器, 更便宜, 更快, CI/CD, 体验, GitHub Action runners, caches, On premise.<br><br>总结: RunsOn 是一个提供更便宜、更快的自建 GitHub Action 运行器的平台，可以提供10倍更便宜的 GitHub Action runners 和5倍更快的缓存服务，用户可以在本地部署该平台以获得更优秀的 CI/CD 体验。GitHub 地址为github.com/runs-on/runs-on。 <div>
+【RunsOn: 自建 GitHub Action 运行器，提供更便宜、更快的 CI/CD 体验】’RunsOn: 10x cheaper GitHub Action runners. - 10x cheaper GitHub Action runners. 5x faster caches. On premise.' GitHub: github.com/runs-on/runs-on <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoeqvvz33aj20v80u0n1q.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 05:40:49 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 05:40:49 GMT</pubDate>
+</item>
+<item>
+<title>【AURORA：免费的GPT3.5 API】’AURORA' GitHub: github.com/aurora-develop/aurora #开源# #机器学习# #人工智能#</title>
+<link>https://weibo.com/1402400261/O89uMw7en</link>
+<guid>https://weibo.com/1402400261/O89uMw7en</guid>
+<content:encoded><![CDATA[
+<div> GitHub, AURORA, 免费, GPT3.5, API
+
+<br><br>总结:
+AURORA是一个提供免费的GPT3.5 API的开源项目，可通过GitHub进行访问和使用。该API能够帮助开发者快速开发语言处理和生成任务，为用户提供便利。 <div>
+【AURORA：免费的GPT3.5 API】’AURORA' GitHub: github.com/aurora-develop/aurora <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a>
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 05:38:58 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 05:38:58 GMT</pubDate>
+</item>
+<item>
+<title>【Gazelle：名为 Gazelle 的语音和语言联合模型，可直接响应音频】'Gazelle - Joint Speech Language Model - Joint speech-language model - respond directly ...</title>
+<link>https://weibo.com/1402400261/O89ujjcYX</link>
+<guid>https://weibo.com/1402400261/O89ujjcYX</guid>
+<content:encoded><![CDATA[
+<div> 语音和语言联合模型、Gazelle、GitHub、直接响应音频、联合模型、模型、语音、语言、音频
+
+总结:<br><br>这篇文章介绍了一种名为Gazelle的语音和语言联合模型，能够直接响应音频输入。该模型已在GitHub上开源，能够有效处理语音和语言任务，提供更加智能的交互体验。Gazelle模型的特点在于能够联合处理语音和语言信息，实现更高效的响应和交互能力。通过GitHub链接，用户可以了解和使用这一先进的模型技术。 <div>
+【Gazelle：名为 Gazelle 的语音和语言联合模型，可直接响应音频】'Gazelle - Joint Speech Language Model - Joint speech-language model - respond directly to audio!' GitHub: github.com/tincans-ai/gazelle <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoeqsrsj7ej20u0128q77.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 05:37:48 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 05:37:48 GMT</pubDate>
+</item>
+<item>
+<title>【DOOM Mistral：用Mistral-7B模型利用 ViZDoom 引擎通过视觉输入玩 DOOM】'DOOM Mistral - Mistral7B playing DOOM' GitHub: github.com/umuthopeyildirim/DOOM...</title>
+<link>https://weibo.com/1402400261/O89sEoRqI</link>
+<guid>https://weibo.com/1402400261/O89sEoRqI</guid>
+<content:encoded><![CDATA[
+<div> ViZDoom、Mistral-7B、DOOM、GitHub、视觉输入、引擎、玩、模型
+
+DOOM Mistral项目使用Mistral-7B模型结合ViZDoom引擎，通过视觉输入来玩DOOM游戏。项目代码可在GitHub上找到。这个项目展示了如何利用AI模型和游戏引擎结合，实现视觉输入下的游戏玩法。 <div>
+【DOOM Mistral：用Mistral-7B模型利用 ViZDoom 引擎通过视觉输入玩 DOOM】'DOOM Mistral - Mistral7B playing DOOM' GitHub: github.com/umuthopeyildirim/DOOM-Mistral <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoeqoi1tgoj20tg0r80vl.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 05:33:43 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 05:33:43 GMT</pubDate>
+</item>
+<item>
+<title>【Multi Modal Starter Kit：多模态启动包，支持视频理解和叙述】'Multi Modal Starter Kit - Multi-modal starter kit for AI video understanding and narrati...</title>
+<link>https://weibo.com/1402400261/O89johygh</link>
+<guid>https://weibo.com/1402400261/O89johygh</guid>
+<content:encoded><![CDATA[
+<div> 视频理解、叙述、多模态启动包、AI、Ollama、Llava、bakllava、GPT-4v、GitHub、tigrisdata-community<br>
+<br>
+AI视频理解和叙述的多模态启动包，支持Ollama、GPT-4v等工具的使用。用户可访问GitHub上的项目链接获取相关资源。 <div>
+【Multi Modal Starter Kit：多模态启动包，支持视频理解和叙述】'Multi Modal Starter Kit - Multi-modal starter kit for AI video understanding and narration. Works with Ollama (Llava, bakllava), GPT-4v' GitHub: github.com/tigrisdata-community/multi-modal-starter-kit <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoeq0rtvegj214b0u0dk9.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 05:10:54 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 05:10:54 GMT</pubDate>
+</item>
+<item>
+<title>【Search4All：开源版Perplexity，基于 LLM 和搜索引擎构建的平台，具有可定制且美观的界面，支持共享缓存搜索结果】’Search4All - Open source version of Per...</title>
+<link>https://weibo.com/1402400261/O89iJc55p</link>
+<guid>https://weibo.com/1402400261/O89iJc55p</guid>
+<content:encoded><![CDATA[
+<div> 开源版Perplexity，LLM，搜索引擎，平台，界面定制，搜索结果共享，GitHub，AI搜索引擎，可定制美观界面<br>
+<br>搜索4All是一个基于LLM和搜索引擎构建的平台，旨在提供开源版本的Perplexity，用户可以定制美观界面，并支持共享缓存搜索结果。该项目已在GitHub上发布，用户可以在github.com/fatwang2/search4all上找到相关信息。这个AI搜索引擎平台提供了一种新的搜索体验，用户可以根据自己的需求定制界面风格，并享受到共享搜索结果的便利性。 <div>
+【Search4All：开源版Perplexity，基于 LLM 和搜索引擎构建的平台，具有可定制且美观的界面，支持共享缓存搜索结果】’Search4All - Open source version of Perplexity, your own AI search engine' GitHub: github.com/fatwang2/search4all <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoepz1euaqj212o0u0tcv.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 05:09:16 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 05:09:16 GMT</pubDate>
+</item>
+
+<item>
 <title>【只需250美元的低成本开源机械臂】- 可以建造第二个机械臂(领航者臂)来控制另一个臂(跟随者臂)。领航者臂的设计参考GELLO项目但更简单。这种机械臂非常适合机器...</title>
 <link>https://weibo.com/1402400261/O88jYlBat</link>
 <guid>https://weibo.com/1402400261/O88jYlBat</guid>
 <content:encoded><![CDATA[
-<div> 开源机械臂、低成本、第二个机械臂、领航者臂、跟随者臂、Dynamixel电机、机器人学习、部件购买链接、3D打印文件、衣服折叠。<br>
-<br>
-总结:<br>
+<div> 开源机械臂、低成本、第二个机械臂、领航者臂、跟随者臂、Dynamixel电机、机器人学习、部件购买链接、3D打印文件、衣服折叠。<br />
+<br />
+总结:<br />
 这篇文章介绍了一种低成本开源机械臂，可以建造第二个机械臂来控制另一个臂。其中采用了Dynamixel XL430和XL330舵机电机，通过Dynamixel SDK控制。作者提供了详细的部件购买链接、装配视频、3D打印文件和组装说明，使读者能够复现这个机械臂。该机械臂适合机器人学习和低成本机器人应用研究，作者演示了机械臂可以折叠衣服，展示了其潜力和价值。 <div>
 【只需250美元的低成本开源机械臂】<br />- 可以建造第二个机械臂(领航者臂)来控制另一个臂(跟随者臂)。领航者臂的设计参考GELLO项目但更简单。这种机械臂非常适合机器人学习。   <br />- 该机械臂使用Dynamixel XL430和XL330舵机电机。XL430电机近乎是XL330的两倍强力，用于前两个关节。XL330电机较弱但每个只重18克，使臂非常轻巧和快速。   <br />- 手臂可以通过Dynamixel SDK控制：pip install dynamixel-sdk。提供了一个简单的遥控脚本teleoperation.py来测试机械臂，可能需要调整设备名称。   <br />- 仓库提供了详细的部件购买链接、装配视频、3D打印文件、组装说明，可以让读者复现这个低成本机械臂。   <br />- 作者演示了两个这样的臂可以折叠衣服。该项目对于机器人学习和低成本机器人应用研究具有价值。<br />’$250 Robot Arm' GitHub: github.com/AlexanderKoch-Koch/low_cost_robot <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoeln98w8ij21400u041c.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Thu, 04 Apr 2024 02:39:35 GMT</pubDate>
 <pubDate>Thu, 04 Apr 2024 02:39:35 GMT</pubDate>
 </item>
 <item>
@@ -25,14 +155,12 @@
 <content:encoded><![CDATA[
 <div> 大型语言模型、解释、基本原理、通俗、数学、术语、讲解
 
-<br><br>总结:
+<br /><br />总结:
 本文通俗易懂地解释了大型语言模型的基本原理，避免涉及过多数学和专业术语。大型语言模型是指可以处理大量语言数据的模型，通过学习语言规则和模式来生成文本。它们通过巨大的数据集来训练，逐渐提升预测和生成文本的能力。大型语言模型的发展对自然语言处理和人工智能领域具有重要意义，未来有望应用于各种场景中。 <div>
 【LLM入门：不涉及太多数学和术语的LLM基本原理通俗讲解】《Large language models, explained with a minimum of math and jargon》 <a href="https://www.understandingai.org/p/large-language-models-explained-with"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoekqyz080j214g0pbtc7.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoekr2g625j214g0lnjv5.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Thu, 04 Apr 2024 02:08:40 GMT</pubDate>
-<pubDate>Thu, 04 Apr 2024 02:08:40 GMT</pubDate>
 </item>
-
 <item>
 <title>【LLM“红队”课程：教你如何测试和发现LLM应用中的漏洞，以使其更安全。通过提示注入攻击各种聊天机器人应用，看系统如何反应，理解安全失败。LLM失败会导致法...</title>
 <link>https://weibo.com/1402400261/O87ROztmK</link>

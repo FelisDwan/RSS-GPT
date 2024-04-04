@@ -3041,3 +3041,39 @@ Summarized using GPT-3.5-turbo
 Append: [【LLM入门：不涉及太多数学和术语的LLM基本原理通俗讲解】《Large language models, explained with a minimum of math and jargon》 网页链接 #机器学习# #人工...](https://weibo.com/1402400261/O887qiGgi)
 append_entries: 2
 Finish: 2024-04-04 06:14:32.523077
+------------------------------------------------------
+Started: 2024-04-04 08:15:06.928313
+Existing_entries: 502
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1216
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Readout Guidance: Learning Control from Diffusion Features》(CVPR 2024) GitHub: github.com/google-research/readout_guidance《COMO:...](https://weibo.com/1402400261/O89B424n4)
+Token length: 439
+Summarized using GPT-3.5-turbo
+Append: [【RAG Arena：基于 Next.js 和 LangChain 的开源聊天机器人项目，提供了一种接受多个响应的查询体验】'RAG Arena - RAG Arena is an open-source Next.js projec...](https://weibo.com/1402400261/O89Al8eSF)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [【L7VP：地理空间智能可视分析和应用开发工具】'L7VP - L7VP is an geospatial intelligent visual analysis and application development tools.' GitHub: gith...](https://weibo.com/1402400261/O89xd5vnp)
+Token length: 377
+Summarized using GPT-3.5-turbo
+Append: [【Praison AI：将 AutoGen 和 CrewAI 或类似框架集成到一个低代码解决方案中，用于构建和管理多智能体 LLM 系统，重点放在简单性、定制化和高效人机协同上】'Pra...](https://weibo.com/1402400261/O89wKk5UU)
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [【RunsOn: 自建 GitHub Action 运行器，提供更便宜、更快的 CI/CD 体验】’RunsOn: 10x cheaper GitHub Action runners. - 10x cheaper GitHub Action runners. ...](https://weibo.com/1402400261/O89vx5PAn)
+Token length: 74
+Summarized using GPT-3.5-turbo
+Append: [【AURORA：免费的GPT3.5 API】’AURORA' GitHub: github.com/aurora-develop/aurora #开源# #机器学习# #人工智能#](https://weibo.com/1402400261/O89uMw7en)
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [【Gazelle：名为 Gazelle 的语音和语言联合模型，可直接响应音频】'Gazelle - Joint Speech Language Model - Joint speech-language model - respond directly ...](https://weibo.com/1402400261/O89ujjcYX)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [【DOOM Mistral：用Mistral-7B模型利用 ViZDoom 引擎通过视觉输入玩 DOOM】'DOOM Mistral - Mistral7B playing DOOM' GitHub: github.com/umuthopeyildirim/DOOM...](https://weibo.com/1402400261/O89sEoRqI)
+Token length: 246
+Summarized using GPT-3.5-turbo
+Append: [【Multi Modal Starter Kit：多模态启动包，支持视频理解和叙述】'Multi Modal Starter Kit - Multi-modal starter kit for AI video understanding and narrati...](https://weibo.com/1402400261/O89johygh)
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [【Search4All：开源版Perplexity，基于 LLM 和搜索引擎构建的平台，具有可定制且美观的界面，支持共享缓存搜索结果】’Search4All - Open source version of Per...](https://weibo.com/1402400261/O89iJc55p)
+append_entries: 10
+Finish: 2024-04-04 08:15:38.213143
