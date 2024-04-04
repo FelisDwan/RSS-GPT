@@ -3077,3 +3077,9 @@ Summarized using GPT-3.5-turbo
 Append: [【Search4All：开源版Perplexity，基于 LLM 和搜索引擎构建的平台，具有可定制且美观的界面，支持共享缓存搜索结果】’Search4All - Open source version of Per...](https://weibo.com/1402400261/O89iJc55p)
 append_entries: 10
 Finish: 2024-04-04 08:15:38.213143
+------------------------------------------------------
+Started: 2024-04-04 10:11:35.977562
+Existing_entries: 512
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-04 10:11:36.066998
