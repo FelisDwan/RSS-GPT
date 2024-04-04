@@ -2141,3 +2141,21 @@ Existing_entries: 243
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-04 04:15:10.915086
+------------------------------------------------------
+Started: 2024-04-04 06:14:08.494708
+Existing_entries: 243
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 383
+Summarized using GPT-3.5-turbo
+Append: [Fusion Fund创始合伙人，斯坦福大学客座讲师张璐 确认参与 #中国AIGC产业峰会# ！张璐，Fusion Fund 创始合伙人，硅谷知名投资人、连续成功创业者，毕业于斯坦福...](https://weibo.com/6105753431/O89yLBhyS)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [#英伟达免费AI新课爆火# 不用199，也不用9.9，英伟达黄院士免费给大伙儿送AI课了！从数据科学到深度学习，再到生成式AI，全都有免费课程上新，且不少课入门小白...](https://weibo.com/6105753431/O89c4sfWp)
+Token length: 260
+Summarized using GPT-3.5-turbo
+Append: [#AIGC还是二刺猿会玩# 原来现在的二刺猿都是这样玩的——AIGC辅助下，0绘画基础也能轻松捏崽展开幻想，没有喜欢的角色粮，根本没在怕的！青山刚昌28年没有让《名...](https://weibo.com/6105753431/O890LwGbC)
+Token length: 270
+Summarized using GPT-3.5-turbo
+Append: [#弱智吧竟成最佳中文AI训练数据#离大谱了，弱智吧登上正经AI论文，还成了最好的中文训练数据？？具体来说，使用弱智吧数据训练的大模型，跑分超过百科、知乎、豆...](https://weibo.com/6105753431/O88SolZu1)
+append_entries: 4
+Finish: 2024-04-04 06:14:22.369827

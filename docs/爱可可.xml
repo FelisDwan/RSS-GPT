@@ -5,17 +5,45 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>【只需250美元的低成本开源机械臂】- 可以建造第二个机械臂(领航者臂)来控制另一个臂(跟随者臂)。领航者臂的设计参考GELLO项目但更简单。这种机械臂非常适合机器...</title>
+<link>https://weibo.com/1402400261/O88jYlBat</link>
+<guid>https://weibo.com/1402400261/O88jYlBat</guid>
+<content:encoded><![CDATA[
+<div> 开源机械臂、低成本、第二个机械臂、领航者臂、跟随者臂、Dynamixel电机、机器人学习、部件购买链接、3D打印文件、衣服折叠。<br>
+<br>
+总结:<br>
+这篇文章介绍了一种低成本开源机械臂，可以建造第二个机械臂来控制另一个臂。其中采用了Dynamixel XL430和XL330舵机电机，通过Dynamixel SDK控制。作者提供了详细的部件购买链接、装配视频、3D打印文件和组装说明，使读者能够复现这个机械臂。该机械臂适合机器人学习和低成本机器人应用研究，作者演示了机械臂可以折叠衣服，展示了其潜力和价值。 <div>
+【只需250美元的低成本开源机械臂】<br />- 可以建造第二个机械臂(领航者臂)来控制另一个臂(跟随者臂)。领航者臂的设计参考GELLO项目但更简单。这种机械臂非常适合机器人学习。   <br />- 该机械臂使用Dynamixel XL430和XL330舵机电机。XL430电机近乎是XL330的两倍强力，用于前两个关节。XL330电机较弱但每个只重18克，使臂非常轻巧和快速。   <br />- 手臂可以通过Dynamixel SDK控制：pip install dynamixel-sdk。提供了一个简单的遥控脚本teleoperation.py来测试机械臂，可能需要调整设备名称。   <br />- 仓库提供了详细的部件购买链接、装配视频、3D打印文件、组装说明，可以让读者复现这个低成本机械臂。   <br />- 作者演示了两个这样的臂可以折叠衣服。该项目对于机器人学习和低成本机器人应用研究具有价值。<br />’$250 Robot Arm' GitHub: github.com/AlexanderKoch-Koch/low_cost_robot <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoeln98w8ij21400u041c.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 02:39:35 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 02:39:35 GMT</pubDate>
+</item>
+<item>
+<title>【LLM入门：不涉及太多数学和术语的LLM基本原理通俗讲解】《Large language models, explained with a minimum of math and jargon》 网页链接 #机器学习# #人工...</title>
+<link>https://weibo.com/1402400261/O887qiGgi</link>
+<guid>https://weibo.com/1402400261/O887qiGgi</guid>
+<content:encoded><![CDATA[
+<div> 大型语言模型、解释、基本原理、通俗、数学、术语、讲解
+
+<br><br>总结:
+本文通俗易懂地解释了大型语言模型的基本原理，避免涉及过多数学和专业术语。大型语言模型是指可以处理大量语言数据的模型，通过学习语言规则和模式来生成文本。它们通过巨大的数据集来训练，逐渐提升预测和生成文本的能力。大型语言模型的发展对自然语言处理和人工智能领域具有重要意义，未来有望应用于各种场景中。 <div>
+【LLM入门：不涉及太多数学和术语的LLM基本原理通俗讲解】《Large language models, explained with a minimum of math and jargon》 <a href="https://www.understandingai.org/p/large-language-models-explained-with"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoekqyz080j214g0pbtc7.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoekr2g625j214g0lnjv5.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 02:08:40 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 02:08:40 GMT</pubDate>
+</item>
+
+<item>
 <title>【LLM“红队”课程：教你如何测试和发现LLM应用中的漏洞，以使其更安全。通过提示注入攻击各种聊天机器人应用，看系统如何反应，理解安全失败。LLM失败会导致法...</title>
 <link>https://weibo.com/1402400261/O87ROztmK</link>
 <guid>https://weibo.com/1402400261/O87ROztmK</guid>
 <content:encoded><![CDATA[
 <div> 红队、LLM应用、漏洞、安全、注入攻击、系统反应、安全失败、法律责任、声誉损害、服务中断
-<br>
-<br>
+<br />
+<br />
 总结：本文介绍了一门关于“红队”测试LLM应用的课程，通过教授如何测试和发现应用中的漏洞，从而使其更安全。课程内容包括提示注入攻击各种聊天机器人应用，观察系统反应并理解安全失败的原因。强调LLM应用的失败可能导致法律责任、声誉损害和高昂的服务中断，因此学习如何积极测试、攻击和改进LLM应用的健壮性至关重要。通过本课程，学习者可以提升安全意识，提高对应用漏洞的识别和应对能力。 <div>
 【LLM“红队”课程：教你如何测试和发现LLM应用中的漏洞，以使其更安全。通过提示注入攻击各种聊天机器人应用，看系统如何反应，理解安全失败。LLM失败会导致法律责任、声誉损害和代价高昂的服务中断。该课程帮助你积极测试、攻击和改进LLM应用的健壮性】《Red Teaming LLM Applications - DeepLearning.AI》 <a href="https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/?hss_channel=tw-992153930095251456"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoejn3p2y6j20u00w20w8.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Thu, 04 Apr 2024 01:30:13 GMT</pubDate>
 <pubDate>Thu, 04 Apr 2024 01:30:13 GMT</pubDate>
 </item>
 <item>
@@ -25,11 +53,10 @@
 <content:encoded><![CDATA[
 <div> AssemblyAI, Universal-1, 语音识别, ASR, 性能, 鲁棒性, 用户偏好测试, 代码转换, 时间戳, 鲁棒性, 推理速度
 
-<br><br>总结:
+<br /><br />总结:
 AssemblyAI发布了Universal-1新语音识别模型，展现出优异性能和鲁棒性。在用户偏好测试中，大多数用户更喜欢Universal-1。Universal-1具有代码转换能力，可转录多种语言。精准估计单词级时间戳，适用于音视频编辑和会话分析。在多个数据集中性能表现优异，特别是在电话和嘈杂环境中。推理速度优于其他模型，有助于实时处理应用。在各方面的表现证明了AssemblyAI在语音识别领域的实力，将推动语音AI在各行业应用。用户偏好、代码转换、时间戳精准度、鲁棒性和推理速度等方面都展示了Universal-1的优势，提升了其实用性和适用性。 <div>
 【代码转换+精准时间戳：Universal-1树立语音AI新标杆】  <br />- AssemblyAI发布了一个名为Universal-1的新语音识别(ASR)模型，在多个测试场景中展现出优异的性能和鲁棒性。  <br />- 在用户偏好测试中，71%的用户更喜欢Universal-1的输出，而不是AssemblyAI之前的Conformer-2模型。  <br />- Universal-1展现出了在单个音频文件中转录多种语言的能力，即代码转换能力。  <br />- Universal-1能够精确估计单词级别的时间戳，这对于音视频编辑和会话分析等下游应用至关重要。  <br />- 在11个数据集中的5个上，Universal-1的单词错误率(WER)最低，在电话和嘈杂等声学挑战性环境中表现出强大的鲁棒性。它比Conformer-2的WER相对降低了11%。  <br />- 在相同的推理硬件上，Universal-1的处理速度优于OpenAI的Whisper Large-v3模型。  <br /><br />点评：  <br />- Universal-1在多个测试集上的出色表现证明了AssemblyAI在语音识别领域的技术实力。这将进一步推动语音AI在各行各业的应用。  <br />- 用户偏好测试结果表明，Universal-1不仅在客观指标上有优势，在主观体验上也得到了用户的认可。这对于以用户为中心的产品设计非常重要。  <br />- 代码转换能力使Universal-1能够处理多语言场景，这在全球化背景下具有重要价值，有助于提高语音技术的包容性。  <br />- 精确的单词级时间戳估计使Universal-1能够支持更广泛的应用，如字幕生成、会议纪要等，提升了其实用性。  <br />- 在嘈杂环境中的鲁棒性是Universal-1的一大亮点。这使其能够适应更多真实世界的场景，如呼叫中心、公共场所等，拓宽了应用范围。  <br />- 在推理速度上的优势使Universal-1更具成本效益，这对于需要实时处理的应用(如语音助手)尤为重要。<br />《AssemblyAI Research | Building the world's leading Speech AI models》 <a href="https://www.assemblyai.com/research/universal-1"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoejd6b80tj218g0p0mzw.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoejd8sgjfj218g0p0dis.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoejdb3h4mj218g0p0wgo.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Thu, 04 Apr 2024 01:20:59 GMT</pubDate>
 <pubDate>Thu, 04 Apr 2024 01:20:59 GMT</pubDate>
 </item>
 <item>
@@ -38,14 +65,12 @@ AssemblyAI发布了Universal-1新语音识别模型，展现出优异性能和�
 <guid>https://weibo.com/1402400261/O87JkzOO5</guid>
 <content:encoded><![CDATA[
 <div> 以色列、AI军事应用、伦理、道义、暗杀系统、Lavender、加沙战争、目标选择、人道主义法、国际社会
-<br><br>总结:
+<br /><br />总结:
 文章揭示了以色列在加沙战争中使用AI进行目标选择和暗杀的情况。以色列军方通过名为"Lavender"的AI系统，对加沙地区居民进行监控和评分，将大部分人列入涉嫌"哈马斯武装分子"的名单，严重违反国际人道主义法。另一个名为"Where’s Daddy?"的系统跟踪目标并向军方发出打击信号，故意攻击家庭住宅，展现了行动的残酷和不人道性。高级指挥官的言论暗示了以色列军方普遍使用人体目标AI的可能性，对此应引起国际社会高度关注和谴责。这种利用AI进行杀戮的做法对人工智能军事应用提出了监管挑战，国际社会需要建立规范，确保人工智能发展符合人道主义精神。 <div>
 【代号Lavender的AI“暗杀”系统：以色列AI军事应用引发伦理和道义拷问】<br />- 以色列军方在加沙战争的前几周使用一个名为"Lavender"的AI机器，通过大规模监控收集的信息，对加沙地带230万居民中的大多数人进行分析和评分，标记了大约37,000名巴勒斯坦人为涉嫌的"哈马斯武装分子"，大部分是初级成员，列入暗杀名单。   <br />- Lavender软件为加沙的几乎每个人给出1到100的评分，表示他们是哈马斯或巴勒斯坦伊斯兰圣战组织军事翼活跃分子的可能性。  <br />- 以色列军方还使用一个名为"Where’s Daddy?"的系统跟踪这些目标，并在他们进入家中时向军方发出信号。然后军方选择使用"哑弹"打击这些家庭住宅。  <br />- Lavender与以色列军方的另一个AI系统"The Gospel"不同，后者标记军方声称武装分子使用的建筑物和结构，而Lavender标记人并将其列入暗杀名单。  <br />- 以色列高级指挥官曾多次暗示像Lavender这样的人体目标机器的存在。一位8200部队数据科学和AI中心的指挥官在一次私人讲座中也提到了这一点。<br /><br />点评：  <br />- 这篇调查报道揭示了以色列在加沙战争中大规模使用AI进行目标选择和暗杀的惊人细节，引发了对高度自动化战争的伦理和法律问题的严重关切。  <br />- Lavender系统对平民进行大规模监控和评分，并将其列入暗杀名单，这种做法严重违反国际人道主义法，可能构成战争罪。它模糊了战斗人员和平民之间的界限，使平民处于极其危险的境地。  <br />- "Where’s Daddy?"系统跟踪目标并在其进入家中时发出打击信号，故意攻击家庭住宅，这进一步凸显了以色列军事行动的残酷性和不人道性。  <br />- 与标记建筑物的"The Gospel"系统不同，Lavender直接针对人，创建"杀戮名单"，这种做法更加令人不安，因为它赋予机器决定生死的权力。  <br />- 以色列高级指挥官关于人体目标AI的言论表明，这种做法在以色列军方中可能相当普遍，需要国际社会高度警惕和谴责。  <br />- 这种利用AI进行杀戮的做法，对人工智能军事应用的治理和监管提出了严峻挑战。国际社会亟需建立相关规范，防止AI武器化，确保人工智能的发展符合人道主义精神。<br />《‘Lavender’: The AI machine directing Israel’s bombing spree in Gaza》 <a href="https://www.972mag.com/lavender-ai-israeli-army-gaza/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoeiw7qd47j21at0u0aeu.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Thu, 04 Apr 2024 01:09:19 GMT</pubDate>
-<pubDate>Thu, 04 Apr 2024 01:09:19 GMT</pubDate>
 </item>
-
 <item>
 <title>#免费##抽奖# 携手@异步图书 送出3本《大语言模型：基础与前沿》，截至2024.4.12 12:00，*可可粉*转发+评论即可参与。本书全面且深入介绍了大语言模型及其前沿进...</title>
 <link>https://weibo.com/1402400261/O86TsEVJz</link>

@@ -3029,3 +3029,15 @@ Summarized using GPT-3.5-turbo
 Append: [【代号Lavender的AI“暗杀”系统：以色列AI军事应用引发伦理和道义拷问】- 以色列军方在加沙战争的前几周使用一个名为"Lavender"的AI机器，通过大规模监控收集的...](https://weibo.com/1402400261/O87JkzOO5)
 append_entries: 3
 Finish: 2024-04-04 04:15:24.321888
+------------------------------------------------------
+Started: 2024-04-04 06:14:22.973194
+Existing_entries: 500
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 453
+Summarized using GPT-3.5-turbo
+Append: [【只需250美元的低成本开源机械臂】- 可以建造第二个机械臂(领航者臂)来控制另一个臂(跟随者臂)。领航者臂的设计参考GELLO项目但更简单。这种机械臂非常适合机器...](https://weibo.com/1402400261/O88jYlBat)
+Token length: 102
+Summarized using GPT-3.5-turbo
+Append: [【LLM入门：不涉及太多数学和术语的LLM基本原理通俗讲解】《Large language models, explained with a minimum of math and jargon》 网页链接 #机器学习# #人工...](https://weibo.com/1402400261/O887qiGgi)
+append_entries: 2
+Finish: 2024-04-04 06:14:32.523077
