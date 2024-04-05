@@ -3162,3 +3162,18 @@ Summarized using GPT-3.5-turbo
 Append: [提出SAMMO框架，将提示表示为结构化程序，以便在强大语言模型和复杂提示的时代进行元提示优化。 - 转发 @爱可可-爱生活:&ensp;[CL]《Prompts As Programs: A Str...](https://weibo.com/1402400261/O8fFZ2uJO)
 append_entries: 10
 Finish: 2024-04-05 00:51:04.329667
+------------------------------------------------------
+Started: 2024-04-05 02:18:27.644552
+Existing_entries: 523
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1135
+Summarized using GPT-3.5-turbo
+Append: [【OpenAI推出对微调API的改进和新的定制模型计划】- OpenAI推出了对微调API的改进，并扩大了定制模型计划，以帮助开发者提高模型性能，降低延迟，提高准确性并降...](https://weibo.com/1402400261/O8gHS6J2t)
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@异步图书 送出3本《大语言模型：基础与前沿》，截至2024.4.12 12:00，*可可粉*转...](https://weibo.com/1402400261/O8geoaKFM)
+Token length: 270
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《LangChain实战》，截至2024.4.11 12:00，*可可粉*转...](https://weibo.com/1402400261/O8gel92B5)
+append_entries: 3
+Finish: 2024-04-05 02:18:46.163951
