@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【OpenAI推出对微调API的改进和新的定制模型计划】- OpenAI推出了对微调API的改进，并扩大了定制模型计划，以帮助开发者提高模型性能，降低延迟，提高准确性并降...</title>
 <link>https://weibo.com/1402400261/O8gHS6J2t</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> OpenAI, 微调API, 定制模型计划, 模型性能, RAG, 合作, 技术, 控制, 提升, 开发者
 
-<br><br>总结:
+<br /><br />总结:
 OpenAI推出了对微调API的改进和新的定制模型计划，旨在帮助开发者提高模型性能、降低延迟、提高准确性并降低成本。开发者可以运用多种技术，如RAG扩展模型知识、使用微调定制模型行为或构建定制训练模型来提升模型性能。通过新的微调API功能，开发者能更好地控制微调过程，并与OpenAI的AI专家和研究人员合作构建定制模型。自推出自助微调API以来，成千上万家组织已使用API训练了数十万个模型，以增强模型对特定任务的理解和能力。定制模型计划则旨在与OpenAI研究人员合作，针对特定领域训练和优化模型，并根据客户需求不断改进计划以提高性能。重点在于明确使用场景、设计评估系统、选择技术并持续迭代，使模型达到最佳性能。开发者可以通过微调API快速看到有意义的结果，而定制模型计划则适用于需要深度微调或传授特定领域知识的组织。这些举措体现了OpenAI致力于协助开发者和企业实现AI应用的决心，有望促进AI技术在各行业的应用，并加速AI技术向生产环境的渗透。 <div>
 【OpenAI推出对微调API的改进和新的定制模型计划】<br />- OpenAI推出了对微调API的改进，并扩大了定制模型计划，以帮助开发者提高模型性能，降低延迟，提高准确性并降低成本。  <br />- 开发者可以使用多种技术来提高模型性能，如使用检索增强生成(RAG)扩展模型知识，使用微调定制模型行为，或使用新的特定领域知识构建定制训练模型。  <br />- OpenAI推出了新的微调API功能，让开发者可以更好地控制使用API进行微调，并引入更多方式与OpenAI的AI专家和研究人员合作构建定制模型。  <br />- 自2023年8月推出GPT-3.5的自助微调API以来，已有数千家组织使用该API训练了数十万个模型。微调可以帮助模型深入理解内容，并增强模型在特定任务上的现有知识和能力。  <br />- OpenAI推出了定制模型计划，旨在与OpenAI研究人员合作，针对特定领域训练和优化模型。通过与客户合作，OpenAI评估了他们的定制模型需求，并改进了计划以进一步最大化性能。  <br />- 关键是要明确使用场景的范围，设计和实施评估系统，选择正确的技术，并准备随着时间的推移不断迭代，使模型达到最佳性能。使用OpenAI，大多数组织可以通过自助微调API快速看到有意义的结果。对于需要更深入地微调模型或向模型灌输新的特定领域知识的组织，OpenAI的定制模型计划可以提供帮助。  <br /><br />思考：  <br />- OpenAI持续改进微调API和定制模型计划，体现了其致力于帮助开发者和企业实现AI应用的决心。这些举措有望加速AI技术在各行各业的落地和普及。  <br />- 文章列举了多种提升模型性能的技术，如RAG、微调、定制训练等，展现了当前AI优化的多样性和灵活性。开发者可以根据具体应用场景选择合适的技术组合。  <br />- 微调API的新功能赋予开发者更多控制权，定制模型计划提供了与OpenAI专家合作的机会，这种开放、灵活的生态有利于满足企业的差异化需求，催生更多创新应用。  <br />- OpenAI与客户的深度合作，如与SKT在电信客户服务领域的合作，展现了定制化AI解决方案的巨大价值。这种合作模式有望在更多行业复制和推广。  <br />- 文章强调了明确使用场景、建立评估体系、选择合适技术、持续迭代优化的重要性，这为企业采用AI提供了很好的方法论指导。  <br />- OpenAI的这些举措有望加速AI技术向生产环境的渗透，帮助企业实现AI价值。同时，我们也要看到，实现AI的规模化应用仍面临诸多挑战，如数据质量、伦理风险等，需要产学研各界共同努力加以应对。<br />《Introducing improvements to the fine-tuning API and expanding our custom models program》 <a href="https://openai.com/blog/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hofmneqtp0j21d70u0q9i.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 05 Apr 2024 00:00:26 GMT</pubDate>
 <pubDate>Fri, 05 Apr 2024 00:00:26 GMT</pubDate>
 </item>
 <item>
@@ -25,11 +25,10 @@ OpenAI推出了对微调API的改进和新的定制模型计划，旨在帮助�
 <content:encoded><![CDATA[
 <div> 大语言模型、前沿进展、科学家、工程师、学生、案例、庖丁解牛、理解、认识
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了《大语言模型：基础与前沿》这本书，截止日期为2024年4月12日中午12点，*可可粉*转发+评论即可参与赠送3本书。该书全面深入地介绍了大语言模型及其前沿进展，适合想要了解这一领域或掌握这种方法与工具的科学家、工程师和学生参考。书中摒弃了纯理论的说教模式，通过案例入手，以庖丁解牛的方式帮助读者理解与认识大语言模型。 <div>
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%BC%82%E6%AD%A5%E5%9B%BE%E4%B9%A6">@异步图书</a>  送出3本《大语言模型：基础与前沿》，截至2024.4.12 12:00，*可可粉*转发+评论即可参与。本书全面且深入介绍了大语言模型及其前沿进展，适合所有需要了解这个领域或掌握这种方法与工具的科学家、工程师和学生参考。摒弃了纯理论的说教模式，从案例入手， 采用庖丁解牛的方式帮助读者理解与认识大语言模型。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5019331269755053"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoef8oboqij20ga0m8q8p.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoef9segl7j20m90m9q6z.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoef9t5km0j20m90m942f.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoef9tq2esj20m90m9gpe.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef9ugq5dj20m90m9dif.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Thu, 04 Apr 2024 22:47:48 GMT</pubDate>
 <pubDate>Thu, 04 Apr 2024 22:47:48 GMT</pubDate>
 </item>
 <item>
@@ -39,14 +38,12 @@ OpenAI推出了对微调API的改进和新的定制模型计划，旨在帮助�
 <content:encoded><![CDATA[
 <div> LangChain实战, 初学者, 大语言模型, LLM, LangChain 0.1版本, LangServe, LangSmith, LangChain团队, 生成式人工智能, LangChain生态系统
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了携手送出3本《LangChain实战》的活动，截止日期为2024年4月11日。参与者需转发并评论，即可参与。该书专为初学者和对LangChain应用及大语言模型（LLM）应用感兴趣的开发者编写，基于LangChain 0.1版本。同时，配套600分钟详解视频，重点介绍多个核心应用场景，并深入探讨LCEL的应用方式。书中围绕LangChain生态系统的概念，详细探讨LangChain、LangServe和LangSmith，帮助读者全面了解LangChain团队在生成式人工智能领域的布局。活动为LangChain的学习者提供了一个学习和交流的平台。 <div>
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《LangChain实战》，截至2024.4.11 12:00，*可可粉*转发+评论即可参与。本书专为初学者和对LangChain应用及大语言模型（LLM）应用感兴趣的开发者而编写的，基于LangChain 0.1版本，配套600分钟详解视频，重点介绍了多个核心应用场景，并且深入探讨了LCEL的应用方式。同时，本书围绕LangChain生态系统的概念，详细探讨LangChain、LangServe和LangSmith，帮助读者全面了解LangChain团队在生成式人工智能领域的布局。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5019329879867805"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a> <a href="https://shop.sc.weibo.com/h5/goods/index?iid=110014024002610004661854"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">LangChain实战：从原型到生产，动手打造 LLM 应用</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef5y7mh4j20m80m843w.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef5ywtixj20ku0zzdmx.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef60gn5cj20m80m80x0.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef61a08vj20m80m8wio.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef62eb09j20m80m8tdb.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hofl98oom9j207q0a0jrm.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 04 Apr 2024 22:47:41 GMT</pubDate>
-<pubDate>Thu, 04 Apr 2024 22:47:41 GMT</pubDate>
 </item>
-
 <item>
 <title>今日推介(第1366期)：在基于Transformer的语言中动态分配计算、描述模型中幻觉的新测量方法、高效的编译时提示结构感知方法、线性注意力序列并行、强化学习的范...</title>
 <link>https://weibo.com/1402400261/O8gcClW8Q</link>

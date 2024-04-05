@@ -1637,3 +1637,9 @@ Summarized using GPT-3.5-turbo
 Append: [分享 GitHub 上一份自动更新的 IPTV 直播源。每两小时自动更新一次，含有超过 1w+ 数量的 IPTV 列表，丰富且全面！GitHub：github.com/HerbertHe/iptv-sources如...](https://weibo.com/5722964389/O8h6334To)
 append_entries: 1
 Finish: 2024-04-05 02:18:50.214000
+------------------------------------------------------
+Started: 2024-04-05 04:15:56.488601
+Existing_entries: 41
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-04-05 04:15:56.557542
