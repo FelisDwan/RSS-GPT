@@ -2228,3 +2228,18 @@ Existing_entries: 248
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-05 04:15:55.636306
+------------------------------------------------------
+Started: 2024-04-05 06:14:06.160579
+Existing_entries: 248
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 242
+Summarized using GPT-3.5-turbo
+Append: [【#10万美元训出Llama2级大模型#！全华人打造新型MoE，贾扬清SD前CEO围观】“只需”10万美元，训练Llama-2级别的大模型。尺寸更小但性能不减的MoE模型来了：它叫...](https://weibo.com/6105753431/O8iDseOjQ)
+Token length: 356
+Summarized using GPT-3.5-turbo
+Append: [【#最懂AI的诺奖经济学得主去世#，大模型关键技术受他研究启发】一位90岁巨擘的逝世，正在牵动整个科技圈的关注。正如YC创始人Paul Graham所说：我关注的每一个...](https://weibo.com/6105753431/O8iAR3qRo)
+Token length: 289
+Summarized using GPT-3.5-turbo
+Append: [【#谷歌更新Transformer架构#】谷歌终于更新了Transformer架构。最新发布的Mixture-of-Depths（MoD），改变了以往Transformer计算模式。它通过动态分配大模型中...](https://weibo.com/6105753431/O8iAGjwh3)
+append_entries: 3
+Finish: 2024-04-05 06:14:18.308963

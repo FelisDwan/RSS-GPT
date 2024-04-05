@@ -3183,3 +3183,21 @@ Existing_entries: 526
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-05 04:15:56.447571
+------------------------------------------------------
+Started: 2024-04-05 06:14:18.951019
+Existing_entries: 526
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 87
+Summarized using GPT-3.5-turbo
+Append: ['Bili2text - Bilibili视频转文字，一步到位，输入链接即可使用' GitHub: github.com/lanbinshijie/bili2text #开源# #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O8ivvFIdX)
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [【JetMoE: 基于开源数据集训练的大型语言模型，可以与 LLaMA2-7B 等高性能模型相媲美，仅需较少的训练资金(0.1M Dollars)】’JetMoE: Reaching LLaMA2 Performan...](https://weibo.com/1402400261/O8iqA9D3s)
+Token length: 419
+Summarized using GPT-3.5-turbo
+Append: [【生成式AI高峰已过？】- 生成式AI的兴趣高峰已经过去，公众兴趣下降，风投估值过高，初创公司开始倒闭，企业对部署安全性存疑。 - 但技术本身仍在快速进步，不...](https://weibo.com/1402400261/O8hyyppLO)
+Token length: 1139
+Summarized using GPT-3.5-turbo
+Append: [【128k上下文+多语言+工具：Cohere开放企业级应用大模型Command R+】- Cohere推出Command R+模型，一个为应对企业级工作负载而构建的最强大、最具可扩展性的大型...](https://weibo.com/1402400261/O8h1oCNt9)
+append_entries: 4
+Finish: 2024-04-05 06:14:37.380346
