@@ -3222,3 +3222,12 @@ Summarized using GPT-3.5-turbo
 Append: [【SableDb：基于 RocksDb 存储引擎的 Key-Value NoSQL 数据库，与 Redis 协议兼容，旨在降低内存成本和增加比 Redis 更大的容量】'SableDb - Ultra fast, persis...](https://weibo.com/1402400261/O8iQd2qwJ)
 append_entries: 5
 Finish: 2024-04-05 08:13:55.387442
+------------------------------------------------------
+Started: 2024-04-05 10:12:48.226246
+Existing_entries: 535
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: ['GPTS-Prompt-Collection - 收集GPTS的prompt / Collect the prompt of GPTS' GitHub: github.com/B3o/GPTS-Prompt-Collection #开源# #机器学习# #人工智能# [...](https://weibo.com/1402400261/O8k3kbPso)
+append_entries: 1
+Finish: 2024-04-05 10:12:52.623547
