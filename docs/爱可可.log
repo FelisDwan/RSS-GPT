@@ -3266,3 +3266,10 @@ Summarized using GPT-3.5-turbo
 Append: [《爱可可微博热门分享(4.5)》 爱可可微博热门分享(4.5) [图片]](https://weibo.com/1402400261/O8mxq2PL2)
 append_entries: 1
 Finish: 2024-04-05 18:13:43.245465
+------------------------------------------------------
+Started: 2024-04-05 20:11:43.170179
+Existing_entries: 539
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# 爱可可-爱生活的微博视频](https://weibo.com/1402400261/O8myh1Zvi)
+append_entries: 0
+Finish: 2024-04-05 20:11:43.349618
