@@ -2243,3 +2243,9 @@ Summarized using GPT-3.5-turbo
 Append: [【#谷歌更新Transformer架构#】谷歌终于更新了Transformer架构。最新发布的Mixture-of-Depths（MoD），改变了以往Transformer计算模式。它通过动态分配大模型中...](https://weibo.com/6105753431/O8iAGjwh3)
 append_entries: 3
 Finish: 2024-04-05 06:14:18.308963
+------------------------------------------------------
+Started: 2024-04-05 08:13:39.451173
+Existing_entries: 251
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-04-05 08:13:39.615849

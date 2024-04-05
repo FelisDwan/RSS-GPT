@@ -5,20 +5,89 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>【Orange Meets：基于 Cloudflare Calls 构建的演示应用，可以通过该应用体验 WebRTC 技术】'Orange Meets - a demo application built using Cloudflare Calls...</title>
+<link>https://weibo.com/1402400261/O8j8c99JD</link>
+<guid>https://weibo.com/1402400261/O8j8c99JD</guid>
+<content:encoded><![CDATA[
+<div> Cloudflare Calls, 构建, Orange Meets, 演示应用, WebRTC 技术, GitHub, 应用体验
+
+<br><br>总结:
+Orange Meets是一个演示应用，使用Cloudflare Calls构建，可以让用户体验WebRTC技术。这个应用可以在GitHub上找到，名为github.com/cloudflare/orange。通过Orange Meets，用户可以了解和体验Cloudflare Calls和WebRTC技术的功能和优势。 <div>
+【Orange Meets：基于 Cloudflare Calls 构建的演示应用，可以通过该应用体验 WebRTC 技术】'Orange Meets - a demo application built using Cloudflare Calls’ GitHub: github.com/cloudflare/orange <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hofxd6vocdj20u00vkq7w.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 05 Apr 2024 06:10:46 GMT</pubDate>
+<pubDate>Fri, 05 Apr 2024 06:10:46 GMT</pubDate>
+</item>
+<item>
+<title>【Dot：使用大型语言模型(LLM)和检索增强生成(RAG)进行文档交互的独立应用，面向本地使用大型语言模型（LLM）和检索增强生成（RAG）进行文档交互的独立应用程序...</title>
+<link>https://weibo.com/1402400261/O8j7p9nAF</link>
+<guid>https://weibo.com/1402400261/O8j7p9nAF</guid>
+<content:encoded><![CDATA[
+<div> 大型语言模型、检索增强生成、文档交互、独立应用、本地使用、GitHub、Mistral 7B、应用程序
+
+<br><br>总结:
+这篇文章介绍了一个名为Dot的独立应用程序，其使用大型语言模型（LLM）和检索增强生成（RAG）技术，实现本地文档交互功能。用户可以通过GitHub下载这个应用程序，并使用其中的Mistral 7B模型进行操作。Dot的设计目的是为用户提供一种便捷的方式来进行文档处理和生成，同时保证数据隐私和安全。通过结合大型语言模型和检索增强生成技术，Dot可以帮助用户快速获取文档信息并生成相关内容，提高工作效率。Dot的本地化设计也符合用户对数据隐私和安全性的需求，让用户能够安心地使用这个应用程序。 <div>
+【Dot：使用大型语言模型(LLM)和检索增强生成(RAG)进行文档交互的独立应用，面向本地使用大型语言模型（LLM）和检索增强生成（RAG）进行文档交互的独立应用程序】’Dot - Standalone app for fully local RAG with Mistral 7B' GitHub: github.com/alexpinel/Dot <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hofxbbddiuj20u00xuwj0.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 05 Apr 2024 06:08:50 GMT</pubDate>
+<pubDate>Fri, 05 Apr 2024 06:08:50 GMT</pubDate>
+</item>
+<item>
+<title>【CIFAR-10 Airbench：包含了基于 PyTorch 框架的 CIFAR-10 数据集快速训练脚本，提供了三种方法，分别可以实现 94.01%、95.01% 和 96.05% 的准确率，运行时间分...</title>
+<link>https://weibo.com/1402400261/O8j022Y66</link>
+<guid>https://weibo.com/1402400261/O8j022Y66</guid>
+<content:encoded><![CDATA[
+<div> PyTorch, CIFAR-10, 快速训练脚本, 准确率, 运行时间, GitHub, KellerJordan, CIFAR-10 Airbench<br>
+<br>
+提供了基于 PyTorch 框架的 CIFAR-10 数据集快速训练脚本，包含三种方法可以实现不同准确率，分别为94.01%、95.01%和96.05%。运行时间分别为3.29秒、10.4秒和46.3秒。项目托管在GitHub上，作者是KellerJordan。  <div>
+【CIFAR-10 Airbench：包含了基于 PyTorch 框架的 CIFAR-10 数据集快速训练脚本，提供了三种方法，分别可以实现 94.01%、95.01% 和 96.05% 的准确率，运行时间分别为 3.29 秒、10.4 秒和 46.3 秒】'CIFAR-10 Airbench' GitHub: github.com/KellerJordan/cifar10-airbench <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hofwsfm1cij20yy0u0dk9.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 05 Apr 2024 05:50:40 GMT</pubDate>
+<pubDate>Fri, 05 Apr 2024 05:50:40 GMT</pubDate>
+</item>
+<item>
+<title>【LL3M：构建支持 Jax/Flax 训练和微调的大语言/多模态模型和 MoE 模型】'LL3M: Large Language and Multi-Modal Model in Jax / Flax - LL3M: Large Language a...</title>
+<link>https://weibo.com/1402400261/O8iRXsXRz</link>
+<guid>https://weibo.com/1402400261/O8iRXsXRz</guid>
+<content:encoded><![CDATA[
+<div> Jax, Flax, 训练, 微调, 大语言模型, 多模态模型, MoE 模型, GitHub, 支持, 构建
+
+<br><br>总结:
+该项目提出了一个名为LL3M的大语言和多模态模型，基于Jax和Flax框架，支持模型训练和微调。该模型还包含MoE（Mixture of Experts）模型。整个项目代码托管在GitHub上。LL3M模型可以用于多种任务，包括自然语言处理和计算机视觉。通过该项目，研究人员可以更方便地训练和使用大型语言和多模态模型。 <div>
+【LL3M：构建支持 Jax/Flax 训练和微调的大语言/多模态模型和 MoE 模型】'LL3M: Large Language and Multi-Modal Model in Jax / Flax - LL3M: Large Language and Multi-Modal Model in Jax' GitHub: github.com/jiasenlu/LL3M <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hofw7rr0ehj217k0ismzt.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 05 Apr 2024 05:30:47 GMT</pubDate>
+<pubDate>Fri, 05 Apr 2024 05:30:47 GMT</pubDate>
+</item>
+<item>
+<title>【SableDb：基于 RocksDb 存储引擎的 Key-Value NoSQL 数据库，与 Redis 协议兼容，旨在降低内存成本和增加比 Redis 更大的容量】'SableDb - Ultra fast, persis...</title>
+<link>https://weibo.com/1402400261/O8iQd2qwJ</link>
+<guid>https://weibo.com/1402400261/O8iQd2qwJ</guid>
+<content:encoded><![CDATA[
+<div> SableDb、RocksDb、Key-Value、NoSQL、数据库、Redis、协议兼容、降低内存成本、增加容量、GitHub
+
+<br><br>总结:
+SableDb是一个基于RocksDb存储引擎的Key-Value型NoSQL数据库，与Redis协议兼容。旨在降低内存成本和增加比Redis更大的容量。该数据库支持Redis API，具有快速持久性和高性能。用户可以在GitHub上找到SableDb的开源代码，并了解更多相关信息。 <div>
+【SableDb：基于 RocksDb 存储引擎的 Key-Value NoSQL 数据库，与 Redis 协议兼容，旨在降低内存成本和增加比 Redis 更大的容量】'SableDb - Ultra fast, persistent database supporting Redis API' GitHub: github.com/sabledb-io/sabledb <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hofw32it0kj21740lwgpg.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 05 Apr 2024 05:26:28 GMT</pubDate>
+<pubDate>Fri, 05 Apr 2024 05:26:28 GMT</pubDate>
+</item>
+
+<item>
 <title>'Bili2text - Bilibili视频转文字，一步到位，输入链接即可使用' GitHub: github.com/lanbinshijie/bili2text #开源# #机器学习# #人工智能# [图片]</title>
 <link>https://weibo.com/1402400261/O8ivvFIdX</link>
 <guid>https://weibo.com/1402400261/O8ivvFIdX</guid>
 <content:encoded><![CDATA[
-<div> 关键词: Bili2text, Bilibili, 视频转文字, GitHub, 转换工具, 链接输入<br>
-<br>
-Bili2text是一个可以将Bilibili视频转换为文字的工具，用户只需输入视频链接即可使用。该工具在GitHub上开源，代码可在github.com/lanbinshijie/bili2text找到。<br><br>
-总结: <br>
-1. Bili2text是一个视频转文字工具，可用于将Bilibili视频转换为文字。<br>
-2. 用户只需输入视频链接即可使用该工具。<br>
+<div> 关键词: Bili2text, Bilibili, 视频转文字, GitHub, 转换工具, 链接输入<br />
+<br />
+Bili2text是一个可以将Bilibili视频转换为文字的工具，用户只需输入视频链接即可使用。该工具在GitHub上开源，代码可在github.com/lanbinshijie/bili2text找到。<br /><br />
+总结: <br />
+1. Bili2text是一个视频转文字工具，可用于将Bilibili视频转换为文字。<br />
+2. 用户只需输入视频链接即可使用该工具。<br />
 3. 该工具的代码开源在GitHub上，网址为github.com/lanbinshijie/bili2text。 <div>
 'Bili2text - Bilibili视频转文字，一步到位，输入链接即可使用' GitHub: github.com/lanbinshijie/bili2text <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hofum86vanj20yd0u0n0v.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 05 Apr 2024 04:35:29 GMT</pubDate>
 <pubDate>Fri, 05 Apr 2024 04:35:29 GMT</pubDate>
 </item>
 <item>
@@ -26,17 +95,16 @@ Bili2text是一个可以将Bilibili视频转换为文字的工具，用户只需
 <link>https://weibo.com/1402400261/O8iqA9D3s</link>
 <guid>https://weibo.com/1402400261/O8iqA9D3s</guid>
 <content:encoded><![CDATA[
-<div> 基于开源数据集，训练大型语言模型，性能媲美LLaMA2-7B，仅需0.1M Dollars训练资金<br>
-<br>
-1. JetMoE是一个基于开源数据集训练的大型语言模型，与LLaMA2-7B等高性能模型相媲美。<br>
-2. JetMoE训练所需资金仅为0.1M Dollars，较其他模型相对较低。<br>
-3. 这篇文章介绍了JetMoE的训练方式及性能表现，以及与其他模型的对比情况。<br>
-4. JetMoE的GitHub链接为github.com/myshell-ai/JetMoE。<br>
-<br>
+<div> 基于开源数据集，训练大型语言模型，性能媲美LLaMA2-7B，仅需0.1M Dollars训练资金<br />
+<br />
+1. JetMoE是一个基于开源数据集训练的大型语言模型，与LLaMA2-7B等高性能模型相媲美。<br />
+2. JetMoE训练所需资金仅为0.1M Dollars，较其他模型相对较低。<br />
+3. 这篇文章介绍了JetMoE的训练方式及性能表现，以及与其他模型的对比情况。<br />
+4. JetMoE的GitHub链接为github.com/myshell-ai/JetMoE。<br />
+<br />
 总结:本文介绍了基于开源数据集训练的大型语言模型JetMoE，表现媲美LLaMA2-7B，仅需0.1M Dollars训练资金，是一种高性价比的模型选择。文章详细介绍了JetMoE的优势和性能表现，以及与其他模型的对比情况。感兴趣的读者可通过GitHub链接获取更多信息。 <div>
 【JetMoE: 基于开源数据集训练的大型语言模型，可以与 LLaMA2-7B 等高性能模型相媲美，仅需较少的训练资金(0.1M Dollars)】’JetMoE: Reaching LLaMA2 Performance with 0.1M Dollars - Reaching LLaMA2 Performance with 0.1M Dollars' GitHub: github.com/myshell-ai/JetMoE <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hofu9l51tcj21aj0u078p.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 05 Apr 2024 04:23:20 GMT</pubDate>
 <pubDate>Fri, 05 Apr 2024 04:23:20 GMT</pubDate>
 </item>
 <item>
@@ -46,11 +114,10 @@ Bili2text是一个可以将Bilibili视频转换为文字的工具，用户只需
 <content:encoded><![CDATA[
 <div> 生成式AI，兴趣高峰，公众下降，风投估值，初创公司，安全性存疑，技术进步，新模型，基础设施，低谷期
 
-<br><br>总结:
+<br /><br />总结:
 生成式AI的兴趣高峰已经过去，公众兴趣下降，风投估值过高，初创公司开始倒闭，企业对部署安全性存疑。技术虽然在快速进步，但进展不为公众所知。每项革命性技术都经历高峰和低谷，生成式AI可能也是如此。是否再次繁荣取决于默默努力的人们。过度炒作可能导致公众接受困难，技术领域应谨记。技术发展和公众舆论需要平衡。过度炒作会损害公众对技术的信任，阻碍长远发展。变革依靠内在力量，外界关注并非必需。历史将解答生成式AI的命运。 <div>
 【生成式AI高峰已过？】<br />- 生成式AI的兴趣高峰已经过去，公众兴趣下降，风投估值过高，初创公司开始倒闭，企业对部署安全性存疑。   <br />- 但技术本身仍在快速进步，不断有新模型问世，基础设施也在建设，只是这些进展不为公众所知。   <br />- 每项革命性技术都曾经历过兴趣的高峰和低谷，生成式AI可能也是这样，目前正处在低谷期。   <br />- 是否会再次繁荣取决于静默努力的人们，而非当下的舆论，历史会给出答案。   <br />- 过度炒作可能让公众在下次繁荣时难以接受，技术领域应谨记。   <br />- 我们应该问自己，技术本身是否有足够的力量推动变革，而非依靠夸大其词。   <br /><br />思考：   <br />- 技术发展的节奏和公众舆论的节奏不尽相同，需要平衡二者。   <br />- 过度炒作会损害公众对技术的信任，可能会阻碍长远发展。   <br />- 变革依靠内在驱动力，外界关注并非必需。<br />《The State of Generative AI, 2024 - by Alberto Romero》 <a href="https://www.thealgorithmicbridge.com/p/the-state-of-generative-ai-2024"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hofqf29bu1j214g0n4tbv.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 05 Apr 2024 02:10:14 GMT</pubDate>
 <pubDate>Fri, 05 Apr 2024 02:10:14 GMT</pubDate>
 </item>
 <item>
@@ -60,14 +127,12 @@ Bili2text是一个可以将Bilibili视频转换为文字的工具，用户只需
 <content:encoded><![CDATA[
 <div> Cohere, Command R+, Microsoft Azure, 多语言, 工具使用, 128k token上下文窗口,性能升级, 企业级应用, 市场拓展, 合作伙伴关系
 
-<br><br>总结:
+<br /><br />总结:
 Cohere推出了适用于企业级工作负载的最强大、可扩展的大型语言模型Command R+，首先在Microsoft Azure上推出，旨在加速企业AI的采用。该模型具有128k token的上下文窗口，支持多种关键语言和工具使用，以实现复杂业务流程的自动化。Command R+在各方面表现出色，与微软Azure等云计算巨头合作，有望在多个云平台上快速部署，降低企业的采用门槛。企业如Atomicwork可以利用Command R+来提高数字工作场所体验，加速企业生产力。这标志着Cohere在企业级AI市场的发力，展现了其深刻的企业需求洞察力和强大的技术实力。Cogere还需要持续投入解决数据安全、伦理合规等挑战，助力企业AI的落地应用。 <div>
 【128k上下文+多语言+工具：Cohere开放企业级应用大模型Command R+】<br />- Cohere推出Command R+模型，一个为应对企业级工作负载而构建的最强大、最具可扩展性的大型语言模型(LLM)。  <br />- Command R+首先在Microsoft Azure上推出，旨在加速企业AI的采用。它加入了Cohere的R系列LLM，专注于在高效率和强准确性之间取得平衡，使企业能从概念验证走向生产。  <br />- Command R+具有128k token的上下文窗口，旨在提供同类最佳的性能，包括：  <br />  - 先进的检索增强生成(RAG)和引用，以减少幻觉  <br />  - 支持10种关键语言的多语言覆盖，以支持全球业务运营  <br />  - 工具使用，以实现复杂业务流程的自动化  <br />- Command R+在各方面都优于Command R，在类似模型的基准测试中表现出色。  <br />- 开发人员和企业可以从今天开始在Azure上访问Cohere的最新模型，很快也将在Oracle云基础设施(OCI)以及未来几周内的其他云平台上提供。Command R+也将立即在Cohere的托管API上提供。  <br />- Atomicwork等企业客户可以利用Command R+来改善数字工作场所体验，加速企业生产力。  <br /><br />思考：  <br />- Cohere推出Command R+，进一步丰富了其企业级LLM产品线，展现了其在企业AI市场的雄心和实力。与微软Azure的合作有望加速其企业客户的拓展。  <br />- Command R+在Command R的基础上进行了全面升级，128k token的上下文窗口、多语言支持、工具使用等特性使其能够胜任更加复杂多样的企业应用场景。这表明Cohere对企业需求有着深刻洞察。  <br />- RAG和引用功能有助于提高模型输出的可靠性，减少幻觉，这对于企业级应用至关重要。可以看出Cohere在兼顾性能的同时，也非常重视模型的可控性。  <br />- 与微软、甲骨文等云计算巨头合作，使Command R+能够在多个主流云平台上快速部署，降低了企业的采用门槛。这种开放的生态策略有利于加速其市场渗透。  <br />- Atomicwork等企业客户的支持表明Command R+具有显著的商业价值。将LLM与企业数字化转型相结合，有望催生更多创新性的应用。  <br />- Command R+的推出标志着Cohere在企业级AI市场的发力，其强大的性能和完善的生态有望帮助其在竞争中占据优势地位。不过，企业AI的落地仍面临数据安全、伦理合规等诸多挑战，Cohere还需要在这些方面持续投入。<br />《Introducing Command R+: A Scalable LLM Built for Business》 <a href="https://txt.cohere.com/command-r-plus-microsoft-azure/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hofo1hyiwyj21hc0u0n0r.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 05 Apr 2024 00:48:32 GMT</pubDate>
-<pubDate>Fri, 05 Apr 2024 00:48:32 GMT</pubDate>
 </item>
-
 <item>
 <title>【OpenAI推出对微调API的改进和新的定制模型计划】- OpenAI推出了对微调API的改进，并扩大了定制模型计划，以帮助开发者提高模型性能，降低延迟，提高准确性并降...</title>
 <link>https://weibo.com/1402400261/O8gHS6J2t</link>

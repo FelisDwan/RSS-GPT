@@ -3201,3 +3201,24 @@ Summarized using GPT-3.5-turbo
 Append: [【128k上下文+多语言+工具：Cohere开放企业级应用大模型Command R+】- Cohere推出Command R+模型，一个为应对企业级工作负载而构建的最强大、最具可扩展性的大型...](https://weibo.com/1402400261/O8h1oCNt9)
 append_entries: 4
 Finish: 2024-04-05 06:14:37.380346
+------------------------------------------------------
+Started: 2024-04-05 08:13:40.265782
+Existing_entries: 530
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [【Orange Meets：基于 Cloudflare Calls 构建的演示应用，可以通过该应用体验 WebRTC 技术】'Orange Meets - a demo application built using Cloudflare Calls...](https://weibo.com/1402400261/O8j8c99JD)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [【Dot：使用大型语言模型(LLM)和检索增强生成(RAG)进行文档交互的独立应用，面向本地使用大型语言模型（LLM）和检索增强生成（RAG）进行文档交互的独立应用程序...](https://weibo.com/1402400261/O8j7p9nAF)
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [【CIFAR-10 Airbench：包含了基于 PyTorch 框架的 CIFAR-10 数据集快速训练脚本，提供了三种方法，分别可以实现 94.01%、95.01% 和 96.05% 的准确率，运行时间分...](https://weibo.com/1402400261/O8j022Y66)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [【LL3M：构建支持 Jax/Flax 训练和微调的大语言/多模态模型和 MoE 模型】'LL3M: Large Language and Multi-Modal Model in Jax / Flax - LL3M: Large Language a...](https://weibo.com/1402400261/O8iRXsXRz)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [【SableDb：基于 RocksDb 存储引擎的 Key-Value NoSQL 数据库，与 Redis 协议兼容，旨在降低内存成本和增加比 Redis 更大的容量】'SableDb - Ultra fast, persis...](https://weibo.com/1402400261/O8iQd2qwJ)
+append_entries: 5
+Finish: 2024-04-05 08:13:55.387442
