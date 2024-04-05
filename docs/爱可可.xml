@@ -4,6 +4,144 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>今日推介(第1366期)：在基于Transformer的语言中动态分配计算、描述模型中幻觉的新测量方法、高效的编译时提示结构感知方法、线性注意力序列并行、强化学习的范...</title>
+<link>https://weibo.com/1402400261/O8gcClW8Q</link>
+<guid>https://weibo.com/1402400261/O8gcClW8Q</guid>
+<content:encoded><![CDATA[
+<div> Transformer、动态分配计算、模型幻觉、新测量方法、编译时提示、结构感知方法、线性注意力、序列并行、强化学习、范畴网络<br>
+<br>
+<总结>
+本文介绍了一些新的研究成果，包括在基于Transformer的语言模型中动态分配计算的方法，描述模型中幻觉的新测量方法，以及高效的编译时提示结构感知方法。此外，还介绍了线性注意力和序列并行的技术，以及在强化学习中应用范畴网络的视角。这些方法的提出和应用有助于改进机器学习和人工智能领域的相关技术，推动相关领域的研究和发展。 <div>
+今日推介(第1366期)：在基于Transformer的语言中动态分配计算、描述模型中幻觉的新测量方法、高效的编译时提示结构感知方法、线性注意力序列并行、强化学习的范畴网络学视角 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/690782999"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hofkfmfv30j20xy0u0q9l.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hofkfol1qzj20sw0pm0xf.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hofkfrkzeoj21cc0hqjuz.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hofkfuprauj20p211s0xl.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hofkfxbyvlj20ku0qkaba.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 22:43:27 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 22:43:27 GMT</pubDate>
+</item>
+<item>
+<title>[IR] Efficient Multi-Vector Dense Retrieval Using Bit Vectors 网页链接 提出EMVB框架，通过bit向量预过滤、SIMD计算、量化技术等方法实现高效低内存的多向量...</title>
+<link>https://weibo.com/1402400261/O8g7MfrpU</link>
+<guid>https://weibo.com/1402400261/O8g7MfrpU</guid>
+<content:encoded><![CDATA[
+<div> EMVB框架, Bit向量预过滤, SIMD计算, 量化技术, 多向量稠密检索, 高效, 低内存
+
+<br><br>总结:
+本文提出了一种名为EMVB的框架，旨在实现高效低内存的多向量稠密检索。框架包括bit向量预过滤、SIMD计算和量化技术等方法，用于提高检索效率。通过使用bit向量预过滤，可以减少不必要的计算。同时，利用SIMD计算和量化技术对向量进行处理，进一步提高了检索效率。该框架在稠密向量检索任务中表现出色，是一种高效且节省内存的检索方法。 <div>
+[IR] Efficient Multi-Vector Dense Retrieval Using Bit Vectors  <br /><a href="https://arxiv.org/abs/2404.02805"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />提出EMVB框架，通过bit向量预过滤、SIMD计算、量化技术等方法实现高效低内存的多向量稠密检索。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hofk3ig8y8j20uo1c2duf.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hofk3inkovj21cw0maaeo.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hofk3j1u9xj21cs0k043n.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 22:31:31 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 22:31:31 GMT</pubDate>
+</item>
+<item>
+<title>[CL] CMULAB: An Open-Source Framework for Training and Deployment of Natural Language Processing Models 网页链接 CMULAB是一个开源的Web框架，通过集成各...</title>
+<link>https://weibo.com/1402400261/O8g5iDezz</link>
+<guid>https://weibo.com/1402400261/O8g5iDezz</guid>
+<content:encoded><![CDATA[
+<div> CMULAB, 开源框架, 自然语言处理, 多语言, 模型集成, 低资源语言, 部署, 微调, 降低门槛
+<br>
+CMULAB是一个开源的Web框架，通过集成各种多语言NLP模型，简化了低资源语言的自然语言处理工具的部署和微调过程，降低了使用门槛，使更多语言社区受益。 <div>
+[CL]  CMULAB: An Open-Source Framework for Training and Deployment of Natural Language Processing Models  <br /><a href="https://arxiv.org/abs/2404.02408"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />CMULAB是一个开源的Web框架，通过集成各种多语言NLP模型，简化了低资源语言的自然语言处理工具的部署和微调过程，降低了使用门槛，使更多语言社区受益。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hofjx5bxxqj20vk1bg4fy.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hofjx5roywj21la0ua47x.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hofjx6a8dwj21oe17idss.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 22:25:25 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 22:25:25 GMT</pubDate>
+</item>
+<item>
+<title>[LG] Domain Generalization through Meta-Learning: A Survey 网页链接 对基于元学习提高模型泛化能力的域泛化方法进行全面调研，总结现有方法与存在的挑战，为...</title>
+<link>https://weibo.com/1402400261/O8g35EtUJ</link>
+<guid>https://weibo.com/1402400261/O8g35EtUJ</guid>
+<content:encoded><![CDATA[
+<div> 域泛化、元学习、模型、挑战、调研、方法、指导、研究、泛化能力、领域
+
+总结:<br><br>本文对基于元学习的域泛化方法进行了全面调研，总结了现有方法及存在的挑战，并为未来研究提供了指导。在研究中，针对模型在不同领域下的泛化能力进行了讨论，提出了利用元学习来改善泛化能力的思路。调研发现，当前的域泛化方法存在一些挑战，例如领域差异、数据标签分布等问题，需要进一步研究解决。未来的研究可以集中在如何提高模型在多个领域中的表现，以及如何设计更加有效的元学习策略等方面，以促进泛化能力的提升。 <div>
+[LG] Domain Generalization through Meta-Learning: A Survey  <br /><a href="https://arxiv.org/abs/2404.02785"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />对基于元学习提高模型泛化能力的域泛化方法进行全面调研，总结现有方法与存在的挑战，为未来研究提供指导。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hofjrgd6kmj20xg15m7ga.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hofjrh6mp8j21cy150wmo.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hofjrhnyi5j21c80tqgqh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hofjri3qtpj21d40p6aht.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 22:19:59 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 22:19:59 GMT</pubDate>
+</item>
+<item>
+<title>[CL] Auxiliary task demands mask the capabilities of smaller language models 网页链接 与大模型相比，小规模语言模型更容易受到评估设计引入的辅助需求的影...</title>
+<link>https://weibo.com/1402400261/O8g0s5eI3</link>
+<guid>https://weibo.com/1402400261/O8g0s5eI3</guid>
+<content:encoded><![CDATA[
+<div> 大模型,小规模语言模型,评估设计,辅助需求,真实能力,低估,评估,能力发展,研究视角
+
+<br><br>总结:
+小规模语言模型更容易受到评估设计引入的辅助需求的影响，可能导致其真实能力被低估。这一发现为语言模型的评估和能力发展研究提供了新的视角，强调对于小规模语言模型的评估需要综合考虑辅助需求的影响。 <div>
+[CL] Auxiliary task demands mask the capabilities of smaller language models  <br /><a href="https://arxiv.org/abs/2404.02418"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />与大模型相比，小规模语言模型更容易受到评估设计引入的辅助需求的影响，其真实能力可能被低估，这一发现为语言模型的评估和能力发展研究提供了新的视角。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hofjkptd3ij20va1dqh17.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hofjkqdhb6j21bu0x2n6v.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hofjkqnw6lj21by0w8wnl.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 22:13:28 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 22:13:28 GMT</pubDate>
+</item>
+<item>
+<title>将强化学习的各种主流算法统一表达为范畴网络学框架中的参数化光学元，通过组合简单的范畴论模块构造复杂算法，揭示了这些算法背后的共性。 - 转发 @爱可可-爱生...</title>
+<link>https://weibo.com/1402400261/O8fTmgYeo</link>
+<guid>https://weibo.com/1402400261/O8fTmgYeo</guid>
+<content:encoded><![CDATA[
+<div> 参数化光学元, 强化学习, 范畴网络学框架, 主流算法, 共性, 算法背后, 范畴论模块, 复杂算法
+
+<br><br>总结:
+本文将强化学习的各种主流算法统一表达为范畴网络学框架中的参数化光学元，通过组合简单的范畴论模块构造复杂算法，揭示了这些算法背后的共性。这种方法将不同算法统一起来，揭示了它们之间的联系和共同之处。参数化光学元的概念在此框架中起到关键作用，帮助理解算法之间的联系，并且通过范畴网络学框架的应用，能够更好地理解算法的本质和工作原理。通过这种方式构建的复杂算法模型可以更好地解决现实生活中的问题，同时也为强化学习领域的研究提供了新的思路和方法。整体来看，本文为强化学习算法的发展和应用开辟了新的方向，为研究人员提供了更多的启发和思考。 <div>
+将强化学习的各种主流算法统一表达为范畴网络学框架中的参数化光学元，通过组合简单的范畴论模块构造复杂算法，揭示了这些算法背后的共性。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Reinforcement Learning in Categorical Cybernetics》J Hedges, R R Sakamoto  (2024) <a href="https://arxiv.org/abs/2404.02688"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hofihvxkgyj21j60mwna8.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hofihwach1j20ku0qkdhe.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hofihwk8anj20la0n2dhq.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hofihwpqq7j20n20zgq5q.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hofj2enwrdj20xc05qjs1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hofj2en24aj20d108qaac.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hofj2enyf5j20zs0d9wgi.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hofj2envf2j20z80bwdho.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hofj2enk53j20zs06y0ts.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 21:56:00 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 21:56:00 GMT</pubDate>
+</item>
+<item>
+<title>[LG]《Reinforcement Learning in Categorical Cybernetics》J Hedges, R R Sakamoto (2024) 网页链接 #机器学习##人工智能##论文# [图片][图片][图片][图片][图...</title>
+<link>https://weibo.com/1402400261/O8fTirwiQ</link>
+<guid>https://weibo.com/1402400261/O8fTirwiQ</guid>
+<content:encoded><![CDATA[
+<div> 强化学习、分类学、网络控制、机器学习、人工智能、深度学习、信息科学
+
+总结:<br><br>
+本文探讨了在分类学的框架下运用强化学习的方法来解决网络控制问题。研究者提出了一种基于分类学思想的强化学习算法，利用深度学习技术实现网络控制的优化。他们认为在信息科学领域中，将强化学习与分类学相结合可以提高系统的性能和鲁棒性。研究结果表明，这种方法可以有效地应用于网络控制领域，为构建更强大的人工智能系统提供了新思路。 <div>
+[LG]《Reinforcement Learning in Categorical Cybernetics》J Hedges, R R Sakamoto  (2024) <a href="https://arxiv.org/abs/2404.02688"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hofihvxkgyj21j60mwna8.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hofihwach1j20ku0qkdhe.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hofihwk8anj20la0n2dhq.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hofihwpqq7j20n20zgq5q.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hofj2enwrdj20xc05qjs1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hofj2en24aj20d108qaac.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hofj2enyf5j20zs0d9wgi.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hofj2envf2j20z80bwdho.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hofj2enk53j20zs06y0ts.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 21:55:51 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 21:55:51 GMT</pubDate>
+</item>
+<item>
+<title>设计了LASP技术实现线性注意力模型的高效序列级并行，对处理长序列任务具有重要意义。 - 转发 @爱可可-爱生活:&amp;ensp;[LG]《Linear Attention Sequence Paralleli...</title>
+<link>https://weibo.com/1402400261/O8fKtAKqW</link>
+<guid>https://weibo.com/1402400261/O8fKtAKqW</guid>
+<content:encoded><![CDATA[
+<div> LASP、线性注意力模型、高效序列级并行、长序列任务、Shanghai AI Laboratory、TapTap
+
+<br><br>总结:
+本文介绍了一种名为LASP的技术，能够实现线性注意力模型的高效序列级并行，对处理长序列任务具有重要意义。LASP技术由上海人工智能实验室和TapTap合作开发。该技术通过实现线性注意力模型的高效序列级并行，提升了长序列任务的处理速度和效率。LASP技术的设计使其在处理长序列任务时能够更加高效，对于提升模型的性能有着重要意义。该研究对于未来在处理长序列任务时的优化具有重要的参考意义。LASP技术在实践中展现出了良好的效果，为解决长序列任务的挑战提供了新的思路和方法。 <div>
+设计了LASP技术实现线性注意力模型的高效序列级并行，对处理长序列任务具有重要意义。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Linear Attention Sequence Parallelism》W Sun, Z Qin, D Li, X Shen, Y Qiao, Y Zhong [Shanghai AI Laboratory &amp; TapTap] (2024) <a href="https://arxiv.org/abs/2404.02882"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hofi8pdok9j20la12wn6t.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hofi8pq1gej20p211s7ak.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hofi8q20cij20os0omq94.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hofi8q8axzj21d60mytfy.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hofifj2ayvj20j00i4gn9.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 21:34:07 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 21:34:07 GMT</pubDate>
+</item>
+<item>
+<title>[LG]《Linear Attention Sequence Parallelism》W Sun, Z Qin, D Li, X Shen, Y Qiao, Y Zhong [Shanghai AI Laboratory &amp; TapTap] (2024) 网页链接 #机器学习##...</title>
+<link>https://weibo.com/1402400261/O8fKngOP4</link>
+<guid>https://weibo.com/1402400261/O8fKngOP4</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Linear Attention Sequence Parallelism, Shanghai AI Laboratory, TapTap, 并行计算, 自然语言处理, 深度学习
+
+总结:<br><br>
+本文介绍了一种名为Linear Attention Sequence Parallelism的方法，旨在加速自然语言处理任务中的注意力机制计算。该方法由上海人工智能实验室和TapTap联合研发，利用并行计算的方式提高了深度学习模型的计算效率。作者通过实验验证了该方法在不同任务上的性能表现优异，展示了其在提高计算速度和保持模型准确性方面的潜力。通过对比实验和分析，论文强调了Linear Attention Sequence Parallelism对于加速自然语言处理任务的重要性，为深度学习领域的研究和应用提供了新的思路和方法。 <div>
+[LG]《Linear Attention Sequence Parallelism》W Sun, Z Qin, D Li, X Shen, Y Qiao, Y Zhong [Shanghai AI Laboratory &amp; TapTap] (2024) <a href="https://arxiv.org/abs/2404.02882"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hofi8pdok9j20la12wn6t.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hofi8pq1gej20p211s7ak.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hofi8q20cij20os0omq94.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hofi8q8axzj21d60mytfy.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hofifj2ayvj20j00i4gn9.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 21:33:51 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 21:33:51 GMT</pubDate>
+</item>
+<item>
+<title>提出SAMMO框架，将提示表示为结构化程序，以便在强大语言模型和复杂提示的时代进行元提示优化。 - 转发 @爱可可-爱生活:&amp;ensp;[CL]《Prompts As Programs: A Str...</title>
+<link>https://weibo.com/1402400261/O8fFZ2uJO</link>
+<guid>https://weibo.com/1402400261/O8fFZ2uJO</guid>
+<content:encoded><![CDATA[
+<div> 结构化程序、元提示、SAMMO框架、强大语言模型、复杂提示、优化、编译时、效率、Microsoft Research、T Schnabel、J Neville
+
+<br><br>总结:
+文章提出了SAMMO框架，旨在将提示表示为结构化程序，以便在当今强大语言模型和复杂提示的时代进行元提示优化。该框架由Microsoft Research的T Schnabel和J Neville提出。SAMMO框架可以在编译时对提示进行优化，提高效率。通过将提示转化为程序结构，可以更好地利用语言模型的优势，优化提示生成过程。这一结构化方法为提示的细化和提升提供了新的可能性，对于构建高效的元提示系统具有重要意义。SAMMO框架的提出为提示优化研究和应用带来了新的思路和方法。 <div>
+提出SAMMO框架，将提示表示为结构化程序，以便在强大语言模型和复杂提示的时代进行元提示优化。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Prompts As Programs: A Structure-Aware Approach to Efficient Compile-Time Prompt Optimization》T Schnabel, J Neville [Microsoft Research] (2024) <a href="https://arxiv.org/abs/2404.02319"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hofi1b2mkwj20km0vo45m.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hofi1bs15qj21cc0hqdkj.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hofi1c7e9ij20ws0m8gph.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hofi1cfcffj20ws0sydja.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hofi3z9lr0j20wm0rgdk2.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hofi3zqqp5j20wm0t4q5n.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hofi402cwpj21te0zsqan.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hofi402g19j20wc0qugp6.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 04 Apr 2024 21:23:02 GMT</pubDate>
+<pubDate>Thu, 04 Apr 2024 21:23:02 GMT</pubDate>
+</item>
 
 <item>
 <title>《爱可可微博热门分享(4.4)》 爱可可微博热门分享(4.4) [图片]</title>

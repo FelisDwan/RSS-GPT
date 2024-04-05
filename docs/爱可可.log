@@ -3126,3 +3126,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O8cOCh5GV)
 append_entries: 0
 Finish: 2024-04-04 22:10:00.154383
+------------------------------------------------------
+Started: 2024-04-05 00:50:22.473509
+Existing_entries: 513
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1366期)：在基于Transformer的语言中动态分配计算、描述模型中幻觉的新测量方法、高效的编译时提示结构感知方法、线性注意力序列并行、强化学习的范...](https://weibo.com/1402400261/O8gcClW8Q)
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [[IR] Efficient Multi-Vector Dense Retrieval Using Bit Vectors 网页链接 提出EMVB框架，通过bit向量预过滤、SIMD计算、量化技术等方法实现高效低内存的多向量...](https://weibo.com/1402400261/O8g7MfrpU)
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [[CL] CMULAB: An Open-Source Framework for Training and Deployment of Natural Language Processing Models 网页链接 CMULAB是一个开源的Web框架，通过集成各...](https://weibo.com/1402400261/O8g5iDezz)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [[LG] Domain Generalization through Meta-Learning: A Survey 网页链接 对基于元学习提高模型泛化能力的域泛化方法进行全面调研，总结现有方法与存在的挑战，为...](https://weibo.com/1402400261/O8g35EtUJ)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [[CL] Auxiliary task demands mask the capabilities of smaller language models 网页链接 与大模型相比，小规模语言模型更容易受到评估设计引入的辅助需求的影...](https://weibo.com/1402400261/O8g0s5eI3)
+Token length: 161
+Summarized using GPT-3.5-turbo
+Append: [将强化学习的各种主流算法统一表达为范畴网络学框架中的参数化光学元，通过组合简单的范畴论模块构造复杂算法，揭示了这些算法背后的共性。 - 转发 @爱可可-爱生...](https://weibo.com/1402400261/O8fTmgYeo)
+Token length: 88
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Reinforcement Learning in Categorical Cybernetics》J Hedges, R R Sakamoto (2024) 网页链接 #机器学习##人工智能##论文# [图片][图片][图片][图片][图...](https://weibo.com/1402400261/O8fTirwiQ)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [设计了LASP技术实现线性注意力模型的高效序列级并行，对处理长序列任务具有重要意义。 - 转发 @爱可可-爱生活:&ensp;[LG]《Linear Attention Sequence Paralleli...](https://weibo.com/1402400261/O8fKtAKqW)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Linear Attention Sequence Parallelism》W Sun, Z Qin, D Li, X Shen, Y Qiao, Y Zhong [Shanghai AI Laboratory & TapTap] (2024) 网页链接 #机器学习##...](https://weibo.com/1402400261/O8fKngOP4)
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [提出SAMMO框架，将提示表示为结构化程序，以便在强大语言模型和复杂提示的时代进行元提示优化。 - 转发 @爱可可-爱生活:&ensp;[CL]《Prompts As Programs: A Str...](https://weibo.com/1402400261/O8fFZ2uJO)
+append_entries: 10
+Finish: 2024-04-05 00:51:04.329667
