@@ -3355,3 +3355,39 @@ Existing_entries: 552
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-06 10:11:17.289923
+------------------------------------------------------
+Started: 2024-04-06 12:18:40.892725
+Existing_entries: 552
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 681
+Summarized using GPT-3.5-turbo
+Append: [【AI生成内容泛滥冲击Google Books】- Google Books作为索引已出版资料的重要学术工具，正在收录大量低质量、由AI生成的书籍内容。 - 这些AI生成的书籍会出现在G...](https://weibo.com/1402400261/O8ujEAJtY)
+Token length: 534
+Summarized using GPT-3.5-turbo
+Append: [【Meta率先扩大AI内容标记范围】Meta宣布将从5月开始扩大对人工智能生成内容的标记范围，主要变化包括： - 标记对象从仅视频扩大到视频、音频和图像等更多种类的...](https://weibo.com/1402400261/O8ufU9kYU)
+Token length: 1305
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Generalized Schrödinger Bridge Matching》(ICLR 2024) GitHub: github.com/facebookresearch/generalized-schrodinger-bridge-matching...](https://weibo.com/1402400261/O8u3hzPEl)
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: ['MaxKB - 基于 LLM 大语言模型的知识库问答系统，开箱即用，支持快速嵌入到第三方业务系统' GitHub: github.com/1Panel-dev/MaxKB #开源# #机器学习# #人工智能#...](https://weibo.com/1402400261/O8u2bg0zt)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [【BeeTrove：349K 个 OpenAI 自定义 GPTs 的数据】'BeeTrove - OpenAI GPTs Statistics Dataset' GitHub: github.com/beetrove/openai-gpts-data #开源# #机器学...](https://weibo.com/1402400261/O8tTe2lcP)
+Token length: 422
+Summarized using GPT-3.5-turbo
+Append: [【SCIN Dataset：SCIN 数据集包含来自美国互联网用户的 10,000+ 张皮肤疾病图像】'SCIN Dataset - The SCIN dataset contains 10,000+ images of dermatology co...](https://weibo.com/1402400261/O8tSg6xbJ)
+Token length: 278
+Summarized using GPT-3.5-turbo
+Append: [【Multi-agent Quadruped Environment：多Agent四足机器人环境，支持定位控制或仅高层规划学习】'Multi-agent Quadruped Environment - A multi-agent quadruped...](https://weibo.com/1402400261/O8tQxEkO3)
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: [【microWakeWord：基于 TensorFlow 的唤醒词检测训练框架，使用合成样本生成适用于某些微控制器】'microWakeWord - A TensorFlow based wake word detection tra...](https://weibo.com/1402400261/O8tOj9RiR)
+Token length: 476
+Summarized using GPT-3.5-turbo
+Append: [【Rule-based Retrieval：一个 Python 软件包，用于创建和管理检索增强生成 (RAG) 应用，支持高级过滤功能，集成了 OpenAI 和 Pinecone，用于文本生成和高效的向...](https://weibo.com/1402400261/O8tEkBkex)
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [【从0到1构建一个MiniLLM】'build_MiniLLM_from_scratch - 从0到1构建一个MiniLLM' GitHub: github.com/Tongjilibo/build_MiniLLM_from_scratch #开源# #机器学...](https://weibo.com/1402400261/O8tAX7jU3)
+append_entries: 10
+Finish: 2024-04-06 12:19:15.631307
