@@ -2315,3 +2315,12 @@ Existing_entries: 251
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-06 06:13:38.848324
+------------------------------------------------------
+Started: 2024-04-06 08:13:32.395847
+Existing_entries: 251
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 298
+Summarized using GPT-3.5-turbo
+Append: [#久坐容易导致变傻# Science上的一项最新研究发现，不爱运动，大脑会更加缺氧！来自丹麦、瑞士和美国的研究人员，拍下了小鼠大脑中的氧气分布（图1）图中越亮的...](https://weibo.com/6105753431/O8s8hfjUL)
+append_entries: 1
+Finish: 2024-04-06 08:13:36.967742

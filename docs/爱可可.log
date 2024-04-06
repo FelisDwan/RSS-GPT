@@ -3337,3 +3337,15 @@ Existing_entries: 550
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-06 06:13:39.593873
+------------------------------------------------------
+Started: 2024-04-06 08:13:37.627002
+Existing_entries: 550
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 281
+Summarized using GPT-3.5-turbo
+Append: [【mamba-tiny：简单、紧凑的 Mamba SSM（State Space Model）在 PyTorch 中的实现】'mamba-tiny - Simple, minimal implementation of the Mamba SSM in one pyt...](https://weibo.com/1402400261/O8sSegIG5)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: ['StyleLLM 文风大模型 - StyleLLM文风大模型：基于大语言模型的文本风格迁移项目，提供了四个基于中国四大名著训练的模型。Text style transfer base on Large L...](https://weibo.com/1402400261/O8skhukz7)
+append_entries: 2
+Finish: 2024-04-06 08:13:43.965447
