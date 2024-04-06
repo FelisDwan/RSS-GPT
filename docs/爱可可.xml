@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【mamba-tiny：简单、紧凑的 Mamba SSM（State Space Model）在 PyTorch 中的实现】'mamba-tiny - Simple, minimal implementation of the Mamba SSM in one pyt...</title>
 <link>https://weibo.com/1402400261/O8sSegIG5</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 简单、紧凑、Mamba SSM、PyTorch、实现、GitHub、PeaBrane、efficient、associative scans
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了在PyTorch中实现简单、紧凑的Mamba SSM（State Space Model）的方法，作者提供了一个名为mamba-tiny的项目，该项目在一个pytorch文件中实现了Mamba SSM。相比使用for循环，这种实现更加高效，但可能比使用关联扫描效率稍低。感兴趣的读者可以在GitHub上找到该项目，作者是PeaBrane。 <div>
 【mamba-tiny：简单、紧凑的 Mamba SSM（State Space Model）在 PyTorch 中的实现】'mamba-tiny - Simple, minimal implementation of the Mamba SSM in one pytorch file. More efficient than using for loops, but probably less efficient than using associative scans' GitHub: github.com/PeaBrane/mamba-tiny <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoh4ds047xj20u00ufjvt.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 06 Apr 2024 06:58:55 GMT</pubDate>
 <pubDate>Sat, 06 Apr 2024 06:58:55 GMT</pubDate>
 </item>
 <item>
@@ -25,13 +25,11 @@
 <content:encoded><![CDATA[
 <div> StyleLLM、文本风格迁移、大语言模型、四大名著、训练模型、GitHub、文风大模型、Text style transfer、关键词提取
 
-总结:<br><br>StyleLLM 文风大模型是一个基于大语言模型的文本风格迁移项目，提供了四个训练模型，基于中国四大名著。该项目在GitHub上有代码仓库，用于实现文本风格转换。通过这个项目，用户可以通过大语言模型在不同风格的文本间进行转换，实现文本风格的转移。项目的研究对于文本风格迁移技术的发展和应用具有一定的参考意义。 <div>
+总结:<br /><br />StyleLLM 文风大模型是一个基于大语言模型的文本风格迁移项目，提供了四个训练模型，基于中国四大名著。该项目在GitHub上有代码仓库，用于实现文本风格转换。通过这个项目，用户可以通过大语言模型在不同风格的文本间进行转换，实现文本风格的转移。项目的研究对于文本风格迁移技术的发展和应用具有一定的参考意义。 <div>
 'StyleLLM 文风大模型 - StyleLLM文风大模型：基于大语言模型的文本风格迁移项目，提供了四个基于中国四大名著训练的模型。Text style transfer base on Large Language Model' GitHub: github.com/stylellm/stylellm_models <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoh1y410w4j20vb0u0wl6.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sat, 06 Apr 2024 05:35:16 GMT</pubDate>
-<pubDate>Sat, 06 Apr 2024 05:35:16 GMT</pubDate>
 </item>
-
 <item>
 <title>【RAG进化之路】- 近年来，RAG(检索增强生成)技术在提高语言模型的知识性、准确性等方面发挥着重要作用。RAG可以从外部知识库中检索相关信息，增强语言模型的生...</title>
 <link>https://weibo.com/1402400261/O8q7fqGsi</link>
