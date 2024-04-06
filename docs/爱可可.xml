@@ -5,16 +5,30 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>【RAG进化之路】- 近年来，RAG(检索增强生成)技术在提高语言模型的知识性、准确性等方面发挥着重要作用。RAG可以从外部知识库中检索相关信息，增强语言模型的生...</title>
+<link>https://weibo.com/1402400261/O8q7fqGsi</link>
+<guid>https://weibo.com/1402400261/O8q7fqGsi</guid>
+<content:encoded><![CDATA[
+<div> RAG, 检索增强生成, Naive RAG, Advanced RAG, Modular RAG, 外部知识库, 模块化, 管道化, 搜索模块, RAG-Fusion
+
+<br><br>总结:
+近年来，RAG技术在提高语言模型的知识性、准确性等方面发挥着重要作用。RAG经历了从Naive RAG到Advanced RAG再到Modular RAG的进化过程。Naive RAG存在检索质量不高的问题，而Advanced RAG通过查询重写、细粒度分割等策略改进了此问题。Modular RAG具有模块化和管道化的架构，支持端到端的训练，成为当前的标准范式。其中的新模块如Search模块和RAG-Fusion模块进一步增强了RAG系统的适用性。总体来说，RAG技术的进化促进了语言模型的知识化，Modular RAG为当前RAG研究提供了重要方向。 <div>
+【RAG进化之路】<br />- 近年来，RAG(检索增强生成)技术在提高语言模型的知识性、准确性等方面发挥着重要作用。RAG可以从外部知识库中检索相关信息，增强语言模型的生成能力。   <br />- RAG技术经历了从Naive RAG到Advanced RAG再到Modular RAG的进化。Naive RAG存在检索质量不高，生成容易出现幻觉等问题。Advanced RAG通过查询重写、细粒度分割等策略改进了Naive RAG。   <br />- Modular RAG具有模块化和管道化的架构，可以灵活组合不同模块来解决具体问题，如添加搜索模块等。Modular RAG支持端到端的训练，成为当前RAG应用的标准范式。   <br />- 文章还介绍了Modular RAG中的一些新模块，如Search模块可以利用生成的代码搜索知识图谱，RAG-Fusion模块可以扩展查询的视角。这些创新进一步增强了RAG系统的适用性。   <br />- 总体来说，RAG技术的进化优化了语言模型的知识化，是让语言模型更适合实际应用的关键技术进步。Modular RAG提供了模块化和可定制的方案，成为当前RAG研究的重要方向。<br />《Evolution of RAGs: Naive RAG, Advanced RAG, and Modular RAG Architectures - MarkTechPost》 <a href="https://www.marktechpost.com/2024/04/01/evolution-of-rags-naive-rag-advanced-rag-and-modular-rag-architectures/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hogs7b6j1sj21560p2jxi.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hogs7csd2cj213g0q8aef.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hogs7fi6s3j214i0k20ya.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 05 Apr 2024 23:57:41 GMT</pubDate>
+<pubDate>Fri, 05 Apr 2024 23:57:41 GMT</pubDate>
+</item>
+
+<item>
 <title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@异步图书 送出3本《大语言模型：基础与前沿》，截至2024.4.12 12:00，*可可粉*转...</title>
 <link>https://weibo.com/1402400261/O8pDdpdb8</link>
 <guid>https://weibo.com/1402400261/O8pDdpdb8</guid>
 <content:encoded><![CDATA[
-<div> 大语言模型、前沿进展、科学家、工程师、学生、案例、庖丁解牛、理解、认识、赠书<br>
-<br>
+<div> 大语言模型、前沿进展、科学家、工程师、学生、案例、庖丁解牛、理解、认识、赠书<br />
+<br />
 总结:本文介绍了一本《大语言模型：基础与前沿》的书籍赠送活动，参与者需转发+评论即可参与。该书全面深入地介绍了大语言模型及其前沿进展，适合科学家、工程师和学生参考。书籍摒弃了纯理论说教，而是从案例入手用庖丁解牛的方式帮助读者理解与认识大语言模型。 <div>
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%BC%82%E6%AD%A5%E5%9B%BE%E4%B9%A6">@异步图书</a>  送出3本《大语言模型：基础与前沿》，截至2024.4.12 12:00，*可可粉*转发+评论即可参与。本书全面且深入介绍了大语言模型及其前沿进展，适合所有需要了解这个领域或掌握这种方法与工具的科学家、工程师和学生参考。摒弃了纯理论的说教模式，从案例入手， 采用庖丁解牛的方式帮助读者理解与认识大语言模型。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5019331269755053"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoef8oboqij20ga0m8q8p.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoef9segl7j20m90m9q6z.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoef9t5km0j20m90m942f.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoef9tq2esj20m90m9gpe.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef9ugq5dj20m90m9dif.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Fri, 05 Apr 2024 22:43:42 GMT</pubDate>
 <pubDate>Fri, 05 Apr 2024 22:43:42 GMT</pubDate>
 </item>
 <item>
@@ -24,11 +38,10 @@
 <content:encoded><![CDATA[
 <div> LangChain, LangServe, LangSmith, LLM, 初学者, 应用场景, 生态系统,生成式人工智能,开发者, LangChain团队
 
-<br><br>总结:
+<br /><br />总结:
 LangChain团队推出了《LangChain实战》这本书，专为初学者和对LangChain应用及大语言模型（LLM）应用感兴趣的开发者而编写。本书基于LangChain 0.1版本，配套600分钟详解视频，重点介绍了多个核心应用场景，并深入探讨了LCEL的应用方式。同时，围绕LangChain生态系统的概念，详细探讨了LangChain、LangServe和LangSmith，帮助读者全面了解LangChain团队在生成式人工智能领域的布局。截至2024.4.11 12:00，*可可粉*转发+评论即可参与送出3本《LangChain实战》的活动。 <div>
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《LangChain实战》，截至2024.4.11 12:00，*可可粉*转发+评论即可参与。本书专为初学者和对LangChain应用及大语言模型（LLM）应用感兴趣的开发者而编写的，基于LangChain 0.1版本，配套600分钟详解视频，重点介绍了多个核心应用场景，并且深入探讨了LCEL的应用方式。同时，本书围绕LangChain生态系统的概念，详细探讨LangChain、LangServe和LangSmith，帮助读者全面了解LangChain团队在生成式人工智能领域的布局。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5019329879867805"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a> <a href="https://shop.sc.weibo.com/h5/goods/index?iid=110014024002610004661854"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">LangChain实战：从原型到生产，动手打造 LLM 应用</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef5y7mh4j20m80m843w.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef5ywtixj20ku0zzdmx.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef60gn5cj20m80m80x0.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef61a08vj20m80m8wio.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef62eb09j20m80m8tdb.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hofl98oom9j207q0a0jrm.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Fri, 05 Apr 2024 22:43:07 GMT</pubDate>
 <pubDate>Fri, 05 Apr 2024 22:43:07 GMT</pubDate>
 </item>
 <item>
@@ -38,11 +51,10 @@ LangChain团队推出了《LangChain实战》这本书，专为初学者和对La
 <content:encoded><![CDATA[
 <div> 神经压缩文本、LLM、大型语言模型、演绎、归纳、溯因学习、经验合作机制、师生课程学习、再思考、语言模型、表示微调、人工智能、知识坍缩问题
 
-总结:<br>
+总结:<br />
 本文介绍了使用神经压缩文本训练LLM和大型语言模型的演绎、归纳和溯因学习方法。同时探讨了基于经验合作机制的师生课程学习的再思考，以及语言模型的表示微调。最后讨论了人工智能与知识坍缩问题，为读者提供了对这些领域的深入了解。文章内容丰富，信息量大，是一篇值得一读的文章。 <div>
 今日推介(第1367期)：用神经压缩文本训练LLM、大型语言模型的演绎、归纳和溯因学习、基于经验合作机制的师生课程学习的再思考、语言模型的表示微调、人工智能与知识坍缩问题 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/690889816"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hogq11a160j20zp0u00yg.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hogq13j4zoj20ti0z60zh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hogq186xffj21k80hcaec.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hogq1bd3eoj213s0u0dlu.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hogq1elhakj20s60r00vl.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 05 Apr 2024 22:42:39 GMT</pubDate>
 <pubDate>Fri, 05 Apr 2024 22:42:39 GMT</pubDate>
 </item>
 <item>
@@ -52,10 +64,9 @@ LangChain团队推出了《LangChain实战》这本书，专为初学者和对La
 <content:encoded><![CDATA[
 <div> 关键词: 生成式AI, 假新闻, 检测, 应用, 技术, 主题, 未来方向
 
-总结:<br><br>本文通过结构化文献调研，系统总结分析了生成式AI在假新闻生成与检测方面的应用现状。文章讨论了关键技术和主要课题，指出生成式AI在假新闻领域既能成为祝福，也可能带来诅咒。未来研究方向包括提高生成式AI的检测能力、加强对假新闻生成过程的监管等，有望帮助更好应对假新闻问题。 <div>
+总结:<br /><br />本文通过结构化文献调研，系统总结分析了生成式AI在假新闻生成与检测方面的应用现状。文章讨论了关键技术和主要课题，指出生成式AI在假新闻领域既能成为祝福，也可能带来诅咒。未来研究方向包括提高生成式AI的检测能力、加强对假新闻生成过程的监管等，有望帮助更好应对假新闻问题。 <div>
 [CL] Blessing or curse? A survey on the Impact of Generative AI on Fake News  <br /><a href="https://arxiv.org/abs/2404.03021"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />通过结构化文献调研，全面系统地总结和分析了生成式AI在假新闻生成与检测中的应用现状、关键技术、主要课题和未来方向。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hogpsjen8tj21121bgx0l.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hogpsjjf8tj21rm0rqq9i.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hogpsk2lrsj20pa17in0f.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 05 Apr 2024 22:34:08 GMT</pubDate>
 <pubDate>Fri, 05 Apr 2024 22:34:08 GMT</pubDate>
 </item>
 <item>
@@ -64,12 +75,11 @@ LangChain团队推出了《LangChain实战》这本书，专为初学者和对La
 <guid>https://weibo.com/1402400261/O8pvuhX15</guid>
 <content:encoded><![CDATA[
 <div> 解释忠实度、自然语言、指标、反事实测试、细节、评估、新指标、质量、大语言模型、补充
-<br>
-<br>
+<br />
+<br />
 总结:本文提出了一个新的衡量自然语言解释忠实度的指标——相关解释忠实度(CEF)，并基于此提出了反事实测试(CCT)。CEF能够更全面地捕捉解释质量的细节，是对解释忠实度评估的有益补充。通过研究大语言模型中的自由文本解释，文章强调了解释质量和忠实度的重要性，并指出传统衡量方法可能存在的局限性。CEF和CCT的提出为解释忠实度的评估提供了新的视角和工具，有助于提高解释质量的准确性和全面性。 <div>
 [CL] The Probabilities Also Matter: A More Faithful Metric for Faithfulness of Free-Text Explanations in Large Language Models  <br /><a href="https://arxiv.org/abs/2404.03189"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>   <br />提出相关解释忠实度(CEF)这一衡量自然语言解释忠实度的新指标，并基于此提出了相关反事实测试(CCT)，能捕捉解释质量的更多细节，是对解释忠实度评估的有益补充。<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hogpioppe4j20v21b4h2d.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hogpiou8tmj21ee0rc45e.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 05 Apr 2024 22:24:39 GMT</pubDate>
 <pubDate>Fri, 05 Apr 2024 22:24:39 GMT</pubDate>
 </item>
 <item>
@@ -83,7 +93,6 @@ LangChain团队推出了《LangChain实战》这本书，专为初学者和对La
 [CL] Learning to Plan and Generate Text with Citations  <br /><a href="https://arxiv.org/abs/2404.03381"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />通过引入问题序列作为生成蓝图，探索了规划型模型的归因能力，发现相比标准序列到序列，规划明显提升了长篇问答的输出质量和引文准确率。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hogp8pu7yoj20v61aswwp.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hogp8q52fcj219619eqio.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hogp8r2xzyj219i0jcn6s.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 05 Apr 2024 22:15:06 GMT</pubDate>
-<pubDate>Fri, 05 Apr 2024 22:15:06 GMT</pubDate>
 </item>
 <item>
 <title>[RO] Embodied Neuromorphic Artificial Intelligence for Robotics: Perspectives, Challenges, and Research Development Stack 网页链接 全面概述了具身神经...</title>
@@ -92,11 +101,10 @@ LangChain团队推出了《LangChain实战》这本书，专为初学者和对La
 <content:encoded><![CDATA[
 <div> 具身神经拟态人工智能、机器人、应用现状、关键挑战、未来发展方向、研究、技术、智能、模型
 
-<br><br>总结:
+<br /><br />总结:
 本文详细介绍了具身神经拟态人工智能在机器人领域的应用现状，包括现有技术和模型的发展。同时探讨了该领域面临的关键挑战，例如如何将人工智能技术与机器人实际应用相结合，并解决实际问题。未来发展方向包括加强研究，推动技术进步，提高智能机器人的性能和功能，拓展其应用范围。整体而言，具身神经拟态人工智能对机器人的发展至关重要，将为未来的机器人技术注入新的活力。 <div>
 [RO] Embodied Neuromorphic Artificial Intelligence for Robotics: Perspectives, Challenges, and Research Development Stack  <br /><a href="https://arxiv.org/abs/2404.03325"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />全面概述了具身神经拟态人工智能在机器人领域的应用现状、关键挑战和未来发展方向。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hogov3zvkyj21161byx4v.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hogov4f35jj21lu0va7kl.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hogov4i2zzj21720qsagl.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 05 Apr 2024 22:02:00 GMT</pubDate>
 <pubDate>Fri, 05 Apr 2024 22:02:00 GMT</pubDate>
 </item>
 <item>
@@ -106,11 +114,10 @@ LangChain团队推出了《LangChain实战》这本书，专为初学者和对La
 <content:encoded><![CDATA[
 <div> AI, knowledge collapse, narrow distribution, individual choice, risk avoidance, model, strategy, Peterson, University of Poitiers
 
-<br><br>总结:
+<br /><br />总结:
 文章指出依赖AI可能导致知识分布狭窄化的问题，但也提出个体的策略性选择可以有助于避免这一风险。通过构建模型，研究者分析了AI对知识分布的影响，强调了个体在面对这一问题时的重要性。个体可以根据自身需求和偏好，选择适合自己的策略，从而降低潜在的风险。这一研究对于理解AI与知识分布之间的关系具有重要意义，也为个体在使用AI时提供了有益的启示。Peterson教授的研究为我们提供了更深入的思考，并为应对知识分布狭窄化的挑战提供了有益的思路。 <div>
 文章构建模型指出依赖AI可能导致知识分布狭窄化，但个体的策略性选择可能有助避免这一风险。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [AI]《AI and the Problem of Knowledge Collapse》A J. Peterson [University of Poitiers] (2024) <a href="https://arxiv.org/abs/2404.03502"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hognnc1b5jj20m015s7dp.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hognnceiyhj20o616wqc1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hognncyb2cj20s40nkaby.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hognndegsxj20s60r0tcf.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hognx0ib6nj20hj0ja3zi.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hognx0i633j20hh0jat9o.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hognx0i776j20hj0jat9b.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hognx0i2hzj20ht0en74o.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Fri, 05 Apr 2024 21:29:21 GMT</pubDate>
 <pubDate>Fri, 05 Apr 2024 21:29:21 GMT</pubDate>
 </item>
 <item>
@@ -120,11 +127,10 @@ LangChain团队推出了《LangChain实战》这本书，专为初学者和对La
 <content:encoded><![CDATA[
 <div> knowledge collapse, AI, problem, ethics, decision-making, reliability, uncertainty, bias, information overload
 
-<br><br>总结:
+<br /><br />总结:
 在Peterson的文章中，探讨了人工智能与知识塌缩的问题。人工智能在决策过程中可能存在伦理、可靠性、不确定性、偏见和信息过载等挑战。知识塌缩可能导致人工智能系统无法正确处理复杂情况，从而影响决策的准确性。处理这一问题需要进一步研究和讨论，以确保人工智能系统的发展能够更好地服务人类社会。 <div>
 [AI]《AI and the Problem of Knowledge Collapse》A J. Peterson [University of Poitiers] (2024) <a href="https://arxiv.org/abs/2404.03502"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hognnc1b5jj20m015s7dp.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hognnceiyhj20o616wqc1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hognncyb2cj20s40nkaby.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hognndegsxj20s60r0tcf.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hognx0ib6nj20hj0ja3zi.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hognx0i633j20hh0jat9o.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hognx0i776j20hj0jat9b.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hognx0i2hzj20ht0en74o.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 05 Apr 2024 21:29:14 GMT</pubDate>
 <pubDate>Fri, 05 Apr 2024 21:29:14 GMT</pubDate>
 </item>
 <item>
@@ -134,13 +140,11 @@ LangChain团队推出了《LangChain实战》这本书，专为初学者和对La
 <content:encoded><![CDATA[
 <div> 微调框架、语言模型表示、下游任务、权重调整、有针对性干预、更少参数、表现更好
 
-<br><br>总结:本文提出了一种名为ReFT的表示微调框架，通过对语言模型的表示进行有针对性的干预来实现更好的下游任务表现。与传统调整权重相比，该方法可以用更少的参数达到类似甚至更好的效果。通过实验证明，ReFT框架在各种下游任务中表现出色，证实了其有效性和实用性。这一研究对于提高语言模型在各类任务中的性能有着重要的指导意义。 <div>
+<br /><br />总结:本文提出了一种名为ReFT的表示微调框架，通过对语言模型的表示进行有针对性的干预来实现更好的下游任务表现。与传统调整权重相比，该方法可以用更少的参数达到类似甚至更好的效果。通过实验证明，ReFT框架在各种下游任务中表现出色，证实了其有效性和实用性。这一研究对于提高语言模型在各类任务中的性能有着重要的指导意义。 <div>
 提出表示微调框架，发现相比调整权重，直接对语言模型的表示进行有针对性的干预可以以更少的参数实现类似或更好的下游任务表现。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《ReFT: Representation Finetuning for Language Models》Z Wu, A Arora, Z Wang, A Geiger… [Stanford University] (2024) <a href="https://arxiv.org/abs/2404.03592"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hognhufqy7j21220lcn5y.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hognhutgorj219o0lg0z4.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hognhvez0bj219o0lg0z4.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 05 Apr 2024 21:14:49 GMT</pubDate>
-<pubDate>Fri, 05 Apr 2024 21:14:49 GMT</pubDate>
 </item>
-
 <item>
 <title>《爱可可微博热门分享(4.5)》 爱可可微博热门分享(4.5) [图片]</title>
 <link>https://weibo.com/1402400261/O8mxq2PL2</link>

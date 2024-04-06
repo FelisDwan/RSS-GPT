@@ -3316,3 +3316,12 @@ Summarized using GPT-3.5-turbo
 Append: [提出表示微调框架，发现相比调整权重，直接对语言模型的表示进行有针对性的干预可以以更少的参数实现类似或更好的下游任务表现。 - 转发 @爱可可-爱生活:&ensp;[...](https://weibo.com/1402400261/O8p392NYd)
 append_entries: 10
 Finish: 2024-04-06 00:49:05.657076
+------------------------------------------------------
+Started: 2024-04-06 02:16:45.114552
+Existing_entries: 549
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 580
+Summarized using GPT-3.5-turbo
+Append: [【RAG进化之路】- 近年来，RAG(检索增强生成)技术在提高语言模型的知识性、准确性等方面发挥着重要作用。RAG可以从外部知识库中检索相关信息，增强语言模型的生...](https://weibo.com/1402400261/O8q7fqGsi)
+append_entries: 1
+Finish: 2024-04-06 02:16:51.703232
