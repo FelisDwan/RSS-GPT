@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【RAG进化之路】- 近年来，RAG(检索增强生成)技术在提高语言模型的知识性、准确性等方面发挥着重要作用。RAG可以从外部知识库中检索相关信息，增强语言模型的生...</title>
 <link>https://weibo.com/1402400261/O8q7fqGsi</link>
@@ -11,14 +12,12 @@
 <content:encoded><![CDATA[
 <div> RAG, 检索增强生成, Naive RAG, Advanced RAG, Modular RAG, 外部知识库, 模块化, 管道化, 搜索模块, RAG-Fusion
 
-<br><br>总结:
+<br /><br />总结:
 近年来，RAG技术在提高语言模型的知识性、准确性等方面发挥着重要作用。RAG经历了从Naive RAG到Advanced RAG再到Modular RAG的进化过程。Naive RAG存在检索质量不高的问题，而Advanced RAG通过查询重写、细粒度分割等策略改进了此问题。Modular RAG具有模块化和管道化的架构，支持端到端的训练，成为当前的标准范式。其中的新模块如Search模块和RAG-Fusion模块进一步增强了RAG系统的适用性。总体来说，RAG技术的进化促进了语言模型的知识化，Modular RAG为当前RAG研究提供了重要方向。 <div>
 【RAG进化之路】<br />- 近年来，RAG(检索增强生成)技术在提高语言模型的知识性、准确性等方面发挥着重要作用。RAG可以从外部知识库中检索相关信息，增强语言模型的生成能力。   <br />- RAG技术经历了从Naive RAG到Advanced RAG再到Modular RAG的进化。Naive RAG存在检索质量不高，生成容易出现幻觉等问题。Advanced RAG通过查询重写、细粒度分割等策略改进了Naive RAG。   <br />- Modular RAG具有模块化和管道化的架构，可以灵活组合不同模块来解决具体问题，如添加搜索模块等。Modular RAG支持端到端的训练，成为当前RAG应用的标准范式。   <br />- 文章还介绍了Modular RAG中的一些新模块，如Search模块可以利用生成的代码搜索知识图谱，RAG-Fusion模块可以扩展查询的视角。这些创新进一步增强了RAG系统的适用性。   <br />- 总体来说，RAG技术的进化优化了语言模型的知识化，是让语言模型更适合实际应用的关键技术进步。Modular RAG提供了模块化和可定制的方案，成为当前RAG研究的重要方向。<br />《Evolution of RAGs: Naive RAG, Advanced RAG, and Modular RAG Architectures - MarkTechPost》 <a href="https://www.marktechpost.com/2024/04/01/evolution-of-rags-naive-rag-advanced-rag-and-modular-rag-architectures/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hogs7b6j1sj21560p2jxi.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hogs7csd2cj213g0q8aef.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hogs7fi6s3j214i0k20ya.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 05 Apr 2024 23:57:41 GMT</pubDate>
-<pubDate>Fri, 05 Apr 2024 23:57:41 GMT</pubDate>
 </item>
-
 <item>
 <title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@异步图书 送出3本《大语言模型：基础与前沿》，截至2024.4.12 12:00，*可可粉*转...</title>
 <link>https://weibo.com/1402400261/O8pDdpdb8</link>

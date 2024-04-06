@@ -3325,3 +3325,9 @@ Summarized using GPT-3.5-turbo
 Append: [【RAG进化之路】- 近年来，RAG(检索增强生成)技术在提高语言模型的知识性、准确性等方面发挥着重要作用。RAG可以从外部知识库中检索相关信息，增强语言模型的生...](https://weibo.com/1402400261/O8q7fqGsi)
 append_entries: 1
 Finish: 2024-04-06 02:16:51.703232
+------------------------------------------------------
+Started: 2024-04-06 04:14:01.231383
+Existing_entries: 550
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-06 04:14:01.345472
