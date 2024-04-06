@@ -3280,3 +3280,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# 爱可可-爱生活的微博视频](https://weibo.com/1402400261/O8myh1Zvi)
 append_entries: 0
 Finish: 2024-04-05 22:10:52.878416
+------------------------------------------------------
+Started: 2024-04-06 00:48:31.807129
+Existing_entries: 539
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@异步图书 送出3本《大语言模型：基础与前沿》，截至2024.4.12 12:00，*可可粉*转...](https://weibo.com/1402400261/O8pDdpdb8)
+Token length: 270
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《LangChain实战》，截至2024.4.11 12:00，*可可粉*转...](https://weibo.com/1402400261/O8pCZ8LXr)
+Token length: 101
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1367期)：用神经压缩文本训练LLM、大型语言模型的演绎、归纳和溯因学习、基于经验合作机制的师生课程学习的再思考、语言模型的表示微调、人工智能与...](https://weibo.com/1402400261/O8pCNjvOY)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [[CL] Blessing or curse? A survey on the Impact of Generative AI on Fake News 网页链接 通过结构化文献调研，全面系统地总结和分析了生成式AI在假新闻生成与...](https://weibo.com/1402400261/O8pzl1jvt)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [[CL] The Probabilities Also Matter: A More Faithful Metric for Faithfulness of Free-Text Explanations in Large Language Models 网页链接 提出相关解释忠...](https://weibo.com/1402400261/O8pvuhX15)
+Token length: 122
+Summarized using GPT-3.5-turbo
+Append: [[CL] Learning to Plan and Generate Text with Citations 网页链接 通过引入问题序列作为生成蓝图，探索了规划型模型的归因能力，发现相比标准序列到序列，规划...](https://weibo.com/1402400261/O8prC2QRE)
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [[RO] Embodied Neuromorphic Artificial Intelligence for Robotics: Perspectives, Challenges, and Research Development Stack 网页链接 全面概述了具身神经...](https://weibo.com/1402400261/O8pmigBsm)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [文章构建模型指出依赖AI可能导致知识分布狭窄化，但个体的策略性选择可能有助避免这一风险。 - 转发 @爱可可-爱生活:&ensp;[AI]《AI and the Problem of Knowled...](https://weibo.com/1402400261/O8p92wTuh)
+Token length: 94
+Summarized using GPT-3.5-turbo
+Append: [[AI]《AI and the Problem of Knowledge Collapse》A J. Peterson [University of Poitiers] (2024) 网页链接 #机器学习##人工智能##论文# [图片][图片][图片][...](https://weibo.com/1402400261/O8p8ZzzRL)
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [提出表示微调框架，发现相比调整权重，直接对语言模型的表示进行有针对性的干预可以以更少的参数实现类似或更好的下游任务表现。 - 转发 @爱可可-爱生活:&ensp;[...](https://weibo.com/1402400261/O8p392NYd)
+append_entries: 10
+Finish: 2024-04-06 00:49:05.657076
