@@ -3506,3 +3506,37 @@ Existing_entries: 573
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-07 14:10:12.492724
+------------------------------------------------------
+Started: 2024-04-07 16:12:19.855591
+Existing_entries: 573
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O8FiZ4dbg)
+Token length: 19
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(4.7)》 爱可可微博热门分享(4.7) [图片]](https://weibo.com/1402400261/O8FiGjnut)
+Token length: 984
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World》(CVPR 2024) Git...](https://weibo.com/1402400261/O8EPYv3SI)
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [【Mantis：一个命令行框架，旨在自动化资产发现、反 reconnaissance 和漏洞扫描的工作流程。它支持自动化分发扫描、超级容易定制扫描、仪表板支持、漏洞管理、高...](https://weibo.com/1402400261/O8EPydgTG)
+Token length: 349
+Summarized using GPT-3.5-turbo
+Append: [【Live Transcription with Whisper PoC in Server - Client setup：提供了一个 Live-Transcription (STT) with Whisper PoC 的解决方案，基于 server-client 架...](https://weibo.com/1402400261/O8EO17IU6)
+Token length: 317
+Summarized using GPT-3.5-turbo
+Append: [【ONNX-YOLO-World-Open-Vocabulary-Object-Detection：用 YOLO-World 模型在 ONNX 中执行开放词汇对象检测的脚本】'ONNX-YOLO-World-Open-Vocabulary-Object-De...](https://weibo.com/1402400261/O8EMFBMEB)
+Token length: 254
+Summarized using GPT-3.5-turbo
+Append: [【twitter-web-exporter：使用 TypeScript 开发的开源项目，可用于从 Twitter 网页应用程序导出 tweets、书签、列表、搜索结果、用户关注列表等】'twitter-web-e...](https://weibo.com/1402400261/O8EGCt7Uc)
+Token length: 250
+Summarized using GPT-3.5-turbo
+Append: [【Boehm-Demers-Weiser Garbage Collector：保守的 C/C++ 垃圾收集器，可以在使用时动态分配内存】'Boehm-Demers-Weiser Garbage Collector - The Boehm-Demers-...](https://weibo.com/1402400261/O8EEBtxd4)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [【OpenAI Streaming：一个 Python 库，提供易于使用的 Pythonic 接口，支持 OpenAI 的基于生成器的 Streaming，并支持回调机制来处理流内容】'OpenAI Streaming ...](https://weibo.com/1402400261/O8EDWAapl)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [【torchdbg：PyTorch 操作的跟踪器和反应式 UI，用于以调试器的形式可视化跟踪】'torchdbg - PyTorch centric eager mode debugger' GitHub: github.com/ezyang/...](https://weibo.com/1402400261/O8EDkyBfv)
+append_entries: 9
+Finish: 2024-04-07 16:12:52.443024
