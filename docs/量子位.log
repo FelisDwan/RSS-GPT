@@ -2372,3 +2372,12 @@ Existing_entries: 252
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-07 00:54:47.359087
+------------------------------------------------------
+Started: 2024-04-07 02:21:31.343896
+Existing_entries: 252
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 296
+Summarized using GPT-3.5-turbo
+Append: [#苹果将裁员超600人# 苹果公司最近按要求向美国加州提交了一份通知，确认了永久性裁员600多名员工的计划。根据加州法律，雇主必须在大规模裁员前60天通知员工和...](https://weibo.com/6105753431/O8zYWlfv6)
+append_entries: 1
+Finish: 2024-04-07 02:21:35.228550
