@@ -5,20 +5,47 @@
 <link>https://weibo.com/6105753431/</link>
 
 <item>
+<title>#Claude3十大玩法# 分享10个人们用 Claude3 构建智能体的实用例子，附相关开源地址~1.Claude-Author作用：根据简单提示生成真正可读的小说特色：一本 15 章的小...</title>
+<link>https://weibo.com/6105753431/O8AWfkNou</link>
+<guid>https://weibo.com/6105753431/O8AWfkNou</guid>
+<content:encoded><![CDATA[
+<div> Claude3, 智能体, 实用例子, Claude-Author, SWE-bench, Claude Code Interpreter, day 0 Claude Function Calling Agent, 分析播客, claude-researcher, Claude 3 提示优化器, AI-guide demo day meditation, Maestro-GPT，
+
+总结：
+Claude3 是一个强大的智能体，可以用于多种实际应用。通过 Claude-Author，可以快速生成小说；使用 SWE-bench 可以快速修复GitHub上的难题；Claude Code Interpreter 是一个代码解释器；day 0 Claude Function Calling Agent 可以实现高级的 QA/RAG、工作流自动化等功能；分析播客可以帮助用户快速获取播客信息；claude-researcher 可以生成完整的研究报告；Claude 3 提示优化器可以将简单的提示变成高级提示模板；AI-guide demo day meditation 可以撰写冥想视频文案；在 VSCode 中连接 Claude 3 可以在编程中使用智能体；通过 Maestro-GPT 指导 Claude 3 编写代码，可以得到更好的效果。Claude3 在各个领域都展现出了强大的应用潜力。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Claude3%E5%8D%81%E5%A4%A7%E7%8E%A9%E6%B3%95%23&amp;extparam=%23Claude3%E5%8D%81%E5%A4%A7%E7%8E%A9%E6%B3%95%23"><span class="surl-text">#Claude3十大玩法#</span></a> <br /><br />分享10个人们用 Claude3 构建智能体的实用例子，附相关开源地址~<br /><br />1.Claude-Author<br /><br />作用：根据简单提示生成真正可读的小说<br />特色：一本 15 章的小说制作成本低至 4 美元，而且只需几分钟即可写完 / 可自动生成原创精美封面图 / 图书生成后可立即下载并在任何兼容 EPUB 的查看器或设备上阅读<br />开源地址：<a href="https://github.com/mshumer/gpt-author/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><br />2.SWE-bench<br /><br />作用：修复GitHub难题<br />特色：修复同样bug，普通开发人员接近 2-8 小时，而智能体不到4分钟<br />地址：<a href="https://www.swebench.com/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><br />3. Claude Code Interpreter <br /><br />作用：代码解释器<br />特色：一个类似于 ChatGPT Data Analyst 的 Claude 模型，只需几行代码<br />开源地址：<a href="https://github.com/e2b-dev/e2b-cookbook/blob/main/examples/claude-code-interpreter/claude_code_interpreter.ipynb"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><br />4.day 0 Claude Function Calling Agent<br /><br />作用：使用 Anthropic 的 API 进行函数调用<br />特色：可利用工具调用功能来实现高级 QA/RAG、工作流自动化等<br />地址：<a href="https://github.com/run-llama/llama_index/blob/main/docs/docs/examples/agent/anthropic_agent.ipynb"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><br />5.分析播客<br /><br />作用：有网友用智能体分析了 Dwarkesh Patel 频道的所有 63 个播客，并提取了有用的书籍推荐、职业建议、有趣的想法、学习技巧等。总计用时33分钟，处理了 149 万个代币，成本为 23 美元。<br />提示示例：<a href="https://arunprakash.ai/posts/dwarkesh-patel-anthropic-claude3-opus-python/podcast_analysis.html"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><br />6.claude-researcher<br /><br />作用：只需提供一个主题，智能体会直接生成一份完整研究报告<br />特色：可全网谷歌搜索 / 时间快<br />开源地址：<a href="https://github.com/mshumer/ai-researcher"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><br />7.Claude 3 提示优化器<br /><br />作用：可以将简单的提示变成高级提示模板<br />提示库（持更中）：<a href="https://docs.google.com/document/d/1-yka22Ro7kzWBA0_KmBEBJVPIRN-tb62eg6iXi6CEzY/edit"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><br />8.AI-guide demo day meditation<br /><br />作用：撰写冥想视频文案，有网友分享了用该智能体在愚人节生成冥想搞笑视频的例子，该视频成为了 YC 论坛上的热门帖子。<br />特色：claude3具有比GPT4更好的幽默感，在撰写营销文案上效果更佳<br />工具地址：<a href="https://mindf.cc/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><br />9.在 VSCode 中连接 Claude 3 <br /><br />作用：在 VSCode 中连接 Claude 3 编程<br />详细步骤：<a href="https://twitter.com/dani_avila7/status/1775676944937259396"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><br />10.Maestro-GPT<br /><br />作用：使用 GPT-4 指导 Claude 3 编写代码<br />特色：二者结合使用效果更佳<br />工具地址：<a href="https://github.com/Doriandarko/maestro/commit/9f834aa6a7d1dfc9f740a5cdf7c3046c3c3d89b4"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hoi3uw6v2sj31h20om78g.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hoi3uzfk5aj30p00fx79w.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hoi3vrx33ij30iw0clta6.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hoi3wddtu4j30xc0ir3zz.jpg" /><br /><br /><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax3.sinaimg.cn/orj480/006Fd7o3ly1hoi3ytl5osj31cw0u0wfz.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/jWbOl2Cllx08dTl26yog01041200cxSf0E010.mp4?label=mp4_720p&amp;template=1172x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712465958&amp;ssig=10ANYN3lcr&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/Bg2ujcWelx08dTl1MvAY0104120066GI0E010.mp4?label=mp4_hd&amp;template=780x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712465958&amp;ssig=T99aXwXbW%2B&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/Z9iLu6Nolx08dTl24GmI010412003ChL0E010.mp4?label=mp4_ld&amp;template=584x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712465958&amp;ssig=7ZzZu%2F9yEF&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5020484992172044" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
+]]></content:encoded>
+<pubDate>Sun, 07 Apr 2024 03:30:48 GMT</pubDate>
+<pubDate>Sun, 07 Apr 2024 03:30:48 GMT</pubDate>
+</item>
+<item>
+<title>#微软开创量子计算新时代# 微软与量子计算公司Quantinuum的合作取得了重大突破，将可靠量子计算带入了新的时代。通过将微软编写的纠错算法应用于Quantinum的物理...</title>
+<link>https://weibo.com/6105753431/O8ATP5rHT</link>
+<guid>https://weibo.com/6105753431/O8ATP5rHT</guid>
+<content:encoded><![CDATA[
+<div> 微软、Quantinuum、量子计算、纠错算法、14,000次独立实例、错误率、量子比特、商业化、云计算客户、关键一步
+
+<br><br>总结:
+微软与量子计算公司Quantinuum合作取得重大突破，成功将纠错算法应用于物理量子位，运行14,000次实例无错误。相比谷歌2019年量子霸权宣布，微软方法实现了极低错误率，商业化迈出关键一步，计划向云计算客户发布技术。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BE%AE%E8%BD%AF%E5%BC%80%E5%88%9B%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%96%B0%E6%97%B6%E4%BB%A3%23&amp;extparam=%23%E5%BE%AE%E8%BD%AF%E5%BC%80%E5%88%9B%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%96%B0%E6%97%B6%E4%BB%A3%23"><span class="surl-text">#微软开创量子计算新时代#</span></a>  <br /><br />微软与量子计算公司Quantinuum的合作取得了重大突破，将可靠量子计算带入了新的时代。<br /><br />通过将微软编写的纠错算法应用于Quantinum的物理量子位，团队成功运行了14,000个独立的量子电路实例，而没有出现任何错误。<br /><br />在此之前，曾于2019年10月23日宣布取得量子霸权的谷歌，他们构建的量子计算机每运行100次就可能宕机一次。此外，谷歌团队在2023年宣称，为了开发大规模量子计算机，需要将量子比特的错误率降低到(1/10)^9到(1/10)^6的范围内。<br /><br />而微软与Quantinuum的新方法实现了逻辑量子比特的电路错误率为 10-5或 0.00001，这意味着它们每 100,000 次运行只会出错一次。<br /><br />这一错误率距离2023年谷歌提出的范围已经非常接近了！<br /><br />微软表示，计划在未来几个月向其云计算客户发布这项技术，这意味着量子计算在商业化方面已经迈出了关键一步。<img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hoi3t22hzuj30t30gdh0y.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hoi3t6niy6g30m80cfe86.gif" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 07 Apr 2024 03:24:49 GMT</pubDate>
+<pubDate>Sun, 07 Apr 2024 03:24:49 GMT</pubDate>
+</item>
+
+<item>
 <title>#苹果将裁员超600人# 苹果公司最近按要求向美国加州提交了一份通知，确认了永久性裁员600多名员工的计划。根据加州法律，雇主必须在大规模裁员前60天通知员工和...</title>
 <link>https://weibo.com/6105753431/O8zYWlfv6</link>
 <guid>https://weibo.com/6105753431/O8zYWlfv6</guid>
 <content:encoded><![CDATA[
 <div> 苹果公司, 加州, 裁员, 员工, 通知, microLED显示屏, 汽车项目, 取消, 项目终止, 内部犹豫不决
 
-<br><br>总结:
+<br /><br />总结:
 苹果公司按照加州法律要求通知了超过600名员工的永久性裁员计划，其中至少有87名员工与microLED显示屏项目相关，其余与汽车项目相关。这两个项目在公司内部因为发展方向和成本问题而面临终止。苹果发言人拒绝对裁员影响的员工人数进行评论。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9C%E5%B0%86%E8%A3%81%E5%91%98%E8%B6%85600%E4%BA%BA%23&amp;extparam=%23%E8%8B%B9%E6%9E%9C%E5%B0%86%E8%A3%81%E5%91%98%E8%B6%85600%E4%BA%BA%23"><span class="surl-text">#苹果将裁员超600人#</span></a> <br /><br />苹果公司最近按要求向美国加州提交了一份通知，确认了永久性裁员600多名员工的计划。<br /><br />根据加州法律，雇主必须在大规模裁员前60天通知员工和州代表。<br /><br />美媒称，裁员名单上的员工分布在加州圣克拉拉周围的多栋苹果办公大楼里。<br /><br />其中至少有87人的工作地址与microLED显示屏的项目相关，而其余员工的地址则与汽车项目相关的建筑相对应。<br /><br />据悉，苹果在2月底开始逐步取消这两个项目。<br /><br />汽车项目原本被视为苹果进军新领域的重大计划，但由于公司内部对发展方向和成本问题的犹豫不决，最终决定放弃。<br /><br />而microLED显示屏项目则因为工程、供应商和成本方面的挑战而被迫终止。<br /><br />目前，苹果发言人拒绝就受裁员影响的员工人数发表评论。<img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hohzraf54kj30hs0cgq5n.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 07 Apr 2024 01:04:41 GMT</pubDate>
-<pubDate>Sun, 07 Apr 2024 01:04:41 GMT</pubDate>
 </item>
-
 <item>
 <title>#久坐容易导致变傻# Science上的一项最新研究发现，不爱运动，大脑会更加缺氧！来自丹麦、瑞士和美国的研究人员，拍下了小鼠大脑中的氧气分布（图1）图中越亮的...</title>
 <link>https://weibo.com/6105753431/O8s8hfjUL</link>
