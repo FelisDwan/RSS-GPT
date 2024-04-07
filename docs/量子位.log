@@ -2393,3 +2393,15 @@ Summarized using GPT-3.5-turbo
 Append: [#微软开创量子计算新时代# 微软与量子计算公司Quantinuum的合作取得了重大突破，将可靠量子计算带入了新的时代。通过将微软编写的纠错算法应用于Quantinum的物理...](https://weibo.com/6105753431/O8ATP5rHT)
 append_entries: 2
 Finish: 2024-04-07 04:15:17.856319
+------------------------------------------------------
+Started: 2024-04-07 06:13:20.270185
+Existing_entries: 255
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 387
+Summarized using GPT-3.5-turbo
+Append: [#大模型是超级马里奥# 在游戏里，马里奥可以通过吸收其他物品获得超能力。而现在，无需训练或GPU，LLM也可以通过吸收其他模型来增强能力了。这是阿里团队发表的...](https://weibo.com/6105753431/O8Bx9dTHW)
+Token length: 420
+Summarized using GPT-3.5-turbo
+Append: [#第一台可编程机器# 谁能想到编程的鼻祖竟是一台织布机？（doge）1748年，第一台可编程机器 Vaucanson Loom 诞生了，它是由法国发明家雅克·德·沃康松设计的自...](https://weibo.com/6105753431/O8BeFjRNi)
+append_entries: 2
+Finish: 2024-04-07 06:13:31.022551
