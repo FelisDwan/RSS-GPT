@@ -4,6 +4,141 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>通过“短视训练”发现，transformer在语言建模场景下并没有有意识地提前缓存对未来有用的信息，主要是当前有用的特征也对未来有用。 - 转发 @爱可可-爱生活:&amp;ens...</title>
+<link>https://weibo.com/1402400261/O8HWDg5WJ</link>
+<guid>https://weibo.com/1402400261/O8HWDg5WJ</guid>
+<content:encoded><![CDATA[
+<div> 语言模型、Transformer、短视训练、缓存信息、未来特征、语言建模、意识<br>
+<br>
+提到的研究表明，在语言建模中，Transformer并没有有意识地提前缓存对未来有用的信息。研究发现当前有用的特征也对未来有用，说明Transformer在处理语言建模场景下并不会预先计划未来的token。这一发现对于理解Transformer在语言建模中的工作方式具有重要意义。 <div>
+通过“短视训练”发现，transformer在语言建模场景下并没有有意识地提前缓存对未来有用的信息，主要是当前有用的特征也对未来有用。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Do language models plan ahead for future tokens?》W Wu, J X. Morris, L Levine [University of Colorado Boulder &amp; Cornell University] (2024) <a href="https://arxiv.org/abs/2404.00859"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoiyqr6kn4j215c0msthf.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiyqrrmolj21ce0w0tej.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoiyqrvyzzj21ck0wwn1h.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiyqs4y34j21co12qk2w.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiywy3oi4j20vd0eo3zo.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiywy32pwj20ve0fbgn6.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 07 Apr 2024 21:20:58 GMT</pubDate>
+<pubDate>Sun, 07 Apr 2024 21:20:58 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《Do language models plan ahead for future tokens?》W Wu, J X. Morris, L Levine [University of Colorado Boulder &amp; Cornell University] (2024) 网页...</title>
+<link>https://weibo.com/1402400261/O8HWAAnw0</link>
+<guid>https://weibo.com/1402400261/O8HWAAnw0</guid>
+<content:encoded><![CDATA[
+<div> 模型，语言，规划，未来，令牌，预测，计划
+
+本文研究了语言模型是否会提前规划未来的令牌。研究发现，一些语言模型确实会对未来的令牌进行规划，而不仅仅是根据当前的上下文进行预测。这种规划行为有助于提高模型在语言任务中的性能表现。然而，研究也指出，虽然这种规划可以提高模型的性能，但也会增加模型的计算复杂性和资源消耗。因此，未来的研究需要平衡这些因素，以实现更好的性能和效率。总的来说，语言模型的规划行为在提高性能方面有潜力，但需要综合考虑计算成本和效果。<br><br>总结: <div>
+[CL]《Do language models plan ahead for future tokens?》W Wu, J X. Morris, L Levine [University of Colorado Boulder &amp; Cornell University] (2024) <a href="https://arxiv.org/abs/2404.00859"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoiyqr6kn4j215c0msthf.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiyqrrmolj21ce0w0tej.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoiyqrvyzzj21ck0wwn1h.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiyqs4y34j21co12qk2w.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiywy3oi4j20vd0eo3zo.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiywy32pwj20ve0fbgn6.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 07 Apr 2024 21:20:52 GMT</pubDate>
+<pubDate>Sun, 07 Apr 2024 21:20:52 GMT</pubDate>
+</item>
+<item>
+<title>利用语言模型跨语言的文本理解能力，以及对比学习框架，从语言模型中构建出强大的跨语言跨模态语音文本匹配系统。 - 转发 @爱可可-爱生活:&amp;ensp;[CL]《Transform...</title>
+<link>https://weibo.com/1402400261/O8HTmeOnG</link>
+<guid>https://weibo.com/1402400261/O8HTmeOnG</guid>
+<content:encoded><![CDATA[
+<div> 跨语言文本理解, 跨模态匹配, 语言模型, 对比学习, 跨语言检索, 跨模态检索, 文本匹配, 跨语言研究
+
+<br><br>总结:
+本文提出了一种利用语言模型构建跨语言跨模态语音文本匹配系统的方法。通过对比学习框架，将语言模型转化为跨模态和跨语言的检索系统。该系统具有强大的文本理解能力，能够实现跨语言检索和跨模态匹配。这一研究为解决语言和模态之间的匹配问题提供了新的思路和方法。 <div>
+利用语言模型跨语言的文本理解能力，以及对比学习框架，从语言模型中构建出强大的跨语言跨模态语音文本匹配系统。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Transforming LLMs into Cross-modal and Cross-lingual Retrieval Systems》F P Gomez, R Sanabria, Y Sung, D Cer… [Google Research &amp; Boston University &amp; The University of Edinburgh] (2024) <a href="https://arxiv.org/abs/2404.01616"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoiynnmpkvj20my11sqc0.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiyno9070j20qw10kagd.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoiynonm2oj20q00i0taa.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoiynozmchj20qe0my76x.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 07 Apr 2024 21:12:53 GMT</pubDate>
+<pubDate>Sun, 07 Apr 2024 21:12:53 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《Transforming LLMs into Cross-modal and Cross-lingual Retrieval Systems》F P Gomez, R Sanabria, Y Sung, D Cer… [Google Research &amp; Boston Univers...</title>
+<link>https://weibo.com/1402400261/O8HTifsCH</link>
+<guid>https://weibo.com/1402400261/O8HTifsCH</guid>
+<content:encoded><![CDATA[
+<div> 跨模态检索，跨语言检索，LLMs，语言模型，转换，跨模态，跨语言，信息检索，谷歌研究，波士顿大学
+
+总结:
+研究团队提出了一种将LLMs转化为跨模态和跨语言检索系统的方法。研究旨在提高信息检索的效率和准确性。作者通过在谷歌研究、波士顿大学和爱丁堡大学的合作下，利用语言模型技术实现了不同模态和语言之间的检索。他们的工作为解决多模态和多语言信息检索问题提供了新的视角和方法。 <div>
+[CL]《Transforming LLMs into Cross-modal and Cross-lingual Retrieval Systems》F P Gomez, R Sanabria, Y Sung, D Cer… [Google Research &amp; Boston University &amp; The University of Edinburgh] (2024) <a href="https://arxiv.org/abs/2404.01616"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoiynnmpkvj20my11sqc0.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiyno9070j20qw10kagd.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoiynonm2oj20q00i0taa.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoiynozmchj20qe0my76x.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 07 Apr 2024 21:12:45 GMT</pubDate>
+<pubDate>Sun, 07 Apr 2024 21:12:45 GMT</pubDate>
+</item>
+<item>
+<title>提出THINK-AND-EXECUTE框架，通过发现任务级逻辑并以伪代码格式表达，分解算法推理过程，从而改进了语言模型在广范围算法推理任务上的表现。 - 转发 @爱可可-爱...</title>
+<link>https://weibo.com/1402400261/O8HSx6yC4</link>
+<guid>https://weibo.com/1402400261/O8HSx6yC4</guid>
+<content:encoded><![CDATA[
+<div> Language Models, Compilers, Pseudocode Execution, Algorithmic Reasoning, THINK-AND-EXECUTE框架, 任务级逻辑, 伪代码格式, 算法推理过程, 广泛范围, 改进
+
+总结：<br><br>这篇文章提出了一种名为THINK-AND-EXECUTE框架的方法，通过发现任务级逻辑并以伪代码格式表达，分解算法推理过程，从而改进了语言模型在广泛范围算法推理任务上的表现。研究者们将语言模型视为编译器，模拟伪代码的执行来提高算法推理能力。这种方法有望在提升语言模型的算法推理能力方面取得重要进展。 <div>
+提出THINK-AND-EXECUTE框架，通过发现任务级逻辑并以伪代码格式表达，分解算法推理过程，从而改进了语言模型在广范围算法推理任务上的表现。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models》H Chae, Y Kim, S Kim, K T Ong… [Yonsei University &amp; KAIST AI] (2024) <a href="https://arxiv.org/abs/2404.02575"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoiyle25i2j20ye0v4k4m.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoiylejue8j21500mk7cd.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiylezpb5j215a0vkqbp.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoiylf806xj214y0h2gnq.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoiym4god5j214s0i2te4.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 07 Apr 2024 21:10:51 GMT</pubDate>
+<pubDate>Sun, 07 Apr 2024 21:10:51 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models》H Chae, Y Kim, S Kim, K T Ong…...</title>
+<link>https://weibo.com/1402400261/O8HSnoFLZ</link>
+<guid>https://weibo.com/1402400261/O8HSnoFLZ</guid>
+<content:encoded><![CDATA[
+<div> Language Models, Compilers, Simulating Pseudocode Execution, Algorithmic Reasoning, Yonsei University, KAIST AI
+
+该研究探讨了将语言模型视为编译器的概念，通过模拟伪代码执行来提高语言模型的算法推理能力。研究团队来自韩国延世大学和韩国科技研究所人工智能领域。他们发现，将语言模型训练成类似编译器的方式，能够帮助提升其算法推理能力。通过模拟伪代码执行过程，语言模型能够更好地理解和推断算法逻辑，从而提高在算法领域的表现。这一研究为将自然语言处理与算法推理结合提供了新的思路和方法。research topic. Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models, H Chae, Y Kim, S Kim, K T Ong… [Yonsei University & KAIST AI] (2024)
+<br><br>总结: 该研究在语言模型领域引入了编译器的概念，通过模拟伪代码执行来提高算法推理能力。研究结果表明，这种方法能够帮助语言模型更好地理解和推断算法逻辑，为算法领域的应用提供了新的思路和方法。 <div>
+[CL]《Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models》H Chae, Y Kim, S Kim, K T Ong… [Yonsei University &amp; KAIST AI] (2024) <a href="https://arxiv.org/abs/2404.02575"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoiyle25i2j20ye0v4k4m.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoiylejue8j21500mk7cd.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiylezpb5j215a0vkqbp.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoiylf806xj214y0h2gnq.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoiym4god5j214s0i2te4.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 07 Apr 2024 21:10:28 GMT</pubDate>
+<pubDate>Sun, 07 Apr 2024 21:10:28 GMT</pubDate>
+</item>
+<item>
+<title>通过表示和梯度匹配的模型感知方法，发现了数学和列表格式是表面良性但更易导致被攻破的隐性有害数据模式，为编译安全数据提供了启发。 - 转发 @爱可可-爱生活:&amp;...</title>
+<link>https://weibo.com/1402400261/O8HRJaf1n</link>
+<guid>https://weibo.com/1402400261/O8HRJaf1n</guid>
+<content:encoded><![CDATA[
+<div> Safe Data, Identifying, Benign Data, Safety, Model, Gradient Matching, Math and List Format, Data Patterns, Security
+
+总结:<br><br>
+本文使用表示和梯度匹配的模型感知方法，发现了数学和列表格式是表面良性但更易导致被攻破的隐性有害数据模式。通过研究这些隐性有害数据模式，提供了启发，为编译安全数据提供了一定的指导。进一步的研究有助于更有效地识别和消除潜在的安全漏洞，提高数据的安全性和可靠性。 <div>
+通过表示和梯度匹配的模型感知方法，发现了数学和列表格式是表面良性但更易导致被攻破的隐性有害数据模式，为编译安全数据提供了启发。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《What's in Your "Safe" Data?: Identifying Benign Data that Breaks Safety》L He, M Xia, P Henderson [Princeton University] (2024) <a href="https://arxiv.org/abs/2404.01099"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoiyk5vs0nj214s0oqako.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoiyk6jkwwj21d00ewae1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoiyk6qevvj21cw0l4q9k.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 07 Apr 2024 21:08:53 GMT</pubDate>
+<pubDate>Sun, 07 Apr 2024 21:08:53 GMT</pubDate>
+</item>
+<item>
+<title>[LG]《What's in Your "Safe" Data?: Identifying Benign Data that Breaks Safety》L He, M Xia, P Henderson [Princeton University] (2024) 网页链接 #机器学...</title>
+<link>https://weibo.com/1402400261/O8HRCkaHS</link>
+<guid>https://weibo.com/1402400261/O8HRCkaHS</guid>
+<content:encoded><![CDATA[
+<div> 安全数据，恶意数据，识别，无害数据，数据分析，机器学习，隐私保护，安全性，智能设备，数据安全
+
+总结:<br><br>该研究由普林斯顿大学的He、Xia和Henderson完成，目的是识别在数据中可能存在的违反安全性的无害数据，该数据可能会破坏隐私保护或数据安全。研究使用数据分析和机器学习技术，通过对智能设备中的数据进行分析，发现了一些看似无害但具有潜在风险的数据。这项研究的结果有助于改善智能设备的安全性，保护用户隐私，并提高数据的安全性。 <div>
+[LG]《What's in Your "Safe" Data?: Identifying Benign Data that Breaks Safety》L He, M Xia, P Henderson [Princeton University] (2024) <a href="https://arxiv.org/abs/2404.01099"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoiyk5vs0nj214s0oqako.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoiyk6jkwwj21d00ewae1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoiyk6qevvj21cw0l4q9k.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 07 Apr 2024 21:08:37 GMT</pubDate>
+<pubDate>Sun, 07 Apr 2024 21:08:37 GMT</pubDate>
+</item>
+<item>
+<title>ReaLMistake是首个包含丰富的LLM错误和详尽标注的基准测试，可全面诊断LLM响应错误检测性能，为进一步改进错误检测提供有价值资源。 - 转发 @爱可可-爱生活:&amp;ens...</title>
+<link>https://weibo.com/1402400261/O8HRowkN2</link>
+<guid>https://weibo.com/1402400261/O8HRowkN2</guid>
+<content:encoded><![CDATA[
+<div> LLM错误检测基准测试, 详尽标注, 错误检测性能, 提供有价值资源
+
+<br><br>
+总结: 本研究介绍了ReaLMistake，这是首个包含丰富的LLM错误和详尽标注的基准测试。该基准测试可以全面诊断LLM响应错误检测性能，并为改进错误检测提供有价值资源。研究团队通过对LLMs在检测错误方面的性能进行评估，展示了对LLM模型错误检测能力的热切关注。他们的工作有助于进一步探索和改进LLMs在错误检测方面的表现，为提高模型的准确性和可靠性提供了重要参考。 <div>
+ReaLMistake是首个包含丰富的LLM错误和详尽标注的基准测试，可全面诊断LLM响应错误检测性能，为进一步改进错误检测提供有价值资源。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Evaluating LLMs at Detecting Errors in LLM Responses》R Kamoi, S S S Das, R Lou, J J Ahn… [Penn State University] (2024) <a href="https://arxiv.org/abs/2404.03602"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoiyis1w1fj216u0zch23.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoiyisg4p4j21f60lsdpy.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiyissumlj21f80qik4a.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoiyisxlblj21ec0k6n6s.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoiyjebso1j20d60cct98.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoiyjeckggj20ve0abdi8.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiyjed1kuj20vk0ap41a.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiyjecng8j20vd09ztb8.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiyjebwt3j20rh0eit9c.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 07 Apr 2024 21:08:03 GMT</pubDate>
+<pubDate>Sun, 07 Apr 2024 21:08:03 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《Evaluating LLMs at Detecting Errors in LLM Responses》R Kamoi, S S S Das, R Lou, J J Ahn… [Penn State University] (2024) 网页链接 #机器学习##人...</title>
+<link>https://weibo.com/1402400261/O8HRjdlw5</link>
+<guid>https://weibo.com/1402400261/O8HRjdlw5</guid>
+<content:encoded><![CDATA[
+<div> LLMs, Errors, Detection, Evaluation, Performance, Language Models, Responses, Artificial Intelligence, Natural Language Processing, Penn State University
+
+总结:<br><br>该研究旨在评估LLMs在检测LLM响应中出现错误的能力。研究由宾夕法尼亚州立大学的研究人员进行，他们探讨了语言模型的性能，并对其在检测错误方面的表现进行了评估。研究着重于人工智能和自然语言处理领域，试图提高LLMs的准确性。通过实验和数据分析，研究团队展示了LLMs在识别错误方面的优势，为提升语言模型的能力提供了重要参考。 <div>
+[CL]《Evaluating LLMs at Detecting Errors in LLM Responses》R Kamoi, S S S Das, R Lou, J J Ahn… [Penn State University] (2024) <a href="https://arxiv.org/abs/2404.03602"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoiyis1w1fj216u0zch23.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoiyisg4p4j21f60lsdpy.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiyissumlj21f80qik4a.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoiyisxlblj21ec0k6n6s.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoiyjebso1j20d60cct98.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoiyjeckggj20ve0abdi8.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiyjed1kuj20vk0ap41a.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiyjecng8j20vd09ztb8.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoiyjebwt3j20rh0eit9c.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoiyjee71xj20vh0wutf6.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoiyjed5paj20vg09l75z.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoiyjedmnyj20vj0k9goz.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 07 Apr 2024 21:07:51 GMT</pubDate>
+<pubDate>Sun, 07 Apr 2024 21:07:51 GMT</pubDate>
+</item>
 
 <item>
 <title>《爱可可微博热门分享(4.7)》 爱可可微博热门分享(4.7) [图片]</title>

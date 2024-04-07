@@ -3554,3 +3554,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O8FiZ4dbg)
 append_entries: 0
 Finish: 2024-04-07 20:10:59.787228
+------------------------------------------------------
+Started: 2024-04-07 22:09:58.395658
+Existing_entries: 582
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [通过“短视训练”发现，transformer在语言建模场景下并没有有意识地提前缓存对未来有用的信息，主要是当前有用的特征也对未来有用。 - 转发 @爱可可-爱生活:&ens...](https://weibo.com/1402400261/O8HWDg5WJ)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Do language models plan ahead for future tokens?》W Wu, J X. Morris, L Levine [University of Colorado Boulder & Cornell University] (2024) 网页...](https://weibo.com/1402400261/O8HWAAnw0)
+Token length: 252
+Summarized using GPT-3.5-turbo
+Append: [利用语言模型跨语言的文本理解能力，以及对比学习框架，从语言模型中构建出强大的跨语言跨模态语音文本匹配系统。 - 转发 @爱可可-爱生活:&ensp;[CL]《Transform...](https://weibo.com/1402400261/O8HTmeOnG)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Transforming LLMs into Cross-modal and Cross-lingual Retrieval Systems》F P Gomez, R Sanabria, Y Sung, D Cer… [Google Research & Boston Univers...](https://weibo.com/1402400261/O8HTifsCH)
+Token length: 270
+Summarized using GPT-3.5-turbo
+Append: [提出THINK-AND-EXECUTE框架，通过发现任务级逻辑并以伪代码格式表达，分解算法推理过程，从而改进了语言模型在广范围算法推理任务上的表现。 - 转发 @爱可可-爱...](https://weibo.com/1402400261/O8HSx6yC4)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Language Models as Compilers: Simulating Pseudocode Execution Improves Algorithmic Reasoning in Language Models》H Chae, Y Kim, S Kim, K T Ong…...](https://weibo.com/1402400261/O8HSnoFLZ)
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [通过表示和梯度匹配的模型感知方法，发现了数学和列表格式是表面良性但更易导致被攻破的隐性有害数据模式，为编译安全数据提供了启发。 - 转发 @爱可可-爱生活:&...](https://weibo.com/1402400261/O8HRJaf1n)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [[LG]《What's in Your "Safe" Data?: Identifying Benign Data that Breaks Safety》L He, M Xia, P Henderson [Princeton University] (2024) 网页链接 #机器学...](https://weibo.com/1402400261/O8HRCkaHS)
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [ReaLMistake是首个包含丰富的LLM错误和详尽标注的基准测试，可全面诊断LLM响应错误检测性能，为进一步改进错误检测提供有价值资源。 - 转发 @爱可可-爱生活:&ens...](https://weibo.com/1402400261/O8HRowkN2)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Evaluating LLMs at Detecting Errors in LLM Responses》R Kamoi, S S S Das, R Lou, J J Ahn… [Penn State University] (2024) 网页链接 #机器学习##人...](https://weibo.com/1402400261/O8HRjdlw5)
+append_entries: 10
+Finish: 2024-04-07 22:10:30.721943
