@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>《爱可可微博热门分享(4.7)》 爱可可微博热门分享(4.7) [图片]</title>
 <link>https://weibo.com/1402400261/O8FiGjnut</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 微博, 热门, 爱可可, 分享, 关键词, 点赞, 评论, 转发, 内容
 
-<br><br>总结:
+<br /><br />总结:
 爱可可微博分享的内容受到了广泛关注，引起了热烈讨论。文章内容引人入胜，吸引了大量的点赞、评论和转发。爱可可的微博在社交平台上拥有很高的影响力，其热门分享常常成为用户关注的焦点。通过持续更新优质内容，爱可可微博不断吸引更多粉丝和用户关注，为用户带来更丰富多样的内容体验。 <div>
 《爱可可微博热门分享(4.7)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405020653865795688"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(4.7)</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoin8nt4nuj20fo08t3zv.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 07 Apr 2024 14:37:03 GMT</pubDate>
 <pubDate>Sun, 07 Apr 2024 14:37:03 GMT</pubDate>
 </item>
 <item>
@@ -26,11 +26,10 @@
 <div> 关键词: 数据集, 视频, 人类建模, 头发转移, 优化算法, 地图生成, 大型语言模型, 图像分割
 
 总结:
-<br><br>
+<br /><br />
 本文介绍了几篇论文实现代码，涉及到不同领域的研究成果。其中《EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World》介绍了一个可以用于融合主观和客观视角的数据集。《PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling》介绍了一个用于动态人类建模的多视角视频基准数据集。《HairFastGAN: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach》展示了一种快速和稳健的头发转移方法。《GIPC: Fast and Stable Gauss-Newton Optimization of IPC Barrier Energy》介绍了一种快速优化算法。《P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap Priors》展示了一个结合了不同先验信息的地图生成模型。《MacGyver: Are Large Language Models Creative Problem Solvers?》研究了大型语言模型在解决问题时的创造性。《UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation》提出了一种降低参数量的皮肤病变分割模型。这些研究有助于推动计算机视觉和人工智能领域的发展。 <div>
 几篇论文实现代码：<br />《EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World》(CVPR 2024) GitHub: github.com/OpenGVLab/EgoExoLearn [fig1]<br />《PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling》(CVPR 2024) GitHub: github.com/zhengxyun/PKU-DyMVHumans [fig3]<br />《HairFastGAN: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach》(2024) GitHub: github.com/AIRI-Institute/HairFastGAN [fig2]<br />《GIPC: Fast and Stable Gauss-Newton Optimization of IPC Barrier Energy》(2024) GitHub: github.com/KemengHuang/GPU_IPC<br />《P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap Priors》(2024) GitHub: github.com/jike5/P-MapNet [fig4]<br />《MacGyver: Are Large Language Models Creative Problem Solvers?》(2024) GitHub: github.com/allenai/MacGyver [fig5]<br />《UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation》(2024) GitHub: github.com/wurenkai/UltraLight-VM-UNet<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoijy4zv3yj20pw08jjye.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoijyn14uxj26221mhx6r.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoijzb48o5j21io0gwn87.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoik6yqka6j21jk0v9n9g.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoikezela3j21zs0qyx6p.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 07 Apr 2024 13:26:20 GMT</pubDate>
 <pubDate>Sun, 07 Apr 2024 13:26:20 GMT</pubDate>
 </item>
 <item>
@@ -40,11 +39,10 @@
 <content:encoded><![CDATA[
 <div> 命令行框架、资产发现、反 reconnaissance、漏洞扫描、自动化分发、定制扫描、仪表板支持、漏洞管理、高级警报、DNS 服务集成
 
-<br><br>总结:
+<br /><br />总结:
 Mantis是一个安全框架，旨在自动化资产发现、反侦察和漏洞扫描的工作流程。它支持自动化分发扫描、超级容易定制扫描、仪表板支持、漏洞管理、高级警报和DNS服务集成。Mantis的GitHub链接为github.com/PhonePe/mantis。 <div>
 【Mantis：一个命令行框架，旨在自动化资产发现、反 reconnaissance 和漏洞扫描的工作流程。它支持自动化分发扫描、超级容易定制扫描、仪表板支持、漏洞管理、高级警报和 DNS 服务集成】'Mantis - Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning.' GitHub: github.com/PhonePe/mantis <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%AE%89%E5%85%A8%23&amp;isnewpage=1"><span class="surl-text">#安全#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoil60kjcij20u012p43y.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 07 Apr 2024 13:25:17 GMT</pubDate>
 <pubDate>Sun, 07 Apr 2024 13:25:17 GMT</pubDate>
 </item>
 <item>
@@ -54,11 +52,10 @@ Mantis是一个安全框架，旨在自动化资产发现、反侦察和漏洞�
 <content:encoded><![CDATA[
 <div> GitHub, Live Transcription, Whisper PoC, server-client架构, faster-whisper模型, 实时语音转文字, gradio ui/cli, 解决方案
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了一个使用 faster-whisper 模型和 gradio ui/cli 实现实时语音转文字的 Live-Transcription (STT) with Whisper PoC 解决方案，基于 server-client 架构。用户可以在 GitHub 上找到相关资源，实现实时语音转文字功能，为用户提供更便捷的文字转换体验。 <div>
 【Live Transcription with Whisper PoC in Server - Client setup：提供了一个 Live-Transcription (STT) with Whisper PoC 的解决方案，基于 server-client 架构，使用 faster-whisper 模型和 gradio ui/cli 实现实时语音转文字】'Live Transcription with Whisper PoC in Server - Client setup - Live-Transcription (STT) with Whisper PoC' GitHub: github.com/gaborvecsei/whisper-live-transcription <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoil25zwjlj20xb0u0diw.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 07 Apr 2024 13:21:30 GMT</pubDate>
 <pubDate>Sun, 07 Apr 2024 13:21:30 GMT</pubDate>
 </item>
 <item>
@@ -68,11 +65,10 @@ Mantis是一个安全框架，旨在自动化资产发现、反侦察和漏洞�
 <content:encoded><![CDATA[
 <div> Github, YOLO-World, ONNX, 开放词汇对象检测, Python, 脚本, 模型, 执行, 项目, ibaiGorordo
 
-<br><br>总结:
+<br /><br />总结:
 这是一个在ONNX中使用YOLO-World模型执行开放词汇对象检测的Python脚本项目。通过GitHub仓库可以找到相关代码。该项目利用YOLO-World模型实现对象检测，支持开放词汇，使用Python脚本进行执行。将目标检测技术和ONNX模型相结合，实现了一种高效的对象检测方法。可以通过该项目学习如何在ONNX中使用YOLO-World模型进行对象检测，为相关领域的开发提供了参考和实践基础。 <div>
 【ONNX-YOLO-World-Open-Vocabulary-Object-Detection：用 YOLO-World 模型在 ONNX 中执行开放词汇对象检测的脚本】'ONNX-YOLO-World-Open-Vocabulary-Object-Detection - Python scripts performing Open Vocabulary Object Detection using the YOLO-World model in ONNX.' GitHub: github.com/ibaiGorordo/ONNX-YOLO-World-Open-Vocabulary-Object-Detection <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoikypiruyj20u00zkjwg.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 07 Apr 2024 13:18:12 GMT</pubDate>
 <pubDate>Sun, 07 Apr 2024 13:18:12 GMT</pubDate>
 </item>
 <item>
@@ -81,11 +77,10 @@ Mantis是一个安全框架，旨在自动化资产发现、反侦察和漏洞�
 <guid>https://weibo.com/1402400261/O8EGCt7Uc</guid>
 <content:encoded><![CDATA[
 <div> github、twitter-web-exporter、TypeScript、开源项目、导出、tweets、书签、列表、搜索结果、用户关注列表
-<br><br>总结:
+<br /><br />总结:
 这是一个使用 TypeScript 开发的开源项目，名为 twitter-web-exporter，可以从 Twitter 网页应用程序导出 tweets、书签、列表、搜索结果、用户关注列表等数据。用户可以通过该工具方便地将自己在 Twitter 上的信息进行导出和备份，保留个人数据并进行分析。项目地址为 github.com/prinsss/twitter-web-exporter。 <div>
 【twitter-web-exporter：使用 TypeScript 开发的开源项目，可用于从 Twitter 网页应用程序导出 tweets、书签、列表、搜索结果、用户关注列表等】'twitter-web-exporter - Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)' GitHub: github.com/prinsss/twitter-web-exporter <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoikicw2vmj20u00xogph.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 07 Apr 2024 13:03:17 GMT</pubDate>
 <pubDate>Sun, 07 Apr 2024 13:03:17 GMT</pubDate>
 </item>
 <item>
@@ -93,12 +88,11 @@ Mantis是一个安全框架，旨在自动化资产发现、反侦察和漏洞�
 <link>https://weibo.com/1402400261/O8EEBtxd4</link>
 <guid>https://weibo.com/1402400261/O8EEBtxd4</guid>
 <content:encoded><![CDATA[
-<div> Boehm-Demers-Weiser Garbage Collector, C/C++, 垃圾收集器, 动态分配内存<br>
-<br>
-Boehm-Demers-Weiser Garbage Collector是一个保守的C/C++垃圾收集器，可以在使用时动态分配内存。该收集器以bdwgc、bdw-gc、boehm-gc、libgc等名字闻名，其源代码托管在GitHub上（github.com/ivmai/bdwgc）。该收集器在C/C++代码中提供自动内存管理，消除了手动分配和释放内存的繁琐，提高了开发效率和减少了内存泄漏的风险。 Boehm-Demers-Weiser Garbage Collector采用保守的算法来收集垃圾，能够处理复杂的指针、数据结构和内存分配行为，使得程序员可以更专注于业务逻辑的实现，而无需过多担心内存管理的问题。开发者可以通过GitHub获取该垃圾收集器的源代码，并根据需要进行定制化的配置和集成，以满足不同项目的内存管理需求。总的来说，Boehm-Demers-Weiser Garbage Collector为C/C++开发者提供了一种便捷而高效的内存管理解决方案，极大地简化了开发过程，提高了代码的可靠性和稳定性。 <br><br>总结: <br>Boehm-Demers-Weiser Garbage Collector是一个保守的C/C++垃圾收集器，提供动态内存分配，有效简化了内存管理，并提高了开发效率。 <div>
+<div> Boehm-Demers-Weiser Garbage Collector, C/C++, 垃圾收集器, 动态分配内存<br />
+<br />
+Boehm-Demers-Weiser Garbage Collector是一个保守的C/C++垃圾收集器，可以在使用时动态分配内存。该收集器以bdwgc、bdw-gc、boehm-gc、libgc等名字闻名，其源代码托管在GitHub上（github.com/ivmai/bdwgc）。该收集器在C/C++代码中提供自动内存管理，消除了手动分配和释放内存的繁琐，提高了开发效率和减少了内存泄漏的风险。 Boehm-Demers-Weiser Garbage Collector采用保守的算法来收集垃圾，能够处理复杂的指针、数据结构和内存分配行为，使得程序员可以更专注于业务逻辑的实现，而无需过多担心内存管理的问题。开发者可以通过GitHub获取该垃圾收集器的源代码，并根据需要进行定制化的配置和集成，以满足不同项目的内存管理需求。总的来说，Boehm-Demers-Weiser Garbage Collector为C/C++开发者提供了一种便捷而高效的内存管理解决方案，极大地简化了开发过程，提高了代码的可靠性和稳定性。 <br /><br />总结: <br />Boehm-Demers-Weiser Garbage Collector是一个保守的C/C++垃圾收集器，提供动态内存分配，有效简化了内存管理，并提高了开发效率。 <div>
 【Boehm-Demers-Weiser Garbage Collector：保守的 C/C++ 垃圾收集器，可以在使用时动态分配内存】'Boehm-Demers-Weiser Garbage Collector - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)' GitHub: github.com/ivmai/bdwgc <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23C%2B%2B%23"><span class="surl-text">#C++#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoike185ehj21740qcq7i.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 07 Apr 2024 12:58:19 GMT</pubDate>
 <pubDate>Sun, 07 Apr 2024 12:58:19 GMT</pubDate>
 </item>
 <item>
@@ -106,19 +100,18 @@ Boehm-Demers-Weiser Garbage Collector是一个保守的C/C++垃圾收集器，�
 <link>https://weibo.com/1402400261/O8EDWAapl</link>
 <guid>https://weibo.com/1402400261/O8EDWAapl</guid>
 <content:encoded><![CDATA[
-<div> OpenAI, Streaming, Python, 接口, 生成器, 回调, Github, 库, 简化, 处理<br>
-<br>
-要点1: 介绍了一个名为OpenAI Streaming的Python库，用于与OpenAI的基于生成器的Streaming API进行交互。<br>
-要点2: 该库提供了易于使用的Pythonic接口，支持生成器来处理流内容。<br>
-要点3: OpenAI Streaming还支持使用回调机制来处理流内容，使流处理更加灵活。<br>
-要点4: 该库的代码托管在GitHub上，地址为github.com/AlmogBaku/openai-streaming。<br>
-要点5: OpenAI Streaming旨在简化与OpenAI的流API的交互，让用户可以更轻松地使用Python来处理和管理流数据。<br>
-<br>
-总结: <br>
+<div> OpenAI, Streaming, Python, 接口, 生成器, 回调, Github, 库, 简化, 处理<br />
+<br />
+要点1: 介绍了一个名为OpenAI Streaming的Python库，用于与OpenAI的基于生成器的Streaming API进行交互。<br />
+要点2: 该库提供了易于使用的Pythonic接口，支持生成器来处理流内容。<br />
+要点3: OpenAI Streaming还支持使用回调机制来处理流内容，使流处理更加灵活。<br />
+要点4: 该库的代码托管在GitHub上，地址为github.com/AlmogBaku/openai-streaming。<br />
+要点5: OpenAI Streaming旨在简化与OpenAI的流API的交互，让用户可以更轻松地使用Python来处理和管理流数据。<br />
+<br />
+总结: <br />
 介绍了一个名为OpenAI Streaming的Python库，用于与OpenAI的基于生成器的Streaming API进行交互。该库提供了易于使用的Pythonic接口，支持生成器来处理流内容。OpenAI Streaming还支持使用回调机制来处理流内容，使流处理更加灵活。该库的代码托管在GitHub上，地址为github.com/AlmogBaku/openai-streaming。OpenAI Streaming旨在简化与OpenAI的流API的交互，让用户可以更轻松地使用Python来处理和管理流数据。 <div>
 【OpenAI Streaming：一个 Python 库，提供易于使用的 Pythonic 接口，支持 OpenAI 的基于生成器的 Streaming，并支持回调机制来处理流内容】'OpenAI Streaming - Work with OpenAI's streaming API at ease with Python generators' GitHub: github.com/AlmogBaku/openai-streaming <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoikbwbdraj21740t2dkd.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 07 Apr 2024 12:56:42 GMT</pubDate>
 <pubDate>Sun, 07 Apr 2024 12:56:42 GMT</pubDate>
 </item>
 <item>
@@ -128,14 +121,12 @@ Boehm-Demers-Weiser Garbage Collector是一个保守的C/C++垃圾收集器，�
 <content:encoded><![CDATA[
 <div> torchdbg, PyTorch, 操作, 跟踪器, 反应式, UI, 调试器, 可视化, GitHub
 
-<br><br>总结:
+<br /><br />总结:
 torchdbg是一个针对PyTorch的eager模式调试器，通过跟踪器和反应式UI可视化操作。用户可以在GitHub上找到该项目。 <div>
 【torchdbg：PyTorch 操作的跟踪器和反应式 UI，用于以调试器的形式可视化跟踪】'torchdbg - PyTorch centric eager mode debugger' GitHub: github.com/ezyang/torchdbg <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoikasc2j7j20u00v8n04.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 07 Apr 2024 12:55:11 GMT</pubDate>
-<pubDate>Sun, 07 Apr 2024 12:55:11 GMT</pubDate>
 </item>
-
 <item>
 <title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@异步图书 送出3本《大语言模型：基础与前沿》，截至2024.4.12 12:00，*可可粉*转...</title>
 <link>https://weibo.com/1402400261/O8yWi4P6D</link>
