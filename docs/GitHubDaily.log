@@ -1805,3 +1805,15 @@ Existing_entries: 41
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-04-07 10:10:35.145368
+------------------------------------------------------
+Started: 2024-04-07 12:18:29.175513
+Existing_entries: 41
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 377
+Summarized using GPT-3.5-turbo
+Append: [推荐 GitHub 上一款漂亮易用且功能强大的开源创意图片编辑器 poster-design。适用于多种场景，如海报图片生成、电商分享图、文章长图等，无需客户端也可轻松在线...](https://weibo.com/5722964389/O8DueqJmG)
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [分享 GitHub 上一份精选的计算机科学视频课程列表 cs-video-courses。基本涵盖了计算机方面的所有视频课程，包括计算机科学导论、数据结构和算法、系统编程、软...](https://weibo.com/5722964389/O8CvlerXF)
+append_entries: 2
+Finish: 2024-04-07 12:18:35.750491

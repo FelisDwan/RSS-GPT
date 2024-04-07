@@ -2423,3 +2423,22 @@ Existing_entries: 259
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-07 10:10:34.259316
+------------------------------------------------------
+Started: 2024-04-07 12:18:09.000476
+Existing_entries: 259
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 317
+Summarized using GPT-3.5-turbo
+Append: [【#AI时代联想不做集成商#】2024刚开年的时候，AI硬件的讨论在CES上热得无以复加，PC是热议中最被期待的那一个。在拉斯维加斯，全球PC销量第一的联想掌门人杨元...](https://weibo.com/6105753431/O8DZAs9M4)
+Token length: 438
+Summarized using GPT-3.5-turbo
+Append: [#抱抱脸Open了OpenAI的秘密武器# OpenAI的秘密武器、ChatGPT背后功臣RLHF，被开源了。来自Hugging Face、加拿大蒙特利尔Mila研究所、网易伏羲AI Lab的研究人员从...](https://weibo.com/6105753431/O8DX8ECfg)
+Token length: 273
+Summarized using GPT-3.5-turbo
+Append: [轻松集团技术副总裁高玉石 确认参与 #中国AIGC产业峰会# ！🔥高玉石，轻松集团技术副总裁，是一位资深的人工智能和大数据专家。他主导了轻松集团在健康保障领...](https://weibo.com/6105753431/O8DUOa0x6)
+Token length: 457
+Summarized using GPT-3.5-turbo
+Append: [#硅谷大厂疯抢网络旧数据# 谁能想到，我们多年前的聊天记录、社交媒体上的陈年照片，忽然成了硅谷大厂疯抢的“香饽饽”。现在，为了买下所有能购买版权的互联网...](https://weibo.com/6105753431/O8DoDgPAU)
+Append: [#斯坦福端侧AI# 一夜下载量超 2k ，来自斯坦福团队的端侧大模型# Octopus v2# 火了~Octopusv2 拥有20亿参数，能够在智能手机、汽车和个人电脑等端侧设备上运行，...](https://weibo.com/6105753431/O8COW3Vgo)
+append_entries: 5
+Finish: 2024-04-07 12:18:26.714994
