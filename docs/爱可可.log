@@ -3428,3 +3428,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O8vTq1zMr)
 append_entries: 0
 Finish: 2024-04-06 22:09:31.054606
+------------------------------------------------------
+Started: 2024-04-07 00:54:48.039837
+Existing_entries: 563
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@异步图书 送出3本《大语言模型：基础与前沿》，截至2024.4.12 12:00，*可可粉*转...](https://weibo.com/1402400261/O8yWi4P6D)
+Token length: 270
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《LangChain实战》，截至2024.4.11 12:00，*可可粉*转...](https://weibo.com/1402400261/O8yW6m9YP)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1368期)：大型语言模型在手机GPU上的高效部署、用紧凑语言模型加速多模态基础模型、基于思维链提示的文本-语音合成鲁棒编解码器语言建模、高性能卷积...](https://weibo.com/1402400261/O8yVNDx0K)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [[CV] Are We on the Right Way for Evaluating Large Vision-Language Models? 网页链接 提出高质量的MMStar多模态基准和多模态收益与泄露指标，全面评估模型视...](https://weibo.com/1402400261/O8ySYC7Nb)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [[LG] Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks? 网页链接 通过构建评估基准并在多种语言模型上部署已知攻击，深入分析...](https://weibo.com/1402400261/O8yQY7zLr)
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [[CV] MM3DGS SLAM: Multi-modal 3D Gaussian Splatting for SLAM Using Vision, Depth, and Inertial Measurements 网页链接 提出一种将单目视觉、深度与惯性测...](https://weibo.com/1402400261/O8yMxsVMF)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [[CV] 94% on CIFAR-10 in 3.29 Seconds on a Single GPU 网页链接 提出多项技术的组合实现CIFAR-10数据集上快速高效的神经网络训练，取得新的最先进训练速度。 [...](https://weibo.com/1402400261/O8yKpf4By)
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [通过MULAN基准测试集发现语言模型对事实可变性的编码提供了时间感知的新证据，并且可变事实比不可变事实更易于更新。 - 转发 @爱可可-爱生活:&ensp;[CL]《MuLan:...](https://weibo.com/1402400261/O8yH9gVHv)
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [[CL]《MuLan: A Study of Fact Mutability in Language Models》C Fierro, N Garneau, E Bugliarello, Y Kementchedjhieva, A Søgaard [University of Copenhag...](https://weibo.com/1402400261/O8yH5EFU5)
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [提出效率差距图等新的分析工具，设计了同时优化模型效率和计算效率的ConvFirstNet，其延迟相比ConvNeXt降低4倍，实现了卷积神经网络效率的重要进步。 - 转发 @爱...](https://weibo.com/1402400261/O8yDEDUuy)
+append_entries: 10
+Finish: 2024-04-07 00:55:16.885205
