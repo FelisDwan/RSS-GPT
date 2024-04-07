@@ -2405,3 +2405,15 @@ Summarized using GPT-3.5-turbo
 Append: [#第一台可编程机器# 谁能想到编程的鼻祖竟是一台织布机？（doge）1748年，第一台可编程机器 Vaucanson Loom 诞生了，它是由法国发明家雅克·德·沃康松设计的自...](https://weibo.com/6105753431/O8BeFjRNi)
 append_entries: 2
 Finish: 2024-04-07 06:13:31.022551
+------------------------------------------------------
+Started: 2024-04-07 08:15:14.506285
+Existing_entries: 257
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 480
+Summarized using GPT-3.5-turbo
+Append: [#猪心脏体外存活超24h# 最近，有研究团队通过一项新的常温离体心脏灌注（NEHP）技术，成功使30头未成熟猪和10头幼猪的心脏在体外存活超过24小时。 在此之前，供...](https://weibo.com/6105753431/O8CvwwsMQ)
+Token length: 598
+Summarized using GPT-3.5-turbo
+Append: [#Claude最全使用指导# 一份由 GitHub 广大网友共同创建的 【Claude 使用指南】，每小节均提供可复制的代码片段。目录：1. 工具使用：了解如何将 Claude 与外部工...](https://weibo.com/6105753431/O8Cecwiry)
+append_entries: 2
+Finish: 2024-04-07 08:15:26.050285
