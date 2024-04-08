@@ -3696,3 +3696,13 @@ Summarized using GPT-3.5-turbo
 Append: [【llama-cpp-rs：Rust 语言编写的库，提供了 llama.cpp 的绑定，用于处理大型语言模型】'llama-cpp-rs' GitHub: github.com/utilityai/llama-cpp-rs #开源# #机...](https://weibo.com/1402400261/O8NB1mSxV)
 append_entries: 6
 Finish: 2024-04-08 14:12:05.811704
+------------------------------------------------------
+Started: 2024-04-08 16:16:06.433043
+Existing_entries: 611
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O8OC6AiAu)
+Token length: 19
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(4.8)》 爱可可微博热门分享(4.8) [图片]](https://weibo.com/1402400261/O8OB6iP7c)
+append_entries: 1
+Finish: 2024-04-08 16:16:13.528101
