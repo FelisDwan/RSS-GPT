@@ -2496,3 +2496,24 @@ Summarized using GPT-3.5-turbo
 Append: [#喊话控制机器人# 斯坦福的ALOHA家务机器人团队，发布了最新研究成果——项目名为Yell At Your Robot（简称YAY），有了它，机器人的“翻车”动作，只要喊句话就...](https://weibo.com/6105753431/O8JmEnLIL)
 append_entries: 3
 Finish: 2024-04-08 02:20:59.492635
+------------------------------------------------------
+Started: 2024-04-08 04:14:01.795082
+Existing_entries: 268
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 604
+Summarized using GPT-3.5-turbo
+Append: [#人类启发AI学会空间推理# LLM 的空间推理能力一直是个短板，而受人类的“心灵之眼”启发，即人类能够通过想象来创建对未见物体和动作的心理图像。有研究团队提...](https://weibo.com/6105753431/O8Ktn2ACy)
+Token length: 479
+Summarized using GPT-3.5-turbo
+Append: [#Claude3总结能力是GPT4的两倍# 面对长篇巨著，AI 生成的摘要到底靠谱吗？为了回答这个问题，有团队花费 5.2K 美元创建了一个名为#FABLES#的数据集。它选取了 26...](https://weibo.com/6105753431/O8KqLchFC)
+Token length: 403
+Summarized using GPT-3.5-turbo
+Append: [#DIY24小时AI心理医生# 为了缓解焦虑，亚马逊科学家Eugene Yan 用 Claude3 做了一个24小时响应的 AI 心理医生。在试用 1 个月后，他发现通过每天向 AI 语音倾诉...](https://weibo.com/6105753431/O8KpdnpAv)
+Token length: 413
+Summarized using GPT-3.5-turbo
+Append: [#陶哲轩赞AI数学领域发展太快了# 陶哲轩点赞转发，《美国数学学会通报》用一整期特刊介绍了AI给数学带来的改变：“这些文章读起来很有趣，尽管使我自己即将发表...](https://weibo.com/6105753431/O8KodAIAV)
+Append: [【#音乐版Sora首批演示泄露#，网友：比写《宫保鸡丁》的Suno好10倍】demo2 量子位的微博视频](https://weibo.com/6105753431/O8KmbqikY)
+Append: [#音乐版Sora首批演示泄露#，网友：比写《宫保鸡丁》的Suno好10倍demo1： 量子位的微博视频](https://weibo.com/6105753431/O8KlJ5wz1)
+Append: [金山办公副总裁姚冬 确认参与 #中国AIGC产业峰会# ！🔥姚冬，1998年加入金山办公，从事软件开发将近二十年，先后主持多个平台客户端相关技术开发，擅长GUI框架...](https://weibo.com/6105753431/O8K66ubm7)
+append_entries: 7
+Finish: 2024-04-08 04:14:21.192223
