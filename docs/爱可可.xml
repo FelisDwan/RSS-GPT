@@ -5,17 +5,44 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>【基于生成式模型的推荐系统相关论文列表】’Recommender Systems with Generative Models' GitHub: github.com/yasdel/LLM-RecSys #开源# #机器学习# #人工智能...</title>
+<link>https://weibo.com/1402400261/O8LcLmQSk</link>
+<guid>https://weibo.com/1402400261/O8LcLmQSk</guid>
+<content:encoded><![CDATA[
+<div> 生成式模型、推荐系统、GitHub、LLM-RecSys、论文、推荐算法、深度学习、人工智能<br>
+<br>
+生成式模型在推荐系统中的应用越来越受到关注，该论文提出了一种基于生成式模型的推荐系统。通过在GitHub上发布了LLM-RecSys的代码，研究人员展示了他们的研究成果。推荐系统是指根据用户的偏好和行为预测并推荐他们可能感兴趣的物品。传统的推荐算法已经被广泛应用，而基于深度学习的生成式模型为推荐系统带来了新的机遇和挑战。这篇论文探讨了如何利用生成式模型改进推荐系统，为推荐系统的发展提供了新的方向。总的来说，这篇论文为推荐系统领域的研究和实践贡献了有价值的内容，对于深度学习和人工智能领域的研究也具有一定的参考意义。<br><br>总结: <div>
+【基于生成式模型的推荐系统相关论文列表】’Recommender Systems with Generative Models' GitHub: github.com/yasdel/LLM-RecSys <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hojdb6tf3lj210y0u0afj.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 05:38:57 GMT</pubDate>
+<pubDate>Mon, 08 Apr 2024 05:38:57 GMT</pubDate>
+</item>
+<item>
+<title>【HammerLLM：1.4B参数量的LLM，提供简洁高效的训练代码库，并完全开源了模型权重、环境、代码库和超参数】’HammerLLM - 1.4B sLLM for Chinese and English - ...</title>
+<link>https://weibo.com/1402400261/O8Lc7q1tp</link>
+<guid>https://weibo.com/1402400261/O8Lc7q1tp</guid>
+<content:encoded><![CDATA[
+<div> GitHub、HammerLLM、1.4B参数量、LLM、简洁、高效、训练代码库、开源、模型权重、环境、超参数
+
+<br><br>总结:
+HammerLLM是一个拥有1.4B参数量的LLM模型，提供简洁高效的训练代码库，并完全开源了模型权重、环境、代码库和超参数。这个模型支持中文和英文，并在GitHub上开源发布，为用户提供了一个强大的工具和资源。 <div>
+【HammerLLM：1.4B参数量的LLM，提供简洁高效的训练代码库，并完全开源了模型权重、环境、代码库和超参数】’HammerLLM - 1.4B sLLM for Chinese and English - HammerLLM🔨' GitHub: github.com/Academic-Hammer/HammerLLM <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hojd9jtcc4j21py0u0jvu.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 05:37:22 GMT</pubDate>
+<pubDate>Mon, 08 Apr 2024 05:37:22 GMT</pubDate>
+</item>
+
+<item>
 <title>【ClangQL：用于查询 C/C++ 代码的工具，使用 GitQL SDK 并提供了类似于 SQL 的查询语言】'ClangQL - Clang AST Query Language - ClangQL is a tool that allow...</title>
 <link>https://weibo.com/1402400261/O8L1V66IW</link>
 <guid>https://weibo.com/1402400261/O8L1V66IW</guid>
 <content:encoded><![CDATA[
 <div> ClangQL, Clang AST Query Language, C/C++代码, 查询工具, GitQL SDK, SQL-like查询语言
 
-<br><br>总结:
+<br /><br />总结:
 ClangQL是一个用于查询C/C++代码的工具，使用GitQL SDK并提供类似于SQL的查询语言。用户可以在代码中运行类似于SQL的查询，而不是在数据库文件上操作。这个工具可以帮助开发者更方便地分析和查找代码中的关键信息，提高代码的可读性和维护性。GitHub上有相关的开源项目，用户可以查看并使用。ClangQL的出现为C/C++开发者提供了一种全新的代码查询方式，使得代码分析和调试变得更加高效和便捷。 <div>
 【ClangQL：用于查询 C/C++ 代码的工具，使用 GitQL SDK 并提供了类似于 SQL 的查询语言】'ClangQL - Clang AST Query Language - ClangQL is a tool that allow you to run SQL-like query on C/C++ Code instead of database files using the GitQL SDK' GitHub: github.com/AmrDeveloper/ClangQL <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hojcjemz4yj20u00xk423.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 08 Apr 2024 05:12:14 GMT</pubDate>
 <pubDate>Mon, 08 Apr 2024 05:12:14 GMT</pubDate>
 </item>
 <item>
@@ -25,13 +52,11 @@ ClangQL是一个用于查询C/C++代码的工具，使用GitQL SDK并提供类�
 <content:encoded><![CDATA[
 <div> GitHub、视觉Mamba模型、相关领域、最新论文、资源列表、Awesome-Vision-Mamba、ReaFly、GitHub链接、研究领域、视觉技术
 
-视觉Mamba模型相关文献资源列表的GitHub库“Awesome-Vision-Mamba”收集了最新的关于视觉Mamba模型及相关研究领域的论文。这个资源库由用户ReaFly维护，提供了丰富的学术资源和论文链接。感兴趣的研究者可以通过这个GitHub链接获取到关于视觉技术的最新进展和研究成果。GitHub库中包含了各种与视觉Mamba模型相关的论文资源，为研究者提供了便捷的学习和参考资料。<br><br>总结:GitHub上的Awesome-Vision-Mamba收集了最新关于视觉Mamba模型及相关领域的论文资源，由用户ReaFly维护，为研究者提供了丰富的学术资源和论文链接，方便他们了解视觉技术的最新进展。 <div>
+视觉Mamba模型相关文献资源列表的GitHub库“Awesome-Vision-Mamba”收集了最新的关于视觉Mamba模型及相关研究领域的论文。这个资源库由用户ReaFly维护，提供了丰富的学术资源和论文链接。感兴趣的研究者可以通过这个GitHub链接获取到关于视觉技术的最新进展和研究成果。GitHub库中包含了各种与视觉Mamba模型相关的论文资源，为研究者提供了便捷的学习和参考资料。<br /><br />总结:GitHub上的Awesome-Vision-Mamba收集了最新关于视觉Mamba模型及相关领域的论文资源，由用户ReaFly维护，为研究者提供了丰富的学术资源和论文链接，方便他们了解视觉技术的最新进展。 <div>
 【视觉Mamba模型相关文献资源列表】’Awesome-Vision-Mamba - Latest Papers on Vision Mamba and Related Areas' GitHub: github.com/ReaFly/Awesome-Vision-Mamba <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hojcheypefj20xf0u0jxo.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 08 Apr 2024 05:10:27 GMT</pubDate>
-<pubDate>Mon, 08 Apr 2024 05:10:27 GMT</pubDate>
 </item>
-
 <item>
 <title>【OpenAI为训练GPT-4转录百万小时YouTube视频，挑战版权灰色地带】 - OpenAI为了获取高质量的训练数据来训练GPT-4，转录了超过100万小时的YouTube视频。这一行为...</title>
 <link>https://weibo.com/1402400261/O8J7rk1BG</link>

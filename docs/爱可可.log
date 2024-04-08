@@ -3647,3 +3647,15 @@ Summarized using GPT-3.5-turbo
 Append: [【视觉Mamba模型相关文献资源列表】’Awesome-Vision-Mamba - Latest Papers on Vision Mamba and Related Areas' GitHub: github.com/ReaFly/Awesome-Vision-Ma...](https://weibo.com/1402400261/O8L1ca49x)
 append_entries: 2
 Finish: 2024-04-08 06:15:41.621607
+------------------------------------------------------
+Started: 2024-04-08 08:14:32.973035
+Existing_entries: 603
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [【基于生成式模型的推荐系统相关论文列表】’Recommender Systems with Generative Models' GitHub: github.com/yasdel/LLM-RecSys #开源# #机器学习# #人工智能...](https://weibo.com/1402400261/O8LcLmQSk)
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [【HammerLLM：1.4B参数量的LLM，提供简洁高效的训练代码库，并完全开源了模型权重、环境、代码库和超参数】’HammerLLM - 1.4B sLLM for Chinese and English - ...](https://weibo.com/1402400261/O8Lc7q1tp)
+append_entries: 2
+Finish: 2024-04-08 08:14:42.277898
