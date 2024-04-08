@@ -3611,3 +3611,21 @@ Summarized using GPT-3.5-turbo
 Append: [[CL] Towards a Robust Retrieval-Based Summarization System 网页链接 系统地评估和增强了RAG辅助的LLM进行摘要任务的能力，提出了通用的评估管道和可复用的模...](https://weibo.com/1402400261/O8I3tzxRP)
 append_entries: 5
 Finish: 2024-04-08 00:51:37.871699
+------------------------------------------------------
+Started: 2024-04-08 02:21:00.218830
+Existing_entries: 597
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 898
+Summarized using GPT-3.5-turbo
+Append: [【OpenAI为训练GPT-4转录百万小时YouTube视频，挑战版权灰色地带】 - OpenAI为了获取高质量的训练数据来训练GPT-4，转录了超过100万小时的YouTube视频。这一行为...](https://weibo.com/1402400261/O8J7rk1BG)
+Token length: 910
+Summarized using GPT-3.5-turbo
+Append: [【Weco AI 发布 AIDE：开启软件开发的 AI 时代】- Weco AI 推出了一个名为 AIDE 的 AI 助手，它可以根据用户用自然语言描述的任务，自动搜索设计空间并生成源代...](https://weibo.com/1402400261/O8J5kyAQf)
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [【Replit 正在将 AI 集成到开发环境中，以提高开发人员体验，选择了代码修复任务，因为开发人员在修复软件中花费了大量时间，Replit 团队正在训练第一个7B的 Rep...](https://weibo.com/1402400261/O8J2CFXjF)
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: [【RWKV-6发布，提供1.6B和3B两种模型，在2.5T Token上训练，支持100+种语言】《BlinkDL/rwkv-6-world · Hugging Face》 网页链接 #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O8J1ckZjq)
+append_entries: 4
+Finish: 2024-04-08 02:21:21.603171

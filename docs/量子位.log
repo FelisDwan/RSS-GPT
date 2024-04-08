@@ -2481,3 +2481,18 @@ Existing_entries: 265
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-08 00:51:19.038592
+------------------------------------------------------
+Started: 2024-04-08 02:20:47.257499
+Existing_entries: 265
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 587
+Summarized using GPT-3.5-turbo
+Append: [#阿里开源32B大模型##阿里新大模型大战弱智吧# 阿里的通义千问（Qwen），终于拼齐了1.5系列的最后一块拼图——正式开源Qwen 1.5-32B。话不多说，直接来看“成绩...](https://weibo.com/6105753431/O8JJlfcG2)
+Token length: 326
+Summarized using GPT-3.5-turbo
+Append: [#Meta新增AI水印# 为了减少 AI 带来的隐私和版权问题，Meta宣布将在 5 月起在自家 Instagram、Threads 及 Facebook 平台为 AI 内容添加 “水印标记” 。Meta 声...](https://weibo.com/6105753431/O8Jq8kJZy)
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [#喊话控制机器人# 斯坦福的ALOHA家务机器人团队，发布了最新研究成果——项目名为Yell At Your Robot（简称YAY），有了它，机器人的“翻车”动作，只要喊句话就...](https://weibo.com/6105753431/O8JmEnLIL)
+append_entries: 3
+Finish: 2024-04-08 02:20:59.492635

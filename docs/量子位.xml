@@ -4,6 +4,47 @@
 <title>量子位的微博</title>
 <link>https://weibo.com/6105753431/</link>
 
+<item>
+<title>#阿里开源32B大模型##阿里新大模型大战弱智吧# 阿里的通义千问（Qwen），终于拼齐了1.5系列的最后一块拼图——正式开源Qwen 1.5-32B。话不多说，直接来看“成绩...</title>
+<link>https://weibo.com/6105753431/O8JJlfcG2</link>
+<guid>https://weibo.com/6105753431/O8JJlfcG2</guid>
+<content:encoded><![CDATA[
+<div> 关键词：Qwen 1.5-32B, Mixtral 8x7B, 72B模型, 性能, 多项评测, 语言理解, 多语言支持, 推理, 长文本评估任务, AI
+
+总结:<br><br>阿里的通义千问（Qwen）团队发布了开源的Qwen 1.5-32B模型，与Mixtral 8x7B和72B模型进行了比较测试。Qwen 1.5-32B在各项评测标准中表现优异，尤其在语言理解、多语言支持、推理等方面超越或追平Mixtral 8x7B。在与72B模型PK时，Qwen 1.5-32B展现出较好的性能。测试中也包括了长文本评估任务，表现良好。整体来看，Qwen 1.5-32B在多项评测中都取得了令人满意的成绩，展现了较好的性能和效果。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E9%87%8C%E5%BC%80%E6%BA%9032B%E5%A4%A7%E6%A8%A1%E5%9E%8B%23&amp;extparam=%23%E9%98%BF%E9%87%8C%E5%BC%80%E6%BA%9032B%E5%A4%A7%E6%A8%A1%E5%9E%8B%23"><span class="surl-text">#阿里开源32B大模型#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E9%87%8C%E6%96%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%A4%A7%E6%88%98%E5%BC%B1%E6%99%BA%E5%90%A7%23&amp;extparam=%23%E9%98%BF%E9%87%8C%E6%96%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%A4%A7%E6%88%98%E5%BC%B1%E6%99%BA%E5%90%A7%23"><span class="surl-text">#阿里新大模型大战弱智吧#</span></a> <br /><br />阿里的通义千问（Qwen），终于拼齐了1.5系列的最后一块拼图——正式开源Qwen 1.5-32B。<br /><br />话不多说，直接来看“成绩单”。<br /><br />这次官方pick同台竞技的“选手”是Mixtral 8x7B模型和同为Qwen 1.5系列的72B模型。<br /><br />从结果上来看，Qwen 1.5-32B已经在多项评测标准中超越或追平Mixtral 8x7B：【图1】。<br /><br />并且即便是在与自家更大参数模型PK过程中，Qwen 1.5-32B也用“以小博大”的姿势展现出了较好的性能。<br /><br />用通义千问团队成员的话来说就是：“这个模型显示出了与72B模型相当的性能，特别是在语言理解、多语言支持、编码和数学能力等方面。在推理和部署过程中，成本还会更加友好。”【图2】<br /><br />不仅如此，即便是再拉来其它体量相当的大模型“选手”，Qwen 1.5-32B在多项评测中的成绩依旧较为亮眼：【图3】。<br /><br />除此之外，团队还做了一项比较有意思的测试——长文本评估任务，“大海捞针”。<br /><br />简单来说，这项任务就是将一个与文本无关的句子（“针”）隐藏在大量的文本（“大海”）中，然后通过自然语言提问的方式，观察AI能否准确提取出这个隐藏的句子。<br /><br />从结果上来看，Qwen 1.5-32B在32k tokens的上下文中性能表现良好。【图4】<br /><br />不过有一说一，刚才所展示的也还仅是Qwen 1.5-32B在评分上的成绩，至于具体到实际体验过程中，效果又会如何呢？<a href="https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247724114&amp;idx=3&amp;sn=88459536c1697a052c5a086dac9505ff&amp;chksm=e8dfdb20dfa852364492d97fe928ccaef604b08109006934eda14c09ab6f7eedbc9fd43dd34b&amp;token=1328481816&amp;lang=zh_CN#rd"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">阿里刚开源32B大模型，我们立马测试了“弱智吧”</span></a><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hoi95itohsj30u00myah5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hoi95xqcw3j30u00ay0xk.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hoi965rw3cj30u00aj40c.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hoi96f7fmdj30u00gr427.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 01:53:43 GMT</pubDate>
+<pubDate>Mon, 08 Apr 2024 01:53:43 GMT</pubDate>
+</item>
+<item>
+<title>#Meta新增AI水印# 为了减少 AI 带来的隐私和版权问题，Meta宣布将在 5 月起在自家 Instagram、Threads 及 Facebook 平台为 AI 内容添加 “水印标记” 。Meta 声...</title>
+<link>https://weibo.com/6105753431/O8Jq8kJZy</link>
+<guid>https://weibo.com/6105753431/O8Jq8kJZy</guid>
+<content:encoded><![CDATA[
+<div> 标记、Meta、AI、隐私、版权、内容、水印、Instagram、监督、标签
+
+<br><br>总结:
+Meta宣布将在自家社交平台为AI生成的内容添加水印标记，以减少隐私和版权问题。公司表示这一变化来自内部监督委员会建议和公众调查结果。未来，AI生成的视频、音频和图像将被标记为“Made with AI”，使用Meta AI功能创建的逼真图像将添加“Imagined with AI”标签。同时，用户也可以自行披露上传的AI生成内容。此外，Meta也与行业合作伙伴制定了通用技术标准来识别AI内容。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Meta%E6%96%B0%E5%A2%9EAI%E6%B0%B4%E5%8D%B0%23&amp;extparam=%23Meta%E6%96%B0%E5%A2%9EAI%E6%B0%B4%E5%8D%B0%23"><span class="surl-text">#Meta新增AI水印#</span></a> <br /><br />为了减少 AI 带来的隐私和版权问题，Meta宣布将在 5 月起在自家 Instagram、Threads 及 Facebook 平台为 AI 内容添加 “水印标记” 。<br /><br />Meta 声称，这一变化来自公司内部监督委员会的建议、公共调查的结果和“学术界、民间社会组织和其他方面”的建议。<br /><br />未来，Meta 将开始对检测到的 AI 生成的视频、音频和图像内容标记为 “Made with AI” ，并为使用 Meta AI 功能创建的逼真图像添加 “Imagined with AI” 标签，而且用户也可以自我披露正在上传 AI 生成的内容。<br /><br />顺便一提，Meta在今年2月宣布了，它们一直在与行业合作伙伴共同制定识别 AI 内容（包括视频和音频）的通用技术标准。<img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hoj5fdkb1fj31hc0u0b29.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hoj5fd9sjpj31hc1ag1kx.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hoj5fd87cyj31hc1ag1kx.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 01:06:24 GMT</pubDate>
+<pubDate>Mon, 08 Apr 2024 01:06:24 GMT</pubDate>
+</item>
+<item>
+<title>#喊话控制机器人# 斯坦福的ALOHA家务机器人团队，发布了最新研究成果——项目名为Yell At Your Robot（简称YAY），有了它，机器人的“翻车”动作，只要喊句话就...</title>
+<link>https://weibo.com/6105753431/O8JmEnLIL</link>
+<guid>https://weibo.com/6105753431/O8JmEnLIL</guid>
+<content:encoded><![CDATA[
+<div> ALOHA家务机器人团队、Yell At Your Robot、研究成果、YAY、喊话、纠正、动态提升、调整策略、持续自我改进、海绵、放入袋子
+
+<br><br>总结:
+斯坦福的ALOHA家务机器人团队发布了最新研究成果Yell At Your Robot（YAY），通过喊话可以纠正机器人的“翻车”动作，实现动态提升和即时调整策略。机器人可以持续改进，比如在图2中的场景中，研究者通过喊话成功指导机器人完成任务，展现了机器人的学习和适应能力。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%96%8A%E8%AF%9D%E6%8E%A7%E5%88%B6%E6%9C%BA%E5%99%A8%E4%BA%BA%23&amp;extparam=%23%E5%96%8A%E8%AF%9D%E6%8E%A7%E5%88%B6%E6%9C%BA%E5%99%A8%E4%BA%BA%23"><span class="surl-text">#喊话控制机器人#</span></a> <br /><br />斯坦福的ALOHA家务机器人团队，发布了最新研究成果——<br /><br />项目名为Yell At Your Robot（简称YAY），有了它，机器人的“翻车”动作，只要喊句话就能纠正了！<br /><br />而且机器人可以随着人类的喊话动态提升动作水平、即时调整策略，并根据反馈持续自我改进。<br /><br />比如在图2的场景中，机器人没能完成系统设定的“把海绵放入袋子”的任务。<br /><br />这时研究者直接朝它喊话，“用海绵把袋子撑得再开一些”，之后就一下子成功了。<br /><br /><a href="https://mp.weixin.qq.com/s/F4BQKdkX8QG4ExHOmxzU4A"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">斯坦福团队新作：喊话就能指导机器人，任务成功率暴增，网友：特斯拉搞快点</span></a><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hoj55vpmzdj30u00ff44c.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hoj56d7hyeg30kw0804qp.gif" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 00:57:49 GMT</pubDate>
+<pubDate>Mon, 08 Apr 2024 00:57:49 GMT</pubDate>
+</item>
 
 <item>
 <title>#中国AIGC产业峰会# 最新嘉宾阵容来啦 😻 邀你一同参与AIGC应用的新时代！4月17日，欢迎扫码报名参会&amp;预约直播 👏👏 [图片]</title>
