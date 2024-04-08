@@ -2544,3 +2544,18 @@ Summarized using GPT-3.5-turbo
 Append: [#苹果内鬼至少泄密6款苹果产品##苹果泄密员工给媒体发上万条消息# 根据美国加州某法院公开的一份诉讼文件，苹果最近指控其前员工 Aude 涉嫌泄密，并要求赔偿至少...](https://weibo.com/6105753431/O8LH0w7Am)
 append_entries: 2
 Finish: 2024-04-08 08:14:32.238598
+------------------------------------------------------
+Started: 2024-04-08 10:13:50.252192
+Existing_entries: 280
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 377
+Summarized using GPT-3.5-turbo
+Append: [#曝亚马逊中国裁员数百人# 根据 “鞭牛士” 报道，亚马逊中国部分员工收到了来自总部的裁员通知邮件。流出的邮件显示，为了保持组织敏捷，亚马逊早先已在业务其...](https://weibo.com/6105753431/O8MLGbFUw)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [#第一部FPS游戏居然是2D的DOOM，一款来自30年前的老FPS游戏。DOOM runs on everything，一个在网上活跃20多年的老梗。DOOM这帮死忠粉们，本着可以不活但不能没活...](https://weibo.com/6105753431/O8MLganVs)
+Token length: 547
+Summarized using GPT-3.5-turbo
+Append: [#英伟达揭秘长上下文秘密# 为什么大模型能瞬间处理长达上百万的上下文窗口？[并不简单]对于这个问题，有研究人员在英伟达的 CUDA 平台上发布了一则有趣的演讲视...](https://weibo.com/6105753431/O8MsFuGEo)
+append_entries: 3
+Finish: 2024-04-08 10:14:04.857869
