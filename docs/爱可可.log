@@ -3635,3 +3635,15 @@ Existing_entries: 601
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-08 04:14:22.049545
+------------------------------------------------------
+Started: 2024-04-08 06:15:32.664923
+Existing_entries: 601
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 251
+Summarized using GPT-3.5-turbo
+Append: [【ClangQL：用于查询 C/C++ 代码的工具，使用 GitQL SDK 并提供了类似于 SQL 的查询语言】'ClangQL - Clang AST Query Language - ClangQL is a tool that allow...](https://weibo.com/1402400261/O8L1V66IW)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [【视觉Mamba模型相关文献资源列表】’Awesome-Vision-Mamba - Latest Papers on Vision Mamba and Related Areas' GitHub: github.com/ReaFly/Awesome-Vision-Ma...](https://weibo.com/1402400261/O8L1ca49x)
+append_entries: 2
+Finish: 2024-04-08 06:15:41.621607
