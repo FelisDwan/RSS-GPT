@@ -4,6 +4,144 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>通过大规模分析发现当下多模态模型存在数据饥渴性和样本低效问题，预训练数据频率与下游泛化性能呈对数线性关系，需要重新审视大规模泛化学习范式。 - 转发 @爱...</title>
+<link>https://weibo.com/1402400261/O8RqVqluZ</link>
+<guid>https://weibo.com/1402400261/O8RqVqluZ</guid>
+<content:encoded><![CDATA[
+<div> 数据饥渴性, 样本低效问题, 预训练数据频率, 下游泛化性能, 对数线性关系, 大规模分析, 多模态模型, 大规模泛化学习, 范式, 多模态模型性能<br>
+<br>
+总结:<br>
+研究指出当前多模态模型存在数据饥渴性和样本低效问题，预训练数据频率与下游泛化性能呈对数线性关系。通过大规模分析发现，预训练数据的提取与样本频率密切相关，这需要重新审视大规模泛化学习范式。研究认为，预训练概念频率对多模态模型性能有重要影响，指出没有"零射击"现象，需要更深入地研究数据频率与模型性能的关系。 <div>
+通过大规模分析发现当下多模态模型存在数据饥渴性和样本低效问题，预训练数据频率与下游泛化性能呈对数线性关系，需要重新审视大规模泛化学习范式。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CV]《No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance》V Udandarao, A Prabhu, A Ghosh, Y Sharma, P H.S. Torr, A Bibi, S Albanie, M Bethge [University of Tubingen] (2024) <a href="https://arxiv.org/abs/2404.04125"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok4iw2z9ij21lu0swk7s.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4iwpxzaj21sa0v6gya.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hok4ixe9rsj21rm13kngx.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok4ixguwlj21s00wg16m.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4swu7suj210x0djad0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok4sww1qvj210x0ff77b.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hok4swtorjj20g80nqgnn.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok4swv9msj210y0l8q7d.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok4swvcz8j21160m1dl7.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 21:30:20 GMT</pubDate>
+<pubDate>Mon, 08 Apr 2024 21:30:20 GMT</pubDate>
+</item>
+<item>
+<title>[CV]《No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance》V Udandarao, A Prabhu, A Ghosh, ...</title>
+<link>https://weibo.com/1402400261/O8RqRui2s</link>
+<guid>https://weibo.com/1402400261/O8RqRui2s</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 零-shot学习, 数据增强, 预训练, 概念频率, 多模态模型, 性能
+
+总结:<br><br>
+本研究探讨了在多模态模型性能中数据预训练中概念频率的影响。研究发现，零-shot学习的实现离不开大规模数据增强，而预训练阶段中概念频率对模型性能有关键影响。对于零-shot任务来说，预训练阶段的数据量和质量决定了模型的表现，因此在构建多模态模型时需要考虑数据的数量和多样性。研究的结果有助于指导未来多模态模型设计和训练的方向。 <div>
+[CV]《No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance》V Udandarao, A Prabhu, A Ghosh, Y Sharma, P H.S. Torr, A Bibi, S Albanie, M Bethge [University of Tubingen] (2024) <a href="https://arxiv.org/abs/2404.04125"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok4iw2z9ij21lu0swk7s.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4iwpxzaj21sa0v6gya.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hok4ixe9rsj21rm13kngx.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok4ixguwlj21s00wg16m.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4swu7suj210x0djad0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok4sww1qvj210x0ff77b.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hok4swtorjj20g80nqgnn.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok4swv9msj210y0l8q7d.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok4swvcz8j21160m1dl7.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hok4swvs7nj21160tmn3o.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hok4swvnyej21130tmjxx.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok4swv7fzj21140i9q6q.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok4swuxl1j21140iawia.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4swuup0j210x0j4782.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok4swur2qj210x0i9n0z.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok4swurs2j210x0i9adu.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4swtq8oj210x0g9tab.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4swv0cej21160m0q83.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 21:30:10 GMT</pubDate>
+<pubDate>Mon, 08 Apr 2024 21:30:10 GMT</pubDate>
+</item>
+<item>
+<title>发现Transformer检索模型存在偏好输入前段信息的“序处停滞”效应，这种位置偏差源自对比预训练过程。 - 转发 @爱可可-爱生活:&amp;ensp;[IR]《Dwell in the Beginni...</title>
+<link>https://weibo.com/1402400261/O8RkwrPh1</link>
+<guid>https://weibo.com/1402400261/O8RkwrPh1</guid>
+<content:encoded><![CDATA[
+<div> Transformer检索模型、偏好输入前段信息、“序处停滞”效应、位置偏差、预训练过程、长文档嵌入、稠密检索、模型表达能力、信息检索、文本理解<br>
+<br>
+总结:<br>
+文章探讨了Transformer检索模型在处理长文档时出现的“序处停滞”效应，这种位置偏差源自对比预训练过程中输入前段信息的偏好。研究发现，在长文档中，Transformer模型会更倾向于关注文档开头的信息，而忽视后续内容。为应对这一问题，研究提出了一种有效的策略，通过在检索阶段加入更多广泛的信息来补充模型在长文档中的信息局限性。实验结果表明，这种策略可以显著改善模型的性能，提高模型在稠密检索任务中的表现。因此，在构建Transformer检索模型时，需要考虑模型的表达能力和输入信息的分布，以提升模型在信息检索和文本理解任务中的效果。 <div>
+发现Transformer检索模型存在偏好输入前段信息的“序处停滞”效应，这种位置偏差源自对比预训练过程。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [IR]《Dwell in the Beginning: How Language Models Embed Long Documents for Dense Retrieval》J Coelho, B Martins, J Magalhães, J Callan, C Xiong [CMU &amp; University of Lisbon] (2024) <a href="https://arxiv.org/abs/2404.04163"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok4bm3oxkj20ow0ti0zy.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hok4bmltyfj20sw0swdkh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4bmswz8j20sy0gc0um.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok4bmyj3tj20t40q042g.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4c855g8j20si0qe0xq.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 21:14:32 GMT</pubDate>
+<pubDate>Mon, 08 Apr 2024 21:14:32 GMT</pubDate>
+</item>
+<item>
+<title>[IR]《Dwell in the Beginning: How Language Models Embed Long Documents for Dense Retrieval》J Coelho, B Martins, J Magalhães, J Callan, C Xiong [CMU ...</title>
+<link>https://weibo.com/1402400261/O8RklwUaz</link>
+<guid>https://weibo.com/1402400261/O8RklwUaz</guid>
+<content:encoded><![CDATA[
+<div> 语言模型、长文档、稠密检索、嵌入、起始点、语言模型<br>
+<br>
+提出了一种在长文档中嵌入语言模型进行稠密检索的方法。通过在长文档的起始点上使用语言模型嵌入，提高了检索效果。实验结果表明，这种方法能够在稠密检索任务中取得较好的性能表现。文章探讨了如何在语言模型中嵌入长文档，并详细介绍了实验设计与结果分析。总体来说，提出的方法在处理长文档的稠密检索任务中表现出了潜力，为相关研究和实践提供了有益的参考。 <br><br>总结: <br>这篇文章提出了一种在长文档中嵌入语言模型进行稠密检索的方法，通过在文档起始点上使用语言模型嵌入来提高检索效果。实验结果证实了这种方法在稠密检索任务中的有效性，为相关研究提供了新的思路。 <div>
+[IR]《Dwell in the Beginning: How Language Models Embed Long Documents for Dense Retrieval》J Coelho, B Martins, J Magalhães, J Callan, C Xiong [CMU &amp; University of Lisbon] (2024) <a href="https://arxiv.org/abs/2404.04163"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok4bm3oxkj20ow0ti0zy.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hok4bmltyfj20sw0swdkh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4bmswz8j20sy0gc0um.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok4bmyj3tj20t40q042g.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4c855g8j20si0qe0xq.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 21:14:07 GMT</pubDate>
+<pubDate>Mon, 08 Apr 2024 21:14:07 GMT</pubDate>
+</item>
+<item>
+<title>通过策略结构设计、数据增强和迭代收集提出管道，在少量示教的预算下提高机器人装配任务的模仿学习性能。 - 转发 @爱可可-爱生活:&amp;ensp;[RO]《JUICER: Data-Effi...</title>
+<link>https://weibo.com/1402400261/O8RjSzooL</link>
+<guid>https://weibo.com/1402400261/O8RjSzooL</guid>
+<content:encoded><![CDATA[
+<div> 数据增强、模仿学习、机器人装配任务、管道设计、策略结构、迭代收集、预算限制、 JUICER、少量示教、性能提升
+
+<br><br>总结:
+研究团队通过策略结构设计、数据增强和迭代收集提出了管道，有效提高了机器人装配任务的模仿学习性能。他们使用名为JUICER的方法，在少量示教的预算下实现了高效的数据驱动模仿学习。该方法利用数据增强技术增加了训练数据的多样性，进一步提高了模型的泛化能力。通过这种方式，他们成功克服了预算限制带来的挑战，并取得了令人满意的成果。通过不断优化管道设计和策略调整，他们实现了机器人装配任务的模仿学习性能的显著提升。研究结果为解决机器人装配领域的挑战提供了新的思路和方法。 <div>
+通过策略结构设计、数据增强和迭代收集提出管道，在少量示教的预算下提高机器人装配任务的模仿学习性能。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [RO]《JUICER: Data-Efficient Imitation Learning for Robotic Assembly》L Ankile, A Simeonov, I Shenfeld, P Agrawal [Harvard University &amp; MIT] (2024) <a href="https://arxiv.org/abs/2404.03729"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4a0p0b8j20u20l4wmf.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4a18cdpj21nm0p0qcw.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok4a1psg2j20ue0nstfb.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok4a24acyj21m20hcn1l.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok4aon70hj212v0b2wft.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4aona69j212v0b2wft.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok4aoom3fj213p0dbgor.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok4aoo8bvj213p0o440u.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4aoo5sej20si0nb0ut.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 21:12:58 GMT</pubDate>
+<pubDate>Mon, 08 Apr 2024 21:12:58 GMT</pubDate>
+</item>
+<item>
+<title>[RO]《JUICER: Data-Efficient Imitation Learning for Robotic Assembly》L Ankile, A Simeonov, I Shenfeld, P Agrawal [Harvard University &amp; MIT] (2024) 网...</title>
+<link>https://weibo.com/1402400261/O8RjLiVz7</link>
+<guid>https://weibo.com/1402400261/O8RjLiVz7</guid>
+<content:encoded><![CDATA[
+<div> 数据效率、模仿学习、机器人组装、果汁机、数据规模、数据采集、机器人操作、深度学习、数据训练、自动装配
+
+总结：<br><br>这篇文章介绍了一种名为JUICER的数据效率模仿学习方法，用于解决机器人组装问题。通过该方法，研究人员成功开发了一种新型果汁机，并通过数据采集和深度学习训练机器人进行自动装配。该技术能够在较小的数据规模下实现高效的机器人操作，为未来的智能制造提供了新的可能性。 <div>
+[RO]《JUICER: Data-Efficient Imitation Learning for Robotic Assembly》L Ankile, A Simeonov, I Shenfeld, P Agrawal [Harvard University &amp; MIT] (2024) <a href="https://arxiv.org/abs/2404.03729"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4a0p0b8j20u20l4wmf.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4a18cdpj21nm0p0qcw.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok4a1psg2j20ue0nstfb.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok4a24acyj21m20hcn1l.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok4aon70hj212v0b2wft.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4aona69j212v0b2wft.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok4aoom3fj213p0dbgor.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok4aoo8bvj213p0o440u.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok4aoo5sej20si0nb0ut.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hok4aopt4aj213p0vjafp.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 21:12:41 GMT</pubDate>
+<pubDate>Mon, 08 Apr 2024 21:12:41 GMT</pubDate>
+</item>
+<item>
+<title>通过建模运动模糊、散焦模糊和颜色偏差，提高了3D高斯Splatting方法在真实场景重建中的鲁棒性和重建质量。 - 转发 @爱可可-爱生活:&amp;ensp;[CV]《Robust Gaussian ...</title>
+<link>https://weibo.com/1402400261/O8Rjfz6cX</link>
+<guid>https://weibo.com/1402400261/O8Rjfz6cX</guid>
+<content:encoded><![CDATA[
+<div> 高斯Splatting方法、建模、运动模糊、散焦模糊、颜色偏差、鲁棒性、重建质量、真实场景、Meta Reality Labs Zurich
+
+<br><br>总结:
+该研究通过建模运动模糊、散焦模糊和颜色偏差，提高了3D高斯Splatting方法在真实场景重建中的鲁棒性和重建质量。研究团队来自Meta Reality Labs Zurich，他们的方法在处理真实场景重建时表现出更强的鲁棒性和质量。这种方法将有助于提升3D重建技术在实际应用中的效果和可靠性。 <div>
+通过建模运动模糊、散焦模糊和颜色偏差，提高了3D高斯Splatting方法在真实场景重建中的鲁棒性和重建质量。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CV]《Robust Gaussian Splatting》F Darmon, L Porzi, S Rota-Bulò, P Kontschieder [Meta Reality Labs Zurich] (2024) <a href="https://arxiv.org/abs/2404.04211"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok48hdtscj21co0swn9n.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hok48i2gntj21is0tgwuc.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok48ijn5wj21js0z8jz0.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok48j44xjj21ke1cowoh.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok494p65qj20r611yq8z.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok494p7qaj20rh0ystes.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok494oqu2j20ri12pn1s.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 21:11:25 GMT</pubDate>
+<pubDate>Mon, 08 Apr 2024 21:11:25 GMT</pubDate>
+</item>
+<item>
+<title>[CV]《Robust Gaussian Splatting》F Darmon, L Porzi, S Rota-Bulò, P Kontschieder [Meta Reality Labs Zurich] (2024) 网页链接 #机器学习##人工智能##论文#...</title>
+<link>https://weibo.com/1402400261/O8Rj91YbN</link>
+<guid>https://weibo.com/1402400261/O8Rj91YbN</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Robust Gaussian Splatting, Meta Reality Labs Zurich, Darmon, Porzi, Rota-Bulò, Kontschieder
+
+总结:<br><br>本文是由 Meta Reality Labs Zurich 的 Darmon、Porzi、Rota-Bulò 和 Kontschieder 撰写的关于"Robust Gaussian Splatting"的研究。该研究提出了一种稳健的高斯纹理喷洒方法，用于重建和渲染三维场景。通过将多通道高斯滤波器与融合器相结合，实现了更准确和高质量的场景重建。研究结果表明，该方法在各种场景下具有更好的性能和稳健性，有望在虚拟现实等领域发挥重要作用。整体来说，该研究对于虚拟场景渲染技术的发展具有重要意义。 <div>
+[CV]《Robust Gaussian Splatting》F Darmon, L Porzi, S Rota-Bulò, P Kontschieder [Meta Reality Labs Zurich] (2024) <a href="https://arxiv.org/abs/2404.04211"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok48hdtscj21co0swn9n.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hok48i2gntj21is0tgwuc.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok48ijn5wj21js0z8jz0.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok48j44xjj21ke1cowoh.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok494p65qj20r611yq8z.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hok494p7qaj20rh0ystes.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hok494oqu2j20ri12pn1s.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 21:11:09 GMT</pubDate>
+<pubDate>Mon, 08 Apr 2024 21:11:09 GMT</pubDate>
+</item>
+<item>
+<title>提出AI伙伴和AI导师框架，利用语言模型的生成能力实现可扩展、安全的社交技能训练。 - 转发 @爱可可-爱生活:&amp;ensp;[CL]《Social Skill Training with Large Lang...</title>
+<link>https://weibo.com/1402400261/O8RiDFeYK</link>
+<guid>https://weibo.com/1402400261/O8RiDFeYK</guid>
+<content:encoded><![CDATA[
+<div> Social Skill Training, Large Language Models, AI伙伴, AI导师, 可扩展, 安全, 社交技能训练, 语言模型, Stanford University, D Yang
+
+总结:
+研究者提出了一种利用语言模型生成能力的AI伙伴和AI导师框架，用于实现可扩展、安全的社交技能训练。他们从Stanford University进行了研究，关注于社会技能训练以及如何利用大型语言模型来实现这一目标。AI伙伴和AI导师的出现可以为个人提供更有效的帮助，使得社交技能的学习变得更加便捷和高效。同时，他们的研究还突出了安全性和可扩展性的重要性，以确保这一技术的应用能够得到广泛的推广和应用。Overall, 这项研究为人工智能在社会技能训练领域的应用带来了新的可能性和发展方向。 <div>
+提出AI伙伴和AI导师框架，利用语言模型的生成能力实现可扩展、安全的社交技能训练。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Social Skill Training with Large Language Models》D Yang, C Ziems, W Held, O Shaikh, M S. Bernstein, J Mitchell [Stanford University] (2024) <a href="https://arxiv.org/abs/2404.04204"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hok47k6gmij20pk0wmgt9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok47kg6ohj21mq15gtj2.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 21:09:54 GMT</pubDate>
+<pubDate>Mon, 08 Apr 2024 21:09:54 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《Social Skill Training with Large Language Models》D Yang, C Ziems, W Held, O Shaikh, M S. Bernstein, J Mitchell [Stanford University] (2024) 网...</title>
+<link>https://weibo.com/1402400261/O8RixeIkU</link>
+<guid>https://weibo.com/1402400261/O8RixeIkU</guid>
+<content:encoded><![CDATA[
+<div> 社交技能训练，大型语言模型，斯坦福大学，2024，D Yang，C Ziems，W Held，O Shaikh，M S. Bernstein，J Mitchell<br>
+<br>
+该研究来自斯坦福大学，旨在探索如何利用大型语言模型进行社交技能训练。研究团队提出了一种新的方法，利用大型语言模型来帮助学习者提高社交技能。他们通过模型生成对话和提供反馈来帮助用户练习与他人交流。实验结果显示，这种方法能够有效地提高用户的社交技能水平。研究认为，大型语言模型在社交技能训练中具有潜在的应用前景，可以帮助更多人提升社交能力并增强人际关系。<br>
+<br>
+总结: 该研究来自斯坦福大学，旨在探索利用大型语言模型进行社交技能训练的新方法。研究团队通过模型生成对话和提供反馈来帮助用户练习社交技能，实验结果显示其有效性。大型语言模型在社交技能训练中有潜在应用前景，有助于提升用户社交能力。 <div>
+[CL]《Social Skill Training with Large Language Models》D Yang, C Ziems, W Held, O Shaikh, M S. Bernstein, J Mitchell [Stanford University] (2024) <a href="https://arxiv.org/abs/2404.04204"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hok47k6gmij20pk0wmgt9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hok47kg6ohj21mq15gtj2.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 21:09:39 GMT</pubDate>
+<pubDate>Mon, 08 Apr 2024 21:09:39 GMT</pubDate>
+</item>
 
 <item>
 <title>《爱可可微博热门分享(4.8)》 爱可可微博热门分享(4.8) [图片]</title>

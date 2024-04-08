@@ -3720,3 +3720,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O8OC6AiAu)
 append_entries: 0
 Finish: 2024-04-08 20:13:29.936509
+------------------------------------------------------
+Started: 2024-04-08 22:12:13.485431
+Existing_entries: 612
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 310
+Summarized using GPT-3.5-turbo
+Append: [通过大规模分析发现当下多模态模型存在数据饥渴性和样本低效问题，预训练数据频率与下游泛化性能呈对数线性关系，需要重新审视大规模泛化学习范式。 - 转发 @爱...](https://weibo.com/1402400261/O8RqVqluZ)
+Token length: 233
+Summarized using GPT-3.5-turbo
+Append: [[CV]《No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance》V Udandarao, A Prabhu, A Ghosh, ...](https://weibo.com/1402400261/O8RqRui2s)
+Token length: 241
+Summarized using GPT-3.5-turbo
+Append: [发现Transformer检索模型存在偏好输入前段信息的“序处停滞”效应，这种位置偏差源自对比预训练过程。 - 转发 @爱可可-爱生活:&ensp;[IR]《Dwell in the Beginni...](https://weibo.com/1402400261/O8RkwrPh1)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [[IR]《Dwell in the Beginning: How Language Models Embed Long Documents for Dense Retrieval》J Coelho, B Martins, J Magalhães, J Callan, C Xiong [CMU ...](https://weibo.com/1402400261/O8RklwUaz)
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [通过策略结构设计、数据增强和迭代收集提出管道，在少量示教的预算下提高机器人装配任务的模仿学习性能。 - 转发 @爱可可-爱生活:&ensp;[RO]《JUICER: Data-Effi...](https://weibo.com/1402400261/O8RjSzooL)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [[RO]《JUICER: Data-Efficient Imitation Learning for Robotic Assembly》L Ankile, A Simeonov, I Shenfeld, P Agrawal [Harvard University & MIT] (2024) 网...](https://weibo.com/1402400261/O8RjLiVz7)
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [通过建模运动模糊、散焦模糊和颜色偏差，提高了3D高斯Splatting方法在真实场景重建中的鲁棒性和重建质量。 - 转发 @爱可可-爱生活:&ensp;[CV]《Robust Gaussian ...](https://weibo.com/1402400261/O8Rjfz6cX)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [[CV]《Robust Gaussian Splatting》F Darmon, L Porzi, S Rota-Bulò, P Kontschieder [Meta Reality Labs Zurich] (2024) 网页链接 #机器学习##人工智能##论文#...](https://weibo.com/1402400261/O8Rj91YbN)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [提出AI伙伴和AI导师框架，利用语言模型的生成能力实现可扩展、安全的社交技能训练。 - 转发 @爱可可-爱生活:&ensp;[CL]《Social Skill Training with Large Lang...](https://weibo.com/1402400261/O8RiDFeYK)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Social Skill Training with Large Language Models》D Yang, C Ziems, W Held, O Shaikh, M S. Bernstein, J Mitchell [Stanford University] (2024) 网...](https://weibo.com/1402400261/O8RixeIkU)
+append_entries: 10
+Finish: 2024-04-08 22:12:53.569446
