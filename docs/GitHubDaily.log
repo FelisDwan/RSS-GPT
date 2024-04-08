@@ -1892,3 +1892,12 @@ Existing_entries: 44
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-04-08 12:19:39.847390
+------------------------------------------------------
+Started: 2024-04-08 14:12:05.857959
+Existing_entries: 44
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 524
+Summarized using GPT-3.5-turbo
+Append: [分享 GitHub 上一份超全面的开源大模型使用指南 self-llm。提供了针对国内初学者的开源大模型教程，通过 AutoDL 平台，简化模型的部署、使用和应用流程。GitHub...](https://weibo.com/5722964389/O8MUIyrVD)
+append_entries: 1
+Finish: 2024-04-08 14:12:12.985136

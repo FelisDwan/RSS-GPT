@@ -4,6 +4,20 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+<item>
+<title>分享 GitHub 上一份超全面的开源大模型使用指南 self-llm。提供了针对国内初学者的开源大模型教程，通过 AutoDL 平台，简化模型的部署、使用和应用流程。GitHub...</title>
+<link>https://weibo.com/5722964389/O8MUIyrVD</link>
+<guid>https://weibo.com/5722964389/O8MUIyrVD</guid>
+<content:encoded><![CDATA[
+<div> AutoDL、LLM、开源、模型、环境配置、部署、使用教程、微调、学生
+
+总结:
+该项目是一份在GitHub上的超全面开源大模型使用指南，提供了针对国内初学者的教程，通过AutoDL平台简化模型的部署、使用和应用流程。主要包括基于AutoDL平台的LLM环境配置指南、主流开源LLM的部署使用教程、LLM的部署应用指导、全量微调和高效微调方法等内容。适合想要体验LLM但无条件获得相关API、长期、低成本应用LLM、对开源LLM感兴趣的学习者使用。项目旨在帮助学生和研究者更有效地利用开源大模型，并融入到其日常生活中。 <div>
+分享 GitHub 上一份超全面的开源大模型使用指南 self-llm。<br /><br />提供了针对国内初学者的开源大模型教程，通过 AutoDL 平台，简化模型的部署、使用和应用流程。<br /><br />GitHub：github.com/datawhalechina/self-llm<br /><br />主要内容包括：<br /><br />- 基于 AutoDL 平台的开源 LLM 环境配置指南，针对不同的模型要求提供不同的详细环境配置步骤；<br />- 提供国内外主流开源 LLM 的部署使用教程，包括 LLaMA、ChatGLM、InternLM 等；<br />- 提供开源 LLM 的部署应用指导，包括命令行调用、在线 Demo 部署、LangChain 框架集成等；<br />- 提供开源 LLM 的全量微调、高效微调方法，包括分布式全量微调、LoRA、ptuning 等。<br /><br />适合以下学习者：<br /><br />- 想要使用或体验 LLM，但无条件获得或使用相关 API；<br />- 希望长期、低成本、大量应用 LLM；<br />- 对开源 LLM 感兴趣，想要亲自上手开源 LLM；<br />- NLP 在学，希望进一步学习 LLM；<br />- 希望结合开源 LLM，打造领域特色的私域 LLM；<br />- 以及最广大、最普通的学生群体。<br /><br />项目旨在帮助学生和研究者更有效地利用开源大模型，并融入到其日常生活中。<img src="https://tvax1.sinaimg.cn/large/006fiYtfgy1hojjz0kfa3j30o82kfb29.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 08 Apr 2024 10:00:00 GMT</pubDate>
+<pubDate>Mon, 08 Apr 2024 10:00:00 GMT</pubDate>
+</item>
 
 <item>
 <title>推荐 GitHub 上一款开源免费平替 Perplexity AI 工具 FreeAskInternet。这是一款完全免费基于搜索的问答 AI 工具，可本地运行且无需 GPU 硬件支持，能很好确保隐...</title>

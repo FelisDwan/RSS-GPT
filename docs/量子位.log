@@ -2565,3 +2565,12 @@ Existing_entries: 283
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-08 12:19:38.912805
+------------------------------------------------------
+Started: 2024-04-08 14:11:31.358538
+Existing_entries: 283
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: [蚂蚁集团代码大模型CodeFuse负责人李建国 确认参与 #中国AIGC产业峰会# ！🔥李建国，清华大学博士，蚂蚁集团代码大模型CodeFuse负责人。李博士深耕机器学习、...](https://weibo.com/6105753431/O8NFybypL)
+append_entries: 1
+Finish: 2024-04-08 14:11:38.235432

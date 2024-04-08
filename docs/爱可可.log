@@ -3672,3 +3672,27 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O8FiZ4dbg)
 append_entries: 0
 Finish: 2024-04-08 12:19:39.735455
+------------------------------------------------------
+Started: 2024-04-08 14:11:38.967109
+Existing_entries: 605
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 857
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Non-negative Contrastive Learning》(ICLR 2024) GitHub: github.com/PKU-ML/non_neg [fig3]《LiDAR4D: Dynamic Neural Fields for Novel ...](https://weibo.com/1402400261/O8NNPDICs)
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [【QAnything：致力于支持任意格式文件或数据库的本地知识库问答系统，可断网安装使用】'Question and Answer based on Anything - Question and Answer based on...](https://weibo.com/1402400261/O8NNHnqAK)
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [【场景文本图像超分辨率相关论文资源列表】’Awesome Scene Text Image Super-Resolution - A collection of papers and resources on scene text image super-r...](https://weibo.com/1402400261/O8NKfyUVC)
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [【MLIR-EmitC：将 ML 模型转换为 C++ 代码的工具，它包含将 Keras 和 TensorFlow 模型转换为 TOSA 和 StableHLO dialect，以及将这些dialect转换为 EmitC 的脚本...](https://weibo.com/1402400261/O8NHrcruH)
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [【用大语言模型(LLM)处理表格数据相关论文资源列表】’Awesome-LLM-Tabular - Awesome-LLM-Tabular: a curated list of Large Language Model applied to Tabula...](https://weibo.com/1402400261/O8NFyFg7N)
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [【llama-cpp-rs：Rust 语言编写的库，提供了 llama.cpp 的绑定，用于处理大型语言模型】'llama-cpp-rs' GitHub: github.com/utilityai/llama-cpp-rs #开源# #机...](https://weibo.com/1402400261/O8NB1mSxV)
+append_entries: 6
+Finish: 2024-04-08 14:12:05.811704
