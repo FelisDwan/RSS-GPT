@@ -3590,3 +3590,24 @@ Summarized using GPT-3.5-turbo
 Append: [[CL]《Evaluating LLMs at Detecting Errors in LLM Responses》R Kamoi, S S S Das, R Lou, J J Ahn… [Penn State University] (2024) 网页链接 #机器学习##人...](https://weibo.com/1402400261/O8HRjdlw5)
 append_entries: 10
 Finish: 2024-04-07 22:10:30.721943
+------------------------------------------------------
+Started: 2024-04-08 00:51:19.764338
+Existing_entries: 592
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1369期)：LLM的LLM响应错误检测能力评估、识别破坏安全的良性数据、通过模拟伪代码执行改进算法推理、将LLM变成跨模态跨语言检索系统、语言模型是否...](https://weibo.com/1402400261/O8IiG1TrX)
+Token length: 82
+Summarized using GPT-3.5-turbo
+Append: [[CV] Streaming Dense Video Captioning 网页链接 提出基于聚类记忆和流式解码的流式稠密视频描述模型，可以实时处理和描述任意长的视频。 [图片][图片][图片]](https://weibo.com/1402400261/O8IcDbV2G)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [[CV] Video Interpolation with Diffusion Models 网页链接 提出串联式扩散模型VIDIM生成高质量视频插帧，可处理复杂运动，生成效果连贯自然，明显优于现有非生...](https://weibo.com/1402400261/O8I93pO6F)
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [[CL] Comparing Bad Apples to Good Oranges: Aligning Large Language Models via Joint Preference Optimization 网页链接提出一种获取人类对指令-响应对联合...](https://weibo.com/1402400261/O8I6GrzAC)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [[CL] Towards a Robust Retrieval-Based Summarization System 网页链接 系统地评估和增强了RAG辅助的LLM进行摘要任务的能力，提出了通用的评估管道和可复用的模...](https://weibo.com/1402400261/O8I3tzxRP)
+append_entries: 5
+Finish: 2024-04-08 00:51:37.871699
