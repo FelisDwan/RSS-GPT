@@ -2559,3 +2559,9 @@ Summarized using GPT-3.5-turbo
 Append: [#英伟达揭秘长上下文秘密# 为什么大模型能瞬间处理长达上百万的上下文窗口？[并不简单]对于这个问题，有研究人员在英伟达的 CUDA 平台上发布了一则有趣的演讲视...](https://weibo.com/6105753431/O8MsFuGEo)
 append_entries: 3
 Finish: 2024-04-08 10:14:04.857869
+------------------------------------------------------
+Started: 2024-04-08 12:19:37.761821
+Existing_entries: 283
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-04-08 12:19:38.912805
