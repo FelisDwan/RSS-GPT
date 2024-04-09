@@ -4,6 +4,19 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+<item>
+<title>推荐 GitHub 上一款完全本地化的 AI 搜索集成工具 LLocalSearch。用户可以直接问一个问题，系统会通过一系列 LLM Agents 来寻找答案，无需依赖任何外部 API，如 ...</title>
+<link>https://weibo.com/5722964389/O8XwhBOt1</link>
+<guid>https://weibo.com/5722964389/O8XwhBOt1</guid>
+<content:encoded><![CDATA[
+<div> GitHub, LLocalSearch, 无需外部 API, 低配置硬件, 进度日志, 后续问题, 界面设计, Docker Compose, Ollama, GPU
+
+总结:<br><br>LLocalSearch 是一款完全本地化的 AI 搜索集成工具，在 GitHub 上获得推荐。该工具无需依赖外部 API，能在低配置硬件上运行，并提供详细的进度日志。用户可以直接提问问题，系统通过一系列 LLM Agents 寻找答案，同时支持后续问题的提出，方便深入探讨解决方案。界面设计精心，支持浅色和深色主题，且兼容 PC 端和移动端。部署安装需要结合 Ollama 使用，对 GPU 要求不是必须的，但推荐使用 GPU。支持 Docker Compose 快速简单的部署方式。 <div>
+推荐 GitHub 上一款完全本地化的 AI 搜索集成工具 LLocalSearch。<br /><br />用户可以直接问一个问题，系统会通过一系列 LLM Agents 来寻找答案，无需依赖任何外部 API，如 OpenAI 或 Google API Key。<br /><br />GitHub：github.com/nilsherzig/LLocalSearch<br /><br />具有如下特性：<br /><br />- 无需外部 API，保证数据处理的完全本地化。<br />- 支持在低配置硬件上运行使用。<br />- 提供详细的进度日志，帮助你更好理解搜索的内部过程。<br />- 支持提出后续问题，方便深入探讨解决问题。<br />- 精心设计的界面，支持浅色和深色主题，且兼容 PC 端及移动端。<br />- 支持 Docker Compose 快速简单的部署方式。<br /><br />部署安装需要配合 Ollama 一起使用，对 GPU 要求不是必须的，但推荐使用 GPU。 <a href="https://video.weibo.com/show?fid=1034:5021337559695399"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">GitHubDaily的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006fiYtfgy1hoktrx4ya2j31hc0u0wgx.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/u0/NqD2IUU0gx08dX5xIQIM01041200mdeK0E010.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712676867&amp;ssig=GKhfGHMUCC&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/u0/WxdAR9d5gx08dX5xpube01041200bP5K0E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712676867&amp;ssig=nIJ2TfhPR7&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/u0/rTiFPS3tgx08dX5xPnEQ010412007cOm0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712676867&amp;ssig=JRfDAqX4fC&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5021337559695399" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
+]]></content:encoded>
+<pubDate>Tue, 09 Apr 2024 13:00:00 GMT</pubDate>
+<pubDate>Tue, 09 Apr 2024 13:00:00 GMT</pubDate>
+</item>
 
 <item>
 <title>推荐 GitHub 上一款强大且易于使用的在线数据库设计工具及 SQL 生成器 DrawDB。你可以轻松地点击几下即可创建图表，导出 SQL 脚本，以及自定义编辑器等，完全开...</title>
