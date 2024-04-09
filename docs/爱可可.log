@@ -3801,3 +3801,12 @@ Existing_entries: 631
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-09 04:14:43.355070
+------------------------------------------------------
+Started: 2024-04-09 06:14:42.337903
+Existing_entries: 631
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [【llm.c：实现了大语言模型(LLM)训练的简单、纯 C/CUDA 版本，无需 PyTorch 或 cPython】'llm.c - LLM training in simple, raw C/CUDA' GitHub: github.com/kar...](https://weibo.com/1402400261/O8UKMes4Y)
+append_entries: 1
+Finish: 2024-04-09 06:14:49.392335
