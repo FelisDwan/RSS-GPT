@@ -3831,3 +3831,9 @@ Summarized using GPT-3.5-turbo
 Append: [【Morphic：AI驱动的回答引擎，类似Perplexity，可以提供准确和实时的答案，配备生成式 UI】’Morphic - An AI-powered answer engine with a generative UI' Gi...](https://weibo.com/1402400261/O8ULLciDl)
 append_entries: 5
 Finish: 2024-04-09 08:14:39.681129
+------------------------------------------------------
+Started: 2024-04-09 10:14:30.755445
+Existing_entries: 637
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-09 10:14:30.861865

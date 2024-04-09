@@ -2646,3 +2646,25 @@ Summarized using GPT-3.5-turbo
 Append: [#谷歌开源Gemma1.1# 全球最强开源模型谷歌 Gemma 迎来第一次升级。此次升级主要是为了回应社区用户反馈。在 Gemma 发布后的近1个月里，团队收到了许多真实建议。...](https://weibo.com/6105753431/O8UVBFgUi)
 append_entries: 4
 Finish: 2024-04-09 08:14:19.075603
+------------------------------------------------------
+Started: 2024-04-09 10:14:09.448775
+Existing_entries: 290
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [#马斯克大胆预测#：AGI将在明年实现“ 如果把 AGI 定义为比最聪明的人类更聪明，我认为可能是在明年（实现），也就是两年内。”这是马斯克在接受挪威主权财富基...](https://weibo.com/6105753431/O8WeelMwJ)
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: [#金山办公发布WPS协作# 4月9日，金山办公生产力大会在京举行，现场发布了面向组织和企业的办公新质生产力平台WPS 365，其包含升级的WPS Office、最新发布的WPS A...](https://weibo.com/6105753431/O8W8vsAlz)
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [#特斯联完成20亿元新一轮融资# 刚刚，20亿规模的新融资被官宣，砸向了AI。AI+IoT方向的独角兽特斯联，再次被推至台前。作为AI1.0时代就跻身独角兽的明星创业公司...](https://weibo.com/6105753431/O8W2Hz5zs)
+Token length: 69
+Summarized using GPT-3.5-turbo
+Append: [#大模型不会推理全怪数据# 斯坦福的一项研究发现，训练数据是大模型缺乏推理能力的重要原因，因为训练数据更多反应人类沟通的过程（关注结果），而不是思考的过...](https://weibo.com/6105753431/O8W1KdOBT)
+Append: [#微软在伦敦开设新AI中心# 微软最新宣布将为其新成立的消费者人工智能部门在伦敦设立一个新基地。新基地将由前 Inflection 和 DeepMind 科学家霍夫曼【图1】领导...](https://weibo.com/6105753431/O8VRopdxH)
+Append: [#GPT4一眼看穿论文会不会撤稿##用大模型维护科研诚信# 把论文丢给GPT-4进行撤稿预测，和人类审稿人给出的结果相似性近95%！具体来说，来自人大与浙大学者团队的...](https://weibo.com/6105753431/O8VOl8ta6)
+Append: [#OpenAI创始大神手搓千行C代码训练GPT# 大神卡帕西（Andrej Karpathy）刚“复工”，立马带来神作：纯C语言训练GPT，1000行代码搞定！，不用现成的深度学习框架，...](https://weibo.com/6105753431/O8VGhqB3N)
+Append: [#Sora是视频版GPT1#两位 Sora 核心成员最近在 AGI house 发表了公开演讲。他们认为，通过模拟一切视频生成将带我们走向 AGI，终有一天人们可以在视频模型上运行 ...](https://weibo.com/6105753431/O8VAgm18T)
+append_entries: 8
+Finish: 2024-04-09 10:14:29.973660
