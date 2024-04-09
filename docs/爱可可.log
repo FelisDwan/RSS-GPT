@@ -3777,3 +3777,21 @@ Summarized using GPT-3.5-turbo
 Append: [[LG] Stream of Search (SoS): Learning to Search in Language 网页链接 通过将搜索过程表示为搜索流字符串，让语言模型学习不同的符号搜索策略，取得了改进搜...](https://weibo.com/1402400261/O8RvHki5K)
 append_entries: 5
 Finish: 2024-04-09 00:50:35.786999
+------------------------------------------------------
+Started: 2024-04-09 02:18:52.066707
+Existing_entries: 627
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [【Ollama新增对嵌入(Embedding)模型的支持，可用于构建检索增强生成(RAG)应用，提供了若干预训练好的嵌入模型,包括mxbai-embed-large、nomic-embed-text、all-mi...](https://weibo.com/1402400261/O8SLfCi6f)
+Token length: 93
+Summarized using GPT-3.5-turbo
+Append: [【Inqwire：主打不用LLM提供智能服务的软件，可应用于生活决策、困难情况、关系等诸多方面，致力于增强人们的天然智能，以帮助人们理解事物，创造有意义的世界】...](https://weibo.com/1402400261/O8SEeFvLr)
+Token length: 729
+Summarized using GPT-3.5-turbo
+Append: [【元编程新思路：用Claude 3 Opus打造"files-to-prompt"工具】- Simon Willison开发了一个名为"files-to-prompt"的新工具，可以帮助将多个文件一次性传递给Claud...](https://weibo.com/1402400261/O8SzuiErQ)
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@异步图书 送出3本《大语言模型：基础与前沿》，截至2024.4.12 12:00，*可可粉*转...](https://weibo.com/1402400261/O8Syqr7qt)
+append_entries: 4
+Finish: 2024-04-09 02:19:09.713518
