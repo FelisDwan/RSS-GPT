@@ -2610,3 +2610,12 @@ Existing_entries: 284
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-09 02:18:51.313545
+------------------------------------------------------
+Started: 2024-04-09 04:14:34.654709
+Existing_entries: 284
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: [小冰公司首席运营官徐元春 确认参与 #中国AIGC产业峰会# ！🔥徐元春，小冰公司联合创始人、首席运营官、人工智能创造力实验室负责人，CCF计算艺术分会执行委员...](https://weibo.com/6105753431/O8TBeer40)
+append_entries: 1
+Finish: 2024-04-09 04:14:42.400386
