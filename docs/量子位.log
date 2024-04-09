@@ -2668,3 +2668,12 @@ Append: [#OpenAI创始大神手搓千行C代码训练GPT# 大神卡帕西（Andr
 Append: [#Sora是视频版GPT1#两位 Sora 核心成员最近在 AGI house 发表了公开演讲。他们认为，通过模拟一切视频生成将带我们走向 AGI，终有一天人们可以在视频模型上运行 ...](https://weibo.com/6105753431/O8VAgm18T)
 append_entries: 8
 Finish: 2024-04-09 10:14:29.973660
+------------------------------------------------------
+Started: 2024-04-09 12:20:29.337195
+Existing_entries: 298
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 70
+Summarized using GPT-3.5-turbo
+Append: [【#Sora只相当于GPT1水平#】Sora竟然只相当于GPT-1的水平！Sora核心作者Bill Peebles最新演讲火了，他还放话：视频模型才是通往AGI的关键。 量子位的微博视频](https://weibo.com/6105753431/O8WBH4mxN)
+append_entries: 1
+Finish: 2024-04-09 12:20:34.750160
