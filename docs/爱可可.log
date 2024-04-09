@@ -3906,3 +3906,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O8Y7Yy0oZ)
 append_entries: 0
 Finish: 2024-04-09 20:11:06.951741
+------------------------------------------------------
+Started: 2024-04-09 22:10:00.221256
+Existing_entries: 649
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [[CV] MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding 网页链接 通过在线处理视频序列并存储历史特征于记忆库中，实现了高...](https://weibo.com/1402400261/O9121yn1Y)
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: [[CV] Finding Visual Task Vectors 网页链接 通过分析MAE-VQGAN的激活，提出激活评分方法和使用REINFORCE搜索任务向量，找到了提供零样本控制的任务向量，还降低...](https://weibo.com/1402400261/O90ZXBsN6)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [[LG] Trustless Audits without Revealing Data or Models 网页链接 通过零知识证明设计ZKAUDIT协议，使模型提供者可在保护模型和数据秘密的同时，允许用户进行...](https://weibo.com/1402400261/O90X92TCh)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [[LG] A Large-Scale Exploration of μμ-Transfer 网页链接 通过transformer模型的大规模经验研究验证了μ-transfer技术在许多重要情况下确实能可靠地传递最优...](https://weibo.com/1402400261/O90Uqi7rn)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [Ferret-UI是首个兼具精确提述、接地和推理能力的面向手机用户界面理解的多模态大语言模型。 - 转发 @爱可可-爱生活:&ensp;[CV]《Ferret-UI: Grounded Mobile UI ...](https://weibo.com/1402400261/O90QdqdeF)
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [[CV]《Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs》K You, H Zhang, E Schoop, F Weers, A Swearngin, J Nichols, Y Yang, Z Gan [Appl...](https://weibo.com/1402400261/O90Q6jE24)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [通过将大语言模型视为贝叶斯智能体，应用迭代学习理论框架来分析和指导其自主进化过程，为后续研究奠定理论基础。 - 转发 @爱可可-爱生活:&ensp;[CL]《Language ...](https://weibo.com/1402400261/O90LAqpAn)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Language Model Evolution: An Iterated Learning Perspective》Y Ren, S Guo, L Qiu, B Wang, D J. Sutherland [University of British Columbia & Unive...](https://weibo.com/1402400261/O90LuFGh1)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [系统研究位置编码对不同词法复杂性语言的重要性，发现位置编码对分析性语言影响较大而对合成性语言影响较小，结论与语言学理论一致。 - 转发 @爱可可-爱生活:&en...](https://weibo.com/1402400261/O90KZuc3B)
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [[CL]《A Morphology-Based Investigation of Positional Encodings》P Ghosh, S Vashishth, R Dabre, P Bhattacharyya [IIT Bombay & Google Research & NICT] (...](https://weibo.com/1402400261/O90KV7K65)
+append_entries: 10
+Finish: 2024-04-09 22:10:35.550438

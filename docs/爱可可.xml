@@ -4,6 +4,141 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>[CV] MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding 网页链接 通过在线处理视频序列并存储历史特征于记忆库中，实现了高...</title>
+<link>https://weibo.com/1402400261/O9121yn1Y</link>
+<guid>https://weibo.com/1402400261/O9121yn1Y</guid>
+<content:encoded><![CDATA[
+<div> 视频序列、在线处理、历史特征、记忆库、长时视频理解、MA-LMM、多模态模型、效率、存储、高效
+
+<br><br>总结:
+本研究提出了一种名为MA-LMM的Memory-Augmented Large Multimodal Model，通过在线处理视频序列并将历史特征存储在记忆库中，实现了高效的长时视频理解。该模型是一种多模态模型，能够有效地存储和检索视频序列的关键信息。通过使用记忆库，模型能够在处理长时间视频时提供更好的性能，实现了对视频序列的有效理解和分析。MA-LMM的出现为长时视频理解领域带来了新的思路和方法，提高了视频理解的效率和性能。 <div>
+[CV] MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding  <br /><a href="https://arxiv.org/abs/2404.05726"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />通过在线处理视频序列并存储历史特征于记忆库中，实现了高效的长时视频理解。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1holb6kdbr2j21281b01aj.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1holb6ktt6mj21qm1324ee.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1holb6kvlbgj21ce0yyanw.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 09 Apr 2024 21:56:27 GMT</pubDate>
+<pubDate>Tue, 09 Apr 2024 21:56:27 GMT</pubDate>
+</item>
+<item>
+<title>[CV] Finding Visual Task Vectors 网页链接 通过分析MAE-VQGAN的激活，提出激活评分方法和使用REINFORCE搜索任务向量，找到了提供零样本控制的任务向量，还降低...</title>
+<link>https://weibo.com/1402400261/O90ZXBsN6</link>
+<guid>https://weibo.com/1402400261/O90ZXBsN6</guid>
+<content:encoded><![CDATA[
+<div> 提取关键词: MAE-VQGAN, 激活评分方法, REINFORCE, 零样本控制, 任务向量, 降低计算量
+
+总结:
+通过分析MAE-VQGAN的激活并提出激活评分方法，使用REINFORCE搜索任务向量，找到了提供零样本控制的任务向量。同时，还成功降低了计算量。这项研究方法为寻找视觉任务向量提供了新的思路，可以有效实现任务的零样本控制。而通过采用REINFORCE算法，不仅可以有效搜索到合适的任务向量，还有助于减少计算成本。该方法为改善零样本控制问题提供了新的解决方案，对未来的研究具有重要意义。 <div>
+[CV] Finding Visual Task Vectors  <br /><a href="https://arxiv.org/abs/2404.05729"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />通过分析MAE-VQGAN的激活，提出激活评分方法和使用REINFORCE搜索任务向量，找到了提供零样本控制的任务向量，还降低了计算量。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1holb190uinj20vc1by16a.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1holb1a2c20j20va1cetew.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1holb1a9htqj20v41ea11h.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 09 Apr 2024 21:51:22 GMT</pubDate>
+<pubDate>Tue, 09 Apr 2024 21:51:22 GMT</pubDate>
+</item>
+<item>
+<title>[LG] Trustless Audits without Revealing Data or Models 网页链接 通过零知识证明设计ZKAUDIT协议，使模型提供者可在保护模型和数据秘密的同时，允许用户进行...</title>
+<link>https://weibo.com/1402400261/O90X92TCh</link>
+<guid>https://weibo.com/1402400261/O90X92TCh</guid>
+<content:encoded><![CDATA[
+<div> 提取关键词: 零知识证明, ZKAUDIT协议, 模型提供者, 数据保护, 模型保密, 信任, 属性审计, 算法透明度, 商业需求
+
+总结:<br><br>本文介绍了通过零知识证明设计ZKAUDIT协议，实现了模型提供者在保护模型和数据秘密的同时，允许用户进行无需信任的模型和数据属性审计，从而平衡了算法透明度与商业需求之间的关系。零知识证明技术使得模型提供者可以证明其模型的准确性和有效性，而无需泄露敏感数据或模型细节，保护了数据隐私。用户可以通过ZKAUDIT协议对模型和数据进行属性审计，验证其合规性和可信度，而无需相信模型提供者的陈述。这种方法在实现数据和模型透明度的同时，保证了安全性和隐私保护，为商业应用提供了更高的可信度和保障。 <div>
+[LG] Trustless Audits without Revealing Data or Models  <br /><a href="https://arxiv.org/abs/2404.04500"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />通过零知识证明设计ZKAUDIT协议，使模型提供者可在保护模型和数据秘密的同时，允许用户进行无需信任的模型和数据属性审计，实现了算法透明度与商业需求的平衡。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1holau1ibibj211o1bk1eb.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1holau1m6cxj21n00jkn16.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1holau1x6tdj20ty0jcgna.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 09 Apr 2024 21:44:25 GMT</pubDate>
+<pubDate>Tue, 09 Apr 2024 21:44:25 GMT</pubDate>
+</item>
+<item>
+<title>[LG] A Large-Scale Exploration of μμ-Transfer 网页链接 通过transformer模型的大规模经验研究验证了μ-transfer技术在许多重要情况下确实能可靠地传递最优...</title>
+<link>https://weibo.com/1402400261/O90Uqi7rn</link>
+<guid>https://weibo.com/1402400261/O90Uqi7rn</guid>
+<content:encoded><![CDATA[
+<div> μ-transfer, transformer模型, 大规模研究, 超参数, 可靠传递, 意外情况, 需要谨慎验证<br>
+<br>
+<Br>总结:
+本研究通过大规模实验验证了μ-transfer技术在传递最优超参数方面的可靠性，但也发现了一些意外情况，需要进行谨慎验证。 transformer模型的应用在此过程中起到了关键作用，为进一步研究μ-transfer技术提供了有力支持。在实际应用中，需要考虑到意外情况可能带来的影响，以确保技术的稳定性和可靠性。 <div>
+[LG] A Large-Scale Exploration of μμ-Transfer  <br /><a href="https://arxiv.org/abs/2404.05728"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />通过transformer模型的大规模经验研究验证了μ-transfer技术在许多重要情况下确实能可靠地传递最优超参数，但也发现了一些意外的情况，需要谨慎地进行验证。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1holan334ilj20ua1cwk8w.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1holan3j738j20um1d8wr7.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 09 Apr 2024 21:37:43 GMT</pubDate>
+<pubDate>Tue, 09 Apr 2024 21:37:43 GMT</pubDate>
+</item>
+<item>
+<title>Ferret-UI是首个兼具精确提述、接地和推理能力的面向手机用户界面理解的多模态大语言模型。 - 转发 @爱可可-爱生活:&amp;ensp;[CV]《Ferret-UI: Grounded Mobile UI ...</title>
+<link>https://weibo.com/1402400261/O90QdqdeF</link>
+<guid>https://weibo.com/1402400261/O90QdqdeF</guid>
+<content:encoded><![CDATA[
+<div> Ferret-UI, 多模态大语言模型, 手机用户界面理解, 精确提述, 接地, 推理能力, Apple, 2024
+
+<br><br>总结:
+这篇文章介绍了Ferret-UI，一个面向手机用户界面理解的多模态大语言模型。该模型具备精确提述、接地和推理能力，能够有效理解手机用户界面。该研究由苹果公司的团队完成，展示了在该领域取得的成果。Ferret-UI的出现将为手机界面理解领域带来新的突破和可能性。 <div>
+Ferret-UI是首个兼具精确提述、接地和推理能力的面向手机用户界面理解的多模态大语言模型。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CV]《Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs》K You, H Zhang, E Schoop, F Weers, A Swearngin, J Nichols, Y Yang, Z Gan [Apple] (2024) <a href="https://arxiv.org/abs/2404.05719"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hola3ws1kpj217u15sqln.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hola3x89kwj210m172anw.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hola3xy18qj21dg19kdss.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hola3y7utwj21e412w7ij.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1holabzydjyj20rh0k4q6i.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1holabzx9zgj20rh0bfjsl.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1holabzxvv6j20rh0khtay.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1holabzxttpj20rh0l6acb.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1holabzxtl3j20rh0ikq50.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 09 Apr 2024 21:27:20 GMT</pubDate>
+<pubDate>Tue, 09 Apr 2024 21:27:20 GMT</pubDate>
+</item>
+<item>
+<title>[CV]《Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs》K You, H Zhang, E Schoop, F Weers, A Swearngin, J Nichols, Y Yang, Z Gan [Appl...</title>
+<link>https://weibo.com/1402400261/O90Q6jE24</link>
+<guid>https://weibo.com/1402400261/O90Q6jE24</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Ferret-UI, Grounded Mobile UI Understanding, Multimodal LLMs, Apple
+
+总结:<br><br>本文介绍了一种名为Ferret-UI的技术，利用多模态LLMs实现对移动UI的深入理解，提高用户体验。研究团队来自Apple，通过结合语言、视觉等多种模态信息，实现了对移动界面的全面分析和理解。他们采用了一系列先进的技术和方法，使得Ferret-UI能够更准确地理解用户交互、意图和界面元素之间的关系。通过在真实环境中的实验测试，证明了Ferret-UI在移动UI理解方面的有效性和可行性。这项研究对于提升移动应用程序的用户体验和界面设计具有重要意义，是移动UI理解领域的一项重要研究工作。 <div>
+[CV]《Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs》K You, H Zhang, E Schoop, F Weers, A Swearngin, J Nichols, Y Yang, Z Gan [Apple] (2024) <a href="https://arxiv.org/abs/2404.05719"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hola3ws1kpj217u15sqln.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hola3x89kwj210m172anw.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hola3xy18qj21dg19kdss.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hola3y7utwj21e412w7ij.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1holabzydjyj20rh0k4q6i.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1holabzx9zgj20rh0bfjsl.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1holabzxvv6j20rh0khtay.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1holabzxttpj20rh0l6acb.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1holabzxtl3j20rh0ikq50.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1holabzz105j20rl10gaf2.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1holabzx1tdj20rh0gpq4k.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1holabzyfvoj20py0ocdjl.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1holabzxw33j20rh0msq4m.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 09 Apr 2024 21:27:04 GMT</pubDate>
+<pubDate>Tue, 09 Apr 2024 21:27:04 GMT</pubDate>
+</item>
+<item>
+<title>通过将大语言模型视为贝叶斯智能体，应用迭代学习理论框架来分析和指导其自主进化过程，为后续研究奠定理论基础。 - 转发 @爱可可-爱生活:&amp;ensp;[CL]《Language ...</title>
+<link>https://weibo.com/1402400261/O90LAqpAn</link>
+<guid>https://weibo.com/1402400261/O90LAqpAn</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 大语言模型, 贝叶斯智能体, 迭代学习理论, 自主进化, 研究基础
+
+总结:<br><br>这篇文章将大语言模型视为贝叶斯智能体，应用迭代学习理论框架来分析和指导其自主进化过程，并为后续研究奠定了理论基础。文章提出了一种新的理论框架，用于探究大语言模型的进化过程。通过将语言模型看作一个智能体，并应用迭代学习理论来指导其演化，研究者们可以更好地理解其进化机制和行为。这种方法有望为语言模型领域的未来研究提供指导和启发。 <div>
+通过将大语言模型视为贝叶斯智能体，应用迭代学习理论框架来分析和指导其自主进化过程，为后续研究奠定理论基础。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Language Model Evolution: An Iterated Learning Perspective》Y Ren, S Guo, L Qiu, B Wang, D J. Sutherland [University of British Columbia &amp; University of Edinburgh &amp; MIT] (2024) <a href="https://arxiv.org/abs/2404.04286"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hol9zk6sq3j20p614y13j.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hol9zkqcscj20tc0mg77s.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hol9zkzlhxj20ti0kc436.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hol9zl5ys8j20u60kqjvn.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hola077scxj20iv0d9q4l.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hola077m1rj20tv0eyjsi.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hola07805ij20yd0d2aci.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hola07829sj212b0cw768.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hola0784hbj212e0e4dim.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 09 Apr 2024 21:15:57 GMT</pubDate>
+<pubDate>Tue, 09 Apr 2024 21:15:57 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《Language Model Evolution: An Iterated Learning Perspective》Y Ren, S Guo, L Qiu, B Wang, D J. Sutherland [University of British Columbia &amp; Unive...</title>
+<link>https://weibo.com/1402400261/O90LuFGh1</link>
+<guid>https://weibo.com/1402400261/O90LuFGh1</guid>
+<content:encoded><![CDATA[
+<div> 语言模型演化，迭代学习，关键词：语言模型、演化、迭代学习、进化、文化传播、信息传递、语言演化、模型更新、学习机制、计算模型。<br>
+<br>
+总结:本文从迭代学习的角度探讨了语言模型的演化过程。研究指出，语言模型的进化受到文化传播和信息传递的影响，提出了一种基于学习机制的语言演化模型，并通过计算模型进行更新。该研究有助于深入理解语言模型的演化过程，为语言学研究提供了新的视角。 <div>
+[CL]《Language Model Evolution: An Iterated Learning Perspective》Y Ren, S Guo, L Qiu, B Wang, D J. Sutherland [University of British Columbia &amp; University of Edinburgh &amp; MIT] (2024) <a href="https://arxiv.org/abs/2404.04286"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hol9zk6sq3j20p614y13j.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hol9zkqcscj20tc0mg77s.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hol9zkzlhxj20ti0kc436.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hol9zl5ys8j20u60kqjvn.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hola077scxj20iv0d9q4l.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hola077m1rj20tv0eyjsi.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hola07805ij20yd0d2aci.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hola07829sj212b0cw768.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hola0784hbj212e0e4dim.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hola079j95j20tv0n9mzn.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hola0791z4j212b0i1die.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hola07a26hj212b0g8gon.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hola07b7mlj212e0txdmd.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hola079onzj212b0fy76i.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hola07axiij212b0owq8d.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hola07akcmj212b0op782.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hola07axmej212c0nwads.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hola07bfmhj20wg0ks0vh.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 09 Apr 2024 21:15:44 GMT</pubDate>
+<pubDate>Tue, 09 Apr 2024 21:15:44 GMT</pubDate>
+</item>
+<item>
+<title>系统研究位置编码对不同词法复杂性语言的重要性，发现位置编码对分析性语言影响较大而对合成性语言影响较小，结论与语言学理论一致。 - 转发 @爱可可-爱生活:&amp;en...</title>
+<link>https://weibo.com/1402400261/O90KZuc3B</link>
+<guid>https://weibo.com/1402400261/O90KZuc3B</guid>
+<content:encoded><![CDATA[
+<div> 位置编码、词法复杂性语言、分析性语言、合成性语言、语言学理论、研究、重要性、影响、位置编码、调查
+
+总结:<br><br>本研究对位置编码在不同词法复杂性语言中的作用进行了调查。研究发现，位置编码对分析性语言的影响较大，而对合成性语言的影响较小，这与语言学理论相一致。位置编码在分析性语言中的重要性得到了验证，并有助于深入理解语言结构和语法规则。这项研究由印度理工学院孟买分校、Google研究机构和日本信息通信研究所合作完成，为语言学领域的研究提供了新的观点和方法。 <div>
+系统研究位置编码对不同词法复杂性语言的重要性，发现位置编码对分析性语言影响较大而对合成性语言影响较小，结论与语言学理论一致。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《A Morphology-Based Investigation of Positional Encodings》P Ghosh, S Vashishth, R Dabre, P Bhattacharyya [IIT Bombay &amp; Google Research &amp; NICT] (2024) <a href="https://arxiv.org/abs/2404.04530"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hol9xgfeqdj21ou0imalt.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hol9xgvlj4j20ru0oawgq.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hol9xheqryj21pe0uk119.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hol9xhhuykj20jk1duwil.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hol9ypmrgmj20ju1agn11.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hol9yq0tvhj20j80gc0to.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 09 Apr 2024 21:14:29 GMT</pubDate>
+<pubDate>Tue, 09 Apr 2024 21:14:29 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《A Morphology-Based Investigation of Positional Encodings》P Ghosh, S Vashishth, R Dabre, P Bhattacharyya [IIT Bombay &amp; Google Research &amp; NICT] (...</title>
+<link>https://weibo.com/1402400261/O90KV7K65</link>
+<guid>https://weibo.com/1402400261/O90KV7K65</guid>
+<content:encoded><![CDATA[
+<div> Positional Encodings, Morphology-Based Investigation, IIT Bombay, Google Research, NICT, P Ghosh, S Vashishth, R Dabre, P Bhattacharyya
+
+<br><br>总结:
+这篇文章探讨了基于形态学的位置编码在自然语言处理中的应用。研究作者来自IIT孟买、谷歌研究和NICT。他们分析了不同位置编码方法在文本处理中的效果，并提出了一种新的基于形态学的位置编码方法。通过实验证明，这种方法在提高自然语言处理任务的性能方面具有显著优势。研究结果为语言学和机器学习领域的研究提供了有益的参考。 <div>
+[CL]《A Morphology-Based Investigation of Positional Encodings》P Ghosh, S Vashishth, R Dabre, P Bhattacharyya [IIT Bombay &amp; Google Research &amp; NICT] (2024) <a href="https://arxiv.org/abs/2404.04530"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hol9xgfeqdj21ou0imalt.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hol9xgvlj4j20ru0oawgq.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hol9xheqryj21pe0uk119.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hol9xhhuykj20jk1duwil.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hol9ypmrgmj20ju1agn11.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hol9yq0tvhj20j80gc0to.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 09 Apr 2024 21:14:18 GMT</pubDate>
+<pubDate>Tue, 09 Apr 2024 21:14:18 GMT</pubDate>
+</item>
 
 <item>
 <title>《爱可可微博热门分享(4.9)》 爱可可微博热门分享(4.9) [图片]</title>
