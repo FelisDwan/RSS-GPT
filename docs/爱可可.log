@@ -3756,3 +3756,24 @@ Summarized using GPT-3.5-turbo
 Append: [[CL]《Social Skill Training with Large Language Models》D Yang, C Ziems, W Held, O Shaikh, M S. Bernstein, J Mitchell [Stanford University] (2024) 网...](https://weibo.com/1402400261/O8RixeIkU)
 append_entries: 10
 Finish: 2024-04-08 22:12:53.569446
+------------------------------------------------------
+Started: 2024-04-09 00:50:16.442460
+Existing_entries: 622
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 107
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1370期)：基于大语言模型的社交技能训练、鲁棒高斯Splatting、机器人装配的数据高效模仿学习、语言模型如何嵌入长文档以进行稠密检索、指数数据增长...](https://weibo.com/1402400261/O8RLzmUhX)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [[RO] MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes 网页链接 提出MM-Gaussian系统，在无界外...](https://weibo.com/1402400261/O8RGUCPu0)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [[LG] Transformers for molecular property prediction: Lessons learned from the past five years 网页链接 全面回顾了 transformer 模型在分子性质预测任务中...](https://weibo.com/1402400261/O8REt4WyT)
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [[CL] Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model 网页链接 通过大规模中文预训练语料和模型训练，获得了一款在中文任务上表现强劲...](https://weibo.com/1402400261/O8Ry2uWNb)
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [[LG] Stream of Search (SoS): Learning to Search in Language 网页链接 通过将搜索过程表示为搜索流字符串，让语言模型学习不同的符号搜索策略，取得了改进搜...](https://weibo.com/1402400261/O8RvHki5K)
+append_entries: 5
+Finish: 2024-04-09 00:50:35.786999
