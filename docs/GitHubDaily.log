@@ -1970,3 +1970,9 @@ Summarized using GPT-3.5-turbo
 Append: [推荐 GitHub 上一款强大且易于使用的在线数据库设计工具及 SQL 生成器 DrawDB。你可以轻松地点击几下即可创建图表，导出 SQL 脚本，以及自定义编辑器等，完全开...](https://weibo.com/5722964389/O8Wle8PES)
 append_entries: 1
 Finish: 2024-04-09 12:20:45.792014
+------------------------------------------------------
+Started: 2024-04-09 14:11:35.046814
+Existing_entries: 46
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-04-09 14:11:35.124904

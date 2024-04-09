@@ -3846,3 +3846,39 @@ Summarized using GPT-3.5-turbo
 Append: [【Fuwari：用 Astro 构建的漂亮静态博客模板】'Fuwari - A static blog template built with Astro.' GitHub: github.com/saicaca/fuwari #开源# [图片]](https://weibo.com/1402400261/O8X7lcLAv)
 append_entries: 1
 Finish: 2024-04-09 12:20:40.935176
+------------------------------------------------------
+Started: 2024-04-09 14:10:45.931634
+Existing_entries: 638
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 2540
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《SchurVINS: Schur Complement-Based Lightweight Visual Inertial Navigation System》(CVPR 2024) GitHub: github.com/bytedance/SchurVIN...](https://weibo.com/1402400261/O8XwHkqsZ)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [【Neco：C 语言编写的并发库，提供了使用 coroutines(协程)的方式进行并发编程】'Neco - Concurrency library for C (coroutines)' GitHub: github.com/tidwall/...](https://weibo.com/1402400261/O8XwbhTdx)
+Token length: 237
+Summarized using GPT-3.5-turbo
+Append: [【GigaAM: 一个基础模型，专门为语音识别任务设计，包括 GigaAM、GigaAM-CTC 和 GigaAM-Emo 三个模型】'GigaAM: the family of open-source acoustic models for...](https://weibo.com/1402400261/O8XvDxixo)
+Token length: 333
+Summarized using GPT-3.5-turbo
+Append: [【Serverless ChatGPT with RAG using LangChain.js：用 LangChain.js, TypeScript 和 Azure 创建自己的无服务器 ChatGPT 应用的示例】'Serverless ChatGPT with...](https://weibo.com/1402400261/O8Xtpjjvx)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [【ZhiJian：基于 PyTorch 的模型重用工具包，旨在利用预训练模型和其微调后版本来提取知识并加速实际任务的处理，根据模型准备、模型学习和模型推断三个阶段分别...](https://weibo.com/1402400261/O8XrT4Naf)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [【ΦML：数学和神经网络库，专门为科学应用设计，支持 Jax、PyTorch、TensorFlow 和 NumPy，并提供了许多有用的特性】'ΦML - Intuitive scientific computing w...](https://weibo.com/1402400261/O8XqIcbXB)
+Token length: 388
+Summarized using GPT-3.5-turbo
+Append: [【Cloud Service Providers Free Tier Overview：主要的云服务提供商的免费配额比较，包括 AWS、Azure、Google Cloud、Oracle Cloud 等。同时也包括了一些额外的...](https://weibo.com/1402400261/O8Xp8eQ5q)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [【JORA：解决了 LLM 在 RAG 中的内存限制问题，提供了一种基于 JAX 的分布式训练方法】'JORA: JAX Tensor-Parallel LoRA Library' GitHub: github.com/aniquetah...](https://weibo.com/1402400261/O8Xml3eVr)
+Token length: 381
+Summarized using GPT-3.5-turbo
+Append: [【D1 Manager：用于 Cloudflare D1(一种无服务器 SQL 数据库)的 Web UI 和 API，提供了一种用户友好的界面来管理数据库、表和记录，以及 API 用来执行编程操作】...](https://weibo.com/1402400261/O8Xjxs30Y)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [【Make your Python output dramatic：让 Python 输出可以逐字显示，增加节奏感】'Make your Python output dramatic - Display all Python process output char...](https://weibo.com/1402400261/O8XfA2LQ2)
+append_entries: 10
+Finish: 2024-04-09 14:11:34.997522
