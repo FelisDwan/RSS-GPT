@@ -3810,3 +3810,24 @@ Summarized using GPT-3.5-turbo
 Append: [【llm.c：实现了大语言模型(LLM)训练的简单、纯 C/CUDA 版本，无需 PyTorch 或 cPython】'llm.c - LLM training in simple, raw C/CUDA' GitHub: github.com/kar...](https://weibo.com/1402400261/O8UKMes4Y)
 append_entries: 1
 Finish: 2024-04-09 06:14:49.392335
+------------------------------------------------------
+Started: 2024-04-09 08:14:19.833651
+Existing_entries: 632
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [【Financial Datasets：开源 Python 库，用于利用大语言模型(LLM)生成合成的金融/财务数据集】'Financial Datasets - Financial datasets for LLMs' GitHub: git...](https://weibo.com/1402400261/O8URmyitM)
+Token length: 315
+Summarized using GPT-3.5-turbo
+Append: [【AutoMQ: 用于 Apache Kafka 的云原生实现，旨在缩减云基础设施费用，使用类似 Kubernetes 的方式来部署和管理 Kafka 集群，并提供了自动伸缩、故障迁移和监控...](https://weibo.com/1402400261/O8UPgzwwy)
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: ['Mistral 7B v0.2 JAX - JAX implementation of the Mistral 7b v0.2 model' GitHub: github.com/yixiaoer/mistral-v0.2-jax #开源# #机器学习# #人工智能# [图...](https://weibo.com/1402400261/O8UOF1TIz)
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [【旨在收集和整理语音/音频领域的大语言模型(LLM)、表示学习和编解码模型列表】’Speech Trident - Awesome Speech LM - Awesome speech/audio LLMs, representa...](https://weibo.com/1402400261/O8UModHKm)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [【Morphic：AI驱动的回答引擎，类似Perplexity，可以提供准确和实时的答案，配备生成式 UI】’Morphic - An AI-powered answer engine with a generative UI' Gi...](https://weibo.com/1402400261/O8ULLciDl)
+append_entries: 5
+Finish: 2024-04-09 08:14:39.681129

@@ -2628,3 +2628,21 @@ Summarized using GPT-3.5-turbo
 Append: [#Llama3下周发布# The Information消息，一名Meta员工称Llama 3的两个小型版本将于下周发布，而最大规模的版本将在今年夏天上线。 [图片]](https://weibo.com/6105753431/O8UIAw2nE)
 append_entries: 1
 Finish: 2024-04-09 06:14:41.565473
+------------------------------------------------------
+Started: 2024-04-09 08:14:01.702790
+Existing_entries: 286
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 467
+Summarized using GPT-3.5-turbo
+Append: [#香港也有大模型公司了# Weitu AI，一家全力打造多模态Native产品的公司，其创始人王历伟博士在介绍时，特别强调了“多模态Native”这个关键词 。就在前不久，We...](https://weibo.com/6105753431/O8VlddlAE)
+Token length: 535
+Summarized using GPT-3.5-turbo
+Append: [#北大开源最强aiXcoder7B代码大模型#！聚焦真实开发场景，专为企业私有部署设计从科技圈最新动态来看，最近AI代码生成概念实火。可是，小伙伴们有没有感觉，AI刷...](https://weibo.com/6105753431/O8Vhk67bl)
+Token length: 85
+Summarized using GPT-3.5-turbo
+Append: [#奥特曼登福布斯亿万富翁榜单# 奥特曼登上了福布斯亿万富翁榜单，位列第2692名。据介绍，虽然奥特曼在他所创立的OpenAI没有股份，但他通过对Reddit等初创公司的...](https://weibo.com/6105753431/O8V22tz7M)
+Token length: 406
+Summarized using GPT-3.5-turbo
+Append: [#谷歌开源Gemma1.1# 全球最强开源模型谷歌 Gemma 迎来第一次升级。此次升级主要是为了回应社区用户反馈。在 Gemma 发布后的近1个月里，团队收到了许多真实建议。...](https://weibo.com/6105753431/O8UVBFgUi)
+append_entries: 4
+Finish: 2024-04-09 08:14:19.075603
