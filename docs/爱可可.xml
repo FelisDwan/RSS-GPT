@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【衡量语言模型的说服力】- Anthropic开发了一种基本方法来测量语言模型的说服力，并用这种方法比较了Anthropic不同版本的Claude模型(Claude 1、2和3)以及两类模...</title>
 <link>https://weibo.com/1402400261/O923JzYQz</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> Anthropic、语言模型、说服力、Claude 模型、模型类别、模型版本、技能、研究、数据、风险
 
-总结:<br><br>本研究使用基本方法测量了语言模型的说服力，比较了Anthropic不同版本的Claude模型以及两种模型类别。在每个模型类别内，后续模型版本被评为更具说服力。最新的Claude 3 Opus模型产生的论点在说服力上与人类写的论点没有统计学差异。说服力是一种广泛应用的通用技能，研究其在AI模型中的应用具有重要意义。然而，评估说服力具有挑战性，结果可能不适用于现实世界，主观性和实验设计等因素也影响评估。Anthropic已经发布所有数据供他人调查和扩展，同时也在探索更具交互性的语境。未来需要进行进一步研究和负责任的部署实践，以减轻语言模型发展带来的潜在风险。模型规模与说服力正相关，这提示我们谨慎对待技术发展，同时基于模型的说服力评估为未来研究提供了宝贵的数据和见解。 <div>
+总结:<br /><br />本研究使用基本方法测量了语言模型的说服力，比较了Anthropic不同版本的Claude模型以及两种模型类别。在每个模型类别内，后续模型版本被评为更具说服力。最新的Claude 3 Opus模型产生的论点在说服力上与人类写的论点没有统计学差异。说服力是一种广泛应用的通用技能，研究其在AI模型中的应用具有重要意义。然而，评估说服力具有挑战性，结果可能不适用于现实世界，主观性和实验设计等因素也影响评估。Anthropic已经发布所有数据供他人调查和扩展，同时也在探索更具交互性的语境。未来需要进行进一步研究和负责任的部署实践，以减轻语言模型发展带来的潜在风险。模型规模与说服力正相关，这提示我们谨慎对待技术发展，同时基于模型的说服力评估为未来研究提供了宝贵的数据和见解。 <div>
 【衡量语言模型的说服力】<br />- Anthropic开发了一种基本方法来测量语言模型的说服力，并用这种方法比较了Anthropic不同版本的Claude模型(Claude 1、2和3)以及两类模型(更小、更快、更经济的紧凑模型和更大、更强大的前沿模型)。   <br />- 在每个模型类别内，发现每个后续模型版本比前一个版本被评为更具说服力。最新、最强大的Claude 3 Opus模型产生的论点在其说服力上与人类写的论点没有统计学差异。   <br />- Anthropic研究说服力，因为它是一项广泛应用于世界各地的通用技能——公司试图说服人们购买产品，医护人员试图说服人们采取更健康的生活方式，政治家试图说服人们支持他们的政策并投票给他们。   <br />- 开发测量AI模型说服能力的方法很重要，因为它可作为模型在一个重要领域匹配人类技能的能力的代理测量，并且说服力最终可能与某些类型的滥用相关联。   <br />- 目前该研究存在许多局限性，说服力的评估本身就具有挑战性。所得出的结果可能不会广泛适用于现实世界，说服力是主观的，实验设计也存在缺陷。   <br />- Anthropic已发布所有数据，以供他人调查和扩展。也在积极扩展我们的工作到更具交互性的语境中。   <br />- 需要进一步的研究和负责任的部署实践，以减轻快速发展和越来越具说服力的语言模型的潜在风险。<br /><br />思考：  <br />- 该研究开创性地探索了语言模型的说服力，并提出了一种衡量说服力的方法。这对于理解人工智能在影响人类观点方面的潜力具有重要意义。  <br />- 研究发现模型规模与说服力之间存在明显的正相关，这表明随着模型变得越来越强大，它们可能会对人类的观点和决策产生更大的影响。这提醒我们要谨慎对待这些技术的发展。  <br />- 尽管基于模型的说服力评估与人类判断之间存在差异，但这项研究为进一步探索提供了宝贵的数据和见解。未来的工作可以在此基础上，开发出更准确、更可靠的说服力衡量方法。<br />《Measuring the Persuasiveness of Language Models \ Anthropic》 <a href="https://www.anthropic.com/news/measuring-model-persuasiveness"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8holfpwht4jj20u00van1x.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 10 Apr 2024 00:33:25 GMT</pubDate>
 <pubDate>Wed, 10 Apr 2024 00:33:25 GMT</pubDate>
 </item>
 <item>
@@ -24,11 +24,10 @@
 <content:encoded><![CDATA[
 <div> CodeGemma, Google, 开源, 模型, 代码补全, 7B版本, 生产部署, Hugging Face, 集成, 创新应用
 
-<br><br>总结:
+<br /><br />总结:
 Google发布了开源代码模型CodeGemma，包括2B、7B和7B指令版，在代码补全和生成任务中表现优异。使用填充中间(FIM)形式的提示进行代码补全，并支持自然语言对话。与Transformers 4.39完全兼容，可以部署到Google Cloud或Hugging Face推理服务端点。这个开源基础为代码生成领域提供了强大工具，推动AI在编程领域的应用。Google的努力体现在开放大型语言模型方面，与Hugging Face合作使模型变得更加可触及。CodeGemma提供了满足不同使用需求的不同版本模型，有效提升开发效率。与Hugging Face生态系统的无缝集成使得模型可以利用各种先进技术，为模型性能优化提供可能性。 <div>
 【Google发布CodeGemma：开源代码大模型，与生态系统无缝集成】<br />- CodeGemma是Google基于Gemma预训练模型发布的开源代码专用LLM家族，包括2B、7B和7B指令版。   <br />- CodeGemma在代码补全和生成任务上表现优异，尤其是7B版本在HumanEval等基准测试上的表现。   <br />- CodeGemma使用填充中间(FIM)形式的提示，可以进行代码补全。7B指令版可以进行关于代码的自然语言对话。   <br />- CodeGemma与Transformers 4.39完全兼容，可以利用Hugging Face生态系统中的工具。   <br />- CodeGemma可以一键部署到Google Cloud或Hugging Face推理服务端点，以进行生产部署。   <br />- CodeGemma为代码生成领域提供了一个强大而方便使用的开源基础，相信会推动更多创新应用的出现。   <br /> <br />思考：  <br />- CodeGemma 的发布体现了 Google 在开放大型语言模型方面的努力，与 Hugging Face 的合作更是让这些模型变得触手可及。这对于推动 AI 在编程领域的应用具有重要意义。  <br />- 三个不同版本的 CodeGemma 模型满足了不同的使用需求，无论是代码生成、自然语言理解，还是人机交互，都提供了强大的工具。这将极大地提升开发者的工作效率。  <br />- 与 Hugging Face 生态系统的无缝集成，使得 CodeGemma 可以利用各种先进的技术，如量化、参数高效微调、Flash Attention 等，这不仅方便了模型的使用，也为进一步优化模型性能提供了可能。<br />《CodeGemma - an official Google release for code LLMs》 <a href="https://huggingface.co/blog/codegemma"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8holfaxucwzj20ee09vaar.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 10 Apr 2024 00:19:10 GMT</pubDate>
 <pubDate>Wed, 10 Apr 2024 00:19:10 GMT</pubDate>
 </item>
 <item>
@@ -38,11 +37,10 @@ Google发布了开源代码模型CodeGemma，包括2B、7B和7B指令版，在�
 <content:encoded><![CDATA[
 <div> Griffin, 循环神经网络, 门控线性循环层, 局部注意力机制, Transformer, 长序列处理, 硬件效率, 高吞吐量, 低延迟, 语言模型
 
-<br><br>总结:
+<br /><br />总结:
 研究人员提出了一种名为Griffin的新型循环神经网络模型，结合了门控线性循环层和局部注意力机制。该模型实现了与Transformer相当的性能，在长序列处理和硬件效率方面表现出优势。特别是在推理时，Griffin表现出高吞吐量和低延迟。这一研究成果有望为语言模型领域带来新的突破和进展。Griffin模型在对长序列数据的处理和硬件效率方面都具有明显优势，为构建高性能语言模型提供了新的思路和方法。Griffin的提出对提高语言模型的性能、效率和推理能力具有积极意义。深度研究了Griffin模型的结构和原理，探讨了其在自然语言处理领域的潜在应用价值。Griffin模型不仅能提高语言模型的性能，还能为硬件资源利用效率提供更好的方案。Griffin模型融合了门控线性循环层和局部注意力机制的优点，展现出了强大的处理能力和效率。Griffin模型的提出对于提升语言模型的性能和应用范围具有重要意义。Griffin模型在实验中展现出了较好的表现，加深了人们对深度学习和自然语言处理的认识。Griffin模型的结构创新和性能表现有望在自然语言处理领域产生广泛的影响和应用。 <div>
 2B模型发布：<a href="https://huggingface.co/google/recurrentgemma-2b"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>:提出了Griffin模型，一种新型的循环神经网络，结合了门控线性循环层与局部注意力机制，实现了与Transformer相当的性能，并在长序列处理和硬件效率方面展现出明显优势，尤其是在推理时的高吞吐量和低延迟表现<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models》S De, S L. Smith, A Fernando, A Botev… [Google DeepMind] (2024) <a href="https://arxiv.org/abs/2402.19427"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnc7bm8wxfj21hc0eetfz.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnc7bmuszij21h80quah7.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnc7bn8l00j21gs0u0wkp.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnc7bni9nyj21h20pywjy.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnc7cdzcptj21140fs409.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnc7cdzq0xj21150h9ad0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnc7cdzrawj21190ewdiv.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnc7cdzhj6j21140g6abt.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnc7cdznorj21190hy0v7.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Wed, 10 Apr 2024 00:14:33 GMT</pubDate>
 <pubDate>Wed, 10 Apr 2024 00:14:33 GMT</pubDate>
 </item>
 <item>
@@ -52,14 +50,12 @@ Google发布了开源代码模型CodeGemma，包括2B、7B和7B指令版，在�
 <content:encoded><![CDATA[
 <div> Gemini 1.5 Pro, 原生音频理解, 100万token上下文窗口, 强大API, 视频和音频理解, Google AI Studio, 系统指令功能, JSON模式, 函数调用改进, 新一代文本嵌入模型, Gemini API
 
-<br><br>总结:
+<br /><br />总结:
 Gemini 1.5 Pro发布，增加了原生音频理解和100万token上下文窗口，使其具有跨模态推理能力，可以同时处理视频中的图像和音频。Gemini API新增系统指令功能和JSON模式，提升模型的可靠性和输出方式。推出新文本嵌入模型，表现优秀，适用于语义搜索、文本聚类等任务。开发者可以使用Google AI Studio和Gemini API来构建基于Gemini的项目，获得更广阔的创新空间和更多用途。Gemini 1.5 Pro的功能和性能提升为开发者提供了更多智能、交互性强的应用场景。 <div>
 【Gemini 1.5 Pro发布：原生音频理解、100万token上下文窗口、强大API】<br />- Gemini 1.5 Pro 模型已在180多个国家/地区通过 Gemini API 公开预览，增加了音频理解能力。   <br />- Gemini 1.5 Pro 现在可以同时理解视频中的图像和音频，Google AI Studio 中已支持，API 即将推出。   <br />- Gemini API 添加了系统指令功能，可以指导模型的响应；增加了 JSON 模式，可以只输出 JSON 对象。   <br />- Gemini API 改进了函数调用，可以选择限制模型的输出，提高可靠性。   <br />- 推出了新一代文本嵌入模型，在类似维度下表现优于现有模型，可通过 Gemini API 使用。   <br />- Google AI Studio 和 Gemini API 是构建基于 Gemini 的项目的最简单途径。开发者可以在 Studio 中访问 Gemini 1.5 Pro，参考 Gemini API Cookbook 的代码示例，并加入 Discord 社区。   <br /><br />思考：  <br />- Gemini 1.5 Pro 的 100 万 token 上下文窗口非常惊人，这为开发者提供了巨大的创新空间。  <br />- 原生音频理解和跨模态推理(图像+音频)功能的加入，大大拓宽了 Gemini 1.5 Pro 的应用场景。这使得开发者能够创建更加智能、交互性更强的应用。  <br />- 新的文本嵌入模型 text-embedding-004 在标准基准测试中展现出优异的性能，这对于需要高质量文本表示的任务(如语义搜索、文本聚类等)非常有帮助。<br />《Gemini 1.5 Pro Now Available in 180+ Countries; With Native Audio Understanding, System Instructions, JSON Mode and More - Google for Developers》 <a href="https://developers.googleblog.com/2024/04/gemini-15-pro-in-public-preview-with-new-features.html"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8holf198711j20wb0u0n13.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 10 Apr 2024 00:09:47 GMT</pubDate>
-<pubDate>Wed, 10 Apr 2024 00:09:47 GMT</pubDate>
 </item>
-
 <item>
 <title>【AI模型的性别偏见】- AI模型会反映和夸大现实世界中存在的性别偏见。准确量化模型中的这些偏见对于恰当地解决和缓解它们非常重要。 - 词向量中存在性别偏见，...</title>
 <link>https://weibo.com/1402400261/O91Lk1xOE</link>

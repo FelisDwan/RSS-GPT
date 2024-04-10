@@ -2731,3 +2731,21 @@ Summarized using GPT-3.5-turbo
 Append: [#10秒总结视频插件# ：贾扬清免费开源 就在刚刚，贾扬清在推特上分享了用自己的插件#Elmo# 10秒就能总结 youtube 视频。包括一句话概括、摘要、主要观点等。（以...](https://weibo.com/6105753431/O92dGrwCZ)
 append_entries: 2
 Finish: 2024-04-10 02:19:22.580022
+------------------------------------------------------
+Started: 2024-04-10 04:12:54.008400
+Existing_entries: 303
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 655
+Summarized using GPT-3.5-turbo
+Append: [#网易暴雪复婚##暴雪官宣回归#就在刚刚，网易与暴雪同时发文称，暴雪游戏将要在2024年夏季回归中国大陆市场。这意味着包括《魔兽世界》、《炉石传说》，以及其他...](https://weibo.com/6105753431/O93oO2VOl)
+Token length: 576
+Summarized using GPT-3.5-turbo
+Append: [#老黄最爱用的AI工具#：Google 不香了，还能平替 ChatGPT 在《连线》杂志采访中，老黄爆料自己最爱用的 AI 工具是#Perplexity#，这是一款对话式搜索引擎工具。其...](https://weibo.com/6105753431/O931AyqdU)
+Token length: 299
+Summarized using GPT-3.5-turbo
+Append: [还记得野外徒步的双足机器人吗？逐际动力联合创始人兼首席运营官张力 确认参与 #中国AIGC产业峰会# ！🔥张力，逐际动力联合创始人兼首席运营官，负责公司海内...](https://weibo.com/6105753431/O92R8vnxH)
+Token length: 457
+Summarized using GPT-3.5-turbo
+Append: [#马云回顾阿里重组一周年##马云发文感谢蔡崇信#在阿里重组一周年之际，马云发表了最新公开信。这封信不仅回顾了阿里过去 25 年的成就与挑战，也展望了未来的发展...](https://weibo.com/6105753431/O92IedVx8)
+append_entries: 4
+Finish: 2024-04-10 04:13:13.653181
