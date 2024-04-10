@@ -4,6 +4,145 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>[CV] Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences 网页链接 提出MicKey方法，利用预测单张图像的3D关键点坐标实现无需外部深...</title>
+<link>https://weibo.com/1402400261/O9asko3AR</link>
+<guid>https://weibo.com/1402400261/O9asko3AR</guid>
+<content:encoded><![CDATA[
+<div> 方法、3D关键点坐标、度量相对位姿估计、位姿标签监督训练、MicKey方法、2D图像匹配、无需外部深度、有效性证明
+
+<br><br>总结:
+本文提出了一种名为MicKey的方法，利用预测单张图像的3D关键点坐标实现无需外部深度的度量相对位姿估计。通过仅利用图像对的位姿标签进行监督训练，证明了该方法的有效性。MicKey方法通过匹配2D图像中的关键点，在3D空间中计算出相对姿态，实现了精确的相机位姿估计。通过实验验证，MicKey方法在匹配2D图像的同时实现了较高精度的相机位姿估计，具有很高的实用性和有效性。MicKey方法的提出拓展了在没有外部深度信息的情况下进行相机位姿估计的可能性，对于计算机视觉领域的研究具有一定的启发意义。 <div>
+[CV] Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences  <br /><a href="https://arxiv.org/abs/2404.06337"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />提出MicKey方法，利用预测单张图像的3D关键点坐标实现无需外部深度的度量相对位姿估计，并证明仅利用图像对的位姿标签监督训练的有效性。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homgsd6thdj212m1aynho.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1homgsdia14j21ik0n0wqx.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homgsdnoe4j20r20oq0xz.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 10 Apr 2024 21:55:58 GMT</pubDate>
+<pubDate>Wed, 10 Apr 2024 21:55:58 GMT</pubDate>
+</item>
+<item>
+<title>[CL] Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence 网页链接 提出了Eagle和Finch两种改进自RWKV-4的高效RNN体系结构，在大量预训练...</title>
+<link>https://weibo.com/1402400261/O9alhBvkx</link>
+<guid>https://weibo.com/1402400261/O9alhBvkx</guid>
+<content:encoded><![CDATA[
+<div> Eagle, Finch, RWKV, RNN, Transformer, 多语言建模, 预训练, 高效, 可解释, 语言模型
+
+总结:<br><br>研究团队提出了Eagle和Finch两种改进自RWKV-4的高效RNN体系结构，经过大量预训练展示了与Transformer竞争的多语言建模效果。这为提供高效可解释的语言模型提供了可行的选择，为语言模型研究领域带来了新的方向。 <div>
+[CL] Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence  <br /><a href="https://arxiv.org/abs/2404.05892"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>   <br />提出了Eagle和Finch两种改进自RWKV-4的高效RNN体系结构，在大量预训练后展示了与Transformer竞争的多语言建模效果，为提供高效可解释的语言模型提供了可行的选择。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1homgaap0iyj20vo0y812f.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homgabfemwj21gq1ck49l.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homgabxe4zj21ck0yi0x8.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 10 Apr 2024 21:38:37 GMT</pubDate>
+<pubDate>Wed, 10 Apr 2024 21:38:37 GMT</pubDate>
+</item>
+<item>
+<title>发现设计用于解释Transformer的技术大多可直接应用于新兴RNN架构，并创新利用RNN压缩状态增强控制能力。 - 转发 @爱可可-爱生活:&amp;ensp;[LG]《Does Transformer I...</title>
+<link>https://weibo.com/1402400261/O9aj1cQ2K</link>
+<guid>https://weibo.com/1402400261/O9aj1cQ2K</guid>
+<content:encoded><![CDATA[
+<div> Transformer、RNN、技术、解释性、新兴、架构、状态压缩、控制能力、利用、创新
+
+总结：<br><br>本文探讨了Transformer解释性技术如何应用于RNN，并创新利用RNN压缩状态以增强控制能力。发现大部分Transformer解释技术可直接应用于RNN，为未来RNN架构的发展提供了新思路。 <div>
+发现设计用于解释Transformer的技术大多可直接应用于新兴RNN架构，并创新利用RNN压缩状态增强控制能力。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Does Transformer Interpretability Transfer to RNNs?》G Paulo, T Marshall, N Belrose [EleutherAI] (2024) <a href="https://arxiv.org/abs/2404.05971"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfvtnquwj21940o4492.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homfvu1w48j20jo10yad1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1homfvuf4x4j20ji1akwiv.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homfvupsgej21hg0ve124.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homg48kjppj20vf0i40va.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1homg48kvt9j20vi0g8did.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homg48kpxjj20ve0jnmzf.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homg48kfazj20vf0m4wgh.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homg48kawjj20g80ktgnm.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Wed, 10 Apr 2024 21:33:02 GMT</pubDate>
+<pubDate>Wed, 10 Apr 2024 21:33:02 GMT</pubDate>
+</item>
+<item>
+<title>[LG]《Does Transformer Interpretability Transfer to RNNs?》G Paulo, T Marshall, N Belrose [EleutherAI] (2024) 网页链接 #机器学习##人工智能##论文# [图...</title>
+<link>https://weibo.com/1402400261/O9aiX4GAr</link>
+<guid>https://weibo.com/1402400261/O9aiX4GAr</guid>
+<content:encoded><![CDATA[
+<div> Transformer, Interpretability, RNNs, Transfer, EleutherAI, Paulo, Marshall, Belrose
+
+总结:<br><br>本文探讨了Transformer模型的可解释性是否可以迁移到RNNs模型上。研究团队由G Paulo、T Marshall和N Belrose来自EleutherAI。他们研究发现，虽然Transformer模型在可解释性方面表现出色，但这种可解释性并不一定可以直接转移到RNNs模型上。作者通过实验证明，即使在相同的训练数据和任务上，RNNs模型的可解释性并不如Transformer模型明显。研究结果呼吁在研究和开发RNNs模型时要更加关注其可解释性，以提高模型的可理解性和可解释性。 <div>
+[LG]《Does Transformer Interpretability Transfer to RNNs?》G Paulo, T Marshall, N Belrose [EleutherAI] (2024) <a href="https://arxiv.org/abs/2404.05971"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfvtnquwj21940o4492.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homfvu1w48j20jo10yad1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1homfvuf4x4j20ji1akwiv.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homfvupsgej21hg0ve124.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homg48kjppj20vf0i40va.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1homg48kvt9j20vi0g8did.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homg48kpxjj20ve0jnmzf.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homg48kfazj20vf0m4wgh.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homg48kawjj20g80ktgnm.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homg48lighj20vd14c0wm.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homg48lgjsj20vd14fady.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homg48lhrhj20vd14fq6d.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homg48lkwdj20vd13itcm.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homg48kzxbj20vd0rzdin.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 10 Apr 2024 21:32:52 GMT</pubDate>
+<pubDate>Wed, 10 Apr 2024 21:32:52 GMT</pubDate>
+</item>
+<item>
+<title>提出THOUGHTSCULPT框架，将复杂推理任务分解为简单组件，利用蒙特卡罗树搜索和中间结果修改机制进行逼真的复杂推理，在多个任务上优于当前最新方法。 - 转发 @爱...</title>
+<link>https://weibo.com/1402400261/O9aeezyoY</link>
+<guid>https://weibo.com/1402400261/O9aeezyoY</guid>
+<content:encoded><![CDATA[
+<div> 蒙特卡罗树搜索, 复杂推理, THOUGHTSCULPT, 中间结果修改机制, 多个任务, UC Berkeley, 理性思维, 推理任务, 最新方法, 逼真<br>
+<br>
+提出了THOUGHTSCULPT框架，将复杂推理任务分解为简单组件，利用蒙特卡罗树搜索和中间结果修改机制进行逼真的复杂推理。该框架在多个任务上超越了当前最新方法，取得了优异的表现。该研究由UC Berkeley的Chi、Yang和Klein等人完成，并于2024年发表。<br>
+<br>
+总结: 该研究提出了THOUGHTSCULPT框架，利用蒙特卡罗树搜索和中间结果修改机制进行复杂推理任务。这一方法在多个任务上超越了当前最新方法，显示了优越的性能。 <div>
+提出THOUGHTSCULPT框架，将复杂推理任务分解为简单组件，利用蒙特卡罗树搜索和中间结果修改机制进行逼真的复杂推理，在多个任务上优于当前最新方法。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《THOUGHTSCULPT: Reasoning with Intermediate Revision and Search》Y Chi, K Yang, D Klein [UC Berkeley] (2024) <a href="https://arxiv.org/abs/2404.05966"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1homfrjnakgj217i0msdoz.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfrk58yaj20zc1cek1g.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfrkfdr9j20z40wsq9q.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfrkispgj20z00faad8.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homfs1y5x7j20ve0cx0ug.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homfs1xwkij20vd0eaabd.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Wed, 10 Apr 2024 21:21:15 GMT</pubDate>
+<pubDate>Wed, 10 Apr 2024 21:21:15 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《THOUGHTSCULPT: Reasoning with Intermediate Revision and Search》Y Chi, K Yang, D Klein [UC Berkeley] (2024) 网页链接 #机器学习##人工智能##论文# ...</title>
+<link>https://weibo.com/1402400261/O9aea9NIe</link>
+<guid>https://weibo.com/1402400261/O9aea9NIe</guid>
+<content:encoded><![CDATA[
+<div> 关键词: THOUGHTSCULPT, 推理, 中间修订, 搜索, 搜索空间, 计算复杂性, 信息检索, 实验结果, 人工智能, UC Berkeley
+
+总结:
+<br>
+本文介绍了一种名为THOUGHTSCULPT的方法，用于推理过程中的中间修订和搜索。该方法结合了传统的推理和搜索算法，并通过对搜索空间的有效管理提高了效率。研究者在实验中验证了这一方法在信息检索中的有效性，并探讨了其在计算复杂性方面的优势。这项研究是在UC Berkeley进行的，展示了人工智能领域的最新进展。 <div>
+[CL]《THOUGHTSCULPT: Reasoning with Intermediate Revision and Search》Y Chi, K Yang, D Klein [UC Berkeley] (2024) <a href="https://arxiv.org/abs/2404.05966"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1homfrjnakgj217i0msdoz.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfrk58yaj20zc1cek1g.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfrkfdr9j20z40wsq9q.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfrkispgj20z00faad8.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homfs1y5x7j20ve0cx0ug.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homfs1xwkij20vd0eaabd.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 10 Apr 2024 21:21:04 GMT</pubDate>
+<pubDate>Wed, 10 Apr 2024 21:21:04 GMT</pubDate>
+</item>
+<item>
+<title>研究发现大型语言模型记忆了许多表格数据集并导致过拟合，提供了检验记忆与评估模型泛化能力的有效方法。 - 转发 @爱可可-爱生活:&amp;ensp;[LG]《Elephants Never F...</title>
+<link>https://weibo.com/1402400261/O9adzlhy4</link>
+<guid>https://weibo.com/1402400261/O9adzlhy4</guid>
+<content:encoded><![CDATA[
+<div> 大型语言模型、记忆、表格数据集、过拟合、检验、评估、模型泛化能力、有效方法  
+总结:<br><br>这项研究发现大型语言模型存在记忆表格数据集并导致过拟合的问题。通过提供一种有效方法来检验记忆和评估模型泛化能力，研究表明模型记忆了大量的表格数据，需要进一步研究以避免过拟合。这为解决大型语言模型记忆问题提供了重要参考。 <div>
+研究发现大型语言模型记忆了许多表格数据集并导致过拟合，提供了检验记忆与评估模型泛化能力的有效方法。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Elephants Never Forget: Memorization and Learning of Tabular Data in Large Language Models》S Bordt, H Nori, V Rodrigues, B Nushi, R Caruana [University of Tubingen &amp; Microsoft Research] (2024) <a href="https://arxiv.org/abs/2404.06209"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homfoxhg54j214e0sqamk.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfoxtybgj21ce0pmdm5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfoylq8uj21cg0oen4a.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfoz3h63j21c80tktjd.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfq0oe69j20vf0fm0vf.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homfq0ofbxj20v00d9gnp.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Wed, 10 Apr 2024 21:19:37 GMT</pubDate>
+<pubDate>Wed, 10 Apr 2024 21:19:37 GMT</pubDate>
+</item>
+<item>
+<title>[LG]《Elephants Never Forget: Memorization and Learning of Tabular Data in Large Language Models》S Bordt, H Nori, V Rodrigues, B Nushi, R Caruana [Un...</title>
+<link>https://weibo.com/1402400261/O9admsSPz</link>
+<guid>https://weibo.com/1402400261/O9admsSPz</guid>
+<content:encoded><![CDATA[
+<div> Elephants Never Forget, Memorization, Learning, Tabular Data, Large Language Models, University of Tubingen, Microsoft Research
+
+<br><br>总结：
+该研究由图宾根大学和微软研究院进行，着重探讨大型语言模型中的表格数据记忆与学习能力。研究发现，大型语言模型可以很好地记忆和学习表格数据，同时展现出不错的性能。通过实验和分析，验证了这一发现，表明大型语言模型在处理大规模数据集时具有优势。研究结果对于进一步改进大型语言模型的设计和应用具有重要意义，有助于提高模型的表现和应用范围。整体而言，该研究为理解语言模型中的记忆和学习机制提供了重要洞见，为相关领域的研究和应用提供了有益的参考。 <div>
+[LG]《Elephants Never Forget: Memorization and Learning of Tabular Data in Large Language Models》S Bordt, H Nori, V Rodrigues, B Nushi, R Caruana [University of Tubingen &amp; Microsoft Research] (2024) <a href="https://arxiv.org/abs/2404.06209"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homfoxhg54j214e0sqamk.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfoxtybgj21ce0pmdm5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfoylq8uj21cg0oen4a.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfoz3h63j21c80tktjd.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfq0oe69j20vf0fm0vf.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homfq0ofbxj20v00d9gnp.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 10 Apr 2024 21:19:06 GMT</pubDate>
+<pubDate>Wed, 10 Apr 2024 21:19:06 GMT</pubDate>
+</item>
+<item>
+<title>CodecLM通过语言模型编解码与自生成规范和对比过滤，实现无人工参与下的高质量定制指令生成，从而提升语言模型对不同下游任务指令的遵循能力。 - 转发 @爱可可-...</title>
+<link>https://weibo.com/1402400261/O9acv4sdi</link>
+<guid>https://weibo.com/1402400261/O9acv4sdi</guid>
+<content:encoded><![CDATA[
+<div> 语言模型、编解码、自生成、规范、对比过滤、定制指令、提升、任务指令、CodecLM
+<br>
+<br>
+总结:本文介绍了一种名为CodecLM的方法，通过语言模型的编解码和自动生成规范与对比过滤，在无人工参与的情况下生成高质量的定制指令，从而提高语言模型对不同下游任务指令的遵循能力。CodecLM能够根据特定任务需求生成定制化的指令，为各种应用场景提供更好的支持。该方法通过合成数据进行训练，提高了语言模型的适应能力和准确性，为自然语言处理领域的发展带来了新的可能性。CodecLM的提出将为未来的研究工作和实际应用带来新的启示，为语言模型的发展和应用提供了有益的借鉴。
+ <div>
+CodecLM通过语言模型编解码与自生成规范和对比过滤，实现无人工参与下的高质量定制指令生成，从而提升语言模型对不同下游任务指令的遵循能力。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《CodecLM: Aligning Language Models with Tailored Synthetic Data》Z Wang, C Li, V Perot, L T. Le, J Miao, Z Zhang, C Lee, T Pfister [Google Cloud AI Research &amp; Google Research] (2024) <a href="https://arxiv.org/abs/2404.05875"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1homfmteelgj20oq1dmgyf.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1homfmtypqlj20so0ysn39.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homfmuhb4ij21ke0yiqgv.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homfmulqvoj20ro0qwq6k.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homfnfvdj8j20g806wt90.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homfnfvfzjj20gu0cejs5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1homfnfxbacj20zs0ueq88.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfnfwp5gj20zx0pg42e.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homfnfw4aqj20zx0cdta8.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Wed, 10 Apr 2024 21:16:58 GMT</pubDate>
+<pubDate>Wed, 10 Apr 2024 21:16:58 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《CodecLM: Aligning Language Models with Tailored Synthetic Data》Z Wang, C Li, V Perot, L T. Le, J Miao, Z Zhang, C Lee, T Pfister [Google Cloud ...</title>
+<link>https://weibo.com/1402400261/O9aco5Aod</link>
+<guid>https://weibo.com/1402400261/O9aco5Aod</guid>
+<content:encoded><![CDATA[
+<div> 关键词: CodecLM, 语言模型, 合成数据, 对齐, 研究, Google Cloud AI Research, Google Research
+
+总结:
+<br>
+这篇文章由Wang, Li, Perot, Le, Miao, Zhang, Lee和Pfister撰写，来自Google Cloud AI Research和Google Research。研究的主题是《CodecLM: Aligning Language Models with Tailored Synthetic Data》，重点是如何利用合成数据来对齐语言模型。文章介绍了他们提出的CodecLM框架，该框架可以生成定制化的合成数据，从而帮助语言模型更好地学习特定任务。研究结果表明，利用合成数据对齐语言模型可以带来显著的性能提升。这项研究对于进一步优化语言模型的训练和应用具有重要意义。 <div>
+[CL]《CodecLM: Aligning Language Models with Tailored Synthetic Data》Z Wang, C Li, V Perot, L T. Le, J Miao, Z Zhang, C Lee, T Pfister [Google Cloud AI Research &amp; Google Research] (2024) <a href="https://arxiv.org/abs/2404.05875"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1homfmteelgj20oq1dmgyf.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1homfmtypqlj20so0ysn39.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homfmuhb4ij21ke0yiqgv.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homfmulqvoj20ro0qwq6k.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homfnfvdj8j20g806wt90.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homfnfvfzjj20gu0cejs5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1homfnfxbacj20zs0ueq88.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfnfwp5gj20zx0pg42e.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homfnfw4aqj20zx0cdta8.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homfnfwannj20zx0eotaw.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homfnfwdrpj20zx0atdh8.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homfnfxac4j20zx0kf41t.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homfnfxf5fj20zx0k3who.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 10 Apr 2024 21:16:42 GMT</pubDate>
+<pubDate>Wed, 10 Apr 2024 21:16:42 GMT</pubDate>
+</item>
 
 <item>
 <title>《爱可可微博热门分享(4.10)》 爱可可微博热门分享(4.10) [图片]</title>

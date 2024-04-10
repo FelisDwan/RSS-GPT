@@ -4065,3 +4065,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O97CadjxT)
 append_entries: 0
 Finish: 2024-04-10 20:11:42.958367
+------------------------------------------------------
+Started: 2024-04-10 22:12:31.289783
+Existing_entries: 677
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [[CV] Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences 网页链接 提出MicKey方法，利用预测单张图像的3D关键点坐标实现无需外部深...](https://weibo.com/1402400261/O9asko3AR)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [[CL] Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence 网页链接 提出了Eagle和Finch两种改进自RWKV-4的高效RNN体系结构，在大量预训练...](https://weibo.com/1402400261/O9alhBvkx)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [发现设计用于解释Transformer的技术大多可直接应用于新兴RNN架构，并创新利用RNN压缩状态增强控制能力。 - 转发 @爱可可-爱生活:&ensp;[LG]《Does Transformer I...](https://weibo.com/1402400261/O9aj1cQ2K)
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Does Transformer Interpretability Transfer to RNNs?》G Paulo, T Marshall, N Belrose [EleutherAI] (2024) 网页链接 #机器学习##人工智能##论文# [图...](https://weibo.com/1402400261/O9aiX4GAr)
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [提出THOUGHTSCULPT框架，将复杂推理任务分解为简单组件，利用蒙特卡罗树搜索和中间结果修改机制进行逼真的复杂推理，在多个任务上优于当前最新方法。 - 转发 @爱...](https://weibo.com/1402400261/O9aeezyoY)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [[CL]《THOUGHTSCULPT: Reasoning with Intermediate Revision and Search》Y Chi, K Yang, D Klein [UC Berkeley] (2024) 网页链接 #机器学习##人工智能##论文# ...](https://weibo.com/1402400261/O9aea9NIe)
+Token length: 257
+Summarized using GPT-3.5-turbo
+Append: [研究发现大型语言模型记忆了许多表格数据集并导致过拟合，提供了检验记忆与评估模型泛化能力的有效方法。 - 转发 @爱可可-爱生活:&ensp;[LG]《Elephants Never F...](https://weibo.com/1402400261/O9adzlhy4)
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Elephants Never Forget: Memorization and Learning of Tabular Data in Large Language Models》S Bordt, H Nori, V Rodrigues, B Nushi, R Caruana [Un...](https://weibo.com/1402400261/O9admsSPz)
+Token length: 266
+Summarized using GPT-3.5-turbo
+Append: [CodecLM通过语言模型编解码与自生成规范和对比过滤，实现无人工参与下的高质量定制指令生成，从而提升语言模型对不同下游任务指令的遵循能力。 - 转发 @爱可可-...](https://weibo.com/1402400261/O9acv4sdi)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [[CL]《CodecLM: Aligning Language Models with Tailored Synthetic Data》Z Wang, C Li, V Perot, L T. Le, J Miao, Z Zhang, C Lee, T Pfister [Google Cloud ...](https://weibo.com/1402400261/O9aco5Aod)
+append_entries: 10
+Finish: 2024-04-10 22:13:06.709095
