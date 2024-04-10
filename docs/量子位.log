@@ -2815,3 +2815,12 @@ Existing_entries: 321
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-10 14:10:06.718056
+------------------------------------------------------
+Started: 2024-04-10 16:16:13.459003
+Existing_entries: 321
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 392
+Summarized using GPT-3.5-turbo
+Append: [#2023年图灵奖揭晓#！史上首位数学和计算机最高奖“双料王”出现了刚刚，“计算机界最高荣誉”图灵奖揭晓——复杂性理论先驱、普林斯顿高等研究院教授艾维·维格...](https://weibo.com/6105753431/O985xt6Zs)
+append_entries: 1
+Finish: 2024-04-10 16:16:25.539660
