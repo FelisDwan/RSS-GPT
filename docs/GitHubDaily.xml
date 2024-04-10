@@ -4,6 +4,19 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+<item>
+<title>分享在 GitHub 上的一套 macOS 系统实现微信双开的方案。项目详细介绍了如何利用自动操作工具将脚本打包，实现一键启动第二个微信，无需通过打开终端输入命令。...</title>
+<link>https://weibo.com/5722964389/O96yqiSQs</link>
+<guid>https://weibo.com/5722964389/O96yqiSQs</guid>
+<content:encoded><![CDATA[
+<div> GitHub, macOS, 微信, 双开, 自动操作工具, 脚本, 一键启动, 应用程序, 图标, 方案<br>
+<br>
+总结: 该项目在 GitHub 上分享了一套 macOS 系统实现微信双开的方案。通过利用自动操作工具将脚本打包，实现一键启动第二个微信，无需通过终端输入命令。同时还介绍了如何更换启动脚本应用程序图标的方法。可供有需求的朋友参考。 <div>
+分享在 GitHub 上的一套 macOS 系统实现微信双开的方案。<br /><br />项目详细介绍了如何利用自动操作工具将脚本打包，实现一键启动第二个微信，无需通过打开终端输入命令。<br /><br />此外，作者还分享了如何更换启动脚本应用程序图标的方法。<br /><br />GitHub：github.com/CLOUDUH/dual-wechat<br /><br />有这方面需求的朋友可以去看看。 <img src="https://tvax4.sinaimg.cn/large/006fiYtfgy1holz11dueoj31hc0uogyq.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 10 Apr 2024 12:00:00 GMT</pubDate>
+<pubDate>Wed, 10 Apr 2024 12:00:00 GMT</pubDate>
+</item>
 
 <item>
 <title>推荐 GitHub 上一款开源免费的轻量级笔记服务 Memos。像一个极简版的微博社区，你可以在上面轻松记录自己的想法、知识以及笔记，同时允许将其公开与他人分享。Gi...</title>
