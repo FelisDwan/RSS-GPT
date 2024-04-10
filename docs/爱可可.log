@@ -4017,3 +4017,9 @@ Summarized using GPT-3.5-turbo
 Append: ['Awesome Cloudflare - 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表' GitHub: github.com/zhuima/awesome-cloudflare #开源# #Cloudflare# [图...](https://weibo.com/1402400261/O93SWBw2M)
 append_entries: 10
 Finish: 2024-04-10 06:15:38.796592
+------------------------------------------------------
+Started: 2024-04-10 08:16:43.338827
+Existing_entries: 676
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-10 08:16:43.557254

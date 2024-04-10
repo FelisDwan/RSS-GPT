@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>几篇论文实现代码：《Learning to Act without Actions》(ICLR 2024) GitHub: github.com/schmidtdominik/LAPO《Elucidating the Exposure Bias in Diffusion Mo...</title>
 <link>https://weibo.com/1402400261/O94atlime</link>
@@ -11,12 +12,11 @@
 <content:encoded><![CDATA[
 <div> Learning, Act, Actions, Exposure Bias, Diffusion Models, Memory-Augmented, Video Understanding, Facial Expressions, Prompt Optimization, Text-to-Image Generation
 
-<br>本文介绍了几篇论文的实现代码，包括学习如何在没有动作的情况下进行行动的研究，揭示扩散模型中的曝光偏差，以及用于长期视频理解的记忆增强型多模态模型等。另外还讨论了通过神经合成分析实现的三维面部表情生成，以及在文本到图像生成中动态提示优化等内容。此外，文章还介绍了基于语言嵌入的三维高斯场用于开放词汇场景理解，以及从语言嵌入特征场进行物理属性理解的研究。此外，还包括了自动程序改进，扩散模型的缩放结构以及移动手机双摄平滑变焦等研究成果。同时，讨论了在个性化视觉编辑中实现任意对象交换，通过细粒度音频功能、文本嵌入监督和LLM混合增强来改进音频字幕模型，以及从单一图像实现零样本材料迁移等研究成果。最后还讨论了处理粗糙视觉条件的控制网络增强，无需训练的三维生成加速技术，以及大型语言模型对文本编码的潜在能力等内容。
+<br />本文介绍了几篇论文的实现代码，包括学习如何在没有动作的情况下进行行动的研究，揭示扩散模型中的曝光偏差，以及用于长期视频理解的记忆增强型多模态模型等。另外还讨论了通过神经合成分析实现的三维面部表情生成，以及在文本到图像生成中动态提示优化等内容。此外，文章还介绍了基于语言嵌入的三维高斯场用于开放词汇场景理解，以及从语言嵌入特征场进行物理属性理解的研究。此外，还包括了自动程序改进，扩散模型的缩放结构以及移动手机双摄平滑变焦等研究成果。同时，讨论了在个性化视觉编辑中实现任意对象交换，通过细粒度音频功能、文本嵌入监督和LLM混合增强来改进音频字幕模型，以及从单一图像实现零样本材料迁移等研究成果。最后还讨论了处理粗糙视觉条件的控制网络增强，无需训练的三维生成加速技术，以及大型语言模型对文本编码的潜在能力等内容。
 
-<br><br>总结: 本文总结了多篇涉及不同领域的论文实现代码，包括行动没有动作的学习、曝光偏差的解释、视频理解的记忆增强模型、三维面部表情生成、文本到图像生成优化等研究成果，并系统阐述了这些研究的关键要点和成果。 <div>
+<br /><br />总结: 本文总结了多篇涉及不同领域的论文实现代码，包括行动没有动作的学习、曝光偏差的解释、视频理解的记忆增强模型、三维面部表情生成、文本到图像生成优化等研究成果，并系统阐述了这些研究的关键要点和成果。 <div>
 几篇论文实现代码：<br />《Learning to Act without Actions》(ICLR 2024) GitHub: github.com/schmidtdominik/LAPO<br />《Elucidating the Exposure Bias in Diffusion Models》(ICLR 2024) GitHub: github.com/forever208/EDM-ES<br />《MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding》(CVPR 2024) GitHub: github.com/boheumd/MA-LMM [fig4]<br />《3D Facial Expressions through Analysis-by-Neural-Synthesis》(CVPR 2024) GitHub: github.com/georgeretsi/smirk<br />《Dynamic Prompt Optimizing for Text-to-Image Generation》(CVPR 2024) GitHub: github.com/Mowenyii/PAE [fig5]<br />《Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras》(CVPR 2024) GitHub: github.com/HuajianUP/Photo-SLAM<br />《LEGaussians: Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding》(CVPR 2024) GitHub: github.com/buaavrcg/LEGaussians<br />《NeRF2Physics: Physical Property Understanding from Language-Embedded Feature Fields》(CVPR 2024) GitHub: github.com/ajzhai/NeRF2Physics [fig10]<br />《AutoCodeRover: Autonomous Program Improvement》(2024) GitHub: github.com/nus-apr/auto-code-rover [fig1]<br />《Diffusion-RWKV: Scaling RWKV-Like Architectures for Diffusion Models》(2024) GitHub: github.com/feizc/Diffusion-RWKV [fig2]<br />《Dual-Camera Smooth Zoom on Mobile Phones》(2024) GitHub: github.com/ZcsrenlongZ/ZoomGS [fig3]<br />《SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual Editing》(2024) GitHub: github.com/eric-ai-lab/swap-anything [fig6]<br />《Improving Audio Captioning Models with Fine-grained Audio Features, Text Embedding Supervision, and LLM Mix-up Augmentation》(2024) GitHub: github.com/slSeanWU/beats-conformer-bart-audio-captioner<br />《ZeST: Zero-Shot Material Transfer from a Single Image》(2024) GitHub: github.com/ttchengab/zest_code [fig7]<br />《SmartControl: Enhancing ControlNet for Handling Rough Visual Conditions》(2024) GitHub: github.com/liuxiaoyu1104/SmartControl [fig8]<br />《Hash3D: Training-free Acceleration for 3D Generation》(2024) GitHub: github.com/Adamdad/hash3D [fig9]<br />《LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders》(2024) GitHub: github.com/McGill-NLP/llm2vec<br />《Point Cloud Mamba: Point Cloud Learning via State Space Model》(2024) GitHub: github.com/SkyworkAI/PointCloudMamba<br />《An Empirical Study of Data Ability Boundary in LLMs' Math Reasoning》(2024) GitHub: github.com/cyzhh/MMOS<br />《HiQA: A Hierarchical Contextual Augmentation RAG for Massive Documents QA》(2024) GitHub: github.com/TebooNok/HiQA<br />《Magic Clothing: Controllable Garment-Driven Image Synthesis》(2024) GitHub: github.com/ShineChen1024/MagicClothing<br />《Rethinking the Spatial Inconsistency in Classifier-Free Diffusion Guidance》(2024) GitHub: github.com/SmilesDZgk/S-CFG<br />《HyperTTS: Parameter Efficient Adaptation in Text to Speech using Hypernetworks》(2024) GitHub: github.com/declare-lab/HyperTTS<br />《AI and Memory Wall》(2024) GitHub: github.com/amirgholami/ai_and_memory_wall<br />《Compound text-guided prompt tuning via image-adaptive cues》(2024) GitHub: github.com/EricTan7/TGP-T [fig11]<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1holng2zgs7j20zx06rmyn.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1holng402ucj21120f0acu.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1holng4xjqaj20xt0pznh5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1holng7m91ej26zk3m8e85.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1holniqwve3j22dx0nwtwr.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1holnjgtfx2j243m23nqvh.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1holnksevzyj21mr0olte9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1holnllw9hij22ps1bdhdt.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1holnmp8hpzj21s10gg798.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1holnzzb68pj21g70feajf.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1holodjly5kj21rn0sg1kx.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 10 Apr 2024 05:55:30 GMT</pubDate>
 <pubDate>Wed, 10 Apr 2024 05:55:30 GMT</pubDate>
 </item>
 <item>
@@ -24,11 +24,10 @@
 <link>https://weibo.com/1402400261/O943NqBXE</link>
 <guid>https://weibo.com/1402400261/O943NqBXE</guid>
 <content:encoded><![CDATA[
-<div> LLM Gateway, 安全可靠, OpenAI, 通信, 网关, 语言模型, 提供商, GitHub<br><br>总结:
+<div> LLM Gateway, 安全可靠, OpenAI, 通信, 网关, 语言模型, 提供商, GitHub<br /><br />总结:
 LLM Gateway是一个用于安全可靠地与OpenAI和其他LLM提供商进行通信的网关。该项目在GitHub上可见，可以帮助用户进行安全和可靠的通讯。网关的主要作用是为用户提供与各种LLM提供商之间的连接和交流，确保信息传输的安全性和可靠性。通过LLM Gateway，用户可以更方便地与不同语言模型提供商进行沟通和合作。这个项目能够有效帮助用户实现与OpenAI等LLM提供商的通信需求，提高工作效率。 <div>
 【LLM Gateway：用于安全可靠地与 OpenAI 和其他 LLM(语言模型)提供商进行通信的网关】'LLM Gateway - Gateway for secure &amp; reliable communications with OpenAI and other LLM providers' GitHub: github.com/wealthsimple/llm-gateway <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8holojwm2z6j212j0u0tba.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 10 Apr 2024 05:39:03 GMT</pubDate>
 <pubDate>Wed, 10 Apr 2024 05:39:03 GMT</pubDate>
 </item>
 <item>
@@ -38,11 +37,10 @@ LLM Gateway是一个用于安全可靠地与OpenAI和其他LLM提供商进行通
 <content:encoded><![CDATA[
 <div> 安全、快速、通用、操作系统内核、Rust、Linux兼容、ABI、Asterinas、GitHub
 
-<br><br>总结:
+<br /><br />总结:
 Asterinas是一个使用Rust编写的安全、快速、通用的操作系统内核，与Linux兼容，提供Linux-compatible ABI。该项目在GitHub上托管，名为asterinas/asterinas。这个内核旨在提供更安全和高效的操作系统基础，同时保持与Linux的兼容性，为用户带来更好的操作系统体验。 <div>
 【Asterinas：安全、快速、通用的操作系统内核，使用Rust编写，并与Linux兼容】'Asterinas - a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.' GitHub: github.com/asterinas/asterinas <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%23&amp;isnewpage=1"><span class="surl-text">#操作系统#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8holoh9eu18j218s0u0af8.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 10 Apr 2024 05:36:36 GMT</pubDate>
 <pubDate>Wed, 10 Apr 2024 05:36:36 GMT</pubDate>
 </item>
 <item>
@@ -52,11 +50,10 @@ Asterinas是一个使用Rust编写的安全、快速、通用的操作系统内�
 <content:encoded><![CDATA[
 <div> Full Stack, FastAPI, React, MongoDB, FARM, Base Project Generator, GitHub, modern web application, Docker, automatic HTTPS
 
-<br><br>总结:
+<br /><br />总结:
 该项目是一个全栈应用生成器，使用FastAPI作为后端框架，MongoDB作为数据库，还包括了Docker和自动HTTPS等功能。通过该生成器，用户可以快速搭建现代化的全栈Web应用。项目托管在GitHub上，提供了丰富的功能和工具，方便用户进行开发和部署。 <div>
 【Full Stack FastAPI, React, MongoDB (FARM) Base Project Generator：FastAPI 和 MongoDB 的全栈应用生成器】'Full Stack FastAPI, React, MongoDB (FARM) Base Project Generator - Full stack, modern web application generator. Using FastAPI, MongoDB as database, Docker, automatic HTTPS and more.' GitHub: github.com/mongodb-labs/full-stack-fastapi-mongodb <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8holofcb8hwj20u0118451.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 10 Apr 2024 05:34:45 GMT</pubDate>
 <pubDate>Wed, 10 Apr 2024 05:34:45 GMT</pubDate>
 </item>
 <item>
@@ -66,11 +63,10 @@ Asterinas是一个使用Rust编写的安全、快速、通用的操作系统内�
 <content:encoded><![CDATA[
 <div> GitHub, Awesome LLM WebUIs, Web User Interfaces, Curated list, Large Language Model, JShollaj, LLM, 接口, 网页界面
 
-<br><br>总结:
+<br /><br />总结:
 这篇文章是关于“Awesome LLM WebUIs”的GitHub项目，汇总了大型语言模型（LLM）Web用户界面的精选列表。项目由JShollaj创建，收集了一系列优秀的LLM WebUI，提供了丰富的接口和网页界面。如果你对LLM开发感兴趣，可以在GitHub上找到这个项目，了解更多相关信息。 <div>
 【LLM Web界面大列表】’Awesome LLM WebUIs - A curated list of awesome Large Language Model (LLM) Web User Interfaces.' GitHub: github.com/JShollaj/awesome-llm-web-ui <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8holoc8gg90j20zk0k041k.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 10 Apr 2024 05:31:43 GMT</pubDate>
 <pubDate>Wed, 10 Apr 2024 05:31:43 GMT</pubDate>
 </item>
 <item>
@@ -79,11 +75,10 @@ Asterinas是一个使用Rust编写的安全、快速、通用的操作系统内�
 <guid>https://weibo.com/1402400261/O940mBXlT</guid>
 <content:encoded><![CDATA[
 <div> 可视化、LLM、评估、应用、Streamlit、GitHub、dashboard、MosaicML、应用程序、数据可视化
-<br><br>总结:
+<br /><br />总结:
 这篇文章介绍了一个名为Visualize LLM evals的应用程序，它是一个基于Streamlit的数据可视化工具，用于可视化LLM评估。用户可以在GitHub上找到该应用程序的源代码。通过该应用程序，用户可以更直观地查看LLM的评估结果，帮助他们更好地理解和分析数据。该应用程序由MosaicML开发，为用户提供了一个方便的工具来探索和解释LLM的评估结果。 <div>
 【Visualize LLM evals：可视化 LLM 评估的应用】'Visualize LLM evals - A streamlit app for visualizing LLM evals.' GitHub: github.com/mosaicml/llm-eval-dashboard <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8holoauq2roj214e0u0gpo.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 10 Apr 2024 05:30:36 GMT</pubDate>
 <pubDate>Wed, 10 Apr 2024 05:30:36 GMT</pubDate>
 </item>
 <item>
@@ -93,10 +88,9 @@ Asterinas是一个使用Rust编写的安全、快速、通用的操作系统内�
 <content:encoded><![CDATA[
 <div> Basalt、机器学习、Mojo语言、框架、GitHub、从零实现、纯Mojo、项目、代码库、学习
 
-总结:<br><br>这篇文章介绍了一个名为Basalt的机器学习框架，使用Mojo语言从零开始实现。该项目的代码库可以在GitHub上找到，并且是一个纯Mojo编写的框架。通过Basalt，用户可以学习如何从头开始构建一个机器学习框架，并且在其中使用Mojo语言。 <div>
+总结:<br /><br />这篇文章介绍了一个名为Basalt的机器学习框架，使用Mojo语言从零开始实现。该项目的代码库可以在GitHub上找到，并且是一个纯Mojo编写的框架。通过Basalt，用户可以学习如何从头开始构建一个机器学习框架，并且在其中使用Mojo语言。 <div>
 【Basalt：使用Mojo语言从零实现的机器学习框架】'Basalt - A Machine Learning framework from scratch in Pure Mojo' GitHub: github.com/basalt-org/basalt <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8holo84iafvj20zc0sadis.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 10 Apr 2024 05:27:44 GMT</pubDate>
 <pubDate>Wed, 10 Apr 2024 05:27:44 GMT</pubDate>
 </item>
 <item>
@@ -104,13 +98,12 @@ Asterinas是一个使用Rust编写的安全、快速、通用的操作系统内�
 <link>https://weibo.com/1402400261/O93V9FLOM</link>
 <guid>https://weibo.com/1402400261/O93V9FLOM</guid>
 <content:encoded><![CDATA[
-<div> aiXcoder-7B、代码大语言模型、跨编程语言、代码补全、理解、生成、GitHub、代码模型、AI、仓库<br>
-<br>
-总结:<br>
+<div> aiXcoder-7B、代码大语言模型、跨编程语言、代码补全、理解、生成、GitHub、代码模型、AI、仓库<br />
+<br />
+总结:<br />
 aiXcoder-7B是一种代码大语言模型，旨在理解和生成跨多种编程语言的代码。它提供了最先进的代码补全、理解和生成能力。该模型的官方仓库位于GitHub上，是一个代码模型，借助AI技术，为开发者提供强大的编程支持。 <div>
 【aixcoder-7B 是一种代码大语言模型，旨在理解和生成跨多种编程语言的代码，提供最先进的代码补全、理解、生成等能力】'aiXcoder-7B Code Large Language Model - official repository of aiXcoder-7B Code Large Language Model' GitHub: github.com/aixcoder-plugin/aiXcoder-7B <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8holnxrok63j21740len1o.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 10 Apr 2024 05:17:46 GMT</pubDate>
 <pubDate>Wed, 10 Apr 2024 05:17:46 GMT</pubDate>
 </item>
 <item>
@@ -120,10 +113,9 @@ aiXcoder-7B是一种代码大语言模型，旨在理解和生成跨多种编程
 <content:encoded><![CDATA[
 <div> LLM、软件测试、应用、研究、论文、GitHub、LLM4SoftwareTesting
 
-使用大语言模型（LLM）在软件测试中的应用和研究是一个备受关注的领域，GitHub上有一个名为'Awesome-LLM-SoftwareTesting'的项目专门收集了相关论文。这些论文包括了LLM在软件测试中的多种应用场景，以及对其性能和效果的研究。研究者们通过分析大量数据和实验结果，探索了LLM在软件缺陷检测、测试用例生成等方面的潜力，为软件测试领域的发展提供了新的思路和方法。总的来说，LLM在软件测试中的应用前景广阔，值得进一步深入研究和探索。<br><br>总结:这些论文呈现了LLM在软件测试领域的重要应用和研究成果，展示了其在提高测试效率和质量方面的潜力，为未来的软件测试工作提供了重要参考和启发。 <div>
+使用大语言模型（LLM）在软件测试中的应用和研究是一个备受关注的领域，GitHub上有一个名为'Awesome-LLM-SoftwareTesting'的项目专门收集了相关论文。这些论文包括了LLM在软件测试中的多种应用场景，以及对其性能和效果的研究。研究者们通过分析大量数据和实验结果，探索了LLM在软件缺陷检测、测试用例生成等方面的潜力，为软件测试领域的发展提供了新的思路和方法。总的来说，LLM在软件测试中的应用前景广阔，值得进一步深入研究和探索。<br /><br />总结:这些论文呈现了LLM在软件测试领域的重要应用和研究成果，展示了其在提高测试效率和质量方面的潜力，为未来的软件测试工作提供了重要参考和启发。 <div>
 【关于使用大语言模型 (LLM) 在软件测试中的应用和研究的论文列表】’Awesome-LLM-SoftwareTesting' GitHub: github.com/LLM-Testing/LLM4SoftwareTesting <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8holnts4anrj20o80p0433.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 10 Apr 2024 05:14:30 GMT</pubDate>
 <pubDate>Wed, 10 Apr 2024 05:14:30 GMT</pubDate>
 </item>
 <item>
@@ -131,16 +123,14 @@ aiXcoder-7B是一种代码大语言模型，旨在理解和生成跨多种编程
 <link>https://weibo.com/1402400261/O93SWBw2M</link>
 <guid>https://weibo.com/1402400261/O93SWBw2M</guid>
 <content:encoded><![CDATA[
-<div> GitHub、Cloudflare、工具、开源项目、指南、博客、资源列表、精选、zhuima、Awesome Cloudflare<br>
-<br>
-总结:<br>
+<div> GitHub、Cloudflare、工具、开源项目、指南、博客、资源列表、精选、zhuima、Awesome Cloudflare<br />
+<br />
+总结:<br />
 本文介绍了 GitHub 上用户 zhuima 收集整理的关于 Cloudflare 的精选工具、开源项目、指南、博客和其他资源列表。其中包括了各种有用的工具和资源，针对 Cloudflare 的使用者提供了丰富的参考和指导，是一个非常实用的资源汇总。 <div>
 'Awesome Cloudflare - 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表' GitHub: github.com/zhuima/awesome-cloudflare <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Cloudflare%23"><span class="surl-text">#Cloudflare#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8holns27lssj21he0u0n33.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 10 Apr 2024 05:12:19 GMT</pubDate>
-<pubDate>Wed, 10 Apr 2024 05:12:19 GMT</pubDate>
 </item>
-
 <item>
 <title>【衡量语言模型的说服力】- Anthropic开发了一种基本方法来测量语言模型的说服力，并用这种方法比较了Anthropic不同版本的Claude模型(Claude 1、2和3)以及两类模...</title>
 <link>https://weibo.com/1402400261/O923JzYQz</link>
