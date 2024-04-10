@@ -3942,3 +3942,18 @@ Summarized using GPT-3.5-turbo
 Append: [[CL]《A Morphology-Based Investigation of Positional Encodings》P Ghosh, S Vashishth, R Dabre, P Bhattacharyya [IIT Bombay & Google Research & NICT] (...](https://weibo.com/1402400261/O90KV7K65)
 append_entries: 10
 Finish: 2024-04-09 22:10:35.550438
+------------------------------------------------------
+Started: 2024-04-10 00:49:57.007423
+Existing_entries: 659
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 706
+Summarized using GPT-3.5-turbo
+Append: [【AI模型的性别偏见】- AI模型会反映和夸大现实世界中存在的性别偏见。准确量化模型中的这些偏见对于恰当地解决和缓解它们非常重要。 - 词向量中存在性别偏见，...](https://weibo.com/1402400261/O91Lk1xOE)
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@异步图书 送出3本《大语言模型：基础与前沿》，截至2024.4.12 12:00，*可可粉*转...](https://weibo.com/1402400261/O91Jua4HQ)
+Token length: 97
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1371期)：语言模型知识容量缩放律、文本生成中语义漂移研究、基于形态学的位置编码研究、语言模型进化的迭代学习视角、基于多模态大语言模型的手机UI...](https://weibo.com/1402400261/O91c61wZd)
+append_entries: 3
+Finish: 2024-04-10 00:50:09.073803
