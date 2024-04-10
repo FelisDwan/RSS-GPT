@@ -2784,3 +2784,22 @@ Summarized using GPT-3.5-turbo
 Append: [#开源模型竞技场首胜GPT4# 能打得过GPT-4的开源模型出现了！大模型竞技场最新战报：1040亿参数开源模型Command R+攀升至第6位，与GPT-4-0314打成平手，超过了GPT...](https://weibo.com/6105753431/O94kfbjrk)
 append_entries: 3
 Finish: 2024-04-10 08:16:42.502368
+------------------------------------------------------
+Started: 2024-04-10 10:11:35.364356
+Existing_entries: 316
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 89
+Summarized using GPT-3.5-turbo
+Append: [#AI破译古文字##上古卷轴# 1752年，人们在意大利发现了一堆“木炭”，发现其中竟然有字，原来这是古希腊流传下来的上古卷轴，为了在不破坏文物的情况下读取其中...](https://weibo.com/6105753431/O95GesAHn)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [#Imagen2生成动图# 谷歌 DeepMind 的文生图技术# Imagen 2#迎来功能升级。此次更新如下：1.现在可以根据单个提示创建 4 秒实时动图了（类似GIF）2.新增高级图像...](https://weibo.com/6105753431/O95wTccpH)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [GitHub标星8.3k的多模态大语言模型综述《A Survey on Multimodal Large Language Models》更新啦：github.com/BradyFU/Awesome-Multimodal-Large-Language-Model...](https://weibo.com/6105753431/O95nLpBQ4)
+Token length: 77
+Summarized using GPT-3.5-turbo
+Append: [【#英特尔AI芯片秒杀H100# 】英特尔发布AI芯片Gaudi 3，性能秒杀英伟达H100，不仅大模型训练时间缩短40%、推理能力也提高了一半，CEO基辛格直接在舞台上蹦迪庆祝...](https://weibo.com/6105753431/O95lcB1oU)
+Append: [#新AI搜索工具#：免费开源版perplexityGitHub 开源了一款由生成式 AI 驱动的搜索引擎#Morphic#，40万推特网友直呼真香~它的内容由 GPT 3.5 和 GPT 4 提供支撑，...](https://weibo.com/6105753431/O95iQzkoO)
+append_entries: 5
+Finish: 2024-04-10 10:11:48.770443
