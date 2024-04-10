@@ -4,22 +4,21 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+
 <item>
 <title>推荐 GitHub 上一款开源免费的轻量级笔记服务 Memos。像一个极简版的微博社区，你可以在上面轻松记录自己的想法、知识以及笔记，同时允许将其公开与他人分享。Gi...</title>
 <link>https://weibo.com/5722964389/O922m4CUj</link>
 <guid>https://weibo.com/5722964389/O922m4CUj</guid>
 <content:encoded><![CDATA[
 <div> GitHub、开源、免费、轻量级、笔记服务、Memos、部署简单、隐私保护、纯文本编辑器、Markdown格式  
-<br>
+<br />
 轻量级笔记服务 Memos 是一款开源免费的工具，可以帮助用户记录和分享想法、知识以及笔记。该工具部署简单，支持使用 Docker 进行快速部署，并且提供隐私保护功能，用户可以将数据保存在自己的数据库上，如 SQLite、MySQL 等，确保数据安全。另外，Memos 提供纯文本编辑器，支持 Markdown 格式，让用户以极简的方式记录和分享笔记。此外，Memos 还支持丰富的分享方式，用户可以通过图片、链接、嵌入式代码等方式分享笔记。工具还提供实时搜索功能，能够快速而准确地搜索笔记内容。用户还可以为每个笔记添加标签，更好地组织和分类内容。最重要的是，Memos 提供 RESTful API 支持，可以与第三方服务进行集成。项目已获得 26.7k Star，作者在积极维护更新，并承诺完全开源且永久免费。  
-<br><br>总结:  
+<br /><br />总结:  
 Memos 是一款轻量级的开源免费笔记服务，部署简单，支持隐私保护，纯文本编辑器支持 Markdown 格式，提供丰富的分享方式和实时搜索功能，还可进行标签和分类，具有 RESTful API 支持，广受好评。 <div>
 推荐 GitHub 上一款开源免费的轻量级笔记服务 Memos。<br /><br />像一个极简版的微博社区，你可以在上面轻松记录自己的想法、知识以及笔记，同时允许将其公开与他人分享。<br /><br />GitHub：github.com/usememos/memos<br /><br />主要特点：<br /><br />- 部署简单：可使用 Docker 在几秒内完成部署使用。<br />- 隐私保护：所有数据可保存到自己的数据库上，如 SQLite、MySQL 等，确保数据安全。<br />- 纯文本编辑器：支持 Markdown 格式，摒弃了繁琐的富文本编辑器，以极简的方式记录和分享笔记。<br />- 丰富分享方式：支持图片、链接、嵌入式代码等方式分享笔记。<br />- 实时搜索：提供快速而准确的实时搜索功能。<br />- 标签和分类：可以为每个笔记添加标签，更好的组织和分类内容。<br />- RESTful API 支持：能够与第三方服务进行集成。<br /><br />目前项目已获得 26.7k Star，作者依然在积极维护更新，并承诺完全开源且永久免费。<img src="https://tvax4.sinaimg.cn/large/006fiYtfgy1hol7568e8uj318d0vcaik.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006fiYtfgy1hol766iueyj318c0vhahz.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006fiYtfgy1hol76npvl4j317n0v847g.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006fiYtfgy1hol76zmynxj316j0vcaj0.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006fiYtfgy1hol78mtlsoj31540qjgrk.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006fiYtfgy1hol79dlro5j315z0p0aeq.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 10 Apr 2024 00:30:00 GMT</pubDate>
-<pubDate>Wed, 10 Apr 2024 00:30:00 GMT</pubDate>
 </item>
-
 <item>
 <title>推荐 GitHub 上一款完全本地化的 AI 搜索集成工具 LLocalSearch。用户可以直接问一个问题，系统会通过一系列 LLM Agents 来寻找答案，无需依赖任何外部 API，如 ...</title>
 <link>https://weibo.com/5722964389/O8XwhBOt1</link>

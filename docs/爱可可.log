@@ -3957,3 +3957,21 @@ Summarized using GPT-3.5-turbo
 Append: [今日推介(第1371期)：语言模型知识容量缩放律、文本生成中语义漂移研究、基于形态学的位置编码研究、语言模型进化的迭代学习视角、基于多模态大语言模型的手机UI...](https://weibo.com/1402400261/O91c61wZd)
 append_entries: 3
 Finish: 2024-04-10 00:50:09.073803
+------------------------------------------------------
+Started: 2024-04-10 02:19:23.394714
+Existing_entries: 662
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 857
+Summarized using GPT-3.5-turbo
+Append: [【衡量语言模型的说服力】- Anthropic开发了一种基本方法来测量语言模型的说服力，并用这种方法比较了Anthropic不同版本的Claude模型(Claude 1、2和3)以及两类模...](https://weibo.com/1402400261/O923JzYQz)
+Token length: 749
+Summarized using GPT-3.5-turbo
+Append: [【Google发布CodeGemma：开源代码大模型，与生态系统无缝集成】- CodeGemma是Google基于Gemma预训练模型发布的开源代码专用LLM家族，包括2B、7B和7B指令版。 - C...](https://weibo.com/1402400261/O91XXbmqo)
+Token length: 287
+Summarized using GPT-3.5-turbo
+Append: [2B模型发布：网页链接 //@爱可可-爱生活:提出了Griffin模型，一种新型的循环神经网络，结合了门控线性循环层与局部注意力机制，实现了与Transformer相当的性能，...](https://weibo.com/1402400261/O91W53IPY)
+Token length: 842
+Summarized using GPT-3.5-turbo
+Append: [【Gemini 1.5 Pro发布：原生音频理解、100万token上下文窗口、强大API】- Gemini 1.5 Pro 模型已在180多个国家/地区通过 Gemini API 公开预览，增加了音频理解能...](https://weibo.com/1402400261/O91U94q8X)
+append_entries: 4
+Finish: 2024-04-10 02:19:46.598408

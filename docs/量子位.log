@@ -2719,3 +2719,15 @@ Existing_entries: 301
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-10 00:49:56.190052
+------------------------------------------------------
+Started: 2024-04-10 02:19:13.287119
+Existing_entries: 301
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 468
+Summarized using GPT-3.5-turbo
+Append: [#英特尔AI芯片秒杀H100# 英特尔，开始正面硬刚英伟达了。就在深夜，英特尔CEO帕特·基辛格手舞足蹈地亮出了最新AI芯片——Gaudi 3：【图1】。#英特尔发布Gaudi3#...](https://weibo.com/6105753431/O92iondX8)
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [#10秒总结视频插件# ：贾扬清免费开源 就在刚刚，贾扬清在推特上分享了用自己的插件#Elmo# 10秒就能总结 youtube 视频。包括一句话概括、摘要、主要观点等。（以...](https://weibo.com/6105753431/O92dGrwCZ)
+append_entries: 2
+Finish: 2024-04-10 02:19:22.580022
