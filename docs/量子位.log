@@ -2943,3 +2943,12 @@ Existing_entries: 341
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-11 14:10:27.269486
+------------------------------------------------------
+Started: 2024-04-11 16:12:07.831192
+Existing_entries: 341
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 346
+Summarized using GPT-3.5-turbo
+Append: [阿里巴巴高级算法专家，通义千问开源负责人林俊旸 确认参与 #中国AIGC产业峰会# ！🔥林俊旸，阿里巴巴高级算法专家，目前为通义千问开源负责人。他的研究领域...](https://weibo.com/6105753431/O9hyBaXpG)
+append_entries: 1
+Finish: 2024-04-11 16:12:17.412342
