@@ -4101,3 +4101,18 @@ Summarized using GPT-3.5-turbo
 Append: [[CL]《CodecLM: Aligning Language Models with Tailored Synthetic Data》Z Wang, C Li, V Perot, L T. Le, J Miao, Z Zhang, C Lee, T Pfister [Google Cloud ...](https://weibo.com/1402400261/O9aco5Aod)
 append_entries: 10
 Finish: 2024-04-10 22:13:06.709095
+------------------------------------------------------
+Started: 2024-04-11 00:50:42.713428
+Existing_entries: 687
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1372期)：大型语言模型也是强大的文本编码器、将语言模型与定制合成数据对齐、大型语言模型中表格数据的记忆与学习、带有中间修正和搜索的推理、Tran...](https://weibo.com/1402400261/O9aBQ7Sqz)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [[LG] Dynamical stability and chaos in artificial neural network trajectories along training 网页链接 从动态系统角度将神经网络训练轨迹动力学化，发现学...](https://weibo.com/1402400261/O9axO25Dt)
+Token length: 204
+Summarized using GPT-3.5-turbo
+Append: [[AI] Wu's Method can Boost Symbolic AI to Rival Silver Medalists and AlphaGeometry to Outperform Gold Medalists at IMO Geometry 网页链接 重新评估了吴...](https://weibo.com/1402400261/O9av62QL8)
+append_entries: 3
+Finish: 2024-04-11 00:50:58.487859
