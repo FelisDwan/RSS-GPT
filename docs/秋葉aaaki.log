@@ -1994,3 +1994,12 @@ Existing_entries: 10
 Fetching from https://rsshub.app/bilibili/user/article/12566101?mode=fulltext
 append_entries: 0
 Finish: 2024-04-11 10:12:39.977985
+------------------------------------------------------
+Started: 2024-04-11 12:19:38.777561
+Existing_entries: 10
+Fetching from https://rsshub.app/bilibili/user/article/12566101?mode=fulltext
+Token length: 787
+Summarized using GPT-3.5-turbo
+Append: [绘世启动器开发人员招募 hanamizuki.ai 花水木AI](https://www.bilibili.com/read/cv33735691/)
+append_entries: 1
+Finish: 2024-04-11 12:19:44.106225
