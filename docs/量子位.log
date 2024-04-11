@@ -2912,3 +2912,22 @@ Summarized using GPT-3.5-turbo
 Append: [AIGC新应用，到底将重塑怎样的一个新世界？现在，只需一天的时间，你就能感受到它们正在引领的科技新范式。#中国AIGC产业峰会# 举办在即 [努力] 我们将从应用层...](https://weibo.com/6105753431/O9dGxBXaY)
 append_entries: 4
 Finish: 2024-04-11 08:14:36.907134
+------------------------------------------------------
+Started: 2024-04-11 10:12:21.483751
+Existing_entries: 336
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [讲真华为真的是太懂用户了！在华为鸿蒙生态春季沟通会上，一款全新的华为MateBook X Pro正式发布。#华为新款笔记本隐藏了哪些黑科技#这款新品不仅搭载了3D超材料...](https://weibo.com/6105753431/O9eVYmYYC)
+Token length: 33
+Summarized using GPT-3.5-turbo
+Append: [#图生图新技术# 一种零样本、无需训练的图像到图像材料转移方法。[来]GitHub：网页链接 量子位的微博视频](https://weibo.com/6105753431/O9eQXvspK)
+Token length: 375
+Summarized using GPT-3.5-turbo
+Append: [#延时视频生成模型# 来自国内外几所高校的研究人员共同推出了一个新的延时视频生成模型#MagicTime#。该模型从延时视频中学习真实世界的物理知识并实现生成。具体...](https://weibo.com/6105753431/O9eJC0vTJ)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [#大模型做时序预测也很强# 大语言模型潜力被激发——无需训练大语言模型就能实现高精度时序预测，超越一切传统时序模型。来自蒙纳士大学、蚂蚁、IBM研究院提出了...](https://weibo.com/6105753431/O9eBJeFI5)
+Append: [#铃芽之旅三脚椅机器人#有点东西！来自日本东京大学的团队，复原了新海诚电影《铃芽之旅》的“三脚椅”角色。[来]论文：网页链接 量子位的微博视频](https://weibo.com/6105753431/O9evKA9b2)
+append_entries: 5
+Finish: 2024-04-11 10:12:35.498889
