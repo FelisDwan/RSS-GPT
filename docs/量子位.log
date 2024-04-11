@@ -2876,3 +2876,21 @@ Append: [#英伟达给员工发奖了#：股票激励增加25%过去一年，因
 Append: [#AI偏好随机数42# ：人类更爱37 让 ChatGPT 在 1 到 100 之间随机选择一个数字——它会选哪个？超大声 —— 42！！经过研究以及广大网友实测，除了ChatGPT，连 G...](https://weibo.com/6105753431/O9bNfDVBK)
 append_entries: 5
 Finish: 2024-04-11 04:13:10.036868
+------------------------------------------------------
+Started: 2024-04-11 06:14:39.697276
+Existing_entries: 328
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 21
+Summarized using GPT-3.5-turbo
+Append: [#乔布斯谈创业# 乔布斯：以赚钱为目的创业往往难以成功 量子位的微博视频](https://weibo.com/6105753431/O9dDmkj9N)
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [#指环王AI戒指# 韩国一家科技公司即将推出一个名为 “WIZPR RING” 的智能戒指。该戒指接入了 ChatGPT 3.5 和 Gemini，用户可通过语音完成 AI 交互。据悉，该戒...](https://weibo.com/6105753431/O9dvJ3hhV)
+Token length: 297
+Summarized using GPT-3.5-turbo
+Append: [#武大成立雷军班# 据武汉大学官方消息，2024年起将在计算机学院新设雷军班，计划招收30人。该班旨在培养具备计算机全栈工程能力与企业家创新创业品质的领军人才...](https://weibo.com/6105753431/O9dcTyOVO)
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [#MIT新辐射探测器#：受俄罗斯方块游戏启发MIT 和 LBN 实验室的科学家们最近发明了一种新型辐射探测器。它的外形设计成了简单的四极形状，就像游戏中的那些方块一...](https://weibo.com/6105753431/O9d29eSkZ)
+append_entries: 4
+Finish: 2024-04-11 06:14:59.708529

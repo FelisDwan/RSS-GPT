@@ -4131,3 +4131,21 @@ Summarized using GPT-3.5-turbo
 Append: [今日开奖，欢迎参与！ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《LangChain实战》，截至2024.4.11 12:00，*可可粉*转发+评论...](https://weibo.com/1402400261/O9biJfNam)
 append_entries: 1
 Finish: 2024-04-11 04:13:19.571427
+------------------------------------------------------
+Started: 2024-04-11 06:15:00.544150
+Existing_entries: 691
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [【Parler-TTS：开源的轻量级文本到语音（TTS）模型，可以生成高质量、自然流畅的语音，模仿给定的演讲者（性别、音高、说话风格等）】'Parler-TTS - Inference a...](https://weibo.com/1402400261/O9dsx5AMg)
+Token length: 59
+Summarized using GPT-3.5-turbo
+Append: [【用GPU分布式推理实战】《Distributed inference with multiple GPUs》 网页链接 #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O9dpQdSwp)
+Token length: 690
+Summarized using GPT-3.5-turbo
+Append: [【Meta发布下一代训练和推理加速器】- 分享了下一代Meta训练和推理加速器(MTIA)的详细信息，这是专门为Meta的AI工作负载设计的定制芯片家族。 - 最新版本与MTIA ...](https://weibo.com/1402400261/O9dnE1MkP)
+Token length: 628
+Summarized using GPT-3.5-turbo
+Append: [【Google宣布进一步扩展开源语言模型Gemma系列】 - 推出了两个新的Gemma变体模型：CodeGemma用于代码补全、生成和聊天；RecurrentGemma是一个技术不同的模型，利...](https://weibo.com/1402400261/O9djE6F9I)
+append_entries: 4
+Finish: 2024-04-11 06:15:20.341624
