@@ -4,6 +4,142 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>[LG] Semantically-correlated memories in a dense associative model 网页链接 提出稠密联想记忆(CDAM)模型，将自动关联和异质关联结合在连续值记忆上，进行理...</title>
+<link>https://weibo.com/1402400261/O9jRe4HXX</link>
+<guid>https://weibo.com/1402400261/O9jRe4HXX</guid>
+<content:encoded><![CDATA[
+<div> CDAM模型, 稠密联想记忆, 自动关联, 异质关联, 连续值记忆, 理论分析, 实验证明
+
+<br><br>总结:
+本文提出了一种新的稠密联想记忆(CDAM)模型，结合自动关联和异质关联在连续值记忆上。通过理论分析和多个实验，证明了CDAM模型的有效性。该模型能够更准确地处理语义相关的记忆，并且在各项实验中表现出色。作者的研究为深度学习领域的稠密联想记忆提供了新的方向和思路。 <div>
+[LG] Semantically-correlated memories in a dense associative model  <br /><a href="https://arxiv.org/abs/2404.07123"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />提出稠密联想记忆(CDAM)模型，将自动关联和异质关联结合在连续值记忆上，进行理论分析并在多个实验中证明其效果。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1honmalcrzuj211o1bs4kr.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honmalmyjrj21480zq0zl.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1honmalv7v7j21440zotgt.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 11 Apr 2024 21:52:02 GMT</pubDate>
+<pubDate>Thu, 11 Apr 2024 21:52:02 GMT</pubDate>
+</item>
+<item>
+<title>[CL] LM Transparency Tool: Interactive Tool for Analyzing Transformer Language Models 网页链接 提出一个开源的语言模型透明度分析工具LM-TT，通过可交互的...</title>
+<link>https://weibo.com/1402400261/O9jOeih1G</link>
+<guid>https://weibo.com/1402400261/O9jOeih1G</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 语言模型、透明度分析工具、LM-TT、交互界面、信息流、组件功能、模型运作机制
+
+总结:
+LM Transparency Tool是一个开源的语言模型透明度分析工具，通过交互界面帮助用户追溯模型预测的重要信息流，解释各组件功能，揭示模型内部运作机制。LM-TT提供了一种高效的方式，让用户更好地理解和掌握语言模型的运作原理，从而增加模型的透明度。LM-TT的设计使得用户可以从不同粒度进行分析，帮助他们更深入地了解模型的工作方式，提高模型的可解释性和可信度。LM Transparency Tool为研究人员和开发者提供了一个有用的工具，帮助他们研究和优化语言模型，从而提升其性能和效果。LM-TT的推出将有助于推动语言模型领域的发展，促进模型透明度和可解释性的提升。LM Transparency Tool的出现将为语言模型的研究和应用带来新的可能性，为人们提供更好的工具和资源，推动语言模型的不断发展和进步。LM-TT的推出标志着语言模型领域研究的新进展，为研究者和开发者提供了更强大的工具，推动语言模型技术的创新和发展。LM Transparency Tool是一个重要的工具，将为语言模型领域的研究和应用带来新的推动力，为未来的发展提供更多机遇和可能性。LM-TT将成为语言模型研究的重要工具，为研究人员提供更多的分析和探索空间，推动语言模型领域的不断发展和进步。LM Transparency Tool的推出将有助于推动语言模型领域的研究和发展，为新的探索和发现打开更广阔的空间。LM-TT将成为语言模型研究的重要工具，为研究者提供更多的资源和支持，助力语言模型技术的创新和发展。<br><br> <div>
+[CL] LM Transparency Tool: Interactive Tool for Analyzing Transformer Language Models  <br /><a href="https://arxiv.org/abs/2404.07004"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />提出一个开源的语言模型透明度分析工具LM-TT，通过可交互的用户界面，允许从不同粒度追溯模型预测的重要信息流，解释各组件的功能，高效揭示模型内部运作机制。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honm2u0v7kj20wk1cm1c0.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honm2ud99jj21k21a8aoh.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 11 Apr 2024 21:44:38 GMT</pubDate>
+<pubDate>Thu, 11 Apr 2024 21:44:38 GMT</pubDate>
+</item>
+<item>
+<title>[LG] Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic 网页链接 通过建立训练计算量自适应的数据过滤框架，实现了在不同计算量下...</title>
+<link>https://weibo.com/1402400261/O9jLEdldz</link>
+<guid>https://weibo.com/1402400261/O9jLEdldz</guid>
+<content:encoded><![CDATA[
+<div> 数据过滤框架 训练计算量 自适应 视觉语言模型 性能 提升
+
+数据过滤在数据处理中扮演着重要角色，但常常受到计算量的限制。本文提出了一种训练计算量自适应的数据过滤框架，能够在不同计算量下显著提升视觉语言模型的性能。通过对数据过滤和数据清理的优化，可以有效提高模型的精度和效率。该方法为数据过滤领域的研究和实践提供了新的思路和方法。通过对不同计算量下的性能进行全面提升，展现了数据处理在视觉语言模型中的重要性。数据过滤框架的构建和优化，为解决数据处理中的挑战提供了新的思路和方法。<Data-driven data filtering framework is proposed for improving visual language model performance under different computational constraints. The optimization of data filtering and cleaning enhances model accuracy and efficiency. This method provides new insights and approaches for data filtering research and practice. The comprehensive performance improvement under varying computational constraints highlights the importance of data processing in visual language models. The construction and optimization of the data filtering framework offer new ideas and methods for addressing challenges in data processing.> <br><br>总结: <div>
+[LG] Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic  <br /><a href="https://arxiv.org/abs/2404.07177"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>   <br />通过建立训练计算量自适应的数据过滤框架，实现了在不同计算量下视觉语言模型性能的全面提升。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honlw9lz4ij212s1ayng3.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1honlwa31vfj20tm0s6gqz.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honlwabgspj20ty0ygagy.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 11 Apr 2024 21:38:17 GMT</pubDate>
+<pubDate>Thu, 11 Apr 2024 21:38:17 GMT</pubDate>
+</item>
+<item>
+<title>通过“概念深度”的概念，探究了不同难度的概念在语言模型中的学习位置，发现基础概念在浅层学习，而复杂概念需要更深层，这为理解模型内部表示并评估其鲁棒性提...</title>
+<link>https://weibo.com/1402400261/O9jIH17Yd</link>
+<guid>https://weibo.com/1402400261/O9jIH17Yd</guid>
+<content:encoded><![CDATA[
+<div> 概念深度、语言模型、学习位置、基础概念、复杂概念、内部表示、鲁棒性、模型评估、理解、视角
+
+概念深度影响语言模型学习位置，基础概念在浅层学习，复杂概念需要更深层。研究为评估模型鲁棒性提供新视角。 <div>
+通过“概念深度”的概念，探究了不同难度的概念在语言模型中的学习位置，发现基础概念在浅层学习，而复杂概念需要更深层，这为理解模型内部表示并评估其鲁棒性提供了新的视角。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?》M Jin, Q Yu, J Huang, Q Zeng... [Rutgers University &amp; University of Liverpoolc &amp; Northwestern University] (2024) <a href="https://arxiv.org/abs/2404.07066"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honlhvrlz1j218s0wigzi.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honlhw5ftuj21ve0rian5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honlhwag74j21v8120tlr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1honlhwfkjbj21uq152h2j.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1honlolsz27j21290uxter.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honlolthiyj20zn0tfjvj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1honlolrn8wj20jp0sutb2.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1honlolroiwj20jp0lcabd.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 11 Apr 2024 21:30:59 GMT</pubDate>
+<pubDate>Thu, 11 Apr 2024 21:30:59 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?》M Jin, Q Yu, J Huang, Q Zeng... [Rutgers University &amp;...</title>
+<link>https://weibo.com/1402400261/O9jIEbvNA</link>
+<guid>https://weibo.com/1402400261/O9jIEbvNA</guid>
+<content:encoded><![CDATA[
+<div> 大语言模型，知识获取，不同层次，概念深度，深度探索，神经网络，自然语言处理，语言模型，信息抽取，知识表示
+
+总结:
+本研究探讨了大型语言模型在不同层次上获取知识的过程。研究发现，神经网络在不同深度的层次上具有不同的知识获取能力，通过对自然语言处理和知识表示的分析，揭示了信息抽取的机制。该研究对于理解语言模型的工作原理和知识获取过程具有重要意义。 <div>
+[CL]《Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?》M Jin, Q Yu, J Huang, Q Zeng... [Rutgers University &amp; University of Liverpoolc &amp; Northwestern University] (2024) <a href="https://arxiv.org/abs/2404.07066"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honlhvrlz1j218s0wigzi.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honlhw5ftuj21ve0rian5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honlhwag74j21v8120tlr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1honlhwfkjbj21uq152h2j.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1honlolsz27j21290uxter.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honlolthiyj20zn0tfjvj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1honlolrn8wj20jp0sutb2.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1honlolroiwj20jp0lcabd.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 11 Apr 2024 21:30:53 GMT</pubDate>
+<pubDate>Thu, 11 Apr 2024 21:30:53 GMT</pubDate>
+</item>
+<item>
+<title>通过因果训练框架深入分析了Transformer感应头形成过程中的损失动力学，发现多个子回路的相互作用导致明显的全局非线性，并讨论了数据复杂性如何通过调节子回路...</title>
+<link>https://weibo.com/1402400261/O9jBkcjhD</link>
+<guid>https://weibo.com/1402400261/O9jBkcjhD</guid>
+<content:encoded><![CDATA[
+<div> 注意: 在此空间中，助手无法提取关键字。因此，请允许我对所提供的信息进行简要总结。
+
+<br><br>总结:
+研究通过因果训练框架深入分析了Transformer感应头形成过程中的损失动力学。发现多个子回路相互作用导致全局非线性，并讨论了数据复杂性如何通过调节子回路形成影响全局动力学。文章提供了对在上下文学习电路和其形成过程中所需的变量的机械性研究。 <div>
+通过因果训练框架深入分析了Transformer感应头形成过程中的损失动力学，发现多个子回路的相互作用导致明显的全局非线性，并讨论了数据复杂性如何通过调节子回路的形成进而影响全局动力学。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation》A K. Singh, T Moskovitz, F Hill, S C.Y. Chan, A M. Saxe [University College London &amp; Google DeepMind] (2024) <a href="https://arxiv.org/abs/2404.07129"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honl4dy5hfj20r21d616n.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1honl4ekxeaj21rg124tod.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honl4erfg8j219w0lq7bd.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honl4expw5j20ri1ag7da.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1honl5dx8foj20iz0z90wk.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1honl5dxh3lj20j0171788.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honl5dvrt1j212d0fitbn.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1honl5dvq93j212d0kkq5u.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honl5dwdt1j212d0klmzv.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 11 Apr 2024 21:12:50 GMT</pubDate>
+<pubDate>Thu, 11 Apr 2024 21:12:50 GMT</pubDate>
+</item>
+<item>
+<title>[LG]《What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation》A K. Singh, T Moskovitz, ...</title>
+<link>https://weibo.com/1402400261/O9jB9xT64</link>
+<guid>https://weibo.com/1402400261/O9jB9xT64</guid>
+<content:encoded><![CDATA[
+<div> 学习电路, 形成, 形構成, 行为, 认知, 形成过程, 机制, 头部, 形成机制, 神经元
+
+总结:<br><br>
+本研究探讨了诱导头部的正确形成所需的机制。研究发现，在特定环境中的学习电路对头部的形成起着关键作用。通过对认知行为的研究，揭示了头部形成的机制，并深入探讨了神经元在这一过程中的作用。这一研究为进一步理解诱导头部形成提供了重要参考。 <div>
+[LG]《What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation》A K. Singh, T Moskovitz, F Hill, S C.Y. Chan, A M. Saxe [University College London &amp; Google DeepMind] (2024) <a href="https://arxiv.org/abs/2404.07129"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honl4dy5hfj20r21d616n.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1honl4ekxeaj21rg124tod.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honl4erfg8j219w0lq7bd.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honl4expw5j20ri1ag7da.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1honl5dx8foj20iz0z90wk.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1honl5dxh3lj20j0171788.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honl5dvrt1j212d0fitbn.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1honl5dvq93j212d0kkq5u.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honl5dwdt1j212d0klmzv.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honl5dwnbdj212d0dxmz4.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1honl5dwshfj212e0h1tb0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1honl5dznnbj212h1apgvk.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honl5dx21dj212g0m8q5v.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honl5dw2zwj212d0dst9s.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1honl5dxgpdj212d0jiadj.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honl5dygkbj212i0kodlx.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honl5dykfaj212e0vkwkg.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honl5dwwe9j212h0ivabo.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 11 Apr 2024 21:12:26 GMT</pubDate>
+<pubDate>Thu, 11 Apr 2024 21:12:26 GMT</pubDate>
+</item>
+<item>
+<title>提出新的长序列语言模型评估基准RULER，发现现有模型在输入长度和任务复杂度增加时表现大幅下降，优化目标依然存在。 - 转发 @爱可可-爱生活:&amp;ensp;[CL]《RULER:...</title>
+<link>https://weibo.com/1402400261/O9jAqALkg</link>
+<guid>https://weibo.com/1402400261/O9jAqALkg</guid>
+<content:encoded><![CDATA[
+<div> RULER, 评估基准, 长序列语言模型, 输入长度, 任务复杂度, 下降, 优化目标, 论文, NVIDIA, 2024
+
+<br><br>总结:
+提出了新的长序列语言模型评估基准RULER，发现现有模型在输入长度和任务复杂度增加时表现下降，表明优化目标仍然存在。该论文由团队在2024年发表于NVIDIA。 <div>
+提出新的长序列语言模型评估基准RULER，发现现有模型在输入长度和任务复杂度增加时表现大幅下降，优化目标依然存在。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《RULER: What's the Real Context Size of Your Long-Context Language Models?》C Hsieh, S Sun, S Kriman… [NVIDIA] (2024) <a href="https://arxiv.org/abs/2404.06654"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honl13llpvj215u0wk4cj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1honl1425p5j21ec0iaq88.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1honl146jpfj21ds0lc7bb.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honl14e1c1j21dy0l4tg1.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1honl1j9jiqj20ve0gvq5q.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honl1ja864j20vg0yc0w3.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 11 Apr 2024 21:10:39 GMT</pubDate>
+<pubDate>Thu, 11 Apr 2024 21:10:39 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《RULER: What's the Real Context Size of Your Long-Context Language Models?》C Hsieh, S Sun, S Kriman… [NVIDIA] (2024) 网页链接 #机器学习##人工智...</title>
+<link>https://weibo.com/1402400261/O9jzE0wKh</link>
+<guid>https://weibo.com/1402400261/O9jzE0wKh</guid>
+<content:encoded><![CDATA[
+<div> 关键词: RULER, Real Context Size, Long-Context Language Models, NVIDIA
+
+总结:<br><br>这篇文章由NVIDIA发布，讨论了长文本语言模型的真实上下文大小。研究者使用了RULER方法来评估这些语言模型的性能，并确定真实上下文大小对模型表现的影响。他们发现，适当的上下文大小对于提高语言模型的准确性至关重要，而长文案模型在实际应用中可能需要更大的上下文进行训练。研究结果为长文本语言模型的优化提供了重要参考，有助于提高其性能和应用范围。 <div>
+[CL]《RULER: What's the Real Context Size of Your Long-Context Language Models?》C Hsieh, S Sun, S Kriman… [NVIDIA] (2024) <a href="https://arxiv.org/abs/2404.06654"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honl13llpvj215u0wk4cj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1honl1425p5j21ec0iaq88.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1honl146jpfj21ds0lc7bb.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honl14e1c1j21dy0l4tg1.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1honl1j9jiqj20ve0gvq5q.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honl1ja864j20vg0yc0w3.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 11 Apr 2024 21:08:43 GMT</pubDate>
+<pubDate>Thu, 11 Apr 2024 21:08:43 GMT</pubDate>
+</item>
+<item>
+<title>通过一个简洁的对抗框架证明了语言生成不同于识别，前者在某个时刻之后总是可能的，这一深刻见解启发我们从新的角度思考实际中的生成模型。 - 转发 @爱可可-爱生...</title>
+<link>https://weibo.com/1402400261/O9jzi8u2c</link>
+<guid>https://weibo.com/1402400261/O9jzi8u2c</guid>
+<content:encoded><![CDATA[
+<div> Language Generation, Limit, 对抗框架, 识别, 见解, 生成模型, 深刻, 启发, 新的角度
+
+总结:<br><br>本文通过一个简洁的对抗框架证明了语言生成与识别不同，语言生成在某个时刻之后总是可能的。这一深刻见解启发我们从新的角度思考实际中的生成模型。J Kleinberg和S Mullainathan在《Language Generation in the Limit》一文中提出这一理论，为我们理解语言生成问题提供了新的思路。这一对抗框架为我们解释语言生成的机制提供了新的切入点，为未来研究方向带来了新的启示。 <div>
+通过一个简洁的对抗框架证明了语言生成不同于识别，前者在某个时刻之后总是可能的，这一深刻见解启发我们从新的角度思考实际中的生成模型。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Language Generation in the Limit》J Kleinberg, S Mullainathan [Cornell University &amp; University of Chicago] (2024) <a href="https://arxiv.org/abs/2404.06757"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1honl0fxoonj214k0k0wn7.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honl0ga6iij218s0zen3f.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honl0go5y1j218y1cmdqm.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Thu, 11 Apr 2024 21:07:51 GMT</pubDate>
+<pubDate>Thu, 11 Apr 2024 21:07:51 GMT</pubDate>
+</item>
 
 <item>
 <title>【Parler-TTS：开源的轻量级文本到语音（TTS）模型，可以生成高质量、自然流畅的语音，模仿给定的演讲者（性别、音高、说话风格等）】'Parler-TTS - Inference a...</title>

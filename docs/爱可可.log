@@ -4194,3 +4194,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O9gUP73k7)
 append_entries: 0
 Finish: 2024-04-11 20:11:19.846102
+------------------------------------------------------
+Started: 2024-04-11 22:10:13.913839
+Existing_entries: 695
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [[LG] Semantically-correlated memories in a dense associative model 网页链接 提出稠密联想记忆(CDAM)模型，将自动关联和异质关联结合在连续值记忆上，进行理...](https://weibo.com/1402400261/O9jRe4HXX)
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [[CL] LM Transparency Tool: Interactive Tool for Analyzing Transformer Language Models 网页链接 提出一个开源的语言模型透明度分析工具LM-TT，通过可交互的...](https://weibo.com/1402400261/O9jOeih1G)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [[LG] Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic 网页链接 通过建立训练计算量自适应的数据过滤框架，实现了在不同计算量下...](https://weibo.com/1402400261/O9jLEdldz)
+Token length: 300
+Summarized using GPT-3.5-turbo
+Append: [通过“概念深度”的概念，探究了不同难度的概念在语言模型中的学习位置，发现基础概念在浅层学习，而复杂概念需要更深层，这为理解模型内部表示并评估其鲁棒性提...](https://weibo.com/1402400261/O9jIH17Yd)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?》M Jin, Q Yu, J Huang, Q Zeng... [Rutgers University &...](https://weibo.com/1402400261/O9jIEbvNA)
+Token length: 334
+Summarized using GPT-3.5-turbo
+Append: [通过因果训练框架深入分析了Transformer感应头形成过程中的损失动力学，发现多个子回路的相互作用导致明显的全局非线性，并讨论了数据复杂性如何通过调节子回路...](https://weibo.com/1402400261/O9jBkcjhD)
+Token length: 233
+Summarized using GPT-3.5-turbo
+Append: [[LG]《What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation》A K. Singh, T Moskovitz, ...](https://weibo.com/1402400261/O9jB9xT64)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [提出新的长序列语言模型评估基准RULER，发现现有模型在输入长度和任务复杂度增加时表现大幅下降，优化目标依然存在。 - 转发 @爱可可-爱生活:&ensp;[CL]《RULER:...](https://weibo.com/1402400261/O9jAqALkg)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [[CL]《RULER: What's the Real Context Size of Your Long-Context Language Models?》C Hsieh, S Sun, S Kriman… [NVIDIA] (2024) 网页链接 #机器学习##人工智...](https://weibo.com/1402400261/O9jzE0wKh)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [通过一个简洁的对抗框架证明了语言生成不同于识别，前者在某个时刻之后总是可能的，这一深刻见解启发我们从新的角度思考实际中的生成模型。 - 转发 @爱可可-爱生...](https://weibo.com/1402400261/O9jzi8u2c)
+append_entries: 10
+Finish: 2024-04-11 22:10:58.363206
