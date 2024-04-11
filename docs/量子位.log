@@ -2857,3 +2857,22 @@ Existing_entries: 323
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-11 02:20:46.662440
+------------------------------------------------------
+Started: 2024-04-11 04:12:56.111582
+Existing_entries: 323
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [#Meta下一代推理芯片# Meta 发布其训练与推理加速器项目（MTIA）的最新版本定制芯片。据悉，新一代 MTIA 芯片将比第一代性能提升 3 倍。新一代芯片具备 256MB 的...](https://weibo.com/6105753431/O9cQJoPun)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [#音乐版Sora免费开放# ：每人每月可生成1200首歌曲多位博主神秘内测的音乐 AI 最近终于揭晓了~#Udio#众人之前纷纷表示它比 Suno 好上 2 倍。Udio 由前 Google De...](https://weibo.com/6105753431/O9cFB8NEI)
+Token length: 559
+Summarized using GPT-3.5-turbo
+Append: [#DeepMind推出足球智能体# DeepMind 推出具身智能“足球运动员”，在视频中，它们能过人、射门、防守，肢体看起来相当灵活~【图1】这项新成果被发表在 Science ...](https://weibo.com/6105753431/O9cr4rXPR)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [#英伟达给员工发奖了#：股票激励增加25%过去一年，因芯片狠赚了一波的英伟达准备给员工发奖励了。据悉，英伟达正在通过一项名为 “Jensen 特别补助金” 的计划，...](https://weibo.com/6105753431/O9c7rk6oE)
+Append: [#AI偏好随机数42# ：人类更爱37 让 ChatGPT 在 1 到 100 之间随机选择一个数字——它会选哪个？超大声 —— 42！！经过研究以及广大网友实测，除了ChatGPT，连 G...](https://weibo.com/6105753431/O9bNfDVBK)
+append_entries: 5
+Finish: 2024-04-11 04:13:10.036868
