@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【Parler-TTS：开源的轻量级文本到语音（TTS）模型，可以生成高质量、自然流畅的语音，模仿给定的演讲者（性别、音高、说话风格等）】'Parler-TTS - Inference a...</title>
 <link>https://weibo.com/1402400261/O9dsx5AMg</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> 开源、轻量级、文本到语音、TTS模型、高质量、自然流畅、模仿、演讲者、性别、音高
 
-总结:<br><br>Parler-TTS是一款开源的轻量级文本到语音（TTS）模型，旨在生成高质量、自然流畅的语音，并能模仿给定演讲者的特征，如性别、音高和说话风格。该模型具有训练和推断功能，可在GitHub上找到其源代码。Parler-TTS的出现为语音合成技术的进步提供了新的可能性，为用户提供了更加个性化、高质量的语音合成体验。 <div>
+总结:<br /><br />Parler-TTS是一款开源的轻量级文本到语音（TTS）模型，旨在生成高质量、自然流畅的语音，并能模仿给定演讲者的特征，如性别、音高和说话风格。该模型具有训练和推断功能，可在GitHub上找到其源代码。Parler-TTS的出现为语音合成技术的进步提供了新的可能性，为用户提供了更加个性化、高质量的语音合成体验。 <div>
 【Parler-TTS：开源的轻量级文本到语音（TTS）模型，可以生成高质量、自然流畅的语音，模仿给定的演讲者（性别、音高、说话风格等）】'Parler-TTS - Inference and training library for high-quality TTS models.' GitHub: github.com/huggingface/parler-tts <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8homu1poyc8j20z30u0443.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Thu, 11 Apr 2024 05:34:43 GMT</pubDate>
 <pubDate>Thu, 11 Apr 2024 05:34:43 GMT</pubDate>
 </item>
 <item>
@@ -24,13 +24,12 @@
 <content:encoded><![CDATA[
 <div> 分布式推理、GPU、多个GPU、深度学习、模型推理、性能优化、数据并行、模型并行
 
-<br>
+<br />
 本文介绍了如何利用多个GPU进行分布式推理的方法。首先讨论了在深度学习中模型推理的重要性，以及如何利用GPU来加速推理过程。然后介绍了利用多个GPU进行分布式推理的优势和挑战，主要涉及数据并行和模型并行两种方式。接着详细介绍了如何利用数据并行和模型并行实现分布式推理，并提供了相应的代码示例。最后讨论了如何优化性能，包括减少通信开销、调整batch size、使用多线程等方法。通过本文的学习，读者可以了解如何利用多个GPU进行高效的分布式推理，提升深度学习模型的推理速度和性能。
 
-<br><br>总结:本文介绍了利用多个GPU进行分布式推理的方法，讨论了数据并行和模型并行的优势和挑战，提供了代码示例，并讨论了性能优化的方法。通过本文的学习，读者可以提升深度学习模型的推理速度和性能。 <div>
+<br /><br />总结:本文介绍了利用多个GPU进行分布式推理的方法，讨论了数据并行和模型并行的优势和挑战，提供了代码示例，并讨论了性能优化的方法。通过本文的学习，读者可以提升深度学习模型的推理速度和性能。 <div>
 【用GPU分布式推理实战】《Distributed inference with multiple GPUs》 <a href="https://huggingface.co/docs/diffusers/main/en/training/distributed_inference"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8homtut6db4j21020u078q.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Thu, 11 Apr 2024 05:28:05 GMT</pubDate>
 <pubDate>Thu, 11 Apr 2024 05:28:05 GMT</pubDate>
 </item>
 <item>
@@ -40,10 +39,9 @@
 <content:encoded><![CDATA[
 <div> 加速器、Meta、训练、推理、AI工作负载、性能提升、广告排名、推荐模型、基础设施、芯片家族
 
-总结:<br><br>Meta发布了下一代训练和推理加速器(MTIA)，专为其AI工作负载设计。新版本相比之前有显着性能提升，支持广告排名和推荐模型。MTIA是Meta不断增长的AI基础设施投资的一部分，将为产品和服务带来新体验。新一代Meta基础设施以AI为中心，支持新产品、推荐系统和AI研究。MTIA v1是首款自主设计的AI推理加速器，提升深度学习推荐模型体验。新版本提升了计算性能和内存带宽，保持高度耦合。MTIA在计算、内存带宽和内存容量上平衡，是构建支持AI工作负载的核心基础设施。Meta正在扩展MTIA范围，包括支持GenAI工作负载。MTIA已部署在数据中心，服务模型并投入更多计算能力。 <div>
+总结:<br /><br />Meta发布了下一代训练和推理加速器(MTIA)，专为其AI工作负载设计。新版本相比之前有显着性能提升，支持广告排名和推荐模型。MTIA是Meta不断增长的AI基础设施投资的一部分，将为产品和服务带来新体验。新一代Meta基础设施以AI为中心，支持新产品、推荐系统和AI研究。MTIA v1是首款自主设计的AI推理加速器，提升深度学习推荐模型体验。新版本提升了计算性能和内存带宽，保持高度耦合。MTIA在计算、内存带宽和内存容量上平衡，是构建支持AI工作负载的核心基础设施。Meta正在扩展MTIA范围，包括支持GenAI工作负载。MTIA已部署在数据中心，服务模型并投入更多计算能力。 <div>
 【Meta发布下一代训练和推理加速器】<br />- 分享了下一代Meta训练和推理加速器(MTIA)的详细信息，这是专门为Meta的AI工作负载设计的定制芯片家族。   <br />- 最新版本与MTIA v1相比有显着的性能提升，可以支持Meta的广告排名和推荐模型。   <br />- MTIA是对AI基础设施投资不断增长的一部分，将与现有和未来的AI基础设施相辅相成，为Meta的产品和服务带来新的更好的体验。   <br />- 新一代Meta大规模基础设施的设计以AI为中心，包括支持新的生成AI(GenAI)产品和服务、推荐系统以及先进的AI研究。   <br />- MTIA v1是Meta首款针对其AI推理工作负载自主设计的AI推理加速器，专门用于提升产品中的各种体验的深度学习推荐模型。   <br />- 新版本MTIA相比之前的解决方案提升了2倍以上的计算性能和内存带宽，并保持了与工作负载的高度耦合。它被设计来高效服务为用户提供高质量推荐的排名和推荐模型。   <br />- 该芯片架构的核心是在计算、内存带宽和内存容量之间提供适合服务排名和推荐模型的正确平衡。   <br />- MTIA将是Meta长期规划中构建和扩展支持其独特AI工作负载所需的最强大和最高效基础设施的重要组成部分。   <br />- Meta当前正在进行多个旨在扩展MTIA范围的项目，包括支持GenAI工作负载。   <br />- MTIA已经部署到数据中心，现在正在生产环境中服务模型。它正如预期的那样，允许其为更密集的AI工作负载投入和投资更多计算能力。<br />《Our next generation Meta Training and Inference Accelerator》 <a href="https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8homtolwiphj20p40p4gnj.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Thu, 11 Apr 2024 05:22:40 GMT</pubDate>
 <pubDate>Thu, 11 Apr 2024 05:22:40 GMT</pubDate>
 </item>
 <item>
@@ -53,14 +51,12 @@
 <content:encoded><![CDATA[
 <div> Gemma, 扩展, 开源, 语言模型, CodeGemma, RecurrentGemma, 高性能, 高效率, 负责任AI设计, Kaggle
 
-<br><br>总结:
+<br /><br />总结:
 Google宣布进一步扩展开源语言模型Gemma系列，推出了两个新的模型：CodeGemma和RecurrentGemma。其中，CodeGemma包括针对代码补全、生成和聊天的不同变体，支持多种编程语言，并有高参数预训练模型可供选择。RecurrentGemma则是一种技术不同的模型，利用RNN和本地注意力来提高内存效率，展示了非Transformer的高性能模型。这些模型秉承Gemma原则，提供高性能和效率，支持负责任的AI设计，并对所有人开放可用。同时，Gemma 1.1版本也发布了，包括性能改进和缺陷修复，使用条款也进行了更新。这些模型已在Kaggle、Hugging Face、Vertex AI Model Garden等平台上线，为开发者和研究者提供了更大灵活性。 <div>
 【Google宣布进一步扩展开源语言模型Gemma系列】<br /> - 推出了两个新的Gemma变体模型：CodeGemma用于代码补全、生成和聊天；RecurrentGemma是一个技术不同的模型，利用RNN和本地注意力来提高内存效率。   <br />- CodeGemma有3个变体：一个7B的参数预训练模型，专门用于代码补全和生成；一个7B的参数模型，针对代码聊天和指令理解进行了调优；一个2B参数的预训练模型，支持本地部署。CodeGemma对代码语义理解更准确，支持多种编程语言。   <br />- RecurrentGemma虽然性能与Gemma 2B类似，但其特殊的架构降低了内存需求，支持更长文本生成，也支持更高的吞吐量。它展示了一个非Transformer的高性能模型，对深度学习研究有启发意义。   <br />- 新模型贯彻了Gemma的原则，对所有人开放可用，提供高性能和效率，实现负责任的AI设计，支持各种软硬件部署。   <br />- Gemma 1.1也发布了，包括性能改进、缺陷修复等。使用条款也进行了更新，提供更大灵活性。   <br />- 这些模型现已在Kaggle、Hugging Face、Vertex AI Model Garden等平台上线，文中提供了各种获取和试用指南。<br />《Gemma Family Expands with Models Tailored for Developers and Researchers - Google for Developers》 <a href="https://developers.googleblog.com/2024/04/gemma-family-expands.html"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8homteueg9ij218g0p077w.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8homtesdv57j218g0p0acv.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Thu, 11 Apr 2024 05:12:49 GMT</pubDate>
-<pubDate>Thu, 11 Apr 2024 05:12:49 GMT</pubDate>
 </item>
-
 <item>
 <title>今日开奖，欢迎参与！ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《LangChain实战》，截至2024.4.11 12:00，*可可粉*转发+评论...</title>
 <link>https://weibo.com/1402400261/O9biJfNam</link>

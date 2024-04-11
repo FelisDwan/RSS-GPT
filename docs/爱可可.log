@@ -4149,3 +4149,9 @@ Summarized using GPT-3.5-turbo
 Append: [【Google宣布进一步扩展开源语言模型Gemma系列】 - 推出了两个新的Gemma变体模型：CodeGemma用于代码补全、生成和聊天；RecurrentGemma是一个技术不同的模型，利...](https://weibo.com/1402400261/O9djE6F9I)
 append_entries: 4
 Finish: 2024-04-11 06:15:20.341624
+------------------------------------------------------
+Started: 2024-04-11 08:14:37.764336
+Existing_entries: 695
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-11 08:14:37.950531
