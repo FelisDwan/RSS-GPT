@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>今日推介(第1372期)：大型语言模型也是强大的文本编码器、将语言模型与定制合成数据对齐、大型语言模型中表格数据的记忆与学习、带有中间修正和搜索的推理、Tran...</title>
 <link>https://weibo.com/1402400261/O9aBQ7Sqz</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> 文本编码器、定制合成数据、表格数据记忆、推理、可解释性、Transformer、RNN
 
-大型语言模型在文本编码和处理上展现出了强大的能力，可以作为优秀的文本编码器。同时，将语言模型与定制合成数据对齐可以提高模型性能和适用范围。在大型语言模型中，对表格数据的记忆与学习是一个关键挑战，需要进一步探索和改进。在推理过程中，结合中间修正和搜索可以提高推理的准确性和效率。虽然Transformer具有很好的可解释性，但是其是否可以迁移到RNN等其他模型仍需要进行深入研究。总之，大型语言模型在各个方面的应用和改进都有很多潜力和挑战，需要不断探索和完善。<br><br>总结: 大型语言模型展现出强大的文本编码能力，但仍需进一步改进表格数据记忆和推理过程，同时需要研究Transformer可解释性迁移到其他模型的可能性。 <div>
+大型语言模型在文本编码和处理上展现出了强大的能力，可以作为优秀的文本编码器。同时，将语言模型与定制合成数据对齐可以提高模型性能和适用范围。在大型语言模型中，对表格数据的记忆与学习是一个关键挑战，需要进一步探索和改进。在推理过程中，结合中间修正和搜索可以提高推理的准确性和效率。虽然Transformer具有很好的可解释性，但是其是否可以迁移到RNN等其他模型仍需要进行深入研究。总之，大型语言模型在各个方面的应用和改进都有很多潜力和挑战，需要不断探索和完善。<br /><br />总结: 大型语言模型展现出强大的文本编码能力，但仍需进一步改进表格数据记忆和推理过程，同时需要研究Transformer可解释性迁移到其他模型的可能性。 <div>
 今日推介(第1372期)：大型语言模型也是强大的文本编码器、将语言模型与定制合成数据对齐、大型语言模型中表格数据的记忆与学习、带有中间修正和搜索的推理、Transformer的可解释性能否迁移到RNN 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/691823619"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8homhgd1sy8j21ke0ni7aq.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8homhgh3bpbj21d10u0k17.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8homhgks2srj21ce0pm0xb.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8homhgngpsbj20u0153n44.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8homhgqkr2kj20ji1ak0w5.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 10 Apr 2024 22:19:23 GMT</pubDate>
 <pubDate>Wed, 10 Apr 2024 22:19:23 GMT</pubDate>
 </item>
 <item>
@@ -22,13 +22,12 @@
 <link>https://weibo.com/1402400261/O9axO25Dt</link>
 <guid>https://weibo.com/1402400261/O9axO25Dt</guid>
 <content:encoded><![CDATA[
-<div> 动态系统、神经网络、训练、动力学、稳定性、学习率调节、复杂动力学行为、有效学习<br>
-<br>
-<br>
+<div> 动态系统、神经网络、训练、动力学、稳定性、学习率调节、复杂动力学行为、有效学习<br />
+<br />
+<br />
 总结: 本文从动态系统角度研究了神经网络训练轨迹的稳定性和混沌性，发现在学习率调节过程中会产生复杂的动力学行为。在稳定性边缘，神经网络的训练可以获得有效的学习。这一研究揭示了神经网络训练过程中的动力学特性，为提高神经网络训练效果提供了新的视角和方法。 <div>
 [LG] Dynamical stability and chaos in artificial neural network trajectories along training  <br /><a href="https://arxiv.org/abs/2404.05782"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />从动态系统角度将神经网络训练轨迹动力学化，发现学习率调节能引发复杂动力学行为，在稳定性边缘可获得有效学习。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1homh6ep3f0j210s11awpu.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homh6f2q58j21ki0taq83.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homh6fi14vj21nk0rw483.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 10 Apr 2024 22:09:28 GMT</pubDate>
 <pubDate>Wed, 10 Apr 2024 22:09:28 GMT</pubDate>
 </item>
 <item>
@@ -38,13 +37,11 @@
 <content:encoded><![CDATA[
 <div> 关键词: 吴氏法、Symbolic AI、AlphaGeometry、IMO几何、自动定理证明
 
-总结:<br><br>在重新评估了吴氏法在奥数几何题目上的表现后发现，其表现意外强大，并与现代方法如AlphaGeometry形成互补，为几何自动定理证明建立了全新的最优结果。 Wu's Method能提升Symbolic AI的实力，使其能够与奥数几何比赛的银牌得主一较高下，同时AlphaGeometry方法在IMO几何方面表现优异，超过金牌得主的水平。这些发现为提高几何自动证明的技术水平提供了新的方向和可能性。 <div>
+总结:<br /><br />在重新评估了吴氏法在奥数几何题目上的表现后发现，其表现意外强大，并与现代方法如AlphaGeometry形成互补，为几何自动定理证明建立了全新的最优结果。 Wu's Method能提升Symbolic AI的实力，使其能够与奥数几何比赛的银牌得主一较高下，同时AlphaGeometry方法在IMO几何方面表现优异，超过金牌得主的水平。这些发现为提高几何自动证明的技术水平提供了新的方向和可能性。 <div>
 [AI] Wu's Method can Boost Symbolic AI to Rival Silver Medalists and AlphaGeometry to Outperform Gold Medalists at IMO Geometry  <br /><a href="https://arxiv.org/abs/2404.06405"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>       <br />重新评估了吴氏法在奥数几何题目上的表现，发现其意外强大，与AlphaGeometry等现代方法形成互补，为几何自动定理证明再次建立了全新的最优结果。<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1homgzh25yfj210c19ak8t.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1homgzh9yf9j21dw0xudnk.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 10 Apr 2024 22:02:47 GMT</pubDate>
-<pubDate>Wed, 10 Apr 2024 22:02:47 GMT</pubDate>
 </item>
-
 <item>
 <title>[CV] Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences 网页链接 提出MicKey方法，利用预测单张图像的3D关键点坐标实现无需外部深...</title>
 <link>https://weibo.com/1402400261/O9asko3AR</link>
