@@ -2159,3 +2159,12 @@ Existing_entries: 49
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-04-12 00:50:58.012570
+------------------------------------------------------
+Started: 2024-04-12 02:22:45.805077
+Existing_entries: 49
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 284
+Summarized using GPT-3.5-turbo
+Append: [仅用 1000 行代码训练出 GPT-2！前特斯拉 Autopilot 负责人、OpenAI 科学家 Andrej Karpathy 开源了一个仅用 1000 行代码即可在 CPU/fp32 上实现 GPT-2 训练的项...](https://weibo.com/5722964389/O9kTljRWK)
+append_entries: 1
+Finish: 2024-04-12 02:22:54.162646

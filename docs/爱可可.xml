@@ -4,19 +4,19 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>今日推介(第1373期)：基于Infini-attention的高效无限上下文Transformer、极限中的语言生成、长上下文语言模型的上下文实际有多长、上下文学习回路及其形成机制...</title>
 <link>https://weibo.com/1402400261/O9jZL8hC5</link>
 <guid>https://weibo.com/1402400261/O9jZL8hC5</guid>
 <content:encoded><![CDATA[
-<div> 高效、无限上下文Transformer、Infini-attention、极限中、语言生成、长上下文、语言模型、上下文实际长度、上下文学习回路、形成机制研究<br>
-<br>
-上下文学习回路及其形成机制研究、基于Infini-attention的高效无限上下文Transformer、极限中的语言生成、长上下文语言模型的上下文实际有多长、大型语言模型如何用不同层获取知识<br>
-<br>
+<div> 高效、无限上下文Transformer、Infini-attention、极限中、语言生成、长上下文、语言模型、上下文实际长度、上下文学习回路、形成机制研究<br />
+<br />
+上下文学习回路及其形成机制研究、基于Infini-attention的高效无限上下文Transformer、极限中的语言生成、长上下文语言模型的上下文实际有多长、大型语言模型如何用不同层获取知识<br />
+<br />
 总结:本文探讨了基于Infini-attention的高效无限上下文Transformer，研究了语言生成在极限情况下的表现，分析了长上下文语言模型中实际上下文的长度，探讨了上下文学习回路及其形成机制。同时，还讨论了大型语言模型如何利用不同层获取知识。通过这些研究，可以更好地理解和应用在自然语言处理领域中的语言模型和上下文处理技术。 <div>
 今日推介(第1373期)：基于Infini-attention的高效无限上下文Transformer、极限中的语言生成、长上下文语言模型的上下文实际有多长、上下文学习回路及其形成机制研究、大型语言模型如何用不同层获取知识 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/692028746"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8honmw71diaj20ts130aee.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8honmw9golhj211z0u00x5.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8honmwbu8w5j21ds0lcdl1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8honmwehdnwj21dx0u0aid.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8honmwgudfrj221i0u0dpz.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Thu, 11 Apr 2024 22:13:03 GMT</pubDate>
 <pubDate>Thu, 11 Apr 2024 22:13:03 GMT</pubDate>
 </item>
 <item>
@@ -31,9 +31,7 @@
 [CV] RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion  <br /><a href="https://arxiv.org/abs/2404.07199"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>       <br />通过结合图像填充和深度差分模型的知识蒸馏，提出一种文本到3D场景生成的新方法，可以产生具有视差的高保真3D场景。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1honmomvibqj212c1ccdwt.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honmon71nkj21fy0i8tft.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1honmonitkpj21gg0vothi.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Thu, 11 Apr 2024 22:05:32 GMT</pubDate>
-<pubDate>Thu, 11 Apr 2024 22:05:32 GMT</pubDate>
 </item>
-
 <item>
 <title>[LG] Semantically-correlated memories in a dense associative model 网页链接 提出稠密联想记忆(CDAM)模型，将自动关联和异质关联结合在连续值记忆上，进行理...</title>
 <link>https://weibo.com/1402400261/O9jRe4HXX</link>

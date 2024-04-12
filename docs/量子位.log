@@ -2976,3 +2976,22 @@ Existing_entries: 342
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-12 00:50:46.915252
+------------------------------------------------------
+Started: 2024-04-12 02:22:28.077901
+Existing_entries: 342
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 412
+Summarized using GPT-3.5-turbo
+Append: [#苹果M4芯片有望年底推出##苹果市值一夜暴涨8113亿# 苹果酝酿重大升级！拟借助 AI 彻底改造 Mac 产品线。为提振低迷的电脑业务，苹果将在新的 Mac 配置具备 AI ...](https://weibo.com/6105753431/O9lujCIvW)
+Token length: 69
+Summarized using GPT-3.5-turbo
+Append: [【#音乐版Sora免费开放#】“音乐版Sora”Udio免费开放！一句话就能生成任意曲风、任意语言的音乐，每人每月能生成1200首歌曲，以后人人都是音乐大师了。 量子位...](https://weibo.com/6105753431/O9lsc9j0I)
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [中国人民大学高瓴人工智能学院教授，博士生导师卢志武 确认参与 #中国AIGC产业峰会# ！🔥卢志武，2005年毕业于北京大学数学科学学院信息科学系，获理学硕士学...](https://weibo.com/6105753431/O9lg5ivIv)
+Token length: 374
+Summarized using GPT-3.5-turbo
+Append: [#HumaneAIPin拉跨了# 科技公司 Humane 宣布，其全球首款可穿戴人工智能计算机 Ai Pin 现已在美国市场推出。 Ai Pin 目标是取代手机，通过 AI 重塑用户搜索、记笔...](https://weibo.com/6105753431/O9lfAxr4z)
+Append: [#吴恩达加入亚马逊董事会# 为进一步发展人工智能业务，亚马逊新任命吴恩达为董事会成员。吴恩达在机器学习、机器人技术等领域撰写或合著了超过 200 篇研究论文，...](https://weibo.com/6105753431/O9kU2aIzU)
+append_entries: 5
+Finish: 2024-04-12 02:22:44.358933
