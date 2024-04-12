@@ -4,21 +4,20 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+
 <item>
 <title>仅用 1000 行代码训练出 GPT-2！前特斯拉 Autopilot 负责人、OpenAI 科学家 Andrej Karpathy 开源了一个仅用 1000 行代码即可在 CPU/fp32 上实现 GPT-2 训练的项...</title>
 <link>https://weibo.com/5722964389/O9kTljRWK</link>
 <guid>https://weibo.com/5722964389/O9kTljRWK</guid>
 <content:encoded><![CDATA[
 <div> 1000行代码，GPT-2，Andrej Karpathy，llm.c，Autopilot，OpenAI，CPU/fp32，纯C语言，CUDA，LayerNorm
-<br>
-前特斯拉 Autopilot 负责人、OpenAI科学家Andrej Karpathy开源了一个仅用1000行代码即可在CPU/fp32上实现GPT-2训练的项目llm.c。该项目使用纯C语言/CUDA，不需要大型的PyTorch或cPython。此项目提供了处理LayerNorm的教程，开源三天就获得11.2k Star，展现出其强大吸引力。大家可以学习研究这个项目，了解如何训练GPT-2。Karpathy的llm.c项目展示了简化LLM训练的方法，极大地简化了GPT-2训练的过程，是一个非常值得关注的开源项目。<br><br> 
+<br />
+前特斯拉 Autopilot 负责人、OpenAI科学家Andrej Karpathy开源了一个仅用1000行代码即可在CPU/fp32上实现GPT-2训练的项目llm.c。该项目使用纯C语言/CUDA，不需要大型的PyTorch或cPython。此项目提供了处理LayerNorm的教程，开源三天就获得11.2k Star，展现出其强大吸引力。大家可以学习研究这个项目，了解如何训练GPT-2。Karpathy的llm.c项目展示了简化LLM训练的方法，极大地简化了GPT-2训练的过程，是一个非常值得关注的开源项目。<br /><br /> 
 总结:前特斯拉 Autopilot 负责人、OpenAI科学家Andrej Karpathy开源了llm.c项目，提供了纯C语言/CUDA实现GPT-2训练的方法，无需PyTorch和cPython且不需大量代码，项目获得11.2k Star。	llm.c项目简化了训练过程，为学习GPT-2的人提供了有价值的资源。 <div>
 仅用 1000 行代码训练出 GPT-2！<br /><br />前特斯拉 Autopilot 负责人、OpenAI 科学家 Andrej Karpathy 开源了一个仅用 1000 行代码即可在 CPU/fp32 上实现 GPT-2 训练的项目 llm.c。<br /><br />GitHub：github.com/karpathy/llm.c<br /><br />旨在让 LLM 训练变得简单，使用的是纯 C 语言 / CUDA，不需要 245MB 的 PyTorch 或 107MB 的 cPython，还附上了如何处理 LayerNorm 的教程。<br /><br />项目开源三天就狂揽 11.2k Star！足够说明牛逼！感兴趣的可以研究学习下。<img src="https://tvax1.sinaimg.cn/large/006fiYtfgy1honcvul5rgj30xw0lcqkj.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 12 Apr 2024 00:30:00 GMT</pubDate>
-<pubDate>Fri, 12 Apr 2024 00:30:00 GMT</pubDate>
 </item>
-
 <item>
 <title>分享在 GitHub 上的一套 macOS 系统实现微信双开的方案。项目详细介绍了如何利用自动操作工具将脚本打包，实现一键启动第二个微信，无需通过打开终端输入命令。...</title>
 <link>https://weibo.com/5722964389/O96yqiSQs</link>
