@@ -4314,3 +4314,22 @@ Existing_entries: 717
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-12 14:10:32.792443
+------------------------------------------------------
+Started: 2024-04-12 16:13:27.318354
+Existing_entries: 717
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O9qsJtt2Y)
+Token length: 20
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(4.12)》 爱可可微博热门分享(4.12) [图片]](https://weibo.com/1402400261/O9qsCEvRE)
+Token length: 2172
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking》(NAACL 2024) GitHub: github.com/stanfo...](https://weibo.com/1402400261/O9pse4L6U)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [【Narwhals：轻量可扩展的数据框架兼容层，支持 Polars、pandas、cuDF、Modin 等多种数据框架】'Narwhals - Lightweight and extensible compatibility layer be...](https://weibo.com/1402400261/O9prl9em4)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [【ADS-B Massive Visualizer：ADS-B 航班数据的交互式可视化和分析】'ADS-B Massive Visualizer - Interactive visualization and analytics on ADS-B data with...](https://weibo.com/1402400261/O9pqL7mwe)
+append_entries: 4
+Finish: 2024-04-12 16:13:56.259537
