@@ -3001,3 +3001,22 @@ Existing_entries: 347
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-12 04:13:09.750037
+------------------------------------------------------
+Started: 2024-04-12 06:14:47.607489
+Existing_entries: 347
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 236
+Summarized using GPT-3.5-turbo
+Append: [#OpenAI开放GPT4Turbo# 就在今天，OpenAI 宣布其新 GPT-4 Turbo 模型向 ChatGPT 付费用户开放了。 GPT-4 Turbo 知识库更新至 2024 年 4 月，上下文长度仍为128K...](https://weibo.com/6105753431/O9mZxmM2u)
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [#2028年75%的程序员将用AI编程# 市场调查机构 Gartner 预测，到2028年，75% 的企业软件工程师将使用AI代码助手。而在去年，这一比例不足 10%。以上预测基于 2023...](https://weibo.com/6105753431/O9mQEyQWu)
+Token length: 592
+Summarized using GPT-3.5-turbo
+Append: [#李彦宏首谈文心大模型开源问题#闭源才有真正的商业模式 李彦宏最近在一次内部讲话中首次分享了对一些业界焦点话题的看法。包括大模型开源与闭源的路线选择，以...](https://weibo.com/6105753431/O9mrODCfu)
+Token length: 275
+Summarized using GPT-3.5-turbo
+Append: [#国外大神0经验两周搞出CPU#下一步是GPU在没有任何经验的情况下，国外一位工程师从零开始设计出了 CPU，而且用时仅两周。这位工程师名为 Adam Majmudar ，他一开...](https://weibo.com/6105753431/O9m6ZDlhU)
+Append: [#OpenAI疑似爬取内容农场训练AI# 尴尬了，OpenAI 被曝在训练 AI 时，错误爬取了一个内容农场网站，导致大量请求。爆料的网友声称，OpenAI 的 GPTBot 爬虫程序在...](https://weibo.com/6105753431/O9lPS7mM4)
+append_entries: 5
+Finish: 2024-04-12 06:15:03.400200
