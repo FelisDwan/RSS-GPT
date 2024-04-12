@@ -3020,3 +3020,21 @@ Append: [#国外大神0经验两周搞出CPU#下一步是GPU在没有任何经�
 Append: [#OpenAI疑似爬取内容农场训练AI# 尴尬了，OpenAI 被曝在训练 AI 时，错误爬取了一个内容农场网站，导致大量请求。爆料的网友声称，OpenAI 的 GPTBot 爬虫程序在...](https://weibo.com/6105753431/O9lPS7mM4)
 append_entries: 5
 Finish: 2024-04-12 06:15:03.400200
+------------------------------------------------------
+Started: 2024-04-12 08:13:39.865544
+Existing_entries: 352
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 293
+Summarized using GPT-3.5-turbo
+Append: [#清华大学获芯片领域重大突破# 在最新一期《自然》上，清华大学宣布成功研制出大规模干涉-衍射异构集成芯片太极（Taichi），实现了 160 TOPS/W 的通用智能计算。...](https://weibo.com/6105753431/O9nPSxRhF)
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [印象笔记董事长兼首席执行官唐毅 确认参与 #中国AIGC产业峰会# ！🔥唐毅自2015年起任印象笔记CEO，并于2018年主导完成了印象笔记的关键重组。2021年3月，唐毅...](https://weibo.com/6105753431/O9nEejGqo)
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [#抱抱脸推出完全开源TTS模型# Hugging Face 新开源了一款文本到语音模型#Parler-TTS#。这款轻量级 TTS 模型将所有数据集、预处理、训练代码和权重来了个一次性大...](https://weibo.com/6105753431/O9nAh26bq)
+Token length: 388
+Summarized using GPT-3.5-turbo
+Append: [#福布斯人工智能50强榜单# 福布斯新揭晓了 2024 年 “人工智能50强” 榜单。今年上榜的 50 家公司共筹集了 347 亿美元资金。其中近 1/3 来自 OpenAI，而这还要进...](https://weibo.com/6105753431/O9noE236q)
+append_entries: 4
+Finish: 2024-04-12 08:14:03.661630
