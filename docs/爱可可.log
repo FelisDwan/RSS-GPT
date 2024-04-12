@@ -4333,3 +4333,10 @@ Summarized using GPT-3.5-turbo
 Append: [【ADS-B Massive Visualizer：ADS-B 航班数据的交互式可视化和分析】'ADS-B Massive Visualizer - Interactive visualization and analytics on ADS-B data with...](https://weibo.com/1402400261/O9pqL7mwe)
 append_entries: 4
 Finish: 2024-04-12 16:13:56.259537
+------------------------------------------------------
+Started: 2024-04-12 18:12:23.859454
+Existing_entries: 721
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O9qsJtt2Y)
+append_entries: 0
+Finish: 2024-04-12 18:12:23.925140

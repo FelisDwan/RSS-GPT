@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>《爱可可微博热门分享(4.12)》 爱可可微博热门分享(4.12) [图片]</title>
 <link>https://weibo.com/1402400261/O9qsCEvRE</link>
@@ -16,7 +17,6 @@
 《爱可可微博热门分享(4.12)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405022466711093588"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(4.12)</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hooffyjaexj20d607egm0.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 12 Apr 2024 14:40:39 GMT</pubDate>
-<pubDate>Fri, 12 Apr 2024 14:40:39 GMT</pubDate>
 </item>
 <item>
 <title>几篇论文实现代码：《STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking》(NAACL 2024) GitHub: github.com/stanfo...</title>
@@ -25,7 +25,7 @@
 <content:encoded><![CDATA[
 <div> STORM, Topic Outlines, Retrieval, Multi-perspective Question Asking, GitHub, OpenEQA, Embodied Question Answering, Foundation Models, Taming Stable Diffusion, Text to 360° Panorama Image Generation, matching, 2D Images, 3D, Metric Relative Pose, Softmax Attention, Constant Cost per Token, Text-to-Visual Generation, Image-to-Text Generation, OSWorld, Multimodal Agents, Open-Ended Tasks, Real Computer Environments, Rho-1, Tokens, Mira, Long Video Generation, Urban Architect, 3D Urban Scene Generation, Scaling Laws, Data Filtering, InstantMesh, 3D Mesh Generation, Audio Systems, VisualWebBench, Multimodal LLMs, Web Page Understanding, No Zero-Shot, Exponential Data, Pretraining Concept Frequency, PCToolkit, Prompt Compression Toolkit, Large Language Models, 3D Gaussian Splatting, Real-Time Radiance Field Rendering 
 
-<br><br>总结:
+<br /><br />总结:
 1. "STORM"是利用检索和多角度提问实现主题大纲的论文，提供了GitHub链接。
 2. "OpenEQA"关注基于基础模型的具身问答，提供了GitHub链接。
 3. "Taming Stable Diffusion"探讨了将文本转换为360度全景图像生成的问题，提供了GitHub链接。
@@ -39,7 +39,6 @@
 几篇论文实现代码：<br />《STORM: Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking》(NAACL 2024) GitHub: github.com/stanford-oval/storm [fig1]<br />《OpenEQA: Embodied Question Answering in the Era of Foundation Models》(CVPR 2024) GitHub: github.com/facebookresearch/open-eqa<br />《Taming Stable Diffusion for Text to 360° Panorama Image Generation》(CVPR 2024) GitHub: github.com/chengzhag/PanFusion<br />《Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences》(CVPR 2024) GitHub: github.com/nianticlabs/mickey <br />《Softmax Attention with Constant Cost per Token》(2024) GitHub: github.com/glassroom/heinsen_attention<br />《Evaluating Text-to-Visual Generation with Image-to-Text Generation》(2024) GitHub: github.com/linzhiqiu/t2v_metrics<br />《OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments》(2024) GitHub: github.com/xlang-ai/OSWorld<br />《Rho-1: Not All Tokens Are What You Need》(2024) GitHub: github.com/microsoft/rho [fig2]<br />《Mira: A Mini-step Towards Sora-like Long Video Generation》(2024) GitHub: github.com/mira-space/Mira<br />《Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior》(2024) GitHub: github.com/UrbanArchitect/UrbanArchitect<br />《Scaling Laws for Data Filtering》(2024) GitHub: github.com/locuslab/scaling_laws_data_filtering<br />《InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models》(2024) GitHub: github.com/TencentARC/InstantMesh<br />《Differentiable All-pole Filters for Time-varying Audio Systems》(2024) GitHub: github.com/DiffAPF/TB-303<br />《VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?》(2024) GitHub: github.com/VisualWebBench/VisualWebBench [fig3] <br />《No Zero-Shot Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance》(2024) GitHub: github.com/bethgelab/frequency_determines_performance<br />《PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models》(2024) GitHub: github.com/3DAgentWorld/Toolkit-for-Prompt-Compression<br />《3D Gaussian Splatting for Real-Time Radiance Field Rendering》(2024) GitHub: github.com/leo-frank/diff-gaussian-rasterization-depth<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoo9glfyjfj20kb08k0tl.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoo9hxtl93j221p0tx4kw.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hooasiux0hj21310n7h9u.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 12 Apr 2024 12:06:55 GMT</pubDate>
-<pubDate>Fri, 12 Apr 2024 12:06:55 GMT</pubDate>
 </item>
 <item>
 <title>【Narwhals：轻量可扩展的数据框架兼容层，支持 Polars、pandas、cuDF、Modin 等多种数据框架】'Narwhals - Lightweight and extensible compatibility layer be...</title>
@@ -48,11 +47,10 @@
 <content:encoded><![CDATA[
 <div> 轻量、可扩展、数据框架、兼容层、Polars、pandas、cuDF、Modin、GitHub、MarcoGorelli/narwhals
 
-<br><br>总结:
+<br /><br />总结:
 Narwhals是一个轻量、可扩展的数据框架兼容层，支持Polars、pandas、cuDF、Modin等多种数据框架。用户可以通过GitHub上的MarcoGorelli/narwhals获取相关信息和使用资源。这个工具为不同数据框架之间的兼容性提供了便利，让用户可以快速在不同框架之间切换和转换数据，提高工作效率。由于支持的数据框架种类多样，Narwhals可满足不同用户的需求，为数据处理工作带来了更大的灵活性和便利性。 <div>
 【Narwhals：轻量可扩展的数据框架兼容层，支持 Polars、pandas、cuDF、Modin 等多种数据框架】'Narwhals - Lightweight and extensible compatibility layer between Polars, pandas, cuDF, Modin, and more!' GitHub: github.com/MarcoGorelli/narwhals <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hooaxs9rklj20u010q79u.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 12 Apr 2024 12:04:43 GMT</pubDate>
 <pubDate>Fri, 12 Apr 2024 12:04:43 GMT</pubDate>
 </item>
 <item>
@@ -60,15 +58,13 @@ Narwhals是一个轻量、可扩展的数据框架兼容层，支持Polars、pan
 <link>https://weibo.com/1402400261/O9pqL7mwe</link>
 <guid>https://weibo.com/1402400261/O9pqL7mwe</guid>
 <content:encoded><![CDATA[
-<div> GitHub、ADS-B、航班数据、可视化、分析、交互式、ClickHouse、adsb.exposed<br>
-<br>
-关键词提取完毕，这是一篇介绍ADS-B航班数据交互式可视化和分析工具ADS-B Massive Visualizer的GitHub项目。该工具基于ClickHouse技术，能够实现对ADS-B数据的交互式可视化和分析。用户可以通过这个工具来更深入地了解ADS-B航班数据，实时跟踪航班位置和信息，帮助航空公司等相关机构进行航班管理和监控。通过GitHub链接可以查看该工具的具体实现和功能介绍。如果你对ADS-B数据感兴趣，可以尝试使用这个工具来进行数据的可视化和分析。<br><br>总结: 介绍了一款基于ClickHouse技术的ADS-B航班数据交互式可视化和分析工具ADS-B Massive Visualizer，能够实现对ADS-B数据的实时跟踪和信息分析，帮助航空公司进行航班管理和监控。GitHub链接提供了工具的具体实现和功能介绍。 <div>
+<div> GitHub、ADS-B、航班数据、可视化、分析、交互式、ClickHouse、adsb.exposed<br />
+<br />
+关键词提取完毕，这是一篇介绍ADS-B航班数据交互式可视化和分析工具ADS-B Massive Visualizer的GitHub项目。该工具基于ClickHouse技术，能够实现对ADS-B数据的交互式可视化和分析。用户可以通过这个工具来更深入地了解ADS-B航班数据，实时跟踪航班位置和信息，帮助航空公司等相关机构进行航班管理和监控。通过GitHub链接可以查看该工具的具体实现和功能介绍。如果你对ADS-B数据感兴趣，可以尝试使用这个工具来进行数据的可视化和分析。<br /><br />总结: 介绍了一款基于ClickHouse技术的ADS-B航班数据交互式可视化和分析工具ADS-B Massive Visualizer，能够实现对ADS-B数据的实时跟踪和信息分析，帮助航空公司进行航班管理和监控。GitHub链接提供了工具的具体实现和功能介绍。 <div>
 【ADS-B Massive Visualizer：ADS-B 航班数据的交互式可视化和分析】'ADS-B Massive Visualizer - Interactive visualization and analytics on ADS-B data with ClickHouse' GitHub: github.com/ClickHouse/adsb.exposed <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%8F%AF%E8%A7%86%E5%8C%96%23&amp;isnewpage=1"><span class="surl-text">#可视化#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hooav84th2j21590u01kx.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hooav980k5j20uc0u0qcx.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hooav9zt81j210l0u07fo.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 12 Apr 2024 12:03:18 GMT</pubDate>
-<pubDate>Fri, 12 Apr 2024 12:03:18 GMT</pubDate>
 </item>
-
 <item>
 <title>【PCToolkit: 统一的即插即用大语言模型提示压缩工具包】'PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models - Toolkit...</title>
 <link>https://weibo.com/1402400261/O9ppWAvO2</link>
