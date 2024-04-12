@@ -5,16 +5,58 @@
 <link>https://weibo.com/6105753431/</link>
 
 <item>
+<title>#挑战Transformer的RWKV上新模型# 不走Transformer寻常路，魔改RNN的国产新架构RWKV，有了新进展：提出了两种新的RWKV架构，即Eagle (RWKV-5) 和Finch（RWKV-6)...</title>
+<link>https://weibo.com/6105753431/O9pw64rbF</link>
+<guid>https://weibo.com/6105753431/O9pw64rbF</guid>
+<content:encoded><![CDATA[
+<div> 关键词: RWKV, Eagle, Finch, 多头矩阵值状态, 动态递归机制, 多语言语料库, 分词器, 抱抱脸
+
+总结:<br><br>
+研究团队提出了新架构RWKV的两种改进版本Eagle和Finch，分别为RWKV-5和RWKV-6，通过引入多头矩阵值状态和动态递归机制提高了模型表达能力。新架构还引入了一个包含1.12万亿个令牌的多语言语料库，以及基于贪婪匹配的快速分词器，增强了RWKV的多语言性能。现在已经在抱抱脸上发布了4个Eagle模型和2个Finch模型。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8C%91%E6%88%98Transformer%E7%9A%84RWKV%E4%B8%8A%E6%96%B0%E6%A8%A1%E5%9E%8B%23&amp;extparam=%23%E6%8C%91%E6%88%98Transformer%E7%9A%84RWKV%E4%B8%8A%E6%96%B0%E6%A8%A1%E5%9E%8B%23"><span class="surl-text">#挑战Transformer的RWKV上新模型#</span></a> <br /><br />不走Transformer寻常路，魔改RNN的国产新架构RWKV，有了新进展：<br /><br />提出了两种新的RWKV架构，即Eagle (RWKV-5) 和Finch（RWKV-6)。<br /><br />这两种序列模型以RWKV-4架构为基础，然后作了改进。<br /><br />新架构的设计进步包括多头矩阵值状态（multi-headed matrix-valued states）和动态递归机制（dynamic recurrence mechanism），这些改进提高了RWKV模型的表达能力，同时保持RNN的推理效率特征。<br /><br />同时，新架构引入了一个新的多语言语料库，包含1.12万亿个令牌。<br /><br />团队还基于贪婪匹配（greedy matching）开发了一种快速的分词器，以增强RWKV的多语言性。<br /><br />目前，4个Eagle模型和2个Finch模型，都已经在抱抱脸上发布了～<br /><br /><a href="https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247725133&amp;idx=5&amp;sn=0b87f88f18a775eddb15cf1bfa6c199f&amp;chksm=e8dfc73fdfa84e2992810f54a106e0f33201ccca45eb83f748d11a6140d91f611ba699aea973&amp;token=372095005&amp;lang=zh_CN#rd"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hoob9xzzxuj30u01r17su.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 12:16:26 GMT</pubDate>
+<pubDate>Fri, 12 Apr 2024 12:16:26 GMT</pubDate>
+</item>
+<item>
+<title>#大模型识读战国竹简# 识读距今2300多年战国时期的上古竹简，AI正在立功。而且在这背后的“大功臣”，竟是只有2B大小的多模态大模型！这批上古竹简，是由清华大...</title>
+<link>https://weibo.com/6105753431/O9oKCnUKS</link>
+<guid>https://weibo.com/6105753431/O9oKCnUKS</guid>
+<content:encoded><![CDATA[
+<div> 清华简、多模态大模型、识读、上古竹简、战国时期、AI、版式检测、文字识别、楚文、突破
+
+<br><br>总结:
+2300多年前的战国时期，清华大学收藏了一批上古竹简，被称为清华简，数量约2500枚。由于上面的楚文字已被废弃，识读成为困难。最近，研究人员利用一个2B大小的多模态大模型取得了突破，成功在清华简的版式检测和文字识别上取得了成就。这个大模型不仅能准确找到最短的竹简，还可以识别出楚文意思，并正在尝试进一步探索。现在，大模型的应用不仅波及到了多模态领域，还展现了强大的识别能力，为研究上古文献提供了新的可能性。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%86%E8%AF%BB%E6%88%98%E5%9B%BD%E7%AB%B9%E7%AE%80%23&amp;extparam=%23%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%86%E8%AF%BB%E6%88%98%E5%9B%BD%E7%AB%B9%E7%AE%80%23"><span class="surl-text">#大模型识读战国竹简#</span></a> <br /><br />识读距今2300多年战国时期的上古竹简，AI正在立功。<br /><br />而且在这背后的“大功臣”，竟是只有2B大小的多模态大模型！<br /><br />这批上古竹简，是由清华大学于2008年7月收藏，因此也被称为清华简。<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%86%E8%AF%BB%E6%B8%85%E5%8D%8E%E7%AE%80%23&amp;extparam=%23%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%86%E8%AF%BB%E6%B8%85%E5%8D%8E%E7%AE%80%23"><span class="surl-text">#大模型识读清华简#</span></a><br /><br />清华简的数量大约是2500枚，其内容在已被发现的先秦竹简中也是前所未见，被认为是继甲骨文、敦煌遗书、居延汉简、云梦秦简之后的又一重大发现。<br /><br />不过也正因如此，识读清华简便成了老大难的问题，因为上面的文字基本上都是楚文字，秦始皇统一文字后就已被废弃。<br /><br />而就在最近，研究人员在一个2B大小的多模态大模型助力之下，成功地在清华简的版式检测和文字识别上取得突破。<br /><br />例如询问这个大模型：这张图里最短的木头上第一个字是什么？<br /><br />它不仅可以准确找到最短的竹简，也能精准地识别出上面的楚文是现代的“可”字。<br /><br />即使是和现代文字差异较大的古文字，这个大模型也能查字询意，得出正确结论是“我”。<br /><br />并且研究团队还表示，他们正在尝试继续用这种方式进一步做探索。<br /><br />嗯，不得不说，大模型“以小博大”这事，已经开始波及到多模态了。<br /><br />那么这个2B大模型，到底是什么来头？<a href="https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247725133&amp;idx=1&amp;sn=ea4a2f1e177d0e3c7391ec9ef1ef4c7d&amp;chksm=e8dfc73fdfa84e2934ec270b3901a69925e1fe37866c539f9604a84314132946e85566828f46&amp;token=1557352754&amp;lang=zh_CN#rd"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">识读2300多年的战国竹简，竟只用2B端侧大模型！面壁发布新一代“小钢炮”</span></a><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hoo32bxjwcj30u00ilas3.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hoo32efztbj30u00dy107.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 10:19:29 GMT</pubDate>
+<pubDate>Fri, 12 Apr 2024 10:19:29 GMT</pubDate>
+</item>
+<item>
+<title>#两位顶尖大佬预测AI未来# 在 2024 Abundance360 讨论大会上，Ray Kurzweil 和 Geoff Hinton 就 AI 的未来展开辩论。简单介绍一下，Ray Kurzweil 现为谷歌首席科...</title>
+<link>https://weibo.com/6105753431/O9oISlyuU</link>
+<guid>https://weibo.com/6105753431/O9oISlyuU</guid>
+<content:encoded><![CDATA[
+<div> Ray Kurzweil、Geoff Hinton、AI、未来、辩论、预测、公认、谷歌、图灵奖、领域 
+
+<br><br>总结:
+在2024年的Abundance360讨论大会上，谷歌首席科学家Ray Kurzweil和AI教父Geoff Hinton展开了一场关于人工智能未来的辩论。Ray Kurzweil以超准确的预测能力而闻名，被誉为AI领域的超级预言家，其预测准确率高达97%。Geoff Hinton则是公认的AI教父，曾因在深度学习领域的贡献获得图灵奖。两位专家在AI的发展方向、潜力、影响等方面展开激烈讨论，吸引了众多关注者的目光。这场辩论无疑为AI领域的发展和未来方向提供了有益的参考和启发。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%A4%E4%BD%8D%E9%A1%B6%E5%B0%96%E5%A4%A7%E4%BD%AC%E9%A2%84%E6%B5%8BAI%E6%9C%AA%E6%9D%A5%23&amp;extparam=%23%E4%B8%A4%E4%BD%8D%E9%A1%B6%E5%B0%96%E5%A4%A7%E4%BD%AC%E9%A2%84%E6%B5%8BAI%E6%9C%AA%E6%9D%A5%23"><span class="surl-text">#两位顶尖大佬预测AI未来#</span></a> <br /><br />在 2024 Abundance360 讨论大会上，Ray Kurzweil 和 Geoff Hinton 就 AI 的未来展开辩论。<br /><br />简单介绍一下，Ray Kurzweil 现为谷歌首席科学家，他在预测 AI 这件事上被公认为具有超能力，至今做出过 147 个疯狂的预测，准确率高达97%。<br /><br />比尔盖茨曾这样评价他：他是人工智能领域中我认为最牛的人。<br /><br />而 Geoff Hinton 是公认的 AI 教父，2018 年因作为“深度学习领域的三大先驱之一”获得图灵奖。 <a href="https://video.weibo.com/show?fid=1034:5022391462461442"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">量子位的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006Fd7o3ly1hoo7csyjvxj31hc0u0goi.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/tRd6a6c3lx08e1LgzC4w010412087xUC0E030.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712927986&amp;ssig=VPYqzR0WMq&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/H7Dy37gVlx08e1LhnWRO01041204tXss0E020.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712927986&amp;ssig=QYBPMCcUnS&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/yPmrS2Htlx08e1LfEUkU01041202T56J0E020.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712927986&amp;ssig=A9CgKZtnc8&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5022391462461442" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 10:15:12 GMT</pubDate>
+<pubDate>Fri, 12 Apr 2024 10:15:12 GMT</pubDate>
+</item>
+
+<item>
 <title>【#AI换脸整活一键让小姐姐跳舞#】Viggle AI又整花活！一张图片就能复刻小姐姐跳舞，还能让小丑开演唱会、马斯克蜘蛛侠斗舞，真·整活神器。 量子位的微博视频</title>
 <link>https://weibo.com/6105753431/O9oDZ4xD6</link>
 <guid>https://weibo.com/6105753431/O9oDZ4xD6</guid>
 <content:encoded><![CDATA[
 <div> Viggle AI, 整活, 图片, 复刻, 小姐姐, 跳舞, 小丑, 演唱会, 马斯克, 蜘蛛侠, 斗舞
 
-总结:<br><br>文章介绍了Viggle AI的新功能，可以利用一张图片复刻小姐姐跳舞，让小丑开演唱会，马斯克和蜘蛛侠斗舞，是一款整活神器。这种技术可以实现一些有趣的视觉效果，给人带来不同寻常的乐趣。整活神器的出现，让人们对于图像处理的可能性有了更多的想象空间。 <div>
+总结:<br /><br />文章介绍了Viggle AI的新功能，可以利用一张图片复刻小姐姐跳舞，让小丑开演唱会，马斯克和蜘蛛侠斗舞，是一款整活神器。这种技术可以实现一些有趣的视觉效果，给人带来不同寻常的乐趣。整活神器的出现，让人们对于图像处理的可能性有了更多的想象空间。 <div>
 【<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E6%8D%A2%E8%84%B8%E6%95%B4%E6%B4%BB%E4%B8%80%E9%94%AE%E8%AE%A9%E5%B0%8F%E5%A7%90%E5%A7%90%E8%B7%B3%E8%88%9E%23&amp;extparam=%23AI%E6%8D%A2%E8%84%B8%E6%95%B4%E6%B4%BB%E4%B8%80%E9%94%AE%E8%AE%A9%E5%B0%8F%E5%A7%90%E5%A7%90%E8%B7%B3%E8%88%9E%23"><span class="surl-text">#AI换脸整活一键让小姐姐跳舞#</span></a>】<br /><br />Viggle AI又整花活！一张图片就能复刻小姐姐跳舞，还能让小丑开演唱会、马斯克蜘蛛侠斗舞，真·整活神器。 <a href="https://video.weibo.com/show?fid=1034:5022396407808075"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax1.sinaimg.cn/orj480/006Fd7o3ly1hoo7evdt1qj30u01hcmzd.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/DBXrGWBZlx08e1KrRumY01041200cuDD0E010.mp4?label=mp4_720p&amp;template=720x1280.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712920332&amp;ssig=Y9ucnEg3Sa&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/Wh9YQaHNlx08e1KrHzlu010412007z4n0E010.mp4?label=mp4_hd&amp;template=540x960.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712920332&amp;ssig=tilXpadSWA&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/31WaILT6lx08e1KrIg0E010412004kvE0E010.mp4?label=mp4_ld&amp;template=360x640.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1712920332&amp;ssig=FF7qjv57Ez&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5022396407808075" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
-<pubDate>Fri, 12 Apr 2024 10:03:08 GMT</pubDate>
 <pubDate>Fri, 12 Apr 2024 10:03:08 GMT</pubDate>
 </item>
 <item>
@@ -24,13 +66,11 @@
 <content:encoded><![CDATA[
 <div> 关键词: 外国网友, 博士论文, 3D打印机, 透明TPU, 电工胶带, 传感器
 
-外国网友在写博士论文时偶然发现，当3D打印机用的透明TPU长丝与电工胶带连接并弯曲时，透光率会显著下降。这一现象激发了他的灵感，成功制作了一个名为的传感器。这个传感器利用了透明TPU长丝和电工胶带之间的异常光学互作用，能够反映出物体的形状和质地。通过把这个传感器嵌入到不同的设备中，可以实现多种功能，如检测物体的压力、形状等。这一独特的发现为传感技术的发展带来了新的思路，也展示了3D打印技术在创新传感器领域的潜力。总结: <br><br>外国网友在研究中发现了透明TPU长丝与电工胶带连接并弯曲时透光率下降的现象，进而成功制作出了一种名为的传感器。传感器利用其光学特性反映出物体的形状和质地，可以用于多种功能，为传感技术带来新的思路，展示了3D打印技术在传感器领域的创新潜力。 <div>
+外国网友在写博士论文时偶然发现，当3D打印机用的透明TPU长丝与电工胶带连接并弯曲时，透光率会显著下降。这一现象激发了他的灵感，成功制作了一个名为的传感器。这个传感器利用了透明TPU长丝和电工胶带之间的异常光学互作用，能够反映出物体的形状和质地。通过把这个传感器嵌入到不同的设备中，可以实现多种功能，如检测物体的压力、形状等。这一独特的发现为传感技术的发展带来了新的思路，也展示了3D打印技术在创新传感器领域的潜力。总结: <br /><br />外国网友在研究中发现了透明TPU长丝与电工胶带连接并弯曲时透光率下降的现象，进而成功制作出了一种名为的传感器。传感器利用其光学特性反映出物体的形状和质地，可以用于多种功能，为传感技术带来新的思路，展示了3D打印技术在传感器领域的创新潜力。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%94%A83D%E8%80%97%E6%9D%90%E5%88%B6%E4%BD%9C%E4%BC%A0%E6%84%9F%E5%99%A8%23&amp;extparam=%23%E7%94%A83D%E8%80%97%E6%9D%90%E5%88%B6%E4%BD%9C%E4%BC%A0%E6%84%9F%E5%99%A8%23"><span class="surl-text">#用3D耗材制作传感器#</span></a>一位外国网友在写博士论文时，偶然发现当 3D 打印机用的透明TPU 长丝与电工胶带连接并弯曲时，透光率会显著下降。这一现象启发他后续用 3D 耗材成功制作出了一个名为<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23OptiGap%23&amp;extparam=%23OptiGap%23"><span class="surl-text">#OptiGap#</span></a>的传感器。<span class="url-icon"><img alt="[来]" src="https://h5.sinaimg.cn/m/emoticon/icon/others/h_lai-da75e9a8cc.png" style="width: 1em; height: 1em;" /></span>详细介绍：<a href="https://paulbupejr.com/developing-the-optigap-sensor-system/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hoo58qjohdj30mx0e642u.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hoo58tk9qmg30m80cih5v.gif" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hoo59mk3pgg30m80cix76.gif" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hoo5a7wvs6g30m80cikjm.gif" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hoo5aub3y2g30m80cikjt.gif" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hoo5abebo2g30m80cie83.gif" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hoo5atv0xmg30m80cikjs.gif" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hoo5aywwu8g30m80ciqvi.gif" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hoo5a6bxz5j31kw198h1m.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 12 Apr 2024 08:50:03 GMT</pubDate>
-<pubDate>Fri, 12 Apr 2024 08:50:03 GMT</pubDate>
 </item>
-
 <item>
 <title>#清华大学获芯片领域重大突破# 在最新一期《自然》上，清华大学宣布成功研制出大规模干涉-衍射异构集成芯片太极（Taichi），实现了 160 TOPS/W 的通用智能计算。...</title>
 <link>https://weibo.com/6105753431/O9nPSxRhF</link>

@@ -3050,3 +3050,18 @@ Summarized using GPT-3.5-turbo
 Append: [#用3D耗材制作传感器#一位外国网友在写博士论文时，偶然发现当 3D 打印机用的透明TPU 长丝与电工胶带连接并弯曲时，透光率会显著下降。这一现象启发他后续用 3D ...](https://weibo.com/6105753431/O9oajAVhC)
 append_entries: 2
 Finish: 2024-04-12 10:12:28.404961
+------------------------------------------------------
+Started: 2024-04-12 12:19:44.621043
+Existing_entries: 358
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 354
+Summarized using GPT-3.5-turbo
+Append: [#挑战Transformer的RWKV上新模型# 不走Transformer寻常路，魔改RNN的国产新架构RWKV，有了新进展：提出了两种新的RWKV架构，即Eagle (RWKV-5) 和Finch（RWKV-6)...](https://weibo.com/6105753431/O9pw64rbF)
+Token length: 449
+Summarized using GPT-3.5-turbo
+Append: [#大模型识读战国竹简# 识读距今2300多年战国时期的上古竹简，AI正在立功。而且在这背后的“大功臣”，竟是只有2B大小的多模态大模型！这批上古竹简，是由清华大...](https://weibo.com/6105753431/O9oKCnUKS)
+Token length: 231
+Summarized using GPT-3.5-turbo
+Append: [#两位顶尖大佬预测AI未来# 在 2024 Abundance360 讨论大会上，Ray Kurzweil 和 Geoff Hinton 就 AI 的未来展开辩论。简单介绍一下，Ray Kurzweil 现为谷歌首席科...](https://weibo.com/6105753431/O9oISlyuU)
+append_entries: 3
+Finish: 2024-04-12 12:20:05.991383

@@ -4275,3 +4275,36 @@ Existing_entries: 708
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-12 10:12:29.400064
+------------------------------------------------------
+Started: 2024-04-12 12:20:06.867684
+Existing_entries: 708
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [【PCToolkit: 统一的即插即用大语言模型提示压缩工具包】'PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models - Toolkit...](https://weibo.com/1402400261/O9ppWAvO2)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [【SDFX：通过漂亮界面构建和分享AI应用的无代码平台】’SDFX - The ultimate no-code platform to build and share AI apps with beautiful UI.' GitHub: github...](https://weibo.com/1402400261/O9poGiiWH)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [【Next.js AI Chatbot：由 Vercel 和 Next.js 团队成员构建的生成式 UI 聊天机器人模板，基于 Vercel AI SDK 和 Google Gemini】'Next.js AI Chatbot - Build yo...](https://weibo.com/1402400261/O9po1sfbq)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [【Gemini API Cookbook：Gemini API 的指南和示例集合】'Welcome to the Gemini API Cookbook - A collection of guides and examples for the Gemini API.' Git...](https://weibo.com/1402400261/O9peN6kdf)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [【用于评估语言模型准确性的轻量库，包含多个评估，如 MMLU、MATH、GPQA、DROP、MGSM 和 HumanEval，并为 OpenAI 和 Anthropic API 提供了采样接口】’This repo...](https://weibo.com/1402400261/O9p60d29z)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: ['Awesome DUSt3R Resources - A curated list of DUSt3R-related papers and resources, tracking recent advancements using this geometric foundation model....](https://weibo.com/1402400261/O9p408SUu)
+Token length: 201
+Summarized using GPT-3.5-turbo
+Append: [【OmniFusion：高级的多模态 AI 模型，旨在通过集成其他数据模态（如图像、音频、3D 和视频内容）来扩展传统语言处理系统的功能】'OmniFusion - OmniFusion — a...](https://weibo.com/1402400261/O9p3KpLtL)
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [【Red-Teaming Language Models with DSPy：介绍了使用 DSPy 框架对语言模型进行红队攻击的尝试，展示了用 DSPy 编译后的架构效果】'Red-Teaming Language Model...](https://weibo.com/1402400261/O9p376LlY)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [【Data-Speech：用于标注语音数据集的实用脚本套件，旨在为基于语音的人工智能模型（如文本到语音引擎）开发过程中所需要的音频变换（或注释）提供简洁、干净的...](https://weibo.com/1402400261/O9p2BtxOz)
+append_entries: 9
+Finish: 2024-04-12 12:20:43.742346
