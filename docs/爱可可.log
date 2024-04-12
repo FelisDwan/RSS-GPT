@@ -4308,3 +4308,9 @@ Summarized using GPT-3.5-turbo
 Append: [【Data-Speech：用于标注语音数据集的实用脚本套件，旨在为基于语音的人工智能模型（如文本到语音引擎）开发过程中所需要的音频变换（或注释）提供简洁、干净的...](https://weibo.com/1402400261/O9p2BtxOz)
 append_entries: 9
 Finish: 2024-04-12 12:20:43.742346
+------------------------------------------------------
+Started: 2024-04-12 14:10:32.716864
+Existing_entries: 717
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-12 14:10:32.792443
