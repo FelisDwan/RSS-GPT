@@ -4347,3 +4347,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O9qsJtt2Y)
 append_entries: 0
 Finish: 2024-04-12 20:11:36.143521
+------------------------------------------------------
+Started: 2024-04-12 22:09:13.190213
+Existing_entries: 721
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 108
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1374期)：语言模型合成数据的最佳实践和经验教训、不是所有Token都是必需的、超越Transformer的高效开放语言模型、离线学习长上下文、梯度网络(GradN...](https://weibo.com/1402400261/O9tkac2oq)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [[LG] Post-Hoc Reversal: Are We Selecting Models Prematurely? 网页链接 通过探索后处理反转现象，发现仅考虑基础性能进行模型选择是不恰当的，而应当采用后处...](https://weibo.com/1402400261/O9tgKuUwU)
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [[CL] Interactive Prompt Debugging with Sequence Salience 网页链接 提出Sequence Salience系统，通过交互式可视化输入显著性，支持大型语言模型复杂提示的调...](https://weibo.com/1402400261/O9tdBreFd)
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [[LG] An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization 网页链接 全面回顾了扩散模型的应用和理论研究...](https://weibo.com/1402400261/O9taQpbfj)
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [[CL] ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models 网页链接 提出一个强大的语言模型框架Resear...](https://weibo.com/1402400261/O9t868FpK)
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [提出梯度网络GradNet直接参数化并学习函数梯度，给出设计框架，证明可普适逼近广泛梯度函数类，经验表现优越。 - 转发 @爱可可-爱生活:&ensp;[LG]《Gradient Net...](https://weibo.com/1402400261/O9t5zuKmx)
+Token length: 75
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Gradient Networks》S Chaudhari, S Pranav, J M. F. Moura [CMU] (2024) 网页链接 #机器学习##人工智能##论文# [图片][图片][图片][图片][图片][图片][图...](https://weibo.com/1402400261/O9t5x2tdX)
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [通过序列压缩和参数高效微调实现了长序列的有效离线学习，使语言模型能够基于长文档的紧凑表示生成高质量的回复。 - 转发 @爱可可-爱生活:&ensp;[CL]《LLoCO: Le...](https://weibo.com/1402400261/O9t0EkEL2)
+Token length: 94
+Summarized using GPT-3.5-turbo
+Append: [[CL]《LLoCO: Learning Long Contexts Offline》S Tan, X Li, S Patil, Z Wu… [UC Berkeley] (2024) 网页链接 #机器学习##人工智能##论文# [图片][图片][图片][...](https://weibo.com/1402400261/O9t0Aaj0w)
+Token length: 224
+Summarized using GPT-3.5-turbo
+Append: [RecurrentGemma 通过固定大小状态实现了与Gemma-2B媲美的语言理解能力，同时大幅提升了长序列推理效率，可支持更广泛的应用。 - 转发 @爱可可-爱生活:&ensp;[LG]...](https://weibo.com/1402400261/O9t0984hI)
+append_entries: 10
+Finish: 2024-04-12 22:09:46.254154

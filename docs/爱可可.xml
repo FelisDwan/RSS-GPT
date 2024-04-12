@@ -4,6 +4,146 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>今日推介(第1374期)：语言模型合成数据的最佳实践和经验教训、不是所有Token都是必需的、超越Transformer的高效开放语言模型、离线学习长上下文、梯度网络(GradN...</title>
+<link>https://weibo.com/1402400261/O9tkac2oq</link>
+<guid>https://weibo.com/1402400261/O9tkac2oq</guid>
+<content:encoded><![CDATA[
+<div> 语言模型、合成数据、最佳实践、经验教训、Token、高效开放语言模型、Transformer、离线学习、长上下文、梯度网络
+
+总结:<br>
+本文介绍了关于语言模型合成数据的最佳实践和经验教训，强调了不是所有Token都是必需的。提出了超越Transformer的高效开放语言模型的概念，探讨了离线学习长上下文的方法。最后介绍了梯度网络（GradNet）的相关内容。文章内容丰富，为语言模型领域的研究提供了一定的指导和启发。 <div>
+今日推介(第1374期)：语言模型合成数据的最佳实践和经验教训、不是所有Token都是必需的、超越Transformer的高效开放语言模型、离线学习长上下文、梯度网络(GradNet) 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/692232301"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoos2s5kicj21070u0qa9.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoos2un2fgj21mn0u0tgb.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoos2x5tv5j21j20tmaf0.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoos30dsdgj218c0smjui.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoos33388oj21de0py775.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 21:58:03 GMT</pubDate>
+<pubDate>Fri, 12 Apr 2024 21:58:03 GMT</pubDate>
+</item>
+<item>
+<title>[LG] Post-Hoc Reversal: Are We Selecting Models Prematurely? 网页链接 通过探索后处理反转现象，发现仅考虑基础性能进行模型选择是不恰当的，而应当采用后处...</title>
+<link>https://weibo.com/1402400261/O9tgKuUwU</link>
+<guid>https://weibo.com/1402400261/O9tgKuUwU</guid>
+<content:encoded><![CDATA[
+<div> 后处理反转、模型选择、基础性能、后处理指标、优结果、探索、选择、需谨慎、有效性、模型预测
+
+总结:<br><br>本文探讨了后处理反转现象，认为仅考虑基础性能进行模型选择是不可取的。文章强调应该使用后处理指标来选择模型，从而获得更好的结果。作者指出模型预测的有效性需要进行深入研究，选择模型时需要谨慎考虑各种指标，以确保最终结果的准确性和可靠性。 <div>
+[LG] Post-Hoc Reversal: Are We Selecting Models Prematurely?  <br /><a href="https://arxiv.org/abs/2404.07815"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />通过探索后处理反转现象，发现仅考虑基础性能进行模型选择是不恰当的，而应当采用后处理指标进行模型选择，从而获得更优结果。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hooruehe42j20v81d4h0f.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoorueospmj21dc0r6k1l.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hooruf1tk1j21dg0jowjv.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 21:49:38 GMT</pubDate>
+<pubDate>Fri, 12 Apr 2024 21:49:38 GMT</pubDate>
+</item>
+<item>
+<title>[CL] Interactive Prompt Debugging with Sequence Salience 网页链接 提出Sequence Salience系统，通过交互式可视化输入显著性，支持大型语言模型复杂提示的调...</title>
+<link>https://weibo.com/1402400261/O9tdBreFd</link>
+<guid>https://weibo.com/1402400261/O9tdBreFd</guid>
+<content:encoded><![CDATA[
+<div> Sequence Salience, 交互式, 可视化, 输入显著性, 大型语言模型, 调试, 快速迭代优化
+
+Sequence Salience系统为用户提供了一种交互式的可视化方式，用于显示输入中的显著性信息，从而支持大型语言模型的复杂提示的调试和快速迭代优化。用户可以通过该系统更直观地了解语言模型中关键提示的作用，从而进行有效的优化和调整。通过交互式的界面设计，用户可以快速定位和解决问题，提高工作效率。总结: 摒弃繁琐的调试方式，提供可视化的交互体验，帮助用户快速优化语言模型。 <div>
+[CL] Interactive Prompt Debugging with Sequence Salience  <br /><a href="https://arxiv.org/abs/2404.07498"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />提出Sequence Salience系统，通过交互式可视化输入显著性，支持大型语言模型复杂提示的调试和快速迭代优化。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoormcbcowj20vw1c8dyi.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoormcldxbj21ay11qna9.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoormcth0vj20ng0rudkn.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 21:41:53 GMT</pubDate>
+<pubDate>Fri, 12 Apr 2024 21:41:53 GMT</pubDate>
+</item>
+<item>
+<title>[LG] An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization 网页链接 全面回顾了扩散模型的应用和理论研究...</title>
+<link>https://weibo.com/1402400261/O9taQpbfj</link>
+<guid>https://weibo.com/1402400261/O9taQpbfj</guid>
+<content:encoded><![CDATA[
+<div> 扩散模型、理论研究、应用、生成性、条件引导、不足、未来方向、系统性、素材、视角
+
+总结:<br><br>本文全面回顾了扩散模型的应用和理论研究现状，强调了条件引导下的可控生成性。文章指出了理论研究存在的不足，并探讨了未来可能的研究方向，为推进扩散模型研究提供了系统性的素材和视角。整体来看，本文对扩散模型的应用及其在不同领域中的指导意义进行了深入探讨，有助于进一步推动相关研究的发展。 <div>
+[LG] An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization  <br /><a href="https://arxiv.org/abs/2404.07771"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />全面回顾了扩散模型的应用和理论研究现状，强调了条件引导下的可控生成性，指出理论研究的不足与未来可能方向，为推进扩散模型研究提供了系统性的素材和视角。<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoorf8j2maj2114178dsh.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoorf8pahcj21ga0t87ac.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoorf9dnw6j21gs0gmwiv.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 21:35:05 GMT</pubDate>
+<pubDate>Fri, 12 Apr 2024 21:35:05 GMT</pubDate>
+</item>
+<item>
+<title>[CL] ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models 网页链接 提出一个强大的语言模型框架Resear...</title>
+<link>https://weibo.com/1402400261/O9t868FpK</link>
+<guid>https://weibo.com/1402400261/O9t868FpK</guid>
+<content:encoded><![CDATA[
+<div> 关键词: ResearchAgent, 语言模型, 知识库, 迭代评价机制, 科研想法, 高质量, 自动生成, 框架, 目标
+
+总结:<br><br>
+本文提出了一个名为ResearchAgent的强大语言模型框架，通过构建知识库和设计迭代评价机制，实现了自动生成高质量科研想法的目标。ResearchAgent结合了先进的语言模型技术，能够在科学文献中生成创新性的研究思路。通过不断迭代和评价，可以帮助研究人员提出更具实际意义的科研主题，促进科学研究的发展。这一框架为科研思路的自动生成提供了一种新的途径，有望提升科研领域的创新能力和效率。ResearchAgent的应用潜力巨大，未来可以进一步改进和拓展，为科研人员带来更多的启发和创新思路。 <div>
+[CL] ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models  <br /><a href="https://arxiv.org/abs/2404.07738"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>   <br />提出一个强大的语言模型框架ResearchAgent，利用构建知识库和设计迭代评价机制，实现了自动生成高质量科研想法的目标。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoor884iosj20x61csngf.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoor889pwsj21h80cw0yi.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoor88jcjhj21220rejuz.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 21:28:19 GMT</pubDate>
+<pubDate>Fri, 12 Apr 2024 21:28:19 GMT</pubDate>
+</item>
+<item>
+<title>提出梯度网络GradNet直接参数化并学习函数梯度，给出设计框架，证明可普适逼近广泛梯度函数类，经验表现优越。 - 转发 @爱可可-爱生活:&amp;ensp;[LG]《Gradient Net...</title>
+<link>https://weibo.com/1402400261/O9t5zuKmx</link>
+<guid>https://weibo.com/1402400261/O9t5zuKmx</guid>
+<content:encoded><![CDATA[
+<div> Gradient Networks, 参数化, 学习函数梯度, 普适逼近, 广泛梯度函数类, 经验表现优越<br>
+<br>
+1. 本文提出了梯度网络GradNet直接参数化并学习函数梯度的方法。
+2. 设计了框架来实现GradNet，证明其可以普适逼近广泛的梯度函数类。
+3. 实验证明GradNet在经验表现上具有优越性。
+4. 作者分别是S Chaudhari, S Pranav, J M. F. Moura，来自CMU。
+<br><br>总结: 本文介绍了一种新方法GradNet，通过参数化和学习函数梯度来逼近广泛的梯度函数类，在实验中表现优越。 <div>
+提出梯度网络GradNet直接参数化并学习函数梯度，给出设计框架，证明可普适逼近广泛梯度函数类，经验表现优越。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Gradient Networks》S Chaudhari, S Pranav, J M. F. Moura [CMU] (2024) <a href="https://arxiv.org/abs/2404.07361"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hooqt70o3xj218m0qwk1m.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hooqt7lzm0j21de0pyq6h.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hooqt7ptf5j21f20e8wgh.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hooqt7u9qzj21cw0f00uc.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoor1ne0pvj20p50w940f.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoor1ndv3qj210x0a5q41.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoor1ndwwkj20p50wa40k.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoor1ndekoj210x0a8jsd.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 21:22:06 GMT</pubDate>
+<pubDate>Fri, 12 Apr 2024 21:22:06 GMT</pubDate>
+</item>
+<item>
+<title>[LG]《Gradient Networks》S Chaudhari, S Pranav, J M. F. Moura [CMU] (2024) 网页链接 #机器学习##人工智能##论文# [图片][图片][图片][图片][图片][图片][图...</title>
+<link>https://weibo.com/1402400261/O9t5x2tdX</link>
+<guid>https://weibo.com/1402400261/O9t5x2tdX</guid>
+<content:encoded><![CDATA[
+<div> Gradient Networks, S Chaudhari, S Pranav, J M. F. Moura, CMU, 2024<br>
+<br>
+总结:<br>
+本文提出了一种名为Gradient Networks的新型网络模型，旨在处理复杂的图形数据。该模型利用梯度信息来学习网络结构，实现高效的数据处理和表示学习。通过实验证明，Gradient Networks在处理图形数据方面具有优势，并在各种任务中取得了良好的性能。这种新型网络模型为图形数据的分析和应用提供了新的思路，有望在各个领域获得广泛应用。 <div>
+[LG]《Gradient Networks》S Chaudhari, S Pranav, J M. F. Moura [CMU] (2024) <a href="https://arxiv.org/abs/2404.07361"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hooqt70o3xj218m0qwk1m.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hooqt7lzm0j21de0pyq6h.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hooqt7ptf5j21f20e8wgh.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hooqt7u9qzj21cw0f00uc.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoor1ne0pvj20p50w940f.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoor1ndv3qj210x0a5q41.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoor1ndwwkj20p50wa40k.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoor1ndekoj210x0a8jsd.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 21:22:00 GMT</pubDate>
+<pubDate>Fri, 12 Apr 2024 21:22:00 GMT</pubDate>
+</item>
+<item>
+<title>通过序列压缩和参数高效微调实现了长序列的有效离线学习，使语言模型能够基于长文档的紧凑表示生成高质量的回复。 - 转发 @爱可可-爱生活:&amp;ensp;[CL]《LLoCO: Le...</title>
+<link>https://weibo.com/1402400261/O9t0EkEL2</link>
+<guid>https://weibo.com/1402400261/O9t0EkEL2</guid>
+<content:encoded><![CDATA[
+<div> CL, LLoCO, 学习, 长序列, 压缩, 参数, 高效, 微调, 离线学习, 语言模型
+
+<br><br>总结:
+本文介绍了一种名为LLoCO的学习长上下文的离线学习方法，通过序列压缩和参数微调实现了对长序列的有效学习。该方法能够生成高质量的回复，使语言模型能够基于长文档的紧凑表示进行生成。研究者在UC Berkeley进行了相关研究，有效提升了语言模型的表现。该方法的创新之处在于能够处理长文档的信息，并通过压缩和微调参数，在离线环境下实现了高效的学习过程。通过实验验证了该方法的有效性和可行性，为语言模型的进一步发展提供了新的思路和方法。 <div>
+通过序列压缩和参数高效微调实现了长序列的有效离线学习，使语言模型能够基于长文档的紧凑表示生成高质量的回复。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《LLoCO: Learning Long Contexts Offline》S Tan, X Li, S Patil, Z Wu… [UC Berkeley] (2024) <a href="https://arxiv.org/abs/2404.07979"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hooqosi9ssj21600ryamu.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hooqoswzm5j21ds0nyjxz.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hooqot2cywj218c0smtcd.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hooqot7shqj21de0p6ago.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hooqox885cj20uu0cpabp.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hooqox85tbj20vh0f2jtm.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 21:09:58 GMT</pubDate>
+<pubDate>Fri, 12 Apr 2024 21:09:58 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《LLoCO: Learning Long Contexts Offline》S Tan, X Li, S Patil, Z Wu… [UC Berkeley] (2024) 网页链接 #机器学习##人工智能##论文# [图片][图片][图片][...</title>
+<link>https://weibo.com/1402400261/O9t0Aaj0w</link>
+<guid>https://weibo.com/1402400261/O9t0Aaj0w</guid>
+<content:encoded><![CDATA[
+<div> 长文本；离线学习；上下文；学习模型；UC Berkeley；2024；Tan；Li；Patil；Wu
+
+<br><br>总结:
+这篇文章是关于离线学习长文本上下文的研究。研究团队来自加州大学伯克利分校，发表于2024年。他们提出了一种名为LLoCO的学习模型，旨在解决长文本中上下文信息的学习问题。通过对文本内容进行离线学习，该模型可以更好地捕捉文本之间的关联性，提高学习效果。Tan、Li、Patil和Wu是本研究的主要作者。 <div>
+[CL]《LLoCO: Learning Long Contexts Offline》S Tan, X Li, S Patil, Z Wu… [UC Berkeley] (2024) <a href="https://arxiv.org/abs/2404.07979"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hooqosi9ssj21600ryamu.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hooqoswzm5j21ds0nyjxz.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hooqot2cywj218c0smtcd.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hooqot7shqj21de0p6ago.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hooqox885cj20uu0cpabp.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hooqox85tbj20vh0f2jtm.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 21:09:48 GMT</pubDate>
+<pubDate>Fri, 12 Apr 2024 21:09:48 GMT</pubDate>
+</item>
+<item>
+<title>RecurrentGemma 通过固定大小状态实现了与Gemma-2B媲美的语言理解能力，同时大幅提升了长序列推理效率，可支持更广泛的应用。 - 转发 @爱可可-爱生活:&amp;ensp;[LG]...</title>
+<link>https://weibo.com/1402400261/O9t0984hI</link>
+<guid>https://weibo.com/1402400261/O9t0984hI</guid>
+<content:encoded><![CDATA[
+<div> RecurrentGemma, Gemma-2B, 语言理解能力, 长序列推理效率, 应用, 固定大小状态<br>
+<br>
+总结:<br>
+本文介绍了RecurrentGemma模型，该模型通过固定大小状态实现了与Gemma-2B相当的语言理解能力，并大幅提升了长序列推理效率，使其能够支持更广泛的应用。该模型在效率和性能上超越了传统的Transformer模型，展现了更高的潜力和实用性。RecuurentGemma的提出对于提高开放式语言模型的效率和性能具有重要意义，为相关领域的研究和应用带来新的启发和发展方向。 <div>
+RecurrentGemma 通过固定大小状态实现了与Gemma-2B媲美的语言理解能力，同时大幅提升了长序列推理效率，可支持更广泛的应用。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《RecurrentGemma: Moving Past Transformers for Efficient Open Language Models》A Botev, S De, S L Smith, A Fernando… [Google DeepMind] (2024) <a href="https://arxiv.org/abs/2404.07839"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hooqnnmhprj21je09sgqc.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hooqno3gzyj21j20tmq8o.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Fri, 12 Apr 2024 21:08:44 GMT</pubDate>
+<pubDate>Fri, 12 Apr 2024 21:08:44 GMT</pubDate>
+</item>
 
 <item>
 <title>《爱可可微博热门分享(4.12)》 爱可可微博热门分享(4.12) [图片]</title>
