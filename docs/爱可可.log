@@ -4383,3 +4383,12 @@ Summarized using GPT-3.5-turbo
 Append: [RecurrentGemma 通过固定大小状态实现了与Gemma-2B媲美的语言理解能力，同时大幅提升了长序列推理效率，可支持更广泛的应用。 - 转发 @爱可可-爱生活:&ensp;[LG]...](https://weibo.com/1402400261/O9t0984hI)
 append_entries: 10
 Finish: 2024-04-12 22:09:46.254154
+------------------------------------------------------
+Started: 2024-04-13 00:41:15.109617
+Existing_entries: 731
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 275
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：后天开奖，欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《LangChain实战》，截至2024.4.15 12:00，...](https://weibo.com/1402400261/O9tvGx09O)
+append_entries: 1
+Finish: 2024-04-13 00:41:19.832891
