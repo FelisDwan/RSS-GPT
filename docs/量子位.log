@@ -3116,3 +3116,12 @@ Existing_entries: 362
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-13 04:12:36.391571
+------------------------------------------------------
+Started: 2024-04-13 06:11:14.892267
+Existing_entries: 362
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 348
+Summarized using GPT-3.5-turbo
+Append: [#AI顶会开辟高中赛道引爆争议# 网友：代理人战争要开始了从今年起，高中生也要卷AI顶会了，真是计算机从娃娃抓起？NeurIPS正式面向高中生征集论文，具体来说是征...](https://weibo.com/6105753431/O9w1qA814)
+append_entries: 1
+Finish: 2024-04-13 06:11:21.726188

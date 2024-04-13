@@ -4419,3 +4419,15 @@ Existing_entries: 737
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-13 04:12:37.687950
+------------------------------------------------------
+Started: 2024-04-13 06:11:22.626381
+Existing_entries: 737
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [【基于大语言模型的游戏Agent研究相关论文资源列表】’A Survey on Large Language Model-Based Game Agents - A Survey on Large Language Model-Based Game Ag...](https://weibo.com/1402400261/O9vZuwqpg)
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [【一个机器学习知识库，涵盖了从基础到高级主题的机器学习知识，包括模型架构、训练和微调、推理和运行策略、应用等。其目的是帮助新的 Elicit 员学习机器学习背...](https://weibo.com/1402400261/O9vYqqAvW)
+append_entries: 2
+Finish: 2024-04-13 06:11:31.447685

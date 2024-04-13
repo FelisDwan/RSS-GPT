@@ -2246,3 +2246,12 @@ Existing_entries: 50
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-04-13 04:12:37.884416
+------------------------------------------------------
+Started: 2024-04-13 06:11:31.501096
+Existing_entries: 50
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 261
+Summarized using GPT-3.5-turbo
+Append: [斯坦福大学开发的一款创新型 AI 写作工具 STORM，终于开源了！只需要告诉它你的写作主题，它就能自动帮你深挖资料，大量收集多角度参考信息，并创建大纲。不仅如...](https://weibo.com/5722964389/O9vH5ciur)
+append_entries: 1
+Finish: 2024-04-13 06:11:36.890842
