@@ -4431,3 +4431,9 @@ Summarized using GPT-3.5-turbo
 Append: [【一个机器学习知识库，涵盖了从基础到高级主题的机器学习知识，包括模型架构、训练和微调、推理和运行策略、应用等。其目的是帮助新的 Elicit 员学习机器学习背...](https://weibo.com/1402400261/O9vYqqAvW)
 append_entries: 2
 Finish: 2024-04-13 06:11:31.447685
+------------------------------------------------------
+Started: 2024-04-13 08:10:59.005806
+Existing_entries: 739
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-13 08:11:03.028855

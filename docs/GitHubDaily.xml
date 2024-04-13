@@ -4,6 +4,7 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+
 <item>
 <title>斯坦福大学开发的一款创新型 AI 写作工具 STORM，终于开源了！只需要告诉它你的写作主题，它就能自动帮你深挖资料，大量收集多角度参考信息，并创建大纲。不仅如...</title>
 <link>https://weibo.com/5722964389/O9vH5ciur</link>
@@ -11,14 +12,12 @@
 <content:encoded><![CDATA[
 <div> 创新型 AI, 写作工具, STORM, 开源, 深挖资料, 多角度参考, 模拟专家, 问答对话, 深入了解, 引用
 
-<br><br>总结:
+<br /><br />总结:
 斯坦福大学开发了一款名为STORM的创新型AI写作工具，已经开源。用户只需告诉它写作主题，STORM就能自动帮助深挖资料，大量收集多角度参考信息，并创建大纲。不仅如此，STORM还能模拟专家与用户进行问答对话，结合互联网资源深入了解主题，逐步撰写完整的文章并带引用。这个AI工具可以帮助用户编写出具有深度和广度的文章，类似维基百科。目前STORM仅支持英文输入，感兴趣的用户可以去体验一下。 <div>
 斯坦福大学开发的一款创新型 AI 写作工具 STORM，终于开源了！<br /><br />只需要告诉它你的写作主题，它就能自动帮你深挖资料，大量收集多角度参考信息，并创建大纲。<br /><br />不仅如此，它还会模拟专家与你问答对话，结合互联网的资源回答深入了解主题，并逐步撰写完整的文章且带引用。<br /><br />GitHub：github.com/stanford-oval/storm<br />在线体验：storm.genie.stanford.edu/<br /><br />有了这个 AI 工具，你也能编写出类似维基百科那种具有深度和广度的文章！<br /><br />不过目前 STORM 仅支持英文输入。感兴趣的可以去体验下。<img src="https://tvax1.sinaimg.cn/large/006fiYtfgy1hookpsaczcj31ix0x47js.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sat, 13 Apr 2024 04:00:00 GMT</pubDate>
-<pubDate>Sat, 13 Apr 2024 04:00:00 GMT</pubDate>
 </item>
-
 <item>
 <title>仅用 1000 行代码训练出 GPT-2！前特斯拉 Autopilot 负责人、OpenAI 科学家 Andrej Karpathy 开源了一个仅用 1000 行代码即可在 CPU/fp32 上实现 GPT-2 训练的项...</title>
 <link>https://weibo.com/5722964389/O9kTljRWK</link>
