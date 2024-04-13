@@ -4443,3 +4443,39 @@ Existing_entries: 739
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-13 10:09:44.097233
+------------------------------------------------------
+Started: 2024-04-13 12:16:22.435213
+Existing_entries: 739
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 2954
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Less is More: Fewer Interpretable Region via Submodular Subset Selection》(ICLR 2024) GitHub: github.com/RuoyuChen10/SMDL-Attribut...](https://weibo.com/1402400261/O9yDw1Wbq)
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: ['icegl-three-vue-tres - 让三维可视化项目快速落地の开源框架，永久开源，免费商用' GitHub: github.com/hawk86104/icegl-three-vue-tres #开源# [图片][图片][...](https://weibo.com/1402400261/O9yDtdr8a)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [【360 智脑大模型采用高质量语料库进行训练，在相关基准评测中表现出有竞争力。开放了 4K 和 32K 的对话模型，并提供了模型评估和快速开始的指南】'360Zhinao (3...](https://weibo.com/1402400261/O9yzF0ZTr)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [【Latent Box：AI、创意和艺术领域的精选合集】'Latent Box - A collection of awesome-lists for AI, creativity and art.' 网页链接 GitHub: github.com/laten...](https://weibo.com/1402400261/O9yvz0fxP)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [【Tango：TypeScript 重新实现的 ADB（Android Debugging Bridge）客户端，可以在基于 Chromium 的浏览器（包括 Chrome for Android）、Node.js 和 Electron 中...](https://weibo.com/1402400261/O9yofjKrQ)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [【多模态大语言模型(MLLM)安全性相关论文资源列表】’Awesome-MLLM-Safety - "Safety is defined as stopping models from following malicious instructions an...](https://weibo.com/1402400261/O9yfpzKw5)
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [【UnInbox：现代化的电子邮件工具，专门为团队和专业人士设计，旨在替代陈旧的电子邮件技术和工具】'UnInbox - Modern email for teams and professionals. A re...](https://weibo.com/1402400261/O9yeEzDAW)
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [【PicProse：用于生成中等规模平台封面图像的工具，如 Medium、YouTube、BiliBili 和博客等】'PicProse is a better cover image generator tool for Medium, Yo...](https://weibo.com/1402400261/O9ydYkqyn)
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: ['1000UserGuide：300多个帮独立开发者和创业者推广产品、找到前1000个早期用户的国内外渠道适合独立开发者和创业者推广产品的渠道' GitHub: github.com/naxiaodu...](https://weibo.com/1402400261/O9ybCm1Ue)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [【tu：可以将自然语言日期/时间字符串转换为UTC时间格式的命令行工具】’tu - CLI tool to convert a natural language date/time string to UTC' GitHub: githu...](https://weibo.com/1402400261/O9y7E5Hjv)
+append_entries: 10
+Finish: 2024-04-13 12:16:54.529834
