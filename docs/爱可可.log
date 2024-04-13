@@ -4392,3 +4392,24 @@ Summarized using GPT-3.5-turbo
 Append: [//@爱可可-爱生活：后天开奖，欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《LangChain实战》，截至2024.4.15 12:00，...](https://weibo.com/1402400261/O9tvGx09O)
 append_entries: 1
 Finish: 2024-04-13 00:41:19.832891
+------------------------------------------------------
+Started: 2024-04-13 02:10:31.361883
+Existing_entries: 732
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 81
+Summarized using GPT-3.5-turbo
+Append: [【面向科学和工程领域表现的大模型排行榜】《Science Leaderboard - a Hugging Face Space by TIGER-Lab》 网页链接 #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/O9uLuAk2K)
+Token length: 516
+Summarized using GPT-3.5-turbo
+Append: [【视觉语言模型解析】视觉语言模型是能够同时从图像和文本中学习的模型，可以处理从视觉问答到图像字幕等多种任务。主要的组成部分包括图像编码器、嵌入映射器（...](https://weibo.com/1402400261/O9uKLiiUt)
+Token length: 100
+Summarized using GPT-3.5-turbo
+Append: [【Google Scholar PDF Reader：能极大提高学术论文阅读效率的浏览器插件，可以预览引用、浏览目录、跳转到图表、引用文献等】“Google Scholar PDF Reader” 网...](https://weibo.com/1402400261/O9uGwfHIS)
+Token length: 816
+Summarized using GPT-3.5-turbo
+Append: [【构建AI的"世界模型"：Meta的OpenEQA框架为具身智能开启新篇章】 - Meta 正在探索构建一种具身AI智能体，它可以作为家庭机器人或时尚智能眼镜的"大脑"。这种智...](https://weibo.com/1402400261/O9uEws3sJ)
+Token length: 835
+Summarized using GPT-3.5-turbo
+Append: [【Adobe Firefly AI 训练数据来源遭质疑，人工智能领域亟需加强监管】- 去年，Adobe 推出了其创新的图像生成软件 Firefly，并宣称该人工智能模型主要是在 Adobe ...](https://weibo.com/1402400261/O9uuVBlWJ)
+append_entries: 5
+Finish: 2024-04-13 02:10:54.419947
