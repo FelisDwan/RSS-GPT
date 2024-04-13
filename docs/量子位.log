@@ -3170,3 +3170,12 @@ Existing_entries: 368
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-13 16:13:13.364085
+------------------------------------------------------
+Started: 2024-04-13 18:11:32.939055
+Existing_entries: 368
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 326
+Summarized using GPT-3.5-turbo
+Append: [昆仑万维董事长兼CEO方汉 确认参与 #中国AIGC产业峰会# ！🔥方汉，昆仑万维董事长兼CEO。毕业于中国科学技术大学近代物理系，曾任职于中国科学院高能物理研究...](https://weibo.com/6105753431/O9A3eyGua)
+append_entries: 1
+Finish: 2024-04-13 18:11:37.683715
