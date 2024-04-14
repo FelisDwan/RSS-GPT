@@ -3215,3 +3215,15 @@ Existing_entries: 369
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-14 07:50:51.432944
+------------------------------------------------------
+Started: 2024-04-14 10:36:55.279082
+Existing_entries: 369
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [#哈佛新材料登Nature##液体可编程# 液体都有“智能”、可编程了？最近，一种被称为“智能"液体的多功能可编程的新型超材料——Metafluid，登上了Nature。它由哈...](https://weibo.com/6105753431/O9G0Sk1M1)
+Token length: 600
+Summarized using GPT-3.5-turbo
+Append: [#首个AI程序员造假被抓# 首个AI程序员，演示视频大幅度造假？？？不久之前震撼硅谷的Devin，再度震撼硅谷——但这次是被打假。事情是这样的：油管程序员博主Inte...](https://weibo.com/6105753431/O9FCTreAt)
+append_entries: 2
+Finish: 2024-04-14 10:37:05.285154
