@@ -4,16 +4,16 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【如何更好地处理高复杂度的问题】1、从一个最小的例子开始,然后逐步拓展在处理复杂的问题时，不要直接面对全部的复杂性，而是先从一个简化的最小例子入手，逐步...</title>
 <link>https://weibo.com/1402400261/O9DkhgOV3</link>
 <guid>https://weibo.com/1402400261/O9DkhgOV3</guid>
 <content:encoded><![CDATA[
 <div> 调试、简化、记录信息、团队协作、重构代码、高复杂度、问题解决、合作、逐步验证、情景复杂度
-总结:<br><br>处理高复杂度问题时，应从简化的情景开始，逐步增加复杂度。调试时要记录和检测更多信息，与团队协作有助于找到解决方案。通过重构代码减少复杂度，保持简单化思维，逐步验证并与他人沟通合作，能更好处理高复杂度的问题。 <div>
+总结:<br /><br />处理高复杂度问题时，应从简化的情景开始，逐步增加复杂度。调试时要记录和检测更多信息，与团队协作有助于找到解决方案。通过重构代码减少复杂度，保持简单化思维，逐步验证并与他人沟通合作，能更好处理高复杂度的问题。 <div>
 【如何更好地处理高复杂度的问题】<br />1、从一个最小的例子开始,然后逐步拓展<br />在处理复杂的问题时，不要直接面对全部的复杂性，而是先从一个简化的最小例子入手，逐步增加复杂度。这可以让你更清晰地观察问题的不同方面。  <br /><br />2、记录/检测所有的信息<br />调试时，尽可能记录和检测更多的信息，如张量形状、损失、梯度、资源使用等。这些额外的信息能让你更清楚地观察过程，找到问题所在。  <br /><br />3、团队协作<br />向他人讲述和解释问题本身就是一个好的调试方式。与团队成员合作可以让你得到更多补充的知识和看法，更快地找到解决方案。  <br /><br />4、反复重构以减少复杂度<br />代码复杂度会不断增加，这使调试更困难。可以尝试重构代码，将相关部分提取到一个文件或notebook中，以便更清晰地理解。逐步验证后再合并回完整实现。  <br /><br />关键是面对复杂问题时保持简单化的思维，减少关注的变量，逐步拓展和验证，并与他人沟通合作。坚持这些原则可以帮助我们更好地处理高复杂度的问题。  <br />《A few tips for working on high-surface-area problems》 <a href="https://www.answer.ai/posts/2024-04-12-tips.html"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoq08lo73uj21fx0seaes.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoq08n3urpj21g30kcguc.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 13 Apr 2024 23:25:48 GMT</pubDate>
 <pubDate>Sat, 13 Apr 2024 23:25:48 GMT</pubDate>
 </item>
 <item>
@@ -23,11 +23,10 @@
 <content:encoded><![CDATA[
 <div> 多模态AI模型、Grok-1.5V、文本处理、视觉信息、强大能力、连接数字世界和物理世界、架构、交叉注意力层、VQAv2、NLVR2、测试基准、应用案例、API接口、未来应用、RealWorldQA基准、开发者、创新应用、创新速度、开放精神
 
-<br><br>总结:
+<br /><br />总结:
 xAI发布了多模态AI模型Grok-1.5V，拥有强大的文本处理和视觉信息处理能力，使其能够更全面地连接数字世界和物理世界。该模型基于先进架构，融合视觉和文本输入，取得在视觉问答和推理任务上的最先进结果。xAI展示了模型在多个应用案例中的实用性，计划未来通过API发布模型接口，并推出新的RealWorldQA基准测试。该模型的发布具有重要意义，展示了xAI的技术实力和创新能力，预示着多模态AI技术将为各行各业带来巨大变革和机遇。xAI的快速发展和开放精神值得持续关注。 <div>
 【xAI发布多模态AI模型Grok-1.5V】<br />- Grok-1.5V是xAI推出的首个多模态AI模型，不仅具有强大的文本处理能力，还能够处理各种视觉信息，包括文档、图表、截图和照片等。这使得Grok能够更全面地连接数字世界和物理世界。  <br />- Grok-1.5V在此前发布的语言模型Grok-1.5的基础上，增加了视觉处理能力。它采用了创新的架构，先提取图像或视频的特征，然后使用交叉注意力层将视觉特征与文本输入融合，实现统一的理解。  <br />- 在VQAv2和NLVR2等测试视觉问答和推理能力的基准测试中，Grok-1.5V取得了最先进的结果，超越了GPT-4和Gemini-3等模型。这证明了它在多模态理解方面的强大能力。  <br />- xAI认为像Grok-1.5V这样的多模态AI在现实世界应用中具有巨大潜力。例如分析医学扫描图像、理解电商产品图片，以及处理机器人和自动驾驶汽车中的视频信息等。  <br />- 文章中提供了交互式演示，用户可以上传自己的图片，让Grok-1.5V回答相关问题。这展示了该模型能够对任意用户提供的图像进行推理。  <br />- xAI计划在未来几周内通过API发布Grok-1.5V，以便开发者在自己的应用中利用其多模态能力。公司对此感到兴奋，期待看到这将带来哪些新的用例和体验。  <br />- xAI重点展示了Grok-1.5V的7个应用案例，包括根据手绘图生成Python代码、从食品标签照片中计算卡路里、根据儿童绘画生成睡前故事、解释网络梗图、将表格转换为CSV格式，以及为家庭维修问题(如露台上的腐烂木头)提供建议等。这些案例展示了该模型的多功能性和实用性。<br /><br />思考：  <br />- Grok-1.5V的推出标志着xAI在多模态AI领域取得了重大突破。能够统一处理文本、图像等不同模态信息，将大大拓展AI的应用场景和实用性。这对于构建更加智能、全面的AI助手具有重要意义。  <br />- 在各种视觉问答和推理的基准测试中超越GPT-4、Gemini-3等强模型，充分证明了Grok-1.5V在多模态理解任务上的领先地位。xAI在短短几个月内取得如此进展，展现了其雄厚的技术实力和快速创新的能力。  <br />- 通过一系列实际应用案例，xAI生动地展示了Grok-1.5V在现实世界中的广泛用途，涵盖编程、医疗、电商、教育、生活等各个领域。这让我们看到了多模态AI技术在未来将为各行各业带来的巨大变革和机遇。  <br />- 值得关注的是，xAI还推出了全新的RealWorldQA基准，以评估AI模型对物理世界的理解能力。这表明xAI不仅致力于技术创新，也十分重视构建科学的评估体系。开放RealWorldQA数据集将推动整个AI社区在多模态理解方面的进一步研究。  <br />- xAI计划近期面向开发者开放Grok-1.5V的API接口，可以预见将会催生大量基于多模态AI的创新应用。作为一家成立仅9个月的初创公司，xAI展现出令人惊叹的创新速度和开放精神，其发展值得持续关注。<br />《Grok-1.5 Vision Preview》 <a href="https://x.ai/blog/grok-1.5v"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoq02z7ufjj21cn0u078j.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoq030bkwyj21fr0u0whg.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoq035xd79j21240u0tei.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 13 Apr 2024 23:20:24 GMT</pubDate>
 <pubDate>Sat, 13 Apr 2024 23:20:24 GMT</pubDate>
 </item>
 <item>
@@ -36,11 +35,10 @@ xAI发布了多模态AI模型Grok-1.5V，拥有强大的文本处理和视觉信
 <guid>https://weibo.com/1402400261/O9CSF4ilM</guid>
 <content:encoded><![CDATA[
 <div> 具身问答、数字Agent、自主评价、改进、理解概念、激活向量、自动样例生成、抽象、推理语料库、图推理
-<br><br>总结:
+<br /><br />总结:
 本文介绍了基于基础模型的具身问答系统，通过数字Agent实现自主评价和改进。同时探讨了概念的理解和激活向量的作用，提出了利用自动样例生成处理抽象和推理语料库的方法。最后，讨论了如何通过图推理来增强大型语言模型的性能。文章内容涵盖了多个关键领域，可以为研究者和开发者提供启发与借鉴。 <div>
 今日推介(第1375期)：基础模型时代的具身问答、数字Agent的自主评价与改进、理解概念激活向量、通过自动样例生成处理抽象和推理语料库、用图推理增强大型语言模型 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/692360403"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(4.14)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hopy9p4c4dj21da0ra7cj.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hopy9r4wd6j21480u0n43.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hopy9tokraj218o0sen3y.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hopy9w8xcsj20ze0l4jwo.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hopy9ydxvvj20ra0iqdi3.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 13 Apr 2024 22:17:44 GMT</pubDate>
 <pubDate>Sat, 13 Apr 2024 22:17:44 GMT</pubDate>
 </item>
 <item>
@@ -50,11 +48,10 @@ xAI发布了多模态AI模型Grok-1.5V，拥有强大的文本处理和视觉信
 <content:encoded><![CDATA[
 <div> 迁移学习, 自注意力, 相关训练技巧, 解码器设计, 计算机视觉, 图像模型, 语言模型, 架构统一, 分类性能
 
-<br><br>总结:
+<br /><br />总结:
 本文通过引入因果自注意力以及相关的训练技巧，探索了LLM中的解码器设计如何迁移到计算机视觉领域。这一过程使得图像模型与语言模型在架构上达成统一，并取得了良好的分类性能。通过将LLaMA Decoder适应到Vision Transformer中，实现了对视觉任务的有效应用，为跨领域的信息处理提供了新的思路和方法。在实验中，该方法取得了令人满意的结果，表明了其在图像分类等任务中的优越性。整体而言，本文为解决图像与语言等多模态信息处理问题提供了一个新的思路和实践方法。 <div>
 [CV] Adapting LLaMA Decoder to Vision Transformer  <br /><a href="https://arxiv.org/abs/2404.06773"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />通过引入因果自注意力以及相关的训练技巧，探索了LLM中的解码器设计如何迁移到计算机视觉领域，使图像模型与语言模型在架构上达成统一，并取得了良好的分类性能。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hopxw7jeq3j20v61astow.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hopxw7p9cfj215g0lajyk.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hopxw89b7ij219y0e0q6g.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 13 Apr 2024 22:04:32 GMT</pubDate>
 <pubDate>Sat, 13 Apr 2024 22:04:32 GMT</pubDate>
 </item>
 <item>
@@ -64,10 +61,9 @@ xAI发布了多模态AI模型Grok-1.5V，拥有强大的文本处理和视觉信
 <content:encoded><![CDATA[
 <div> 关键词: OSWorld, 多模态智能体, 计算机任务, 界面定位, 操作常识, 算法性能提升
 
-总结:<br><br>总结: 本文介绍了在复杂计算机任务上表现不足的当前算法，需要提高界面定位、操作常识等能力。OSWorld是一个面向通用Agent的开放式计算机任务基准，支持各主流操作系统、应用程序和界面，为智能体算法提供可靠的环境和数据集。通过OSWorld，研究人员可以针对多模态智能体进行基准测试，评估算法在真实计算机环境中的表现，并提出改进方向。为了取得更好的算法性能，需要不断完善智能体的界面定位能力，提升操作常识，以适应不同复杂计算机任务的需求。通过OSWorld的基准测试，可以促进智能体算法在开放式计算机任务中的发展，推动智能计算领域的进步。 <div>
+总结:<br /><br />总结: 本文介绍了在复杂计算机任务上表现不足的当前算法，需要提高界面定位、操作常识等能力。OSWorld是一个面向通用Agent的开放式计算机任务基准，支持各主流操作系统、应用程序和界面，为智能体算法提供可靠的环境和数据集。通过OSWorld，研究人员可以针对多模态智能体进行基准测试，评估算法在真实计算机环境中的表现，并提出改进方向。为了取得更好的算法性能，需要不断完善智能体的界面定位能力，提升操作常识，以适应不同复杂计算机任务的需求。通过OSWorld的基准测试，可以促进智能体算法在开放式计算机任务中的发展，推动智能计算领域的进步。 <div>
 [CL] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments  <br /><a href="https://arxiv.org/abs/2404.07972"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />当前算法在复杂计算机任务上的表现明显不足，仍需提高界面定位、操作常识等能力  OSWORLD是一个面向通用Agent的开放式计算机任务基准，支持各主流操作系统、应用程序和界面，为智能体算法提供可靠的环境和数据集。<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hopxoyeog7j20vk1bk7ly.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hopxoz7o8gj215q0v4qep.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hopxoze2a9j21a20rggwd.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 13 Apr 2024 21:57:34 GMT</pubDate>
 <pubDate>Sat, 13 Apr 2024 21:57:34 GMT</pubDate>
 </item>
 <item>
@@ -75,12 +71,11 @@ xAI发布了多模态AI模型Grok-1.5V，拥有强大的文本处理和视觉信
 <link>https://weibo.com/1402400261/O9CHPC8dP</link>
 <guid>https://weibo.com/1402400261/O9CHPC8dP</guid>
 <content:encoded><![CDATA[
-<div> InfiCoder-Eval, Systematically Evaluating, Question-Answering, Code Large Language Models, Stack Overflow, 覆盖面广, 指标设计合理, 自由问答能力, 重要基础<br>
-<br>
-重点介绍了InfiCoder-Eval的评估方法和指标设计，该评估系统通过Stack Overflow问题对代码语言模型的问答能力进行全面评估。该方法具有广泛的覆盖面和合理的设计，为未来研究提供了重要基础，有助于提升代码语言模型的性能和效果。此评估系统的发展和应用为代码语言模型领域的进一步研究和发展提供了重要参考和支持。InfiCoder-Eval通过全面评估代码模型的自由问答能力，为研究提供了重要的方法和工具，有望推动代码语言模型领域的发展和创新。<br><br>总结: InfiCoder-Eval是一个系统评估方法，通过对代码语言模型的问答能力进行全面评估，具有广泛覆盖面和合理设计，为未来研究提供了重要基础，有助于推动代码语言模型领域的发展。 <div>
+<div> InfiCoder-Eval, Systematically Evaluating, Question-Answering, Code Large Language Models, Stack Overflow, 覆盖面广, 指标设计合理, 自由问答能力, 重要基础<br />
+<br />
+重点介绍了InfiCoder-Eval的评估方法和指标设计，该评估系统通过Stack Overflow问题对代码语言模型的问答能力进行全面评估。该方法具有广泛的覆盖面和合理的设计，为未来研究提供了重要基础，有助于提升代码语言模型的性能和效果。此评估系统的发展和应用为代码语言模型领域的进一步研究和发展提供了重要参考和支持。InfiCoder-Eval通过全面评估代码模型的自由问答能力，为研究提供了重要的方法和工具，有望推动代码语言模型领域的发展和创新。<br /><br />总结: InfiCoder-Eval是一个系统评估方法，通过对代码语言模型的问答能力进行全面评估，具有广泛覆盖面和合理设计，为未来研究提供了重要基础，有助于推动代码语言模型领域的发展。 <div>
 [LG] InfiCoder-Eval: Systematically Evaluating the Question-Answering Capabilities of Code Large Language Models  <br /><a href="https://arxiv.org/abs/2404.07940"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />InfiCoder-Eval通过Stack Overflow问题构建，覆盖面广，指标设计合理，可以系统全面地评估代码语言模型的自由问答能力，为未来研究提供重要基础。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hopxi6hejcj210a1aond9.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hopxi6ut2uj20wg0smteu.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hopxi7dj3yj21em0yudpk.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 13 Apr 2024 21:51:05 GMT</pubDate>
 <pubDate>Sat, 13 Apr 2024 21:51:05 GMT</pubDate>
 </item>
 <item>
@@ -90,11 +85,10 @@ xAI发布了多模态AI模型Grok-1.5V，拥有强大的文本处理和视觉信
 <content:encoded><![CDATA[
 <div> 模型资源、参数微调、参数冻结、多语言、分类法、方法、前沿、指导、研究
 
-总结:<br>
+总结:<br />
 本文全面回顾了多语言大模型研究领域的资源、分类法和前沿探索。其中提出了参数微调对齐和参数冻结对齐的统一分类法，并讨论了相关方法、资源和新兴前沿。通过这些内容为研究工作提供了指导，并为未来的研究方向提供了启示。整体来看，本文对多语言大模型研究领域进行了深入的探讨，丰富了领域内的研究内容，为相关研究者提供了有益的参考和指导。 <div>
 [CL] Multilingual Large Language Model: A Survey of Resources, Taxonomy and Frontiers  <br /><a href="https://arxiv.org/abs/2404.04925"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />全面回顾多语言大模型研究，提出参数微调对齐与参数冻结对齐的统一分类法，讨论方法、资源与新兴前沿，为研究提供指导。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hopxaacvjfj20wa1by1bn.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hopxaaw5djj21pg0yih1j.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hopxab96cnj20uq0reah6.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hopxabxwizj21bm1bknnw.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 13 Apr 2024 21:43:31 GMT</pubDate>
 <pubDate>Sat, 13 Apr 2024 21:43:31 GMT</pubDate>
 </item>
 <item>
@@ -104,11 +98,10 @@ xAI发布了多模态AI模型Grok-1.5V，拥有强大的文本处理和视觉信
 <content:encoded><![CDATA[
 <div> Graph Chain-of-Thought, Large Language Models, 图推理基准数据集, GRAPH-COT框架, 迭代推理, 图的结构, 语义信息, University of Illinois at Urbana-Champaign
 
-总结:<br>
+总结:<br />
 该论文介绍了一种名为GRAPH-COT的框架，用于增强大型语言模型（LLM）的推理能力。作者构建了图推理基准数据集，并设计了GRAPH-COT框架，使LLM可以在图上进行迭代推理，综合利用了图的结构和语义信息。该框架为LLM引入了图推理能力，进一步提升了其在推理任务上的表现。研究结果表明，通过在图上进行推理，LLM在各种推理任务上的性能都得到了显著提升。这一研究为将图结构引入到自然语言处理领域提供了新的思路和方法。 <div>
 构建了图推理基准数据集，并设计GRAPH-COT框架使LLM能在图上迭代推理，综合利用了图的结构和语义信息。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs》B Jin, C Xie, J Zhang, K K Roy, Y Zhang, S Wang, Y Meng, J Han [University of Illinois at Urbana-Champaign] (2024) <a href="https://arxiv.org/abs/2404.07103"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hopwvdqtm1j20nk19sqe8.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hopwve9gw3j20ra0iqtbt.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hopwvepbq0j21ha0iw0zn.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hopwvexvm2j20qm0niad8.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hopwvm0kkij20hr0fd0tl.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hopwvm1jmoj20zx0hgjv3.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hopwvm3zbqj20zx1g612o.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Sat, 13 Apr 2024 21:34:23 GMT</pubDate>
 <pubDate>Sat, 13 Apr 2024 21:34:23 GMT</pubDate>
 </item>
 <item>
@@ -118,10 +111,9 @@ xAI发布了多模态AI模型Grok-1.5V，拥有强大的文本处理和视觉信
 <content:encoded><![CDATA[
 <div> 大语言模型，图链思维，增强，推理，图形，University of Illinois at Urbana-Champaign，2024
 
-提出了一种新的方法，名为Graph Chain-of-Thought，可以增强大语言模型的推理能力。该方法使用图形结构来表示文本数据，通过在图上进行推理和推断来提高模型的性能。研究团队来自University of Illinois at Urbana-Champaign，在2024年发表了这篇论文。他们的方法能够在处理自然语言文本时，根据文本之间的关系和语义信息搭建起图形结构，从而帮助模型更好地理解和推理文本内容。这种基于图形的推理方法在大语言模型的发展中具有重要意义，可以为语言模型的进一步发展奠定基础。Graph Chain-of-Thought方法的提出为解决自然语言处理中的推理问题提供了新的思路和技术手段，有望为相关研究领域带来新的突破和进展。<br><br>总结:通过图形推理方法，Graph Chain-of-Thought有望增强大语言模型的推理能力，帮助模型更好地理解和推理自然语言文本，为语言模型的发展提供重要思路和技术支持。 <div>
+提出了一种新的方法，名为Graph Chain-of-Thought，可以增强大语言模型的推理能力。该方法使用图形结构来表示文本数据，通过在图上进行推理和推断来提高模型的性能。研究团队来自University of Illinois at Urbana-Champaign，在2024年发表了这篇论文。他们的方法能够在处理自然语言文本时，根据文本之间的关系和语义信息搭建起图形结构，从而帮助模型更好地理解和推理文本内容。这种基于图形的推理方法在大语言模型的发展中具有重要意义，可以为语言模型的进一步发展奠定基础。Graph Chain-of-Thought方法的提出为解决自然语言处理中的推理问题提供了新的思路和技术手段，有望为相关研究领域带来新的突破和进展。<br /><br />总结:通过图形推理方法，Graph Chain-of-Thought有望增强大语言模型的推理能力，帮助模型更好地理解和推理自然语言文本，为语言模型的发展提供重要思路和技术支持。 <div>
 [CL]《Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs》B Jin, C Xie, J Zhang, K K Roy, Y Zhang, S Wang, Y Meng, J Han [University of Illinois at Urbana-Champaign] (2024) <a href="https://arxiv.org/abs/2404.07103"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hopwvdqtm1j20nk19sqe8.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hopwve9gw3j20ra0iqtbt.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hopwvepbq0j21ha0iw0zn.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hopwvexvm2j20qm0niad8.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hopwvm0kkij20hr0fd0tl.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hopwvm1jmoj20zx0hgjv3.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hopwvm3zbqj20zx1g612o.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 13 Apr 2024 21:34:18 GMT</pubDate>
 <pubDate>Sat, 13 Apr 2024 21:34:18 GMT</pubDate>
 </item>
 <item>
@@ -129,16 +121,14 @@ xAI发布了多模态AI模型Grok-1.5V，拥有强大的文本处理和视觉信
 <link>https://weibo.com/1402400261/O9Cy2qgvR</link>
 <guid>https://weibo.com/1402400261/O9Cy2qgvR</guid>
 <content:encoded><![CDATA[
-<div> 抽象推理语料库(ARC)、示例生成器、样本量、少样本泛化能力、实验、ETH Zurich、M Hodel、文章、地址、解决、过程、扩充、任务<br>
-<br>
-总结:<br>
+<div> 抽象推理语料库(ARC)、示例生成器、样本量、少样本泛化能力、实验、ETH Zurich、M Hodel、文章、地址、解决、过程、扩充、任务<br />
+<br />
+总结:<br />
 本文介绍了通过设计示例生成器来扩充抽象推理语料库(ARC)任务的样本量，以支持针对少样本泛化能力的实验。作者M Hodel来自ETH Zurich，在文章中提出了解决ARC任务的方法。他通过设计过程来生成示例，从而大幅扩充了每个任务的样本量。这种方法旨在提高模型的泛化能力，并为少样本学习提供支持。通过这种创新的方法，可以有效地解决ARC任务中样本量不足的问题，为相关研究提供了新的思路和方法。 <div>
 通过为抽象推理语料库(ARC)任务设计示例生成器，可大幅扩充每个任务的样本量，以支持针对少样本泛化能力的实验。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Addressing the Abstraction and Reasoning Corpus via Procedural Example Generation》M Hodel [ETH Zurich] (2024) <a href="https://arxiv.org/abs/2404.07353"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hopwskiguxj20ze0l4tj0.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Sat, 13 Apr 2024 21:26:56 GMT</pubDate>
-<pubDate>Sat, 13 Apr 2024 21:26:56 GMT</pubDate>
 </item>
-
 <item>
 <title>《爱可可微博热门分享(4.13)》 爱可可微博热门分享(4.13) [图片]</title>
 <link>https://weibo.com/1402400261/O9zTomcPj</link>

@@ -4552,3 +4552,9 @@ Summarized using GPT-3.5-turbo
 Append: [通过为抽象推理语料库(ARC)任务设计示例生成器，可大幅扩充每个任务的样本量，以支持针对少样本泛化能力的实验。 - 转发 @爱可可-爱生活:&ensp;[LG]《Addressing...](https://weibo.com/1402400261/O9Cy2qgvR)
 append_entries: 10
 Finish: 2024-04-14 01:09:00.071295
+------------------------------------------------------
+Started: 2024-04-14 03:13:44.953999
+Existing_entries: 760
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-14 03:13:45.109612
