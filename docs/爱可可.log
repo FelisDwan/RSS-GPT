@@ -4564,3 +4564,39 @@ Existing_entries: 760
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-14 04:35:20.561416
+------------------------------------------------------
+Started: 2024-04-14 07:50:52.380378
+Existing_entries: 760
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1295
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Negative Label Guided OOD Detection with Pretrained Vision-Language Models》(ICLR 2024) GitHub: github.com/XueJiang16/NegLabel [fi...](https://weibo.com/1402400261/O9Gh8og89)
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [【收集了基于 NeRF的逆渲染论文的资源集合】'Awesome-Inverse-Rendering - A collection of papers on NeRF-Based Inverse Rendering.' GitHub: github.com/ingr...](https://weibo.com/1402400261/O9Gg84AxH)
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: [【Mltraq：一个开源 Python 库，专门为 AI 开发人员设计、执行和共享实验，可以跟踪任意内容，流式传输、复现、协作和在任何地方恢复计算状态】'Mltraq - Track ...](https://weibo.com/1402400261/O9GcfD9iI)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [【Sequel: 开源的个性化健康助手，旨在帮助用户通过个性化的营养来控制健康】'Sequel: Your Longevity Assistant - Personalized longevity assistant' GitHub: ...](https://weibo.com/1402400261/O9G7c9tea)
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: [【MiniCPM-V和OmniLMM 是面向图文理解的开源多模态大模型系列】'MiniCPM-V 2.0: An Efficient End-side MLLM with Strong OCR and Understanding Capabilities' ...](https://weibo.com/1402400261/O9FZFxfXD)
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [【EasyAnimate | Your Animation Generator.：用于生成长视频和训练基于transformer的扩散生成器，基于类SORA结构与DIT，使用transformer进行作为扩散器进行视频...](https://weibo.com/1402400261/O9FR84nMJ)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [【Describe：将视频转换为自定义多媒体摘要的应用】'Describe - Incredibly descriptive audiovisual summaries for videos' GitHub: github.com/sieve-communit...](https://weibo.com/1402400261/O9FOJz3Sd)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [【Embed-Photos：基于 MLX 和 CLIP 模型的简单而强大的相似图像搜索网页应用】'Embed-Photos - Super simple MLX (apple silicon) CLIP based photo similarity ...](https://weibo.com/1402400261/O9FNM2Oo8)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [【《AI-Powered Search》随书代码】’AI-Powered Search - Work in Progress for AI-Powered Search (Manning Publications)' GitHub: github.com/treygrainger/...](https://weibo.com/1402400261/O9FMy45PX)
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [【Nezha：基于同步时钟的可部署和高性能一致性算法，提供了多种性能优化，如高性能库和数据结构的使用、管道优化等】’Nezha - Nezha: Deployable and High-Perf...](https://weibo.com/1402400261/O9FixwakQ)
+append_entries: 10
+Finish: 2024-04-14 07:51:27.955303

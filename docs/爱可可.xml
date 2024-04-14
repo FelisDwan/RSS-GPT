@@ -4,6 +4,144 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>几篇论文实现代码：《Negative Label Guided OOD Detection with Pretrained Vision-Language Models》(ICLR 2024) GitHub: github.com/XueJiang16/NegLabel [fi...</title>
+<link>https://weibo.com/1402400261/O9Gh8og89</link>
+<guid>https://weibo.com/1402400261/O9Gh8og89</guid>
+<content:encoded><![CDATA[
+<div> 关键词: OOD检测, 预训练视觉-语言模型, 跨模态学习, 视频人体姿态回归, 时间-空间聚合, 音色识别, 乐器无关音乐转录, 数学推理评估, 大型语言模型, 多视角3D物体检测
+
+总结:<br><br>《Negative Label Guided OOD Detection with Pretrained Vision-Language Models》介绍了使用预训练的视觉-语言模型辅助进行OOD检测的方法，提出了负向标签辅助的策略。<br> 《Video-Based Human Pose Regression via Decoupled Space-Time Aggregation》介绍了一种通过分离空间-时间聚合实现视频人体姿态回归的方法，提升了准确性和效率。<br>《Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription》提出了一种乐器无关音乐转录的低资源框架，适用于音色识别领域。<br>《Evaluating Mathematical Reasoning Beyond Accuracy》探讨了数学推理评估的方法，超越传统准确性评估，突出模型能力的综合评估。<br>《Elephants Never Forget: Memorization and Learning of Tabular Data in Large Language Models》研究了大型语言模型中表格数据的记忆和学习机制，深入了解模型内部工作原理。<br>《Ray Denoising: Depth-aware Hard Negative Sampling for Multi-view 3D Object Detection》提出了一种多视角3D物体检测中的深度感知负向样本采样方法，提升了检测效果。<br>《Policy-Guided Diffusion》介绍了一种基于策略引导的扩散方法，实现高效信息传递和学习。<br>《No Zero-Shot Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance》研究了数据频率对多模态模型性能的影响，提出了基于概念频率的预训练策略。<br>《Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving》提出了一种高效的混合场景表示方法，适用于自动驾驶应用。<br>《3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera》介绍了一种从单目事件相机中估计两只手的三维姿态的方法，适用于复杂交互场景。 <div>
+几篇论文实现代码：<br />《Negative Label Guided OOD Detection with Pretrained Vision-Language Models》(ICLR 2024) GitHub: github.com/XueJiang16/NegLabel [fig3] <br />《Video-Based Human Pose Regression via Decoupled Space-Time Aggregation》(CVPR 2024) GitHub: github.com/zgspose/DSTA [fig1]<br />《Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription》(2024) GitHub: github.com/sony/timbre-trap<br />《Evaluating Mathematical Reasoning Beyond Accuracy》(2024) GitHub: github.com/GAIR-NLP/ReasonEval<br />《Elephants Never Forget: Memorization and Learning of Tabular Data in<br />  Large Language Models》(2024) GitHub: github.com/interpretml/LLM-Tabular-Memorization-Checker<br />《Ray Denoising: Depth-aware Hard Negative Sampling for Multi-view 3D Object Detection》(2024) GitHub: github.com/LiewFeng/RayDN [fig2]<br />《Policy-Guided Diffusion》(2024) GitHub: github.com/EmptyJackson/policy-guided-diffusion<br />《No Zero-Shot Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance》(2024) GitHub: github.com/bethgelab/frequency_determines_performance<br />《Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving》(2024) GitHub: github.com/VISION-SJTU/Lightning-NeRF<br />《3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera》(2024) GitHub: github.com/Chris10M/Ev2Hands<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoq8cemphhj24071nn4dv.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoqbkzwmygj21cu0ljwth.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoqcz1hfmuj21960eh10b.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 14 Apr 2024 06:56:17 GMT</pubDate>
+<pubDate>Sun, 14 Apr 2024 06:56:17 GMT</pubDate>
+</item>
+<item>
+<title>【收集了基于 NeRF的逆渲染论文的资源集合】'Awesome-Inverse-Rendering - A collection of papers on NeRF-Based Inverse Rendering.' GitHub: github.com/ingr...</title>
+<link>https://weibo.com/1402400261/O9Gg84AxH</link>
+<guid>https://weibo.com/1402400261/O9Gg84AxH</guid>
+<content:encoded><![CDATA[
+<div> GitHub, NeRF, 逆渲染, 论文, 资源, 集合, 知识库, 搜索, 提取, NeRF-Based<br>
+<br>NeRF-Based逆渲染论文资源集合。
+NeRF是目前逆渲染研究中的热门技术之一，该资源集合汇总了基于NeRF的逆渲染论文，是一个非常有用的知识库。用户可以在该GitHub页面上查找相关的研究文献，从中提取出自己感兴趣的信息。这个集合不仅提供了深入了解NeRF技术的机会，也为研究者和开发者提供了宝贵的资源。通过这些论文，我们可以了解到逆渲染领域的最新进展，从而促进该领域的研究和应用。在这个资源集合中，用户可以搜索有关NeRF的各种信息和文献，帮助他们更好地掌握逆渲染技术的核心概念和应用方法。该资源集合的建立为研究者和开发者提供了便利，有助于推动逆渲染领域的发展和创新。<br><br>总结: <br>NeRF-Based逆渲染论文资源集合是一个汇总了基于NeRF的逆渲染论文的知识库，用户可以从中搜索并提取相关信息，了解逆渲染领域的最新进展，提升技术水平。 <div>
+【收集了基于 NeRF的逆渲染论文的资源集合】'Awesome-Inverse-Rendering - A collection of papers on NeRF-Based Inverse Rendering.' GitHub: github.com/ingra14m/Awesome-Inverse-Rendering <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoqd6x89vmj210f0u0q7d.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 14 Apr 2024 06:53:49 GMT</pubDate>
+<pubDate>Sun, 14 Apr 2024 06:53:49 GMT</pubDate>
+</item>
+<item>
+<title>【Mltraq：一个开源 Python 库，专门为 AI 开发人员设计、执行和共享实验，可以跟踪任意内容，流式传输、复现、协作和在任何地方恢复计算状态】'Mltraq - Track ...</title>
+<link>https://weibo.com/1402400261/O9GcfD9iI</link>
+<guid>https://weibo.com/1402400261/O9GcfD9iI</guid>
+<content:encoded><![CDATA[
+<div> 开源 Python 库, AI 开发人员, 实验, 跟踪, 流式传输, 复现, 协作, 恢复计算状态
+
+<br><br>总结:
+Mltraq是一个开源的Python库，专门为AI开发人员设计，用于执行和共享实验。它具有跟踪任意内容、流式传输、复现、协作和在任何地方恢复计算状态的功能。通过GitHub上的项目，用户可以轻松地跟踪和协作AI实验，提高团队的工作效率。 <div>
+【Mltraq：一个开源 Python 库，专门为 AI 开发人员设计、执行和共享实验，可以跟踪任意内容，流式传输、复现、协作和在任何地方恢复计算状态】'Mltraq - Track and Collaborate on AI Experiments. - Track and Collaborate on AI Experiments.' GitHub: github.com/elehcimd/mltraq <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoqcwbwouyj21740sw0wm.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 14 Apr 2024 06:44:16 GMT</pubDate>
+<pubDate>Sun, 14 Apr 2024 06:44:16 GMT</pubDate>
+</item>
+<item>
+<title>【Sequel: 开源的个性化健康助手，旨在帮助用户通过个性化的营养来控制健康】'Sequel: Your Longevity Assistant - Personalized longevity assistant' GitHub: ...</title>
+<link>https://weibo.com/1402400261/O9G7c9tea</link>
+<guid>https://weibo.com/1402400261/O9G7c9tea</guid>
+<content:encoded><![CDATA[
+<div> 个性化健康助手、开源、控制健康、营养、助用户、长寿助手、GitHub、SequelHQ、个性化、健康
+
+<br><br>总结:
+本文介绍了一个开源的个性化健康助手Sequel，旨在帮助用户通过个性化的营养来控制健康。该助手可以根据用户的个人需求和身体状况，提供个性化的健康建议和营养方案，助用户更好地管理健康。用户可以在GitHub上找到该项目的代码和资源，可以更加深入地了解和使用这个个性化的长寿助手。Sequel致力于帮助用户通过个性化的健康管理，提升生活质量，延长寿命。 <div>
+【Sequel: 开源的个性化健康助手，旨在帮助用户通过个性化的营养来控制健康】'Sequel: Your Longevity Assistant - Personalized longevity assistant' GitHub: github.com/SequelHQ/Sequel <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoqck1d0aaj21020u0wix.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 14 Apr 2024 06:31:48 GMT</pubDate>
+<pubDate>Sun, 14 Apr 2024 06:31:48 GMT</pubDate>
+</item>
+<item>
+<title>【MiniCPM-V和OmniLMM 是面向图文理解的开源多模态大模型系列】'MiniCPM-V 2.0: An Efficient End-side MLLM with Strong OCR and Understanding Capabilities' ...</title>
+<link>https://weibo.com/1402400261/O9FZFxfXD</link>
+<guid>https://weibo.com/1402400261/O9FZFxfXD</guid>
+<content:encoded><![CDATA[
+<div> Efficient, End-side, MLLM, OCR, Understanding, Capabilities, MiniCPM-V, 2.0, 多模态大模型
+
+<br><br>总结：
+MiniCPM-V 2.0 是一个高效的端到端多模态大模型，具有强大的OCR和理解能力。该模型在图文理解领域取得了显著进展，通过对图像和文字进行联合训练，实现了强大的文本识别和理解。MiniCPM-V 2.0 继承了前作的优点，同时在模型效率和功能方面进行了优化，可以应用于各种多模态任务，并在GitHub上开源供大家使用。MiniCPM-V 的出现为图文理解领域注入了新的活力，为研究者和开发者提供了强大的工具和资源。 <div>
+【MiniCPM-V和OmniLMM 是面向图文理解的开源多模态大模型系列】'MiniCPM-V 2.0: An Efficient End-side MLLM with Strong OCR and Understanding Capabilities' GitHub: github.com/OpenBMB/MiniCPM-V <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoqbr78ztgj21j00ra456.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 14 Apr 2024 06:13:16 GMT</pubDate>
+<pubDate>Sun, 14 Apr 2024 06:13:16 GMT</pubDate>
+</item>
+<item>
+<title>【EasyAnimate | Your Animation Generator.：用于生成长视频和训练基于transformer的扩散生成器，基于类SORA结构与DIT，使用transformer进行作为扩散器进行视频...</title>
+<link>https://weibo.com/1402400261/O9FR84nMJ</link>
+<guid>https://weibo.com/1402400261/O9FR84nMJ</guid>
+<content:encoded><![CDATA[
+<div> GitHub, EasyAnimate, Animation Generator, 生成长视频, 训练基于transformer的扩散生成器, SORA结构, DIT, 视频生成
+
+<br><br>总结:
+EasyAnimate是一个用于生成长视频和训练基于transformer的扩散生成器的动画生成器。它基于类SORA结构与DIT，使用transformer作为扩散器进行视频生成。用户可以轻松地生成动画，并通过GitHub访问相关资源与代码。 <div>
+【EasyAnimate | Your Animation Generator.：用于生成长视频和训练基于transformer的扩散生成器，基于类SORA结构与DIT，使用transformer进行作为扩散器进行视频生成】’EasyAnimate | Your Animation Generator. - Generate your animation easily' GitHub: github.com/aigc-apps/EasyAnimate <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoqbetn8ffj215r0u0wj7.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 14 Apr 2024 05:52:13 GMT</pubDate>
+<pubDate>Sun, 14 Apr 2024 05:52:13 GMT</pubDate>
+</item>
+<item>
+<title>【Describe：将视频转换为自定义多媒体摘要的应用】'Describe - Incredibly descriptive audiovisual summaries for videos' GitHub: github.com/sieve-communit...</title>
+<link>https://weibo.com/1402400261/O9FOJz3Sd</link>
+<guid>https://weibo.com/1402400261/O9FOJz3Sd</guid>
+<content:encoded><![CDATA[
+<div> 视频，自定义，多媒体，摘要，应用，GitHub，描述，音频，视觉，总结
+
+关键词提取完毕。
+
+总结:<br><br>这个应用程序可以将视频转换为自定义的多媒体摘要，提供了极具描述性的音频和视觉总结功能。用户可以在GitHub上找到该应用程序，通过提取视频内容，生成高质量的摘要信息。应用的功能包括提供详细的文字描述和音频概括，帮助用户更快速地了解视频内容。这个工具可以帮助用户节省时间，并提供多种方式来理解视频内容。 <div>
+【Describe：将视频转换为自定义多媒体摘要的应用】'Describe - Incredibly descriptive audiovisual summaries for videos' GitHub: github.com/sieve-community/describe <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoqb8mcnz6j20u01467c1.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 14 Apr 2024 05:46:20 GMT</pubDate>
+<pubDate>Sun, 14 Apr 2024 05:46:20 GMT</pubDate>
+</item>
+<item>
+<title>【Embed-Photos：基于 MLX 和 CLIP 模型的简单而强大的相似图像搜索网页应用】'Embed-Photos - Super simple MLX (apple silicon) CLIP based photo similarity ...</title>
+<link>https://weibo.com/1402400261/O9FNM2Oo8</link>
+<guid>https://weibo.com/1402400261/O9FNM2Oo8</guid>
+<content:encoded><![CDATA[
+<div> MLX, CLIP, 相似图像搜索, 网页应用, GitHub, 强大, 简单, 应用, 图像, MLX
+
+Embed-Photos是一个基于MLX和CLIP模型的相似图像搜索网页应用，具有强大的搜索功能。用户可以在GitHub上找到该应用的代码。该应用设计简单易用，能够快速找到相似的图像。通过MLX和CLIP模型的支持，该应用能够准确地识别相似的图像并进行搜索。如果想要在苹果硅片设备上使用这个应用，Embed-Photos是一个不错的选择。 <div>
+【Embed-Photos：基于 MLX 和 CLIP 模型的简单而强大的相似图像搜索网页应用】'Embed-Photos - Super simple MLX (apple silicon) CLIP based photo similarity web app' GitHub: github.com/harperreed/photo-similarity-search <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoqb5b9eskj20u00xptgg.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 14 Apr 2024 05:43:57 GMT</pubDate>
+<pubDate>Sun, 14 Apr 2024 05:43:57 GMT</pubDate>
+</item>
+<item>
+<title>【《AI-Powered Search》随书代码】’AI-Powered Search - Work in Progress for AI-Powered Search (Manning Publications)' GitHub: github.com/treygrainger/...</title>
+<link>https://weibo.com/1402400261/O9FMy45PX</link>
+<guid>https://weibo.com/1402400261/O9FMy45PX</guid>
+<content:encoded><![CDATA[
+<div> AI-Powered Search, GitHub, Manning Publications, 搜索引擎, 人工智能, 代码
+
+<br><br>总结:
+本篇文章介绍了关于AI-Powered Search的工作进展，提供了相关的GitHub链接和出版物信息。AI-Powered Search利用人工智能技术来增强搜索引擎的能力，提高搜索结果的精度和效率。读者可以通过GitHub链接找到相关的代码和资料，深入了解人工智能在搜索领域的应用。通过阅读本文和访问相关资源，读者可以加深对人工智能搜索技术的理解，探索其在实际项目中的应用和潜力。 <div>
+【《AI-Powered Search》随书代码】’AI-Powered Search - Work in Progress for AI-Powered Search (Manning Publications)' GitHub: github.com/treygrainger/ai-powered-search <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoqb26xdikj20wu0u0te5.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 14 Apr 2024 05:40:56 GMT</pubDate>
+<pubDate>Sun, 14 Apr 2024 05:40:56 GMT</pubDate>
+</item>
+<item>
+<title>【Nezha：基于同步时钟的可部署和高性能一致性算法，提供了多种性能优化，如高性能库和数据结构的使用、管道优化等】’Nezha - Nezha: Deployable and High-Perf...</title>
+<link>https://weibo.com/1402400261/O9FixwakQ</link>
+<guid>https://weibo.com/1402400261/O9FixwakQ</guid>
+<content:encoded><![CDATA[
+<div> 基于同步时钟、可部署、高性能、一致性算法、性能优化、高性能库、数据结构、管道优化、Nezha、GitHub<br>
+<br>
+总结:<br>
+Nezha是一个基于同步时钟的一致性算法，具有可部署性和高性能特点。该算法利用同步时钟提供多种性能优化，包括高性能库和数据结构的使用，以及管道优化等。通过Nezha，用户能够实现高性能的共识机制，并在GitHub上获取更多相关信息。Nezha的研究为提高系统的一致性和性能提供了新的思路和方法。 <div>
+【Nezha：基于同步时钟的可部署和高性能一致性算法，提供了多种性能优化，如高性能库和数据结构的使用、管道优化等】’Nezha - Nezha: Deployable and High-Performance Consensus Using Synchronized Clocks' GitHub: github.com/Steamgjk/Nezha <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoq8w42x96j213h0u0wi2.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 14 Apr 2024 04:27:01 GMT</pubDate>
+<pubDate>Sun, 14 Apr 2024 04:27:01 GMT</pubDate>
+</item>
 
 <item>
 <title>【如何更好地处理高复杂度的问题】1、从一个最小的例子开始,然后逐步拓展在处理复杂的问题时，不要直接面对全部的复杂性，而是先从一个简化的最小例子入手，逐步...</title>
