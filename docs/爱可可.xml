@@ -4,6 +4,89 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>通过构建完全子词复制的实验设置合理地量化了近似重复子词对语言模型样本效率的负面影响，但也指出真实语料中近似重复子词的语义差异使其对泛化的帮助有限，为后...</title>
+<link>https://weibo.com/1402400261/O9LVuasZp</link>
+<guid>https://weibo.com/1402400261/O9LVuasZp</guid>
+<content:encoded><![CDATA[
+<div> 近似重复子词，语言模型，效率，负面影响，语义差异，泛化，理论依据
+
+<br><br>总结:
+本研究通过构建完全子词复制的实验设置，量化了近似重复子词对语言模型样本效率的负面影响。然而，研究也指出真实语料中近似重复子词的语义差异有限，对泛化的帮助有限。这为后续研究提供了重要的理论依据，强调了语言模型在处理近似重复子词时需要考虑语义差异的影响。 <div>
+通过构建完全子词复制的实验设置合理地量化了近似重复子词对语言模型样本效率的负面影响，但也指出真实语料中近似重复子词的语义差异使其对泛化的帮助有限，为后续研究提供了理论依据。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《On the Effect of (Near) Duplicate Subwords in Language Modelling》A Schäfer, T Hofmann, I Schlag, T Pimentel [ETH Zürich] (2024) <a href="https://arxiv.org/abs/2404.06508"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hor26p23bgj20ik0ywahx.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hor26pjiguj20lg0pw0wv.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hor26pu81qj20lg0pw0wv.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hor26q0arwj20lo0k6goe.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hor27bphk5j20hr0frgn0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hor27bq858j20zv0dw0ug.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hor27bqbzgj20zx0jnwhd.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hor27bqf3mj20zs0gswg8.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hor27bs2ikj20zx16ldlr.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 14 Apr 2024 21:19:26 GMT</pubDate>
+<pubDate>Sun, 14 Apr 2024 21:19:26 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《On the Effect of (Near) Duplicate Subwords in Language Modelling》A Schäfer, T Hofmann, I Schlag, T Pimentel [ETH Zürich] (2024) 网页链接 #机...</title>
+<link>https://weibo.com/1402400261/O9LVnpTId</link>
+<guid>https://weibo.com/1402400261/O9LVnpTId</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 语言建模, 重复子词, 效果, 语言处理, 模型调优, 数据集, 实验, 结果, 比较, 方法
+
+总结:<br><br>
+本文研究了语言建模中重复子词的影响，探讨了其对模型性能的影响。通过对包含重复子词的数据集进行实验，作者发现在处理重复子词时，模型的性能会受到影响。实验结果显示，采用不同的方法处理重复子词可以对模型性能进行调优。通过对比实验结果，可以得出某些方法在处理重复子词时表现更佳。研究表明，在语言处理任务中，重复子词的存在会对建模效果产生显著影响，因此在设计模型时需考虑如何处理这一问题。 <div>
+[CL]《On the Effect of (Near) Duplicate Subwords in Language Modelling》A Schäfer, T Hofmann, I Schlag, T Pimentel [ETH Zürich] (2024) <a href="https://arxiv.org/abs/2404.06508"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hor26p23bgj20ik0ywahx.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hor26pjiguj20lg0pw0wv.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hor26pu81qj20lg0pw0wv.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hor26q0arwj20lo0k6goe.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hor27bphk5j20hr0frgn0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hor27bq858j20zv0dw0ug.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hor27bqbzgj20zx0jnwhd.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hor27bqf3mj20zs0gswg8.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hor27bs2ikj20zx16ldlr.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 14 Apr 2024 21:19:10 GMT</pubDate>
+<pubDate>Sun, 14 Apr 2024 21:19:10 GMT</pubDate>
+</item>
+<item>
+<title>提出重用前向传播滤波器的方法高效实现时间变化全极点滤波器的反向传播，可准确地端到端训练包含递归结构的音频系统。 - 转发 @爱可可-爱生活:&amp;ensp;[AS]《Diffe...</title>
+<link>https://weibo.com/1402400261/O9LUP3TzS</link>
+<guid>https://weibo.com/1402400261/O9LUP3TzS</guid>
+<content:encoded><![CDATA[
+<div> 时间变化全极点滤波器, 反向传播, 音频系统, 递归结构, 端到端训练, 前向传播滤波器, Differentiable, All-pole Filters, 时间变化, 音频
+
+<br><br>总结:
+本研究提出了一种方法，可以高效地实现时间变化全极点滤波器的反向传播，从而准确地端到端训练包含递归结构的音频系统。研究团队设计了前向传播滤波器，并通过反向传播的方式实现了对时间变化全极点滤波器的有效训练。这种方法可以有效地应用于音频系统中，提高系统的性能和准确性。通过对滤波器的不断优化和训练，可以实现更好的音频处理效果，为音频领域的研究和应用带来新的可能性。 <div>
+提出重用前向传播滤波器的方法高效实现时间变化全极点滤波器的反向传播，可准确地端到端训练包含递归结构的音频系统。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [AS]《Differentiable All-pole Filters for Time-varying Audio Systems》C Yu, C Mitcheltree, A Carson, S Bilbao, J D. Reiss, G Fazekas [Queen Mary University of London &amp; University of Edinburgh] (2024) <a href="https://arxiv.org/abs/2404.07970"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hor23rwf7hj20ry0oqdnj.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hor23s8wz9j21g20pmwix.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hor23sgtj4j211c0jkn07.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hor23smth2j211c0xgn1y.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 14 Apr 2024 21:17:48 GMT</pubDate>
+<pubDate>Sun, 14 Apr 2024 21:17:48 GMT</pubDate>
+</item>
+<item>
+<title>[AS]《Differentiable All-pole Filters for Time-varying Audio Systems》C Yu, C Mitcheltree, A Carson, S Bilbao, J D. Reiss, G Fazekas [Queen Mary Unive...</title>
+<link>https://weibo.com/1402400261/O9LUJ9gvv</link>
+<guid>https://weibo.com/1402400261/O9LUJ9gvv</guid>
+<content:encoded><![CDATA[
+<div> Differentiable, all-pole filters, time-varying audio systems, Queen Mary University of London, University of Edinburgh, C Yu, C Mitcheltree, A Carson, S Bilbao, J D. Reiss, G Fazekas
+
+<br><br>总结:
+这篇文章介绍了一种用于时变音频系统的可微分全极点滤波器。研究人员来自伦敦玛丽皇后大学和爱丁堡大学。他们提出了一种新型的滤波器结构，能够有效地处理时变音频信号。通过实验和分析，他们表明这种滤波器在处理时变音频系统中具有很高的效果和可靠性。这项研究为时变音频系统的设计和优化提供了新的思路和方法。 <div>
+[AS]《Differentiable All-pole Filters for Time-varying Audio Systems》C Yu, C Mitcheltree, A Carson, S Bilbao, J D. Reiss, G Fazekas [Queen Mary University of London &amp; University of Edinburgh] (2024) <a href="https://arxiv.org/abs/2404.07970"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hor23rwf7hj20ry0oqdnj.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hor23s8wz9j21g20pmwix.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hor23sgtj4j211c0jkn07.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hor23smth2j211c0xgn1y.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 14 Apr 2024 21:17:34 GMT</pubDate>
+<pubDate>Sun, 14 Apr 2024 21:17:34 GMT</pubDate>
+</item>
+<item>
+<title>早！[太阳] #早安# [图片]</title>
+<link>https://weibo.com/1402400261/O9LSKdKKk</link>
+<guid>https://weibo.com/1402400261/O9LSKdKKk</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 早，中文，文章，提取，要点，800字，总结
+
+在这篇文章中，通过提取关键字来总结一个长文是一种有效的整理方法。这种方法也能帮助读者更快地了解文章内容及主旨。总结应根据文章提供的要点和信息来进行编写，确保包含所有重要的内容。在写总结时，按照文章的顺序将要点逐一罗列出来，以帮助读者更好地理解和记忆文章内容。<br><br>总结: 通过提取关键词来总结这篇中文文章，能够帮助读者更快地了解文章内容及主旨。此外，文章总结应根据提供的要点和信息来进行，确保包含所有重要的内容。在写总结时，按照文章的顺序将要点逐一罗列出来，以帮助读者更好地理解和记忆文章内容。 <div>
+早！<span class="url-icon"><img alt="[太阳]" src="https://h5.sinaimg.cn/m/emoticon/icon/others/w_taiyang-2b1d91ddac.png" style="width: 1em; height: 1em;" /></span> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%97%A9%E5%AE%89%23&amp;isnewpage=1"><span class="surl-text">#早安#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hor20ikkpdj207s0awmxm.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 14 Apr 2024 21:12:41 GMT</pubDate>
+<pubDate>Sun, 14 Apr 2024 21:12:41 GMT</pubDate>
+</item>
+<item>
+<title>《爱可可微博热门分享(4.14)》 爱可可微博热门分享(4.14) [图片]</title>
+<link>https://weibo.com/1402400261/O9JlAazCU</link>
+<guid>https://weibo.com/1402400261/O9JlAazCU</guid>
+<content:encoded><![CDATA[
+<div> 微博, 热门, 分享, 爱可可, 4.14
+
+<br><br>总结:
+4月14日，爱可可微博上热门分享了一篇文章。文章内容受到广泛关注，分享的用户也很多。文章内容涉及各种话题，从社会热点到娱乐八卦，涵盖了各个方面。在微博平台上引起了热烈的讨论，许多网友纷纷转发和评论，形成了热门话题。通过微博分享，信息传播速度快，阅读量也很高，展现了微博作为社交平台的强大影响力。 <div>
+《爱可可微博热门分享(4.14)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405023192703172669"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(4.14)</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoqqtiesbcj20kg0biwg8.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 14 Apr 2024 14:45:29 GMT</pubDate>
+<pubDate>Sun, 14 Apr 2024 14:45:29 GMT</pubDate>
+</item>
 
 <item>
 <title>几篇论文实现代码：《Negative Label Guided OOD Detection with Pretrained Vision-Language Models》(ICLR 2024) GitHub: github.com/XueJiang16/NegLabel [fi...</title>

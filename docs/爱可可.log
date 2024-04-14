@@ -4612,3 +4612,28 @@ Existing_entries: 770
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-14 14:40:50.619069
+------------------------------------------------------
+Started: 2024-04-14 22:28:28.673225
+Existing_entries: 770
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: [通过构建完全子词复制的实验设置合理地量化了近似重复子词对语言模型样本效率的负面影响，但也指出真实语料中近似重复子词的语义差异使其对泛化的帮助有限，为后...](https://weibo.com/1402400261/O9LVuasZp)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [[CL]《On the Effect of (Near) Duplicate Subwords in Language Modelling》A Schäfer, T Hofmann, I Schlag, T Pimentel [ETH Zürich] (2024) 网页链接 #机...](https://weibo.com/1402400261/O9LVnpTId)
+Token length: 263
+Summarized using GPT-3.5-turbo
+Append: [提出重用前向传播滤波器的方法高效实现时间变化全极点滤波器的反向传播，可准确地端到端训练包含递归结构的音频系统。 - 转发 @爱可可-爱生活:&ensp;[AS]《Diffe...](https://weibo.com/1402400261/O9LUP3TzS)
+Token length: 200
+Summarized using GPT-3.5-turbo
+Append: [[AS]《Differentiable All-pole Filters for Time-varying Audio Systems》C Yu, C Mitcheltree, A Carson, S Bilbao, J D. Reiss, G Fazekas [Queen Mary Unive...](https://weibo.com/1402400261/O9LUJ9gvv)
+Token length: 4
+Summarized using GPT-3.5-turbo
+Append: [早！[太阳] #早安# [图片]](https://weibo.com/1402400261/O9LSKdKKk)
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O9JlHvrP5)
+Token length: 20
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(4.14)》 爱可可微博热门分享(4.14) [图片]](https://weibo.com/1402400261/O9JlAazCU)
+append_entries: 6
+Finish: 2024-04-14 22:28:48.345026
