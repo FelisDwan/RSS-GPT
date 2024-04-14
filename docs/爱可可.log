@@ -4516,3 +4516,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O9zTwodwP)
 append_entries: 0
 Finish: 2024-04-13 22:09:44.401185
+------------------------------------------------------
+Started: 2024-04-14 01:08:23.029695
+Existing_entries: 750
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 460
+Summarized using GPT-3.5-turbo
+Append: [【如何更好地处理高复杂度的问题】1、从一个最小的例子开始,然后逐步拓展在处理复杂的问题时，不要直接面对全部的复杂性，而是先从一个简化的最小例子入手，逐步...](https://weibo.com/1402400261/O9DkhgOV3)
+Token length: 1248
+Summarized using GPT-3.5-turbo
+Append: [【xAI发布多模态AI模型Grok-1.5V】- Grok-1.5V是xAI推出的首个多模态AI模型，不仅具有强大的文本处理能力，还能够处理各种视觉信息，包括文档、图表、截图和照片...](https://weibo.com/1402400261/O9Di5rNLh)
+Token length: 97
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1375期)：基础模型时代的具身问答、数字Agent的自主评价与改进、理解概念激活向量、通过自动样例生成处理抽象和推理语料库、用图推理增强大型语言模...](https://weibo.com/1402400261/O9CSF4ilM)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [[CV] Adapting LLaMA Decoder to Vision Transformer 网页链接 通过引入因果自注意力以及相关的训练技巧，探索了LLM中的解码器设计如何迁移到计算机视觉领域，使...](https://weibo.com/1402400261/O9CNigkA8)
+Token length: 204
+Summarized using GPT-3.5-turbo
+Append: [[CL] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments 网页链接 当前算法在复杂计算机任务上的表现明显不足，仍...](https://weibo.com/1402400261/O9CKtpUYj)
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [[LG] InfiCoder-Eval: Systematically Evaluating the Question-Answering Capabilities of Code Large Language Models 网页链接 InfiCoder-Eval通过Stack Over...](https://weibo.com/1402400261/O9CHPC8dP)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [[CL] Multilingual Large Language Model: A Survey of Resources, Taxonomy and Frontiers 网页链接 全面回顾多语言大模型研究，提出参数微调对齐与参数冻结对...](https://weibo.com/1402400261/O9CELnKCq)
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: [构建了图推理基准数据集，并设计GRAPH-COT框架使LLM能在图上迭代推理，综合利用了图的结构和语义信息。 - 转发 @爱可可-爱生活:&ensp;[CL]《Graph Chain-of-Thou...](https://weibo.com/1402400261/O9CB3u8jW)
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs》B Jin, C Xie, J Zhang, K K Roy, Y Zhang, S Wang, Y Meng, J Han ...](https://weibo.com/1402400261/O9CB1mKZf)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [通过为抽象推理语料库(ARC)任务设计示例生成器，可大幅扩充每个任务的样本量，以支持针对少样本泛化能力的实验。 - 转发 @爱可可-爱生活:&ensp;[LG]《Addressing...](https://weibo.com/1402400261/O9Cy2qgvR)
+append_entries: 10
+Finish: 2024-04-14 01:09:00.071295
