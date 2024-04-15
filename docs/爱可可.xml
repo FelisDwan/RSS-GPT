@@ -4,18 +4,18 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【异常检测通用模型学习】- 通用异常检测(GAD)旨在训练一个模型， 无需使用目标数据进行训练，就能检测不同领域数据集中的异常。 提出了基于CLIP的残差学习模型I...</title>
 <link>https://weibo.com/1402400261/O9N7GwoPt</link>
 <guid>https://weibo.com/1402400261/O9N7GwoPt</guid>
 <content:encoded><![CDATA[
 <div> CLIP、残差学习、异常检测、InCTRL、泛化能力、数据集、文本提示、图像级残差、图块级残差、GAD  
-<br>  
+<br />  
 总结:  
 提出了基于CLIP的残差学习模型InCTRL，不需使用目标数据训练即可检测不同领域数据集的异常。InCTRL结合文本提示、图块级和图像级残差，利用辅助数据集学习查询图像与提示的残差，在9个数据集上明显优于其他方法。消融实验显示文本提示、残差级别对数据集贡献不同，但综合三者效果最佳。学习残差对泛化能力更重要，为异常检测提供全新视角。InCTRL在工业、医学、语义异常检测表现突出，是当前最佳GAD方法。 <div>
 【异常检测通用模型学习】<br />- 通用异常检测(GAD)旨在训练一个模型， 无需使用目标数据进行训练，就能检测不同领域数据集中的异常。   <br /> 提出了基于CLIP的残差学习模型InCTRL，利用辅助数据集，学习查询图像与少样本提示之间的残差，来区分异常样本。   <br />- InCTRL同时建模图像级和图块级的残差，获取对异常的深入理解。还结合文本提示解码器的语义信息。   <br />- 在9个异常检测数据集上进行评估，InCTRL明显优于其他方法，表明它能很好地推广到不同领域。   <br />- 消融实验表明：文本提示、图块级残差和图像级残差对不同类型数据集贡献不同，但综合三者效果最好。   <br />- 与简单拼接或平均相比，学习残差对泛化能力更重要。   <br />- 文中设定新的GAD任务评估异常检测方法的泛化能力，为异常检测研究提出全新的视角。   <br />- InCTRL在工业缺陷、医学图像及语义异常检测上表现突出，是当前最佳GAD方法。   <br />《Learning Generalist Models for Anomaly Detection | by Guansong Pang | Apr, 2024 | Towards Data Science》 <a href="https://towardsdatascience.com/learning-generalist-models-for-anomaly-detection-53d7a6a74474"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hor7h9r573j20om0o2q7f.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hor7hc246rj212w0mb44i.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 00:22:15 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 00:22:15 GMT</pubDate>
 </item>
 <item>
@@ -25,10 +25,9 @@
 <content:encoded><![CDATA[
 <div> Langchain, OpenBB, Claude 3 Opus, 股票分析工具, Agent, 拓展 AI 股票分析代理, 基本面, 技术工具, 股票符号
 
-总结:<br><br>这篇文章介绍了如何利用Langchain、OpenBB和Claude 3 Opus构建股票分析代理工具，其中包括股票符号的交换。文章还详细讨论了如何通过基本面和技术工具拓展AI股票分析代理工具，从而提高其效能。通过本文的阐述，读者可以了解到如何利用这些工具来开发更加专业和智能的股票分析代理工具。 <div>
+总结:<br /><br />这篇文章介绍了如何利用Langchain、OpenBB和Claude 3 Opus构建股票分析代理工具，其中包括股票符号的交换。文章还详细讨论了如何通过基本面和技术工具拓展AI股票分析代理工具，从而提高其效能。通过本文的阐述，读者可以了解到如何利用这些工具来开发更加专业和智能的股票分析代理工具。 <div>
 【用Claude 3 Opus构建股票分析Agent工具】《Building an Agentic Stock Analysis Tool with Langchain, OpenBB and Claude 3 Opus - Swapping Symbols》 <a href="https://sethhobson.com/2024/03/building-an-agentic-stock-analysis-tool-with-langchain-openbb-and-claude-3-opus/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> 《Expanding the AI Stock Analysis Agent with Fundamental and Technical Tools - Swapping Symbols》 <a href="https://sethhobson.com/2024/04/expanding-the-ai-stock-analysis-agent-with-fundamental-and-technical-tools/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hor74l4t7oj213e0u078n.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hor7515tuoj21o00u0n3u.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 00:10:11 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 00:10:11 GMT</pubDate>
 </item>
 <item>
@@ -38,11 +37,10 @@
 <content:encoded><![CDATA[
 <div> 计算机科学家、Python、提速利器、Scalene、开源性能分析工具、低效部分、优化建议、Best Paper Award、USENIX会议、开源社区
 
-<br><br>总结:
+<br /><br />总结:
 UMass Amherst的计算机科学家开发了开源性能分析工具Scalene，可以帮助定位Python代码中的低效部分并提供优化建议。该工具已广泛使用，下载量超过75万次，获得了USENIX会议的Best Paper Award，在学术界得到认可。随着计算机硬件技术进步放缓，优化Python性能变得越来越重要。Scalene的出现是提高Python执行效率的重要突破，也展示了开源社区的力量。这对推动Python在更多场景中的应用，提高开发者的体验和效率具有重要意义。 <div>
 【Scalene：Python提速利器】<br />- Python编程语言使用广泛，但运行效率低下，比其他编程语言慢100-1000倍甚至更多。   <br />- UMass Amherst的计算机科学家研发了开源性能分析工具Scalene，可以高效定位Python代码中的低效部分。   <br />- Scalene不仅可以准确指出Python代码的低效之处，还可以利用AI技术给出优化建议。   <br />- Scalene已经被广泛使用，下载量超过75万次。它可以帮助程序员优化Python代码，提高运行速度。   <br />- 随着计算机硬件技术进步放缓，编程语言的执行效率正变得越来越重要。Scalene这样的工具对于优化Python性能意义重大。   <br />- 该研究团队因Scalene在USENIX会议上荣获Best Paper Award。这表明该工具在学术界得到认可，对Python社区影响深远。   <br />- Scalene是提高Python执行效率的重要突破，也再次证明开源社区的力量。它将促进Python在更多场景中的应用，造福开发者。<br />《Computer scientists develop open-source tool for dramatically speeding up the programming language Python》 <a href="https://techxplore.com/news/2023-08-scientists-open-source-tool-language-python.html"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Python%23"><span class="surl-text">#Python#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hor6vp5ufnj20u00uiafe.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 00:00:59 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 00:00:59 GMT</pubDate>
 </item>
 <item>
@@ -52,11 +50,10 @@ UMass Amherst的计算机科学家开发了开源性能分析工具Scalene，可
 <content:encoded><![CDATA[
 <div> 生成式AI, 企业生产力, 工作效率, AI应用, 内部流程, 业务指标, 用户体验, 界面设计, 基础设施, 生产力革命
 
-<br><br>总结:
+<br /><br />总结:
 第三代AI以生成式AI为代表，正在影响企业生产力和工作效率。企业AI应用呈现爆炸式增长，大公司将AI集成到内部流程以实现业务指标，同时AI重塑用户体验和界面设计。基础设施类别壮大以支持新出现的强大AI模型，未来公司将更小、更多、更敏捷。AI带来生产力革命和成本降低，但也需要政府和企业努力减少就业冲击，继续创造工作岗位。2024年的AI 50榜单展示AI影响的开始，其应用范围将继续扩大。 <div>
 【AI 50企业榜单】<br />- 以生成式AI为代表的第三代AI正在改变企业生产力，提高工作效率。企业AI应用类在AI 50榜单上呈爆炸式增长。   <br />- 越来越多大公司将AI集成到内部流程，以实现业务指标的加速增长和成本的大幅降低。   <br />- AI正在重塑用户体验和界面设计，从替代人工实现更好更快，到创造全新的用户体验。   <br />- 基础设施类别也在不断壮大，以支持新出现的强大AI模型。云平台、向量数据库、推理框架等都在迎合这一趋势。   <br />- 未来的公司将更小、更多、更敏捷。公司创立将更快速和流动。AI将减少日常操作工作，让人类可以关注更重要的事。   <br />- AI带来的生产力革命将降低成本，使更多关键服务大众化。但也需要政府与企业共同努力，减少就业冲击，继续创造工作岗位。   <br />- 2024年的AI 50榜单预示着AI带来深广影响的开始，它的应用范围还将不断扩大。<br />《AI 50: Companies of the Future | Sequoia Capital》 <a href="https://www.sequoiacap.com/article/ai-50-2024/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hor6novzn7j21io0u0afh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hor6nquetwj21hc0u0jw2.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hor6nsdo8vj216i0u0tdo.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 14 Apr 2024 23:53:38 GMT</pubDate>
 <pubDate>Sun, 14 Apr 2024 23:53:38 GMT</pubDate>
 </item>
 <item>
@@ -66,10 +63,9 @@ UMass Amherst的计算机科学家开发了开源性能分析工具Scalene，可
 <content:encoded><![CDATA[
 <div> 历史，人工智能，记忆，思考能力，威胁，控制力，外包，警惕，人类创作，连接人类经验
 
-总结：<br><br>这篇文章讨论了历史对于人类意识和社会记忆的重要性，以及人工智能可能对历史的影响。作者担心人工智能可能被用来生成虚假的历史文本，削弱人类对历史的理解能力。学生可能只需向聊天机器人提几个问题就获得答案，而不做进一步思考和研究，这对历史学习构成威胁。历史应该由人类书写和解释，否则我们将失去对未来的控制能力。尽管历史学不是AI的首要取代目标，但这种威胁正在增长。文章还探讨了词语定义的模糊性和不确定性，以及人工智能介入历史叙事可能带来的新视角和偏见。继续由人类进行历史创作、理解和传播至关重要，要抵制将其外包给AI的诱惑。 <div>
+总结：<br /><br />这篇文章讨论了历史对于人类意识和社会记忆的重要性，以及人工智能可能对历史的影响。作者担心人工智能可能被用来生成虚假的历史文本，削弱人类对历史的理解能力。学生可能只需向聊天机器人提几个问题就获得答案，而不做进一步思考和研究，这对历史学习构成威胁。历史应该由人类书写和解释，否则我们将失去对未来的控制能力。尽管历史学不是AI的首要取代目标，但这种威胁正在增长。文章还探讨了词语定义的模糊性和不确定性，以及人工智能介入历史叙事可能带来的新视角和偏见。继续由人类进行历史创作、理解和传播至关重要，要抵制将其外包给AI的诱惑。 <div>
 【没有过去，就没有未来】<br />- 历史对于人类意识和社会记忆非常重要。它塑造我们的世界观，支持社会规范和法律等。   <br />- 作者担心AI会被用来生成虚假的历史文本和解释，这会削弱人类对历史的理解和批判性思考的能力。   <br />- 学生可能只需向聊天机器人提几个问题就获得“历史”答案，而不做进一步的思考和研究。这是对历史学习的一种威胁。   <br />- 文章警告如果将历史创作外包给机器，我们将失去对未来的控制能力。历史应由人类书写和解释。   <br />- 相较于其他领域，历史学目前还不是AI的首要取代目标，但这种威胁正在快速增长。历史工作者需要警惕并做好准备。   <br />- 历史是连接人类经验的纽带，是无价之宝。我们必须抵制将其外包给AI的商业和教育诱惑，继续由人类进行历史创作、理解和传播。<br /><br />思考：  <br />- 本文提出一个有趣的观点：历史和过去记忆对于人工智能实现类人思考至关重要。这一观点有一定道理，因为人类思维很大程度上依赖于过去的经验和记忆。  <br />- 文章指出词语定义的模糊性和不确定性，这与严谨的数理逻辑形成鲜明对比。这一见解发人深省，让人反思语言和思维的关系。  <br />- 作者想象了一个场景：如果人工智能开始书写和解读历史会怎样?这一假设虽然有些耸人听闻，但值得我们思考。当人工智能介入历史叙事，可能会带来新的视角，但也可能带来新的偏见和操纵。  <br />《No Past, No Future. “One of the early inventors of… | by David Hitchcock | Apr, 2024 | Medium》 <a href="https://hitchcockian.medium.com/no-past-no-future-38f1a9cfe541"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hor6kzsmihj20pm0ozn1o.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 14 Apr 2024 23:50:42 GMT</pubDate>
 <pubDate>Sun, 14 Apr 2024 23:50:42 GMT</pubDate>
 </item>
 <item>
@@ -79,11 +75,10 @@ UMass Amherst的计算机科学家开发了开源性能分析工具Scalene，可
 <content:encoded><![CDATA[
 <div> LangChain实战、LangChain、LLM、LangServe、LangSmith、生成式人工智能、初学者、开发者、应用场景、LCEL
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了对LangChain实战的开奖活动，参与者需要转发并评论才能参与。活动截止日期为2024年4月15日12:00。LangChain实战是专为初学者和对LangChain应用及大语言模型（LLM）感兴趣的开发者而编写的，配套600分钟详解视频。书籍重点介绍了多个核心应用场景，并深入探讨了LCEL的应用方式。此外，本书还围绕LangChain生态系统的概念展开，详细讨论了LangChain、LangServe和LangSmith，帮助读者更全面地了解LangChain团队在生成式人工智能领域的布局。 <div>
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：今日开奖，欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《LangChain实战》，截至2024.4.15 12:00，*可可粉*转发+评论即可参与。本书专为初学者和对LangChain应用及大语言模型（LLM）应用感兴趣的开发者而编写的，基于LangChain 0.1版本，配套600分钟详解视频，重点介绍了多个核心应用场景，并且深入探讨了LCEL的应用方式。同时，本书围绕LangChain生态系统的概念，详细探讨LangChain、LangServe和LangSmith，帮助读者全面了解LangChain团队在生成式人工智能领域的布局。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a>  <a href="https://shop.sc.weibo.com/h5/goods/index?iid=110014024002610004661854"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">LangChain实战：从原型到生产，动手打造 LLM 应用</span></a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5019329879867805"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef5y7mh4j20m80m843w.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef60gn5cj20m80m80x0.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef61a08vj20m80m8wio.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef62eb09j20m80m8tdb.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hofl98oom9j207q0a0jrm.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Sun, 14 Apr 2024 22:17:58 GMT</pubDate>
 <pubDate>Sun, 14 Apr 2024 22:17:58 GMT</pubDate>
 </item>
 <item>
@@ -93,11 +88,10 @@ UMass Amherst的计算机科学家开发了开源性能分析工具Scalene，可
 <content:encoded><![CDATA[
 <div> 可微全极滤波器  重复子词  语言建模  医学领域  开源多语言文本  混合专家语言模型  大型语言模型  指代  定位  改进基线  
 
-<br><br>总结:  
+<br /><br />总结:  
 本期推介的文章涵盖了时变音频系统中可微全极滤波器的研究，以及重复子词在语言建模中的作用。另外，还介绍了医学领域的开源多语言文本到文本LLM，混合专家语言模型训练的重新思考，和大型语言模型指代和定位的改进基线。这些研究内容丰富多样，对于相关领域的发展和应用具有重要意义。 <div>
 今日推介(第1376期)：时变音频系统的可微全极滤波器、(近)重复子词在语言建模中的作用、医学领域开源多语言文本到文本LLM、重新思考混合专家语言模型训练、大型语言模型指代和定位的改进基线 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/692472274"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(4.15)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hor3vmypuej21g20pm780.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hor3vpd9x5j21740myjvh.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hor3vrv2e2j20ou0kmacm.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hor3vucq6tj216c0k0q73.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hor3vx61y8j21io0pk485.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 14 Apr 2024 22:17:24 GMT</pubDate>
 <pubDate>Sun, 14 Apr 2024 22:17:24 GMT</pubDate>
 </item>
 <item>
@@ -105,13 +99,12 @@ UMass Amherst的计算机科学家开发了开源性能分析工具Scalene，可
 <link>https://weibo.com/1402400261/O9MgiBjvb</link>
 <guid>https://weibo.com/1402400261/O9MgiBjvb</guid>
 <content:encoded><![CDATA[
-<div> 模型风洞实验, WSD学习率调度器, 小型语言模型, MiniCPM系列, 高效训练, 可拓展训练, 有限计算资源, 语言模型潜力<br>
-<br>
-总结:<br>
+<div> 模型风洞实验, WSD学习率调度器, 小型语言模型, MiniCPM系列, 高效训练, 可拓展训练, 有限计算资源, 语言模型潜力<br />
+<br />
+总结:<br />
 本文提出了MiniCPM系列小型语言模型，通过模型风洞实验和WSD学习率调度器实现高效、可拓展的训练方案。在有限的计算资源下，MiniCPM系列发挥了语言模型巨大潜力。通过优化训练策略和调整学习率，MiniCPM在小规模下具有出色的性能表现，为语言模型研究提供了新的思路。 <div>
 [CL] MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies  <br /><a href="https://arxiv.org/abs/2404.06395"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>        <br />提出小型语言模型MiniCPM系列，通过模型风洞实验和WSD学习率调度器实现高效、可拓展的训练方案，在有限计算资源下发挥语言模型巨大潜力。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hor3oxxailj20qk16ganj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hor3oydynzj21a00ggq8f.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hor3oytjnsj21c60w44ez.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 14 Apr 2024 22:10:43 GMT</pubDate>
 <pubDate>Sun, 14 Apr 2024 22:10:43 GMT</pubDate>
 </item>
 <item>
@@ -121,10 +114,9 @@ UMass Amherst的计算机科学家开发了开源性能分析工具Scalene，可
 <content:encoded><![CDATA[
 <div> 关键词: BRAVE, 视觉编码器, VLM, SOTA, 多任务, 鲁棒性
 
-总结:<br><br>本研究提出了一种名为BRAVE的方法，通过整合多视觉编码器的表达，扩展了视觉-语言模型的视觉理解能力。实验结果显示，BRAVE在多个任务上达到了当前最先进水平，并显著提高了模型的鲁棒性。该方法为进一步提升视觉-语言模型的性能和多任务表现提供了有益的思路。 <div>
+总结:<br /><br />本研究提出了一种名为BRAVE的方法，通过整合多视觉编码器的表达，扩展了视觉-语言模型的视觉理解能力。实验结果显示，BRAVE在多个任务上达到了当前最先进水平，并显著提高了模型的鲁棒性。该方法为进一步提升视觉-语言模型的性能和多任务表现提供了有益的思路。 <div>
 [CV]  BRAVE: Broadening the visual encoding of vision-language models  <br /><a href="https://arxiv.org/abs/2404.07204"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />BRAVE 通过有效整合多视觉编码器的表达，大大扩展了 VLM 的视觉理解能力，在多个任务上取得 SOTA 水平，同时显著提高了模型的鲁棒性。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hor3fsiuxhj20se19qdte.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hor3ft4jzfj21pm1a41a5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hor3ftormpj21pi11gh2r.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 14 Apr 2024 22:01:56 GMT</pubDate>
 <pubDate>Sun, 14 Apr 2024 22:01:56 GMT</pubDate>
 </item>
 <item>
@@ -132,15 +124,13 @@ UMass Amherst的计算机科学家开发了开源性能分析工具Scalene，可
 <link>https://weibo.com/1402400261/O9M9xi9Oc</link>
 <guid>https://weibo.com/1402400261/O9M9xi9Oc</guid>
 <content:encoded><![CDATA[
-<div> CLIP空间, 参数空间, 语言泛化能力, 3D形状模型, 新样例生成<br>
-<br>
-通过将CLIP空间映射到参数空间，并利用语言的泛化能力，可以控制不同的3D形状模型生成新的样例。这种方法可以帮助研究人员更有效地分析、理解和创造3D形状模型，并为设计和创新提供新的可能性。AWOL技术的引入为研究领域带来了新的思路和方法，拓展了在3D形状生成方面的前沿研究。同时，通过语言的引导和控制，可以更灵活地进行形状模型的创作和变形，提高了生成模型的多样性和创造力。在未来，这种基于语言和参数空间映射的方法有望为计算机图形学和人工智能领域带来更多创新和突破性进展。<br><br>总结: <br>通过CLIP空间到参数空间的映射，利用语言的泛化能力来控制不同3D形状模型生成新样例。这种方法为研究人员提供了新的创作和分析工具，扩展了3D形状生成领域的边界，为未来的计算机图形学和人工智能研究带来了新的可能性。 <div>
+<div> CLIP空间, 参数空间, 语言泛化能力, 3D形状模型, 新样例生成<br />
+<br />
+通过将CLIP空间映射到参数空间，并利用语言的泛化能力，可以控制不同的3D形状模型生成新的样例。这种方法可以帮助研究人员更有效地分析、理解和创造3D形状模型，并为设计和创新提供新的可能性。AWOL技术的引入为研究领域带来了新的思路和方法，拓展了在3D形状生成方面的前沿研究。同时，通过语言的引导和控制，可以更灵活地进行形状模型的创作和变形，提高了生成模型的多样性和创造力。在未来，这种基于语言和参数空间映射的方法有望为计算机图形学和人工智能领域带来更多创新和突破性进展。<br /><br />总结: <br />通过CLIP空间到参数空间的映射，利用语言的泛化能力来控制不同3D形状模型生成新样例。这种方法为研究人员提供了新的创作和分析工具，扩展了3D形状生成领域的边界，为未来的计算机图形学和人工智能研究带来了新的可能性。 <div>
 [CV] AWOL: Analysis WithOut synthesis using Language  <br /><a href="https://arxiv.org/abs/2404.03042"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />通过从CLIP空间到参数空间的映射，利用语言的泛化能力来控制不同3D形状模型生成新样例。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hor37ldwxrj20si1auqer.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hor37luav8j21pm0ko0z9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hor37m56p9j21po0wu466.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 14 Apr 2024 21:54:03 GMT</pubDate>
-<pubDate>Sun, 14 Apr 2024 21:54:03 GMT</pubDate>
 </item>
-
 <item>
 <title>通过构建完全子词复制的实验设置合理地量化了近似重复子词对语言模型样本效率的负面影响，但也指出真实语料中近似重复子词的语义差异使其对泛化的帮助有限，为后...</title>
 <link>https://weibo.com/1402400261/O9LVuasZp</link>

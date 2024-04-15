@@ -4673,3 +4673,9 @@ Summarized using GPT-3.5-turbo
 Append: [[CV] AWOL: Analysis WithOut synthesis using Language 网页链接 通过从CLIP空间到参数空间的映射，利用语言的泛化能力来控制不同3D形状模型生成新样例。 [图片...](https://weibo.com/1402400261/O9M9xi9Oc)
 append_entries: 10
 Finish: 2024-04-15 03:15:01.342318
+------------------------------------------------------
+Started: 2024-04-15 04:27:05.558190
+Existing_entries: 786
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-15 04:27:05.633636
