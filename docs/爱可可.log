@@ -4787,3 +4787,37 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O9SKempAi)
 append_entries: 0
 Finish: 2024-04-15 20:11:15.150289
+------------------------------------------------------
+Started: 2024-04-15 22:09:54.460303
+Existing_entries: 805
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [Inheritune通过明智地重用参考模型参数和少量额外训练，实现了高效开发小规模而性能强劲的语言模型。 - 转发 @爱可可-爱生活:&ensp;[CL]《Pre-training Small Ba...](https://weibo.com/1402400261/O9Vnbt985)
+Token length: 107
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Pre-training Small Base LMs with Fewer Tokens》S Sanyal, S Sanghavi, A G. Dimakis [UT Austin] (2024) 网页链接 #机器学习##人工智能##论文# [图片][...](https://weibo.com/1402400261/O9Vn9ggKc)
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [通过词频统计模型估计了ChatGPT对计算机科学论文摘要写作风格的重要影响，是第一份定量分析该领域大规模语言模型应用的研究。 - 转发 @爱可可-爱生活:&ensp;[CL]...](https://weibo.com/1402400261/O9Vjl1CLP)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Is ChatGPT Transforming Academics' Writing Style?》M Geng, R Trotta [Scuola Internazionale Superiore di Studi Avanzati (SISSA)] (2024) 网页链接 ...](https://weibo.com/1402400261/O9Vjf5Tzg)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [通过构建代理模型和获取函数，提出仿真优化框架，实现高效低成本的语言模型提示选择。 - 转发 @爱可可-爱生活:&ensp;[CL]《Language Model Prompt Selection via...](https://weibo.com/1402400261/O9Virq4My)
+Token length: 122
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Language Model Prompt Selection via Simulation Optimization》H Zhang, J He, R Righter, Z Zheng [UC Berkeley] (2024) 网页链接 #机器学习##人工智能...](https://weibo.com/1402400261/O9VijuFyw)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [深入探讨了Tokenization在降低Transformer语言模型的交叉熵损失方面的理论机制，并比较了不同Tokenization方案的泛化能力，为理解和改进Tokenization提供了范式...](https://weibo.com/1402400261/O9VhOrZ07)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Toward a Theory of Tokenization in LLMs》N Rajaraman, J Jiao, K Ramchandran [UC Berkeley] (2024) 网页链接 #机器学习##人工智能##论文# [图片][图片...](https://weibo.com/1402400261/O9VhGsaVY)
+Token length: 4
+Summarized using GPT-3.5-turbo
+Append: [早！[太阳] #早安# [图片]](https://weibo.com/1402400261/O9Vg1cVHL)
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O9SKempAi)
+append_entries: 9
+Finish: 2024-04-15 22:10:30.175959
