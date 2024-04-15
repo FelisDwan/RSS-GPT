@@ -3337,3 +3337,12 @@ Summarized using GPT-3.5-turbo
 Append: [4月17日，2024中国AIGC产业峰会将汇聚技术、产品、投资和用户等玩家代表，共讨AIGC正在重塑的新世界！#中国AIGC产业峰会# 量子位的微博直播 中国AIGC产业峰会「...](https://weibo.com/6105753431/O9SKbnZM8)
 append_entries: 2
 Finish: 2024-04-15 16:13:45.179320
+------------------------------------------------------
+Started: 2024-04-15 18:13:53.356676
+Existing_entries: 391
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [#Sora进驻Adobe视频编辑软件# Adobe旗下视频剪辑软件Premiere Pro刚刚预览了引入Sora、Pika和Runway的AIGC能力后，未来视频剪辑工作的样子——靠prompt就可以！...](https://weibo.com/6105753431/O9Ta305d9)
+append_entries: 1
+Finish: 2024-04-15 18:13:57.631567
