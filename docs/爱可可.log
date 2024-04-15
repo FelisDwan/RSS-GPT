@@ -4727,3 +4727,39 @@ Summarized using GPT-3.5-turbo
 Append: [【redka：用SQLite复现Redis的项目，支持 Redis 的主要数据类型，如字符串、列表、集合、哈希和有序集合】'redka - Redis re-implemented with SQLite' GitHub: ...](https://weibo.com/1402400261/O9Rj6s6j5)
 append_entries: 7
 Finish: 2024-04-15 12:21:45.221586
+------------------------------------------------------
+Started: 2024-04-15 14:10:01.192561
+Existing_entries: 794
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1913
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《IPoD: Implicit Field Learning with Point Diffusion for Generalizable 3D Object Reconstruction from Single RGB-D Images》(CVPR 2024...](https://weibo.com/1402400261/O9S8o7TG9)
+Token length: 161
+Summarized using GPT-3.5-turbo
+Append: ['EmoLLM-心理健康大模型 - 心理健康大模型、LLM、The Big Model of Mental Health、Finetune、InternLM2、Qwen、ChatGLM、Baichuan、DeepSeek、Mixtral' GitHub:...](https://weibo.com/1402400261/O9S6jgEtx)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [【surya-rs：基于 Rust 语言实现的多语言文档 OCR 工具包，基于修改版 Segformer、OpenCV 和 donut transformer 实现】'surya-rs - Rust implementation of Sury...](https://weibo.com/1402400261/O9S3Xh8Ai)
+Token length: 73
+Summarized using GPT-3.5-turbo
+Append: ['qwen-vllm - 通义千问VLLM推理部署DEMO' GitHub: github.com/owenliang/qwen-vllm #开源# #机器学习# #人工智能# [图片][图片]](https://weibo.com/1402400261/O9S1b0WPy)
+Token length: 241
+Summarized using GPT-3.5-turbo
+Append: [【repo2pdf：将 GitHub 仓库转换为 PDF 文件的工具】’repo2pdf - repo2pdf is a tool that allows you to convert a GitHub repository into a PDF file. It cl...](https://weibo.com/1402400261/O9S0q6lwd)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [【ComfyUI ArtGallery | Prompt Visualization：用于可视化提示词的项目，提供了五大类提示词参考图，包括艺术家、艺术运动、艺术媒介、相机镜头和胶片相机】'Co...](https://weibo.com/1402400261/O9RTJjxbo)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [【ServoProject：基于 Arduino 的业余舵机控制项目，提供了丰富的文档和视频演示】'ServoProject - Getting the most out of your hobby servo' GitHub: github....](https://weibo.com/1402400261/O9RS7yBiK)
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [【Agent Group Chat: 模拟群聊的交互工具，旨在促进更好的集体群体行为，旨在帮助研究人类群体行为，并为研究人类行为提供有用的工具】’Agent Group Chat: An I...](https://weibo.com/1402400261/O9RNrsIxS)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: [【面向计算机视觉的Mamba相关论文资源列表】’Mamba-in-Computer-Vision - A paper list of some recent Mamba-based CV works.' GitHub: github.com/Yangzhangc...](https://weibo.com/1402400261/O9RMTtNBr)
+Token length: 279
+Summarized using GPT-3.5-turbo
+Append: [【Code-Friendly HTML to Markdown Converter：轻量 Python 脚本，可将 HTML 页面转换为 Markdown 格式，支持代码块】'Code-Friendly HTML to Markdown Converte...](https://weibo.com/1402400261/O9RMd2tnv)
+append_entries: 10
+Finish: 2024-04-15 14:10:42.866028
