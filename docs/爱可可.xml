@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>恭喜@希侬如故 等3名用户获得【《LangChain实战》】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：网页链接 - 转发 @爱可...</title>
 <link>https://weibo.com/1402400261/O9OzQssHr</link>
@@ -11,14 +12,12 @@
 <content:encoded><![CDATA[
 <div> LangChain, 实战, 初学者, 大语言模型, 抽奖, 公正有效, LangChain团队, 生成式人工智能, LangServe, LangSmith
 
-总结:<br>
+总结:<br />
 微博官方唯一抽奖工具监督《LangChain实战》抽奖活动，恭喜3名用户获得这本书。活动截止时间为2024年4月15日12:00，用户可通过转发和评论参与抽奖。《LangChain实战》适合初学者和对LangChain应用感兴趣的开发者，介绍LangChain 0.1版本，并配有详细视频。书中重点探讨了多个核心应用场景和LCEL的应用方式，同时详细讨论了LangChain团队在生成式人工智能领域的布局。整体帮助读者全面了解LangChain、LangServe和LangSmith等相关概念。 <div>
 恭喜<a href="https://weibo.com/n/%E5%B8%8C%E4%BE%AC%E5%A6%82%E6%95%85">@希侬如故</a> 等3名用户获得【《LangChain实战》】。微博官方唯一抽奖工具<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> 对本次抽奖进行监督，结果公正有效。公示链接：<a href="https://lottery.media.weibo.com/lottery/h5/result/new?id=20435760&amp;pageid=100140E51198948"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《LangChain实战》，截至2024.4.15 12:00，*可可粉*转发+评论即可参与。本书专为初学者和对LangChain应用及大语言模型（LLM）应用感兴趣的开发者而编写的，基于LangChain 0.1版本，配套600分钟详解视频，重点介绍了多个核心应用场景，并且深入探讨了LCEL的应用方式。同时，本书围绕LangChain生态系统的概念，详细探讨LangChain、LangServe和LangSmith，帮助读者全面了解LangChain团队在生成式人工智能领域的布局。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a>  <a href="https://shop.sc.weibo.com/h5/goods/index?iid=110014024002610004661854"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">LangChain实战：从原型到生产，动手打造 LLM 应用</span></a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5019329879867805"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef5y7mh4j20m80m843w.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef60gn5cj20m80m80x0.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef61a08vj20m80m8wio.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoef62eb09j20m80m8tdb.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hofl98oom9j207q0a0jrm.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Mon, 15 Apr 2024 04:04:22 GMT</pubDate>
-<pubDate>Mon, 15 Apr 2024 04:04:22 GMT</pubDate>
 </item>
-
 <item>
 <title>【异常检测通用模型学习】- 通用异常检测(GAD)旨在训练一个模型， 无需使用目标数据进行训练，就能检测不同领域数据集中的异常。 提出了基于CLIP的残差学习模型I...</title>
 <link>https://weibo.com/1402400261/O9N7GwoPt</link>

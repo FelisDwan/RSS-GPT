@@ -3284,3 +3284,9 @@ Append: [#陶哲轩分享AI数学资源清单# 数学天才陶哲轩公开安利
 Append: [#吴恩达AI智能体新发现# 吴恩达最新发现，Planning 在 agentic AI 中非常关键。当我们使用 LLM 时，它能自主决定执行哪些步骤以完成更复杂的任务。简单举例来说...](https://weibo.com/6105753431/O9NDYk1AB)
 append_entries: 7
 Finish: 2024-04-15 06:16:03.762251
+------------------------------------------------------
+Started: 2024-04-15 08:11:54.743309
+Existing_entries: 382
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-04-15 08:11:54.858038

@@ -2369,3 +2369,9 @@ Summarized using GPT-3.5-turbo
 Append: [分享 GitHub 上一份精心收集了基于 Cloudflare 的各种资源列表。如各种基于 Cloudflare 的开源工具，包括图床、邮箱、博客、网站分析、加速等，还有 Cloudflare ...](https://weibo.com/5722964389/O9OHoziu2)
 append_entries: 1
 Finish: 2024-04-15 06:16:22.905569
+------------------------------------------------------
+Started: 2024-04-15 08:11:55.964737
+Existing_entries: 53
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-04-15 08:11:56.013135
