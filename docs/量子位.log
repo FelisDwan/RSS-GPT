@@ -3290,3 +3290,23 @@ Existing_entries: 382
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-15 08:11:54.858038
+------------------------------------------------------
+Started: 2024-04-15 10:10:48.012551
+Existing_entries: 382
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [#OpenAI亚洲首家办事处落户东京##OpenAI推出日语优化版GPT4# 就在刚刚，OpenAI 官宣将在日本东京设立第一个亚洲办事处。而且顺道发布了，专门针对日语优化的全新...](https://weibo.com/6105753431/O9QFw0eTX)
+Token length: 468
+Summarized using GPT-3.5-turbo
+Append: [#国外小伙自制可穿戴AI# 在今年的 Google AI 黑客马拉松上，有一位名叫 Advait 的学生用 Gemini 1.5 Pro API 和 Raspberry Pi 搞了个可穿戴 AI 设备。在视频中，...](https://weibo.com/6105753431/O9Qwgg1sx)
+Token length: 492
+Summarized using GPT-3.5-turbo
+Append: [#AI公司挤爆B站# 现在，AI大模型公司们有了新的必争高地——把流量打出去，普通用户抢过来。例如现在逛个B站，画风简直就是“五步一AI，十步一AIGC”。以智谱AI...](https://weibo.com/6105753431/O9Q42fa1f)
+Token length: 467
+Summarized using GPT-3.5-turbo
+Append: [#爆火AI写真工具开源# 只需一张照片，不依赖模型训练，多风格 AI 写真瞬间呈现。这是小红书团队最近刚开源的 #InstantID# 项目能够实现的效果。该项目在 GitHub ...](https://weibo.com/6105753431/O9PIWuOm9)
+Append: [#OpenAI开除Ilya盟友# 突发！OpenAI开人了，理由：涉嫌信息泄露。一位是失踪的首席科学家Ilya盟友，超级对齐（Superalignment）团队核心成员Leopold Aschenbrenn...](https://weibo.com/6105753431/O9PF64ok0)
+Append: [#周鸿祎现身哈佛演讲# “我来哈佛的目的，说白了就一个，是来吸粉的”。这是 360 集团创始人、董事长周鸿祎近日在第27届哈佛中国论坛开幕式上的自侃。由于近期周...](https://weibo.com/6105753431/O9Ptryn9C)
+append_entries: 6
+Finish: 2024-04-15 10:11:11.638674
