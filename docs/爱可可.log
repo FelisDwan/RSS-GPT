@@ -4637,3 +4637,39 @@ Summarized using GPT-3.5-turbo
 Append: [《爱可可微博热门分享(4.14)》 爱可可微博热门分享(4.14) [图片]](https://weibo.com/1402400261/O9JlAazCU)
 append_entries: 6
 Finish: 2024-04-14 22:28:48.345026
+------------------------------------------------------
+Started: 2024-04-15 03:14:17.921382
+Existing_entries: 776
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 509
+Summarized using GPT-3.5-turbo
+Append: [【异常检测通用模型学习】- 通用异常检测(GAD)旨在训练一个模型， 无需使用目标数据进行训练，就能检测不同领域数据集中的异常。 提出了基于CLIP的残差学习模型I...](https://weibo.com/1402400261/O9N7GwoPt)
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [【用Claude 3 Opus构建股票分析Agent工具】《Building an Agentic Stock Analysis Tool with Langchain, OpenBB and Claude 3 Opus - Swapping Symbols》 网页链...](https://weibo.com/1402400261/O9N2Ngtj0)
+Token length: 559
+Summarized using GPT-3.5-turbo
+Append: [【Scalene：Python提速利器】- Python编程语言使用广泛，但运行效率低下，比其他编程语言慢100-1000倍甚至更多。 - UMass Amherst的计算机科学家研发了开源性能...](https://weibo.com/1402400261/O9MZ3AnMI)
+Token length: 431
+Summarized using GPT-3.5-turbo
+Append: [【AI 50企业榜单】- 以生成式AI为代表的第三代AI正在改变企业生产力，提高工作效率。企业AI应用类在AI 50榜单上呈爆炸式增长。 - 越来越多大公司将AI集成到内部...](https://weibo.com/1402400261/O9MW4xiKe)
+Token length: 657
+Summarized using GPT-3.5-turbo
+Append: [【没有过去，就没有未来】- 历史对于人类意识和社会记忆非常重要。它塑造我们的世界观，支持社会规范和法律等。 - 作者担心AI会被用来生成虚假的历史文本和解释...](https://weibo.com/1402400261/O9MUSEQQB)
+Token length: 275
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：今日开奖，欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《LangChain实战》，截至2024.4.15 12:00，...](https://weibo.com/1402400261/O9Mjf3ktK)
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1376期)：时变音频系统的可微全极滤波器、(近)重复子词在语言建模中的作用、医学领域开源多语言文本到文本LLM、重新思考混合专家语言模型训练、大型...](https://weibo.com/1402400261/O9Mj1iNal)
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: [[CL] MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies 网页链接 提出小型语言模型MiniCPM系列，通过模型风洞实...](https://weibo.com/1402400261/O9MgiBjvb)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [[CV] BRAVE: Broadening the visual encoding of vision-language models 网页链接 BRAVE 通过有效整合多视觉编码器的表达，大大扩展了 VLM 的视觉理解能力，在...](https://weibo.com/1402400261/O9McJyxAI)
+Token length: 100
+Summarized using GPT-3.5-turbo
+Append: [[CV] AWOL: Analysis WithOut synthesis using Language 网页链接 通过从CLIP空间到参数空间的映射，利用语言的泛化能力来控制不同3D形状模型生成新样例。 [图片...](https://weibo.com/1402400261/O9M9xi9Oc)
+append_entries: 10
+Finish: 2024-04-15 03:15:01.342318
