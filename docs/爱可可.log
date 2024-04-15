@@ -4700,3 +4700,30 @@ Existing_entries: 787
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-15 10:11:14.530666
+------------------------------------------------------
+Started: 2024-04-15 12:21:14.886375
+Existing_entries: 787
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 262
+Summarized using GPT-3.5-turbo
+Append: [【dspy-neo4j-knowledge-graph：基于 DSPy 和 Neo4j 的自动知识图谱构建，使用 OpenAI 的 GPT-4 模型从文本中提取实体和关系】'dspy-neo4j-knowledge-graph - LL...](https://weibo.com/1402400261/O9RtglWY4)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [【Purl：用于文本处理的命令行工具，提供简单直观的命令选项，支持对文件或标准输入的处理，兼容 Mac 和 Linux】'Purl - Streamlining Text Processing' GitHub:...](https://weibo.com/1402400261/O9RsxmCF3)
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [【Flow-IPC: 现代的 C++ 工具包，用于高速的进程间通信 (IPC)】'Flow-IPC: Modern C++ toolkit for fast inter-process communication (IPC) - [Start here!] Fl...](https://weibo.com/1402400261/O9Rsao83Q)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [【长程视频理解相关论文资源列表】’Awesome Long-Term Video Understanding - Awesome papers & datasets specifically focused on long-term videos.' GitHub:...](https://weibo.com/1402400261/O9Rr1bpEK)
+Token length: 298
+Summarized using GPT-3.5-turbo
+Append: [【自动图表理解相关论文资源列表】’Awesome Chart Understanding - A curated list of recent and past chart understanding work based on our survey paper: ...](https://weibo.com/1402400261/O9RqkxLxy)
+Token length: 339
+Summarized using GPT-3.5-turbo
+Append: [【SuperMemory：用于构建自己"第二大脑"的工具，可以将你在互联网上收集的信息导入到其中，并且具有类似 ChatGPT 的回答功能。SuperMemory基于 Turborepo 构建，...](https://weibo.com/1402400261/O9RlP6gHr)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [【redka：用SQLite复现Redis的项目，支持 Redis 的主要数据类型，如字符串、列表、集合、哈希和有序集合】'redka - Redis re-implemented with SQLite' GitHub: ...](https://weibo.com/1402400261/O9Rj6s6j5)
+append_entries: 7
+Finish: 2024-04-15 12:21:45.221586
