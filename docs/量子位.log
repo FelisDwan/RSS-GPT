@@ -3325,3 +3325,15 @@ Existing_entries: 389
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-15 14:10:00.216498
+------------------------------------------------------
+Started: 2024-04-15 16:13:34.965746
+Existing_entries: 389
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 423
+Summarized using GPT-3.5-turbo
+Append: [微软大中华区首席运营官陶然 确认参与 #中国AIGC产业峰会# ！🔥陶然现任微软大中华区首席运营官，负责微软大中华区的销售、产品以及业务的整体战略制定，同时...](https://weibo.com/6105753431/O9T1elpvZ)
+Token length: 57
+Summarized using GPT-3.5-turbo
+Append: [4月17日，2024中国AIGC产业峰会将汇聚技术、产品、投资和用户等玩家代表，共讨AIGC正在重塑的新世界！#中国AIGC产业峰会# 量子位的微博直播 中国AIGC产业峰会「...](https://weibo.com/6105753431/O9SKbnZM8)
+append_entries: 2
+Finish: 2024-04-15 16:13:45.179320

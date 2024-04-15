@@ -4763,3 +4763,13 @@ Summarized using GPT-3.5-turbo
 Append: [【Code-Friendly HTML to Markdown Converter：轻量 Python 脚本，可将 HTML 页面转换为 Markdown 格式，支持代码块】'Code-Friendly HTML to Markdown Converte...](https://weibo.com/1402400261/O9RMd2tnv)
 append_entries: 10
 Finish: 2024-04-15 14:10:42.866028
+------------------------------------------------------
+Started: 2024-04-15 16:13:46.149618
+Existing_entries: 804
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O9SKempAi)
+Token length: 20
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(4.15)》 爱可可微博热门分享(4.15) [图片]](https://weibo.com/1402400261/O9SJHgKrz)
+append_entries: 1
+Finish: 2024-04-15 16:13:50.757914
