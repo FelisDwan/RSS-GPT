@@ -3263,3 +3263,24 @@ Existing_entries: 375
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-15 04:27:04.612334
+------------------------------------------------------
+Started: 2024-04-15 06:15:44.204125
+Existing_entries: 375
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [#AI已进化出自私的人格#附论文地址：网页链接 - 转发 @智慧科技迷:&ensp;【#AI已进化出自私的人格#】AI与人类相处需要有人格吗？最近，日本名古屋大学的科学家利...](https://weibo.com/6105753431/O9P25BYgI)
+Token length: 373
+Summarized using GPT-3.5-turbo
+Append: [#英特尔中国特供AI芯片曝光#性能暴降 92% 据外媒报道，英特尔在其 Gaudi 3 AI芯片白皮书中披露，正准备向中国市场推出“特供版”Gaudi 3。特供芯片包括名为 HL-3...](https://weibo.com/6105753431/O9OJ1laOu)
+Token length: 179
+Summarized using GPT-3.5-turbo
+Append: [#网页一键转markdown# 有网友在 Hacker News 上分享了一个自己创建的网页一键转 markdown 工具#Vercel#。该工具能够自动过滤网页杂乱部分、提供 HTML 和 图像压...](https://weibo.com/6105753431/O9Ouu2Wm2)
+Token length: 278
+Summarized using GPT-3.5-turbo
+Append: [#Grok1.5V解决特斯拉自动驾驶问题# 英伟达高级研究经理 Jim Fan 在 X 上分享了观点：Grok-1.5V 在提高特斯拉自动驾驶能力方面存在巨大潜力。简单来说，以往汽车...](https://weibo.com/6105753431/O9O4ucJIL)
+Append: [#5分钟开发AI应用不是梦##中小企业轻松用上AIGC# 随着AIGC应用极速发展，GPU算力已然成为市场竞争的焦点。不仅大企业和大模型创业公司对算力有迫切需求，众多中...](https://weibo.com/6105753431/O9NYVk7Dn)
+Append: [#陶哲轩分享AI数学资源清单# 数学天才陶哲轩公开安利了一份 #Mathematics# AI 资源清单。该清单由计算机科学家 Talia Ringer 整理，涵盖与数学资源相关的人工智...](https://weibo.com/6105753431/O9NOZFBTc)
+Append: [#吴恩达AI智能体新发现# 吴恩达最新发现，Planning 在 agentic AI 中非常关键。当我们使用 LLM 时，它能自主决定执行哪些步骤以完成更复杂的任务。简单举例来说...](https://weibo.com/6105753431/O9NDYk1AB)
+append_entries: 7
+Finish: 2024-04-15 06:16:03.762251
