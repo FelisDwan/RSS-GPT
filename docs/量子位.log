@@ -3428,3 +3428,18 @@ Append: [#高效部署RAG新方法# ServiceNow 的研究人员发表了一篇关
 Append: [#聊天机器人Poe重大升级##多机器人聊天# 刚刚，Poe 推出了一项名为 “多机器人聊天” 的新功能。它允许用户在同一对话中与多个模型进行交流，包括 GPT-4、Claude...](https://weibo.com/6105753431/O9YW71pfH)
 append_entries: 8
 Finish: 2024-04-16 10:12:13.271600
+------------------------------------------------------
+Started: 2024-04-16 12:19:43.171939
+Existing_entries: 406
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 58
+Summarized using GPT-3.5-turbo
+Append: [【#百度发布万源智能计算操作系统#】百度智能云推出新一代智能计算操作系统“万源”，将颠覆传统云计算，大幅提升AI原生应用开发效率，现场掌声热烈。 量子位的...](https://weibo.com/6105753431/Oa19myQfc)
+Token length: 406
+Summarized using GPT-3.5-turbo
+Append: [#李彦宏称人人都是开发者的时代到来# 大模型颠覆一切，终于还是颠到了本小编头上。还是一个一句话就被打造出来的Agent。像这样，抛给Ta一篇文章，不到1秒，标题...](https://weibo.com/6105753431/Oa0HjhTde)
+Token length: 253
+Summarized using GPT-3.5-turbo
+Append: [#蚂蚁数科发布反DeepFake产品# 还悬赏百万找bug生成式AI人脸造假套路多，怎么办图片？现在，专门用于DeepFake的综合性产品上新了！ZOLOZ Deeper，蚂蚁数科ZOLOZ...](https://weibo.com/6105753431/Oa0FImUsR)
+append_entries: 3
+Finish: 2024-04-16 12:19:55.988394

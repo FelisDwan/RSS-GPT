@@ -2454,3 +2454,12 @@ Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 Feed error: 503
 append_entries: 0
 error when rendering xml, skip docs/GitHubDaily
+------------------------------------------------------
+Started: 2024-04-16 12:20:31.304339
+Existing_entries: 53
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 315
+Summarized using GPT-3.5-turbo
+Append: [轻松打造属于自己的 “第二大脑”！相信不少人都有在网上看到喜欢的内容就点击收藏的习惯，但随着收藏的内容越来越多，想要找回某个特定内容就变得越发困难。在...](https://weibo.com/5722964389/Oa0kHfLaq)
+append_entries: 1
+Finish: 2024-04-16 12:20:36.918546

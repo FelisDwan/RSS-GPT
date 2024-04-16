@@ -4902,3 +4902,30 @@ Existing_entries: 829
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-16 10:12:14.399018
+------------------------------------------------------
+Started: 2024-04-16 12:19:57.014593
+Existing_entries: 829
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1149
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video》(CVPR 2024) GitHub: github.c...](https://weibo.com/1402400261/O9YS6d40h)
+Token length: 317
+Summarized using GPT-3.5-turbo
+Append: [【Speechless LLM based Agents：基于LLM 的Agent，具有主动交互、长期记忆、外部工具集成和本地部署能力，旨在建立一个智能协作伙伴，该伙伴可以独立交互、持续...](https://weibo.com/1402400261/O9YRebTep)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [【OpenChatML Specification：用于表示对话数据的结构化格式，为对话系统、聊天机器人、对话数据集等场景提供了一种标准化的表示方式】'OpenChatML Specificatio...](https://weibo.com/1402400261/O9YP9DkAG)
+Token length: 307
+Summarized using GPT-3.5-turbo
+Append: [【Memento：记录计算机所有动作并允许用户返回时间、搜索和通过 LLM（大语言模型）与时间线聊天以查找收集到信息的 Python 应用】'Memento - a Python app that ...](https://weibo.com/1402400261/O9YLujW50)
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [【Decompyle++：用 C++ 编写的 Python 字节码反编译器和反汇编器基于 OpenAI whisper 的 YouTube 视频搜索工具，可以将音频转为文本，并在视频中高亮搜索到的关...](https://weibo.com/1402400261/O9YKgyq5Q)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [【CTRL-F for videos：基于 OpenAI whisper 的 YouTube 视频搜索工具，可以将音频转为文本，并在视频中高亮搜索到的关键词】'CTRL-F for videos - Ctrl-f for vi...](https://weibo.com/1402400261/O9YJ9qTCj)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [【SiLLM - Silicon LLM Training & Inference Toolkit：基于 MLX 框架的 Silicon LLM 训练和推理工具包，简化了在 Apple Silicon 上训练和运行大语言模型的过程...](https://weibo.com/1402400261/O9YHIbzCL)
+append_entries: 7
+Finish: 2024-04-16 12:20:31.248102
