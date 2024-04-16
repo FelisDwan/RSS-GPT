@@ -4875,3 +4875,9 @@ Summarized using GPT-3.5-turbo
 Append: [【OpenAI API 推出批处理API：异步响应、5折价格】- 节省成本，获得异步任务（如摘要、翻译和图像分类）的更高速率限制。 - 只需上传一个批量请求文件，24小时内...](https://weibo.com/1402400261/O9Wly9dXt)
 append_entries: 7
 Finish: 2024-04-16 02:19:43.288622
+------------------------------------------------------
+Started: 2024-04-16 04:13:44.576834
+Existing_entries: 828
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-16 04:13:44.776927
