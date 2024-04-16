@@ -4881,3 +4881,12 @@ Existing_entries: 828
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-16 04:13:44.776927
+------------------------------------------------------
+Started: 2024-04-16 06:14:23.463063
+Existing_entries: 828
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 307
+Summarized using GPT-3.5-turbo
+Append: [【llm-transparency-tool：开源交互式工具包，用于分析基于 Transformer 的语言模型的内部工作原理】'llm-transparency-tool - LLM Transparency Tool (LLM-TT),...](https://weibo.com/1402400261/O9Yzy24pt)
+append_entries: 1
+Finish: 2024-04-16 06:14:28.824083
