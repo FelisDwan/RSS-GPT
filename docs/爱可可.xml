@@ -5,17 +5,113 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>【Mini Gemini：挖掘多模态视觉语言模型潜力】《Mini Gemini - a Hugging Face Space by wcy1122》 网页链接 #机器学习# #人工智能# [图片][图片]</title>
+<link>https://weibo.com/1402400261/O9WF3bLvB</link>
+<guid>https://weibo.com/1402400261/O9WF3bLvB</guid>
+<content:encoded><![CDATA[
+<div> 挖掘、多模态、视觉、语言模型、潜力、Mini Gemini、Hugging Face Space、wcy1122、关键词
+
+<br><br>总结:
+本文介绍了Mini Gemini这一多模态视觉语言模型的潜力和应用。作者通过挖掘不同模态数据的信息，提出了一种新的模型架构，旨在实现多模态信息的融合和处理。Mini Gemini基于Hugging Face Space平台，为研究者和开发者提供了一个实验和创新的空间。通过实验和案例分析，展示了Mini Gemini模型在多模态任务中的优势和表现。该模型能有效处理视觉和语言信息，为未来的研究和应用提供了新的思路和可能性。Mini Gemini的提出将推动多模态模型领域的发展，为人工智能和机器学习提供更多可能性和机会。 <div>
+【Mini Gemini：挖掘多模态视觉语言模型潜力】《Mini Gemini - a Hugging Face Space by wcy1122》 <a href="https://huggingface.co/spaces/wcy1122/Mini-Gemini"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hosdlb0qdpj217c0p411f.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hosdlfqxkhj20zk0a1jte.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 16 Apr 2024 00:39:10 GMT</pubDate>
+<pubDate>Tue, 16 Apr 2024 00:39:10 GMT</pubDate>
+</item>
+<item>
+<title>【视觉语言模型详解】- 视觉语言模型可以同时从图像和文本中学习，处理视觉问答、图像描述等多种任务。 - 主要的开源视觉语言模型包括LLaVA、DeepSeek、CogVLM、...</title>
+<link>https://weibo.com/1402400261/O9WD6s1R5</link>
+<guid>https://weibo.com/1402400261/O9WD6s1R5</guid>
+<content:encoded><![CDATA[
+<div> 视觉语言模型、图像、文本、开源、评估、多语言、建模基准测试、模型结构、Transformer、微调
+
+<br><br>
+总结:视觉语言模型是一种可以同时从图像和文本中学习的模型，可以处理视觉问答、图像描述等多种任务。目前主要的开源视觉语言模型包括LLaVA、DeepSeek、CogVLM、Fuyu等，规模不等，支持多语言训练。评估视觉语言模型的重要指标包括视觉匿名竞技场人工评价、开源视觉语言模型排行榜中的各项指标。主要的视觉语言建模基准测试有MMMU、MMBench等，用于测试模型的跨学科知识理解和推理能力。典型的视觉语言模型由图像编码器、多模态投影器、文本解码器组成，通过图像文字匹配来联合训练。使用Transformer可以便捷地加载模型进行推理，最新版本的TRL可进行视觉语言模型的微调。视觉语言模型是多模态AI的未来发展方向，应用前景广泛，选择合适的模型、进行标准化评估和微调对于实现良好效果至关重要。 <div>
+【视觉语言模型详解】<br />- 视觉语言模型可以同时从图像和文本中学习，处理视觉问答、图像描述等多种任务。   <br />- 主要的开源视觉语言模型包括LLaVA、DeepSeek、CogVLM、Fuyu等，规模从几十亿到万亿参数不等，图像分辨率从224x224到672x672。   <br />- 部分模型支持“grounding”功能，可以减少模型虚构内容(幻觉)。所有模型默认使用英语训练，部分支持多语言。   <br />- 评估视觉语言模型的重要指标有视觉匿名竞技场人工评价、开源视觉语言模型排行榜中的各项指标。   <br />- 主要的视觉语言建模基准测试包括MMMU、MMBench等，测试模型的跨学科知识理解和推理能力。   <br />- 典型的视觉语言模型由图像编码器、多模态投影器、文本解码器组成，通过图像文字匹配来联合训练。   <br />- 使用Transformer可以便捷地加载模型进行推理。使用最新版本的TRL可以进行视觉语言模型的微调。   <br />- 视觉语言模型正在引领多模态AI的发展，其应用前景广阔。选择合适的模型、使用标准化评估和微调对实现良好效果至关重要。<br />《Vision Language Models Explained》 <a href="https://huggingface.co/blog/vlms"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hosdgkl9dvj21hc0u0ahb.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hosdgnuqboj21hc0u0whn.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 16 Apr 2024 00:34:22 GMT</pubDate>
+<pubDate>Tue, 16 Apr 2024 00:34:22 GMT</pubDate>
+</item>
+<item>
+<title>【开源模型推动教育：用 Llama 2 打造个性化教育平台】- 韩国教育公司Mathpresso利用开源模型Llama 2打造了数学学习平台QANDA和数学专用语言模型MathGPT。 - 商...</title>
+<link>https://weibo.com/1402400261/O9WAooogF</link>
+<guid>https://weibo.com/1402400261/O9WAooogF</guid>
+<content:encoded><![CDATA[
+<div> Mathpresso, Llama 2, QANDA, MathGPT, ChatGPT, Upstage, AI导师, 个性化教育, 开源模型, 灵活性
+
+<br><br>总结:韩国教育公司Mathpresso利用开源模型Llama 2成功打造了个性化数学学习平台QANDA和数学专用语言模型MathGPT。相较于商业语言模型如ChatGPT，Llama 2的灵活性使得Mathpresso可以充分利用自身数据和技术，为用户提供更个性化的教育服务。MathGPT不仅可以给出答案，还能提供详细的解释，有助于学生深入理解数学知识。同时，其他公司如Upstage也在使用Llama 2，其模型在开源语言模型排行榜上首次超过了GPT-3.5。开源模型为公司带来公平机会，为教育领域带来开创性影响。Mathpresso希望通过AI导师实现个性化教育的普及。开源模型的出现为公司提供了灵活性，创造了可负担的教育工具。 <div>
+【开源模型推动教育：用 Llama 2 打造个性化教育平台】<br />- 韩国教育公司Mathpresso利用开源模型Llama 2打造了数学学习平台QANDA和数学专用语言模型MathGPT。   <br />- 商业语言模型如ChatGPT缺乏针对复杂教育背景的个性化。Llama 2灵活开源，Mathpresso可以充分利用自己的数据和技术。   <br />- MathGPT不仅给出答案，还提供步骤详细的解释，帮助学生深入理解。它在国小和国中数学测试中刷新了世界纪录。   <br />- 韩国AI创业公司Upstage也使用了Llama 2。它的模型在开源语言模型排行榜上首次超过了GPT-3.5。   <br />- Upstage认为Llama 2作为顶尖开源语言模型，为他们提供了充分的基础去开发定制化模型。   <br />- Mathpresso希望通过AI导师，实现个性化教育向所有人开放。Llama 2这样的开源模型给了他们灵活性去创造可负担的教育工具。   <br />- Llama 2等开源模型为公司大大小小提供了使用尖端技术的公平机会。它们正在开创性地影响教育等领域。<br />《Leveraging Llama 2 to create a platform for highly personalized learning》 <a href="https://ai.meta.com/blog/llama-2-mathgpt-mathpresso-qanda-upstage-open-source-llm/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hosd9reujej218g0p0wh3.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 16 Apr 2024 00:27:41 GMT</pubDate>
+<pubDate>Tue, 16 Apr 2024 00:27:41 GMT</pubDate>
+</item>
+<item>
+<title>【Limitless Pendant：又一款可穿戴AI设备，可以录音保存用户对话，并提供个性化AI助手服务。外形小巧时尚，一次充电可使用100小时，价格仅99美元，预计2024年第...</title>
+<link>https://weibo.com/1402400261/O9WwCEdNU</link>
+<guid>https://weibo.com/1402400261/O9WwCEdNU</guid>
+<content:encoded><![CDATA[
+<div> Limitless Pendant, 可穿戴AI设备, 录音保存对话, 个性化AI助手服务, 外形时尚, 一次充电100小时, 价格99美元, 预计2024年第四季度发货
+
+<br><br>总结:
+Limitless Pendant是一款外形小巧时尚的可穿戴AI设备，用户可以使用它录音保存对话，并获得个性化AI助手服务。这款设备一次充电可使用100小时，价格仅99美元，计划在2024年第四季度发货。Limitless Pendant将提供用户更便利的日常生活体验，为用户创造无限的可能。 <div>
+【Limitless Pendant：又一款可穿戴AI设备，可以录音保存用户对话，并提供个性化AI助手服务。外形小巧时尚，一次充电可使用100小时，价格仅99美元，预计2024年第四季度发货】《Limitless - Personalized AI powered by what you’ve seen, said, and heard》 <a href="https://www.limitless.ai/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <a href="https://video.weibo.com/show?fid=1034:5023699045384217"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可-爱生活的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/5396ee05ly1hosczoottuj20zk0k0q3g.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/cYSkNt3slx08e7tR3rDW01041200bX0d0E010.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1713234828&amp;ssig=DyWT01iYoN&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/bHZcyXNMlx08e7tQWavK010412005URT0E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1713234828&amp;ssig=qfGj%2BwYqlq&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/10IguTvylx08e7tQv59u010412003JSy0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1713234828&amp;ssig=q31rdaNg%2Br&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5023699045384217" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
+]]></content:encoded>
+<pubDate>Tue, 16 Apr 2024 00:18:24 GMT</pubDate>
+<pubDate>Tue, 16 Apr 2024 00:18:24 GMT</pubDate>
+</item>
+<item>
+<title>【一张图看匿名竞技场开源vs.闭源LLM表现】 - 随着时间的推移，模型的性能有不断提升的趋势，最新的GPT-4和Claude 3等模型表现更优。- 开源和闭源之间的差距已缩...</title>
+<link>https://weibo.com/1402400261/O9Wsp9P6V</link>
+<guid>https://weibo.com/1402400261/O9Wsp9P6V</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 匿名竞技场, 开源, 闭源, LLM, GPT-4, Claude 3, 性能提升, 差距缩短, 模型表现, 相对性能
+
+总结:<br><br>本文探讨了匿名竞技场开源与闭源LLM的表现比较。随着时间推移，模型性能不断提升，最新的GPT-4和Claude 3表现优秀。开源与闭源之间的差距已经缩短至6-10个月，远远小于之前的几年。在同类型模型中，闭源模型如GPT-4、GPT-4 Turbo、Gemini Pro整体表现更出色，但也有一些开源模型如Mistral、OpenChat-3.5表现不错。一些较早期的模型如GPT-3.5 Turbo、Vicuna、Llama虽然性能较弱，但也有不错的表现。整体而言，开源与闭源的性能差距在不断缩小，各种的LLM模型在匿名竞技场中不断演化，展现出不同的表现与优势。 <div>
+【一张图看匿名竞技场开源vs.闭源LLM表现】  <br />- 随着时间的推移，模型的性能有不断提升的趋势，最新的GPT-4和Claude 3等模型表现更优。<br />- 开源和闭源之间的差距已缩短至6-10个月，GPT-4刚发布时该差距为几年。<br />- 在同类型模型中，闭源模型如GPT-4、GPT-4-Turbo、Gemini Pro等整体性能优于开源模型。但也有一些开源模型如Mistral、OpenChat-3.5等表现不错。  <br />- 一些较早期的模型如GPT-3.5 Turbo、Vicuna、Llama等虽然性能相对较弱，但也有不错的性能表现。  <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><br />graph via:Maxime Labonne<img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoscjlde7nj20w60l8q5f.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 16 Apr 2024 00:08:00 GMT</pubDate>
+<pubDate>Tue, 16 Apr 2024 00:08:00 GMT</pubDate>
+</item>
+<item>
+<title>【Idefics2：强大的 8B 视觉语言模型，为社区带来全新体验】- Hugging Face发布了多模态基础模型Idefics2，输入文本和图像，输出文本。 - 相比上一版本Idefics1...</title>
+<link>https://weibo.com/1402400261/O9WoW9nrE</link>
+<guid>https://weibo.com/1402400261/O9WoW9nrE</guid>
+<content:encoded><![CDATA[
+<div> Hugging Face, Idefics2, 多模态, 视觉语言模型, Apache 2.0, 开源许可, OCR, 视觉问答, 数据集, 微调
+
+<br><br>总结:
+Hugging Face发布了新的多模态基础模型Idefics2，该模型具有80亿参数量，采用Apache 2.0开源许可，并优化了OCR能力，在视觉问答基准测试中表现出色。Idefics2支持任意分辨率、任意宽高比的图像输入，增强了文档文字识别能力，简化了视觉特征整合。模型在公开数据集上预训练，如维基百科和图像标题对等，通过指令微调提升了多轮会话能力。用户可以在Hugging Face Hub上使用Idefics2，并通过Transformers API进行微调。此外，Hugging Face还发布了Idefics2的模型卡片、数据集卡片和微调教程等资源，方便用户使用。Idefics2采用Apache 2.0开源许可，用户可以自由使用，感谢Google和Mistral AI开源了预训练模型。作为目前最强大的开源多模态基础模型之一，Idefics2为社区提供了坚实的基础，推动了多模态AI的发展。 <div>
+【Idefics2：强大的 8B 视觉语言模型，为社区带来全新体验】<br />- Hugging Face发布了多模态基础模型Idefics2，输入文本和图像，输出文本。   <br />- 相比上一版本Idefics1，Idefics2参数量达到80亿，采用Apache 2.0开源许可，优化了OCR能力。在视觉问答基准测试中表现顶尖。   <br />- Idefics2支持任意分辨率、任意宽高比的图像输入，避免缩放成固定大小。增强了对文档文字识别的能力。简化了视觉特征的整合。   <br />- Idefics2在公开数据集上进行预训练，如维基百科、图像标题对等。并在多模态任务数据集上进行指令微调，提升多轮会话能力。   <br />- 用户可以在Hugging Face Hub上使用Idefics2，并利用Transformers API进行微调。文章给出了使用代码示例。   <br />- Hugging Face还发布了Idefics2的模型卡片、数据集卡片、微调教程等资源，方便用户使用。   <br />- Idefics2采用Apache 2.0开源许可，用户可以自由使用。感谢Google和Mistral AI开源了预训练模型。   <br />- Idefics2是目前最强大的开源多模态基础模型之一，为社区提供了坚实的基础，促进多模态AI的发展。<br />《Introducing Idefics2: A Powerful 8B Vision-Language Model for the community》 <a href="https://huggingface.co/blog/idefics2"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoscgfofglj20u00voade.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 15 Apr 2024 23:59:28 GMT</pubDate>
+<pubDate>Mon, 15 Apr 2024 23:59:28 GMT</pubDate>
+</item>
+<item>
+<title>【OpenAI API 推出批处理API：异步响应、5折价格】- 节省成本，获得异步任务（如摘要、翻译和图像分类）的更高速率限制。 - 只需上传一个批量请求文件，24小时内...</title>
+<link>https://weibo.com/1402400261/O9Wly9dXt</link>
+<guid>https://weibo.com/1402400261/O9Wly9dXt</guid>
+<content:encoded><![CDATA[
+<div> 批处理API、异步响应、5折价格、节省成本、高速率限制、上传批量请求文件、24小时内收到结果、优惠享受
+
+总结:<br>
+OpenAI推出批处理API，为用户提供了异步响应和5折价格优惠，能够帮助用户节省成本，同时增加了对异步任务的高速率限制。用户只需上传一个批量请求文件，就能在24小时内收到结果，并享受半价优惠。这可以大大提升效率和操作便利性，让用户能更好地利用OpenAI API的功能。 <div>
+【OpenAI API 推出批处理API：异步响应、5折价格】<br />- 节省成本，获得异步任务（如摘要、翻译和图像分类）的更高速率限制。   <br />- 只需上传一个批量请求文件，24小时内收到结果，并享受5折优惠。<br />《Batch | API Reference - OpenAI API》 <a href="http://aicoco.net/s/8i"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hosc7qm57oj20xc0irack.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 15 Apr 2024 23:51:07 GMT</pubDate>
+<pubDate>Mon, 15 Apr 2024 23:51:07 GMT</pubDate>
+</item>
+
+<item>
 <title>今日推介(第1377期)：大语言模型Tokenization理论研究、基于仿真优化的语言模型提示选择、ChatGPT正在改变学者的写作风格吗、使用少量token预训练小型基础语言模...</title>
 <link>https://weibo.com/1402400261/O9VJOweam</link>
 <guid>https://weibo.com/1402400261/O9VJOweam</guid>
 <content:encoded><![CDATA[
 <div> 大语言模型、Tokenization、理论研究、基于仿真优化、语言模型提示选择、ChatGPT、学者写作风格、少量token预训练、小型基础语言模型、检索增强生成、减少结构化输出幻觉  
 
-<br><br>总结:  
+<br /><br />总结:  
 本文探讨了大语言模型Tokenization的理论研究，以及基于仿真优化的语言模型提示选择的相关内容。研究表明，ChatGPT对学者的写作风格有可能产生影响。此外，使用少量token预训练小型基础语言模型可能对性能有所改进。最后，通过检索增强生成可以减少结构化输出中的幻觉。 <div>
 今日推介(第1377期)：大语言模型Tokenization理论研究、基于仿真优化的语言模型提示选择、ChatGPT正在改变学者的写作风格吗、使用少量token预训练小型基础语言模型、通过检索增强生成减少结构化输出中的幻觉 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/692682961"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(4.16)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hos9indv4lj219s0u0gtq.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hos9iq6iyej20w50u0wiw.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hos9iu2gr2j20t80ugjuv.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hos9ixkqxyj21c00q6430.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hos9izu0unj20qk0pa0ur.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 22:18:09 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 22:18:09 GMT</pubDate>
 </item>
 <item>
@@ -25,10 +121,9 @@
 <content:encoded><![CDATA[
 <div> OccGaussian, 3D Gaussian Splatting, 遮挡人体渲染, 快速训练, 实时渲染
 
-<br><br>总结: 本文提出了OccGaussian方法，利用3D高斯采样技术实现了遮挡人体渲染。该方法能够实现快速训练和实时渲染，为解决遮挡问题提供了一种有效的解决方案。文章详细介绍了OccGaussian方法的原理和实现过程，实验证明该方法在遮挡人体渲染中具有较高的效率和准确性。通过对比实验，作者验证了OccGaussian方法在处理遮挡人体渲染任务上的优越性能，为相关领域的研究和应用提供了有价值的参考。 <div>
+<br /><br />总结: 本文提出了OccGaussian方法，利用3D高斯采样技术实现了遮挡人体渲染。该方法能够实现快速训练和实时渲染，为解决遮挡问题提供了一种有效的解决方案。文章详细介绍了OccGaussian方法的原理和实现过程，实验证明该方法在遮挡人体渲染中具有较高的效率和准确性。通过对比实验，作者验证了OccGaussian方法在处理遮挡人体渲染任务上的优越性能，为相关领域的研究和应用提供了有价值的参考。 <div>
 [CV] OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering  <br /><a href="https://arxiv.org/abs/2404.08449"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />提出OccGaussian方法，使用3D高斯采样实现快速训练和实时渲染遮挡的人体。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos9ci9medj20x015u17w.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos9cidgt3j21oi14ydve.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos9cinh8aj20tw0so79l.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 22:11:55 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 22:11:55 GMT</pubDate>
 </item>
 <item>
@@ -38,11 +133,10 @@
 <content:encoded><![CDATA[
 <div> 关键词: 3D感知, 视觉模型, 深度估计, 法线估计, 跨视角任务
 
-总结:<br>
+总结:<br />
 本研究通过深度、法线估计和跨视角对应任务来评估视觉模型对3D结构的表示和跨视角一致性。发现不同训练目标会对模型的3D感知产生重要影响。研究为构建真正具备3D意识的视觉模型提供了基础和启发。 <div>
 [CV] Probing the 3D Awareness of Visual Foundation Models  <br /><a href="https://arxiv.org/abs/2404.08636"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>       <br />通过深度、法线估计和跨视角对应任务，系统评估了当前视觉模型对3D结构的表示和跨视角一致性，发现不同训练目标对模型的3D感知产生重要影响，为构建真正3D意识的视觉模型提供了基础和启发。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos91ee225j20we13m7jh.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos91faqquj21n80ugk5j.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos91fvypsj20ue0sc0yn.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 22:01:16 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 22:01:16 GMT</pubDate>
 </item>
 <item>
@@ -52,11 +146,10 @@
 <content:encoded><![CDATA[
 <div> 数据量、模型大小、训练策略、CLIP模型、性能、计算预算、实用指导
 
-<br><br>总结:
+<br /><br />总结:
 本研究通过控制数据量、模型大小、训练策略等变量，全面分析了在计算预算受限条件下CLIP模型的性能。研究为部署CLIP到实际应用提供了实用指导，为实现模型性能的有效缩放提供了理论支持。研究结果表明，在不同场景下调整数据量和模型大小可以显著改善模型性能，合理选择训练策略也至关重要。通过本研究，可以更好地理解和利用CLIP模型，在资源受限的环境下实现更好的性能表现。 <div>
 [CV] Scaling (Down) CLIP: A Comprehensive Analysis of Data, Architecture, and Training Strategies  <br /><a href="https://arxiv.org/abs/2404.08197"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />通过控制数据量、模型大小和训练策略等变量，全面分析了计算预算受限条件下CLIP模型的性能，为部署CLIP到实际应用提供了实用指导。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos8tzf1fgj20v416en9w.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos8tz8h54j21kq0reaih.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos8tzf9t1j21k80imjvb.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 21:54:06 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 21:54:06 GMT</pubDate>
 </item>
 <item>
@@ -66,11 +159,10 @@
 <content:encoded><![CDATA[
 <div> 大型语言模型、信息检索评估、应用前景、评价成本、一致性、快速产品系统、人类评估、降低、提高、可能
 
-<br><br>总结:
+<br /><br />总结:
 本文探讨了大型语言模型在信息检索评估中的应用前景。使用大型语言模型可以降低评价成本，提高评价一致性，并为评估和训练快速产品系统提供可能性。然而，仍需人类评估作为基础，以确保评估结果的准确性和可靠性。通过综合利用大型语言模型和人类评估的优势，可以更好地实现信息检索评估的有效性和效率。 <div>
 [IR] Generative Information Retrieval Evaluation  <br /><a href="https://arxiv.org/abs/2404.08137"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />探讨了大型语言模型在信息检索评估中的应用前景，它降低了评价成本，提高了一致性，为评估和训练快速产品系统提供了可能，但仍需人类评估作为基础。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos8gud01gj20rm0z4do5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos8gutvzlj20zo0r2n1q.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos8gv33lmj21as102whg.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 21:41:30 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 21:41:30 GMT</pubDate>
 </item>
 <item>
@@ -80,11 +172,10 @@
 <content:encoded><![CDATA[
 <div> 检索增强生成方法、幻象减少、质量提高、泛化能力、计算资源需求降低
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了一种通过检索增强生成方法显著减少工作流生成任务中幻象的技术。该方法提高了生成结果的质量和泛化能力，同时降低了计算资源的需求。作者通过对结构化输出中的幻象问题进行研究，提出了一种有效的解决方案。这种方法可以帮助提升生成模型在工作流生成任务中的性能，为相关领域的研究和实践提供有益的启示。 <div>
 通过检索增强生成方法显著减少了工作流生成任务中的幻象，提高了质量和泛化能力，降低了计算资源需求。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Reducing hallucination in structured outputs via Retrieval-Augmented Generation》P Béchard, O M Ayala [ServiceNow] (2024) <a href="https://arxiv.org/abs/2404.08189"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7zn809oj20n80x6jzn.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7znbd1qj20qk0pawha.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos7znlhfqj21hq0iajuz.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos8flislzj20hs0f6wfr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos8fln073j20zz0vzdj9.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 21:41:09 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 21:41:09 GMT</pubDate>
 </item>
 <item>
@@ -94,14 +185,12 @@
 <content:encoded><![CDATA[
 <div> 结构化输出、幻觉减少、检索增强生成、P Béchard、O M Ayala、ServiceNow、2024
 
-<br><br>
+<br /><br />
 总结: 这篇文章探讨了通过检索增强生成的方式，在结构化输出中减少幻觉的问题。研究人员提出了一种新方法，利用检索方法来增强生成模型，从而提高输出的准确性和质量。他们的研究表明，这种方法可以有效降低幻觉出现的可能性，为未来相关领域的研究提供了新的思路和方向。在实验中，他们使用了ServiceNow平台进行实验验证，结果显示了这种方法的有效性和潜力。通过这项研究，我们能够更深入地理解如何利用检索增强生成来改善结构化输出中的幻觉问题，为相关领域的研究和应用带来了新的启示。 <div>
 [LG]《Reducing hallucination in structured outputs via Retrieval-Augmented Generation》P Béchard, O M Ayala [ServiceNow] (2024) <a href="https://arxiv.org/abs/2404.08189"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7zn809oj20n80x6jzn.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7znbd1qj20qk0pawha.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos7znlhfqj21hq0iajuz.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos8flislzj20hs0f6wfr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos8fln073j20zz0vzdj9.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 15 Apr 2024 21:40:17 GMT</pubDate>
-<pubDate>Mon, 15 Apr 2024 21:40:17 GMT</pubDate>
 </item>
-
 <item>
 <title>Inheritune通过明智地重用参考模型参数和少量额外训练，实现了高效开发小规模而性能强劲的语言模型。 - 转发 @爱可可-爱生活:&amp;ensp;[CL]《Pre-training Small Ba...</title>
 <link>https://weibo.com/1402400261/O9Vnbt985</link>

@@ -3364,3 +3364,15 @@ Existing_entries: 392
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-16 00:50:06.989007
+------------------------------------------------------
+Started: 2024-04-16 02:19:00.820505
+Existing_entries: 392
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 298
+Summarized using GPT-3.5-turbo
+Append: [#特斯拉市值一夜蒸发2200亿# 根据马斯克向员工发送的一份备忘录，特斯拉将在全球范围内裁减 10% 员工。受此消息影响，当地时间4月15日，特斯拉股价低开低走，一...](https://weibo.com/6105753431/O9X5F3vrR)
+Token length: 524
+Summarized using GPT-3.5-turbo
+Append: [#iPhone16Pro系列或有30项优化# 据国外科技媒体 MacRumors 爆料，预计将在今年9月发布的 iPhone 16 Pro 和iPhone 16 Pro Max 两款机型会有 30 处改进和优化。具...](https://weibo.com/6105753431/O9WXOnW8E)
+append_entries: 2
+Finish: 2024-04-16 02:19:12.392482

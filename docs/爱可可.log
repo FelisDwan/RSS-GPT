@@ -4848,3 +4848,30 @@ Summarized using GPT-3.5-turbo
 Append: [[LG]《Reducing hallucination in structured outputs via Retrieval-Augmented Generation》P Béchard, O M Ayala [ServiceNow] (2024) 网页链接 #机器学习##...](https://weibo.com/1402400261/O9Vurxov4)
 append_entries: 7
 Finish: 2024-04-16 00:50:32.760976
+------------------------------------------------------
+Started: 2024-04-16 02:19:13.381773
+Existing_entries: 821
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 78
+Summarized using GPT-3.5-turbo
+Append: [【Mini Gemini：挖掘多模态视觉语言模型潜力】《Mini Gemini - a Hugging Face Space by wcy1122》 网页链接 #机器学习# #人工智能# [图片][图片]](https://weibo.com/1402400261/O9WF3bLvB)
+Token length: 498
+Summarized using GPT-3.5-turbo
+Append: [【视觉语言模型详解】- 视觉语言模型可以同时从图像和文本中学习，处理视觉问答、图像描述等多种任务。 - 主要的开源视觉语言模型包括LLaVA、DeepSeek、CogVLM、...](https://weibo.com/1402400261/O9WD6s1R5)
+Token length: 537
+Summarized using GPT-3.5-turbo
+Append: [【开源模型推动教育：用 Llama 2 打造个性化教育平台】- 韩国教育公司Mathpresso利用开源模型Llama 2打造了数学学习平台QANDA和数学专用语言模型MathGPT。 - 商...](https://weibo.com/1402400261/O9WAooogF)
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [【Limitless Pendant：又一款可穿戴AI设备，可以录音保存用户对话，并提供个性化AI助手服务。外形小巧时尚，一次充电可使用100小时，价格仅99美元，预计2024年第...](https://weibo.com/1402400261/O9WwCEdNU)
+Token length: 290
+Summarized using GPT-3.5-turbo
+Append: [【一张图看匿名竞技场开源vs.闭源LLM表现】 - 随着时间的推移，模型的性能有不断提升的趋势，最新的GPT-4和Claude 3等模型表现更优。- 开源和闭源之间的差距已缩...](https://weibo.com/1402400261/O9Wsp9P6V)
+Token length: 623
+Summarized using GPT-3.5-turbo
+Append: [【Idefics2：强大的 8B 视觉语言模型，为社区带来全新体验】- Hugging Face发布了多模态基础模型Idefics2，输入文本和图像，输出文本。 - 相比上一版本Idefics1...](https://weibo.com/1402400261/O9WoW9nrE)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [【OpenAI API 推出批处理API：异步响应、5折价格】- 节省成本，获得异步任务（如摘要、翻译和图像分类）的更高速率限制。 - 只需上传一个批量请求文件，24小时内...](https://weibo.com/1402400261/O9Wly9dXt)
+append_entries: 7
+Finish: 2024-04-16 02:19:43.288622
