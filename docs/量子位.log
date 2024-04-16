@@ -3406,3 +3406,25 @@ Existing_entries: 398
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-16 08:14:05.892785
+------------------------------------------------------
+Started: 2024-04-16 10:11:57.095399
+Existing_entries: 398
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 73
+Summarized using GPT-3.5-turbo
+Append: [#AI帮助失语者发声# 一种新的人工智能应用程序正在为长期不发声的患者提供声音。该技术通过传感器捕捉大脑的电脉冲，然后逐步将这些电脉冲转换为屏幕上数字分身...](https://weibo.com/6105753431/Oa0kTAUIl)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [#中国AIGC产业峰会倒计时1天# 一天时间，十余场演讲，一轮圆桌，来自产业、技术、投资等领域最主流的“玩家”代表和投资人将出席本届中国AIGC产业峰会。上午议程...](https://weibo.com/6105753431/Oa0hrqqtH)
+Token length: 74
+Summarized using GPT-3.5-turbo
+Append: [#全新天气预报方式# 天气预报主持人 be like：就挺突然的！[笑cry]AR 提供降雨量和风速等精确细节，而 Al 则提供针对您所在位置 “量身定制” 的高精度天气预报...](https://weibo.com/6105753431/Oa0bZcRfH)
+Token length: 277
+Summarized using GPT-3.5-turbo
+Append: [#揭秘苹果造车项目始末# 被称为 “泰坦计划” 的苹果造车项目早已落下帷幕。关于项目失败的原因，彭博在这个视频中进行了完整回顾。视频内容节选：1. 在过去的十...](https://weibo.com/6105753431/O9ZWFBKjo)
+Append: [#你有这么高速运转的机械进入中国##ChatGPT# 一位阿姨毫无逻辑的话突然火了，令人意想不到的是，最近一项研究发现，ChatGPT也能复制出类似的语句。原来在AI“小...](https://weibo.com/6105753431/O9Zza9i3u)
+Append: [#新开源大语言模型# 水平直逼 GPT4 WizardLM 团队推出了最新一代 LLM 产品#WizardLM-2#。WizardLM-2 使用了一个名为 Evol-Instruct 的算法来生成和改写指令数据...](https://weibo.com/6105753431/O9Zlkjj9s)
+Append: [#高效部署RAG新方法# ServiceNow 的研究人员发表了一篇关于如何部署高效的 RAG 系统以处理结构化输出任务的论文。这项研究探讨了在资源受限的环境中，如何利用小...](https://weibo.com/6105753431/O9Z3EdTKN)
+Append: [#聊天机器人Poe重大升级##多机器人聊天# 刚刚，Poe 推出了一项名为 “多机器人聊天” 的新功能。它允许用户在同一对话中与多个模型进行交流，包括 GPT-4、Claude...](https://weibo.com/6105753431/O9YW71pfH)
+append_entries: 8
+Finish: 2024-04-16 10:12:13.271600
