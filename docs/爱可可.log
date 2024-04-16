@@ -4929,3 +4929,9 @@ Summarized using GPT-3.5-turbo
 Append: [【SiLLM - Silicon LLM Training & Inference Toolkit：基于 MLX 框架的 Silicon LLM 训练和推理工具包，简化了在 Apple Silicon 上训练和运行大语言模型的过程...](https://weibo.com/1402400261/O9YHIbzCL)
 append_entries: 7
 Finish: 2024-04-16 12:20:31.248102
+------------------------------------------------------
+Started: 2024-04-16 14:11:18.039159
+Existing_entries: 836
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-16 14:11:18.225791
