@@ -2472,3 +2472,9 @@ Summarized using GPT-3.5-turbo
 Append: [推荐 GitHub 上一款可自建的文件分享工具 Pingvin Share。具有如下特性：- 支持自定义后缀的链接分享文件。- 支持自定义任意大小的文件上传限制 (受制于托管所在...](https://weibo.com/5722964389/Oa1vL66ai)
 append_entries: 1
 Finish: 2024-04-16 14:11:24.028428
+------------------------------------------------------
+Started: 2024-04-16 16:14:05.683083
+Existing_entries: 55
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-04-16 16:14:05.860470
