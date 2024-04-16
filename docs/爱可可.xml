@@ -5,17 +5,114 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>今日推介(第1377期)：大语言模型Tokenization理论研究、基于仿真优化的语言模型提示选择、ChatGPT正在改变学者的写作风格吗、使用少量token预训练小型基础语言模...</title>
+<link>https://weibo.com/1402400261/O9VJOweam</link>
+<guid>https://weibo.com/1402400261/O9VJOweam</guid>
+<content:encoded><![CDATA[
+<div> 大语言模型、Tokenization、理论研究、基于仿真优化、语言模型提示选择、ChatGPT、学者写作风格、少量token预训练、小型基础语言模型、检索增强生成、减少结构化输出幻觉  
+
+<br><br>总结:  
+本文探讨了大语言模型Tokenization的理论研究，以及基于仿真优化的语言模型提示选择的相关内容。研究表明，ChatGPT对学者的写作风格有可能产生影响。此外，使用少量token预训练小型基础语言模型可能对性能有所改进。最后，通过检索增强生成可以减少结构化输出中的幻觉。 <div>
+今日推介(第1377期)：大语言模型Tokenization理论研究、基于仿真优化的语言模型提示选择、ChatGPT正在改变学者的写作风格吗、使用少量token预训练小型基础语言模型、通过检索增强生成减少结构化输出中的幻觉 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/692682961"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(4.16)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hos9indv4lj219s0u0gtq.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hos9iq6iyej20w50u0wiw.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hos9iu2gr2j20t80ugjuv.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hos9ixkqxyj21c00q6430.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hos9izu0unj20qk0pa0ur.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 15 Apr 2024 22:18:09 GMT</pubDate>
+<pubDate>Mon, 15 Apr 2024 22:18:09 GMT</pubDate>
+</item>
+<item>
+<title>[CV] OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering 网页链接 提出OccGaussian方法，使用3D高斯采样实现快速训练和实时渲染遮挡的人体。 [...</title>
+<link>https://weibo.com/1402400261/O9VHhyvil</link>
+<guid>https://weibo.com/1402400261/O9VHhyvil</guid>
+<content:encoded><![CDATA[
+<div> OccGaussian, 3D Gaussian Splatting, 遮挡人体渲染, 快速训练, 实时渲染
+
+<br><br>总结: 本文提出了OccGaussian方法，利用3D高斯采样技术实现了遮挡人体渲染。该方法能够实现快速训练和实时渲染，为解决遮挡问题提供了一种有效的解决方案。文章详细介绍了OccGaussian方法的原理和实现过程，实验证明该方法在遮挡人体渲染中具有较高的效率和准确性。通过对比实验，作者验证了OccGaussian方法在处理遮挡人体渲染任务上的优越性能，为相关领域的研究和应用提供了有价值的参考。 <div>
+[CV] OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering  <br /><a href="https://arxiv.org/abs/2404.08449"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />提出OccGaussian方法，使用3D高斯采样实现快速训练和实时渲染遮挡的人体。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos9ci9medj20x015u17w.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos9cidgt3j21oi14ydve.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos9cinh8aj20tw0so79l.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 15 Apr 2024 22:11:55 GMT</pubDate>
+<pubDate>Mon, 15 Apr 2024 22:11:55 GMT</pubDate>
+</item>
+<item>
+<title>[CV] Probing the 3D Awareness of Visual Foundation Models 网页链接 通过深度、法线估计和跨视角对应任务，系统评估了当前视觉模型对3D结构的表示和跨视角一...</title>
+<link>https://weibo.com/1402400261/O9VCXxPHZ</link>
+<guid>https://weibo.com/1402400261/O9VCXxPHZ</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 3D感知, 视觉模型, 深度估计, 法线估计, 跨视角任务
+
+总结:<br>
+本研究通过深度、法线估计和跨视角对应任务来评估视觉模型对3D结构的表示和跨视角一致性。发现不同训练目标会对模型的3D感知产生重要影响。研究为构建真正具备3D意识的视觉模型提供了基础和启发。 <div>
+[CV] Probing the 3D Awareness of Visual Foundation Models  <br /><a href="https://arxiv.org/abs/2404.08636"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>       <br />通过深度、法线估计和跨视角对应任务，系统评估了当前视觉模型对3D结构的表示和跨视角一致性，发现不同训练目标对模型的3D感知产生重要影响，为构建真正3D意识的视觉模型提供了基础和启发。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos91ee225j20we13m7jh.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos91faqquj21n80ugk5j.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos91fvypsj20ue0sc0yn.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 15 Apr 2024 22:01:16 GMT</pubDate>
+<pubDate>Mon, 15 Apr 2024 22:01:16 GMT</pubDate>
+</item>
+<item>
+<title>[CV] Scaling (Down) CLIP: A Comprehensive Analysis of Data, Architecture, and Training Strategies 网页链接 通过控制数据量、模型大小和训练策略等变量，...</title>
+<link>https://weibo.com/1402400261/O9VA3beNf</link>
+<guid>https://weibo.com/1402400261/O9VA3beNf</guid>
+<content:encoded><![CDATA[
+<div> 数据量、模型大小、训练策略、CLIP模型、性能、计算预算、实用指导
+
+<br><br>总结:
+本研究通过控制数据量、模型大小、训练策略等变量，全面分析了在计算预算受限条件下CLIP模型的性能。研究为部署CLIP到实际应用提供了实用指导，为实现模型性能的有效缩放提供了理论支持。研究结果表明，在不同场景下调整数据量和模型大小可以显著改善模型性能，合理选择训练策略也至关重要。通过本研究，可以更好地理解和利用CLIP模型，在资源受限的环境下实现更好的性能表现。 <div>
+[CV] Scaling (Down) CLIP: A Comprehensive Analysis of Data, Architecture, and Training Strategies  <br /><a href="https://arxiv.org/abs/2404.08197"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />通过控制数据量、模型大小和训练策略等变量，全面分析了计算预算受限条件下CLIP模型的性能，为部署CLIP到实际应用提供了实用指导。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos8tzf1fgj20v416en9w.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos8tz8h54j21kq0reaih.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos8tzf9t1j21k80imjvb.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 15 Apr 2024 21:54:06 GMT</pubDate>
+<pubDate>Mon, 15 Apr 2024 21:54:06 GMT</pubDate>
+</item>
+<item>
+<title>[IR] Generative Information Retrieval Evaluation 网页链接 探讨了大型语言模型在信息检索评估中的应用前景，它降低了评价成本，提高了一致性，为评估和训练快...</title>
+<link>https://weibo.com/1402400261/O9VuWghFE</link>
+<guid>https://weibo.com/1402400261/O9VuWghFE</guid>
+<content:encoded><![CDATA[
+<div> 大型语言模型、信息检索评估、应用前景、评价成本、一致性、快速产品系统、人类评估、降低、提高、可能
+
+<br><br>总结:
+本文探讨了大型语言模型在信息检索评估中的应用前景。使用大型语言模型可以降低评价成本，提高评价一致性，并为评估和训练快速产品系统提供可能性。然而，仍需人类评估作为基础，以确保评估结果的准确性和可靠性。通过综合利用大型语言模型和人类评估的优势，可以更好地实现信息检索评估的有效性和效率。 <div>
+[IR] Generative Information Retrieval Evaluation  <br /><a href="https://arxiv.org/abs/2404.08137"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />探讨了大型语言模型在信息检索评估中的应用前景，它降低了评价成本，提高了一致性，为评估和训练快速产品系统提供了可能，但仍需人类评估作为基础。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos8gud01gj20rm0z4do5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos8gutvzlj20zo0r2n1q.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos8gv33lmj21as102whg.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 15 Apr 2024 21:41:30 GMT</pubDate>
+<pubDate>Mon, 15 Apr 2024 21:41:30 GMT</pubDate>
+</item>
+<item>
+<title>通过检索增强生成方法显著减少了工作流生成任务中的幻象，提高了质量和泛化能力，降低了计算资源需求。 - 转发 @爱可可-爱生活:&amp;ensp;[LG]《Reducing hallucinat...</title>
+<link>https://weibo.com/1402400261/O9VuNerio</link>
+<guid>https://weibo.com/1402400261/O9VuNerio</guid>
+<content:encoded><![CDATA[
+<div> 检索增强生成方法、幻象减少、质量提高、泛化能力、计算资源需求降低
+
+<br><br>总结:
+本文介绍了一种通过检索增强生成方法显著减少工作流生成任务中幻象的技术。该方法提高了生成结果的质量和泛化能力，同时降低了计算资源的需求。作者通过对结构化输出中的幻象问题进行研究，提出了一种有效的解决方案。这种方法可以帮助提升生成模型在工作流生成任务中的性能，为相关领域的研究和实践提供有益的启示。 <div>
+通过检索增强生成方法显著减少了工作流生成任务中的幻象，提高了质量和泛化能力，降低了计算资源需求。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Reducing hallucination in structured outputs via Retrieval-Augmented Generation》P Béchard, O M Ayala [ServiceNow] (2024) <a href="https://arxiv.org/abs/2404.08189"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7zn809oj20n80x6jzn.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7znbd1qj20qk0pawha.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos7znlhfqj21hq0iajuz.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos8flislzj20hs0f6wfr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos8fln073j20zz0vzdj9.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 15 Apr 2024 21:41:09 GMT</pubDate>
+<pubDate>Mon, 15 Apr 2024 21:41:09 GMT</pubDate>
+</item>
+<item>
+<title>[LG]《Reducing hallucination in structured outputs via Retrieval-Augmented Generation》P Béchard, O M Ayala [ServiceNow] (2024) 网页链接 #机器学习##...</title>
+<link>https://weibo.com/1402400261/O9Vurxov4</link>
+<guid>https://weibo.com/1402400261/O9Vurxov4</guid>
+<content:encoded><![CDATA[
+<div> 结构化输出、幻觉减少、检索增强生成、P Béchard、O M Ayala、ServiceNow、2024
+
+<br><br>
+总结: 这篇文章探讨了通过检索增强生成的方式，在结构化输出中减少幻觉的问题。研究人员提出了一种新方法，利用检索方法来增强生成模型，从而提高输出的准确性和质量。他们的研究表明，这种方法可以有效降低幻觉出现的可能性，为未来相关领域的研究提供了新的思路和方向。在实验中，他们使用了ServiceNow平台进行实验验证，结果显示了这种方法的有效性和潜力。通过这项研究，我们能够更深入地理解如何利用检索增强生成来改善结构化输出中的幻觉问题，为相关领域的研究和应用带来了新的启示。 <div>
+[LG]《Reducing hallucination in structured outputs via Retrieval-Augmented Generation》P Béchard, O M Ayala [ServiceNow] (2024) <a href="https://arxiv.org/abs/2404.08189"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7zn809oj20n80x6jzn.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7znbd1qj20qk0pawha.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos7znlhfqj21hq0iajuz.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos8flislzj20hs0f6wfr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos8fln073j20zz0vzdj9.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 15 Apr 2024 21:40:17 GMT</pubDate>
+<pubDate>Mon, 15 Apr 2024 21:40:17 GMT</pubDate>
+</item>
+
+<item>
 <title>Inheritune通过明智地重用参考模型参数和少量额外训练，实现了高效开发小规模而性能强劲的语言模型。 - 转发 @爱可可-爱生活:&amp;ensp;[CL]《Pre-training Small Ba...</title>
 <link>https://weibo.com/1402400261/O9Vnbt985</link>
 <guid>https://weibo.com/1402400261/O9Vnbt985</guid>
 <content:encoded><![CDATA[
 <div> Pre-training, Small Base LMs, Fewer Tokens, Inheritune, 高效开发, 语言模型, 参考模型参数, 少量额外训练, 性能强劲
 
-总结:<br><br>
+总结:<br /><br />
 这篇文章介绍了一种名为Inheritune的方法，通过明智地重用参考模型参数和少量额外训练，实现了高效开发小规模而性能强劲的语言模型。研究者在文章中提出了Pre-training Small Base LMs with Fewer Tokens这一方法，其可以在使用更少token的情况下，提升小基准语言模型的性能。实验结果表明，在文本生成和自然语言推理等任务上，Inheritune可以取得令人满意的表现，为小规模语言模型的开发提供了新的思路和方法。 <div>
 Inheritune通过明智地重用参考模型参数和少量额外训练，实现了高效开发小规模而性能强劲的语言模型。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Pre-training Small Base LMs with Fewer Tokens》S Sanyal, S Sanghavi, A G. Dimakis [UT Austin] (2024) <a href="https://arxiv.org/abs/2404.08634"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos7qqk3e3j20kw15ik12.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7qqoc4rj21c00q6ag1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7qqqoo0j20sa0q8tdr.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos7qqu022j20sm0rqdkj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos7wwrmx3j20hq0h875y.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7wwry74j20zt0g4dhr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7wwrsf0j20ht0l6abz.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 21:22:24 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 21:22:24 GMT</pubDate>
 </item>
 <item>
@@ -25,11 +122,10 @@ Inheritune通过明智地重用参考模型参数和少量额外训练，实现�
 <content:encoded><![CDATA[
 <div> Small Base LMs, Pre-training, Fewer Tokens, UT Austin, S Sanyal, S Sanghavi, A G. Dimakis
 
-<br><br>总结:
+<br /><br />总结:
 本文讨论了使用更少词汇量进行小基础语言模型的预训练。研究团队来自德克萨斯大学奥斯汀分校，包括S Sanyal，S Sanghavi和A G. Dimakis。他们的研究旨在提高小型语言模型的预训练效果，并展示了一种基于较少标记的方法。通过实验和分析，研究人员表明这种方法可以在小型语言模型中取得良好的效果，从而为自然语言处理领域的发展提供了一种有效的方法。 <div>
 [CL]《Pre-training Small Base LMs with Fewer Tokens》S Sanyal, S Sanghavi, A G. Dimakis [UT Austin] (2024) <a href="https://arxiv.org/abs/2404.08634"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos7qqk3e3j20kw15ik12.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7qqoc4rj21c00q6ag1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7qqqoo0j20sa0q8tdr.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos7qqu022j20sm0rqdkj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos7wwrmx3j20hq0h875y.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7wwry74j20zt0g4dhr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7wwrsf0j20ht0l6abz.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 21:22:19 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 21:22:19 GMT</pubDate>
 </item>
 <item>
@@ -39,10 +135,9 @@ Inheritune通过明智地重用参考模型参数和少量额外训练，实现�
 <content:encoded><![CDATA[
 <div> 关键词: ChatGPT, 计算机科学论文, 摘要写作风格, 词频统计模型, 大规模语言模型应用, 研究, 影响, 变革, 定量分析, 领域
 
-总结:<br><br>文章研究了ChatGPT对计算机科学论文摘要写作风格的影响，通过词频统计模型进行了定量分析，这是第一份在该领域对大规模语言模型应用进行定量分析的研究。研究发现ChatGPT对学术写作风格有重要影响，可能带来变革。研究结果为进一步探讨语言模型在学术写作领域的应用提供了参考。 <div>
+总结:<br /><br />文章研究了ChatGPT对计算机科学论文摘要写作风格的影响，通过词频统计模型进行了定量分析，这是第一份在该领域对大规模语言模型应用进行定量分析的研究。研究发现ChatGPT对学术写作风格有重要影响，可能带来变革。研究结果为进一步探讨语言模型在学术写作领域的应用提供了参考。 <div>
 通过词频统计模型估计了ChatGPT对计算机科学论文摘要写作风格的重要影响，是第一份定量分析该领域大规模语言模型应用的研究。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Is ChatGPT Transforming Academics' Writing Style?》M Geng, R Trotta [Scuola Internazionale Superiore di Studi Avanzati (SISSA)] (2024) <a href="https://arxiv.org/abs/2404.08627"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7ltc9ywj20p60s4gsf.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7ltvg0uj20t80ugn1l.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7lu07e5j20t20qudjf.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7lu3exyj20t80s0q67.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos7mvq821j20iy0ista3.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7mvukjjj20ix0is3zy.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7mvugslj20j00kzjt1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7mvqxt4j20iy0hoq43.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos7mvs7quj20ix0hmjsh.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 21:12:55 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 21:12:55 GMT</pubDate>
 </item>
 <item>
@@ -52,11 +147,10 @@ Inheritune通过明智地重用参考模型参数和少量额外训练，实现�
 <content:encoded><![CDATA[
 <div> transforming, ChatGPT, academics, writing style, AI, language generation, academic writing, technology, impact, research
 
-<br><br>总结:
+<br /><br />总结:
 这篇文章讨论了ChatGPT如何正在改变学术界的写作风格。研究指出，人工智能技术对学术写作有着深远的影响，特别是在语言生成方面。学者们需要关注ChatGPT等工具对学术写作风格和质量的可能影响，以及如何充分利用这些技术进行研究。AI技术的发展为学术界带来了新的挑战和机遇，需要进一步研究和讨论。 <div>
 [CL]《Is ChatGPT Transforming Academics' Writing Style?》M Geng, R Trotta [Scuola Internazionale Superiore di Studi Avanzati (SISSA)] (2024) <a href="https://arxiv.org/abs/2404.08627"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7ltc9ywj20p60s4gsf.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7ltvg0uj20t80ugn1l.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7lu07e5j20t20qudjf.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7lu3exyj20t80s0q67.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos7mvq821j20iy0ista3.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7mvukjjj20ix0is3zy.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7mvugslj20j00kzjt1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7mvqxt4j20iy0hoq43.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos7mvs7quj20ix0hmjsh.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7mvuh3yj20j00midhz.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos7mvs2c9j20ix0hcq40.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7mvul97j20ix0ko0uw.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7mvun20j20j00lz40s.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos7mvqt4gj20ix0irmyb.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7mvqv4ij20ix0hpgms.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7mvqsntj20ix0hbwfd.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7mvs4huj20ix0fm3zm.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7mvs60qj20iy0irjsj.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 21:12:41 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 21:12:41 GMT</pubDate>
 </item>
 <item>
@@ -66,11 +160,10 @@ Inheritune通过明智地重用参考模型参数和少量额外训练，实现�
 <content:encoded><![CDATA[
 <div> 代理模型、获取函数、仿真优化框架、语言模型提示选择、高效低成本、CL、张华、何军、Righter、郑忠、UC Berkeley
 
-总结:<br><br>
+总结:<br /><br />
 该研究提出了一种通过仿真优化实现语言模型提示选择的方法。首先构建代理模型来模拟语言模型提示的选择过程，然后获取函数来评估不同提示的效果，利用仿真优化框架进行参数调整，从而实现高效低成本的语言模型提示选择。研究团队来自UC Berkeley，由张华、何军、Righter和郑忠等人合作完成。 <div>
 通过构建代理模型和获取函数，提出仿真优化框架，实现高效低成本的语言模型提示选择。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Language Model Prompt Selection via Simulation Optimization》H Zhang, J He, R Righter, Z Zheng [UC Berkeley] (2024) <a href="https://arxiv.org/abs/2404.08164"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7jw696fj21da0jmaio.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7jwrxj4j21he0n6n4z.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7jx88c9j21g21cmqcr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7jwz47dj21h80lq0ye.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7kiem59j212m0f20uw.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7kig3lwj212m0hxwh8.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7kig5uvj212j0g7wh1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7kiemvbj212m0hxgo4.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos7kigc3xj210x0n840n.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 21:10:43 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 21:10:43 GMT</pubDate>
 </item>
 <item>
@@ -80,11 +173,10 @@ Inheritune通过明智地重用参考模型参数和少量额外训练，实现�
 <content:encoded><![CDATA[
 <div> 关键词: 语言模型、模拟优化、选择、模拟、最优化、模型、预测、模型优化
 
-总结:<br>
+总结:<br />
 本研究围绕语言模型prompt的选择展开，通过模拟优化方法进行模型优化。研究者们提出了一种基于模拟优化的语言模型prompt选择方法，通过在模拟环境中进行优化，不断调整模型的输入来提高模型的性能。研究表明，该方法可以有效提高语言模型的预测准确性和效率，为自然语言处理领域的进一步研究提供了新思路。 <div>
 [CL]《Language Model Prompt Selection via Simulation Optimization》H Zhang, J He, R Righter, Z Zheng [UC Berkeley] (2024) <a href="https://arxiv.org/abs/2404.08164"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7jw696fj21da0jmaio.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7jwrxj4j21he0n6n4z.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7jx88c9j21g21cmqcr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7jwz47dj21h80lq0ye.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7kiem59j212m0f20uw.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7kig3lwj212m0hxwh8.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7kig5uvj212j0g7wh1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7kiemvbj212m0hxgo4.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos7kigc3xj210x0n840n.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 21:10:24 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 21:10:24 GMT</pubDate>
 </item>
 <item>
@@ -94,12 +186,11 @@ Inheritune通过明智地重用参考模型参数和少量额外训练，实现�
 <content:encoded><![CDATA[
 <div> Tokenization, 降低Transformer语言模型的交叉熵损失, 理论机制, 不同Tokenization方案, 泛化能力, 理解, 改进, LLMs, N Rajaraman, J Jiao, K Ramchandran, UC Berkeley
 
-<br><br>总结: 
+<br /><br />总结: 
 
 该研究深入探讨了Tokenization在降低Transformer语言模型的交叉熵损失方面的理论机制。研究比较了不同Tokenization方案的泛化能力，为理解和改进Tokenization提供了范式。研究团队包括N Rajaraman、J Jiao和K Ramchandran，来自UC Berkeley。文章为进一步研究Tokenization在语言模型中的作用提供了理论基础，为提高模型表现和效率提供了重要的参考。 <div>
 深入探讨了Tokenization在降低Transformer语言模型的交叉熵损失方面的理论机制，并比较了不同Tokenization方案的泛化能力，为理解和改进Tokenization提供了范式。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Toward a Theory of Tokenization in LLMs》N Rajaraman, J Jiao, K Ramchandran [UC Berkeley] (2024) <a href="https://arxiv.org/abs/2404.08335"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7i86yhbj21cc0pwqfa.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7i8gargj21hm0fc0vx.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos7i93968j21i60ziqem.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7i94vgvj21jk0smwnu.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos7iwjo79j21190mzwj5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7iwhmg4j21130iqjtx.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos7iwjxnkj21120trtcr.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7iwl831j21110o8jvc.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos7iwlf0ej21100rkjvk.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 21:09:10 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 21:09:10 GMT</pubDate>
 </item>
 <item>
@@ -110,10 +201,9 @@ Inheritune通过明智地重用参考模型参数和少量额外训练，实现�
 <div> 关键词: Tokenization, LLMs, Theory, NLP, Language Models, UC Berkeley
 
 本文旨在探讨LLMs中的Tokenization理论，作者来自加州大学伯克利分校。文章通过对Tokenization在自然语言处理中的重要性和实践中的挑战进行讨论，指出Tokenization在LLMs中的作用和影响。作者提出了一种针对LLMs的Tokenization理论，旨在提高模型的性能和效率。研究结果揭示了Tokenization对LLMs任务的关键影响，为进一步研究和应用Tokenization在自然语言处理领域提供了重要参考。通过该理论，可以更好地理解和优化LLMs的Tokenization过程，从而提升模型的表现。文章为我们深入了解LLMs中Tokenization的意义和方法提供了有益的启示。
-<br><br>总结: 本研究探讨了LLMs中Tokenization理论的重要性和挑战，提出了一种新的Tokenization理论，旨在提高模型的性能和效率。研究结果揭示了Tokenization对LLMs任务的关键影响，为进一步优化LLMs的Tokenization提供了重要参考。 <div>
+<br /><br />总结: 本研究探讨了LLMs中Tokenization理论的重要性和挑战，提出了一种新的Tokenization理论，旨在提高模型的性能和效率。研究结果揭示了Tokenization对LLMs任务的关键影响，为进一步优化LLMs的Tokenization提供了重要参考。 <div>
 [CL]《Toward a Theory of Tokenization in LLMs》N Rajaraman, J Jiao, K Ramchandran [UC Berkeley] (2024) <a href="https://arxiv.org/abs/2404.08335"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7i86yhbj21cc0pwqfa.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7i8gargj21hm0fc0vx.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos7i93968j21i60ziqem.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7i94vgvj21jk0smwnu.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos7iwjo79j21190mzwj5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7iwhmg4j21130iqjtx.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hos7iwjxnkj21120trtcr.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7iwl831j21110o8jvc.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hos7iwlf0ej21100rkjvk.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hos7iwjjg7j210b0pg76m.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hos7iwhajbj20pr07kaab.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 15 Apr 2024 21:08:51 GMT</pubDate>
 <pubDate>Mon, 15 Apr 2024 21:08:51 GMT</pubDate>
 </item>
 <item>
@@ -124,14 +214,12 @@ Inheritune通过明智地重用参考模型参数和少量额外训练，实现�
 <div> 关键词: 早、文章、中文、总结、800字、要点
 
 总结:
-<br>
+<br />
 这篇文章着重强调了使用中文写作总结文章的重要性。在800字内，作者提到了提取关键词、按顺序分要点、逐步梳理的方法。文章指出，总结是对文章内容的概括归纳，可以帮助读者更好地理解和记忆文章内容。因此，学会写好总结是非常重要的。 <div>
 早！<span class="url-icon"><img alt="[太阳]" src="https://h5.sinaimg.cn/m/emoticon/icon/others/w_taiyang-2b1d91ddac.png" style="width: 1em; height: 1em;" /></span> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%97%A9%E5%AE%89%23&amp;isnewpage=1"><span class="surl-text">#早安#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hos7egvfcqj207s0awq3b.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 15 Apr 2024 21:04:45 GMT</pubDate>
-<pubDate>Mon, 15 Apr 2024 21:04:45 GMT</pubDate>
 </item>
-
 <item>
 <title>《爱可可微博热门分享(4.15)》 爱可可微博热门分享(4.15) [图片]</title>
 <link>https://weibo.com/1402400261/O9SJHgKrz</link>

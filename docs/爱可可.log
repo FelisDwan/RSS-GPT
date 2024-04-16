@@ -4821,3 +4821,30 @@ Append: [早！[太阳] #早安# [图片]](https://weibo.com/1402400261/O9Vg1cVH
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/O9SKempAi)
 append_entries: 9
 Finish: 2024-04-15 22:10:30.175959
+------------------------------------------------------
+Started: 2024-04-16 00:50:07.983512
+Existing_entries: 814
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1377期)：大语言模型Tokenization理论研究、基于仿真优化的语言模型提示选择、ChatGPT正在改变学者的写作风格吗、使用少量token预训练小型基础语言模...](https://weibo.com/1402400261/O9VJOweam)
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [[CV] OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering 网页链接 提出OccGaussian方法，使用3D高斯采样实现快速训练和实时渲染遮挡的人体。 [...](https://weibo.com/1402400261/O9VHhyvil)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [[CV] Probing the 3D Awareness of Visual Foundation Models 网页链接 通过深度、法线估计和跨视角对应任务，系统评估了当前视觉模型对3D结构的表示和跨视角一...](https://weibo.com/1402400261/O9VCXxPHZ)
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [[CV] Scaling (Down) CLIP: A Comprehensive Analysis of Data, Architecture, and Training Strategies 网页链接 通过控制数据量、模型大小和训练策略等变量，...](https://weibo.com/1402400261/O9VA3beNf)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [[IR] Generative Information Retrieval Evaluation 网页链接 探讨了大型语言模型在信息检索评估中的应用前景，它降低了评价成本，提高了一致性，为评估和训练快...](https://weibo.com/1402400261/O9VuWghFE)
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [通过检索增强生成方法显著减少了工作流生成任务中的幻象，提高了质量和泛化能力，降低了计算资源需求。 - 转发 @爱可可-爱生活:&ensp;[LG]《Reducing hallucinat...](https://weibo.com/1402400261/O9VuNerio)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Reducing hallucination in structured outputs via Retrieval-Augmented Generation》P Béchard, O M Ayala [ServiceNow] (2024) 网页链接 #机器学习##...](https://weibo.com/1402400261/O9Vurxov4)
+append_entries: 7
+Finish: 2024-04-16 00:50:32.760976
