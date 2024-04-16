@@ -4890,3 +4890,9 @@ Summarized using GPT-3.5-turbo
 Append: [【llm-transparency-tool：开源交互式工具包，用于分析基于 Transformer 的语言模型的内部工作原理】'llm-transparency-tool - LLM Transparency Tool (LLM-TT),...](https://weibo.com/1402400261/O9Yzy24pt)
 append_entries: 1
 Finish: 2024-04-16 06:14:28.824083
+------------------------------------------------------
+Started: 2024-04-16 08:14:06.903361
+Existing_entries: 829
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-16 08:14:06.984274
