@@ -2544,3 +2544,12 @@ Existing_entries: 57
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-04-17 12:20:27.120081
+------------------------------------------------------
+Started: 2024-04-17 14:11:34.922761
+Existing_entries: 57
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 161
+Summarized using GPT-3.5-turbo
+Append: [分享一份较为全面的机器学习教程 machine-learning-list。从基础到高级再到实践与应用，涉及到基本简介、训练和微调、推理和执行策略、数据集处理以及实际应用等...](https://weibo.com/5722964389/OaaWfFiNX)
+append_entries: 1
+Finish: 2024-04-17 14:11:41.894548
