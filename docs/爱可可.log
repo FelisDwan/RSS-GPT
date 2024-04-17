@@ -5001,3 +5001,24 @@ Summarized using GPT-3.5-turbo
 Append: [提出Transformer反馈注意力记忆(FAM)架构，通过反馈循环实现对自身潜在表示的注意力处理，使Transformer获得工作记忆能力，可以高效处理无限长输入序列。 - 转发...](https://weibo.com/1402400261/Oa4KnfVSw)
 append_entries: 10
 Finish: 2024-04-17 00:51:33.567110
+------------------------------------------------------
+Started: 2024-04-17 02:21:13.519109
+Existing_entries: 847
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [【MIT新书《计算机视觉基础》，一本关于计算机视觉基础的教材，该教材结合了计算机视觉的经典方法和深度学习的最新进展，并从全面的角度介绍了计算机视觉的基础...](https://weibo.com/1402400261/Oa5M68zO3)
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [【免费书《大语言模型》，为读者提供关于大语言模型技术的全面了解，从基础原理、关键技术到应用前景。它介绍了大模型技术的整体框架和路线图，并提供了下载链接...](https://weibo.com/1402400261/Oa5KC99ej)
+Token length: 25
+Summarized using GPT-3.5-turbo
+Append: [《AI类知识文档全网合集 - 飞书云文档》 网页链接 #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/Oa5Jz6sti)
+Token length: 496
+Summarized using GPT-3.5-turbo
+Append: [【torchtune：用 PyTorch 轻松微调大语言模型】 - PyTorch发布了torchtune库的alpha版本，用于轻松微调大型语言模型。该库遵循PyTorch的设计原则，提供了组件化...](https://weibo.com/1402400261/Oa5IUgoKb)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1378期)：具有无限上下文长度的高效LLM预训练和推理、大型语言模型可以自动实现特征工程以进行少样本表格学习、反馈注意力是工作记忆、偏好噪声对生...](https://weibo.com/1402400261/Oa5a0hxA0)
+append_entries: 5
+Finish: 2024-04-17 02:21:37.268831
