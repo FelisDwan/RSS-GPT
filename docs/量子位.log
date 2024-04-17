@@ -3488,3 +3488,22 @@ Existing_entries: 410
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-17 02:21:12.488360
+------------------------------------------------------
+Started: 2024-04-17 04:14:35.264320
+Existing_entries: 410
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 227
+Summarized using GPT-3.5-turbo
+Append: [#OpenAI推出批处理API# 半价折扣，24 小时内输出结果OpenAI 面向开发者新推出 Batch 批处理 API，可在 24 小时内出结果，并提供半价折扣。新的 Batch API 适合执...](https://weibo.com/6105753431/Oa6IxCRpO)
+Token length: 393
+Summarized using GPT-3.5-turbo
+Append: [#阿里开源代码模型# 阿里最新发布了 CodeQwen1.5-7B 和 CodeQwen1.5-7B-Chat。它们是基于 Qwen1.5 语言模型开发的专用代码 LLMs 。新模型使用了 3T 令牌的代码数...](https://weibo.com/6105753431/Oa6uXBtEL)
+Token length: 32
+Summarized using GPT-3.5-turbo
+Append: [#奥特曼预告GPT5将开启碾压# Sam Altman 昨日采访：GPT-5 将会碾压你 。 量子位的微博视频](https://weibo.com/6105753431/Oa6hRrXDI)
+Token length: 56
+Summarized using GPT-3.5-turbo
+Append: [4月17日，2024中国AIGC产业峰会将汇聚技术、产品、投资和用户等玩家代表，共讨AIGC正在重塑的新世界。#中国AIGC产业峰会# 量子位的微博直播](https://weibo.com/6105753431/Oa6f6EcpQ)
+Append: [转发微博 - 转发 @量子位:&ensp;4月17日，2024中国AIGC产业峰会将汇聚技术、产品、投资和用户等玩家代表，共讨AIGC正在重塑的新世界！#中国AIGC产业峰会# 量子位...](https://weibo.com/6105753431/Oa62fFrUb)
+append_entries: 5
+Finish: 2024-04-17 04:14:49.779592
