@@ -5034,3 +5034,39 @@ Existing_entries: 852
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-17 06:17:13.994771
+------------------------------------------------------
+Started: 2024-04-17 08:14:08.132979
+Existing_entries: 852
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: ['AIChat Web - 在ChatGPT-Next-Web的基础上，增加注册登录，额度限制，邀请，敏感词，支付，基于docker一键部署。提供后台管理系统，可配置标题、欢迎词、额度不...](https://weibo.com/1402400261/Oa7OrujpC)
+Token length: 239
+Summarized using GPT-3.5-turbo
+Append: [【DeepBI：AI原生的数据分析平台，DeepBI充分利用大语言模型的能力来探索、查询、可视化和共享来自任何数据源的数据，用户可以使用DeepBI洞察数据并做出数据驱动...](https://weibo.com/1402400261/Oa7NxA4Us)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [【Mamba相关文献资源列表】’Awesome Mamba - A Comprehensive Survey of Mamba in Deep Learning' GitHub: github.com/xmindflow/Awesome_Mamba #开源# #机器学...](https://weibo.com/1402400261/Oa7MMmMdL)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [【posteriors：基于 PyTorch 的通用不确定性量化库】'posteriors - Uncertainty quantification with PyTorch' GitHub: github.com/normal-computing/posteriors...](https://weibo.com/1402400261/Oa7I8Aktr)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [【GWalkR:R中的交互式探索性数据分析（EDA）工具】'GWalkR: Your One-Stop R Package for Exploratory Data Analysis with Visualization - Turn your data fram...](https://weibo.com/1402400261/Oa7HlmfIP)
+Token length: 145
+Summarized using GPT-3.5-turbo
+Append: [【AI文档理解相关文献资源列表】’Awesome-Document-Understanding - Document Artifical Intelligence' GitHub: github.com/harrytea/Awesome-Document-Underst...](https://weibo.com/1402400261/Oa7Fzi2RK)
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [【利用深度学习进行定理证明相关论文资源累表列表】’Deep Learning for Theorem Proving (DL4TP) - A Survey on Deep Learning for Theorem Proving' GitHub: g...](https://weibo.com/1402400261/Oa7FgEUsH)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [【LLM Experiments：与 OpenAI 语言模型 GPT 进行交互的Demo项目】’LLM Experiments - I play with my best friend GPT' GitHub: github.com/ggoonnzzaallo/llm...](https://weibo.com/1402400261/Oa7EPtSaC)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [【Firecrawl：将网站内容转换为适合LLM的Markdown格式文本的工具】'Firecrawl - Turn entire websites into LLM-ready markdown' GitHub: github.com/mendableai...](https://weibo.com/1402400261/Oa7DlzX7X)
+Token length: 232
+Summarized using GPT-3.5-turbo
+Append: [【CodeQwen1.5：基于人工智能的代码生成工具，可以根据自然语言描述生成完整的代码，该工具利用了Qwen大语言模型，可以提供高质量、准确的代码生成结果】'CodeQw...](https://weibo.com/1402400261/Oa7C4xjT8)
+append_entries: 10
+Finish: 2024-04-17 08:14:47.372382
