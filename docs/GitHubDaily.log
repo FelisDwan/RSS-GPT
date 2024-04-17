@@ -2514,3 +2514,12 @@ Existing_entries: 55
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-04-17 04:14:54.595325
+------------------------------------------------------
+Started: 2024-04-17 06:17:14.052370
+Existing_entries: 55
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [推荐 GitHub 上一款开源免费的工具 Reader，专门用于将网页内容转换为 Markdown 格式。使用这个工具非常简单，只需要将任意 URL 粘贴到指定的前缀后，即可一键抓...](https://weibo.com/5722964389/Oa7PjB0mS)
+append_entries: 1
+Finish: 2024-04-17 06:17:20.240005
