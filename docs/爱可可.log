@@ -5100,3 +5100,18 @@ Summarized using GPT-3.5-turbo
 Append: [【GPT-AI-Code-Interpreter：基于云运行时的 Python & JavaScript SDK，用于构建自定义代码解释器。它支持 LLM（如 OpenAI、Cohere 和 Anthropic）生成的代码块...](https://weibo.com/1402400261/Oaaum8q2G)
 append_entries: 4
 Finish: 2024-04-17 14:11:34.861175
+------------------------------------------------------
+Started: 2024-04-17 16:14:41.514639
+Existing_entries: 866
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 2688
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Distort, Distract, Decode: Instruction-Tuned Model Can Refine its Response from Noisy Instructions》(ICLR 2024) GitHub: github.com...](https://weibo.com/1402400261/OaaOwpeWL)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [【ATAC：命令行简单API客户端(类似postman)】'ATAC - A simple API client (postman like) in your terminal' GitHub: github.com/Julien-cpsn/ATAC #开源# #API...](https://weibo.com/1402400261/OaaNT43xs)
+Token length: 346
+Summarized using GPT-3.5-turbo
+Append: [【AudioCraft：用于深度学习音频生成研究的PyTorch库】’AudioCraft - Audiocraft is a library for audio processing and generation with deep learning. It f...](https://weibo.com/1402400261/OaaLwmiwW)
+append_entries: 3
+Finish: 2024-04-17 16:14:54.182640
