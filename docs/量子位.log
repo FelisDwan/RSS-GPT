@@ -3631,3 +3631,9 @@ Existing_entries: 453
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-17 20:11:36.212740
+------------------------------------------------------
+Started: 2024-04-17 22:10:10.511327
+Existing_entries: 453
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-04-17 22:10:10.682504
