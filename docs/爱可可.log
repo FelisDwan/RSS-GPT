@@ -4965,3 +4965,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/Oa27KqRnG)
 append_entries: 0
 Finish: 2024-04-16 22:11:01.938731
+------------------------------------------------------
+Started: 2024-04-17 00:50:59.157949
+Existing_entries: 837
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [[LG] Foundational Challenges in Assuring Alignment and Safety of Large Language Models 网页链接 本文系统地总结了确保大语言模型安全性和对齐性的18大基础...](https://weibo.com/1402400261/Oa55Cy133)
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [[CL] Large Language Models are as persuasive as humans, but why? About the cognitive effort and moral-emotional language of LLM arguments 网页链接 发...](https://weibo.com/1402400261/Oa52EjLan)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [[CV] Map-Relative Pose Regression for Visual Re-Localization 网页链接 该方法将场景特定的几何表示与场景无关的姿态回归相结合，在保持端到端高效的同时实现...](https://weibo.com/1402400261/Oa4Zjke8v)
+Token length: 154
+Summarized using GPT-3.5-turbo
+Append: [[CL] Is Next Token Prediction Sufficient for GPT? Exploration on Code Logic Comprehension 网页链接 通过新的预训练任务增强了语言模型区分逻辑等价代码的...](https://weibo.com/1402400261/Oa4X1xhCP)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [[CL] Compression Represents Intelligence Linearly 网页链接 大型语言模型压缩外部语料的效率与其在知识理解、编程和数学推理方面的表现几乎呈线性相关，压缩...](https://weibo.com/1402400261/Oa4TApUVY)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [利用回路复杂度理论证明了SSM在状态跟踪问题上与Transformer有相似的固有表达能力局限，表明SSM难以处理需要顺序计算的状态跟踪任务。 - 转发 @爱可可-爱生活:&e...](https://weibo.com/1402400261/Oa4QidNBy)
+Token length: 112
+Summarized using GPT-3.5-turbo
+Append: [[LG]《The Illusion of State in State-Space Models》W Merrill, J Petty, A Sabharwal [New York University] (2024) 网页链接 #机器学习##人工智能##论文# [...](https://weibo.com/1402400261/Oa4QfBnP7)
+Token length: 238
+Summarized using GPT-3.5-turbo
+Append: [提出一个注入可控噪声的框架，系统地研究了不同类型和程度的偏好噪声如何影响生成式语言模型(GLM)对齐效果以及置信度滤波在降噪方面的作用，为更好地理解和处理...](https://weibo.com/1402400261/Oa4KSCq0X)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Impact of Preference Noise on the Alignment Performance of Generative Language Models》Y Gao, D Alon, D Metzler [Google Research] (2024) 网页链...](https://weibo.com/1402400261/Oa4KOqXVu)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [提出Transformer反馈注意力记忆(FAM)架构，通过反馈循环实现对自身潜在表示的注意力处理，使Transformer获得工作记忆能力，可以高效处理无限长输入序列。 - 转发...](https://weibo.com/1402400261/Oa4KnfVSw)
+append_entries: 10
+Finish: 2024-04-17 00:51:33.567110
