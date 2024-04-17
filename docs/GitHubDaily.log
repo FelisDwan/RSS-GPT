@@ -2532,3 +2532,9 @@ Summarized using GPT-3.5-turbo
 Append: [推荐 GitHub 上一个简约且好用的双语对照翻译插件和油猴脚本 kiss-translator。具有如下特性：- 支持常见浏览器，如 Chrome、Edge、Firefox 等；- 支持多种翻译...](https://weibo.com/5722964389/Oa8MjtHIr)
 append_entries: 1
 Finish: 2024-04-17 08:14:54.362326
+------------------------------------------------------
+Started: 2024-04-17 10:12:30.891254
+Existing_entries: 57
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-04-17 10:12:31.576390
