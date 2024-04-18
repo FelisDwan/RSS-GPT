@@ -5241,3 +5241,37 @@ Existing_entries: 888
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-18 14:10:45.177811
+------------------------------------------------------
+Started: 2024-04-18 16:13:24.381046
+Existing_entries: 888
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OakWPmGUb)
+Token length: 20
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(4.18)》 爱可可微博热门分享(4.18) [图片]](https://weibo.com/1402400261/OakUnaXhF)
+Token length: 2412
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《NARUTO: Neural Active Reconstruction from Uncertain Target Observations》(CVPR 2024) GitHub: github.com/oppo-us-research/Naruto《D...](https://weibo.com/1402400261/OakPDdo2d)
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [【公开的机器学习病理数据集，包括肺、乳腺、结直肠、前列腺、肾等多种肿瘤组织】'Histopathology Datasets for Machine Learning - Ressources of histopatholo...](https://weibo.com/1402400261/OakGEb2KR)
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [【List of ML File Formats：机器学习常见文件格式列表，包含了众多机器学习系统使用的文件格式，并提供了相关工具和补充信息】'List of ML File Formats - List...](https://weibo.com/1402400261/OakDMgIdY)
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [【Cognita：用于生产环境中构建模块化、开源RAG应用的框架】'Cognita - Cognita by TrueFoundry - Framework for building modular, open source RAG applicatio...](https://weibo.com/1402400261/OakD1b7Ez)
+Token length: 241
+Summarized using GPT-3.5-turbo
+Append: [【股价预测/量化交易相关论文列表】’stock-top-papers - Top paper collection for stock price prediction, quantitative trading. Covering top conferences ...](https://weibo.com/1402400261/OakBGgPuo)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [【Web Scraper：用于抓取网页并将其转换为 Markdown 格式，以便于 AI 搜索应用的增强】'Web Scraper - Scrape the webpage convert it into Markdown, and enhan...](https://weibo.com/1402400261/OakuQg556)
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [【Coix：实现概率编程中的程序组合器的JAX框架，提供了许多基本的程序转换和常见的目标，可以用于实现和运行各种推理算法】'Coix - Inference Combinators in JA...](https://weibo.com/1402400261/Oakugc0AX)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [【BiTE：平台无关的执行文件分析工具，旨在提供一个环境来检查二进制文件和调试信息的内容，支持多种架构】'BiTE - Disassembler focused on comprehensive rust...](https://weibo.com/1402400261/Oaksl0rF6)
+append_entries: 9
+Finish: 2024-04-18 16:14:24.376316
