@@ -3750,3 +3750,12 @@ Summarized using GPT-3.5-turbo
 Append: [#Llama3疑似发布# 据爆料，在微软Azure云和机器学习在线平台Replicate上都出现了有关Llama3的信息（图1-2），但Replicate很快将Llama3从价格表中删除（图3），不...](https://weibo.com/6105753431/Oalm0bdXx)
 append_entries: 2
 Finish: 2024-04-18 18:14:22.353404
+------------------------------------------------------
+Started: 2024-04-18 20:12:06.587280
+Existing_entries: 474
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 475
+Summarized using GPT-3.5-turbo
+Append: [#llama3发布##llama3突然来袭# 开源社区再次沸腾：GPT-4级别模型可以自由访问的时代到来就在刚刚，Meta官网上新，官宣了Llama 3 80亿和700亿参数版本。并且推出...](https://weibo.com/6105753431/OammnfeFx)
+append_entries: 1
+Finish: 2024-04-18 20:12:14.794385
