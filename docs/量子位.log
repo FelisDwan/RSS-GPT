@@ -3723,3 +3723,12 @@ Summarized using GPT-3.5-turbo
 Append: [#钉钉今日正式上线AI助理市场# 钉钉宣布正式上线 AI Agent Store，首批将推出超过 200 个 AI 助理。这些 AI 覆盖企业服务、行业应用、效率工具、教育学习、生活...](https://weibo.com/6105753431/OaiW4apdy)
 append_entries: 1
 Finish: 2024-04-18 12:19:44.602115
+------------------------------------------------------
+Started: 2024-04-18 14:10:30.327967
+Existing_entries: 471
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 508
+Summarized using GPT-3.5-turbo
+Append: [#中国AIGC产业峰会# “有算力就有超越Sora的可能。”“70%的代码问题，现在单纯靠基座模型解决不了。”“基于垂直场景的大模型应用创新，只有两年的窗口期。”“...](https://weibo.com/6105753431/OajTvvKEy)
+append_entries: 1
+Finish: 2024-04-18 14:10:41.907518
