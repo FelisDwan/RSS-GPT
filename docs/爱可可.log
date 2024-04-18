@@ -5223,3 +5223,9 @@ Summarized using GPT-3.5-turbo
 Append: [【Mistral Common：旨在帮助用户处理 Mistral 模型的工具集。首次发布包含文本的分词功能，其分词器不仅处理常规的文本到标记的转换，还增加了工具解析和结构化...](https://weibo.com/1402400261/Oah7ThdiQ)
 append_entries: 4
 Finish: 2024-04-18 08:15:31.813185
+------------------------------------------------------
+Started: 2024-04-18 10:13:52.174656
+Existing_entries: 888
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-18 10:13:54.080699
