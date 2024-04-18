@@ -4,6 +4,142 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>今日推介(第1379期)：语言模型级联、RAG知识和LLM内部先验间的博弈、解缠表示学习的三种互补归纳偏置、DPO是否比PPO更适合LLM对齐、在众多模拟世界中扩展可指示A...</title>
+<link>https://weibo.com/1402400261/OaeBajyAP</link>
+<guid>https://weibo.com/1402400261/OaeBajyAP</guid>
+<content:encoded><![CDATA[
+<div> 语言模型级联、RAG知识、LLM内部先验、解缠表示学习、互补归纳偏置、DPO、PPO、LLM对齐、可指示Agent、模拟世界扩展
+
+总结:<br>
+本文主要介绍了在语言模型领域的一些前沿研究，包括语言模型级联、RAG知识和LLM内部先验的博弈、解缠表示学习的三种互补归纳偏置等内容。研究讨论了DPO是否比PPO更适合LLM对齐的问题，还探讨了在众多模拟世界中扩展可指示Agent的相关方法。这些研究成果对于推动自然语言处理和深度学习领域的发展具有重要意义。 <div>
+今日推介(第1379期)：语言模型级联、RAG知识和LLM内部先验间的博弈、解缠表示学习的三种互补归纳偏置、DPO是否比PPO更适合LLM对齐、在众多模拟世界中扩展可指示Agent 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/693095550"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(4.18)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8houks80i25j21d00p2tfn.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8houksa70d6j219u0nmn2q.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8houkscmj6bj20rm0vswi0.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8houksgby4rj20u01c947t.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8houksjmqv1j216j0u0wkx.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 17 Apr 2024 22:19:02 GMT</pubDate>
+<pubDate>Wed, 17 Apr 2024 22:19:02 GMT</pubDate>
+</item>
+<item>
+<title>[CV] SRGS: Super-Resolution 3D Gaussian Splatting 网页链接 通过高分辨率密集化和纹理学习，提出一种只需低分辨率多视图输入就可以实现高质量高分辨率小场景...</title>
+<link>https://weibo.com/1402400261/OaexUdIhC</link>
+<guid>https://weibo.com/1402400261/OaexUdIhC</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 高分辨率密集化，纹理学习，多视图输入，新视图合成，SRGS
+
+总结:<br><br>这篇文章提出了一种名为SRGS的方法，通过高分辨率密集化和纹理学习，实现了只需低分辨率多视图输入就能合成高质量高分辨率小场景新视图的技术。文章通过对输入数据进行高效处理和重建，使得生成的新视图能够保持高质量，并具有真实感。这种方法为小场景的新视图合成提供了一种简单而有效的解决方案，有望在虚拟现实和增强现实领域有广泛应用。 <div>
+[CV] SRGS: Super-Resolution 3D Gaussian Splatting  <br /><a href="https://arxiv.org/abs/2404.10318"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />通过高分辨率密集化和纹理学习，提出一种只需低分辨率多视图输入就可以实现高质量高分辨率小场景新视图合成的方法SRGS。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houkk5qbs6j20xa150dwb.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houkk67k85j20xm0oigrc.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1houkk6re5hj21gg0xq187.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 17 Apr 2024 22:11:00 GMT</pubDate>
+<pubDate>Wed, 17 Apr 2024 22:11:00 GMT</pubDate>
+</item>
+<item>
+<title>[CV] MobileNetV4 - Universal Models for the Mobile Ecosystem 网页链接 通过巧妙设计的模块、注意力机制和NAS方法，使模型在移动端各硬件上都能高效部署。 [...</title>
+<link>https://weibo.com/1402400261/OaevgwwKJ</link>
+<guid>https://weibo.com/1402400261/OaevgwwKJ</guid>
+<content:encoded><![CDATA[
+<div> MobileNetV4, Universal Models, 移动端, 模块, 注意力机制, NAS方法, 高效部署, 硬件<br>
+<br>
+MobileNetV4是一种通过巧妙设计的模块、注意力机制和NAS方法而创建的通用模型，可以在移动端的各种硬件上高效部署。通过使用注意力机制，模型能够集中精力在关键部分，提高性能。NAS方法使模型更具智能化和可调节性，适应不同的移动设备。这些特点使MobileNetV4成为一个非常适用于移动生态系统的模型。<br><br>总结:MobileNetV4通过巧妙设计的模块、注意力机制和NAS方法，在移动端各硬件上高效部署，适应不同设备，使其成为一个通用且智能的模型。 <div>
+[CV] MobileNetV4 - Universal Models for the Mobile Ecosystem  <br /><a href="https://arxiv.org/abs/2404.10518"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />通过巧妙设计的模块、注意力机制和NAS方法，使模型在移动端各硬件上都能高效部署。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houkdepnqzj20ra16owq4.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1houkdexlm1j214g0vyn6c.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houkdfhmmyj213k0hw76j.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 17 Apr 2024 22:04:30 GMT</pubDate>
+<pubDate>Wed, 17 Apr 2024 22:04:30 GMT</pubDate>
+</item>
+<item>
+<title>[LG] Social Choice for AI Alignment: Dealing with Diverse Human Feedback 网页链接 提出可运用社会选择理论来系统地指导RLHF中的人工反馈选择和聚合，以制定...</title>
+<link>https://weibo.com/1402400261/Oaetj6Zv6</link>
+<guid>https://weibo.com/1402400261/Oaetj6Zv6</guid>
+<content:encoded><![CDATA[
+<div> 社会选择理论 RLHF 人工反馈 选择 聚合 公平 不排斥 人类价值观 机制
+
+<br><br>总结:
+本文提出了利用社会选择理论指导强化学习和人类反馈的机制，以确保人工智能对各种群体的价值观都能公平对待，不排斥任何群体。通过系统地选择和汇总人类反馈，制定更公平的人类价值观调整机制，帮助人工智能更好地对人类价值观进行调整，使其更符合社会的整体利益。 <div>
+[LG] Social Choice for AI Alignment: Dealing with Diverse Human Feedback  <br /><a href="https://arxiv.org/abs/2404.10271"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />提出可运用社会选择理论来系统地指导RLHF中的人工反馈选择和聚合，以制定更公平且不排斥任何群体的人类价值观调整机制。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1houk8dfzzdj20xw16w7ny.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houk8drgc9j21ke11c12y.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houk8eel05j21kc0lo7bb.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 17 Apr 2024 21:59:40 GMT</pubDate>
+<pubDate>Wed, 17 Apr 2024 21:59:40 GMT</pubDate>
+</item>
+<item>
+<title>[CV] Comprehensive Survey of Model Compression and Speed up for Vision Transformers 网页链接 通过全面调研和比较量化、低秩近似、知识蒸馏和剪枝四种关键...</title>
+<link>https://weibo.com/1402400261/Oaer1drUB</link>
+<guid>https://weibo.com/1402400261/Oaer1drUB</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 模型压缩, 视觉Transformer, CIFAR数据集, 准确率, 效率, 低秩近似, 知识蒸馏, 剪枝, trade-off, 实际模型部署
+
+总结:<br><br>本文对视觉Transformer模型压缩技术在CIFAR数据集上的效果进行了全面调研和比较，分别探讨了量化、低秩近似、知识蒸馏和剪枝四种关键压缩技术。研究结果为在实际模型部署中考虑准确率与效率trade-off提供了宝贵的参考。调研发现，这四种压缩技术在不同情况下对模型性能的影响有所不同，需要根据具体应用场景进行选择。在模型压缩方面，低秩近似和知识蒸馏能够有效降低模型的复杂度，而剪枝技术在减少参数和计算量方面表现突出。然而，在压缩过程中需要注意平衡准确率和效率之间的关系，以确保模型性能不受过度压缩的影响。因此，研究者建议根据具体需求选择合适的压缩技术，并在实际部署中进行综合考量，以达到最佳的模型性能和效率之间的平衡。 <div>
+[CV] Comprehensive Survey of Model Compression and Speed up for Vision Transformers  <br /><a href="https://arxiv.org/abs/2404.10407"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />通过全面调研和比较量化、低秩近似、知识蒸馏和剪枝四种关键视觉Transformer模型压缩技术在CIFAR数据集上的效果，为考虑准确率与效率trade-off的实际模型部署提供了宝贵参考。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houk2imtp3j20r014sqgm.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houk2j2bmkj219m0non2n.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1houk2j90anj20yu0qa42b.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 17 Apr 2024 21:54:02 GMT</pubDate>
+<pubDate>Wed, 17 Apr 2024 21:54:02 GMT</pubDate>
+</item>
+<item>
+<title>提出一个雄心勃勃的项目，旨在通过将语言指令与复杂3D环境交互相结合，开发泛化能力强大的可指示Agent。 - 转发 @爱可可-爱生活:&amp;ensp;[RO]《Scaling Instructab...</title>
+<link>https://weibo.com/1402400261/OaejuExON</link>
+<guid>https://weibo.com/1402400261/OaejuExON</guid>
+<content:encoded><![CDATA[
+<div> 谷歌DeepMind团队在2024年提出了一个名为《Scaling Instructable Agents Across Many Simulated Worlds》的项目，旨在开发泛化能力强大的可指示Agent。关键词：项目、DeepMind、指示代理、泛化能力、多个模拟环境。
+
+<br><br>总结:
+2024年，谷歌DeepMind团队发起了一个名为《Scaling Instructable Agents Across Many Simulated Worlds》的项目，旨在通过将语言指令与复杂3D环境交互相结合，开发泛化能力强大的可指示Agent。项目旨在让Agent能够在多个模拟环境中适用，并能够根据指示执行各种任务。这将为人工智能领域带来重大突破，提高Agent的适用性和智能水平。DeepMind团队将以此为目标，探索机器学习和自然语言处理的结合，开拓智能代理系统的新领域。 <div>
+提出一个雄心勃勃的项目，旨在通过将语言指令与复杂3D环境交互相结合，开发泛化能力强大的可指示Agent。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [RO]《Scaling Instructable Agents Across Many Simulated Worlds》S Team, M A Raad, A Ahuja, C Barros... [Google DeepMind] (2024) <a href="https://arxiv.org/abs/2404.10179"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houjbg8h83j21n00q6qhe.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1houjbgqv67j21ms15gqhv.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1houjbh4x0rj21de0tatn9.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houjbhabsij21dm19awrj.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1houjj53yx4j21140gstav.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1houjj566haj21150ue7b9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1houjj54e7aj21190j6771.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1houjj549jnj21150ne0vo.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houjj54b6gj21140gy410.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Wed, 17 Apr 2024 21:35:30 GMT</pubDate>
+<pubDate>Wed, 17 Apr 2024 21:35:30 GMT</pubDate>
+</item>
+<item>
+<title>[RO]《Scaling Instructable Agents Across Many Simulated Worlds》S Team, M A Raad, A Ahuja, C Barros... [Google DeepMind] (2024) 网页链接 #机器学习##人...</title>
+<link>https://weibo.com/1402400261/Oaejsl4lK</link>
+<guid>https://weibo.com/1402400261/Oaejsl4lK</guid>
+<content:encoded><![CDATA[
+<div> Scaling, Instructable Agents, Simulated Worlds, Multi-agent Systems, Reinforcement Learning, DeepMind
+
+<br><br>总结:
+本研究通过在多个模拟世界中扩展可指导的代理，实现了在多智能体系统中的扩展。利用强化学习算法，结合深度Mind技术，实现了在模拟环境中的智能体规模扩展。研究团队对于多智能体系统的设计和优化具有重要意义，为实现自主智能体在复杂环境中的应用提供了新的思路。 <div>
+[RO]《Scaling Instructable Agents Across Many Simulated Worlds》S Team, M A Raad, A Ahuja, C Barros... [Google DeepMind] (2024) <a href="https://arxiv.org/abs/2404.10179"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houjbg8h83j21n00q6qhe.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1houjbgqv67j21ms15gqhv.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1houjbh4x0rj21de0tatn9.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houjbhabsij21dm19awrj.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1houjj53yx4j21140gstav.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1houjj566haj21150ue7b9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1houjj54e7aj21190j6771.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1houjj549jnj21150ne0vo.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houjj54b6gj21140gy410.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1houjj55696j21160odn1c.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1houjj54aqxj211a0jawh1.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1houjj5434pj21160fo0uq.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 17 Apr 2024 21:35:24 GMT</pubDate>
+<pubDate>Wed, 17 Apr 2024 21:35:24 GMT</pubDate>
+</item>
+<item>
+<title>通过理论分析和综合实验发现PPO经过精心微调可以优于DPO，在对话和代码生成任务上都取得了最先进的结果。 - 转发 @爱可可-爱生活:&amp;ensp;[CL]《Is DPO Superior t...</title>
+<link>https://weibo.com/1402400261/Oaefpy987</link>
+<guid>https://weibo.com/1402400261/Oaefpy987</guid>
+<content:encoded><![CDATA[
+<div> PPO, DPO, 精心微调, 对话任务, 代码生成任务, 最先进结果, 理论分析, 综合实验, Tsinghua University, OpenPsi Inc
+
+<br><br>总结:
+本研究通过理论分析和综合实验发现，经过精心微调后的PPO在对话和代码生成任务上可以优于DPO，取得了最先进的结果。该研究由清华大学和OpenPsi公司的研究人员合作完成，探讨了PPO和DPO在LLM对齐方面的优劣。研究结果显示，PPO的调优效果更好，适用于各种任务，并提出了一种综合性研究方法，为相关领域的研究提供了重要的参考价值。 <div>
+通过理论分析和综合实验发现PPO经过精心微调可以优于DPO，在对话和代码生成任务上都取得了最先进的结果。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study》S Xu, W Fu, J Gao, W Ye, W Liu, Z Mei, G Wang, C Yu, Y Wu [Tsinghua University &amp; OpenPsi Inc] (2024) <a href="https://arxiv.org/abs/2404.10719"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1houj1rxkpxj20pa16wali.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houj1sbxbhj20uc1cs49b.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1houj1sk52wj20tw0l8777.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Wed, 17 Apr 2024 21:25:27 GMT</pubDate>
+<pubDate>Wed, 17 Apr 2024 21:25:27 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study》S Xu, W Fu, J Gao, W Ye, W Liu, Z Mei, G Wang, C Yu, Y Wu [Tsinghua University ...</title>
+<link>https://weibo.com/1402400261/Oaefnozyq</link>
+<guid>https://weibo.com/1402400261/Oaefnozyq</guid>
+<content:encoded><![CDATA[
+<div> 关键词: DPO, PPO, LLM Alignment, Tsinghua University, OpenPsi Inc
+
+总结:<br><br>本研究探讨了DPO和PPO对LLM对齐的优劣。研究团队来自清华大学和OpenPsi公司。他们进行了全面的研究，发现DPO在LLM对齐方面表现更优。研究结果对相关领域的进一步发展具有重要意义，为未来研究提供了有益的认识。<br>研究方法:<br>实验结果:<br>结论: <div>
+[CL]《Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study》S Xu, W Fu, J Gao, W Ye, W Liu, Z Mei, G Wang, C Yu, Y Wu [Tsinghua University &amp; OpenPsi Inc] (2024) <a href="https://arxiv.org/abs/2404.10719"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1houj1rxkpxj20pa16wali.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houj1sbxbhj20uc1cs49b.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1houj1sk52wj20tw0l8777.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 17 Apr 2024 21:25:21 GMT</pubDate>
+<pubDate>Wed, 17 Apr 2024 21:25:21 GMT</pubDate>
+</item>
+<item>
+<title>提出Tripod模型，通过改进并协调使用三种互补的归纳偏置——量化、独立性和混合性，实现了图像表征的最优去相关效果。 - 转发 @爱可可-爱生活:&amp;ensp;[LG]《Tripo...</title>
+<link>https://weibo.com/1402400261/OaeaQEiyI</link>
+<guid>https://weibo.com/1402400261/OaeaQEiyI</guid>
+<content:encoded><![CDATA[
+<div> Tripod模型, 量化, 独立性, 混合性, 图像表征, 去相关效果, 三种互补的归纳偏置, disentangled representation learning
+
+<br><br>总结:
+本文提出了Tripod模型，通过改进并协调使用三种互补的归纳偏置——量化、独立性和混合性，实现了图像表征的最优去相关效果。Tripod模型结合了这三种偏置，从而在图像表征学习中取得了显著的效果。这种综合利用不同偏置的方法，使得模型能够更好地学习到图像之间的不相关特征，从而实现更好的图像表征学习效果。Tripod模型的提出，为 disentangled representation learning 领域带来了新的思路和方法，有望在未来的研究中有更多的应用和拓展。Tripod模型的成功应用展示了在图像表征学习中综合利用多种归纳偏置的重要性，并为相关领域的研究和应用带来了新的启示。<br>模型提出了三种互补的归纳偏置——量化、独立性和混合性，通过综合利用这些归纳偏置，实现了更好的去相关效果，为图像表征学习带来了新的突破和进展。Tripod模型的介绍和应用，为相关研究领域提供了新的思路和方法，为未来的研究和应用奠定了更坚实的基础。Tripod模型的提出，将有望推动图像表征学习领域的发展，为实现更好的图像表征学习效果提供了新的途径和可能性。Tripod模型的成功应用充分展示了综合利用不同归纳偏置的重要性，并为相关领域的进一步研究和发展提供了有益的启示。Tripod模型的发展，有望在未来为图像表征学习领域带来更多的突破和进展，为解决实际问题提供更好的解决方案。Tripod模型的提出，为图像表征学习领域带来了新的思路和方法，有望在未来的研究和应用中发挥更重要的作用，进一步推动领域的发展和进步。 <div>
+提出Tripod模型，通过改进并协调使用三种互补的归纳偏置——量化、独立性和混合性，实现了图像表征的最优去相关效果。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Tripod: Three Complementary Inductive Biases for Disentangled Representation Learning》K Hsu, J I Hamid, K Burns, C Finn, J Wu [Stanford University] (2024) <a href="https://arxiv.org/abs/2404.10282"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houivs4781j20ns10idp5.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1houivsiwudj20rm0vsdkf.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houivsxv78j20re0t80wd.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1houivt5llmj21iy0qqdn8.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1houiwh6ug6j20iv0l0abl.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1houiwh8iwfj212d0kl0yw.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1houiwh9ownj212d13ojzb.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1houiwh9z0cj212d0z7n3t.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1houiwhaynej212d0z7n6r.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Wed, 17 Apr 2024 21:14:12 GMT</pubDate>
+<pubDate>Wed, 17 Apr 2024 21:14:12 GMT</pubDate>
+</item>
 
 <item>
 <title>《爱可可微博热门分享(4.17)》 爱可可微博热门分享(4.17) [图片]</title>

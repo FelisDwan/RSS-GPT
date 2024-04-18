@@ -5139,3 +5139,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OabAtkT3g)
 append_entries: 0
 Finish: 2024-04-17 22:10:11.892330
+------------------------------------------------------
+Started: 2024-04-18 00:49:54.798652
+Existing_entries: 870
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 106
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1379期)：语言模型级联、RAG知识和LLM内部先验间的博弈、解缠表示学习的三种互补归纳偏置、DPO是否比PPO更适合LLM对齐、在众多模拟世界中扩展可指示A...](https://weibo.com/1402400261/OaeBajyAP)
+Token length: 111
+Summarized using GPT-3.5-turbo
+Append: [[CV] SRGS: Super-Resolution 3D Gaussian Splatting 网页链接 通过高分辨率密集化和纹理学习，提出一种只需低分辨率多视图输入就可以实现高质量高分辨率小场景...](https://weibo.com/1402400261/OaexUdIhC)
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: [[CV] MobileNetV4 - Universal Models for the Mobile Ecosystem 网页链接 通过巧妙设计的模块、注意力机制和NAS方法，使模型在移动端各硬件上都能高效部署。 [...](https://weibo.com/1402400261/OaevgwwKJ)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [[LG] Social Choice for AI Alignment: Dealing with Diverse Human Feedback 网页链接 提出可运用社会选择理论来系统地指导RLHF中的人工反馈选择和聚合，以制定...](https://weibo.com/1402400261/Oaetj6Zv6)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [[CV] Comprehensive Survey of Model Compression and Speed up for Vision Transformers 网页链接 通过全面调研和比较量化、低秩近似、知识蒸馏和剪枝四种关键...](https://weibo.com/1402400261/Oaer1drUB)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [提出一个雄心勃勃的项目，旨在通过将语言指令与复杂3D环境交互相结合，开发泛化能力强大的可指示Agent。 - 转发 @爱可可-爱生活:&ensp;[RO]《Scaling Instructab...](https://weibo.com/1402400261/OaejuExON)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [[RO]《Scaling Instructable Agents Across Many Simulated Worlds》S Team, M A Raad, A Ahuja, C Barros... [Google DeepMind] (2024) 网页链接 #机器学习##人...](https://weibo.com/1402400261/Oaejsl4lK)
+Token length: 232
+Summarized using GPT-3.5-turbo
+Append: [通过理论分析和综合实验发现PPO经过精心微调可以优于DPO，在对话和代码生成任务上都取得了最先进的结果。 - 转发 @爱可可-爱生活:&ensp;[CL]《Is DPO Superior t...](https://weibo.com/1402400261/Oaefpy987)
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study》S Xu, W Fu, J Gao, W Ye, W Liu, Z Mei, G Wang, C Yu, Y Wu [Tsinghua University ...](https://weibo.com/1402400261/Oaefnozyq)
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [提出Tripod模型，通过改进并协调使用三种互补的归纳偏置——量化、独立性和混合性，实现了图像表征的最优去相关效果。 - 转发 @爱可可-爱生活:&ensp;[LG]《Tripo...](https://weibo.com/1402400261/OaeaQEiyI)
+append_entries: 10
+Finish: 2024-04-18 00:50:45.162281
