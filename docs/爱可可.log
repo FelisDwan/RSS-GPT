@@ -5175,3 +5175,21 @@ Summarized using GPT-3.5-turbo
 Append: [提出Tripod模型，通过改进并协调使用三种互补的归纳偏置——量化、独立性和混合性，实现了图像表征的最优去相关效果。 - 转发 @爱可可-爱生活:&ensp;[LG]《Tripo...](https://weibo.com/1402400261/OaeaQEiyI)
 append_entries: 10
 Finish: 2024-04-18 00:50:45.162281
+------------------------------------------------------
+Started: 2024-04-18 02:20:06.233387
+Existing_entries: 880
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 526
+Summarized using GPT-3.5-turbo
+Append: [【波士顿动力推出电动人型机器人Atlas，展现超强力量与灵活性】- Boston Dynamics推出了全新的全电动Atlas机器人，这是在几十年的机器人创新和多年实践经验基础...](https://weibo.com/1402400261/OafoiBw4B)
+Token length: 485
+Summarized using GPT-3.5-turbo
+Append: [【Pile-T5：更好的通用预训练语言模型】- Pile-T5通过在Pile数据集上预训练T5模型，并使用LLAMA分词器，改进了原始T5的编码能力。 - Pile-T5总体上明显优于原始T...](https://weibo.com/1402400261/OafmCeJxq)
+Token length: 614
+Summarized using GPT-3.5-turbo
+Append: [【大语言模型时代的科学发现】- LLM技术进步迅速，广泛应用使科学界既兴奋又担忧。LLM可能影响科学信息搜索、创作和科研等方方面面。 - LLM的环境影响问题亟待解...](https://weibo.com/1402400261/OaflRxl5I)
+Token length: 464
+Summarized using GPT-3.5-turbo
+Append: [【Mistral AI 开源 Mixtral 8x22B】- Mistral AI发布了新的开源模型Mixtral 8x22B。该模型以39B活跃参数实现141B参数规模，极大提升了模型规模与成本效率。 - Mi...](https://weibo.com/1402400261/OafkRu8TD)
+append_entries: 4
+Finish: 2024-04-18 02:20:29.067010
