@@ -3738,3 +3738,15 @@ Existing_entries: 472
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-18 16:13:23.308613
+------------------------------------------------------
+Started: 2024-04-18 18:14:13.525976
+Existing_entries: 472
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [最新消息：真的发了 - 转发 @量子位:&ensp;#Llama3疑似发布# 据爆料，在微软Azure云和机器学习在线平台Replicate上都出现了有关Llama3的信息（图1-2），但Replic...](https://weibo.com/6105753431/OalCehZiG)
+Token length: 111
+Summarized using GPT-3.5-turbo
+Append: [#Llama3疑似发布# 据爆料，在微软Azure云和机器学习在线平台Replicate上都出现了有关Llama3的信息（图1-2），但Replicate很快将Llama3从价格表中删除（图3），不...](https://weibo.com/6105753431/Oalm0bdXx)
+append_entries: 2
+Finish: 2024-04-18 18:14:22.353404
