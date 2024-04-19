@@ -3771,3 +3771,12 @@ Existing_entries: 475
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-19 00:50:44.673876
+------------------------------------------------------
+Started: 2024-04-19 02:21:57.325040
+Existing_entries: 475
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 222
+Summarized using GPT-3.5-turbo
+Append: [#英特尔CPU支持Llama3推理# Llama 3 一出，作为 Meta 合作伙伴的英特尔也立马有了新动作。首先是之前专为 Llama 2 提供性能优化的 Gaudi 2，现在也能支持新的 Ll...](https://weibo.com/6105753431/Oap9Q3tYg)
+append_entries: 1
+Finish: 2024-04-19 02:22:03.590275

@@ -5332,3 +5332,15 @@ Summarized using GPT-3.5-turbo
 Append: [[LG]《On the Scalability of GNNs for Molecular Graphs》M Sypetkowski, F Wenkel, F Poursafaei, N Dickson... [Valence Labs] (2024) 网页链接 #机器学习##...](https://weibo.com/1402400261/OanDw57nB)
 append_entries: 10
 Finish: 2024-04-19 00:51:42.051332
+------------------------------------------------------
+Started: 2024-04-19 02:22:04.698552
+Existing_entries: 907
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [【YouTube多语言数据集，包含 YouTube 上的视频信息和相关元数据，总共包含 400k 条记录，字段包括视频标题、链接、描述、发布日期、许可证、原始语言和转录语言...](https://weibo.com/1402400261/OaoBdxMrE)
+Token length: 601
+Summarized using GPT-3.5-turbo
+Append: [【Meta发布Llama 3，新一代开源大型语言模型】- Meta发布了第三代开源大模型Meta Llama 3，包括8B和70B参数两种规模的预训练语言模型。这是目前同规模参数下开源...](https://weibo.com/1402400261/OaodKvpuJ)
+append_entries: 2
+Finish: 2024-04-19 02:22:20.210234
