@@ -5441,3 +5441,10 @@ Summarized using GPT-3.5-turbo
 Append: [【chatstream for Shiny for Python：一个 Shiny for Python 模块，用于构建 AI 聊天应用程序】'chatstream for Shiny for Python - Example Shiny for Python a...](https://weibo.com/1402400261/Oau3p7H6a)
 append_entries: 8
 Finish: 2024-04-19 18:14:31.123216
+------------------------------------------------------
+Started: 2024-04-19 20:11:33.957543
+Existing_entries: 925
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OaukmugFZ)
+append_entries: 0
+Finish: 2024-04-19 20:11:34.134808
