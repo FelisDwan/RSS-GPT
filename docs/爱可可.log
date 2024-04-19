@@ -5362,3 +5362,33 @@ Existing_entries: 909
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-19 08:14:32.869933
+------------------------------------------------------
+Started: 2024-04-19 10:12:51.088730
+Existing_entries: 909
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 423
+Summarized using GPT-3.5-turbo
+Append: [【ARAGOG：旨在探索和比较各种基于检索增强生成(RAG)技术，用于评估人工智能研究论文数据集的输出，包括模块化代码，以便于实验和重用，包含用于评估的问答对、A...](https://weibo.com/1402400261/Oar5dcyBs)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [【MLC-MiniCPM：基于 MLC-LLM 开发，将 MiniCPM 和 MiniCPM-V 在 Android 手机端上运行】'MLC-MiniCPM - MiniCPM on Android platform.' GitHub: github.com/Ope...](https://weibo.com/1402400261/Oar2grQdj)
+Token length: 309
+Summarized using GPT-3.5-turbo
+Append: [【SoccerNet Game State Challenge：SoccerNet 游戏状态开发工具包是一个帮助开始使用数据和建议任务的工具包。它建立在 TrackLab 上，一个用于多目标跟踪的研究...](https://weibo.com/1402400261/OaqQyzdGs)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [【llm：Andrjey Karpathy最小化LLM代码的Mojo移植版】’llm - port of Andrjey Karpathy's llm.c to Mojo' GitHub: github.com/dorjeduck/llm.mojo #开源# #机器...](https://weibo.com/1402400261/OaqNe0jCI)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [【深度立体匹配(Deep Stereo Matching）相关论文资源列表】’Awesome-Deep-Stereo-Matching - A curated list of awesome Deep Stereo Matching resources' GitH...](https://weibo.com/1402400261/OaqMQDpHJ)
+Token length: 327
+Summarized using GPT-3.5-turbo
+Append: [【Prompt Fuzzer：用于强化 GenAI 应用的开源工具，旨在帮助开发人员检测和防御针对其应用的 LLM 攻击，包括一个 Playground 聊天界面，用于帮助用户迭代地提高...](https://weibo.com/1402400261/OaqM44g2U)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [【非官方的 ComfyUI 魔法变装实现】'unofficial implementation of Comfyui magic clothing' GitHub: github.com/frankchieng/ComfyUI_MagicClothing #开源# #机...](https://weibo.com/1402400261/OaqFA13o4)
+Token length: 644
+Summarized using GPT-3.5-turbo
+Append: [GitHub：github.com/meta-llama/llama3 - 转发 @爱可可-爱生活:&ensp;【Meta发布Llama 3，新一代开源大型语言模型】- Meta发布了第三代开源大模型Meta Llama 3，...](https://weibo.com/1402400261/OaqEtw0k5)
+append_entries: 8
+Finish: 2024-04-19 10:13:39.551243
