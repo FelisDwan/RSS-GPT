@@ -3849,3 +3849,9 @@ Summarized using GPT-3.5-turbo
 Append: [【#开源大模型Llama3突然来袭#】开源大模型Llama 3突然来袭！小扎亲自上场介绍，最大参数超过4000亿，性能直逼GPT4，网友：开源社区分水岭出现了！ 量子位的微博...](https://weibo.com/6105753431/OasDrteKg)
 append_entries: 2
 Finish: 2024-04-19 12:20:00.444965
+------------------------------------------------------
+Started: 2024-04-19 14:10:17.991271
+Existing_entries: 489
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-04-19 14:10:18.104800
