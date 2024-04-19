@@ -5410,3 +5410,34 @@ Existing_entries: 917
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-19 16:13:23.678258
+------------------------------------------------------
+Started: 2024-04-19 18:13:32.333982
+Existing_entries: 917
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OaukmugFZ)
+Token length: 20
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(4.19)》 爱可可微博热门分享(4.19) [图片]](https://weibo.com/1402400261/Oauk4ninj)
+Token length: 1375
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Learning to Produce Semi-dense Correspondences for Visual Localization》(CVPR 2024) GitHub: github.com/TruongKhang/DeViLoc《Closel...](https://weibo.com/1402400261/Oaufxs1ea)
+Token length: 287
+Summarized using GPT-3.5-turbo
+Append: [【Academic paper URL to Obsidian Note：Obsidian 插件，用于自动从 arXiv.org、acl anthology 和 semantic scholar 创建笔记】'Academic paper URL to Obsidia...](https://weibo.com/1402400261/Oau9bE0WO)
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [【多模态大语言模型(MLLM)幻觉相关论文资源列表】’Awesome Hallucination Papers in MLLMs - Papers about Hallucination in Multi-Modal Large Language Model...](https://weibo.com/1402400261/Oau8pBStj)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [【LibContinual：基于 PyTorch 的开源持续学习工具箱】'LibContinual - A Framework of Continual Learning' GitHub: github.com/RL-VIG/LibContinual #开源# #...](https://weibo.com/1402400261/Oau6hxUQx)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [【hf-chat：使用 huggingface/chat-ui 和 huggingface/candle 创建的适用于 macOS 和 iOS 的本地高效的聊天应用程序】'hf-chat' GitHub: github.com/Narsil/hf-c...](https://weibo.com/1402400261/Oau4NwirE)
+Token length: 86
+Summarized using GPT-3.5-turbo
+Append: [【深度神经网络剪枝相关论文资源列表】’awesome-pruning' GitHub: github.com/hrcheng1066/awesome-pruning #开源# #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/Oau46tkM3)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [【chatstream for Shiny for Python：一个 Shiny for Python 模块，用于构建 AI 聊天应用程序】'chatstream for Shiny for Python - Example Shiny for Python a...](https://weibo.com/1402400261/Oau3p7H6a)
+append_entries: 8
+Finish: 2024-04-19 18:14:31.123216
