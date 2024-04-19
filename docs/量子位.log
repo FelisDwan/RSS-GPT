@@ -3780,3 +3780,21 @@ Summarized using GPT-3.5-turbo
 Append: [#英特尔CPU支持Llama3推理# Llama 3 一出，作为 Meta 合作伙伴的英特尔也立马有了新动作。首先是之前专为 Llama 2 提供性能优化的 Gaudi 2，现在也能支持新的 Ll...](https://weibo.com/6105753431/Oap9Q3tYg)
 append_entries: 1
 Finish: 2024-04-19 02:22:03.590275
+------------------------------------------------------
+Started: 2024-04-19 04:13:05.830573
+Existing_entries: 476
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 97
+Summarized using GPT-3.5-turbo
+Append: [【#3分钟带你看遍IPF大会十年黑科技#】 3分钟带你看遍IPF2024黑科技，这里有机器狗、宇宙镜像、AI作曲等炫彩的未来生活体验，还有浪潮信息及其元脑生态伙伴的系...](https://weibo.com/6105753431/Oaq0ysrqJ)
+Token length: 207
+Summarized using GPT-3.5-turbo
+Append: [#最新MetaAI助手# 搭载 Llama 3 Meta 新发布了由 Llama 3 驱动的 Meta AI 助手。Meta AI 以英文版的方式在美国以外的十几个国家/地区推出。（澳大利亚、加拿大、...](https://weibo.com/6105753431/OapVsBJyn)
+Token length: 122
+Summarized using GPT-3.5-turbo
+Append: [【#中国AIGC产业峰会#收官战报】 “20+行业领袖、近千人线下参会、300万+线上直播观众、1000万+全平台曝光……” 感谢所有人对量子位主办的2024中国AIGC产业峰会...](https://weibo.com/6105753431/OapJFe0hn)
+Token length: 635
+Summarized using GPT-3.5-turbo
+Append: [#本地运行Llama3新方法# 国外有网友火速分享了在本地（Windows、Linux、Mac）一键运行 Llama 3 的新方法~废话不多说，先看效果。【图1】在视频1倍速播放中，他用...](https://weibo.com/6105753431/OapEysXvU)
+append_entries: 4
+Finish: 2024-04-19 04:13:26.630594

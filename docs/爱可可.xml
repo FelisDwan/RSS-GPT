@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【YouTube多语言数据集，包含 YouTube 上的视频信息和相关元数据，总共包含 400k 条记录，字段包括视频标题、链接、描述、发布日期、许可证、原始语言和转录语言...</title>
 <link>https://weibo.com/1402400261/OaoBdxMrE</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 数据集、YouTube、视频信息、元数据、400k条记录、字段、视频标题、链接、描述、发布日期、许可证、原始语言、转录语言
 
-总结:<br>
+总结:<br />
 该数据集是关于YouTube上的视频信息和相关元数据的，总共包含400k条记录。每条记录包括视频标题、链接、描述、发布日期、许可证、原始语言和转录语言等字段。数据集涵盖广泛的主题和内容，对研究和分析YouTube平台上的视频具有重要意义。数据集的规模庞大，提供了丰富的信息资源，有助于深入了解YouTube视频的特点和趋势。该数据集对于语言处理、数据挖掘和机器学习等领域的研究具有重要的参考价值。数据集的开放共享也为学术研究和商业应用提供了便利，为相关领域的研究工作提供了重要支持。 <div>
 【YouTube多语言数据集，包含 YouTube 上的视频信息和相关元数据，总共包含 400k 条记录，字段包括视频标题、链接、描述、发布日期、许可证、原始语言和转录语言等】《PleIAs/YouTube-Commons · Datasets at Hugging Face》 <a href="https://huggingface.co/datasets/PleIAs/YouTube-Commons"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hovsy07p36j21f40u07b3.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Thu, 18 Apr 2024 23:46:38 GMT</pubDate>
 <pubDate>Thu, 18 Apr 2024 23:46:38 GMT</pubDate>
 </item>
 <item>
@@ -25,14 +25,12 @@
 <content:encoded><![CDATA[
 <div> 关键词: Meta, Llama 3, 开源, 大型语言模型, 性能, 安全, 部署, 辅助工具, 400B参数, Meta AI助手
 
-总结:<br><br>
+总结:<br /><br />
 Meta发布了第三代开源大模型Llama 3，包括8B和70B参数两种规模的预训练语言模型。该模型在多项业界基准测试上表现出领先性能，特别在推理和编码方面有明显改进。为了优化对话用例表现，Meta开发了指令微调技术。为保证安全可控，Meta采用系统层面方法，提供信任与安全工具。Llama 3将在各大云平台部署，支持多语言、长上下文和多模态输入。Meta还开发了辅助工具torchtune。未来Meta将发布400B参数的Llama 3模型，并已在Meta AI助手中集成Llama 3，用户可在不同产品上使用体验。 <div>
 【Meta发布Llama 3，新一代开源大型语言模型】<br />- Meta发布了第三代开源大模型Meta Llama 3，包括8B和70B参数两种规模的预训练语言模型。这是目前同规模参数下开源领域的最优模型。   <br />- Llama 3在多项业界基准测试上展现出领先的性能，尤其是在推理和编码等方面有明显改进。Meta通过预训练数据量的扩大、模型并行和管道并行等方式实现了模型训练的大规模化。   <br />- 为了让Llama 3对话用例的表现更优，Meta开发了指令微调技术，结合监督微调、拒绝抽样、近端策略优化等方法。提示质量和偏好排序对模型性能有很大影响。   <br />- Meta采用系统层面的方法确保Llama 3的安全可控，不仅微调了模型，还提供了 Llama Guard 2、Code Shield 和 CyberSec Eval 2等信任与安全工具。   <br />- Llama 3将在各大云平台部署，支持多语言、长上下文和多模态输入。Meta还开发了torchtune等辅助开发Llama 3的开源工具。   <br />- Meta正在开发超过400B参数的Llama 3模型，未来会开源发布。Meta AI助手已经集成了Llama 3，用户可以在不同的Meta产品上使用体验。<br />《Introducing Meta Llama 3: The most capable openly available LLM to date》 <a href="https://ai.meta.com/blog/meta-llama-3/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hovr9gq146j21e00u0tav.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hovr9idh2bj21hc0u0q65.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hovr9ketfcj21bt0u041d.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hovr9oe9jvj218g0hqq4t.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Thu, 18 Apr 2024 22:48:49 GMT</pubDate>
-<pubDate>Thu, 18 Apr 2024 22:48:49 GMT</pubDate>
 </item>
-
 <item>
 <title>【开放语言模型对齐】《Aligning open language models - Google Slides》Nathan Lambert 网页链接 #机器学习# #人工智能# [图片]</title>
 <link>https://weibo.com/1402400261/Oao9Ftpmw</link>
