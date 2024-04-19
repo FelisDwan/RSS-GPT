@@ -5296,3 +5296,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OakWPmGUb)
 append_entries: 0
 Finish: 2024-04-18 22:10:10.049942
+------------------------------------------------------
+Started: 2024-04-19 00:50:45.768302
+Existing_entries: 897
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 75
+Summarized using GPT-3.5-turbo
+Append: [【开放语言模型对齐】《Aligning open language models - Google Slides》Nathan Lambert 网页链接 #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/Oao9Ftpmw)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1380期)：语多样本上下文学习、通过位置信息操纵提升大型语言模型、用更少截断改进语言建模、分子图上GNN的可扩展性研究、面向相机运动模糊的高斯Spl...](https://weibo.com/1402400261/Oao1n80W3)
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [[CL] Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions 网页链接 通过审视社交智能的概念内涵和研究进展，提出Social-AI...](https://weibo.com/1402400261/OanXMemuh)
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [[IR] A Survey on Retrieval-Augmented Text Generation for Large Language Models 网页链接 通过预处理、检索、后处理和生成四个阶段全面梳理检索增强型文本生...](https://weibo.com/1402400261/OanTvAiNt)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [[CL] Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent 网页链接 Octopus v3提出了文本、图像和功能令牌的结合框架，在亚十亿参数...](https://weibo.com/1402400261/OanQxm3l0)
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: [[LG] Variational Bayesian Last Layers 网页链接 提出变分贝叶斯最后层(VBLL)方法，以极小的计算开销显著改进了神经网络的不确定度建模和泛化能力。 [图片][图...](https://weibo.com/1402400261/OanNwjhGR)
+Token length: 230
+Summarized using GPT-3.5-turbo
+Append: [提出DeblurGS框架，通过联合优化相机运动轨迹和基于3D高斯Splatting的清晰场景表示，实现了从含模糊多视图中重建细致逼真3D场景的目标，对处理实际应用中存在的...](https://weibo.com/1402400261/OanKPenH4)
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [[CV]《DeblurGS: Gaussian Splatting for Camera Motion Blur》J Oh, J Chung, D Lee, K M Lee [Seoul National University] (2024) 网页链接 #机器学习##人工智...](https://weibo.com/1402400261/OanKMzLzW)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [通过大规模实验研究证明，GNN模型在分子图建模任务中存在强大的可扩展性，持续扩大模型和数据集规模可以获得显著提升，在各种下游任务上性能优异，为GNN模型应用...](https://weibo.com/1402400261/OanGMlXEw)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [[LG]《On the Scalability of GNNs for Molecular Graphs》M Sypetkowski, F Wenkel, F Poursafaei, N Dickson... [Valence Labs] (2024) 网页链接 #机器学习##...](https://weibo.com/1402400261/OanDw57nB)
+append_entries: 10
+Finish: 2024-04-19 00:51:42.051332
