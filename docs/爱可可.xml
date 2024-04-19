@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【ARAGOG：旨在探索和比较各种基于检索增强生成(RAG)技术，用于评估人工智能研究论文数据集的输出，包括模块化代码，以便于实验和重用，包含用于评估的问答对、A...</title>
 <link>https://weibo.com/1402400261/Oar5dcyBs</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 代码、RAG、人工智能、实验、数据集、评估、问答对、AI ArXiv 论文集合、资源文件、Jupyter 笔记本
 
-<br><br>总结:
+<br /><br />总结:
 ARAGOG是一个旨在探索和比较各种基于检索增强生成(RAG)技术的项目，用于评估人工智能研究论文数据集的输出。该项目包含了模块化的代码，使实验和重用变得更加容易。其中包括用于评估的问答对、AI ArXiv 论文集合、资源文件(如提示模板和配置文件)、主要脚本(用于定义和执行实验)、Jupyter 笔记本(用于分析最终实验结果)、辅助函数和用于设置向量数据库的脚本。通过ARAGOG，研究人员可以快速地对不同的RAG技术进行比较和分析，从而为人工智能领域的研究提供更多参考和借鉴。 <div>
 【ARAGOG：旨在探索和比较各种基于检索增强生成(RAG)技术，用于评估人工智能研究论文数据集的输出，包括模块化代码，以便于实验和重用，包含用于评估的问答对、AI ArXiv 论文集合、资源文件(如提示模板和配置文件)、主要脚本(用于定义和执行实验)、Jupyter 笔记本(用于分析最终实验结果)、辅助函数和用于设置向量数据库的脚本。 4】’ARAGOG- Advanced RAG Output Grading. Exploring and comparing various Retrieval-Augmented Generation (RAG) techniques on AI research papers dataset. Includes modular code for easy experimentation and reusability.' GitHub: github.com/predlico/ARAGOG <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8how3wpwz14j20u00z2dlk.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 19 Apr 2024 06:06:01 GMT</pubDate>
 <pubDate>Fri, 19 Apr 2024 06:06:01 GMT</pubDate>
 </item>
 <item>
@@ -24,13 +24,12 @@ ARAGOG是一个旨在探索和比较各种基于检索增强生成(RAG)技术的
 <guid>https://weibo.com/1402400261/Oar2grQdj</guid>
 <content:encoded><![CDATA[
 <div> MiniCPM, MiniCPM-V, Android手机端, MLC-LLM, GitHub, 开发
-<br>
+<br />
 MLC-MiniCPM是基于MLC-LLM开发的，可以在Android手机端上运行MiniCPM和MiniCPM-V。该项目在GitHub上有开源代码。
-<br><br>总结:
+<br /><br />总结:
 MLC-MiniCPM是一个运行在Android手机上的项目，基于MLC-LLM开发，可以实现MiniCPM和MiniCPM-V的功能。用户可以在GitHub上查看该项目的开源代码。 <div>
 【MLC-MiniCPM：基于 MLC-LLM 开发，将 MiniCPM 和 MiniCPM-V 在 Android 手机端上运行】'MLC-MiniCPM - MiniCPM on Android platform.' GitHub: github.com/OpenBMB/mlc-MiniCPM <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8how3p08oy5j209o0lgq35.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 19 Apr 2024 05:58:46 GMT</pubDate>
 <pubDate>Fri, 19 Apr 2024 05:58:46 GMT</pubDate>
 </item>
 <item>
@@ -40,11 +39,10 @@ MLC-MiniCPM是一个运行在Android手机上的项目，基于MLC-LLM开发，�
 <content:encoded><![CDATA[
 <div> SoccerNet, Game State, 数据, 建议任务, TrackLab, 多目标跟踪, 计算机视觉, 运动分析, 识别任务, 位置定位
 
-<br><br>总结:
+<br /><br />总结:
 SoccerNet 游戏状态开发工具包是一个建立在TrackLab上的工具包，用于帮助开始使用数据和建议任务。它专注于游戏状态识别任务，这是一项新的高级计算机视觉任务，旨在识别和定位所有运动员在球场上的位置。这个挑战还有一个公开的GitHub仓库，用于支持SoccerNet Game State Challenge。 <div>
 【SoccerNet Game State Challenge：SoccerNet 游戏状态开发工具包是一个帮助开始使用数据和建议任务的工具包。它建立在 TrackLab 上，一个用于多目标跟踪的研究框架。游戏状态识别任务是一项新的高级计算机视觉任务，专门用于运动分析。它旨在识别和定位所有运动员（球员、裁判等）在球场上的位置，基于原始输入视频】'SoccerNet Game State Challenge - Public repository for the SoccerNet Game State Challenge' GitHub: github.com/SoccerNet/sn-gamestate <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8how2v3fsctj20m80ci40w.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8how2v5uo9mj22c60u0tgg.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 19 Apr 2024 05:29:55 GMT</pubDate>
 <pubDate>Fri, 19 Apr 2024 05:29:55 GMT</pubDate>
 </item>
 <item>
@@ -53,11 +51,10 @@ SoccerNet 游戏状态开发工具包是一个建立在TrackLab上的工具包�
 <guid>https://weibo.com/1402400261/OaqNe0jCI</guid>
 <content:encoded><![CDATA[
 <div> llm, Andrjey Karpathy, 移植, Mojo, GitHub, dorjeduck, 代码, 最小化, 版本, llm.c
-<br><br>
+<br /><br />
 总结: 本文介绍了将Andrjey Karpathy的llm.c代码移植到Mojo的版本，作者在GitHub上发布了名为llm.mojo的项目。这个项目是对原始代码的最小化版本，旨在将代码移植到Mojo平台上。读者可以在GitHub上找到该项目并了解更多详细信息。 <div>
 【llm：Andrjey Karpathy最小化LLM代码的Mojo移植版】’llm - port of Andrjey Karpathy's llm.c to Mojo' GitHub: github.com/dorjeduck/llm.mojo <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8how2mm0152j21ji0qmwjk.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 19 Apr 2024 05:21:41 GMT</pubDate>
 <pubDate>Fri, 19 Apr 2024 05:21:41 GMT</pubDate>
 </item>
 <item>
@@ -67,13 +64,12 @@ SoccerNet 游戏状态开发工具包是一个建立在TrackLab上的工具包�
 <content:encoded><![CDATA[
 <div> 深度立体匹配, 资源列表, 论文, GitHub, 资源, 深度学习, 立体视觉, 深度信息, 深度图像, 深度特征
 
-<br>
+<br />
 在GitHub上有一份资源列表，包含了有关深度立体匹配的论文和资源，涵盖了深度学习在立体视觉中的应用。这份列表整理了各种文献和研究成果，供研究者和开发者参考，帮助他们在深度立体匹配领域取得更好的效果。通过学习这些资源，可以更好地理解立体信息的提取和匹配过程，提高立体图像处理的准确性和效率。深度学习技术在立体匹配中的应用，可以为计算机视觉和机器人领域带来更多新的可能性。总之，这份资源列表对于深度立体匹配研究者和实践者来说是一个很有价值的工具。 
 
-<br><br>总结:深度立体匹配的资源列表在GitHub上提供了相关论文和资源，为研究者和开发者提供了学习和参考资料，促进了深度学习在立体视觉领域的发展。 <div>
+<br /><br />总结:深度立体匹配的资源列表在GitHub上提供了相关论文和资源，为研究者和开发者提供了学习和参考资料，促进了深度学习在立体视觉领域的发展。 <div>
 【深度立体匹配(Deep Stereo Matching）相关论文资源列表】’Awesome-Deep-Stereo-Matching - A curated list of awesome Deep Stereo Matching resources' GitHub: github.com/fabiotosi92/Awesome-Deep-Stereo-Matching <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8how2lnrtqpj21jk0qawlm.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 19 Apr 2024 05:20:47 GMT</pubDate>
 <pubDate>Fri, 19 Apr 2024 05:20:47 GMT</pubDate>
 </item>
 <item>
@@ -81,13 +77,12 @@ SoccerNet 游戏状态开发工具包是一个建立在TrackLab上的工具包�
 <link>https://weibo.com/1402400261/OaqM44g2U</link>
 <guid>https://weibo.com/1402400261/OaqM44g2U</guid>
 <content:encoded><![CDATA[
-<div> GenAI、开源工具、Prompt Fuzzer、LLM 攻击、Playground、聊天界面、系统提示的安全性、LLM 提供商、动态攻击模拟、安全测试<br>
-<br>
-总结:<br>
+<div> GenAI、开源工具、Prompt Fuzzer、LLM 攻击、Playground、聊天界面、系统提示的安全性、LLM 提供商、动态攻击模拟、安全测试<br />
+<br />
+总结:<br />
 "Prompt Fuzzer"是一个开源工具，用于强化GenAI应用的安全性，帮助开发人员检测和防御针对应用的LLM攻击。该工具包括一个Playground聊天界面，用户可以通过迭代提高系统提示的安全性。支持20种不同的LLM提供商和20种动态LLM攻击模拟，包括Jailbreak、Prompt Injection和System Prompt Extraction。用户可以使用这个工具来测试和加固他们的系统提示，确保其应用程序安全可靠。 <div>
 【Prompt Fuzzer：用于强化 GenAI 应用的开源工具，旨在帮助开发人员检测和防御针对其应用的 LLM 攻击，包括一个 Playground 聊天界面，用于帮助用户迭代地提高其系统提示的安全性，支持 20 种不同的 LLM 提供商和 20 种动态 LLM 攻击模拟，例如 Jailbreak、Prompt Injection 和 System Prompt Extraction】'Prompt Fuzzer - Make your GenAI Apps Safe &amp; Secure Test &amp; harden your system prompt' GitHub: github.com/prompt-security/ps-fuzz <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8how2jmu2l6j20z70u0n0h.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 19 Apr 2024 05:18:51 GMT</pubDate>
 <pubDate>Fri, 19 Apr 2024 05:18:51 GMT</pubDate>
 </item>
 <item>
@@ -97,10 +92,9 @@ SoccerNet 游戏状态开发工具包是一个建立在TrackLab上的工具包�
 <content:encoded><![CDATA[
 <div> GitHub, ComfyUI, 魔法变装, 非官方实现, 服装改变, 项目, 模仿实现, 可穿戴技术
 
-总结:<br><br>文章介绍了一个非官方的 ComfyUI 魔法变装实现项目，通过 GitHub 上的项目链接可以找到该项目的详细信息。该项目模仿了 ComfyUI 魔法变装的功能，实现了服装的变换和改变。这个项目展示了可穿戴技术的潜力，为用户提供了一种新颖的穿戴体验。 <div>
+总结:<br /><br />文章介绍了一个非官方的 ComfyUI 魔法变装实现项目，通过 GitHub 上的项目链接可以找到该项目的详细信息。该项目模仿了 ComfyUI 魔法变装的功能，实现了服装的变换和改变。这个项目展示了可穿戴技术的潜力，为用户提供了一种新颖的穿戴体验。 <div>
 【非官方的 ComfyUI 魔法变装实现】'unofficial implementation of Comfyui magic clothing' GitHub: github.com/frankchieng/ComfyUI_MagicClothing <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8how2314cb9j21ce0lyjv9.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 19 Apr 2024 05:02:52 GMT</pubDate>
 <pubDate>Fri, 19 Apr 2024 05:02:52 GMT</pubDate>
 </item>
 <item>
@@ -109,14 +103,12 @@ SoccerNet 游戏状态开发工具包是一个建立在TrackLab上的工具包�
 <guid>https://weibo.com/1402400261/OaqEtw0k5</guid>
 <content:encoded><![CDATA[
 <div> Meta、Llama 3、开源、语言模型、性能、安全可控、多语言、长上下文、多模态输入、部署
-<br><br>总结:
+<br /><br />总结:
 Meta发布了第三代开源大模型Llama 3，包括8B和70B参数两种规模的预训练语言模型，在多项基准测试中都表现出领先的性能，特别在推理和编码方面有明显改进。为了提高对话用例表现，Meta开发了指令微调技术，并确保模型的安全可控，提供了多种信任与安全工具。Llama 3将在各大云平台部署，支持多语言、长上下文和多模态输入。同时，Meta正在开发超过400B参数的Llama 3模型，未来会开源发布，并已将Meta AI助手集成了Llama 3，用户可以在不同的Meta产品上使用体验。Meta还开发了torchtune等辅助开发Llama 3的开源工具。 <div>
 GitHub：github.com/meta-llama/llama3<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: 【Meta发布Llama 3，新一代开源大型语言模型】<br />- Meta发布了第三代开源大模型Meta Llama 3，包括8B和70B参数两种规模的预训练语言模型。这是目前同规模参数下开源领域的最优模型。   <br />- Llama 3在多项业界基准测试上展现出领先的性能，尤其是在推理和编码等方面有明显改进。Meta通过预训练数据量的扩大、模型并行和管道并行等方式实现了模型训练的大规模化。   <br />- 为了让Llama 3对话用例的表现更优，Meta开发了指令微调技术，结合监督微调、拒绝抽样、近端策略优化等方法。提示质量和偏好排序对模型性能有很大影响。   <br />- Meta采用系统层面的方法确保Llama 3的安全可控，不仅微调了模型，还提供了 Llama Guard 2、Code Shield 和 CyberSec Eval 2等信任与安全工具。   <br />- Llama 3将在各大云平台部署，支持多语言、长上下文和多模态输入。Meta还开发了torchtune等辅助开发Llama 3的开源工具。   <br />- Meta正在开发超过400B参数的Llama 3模型，未来会开源发布。Meta AI助手已经集成了Llama 3，用户可以在不同的Meta产品上使用体验。<br />《Introducing Meta Llama 3: The most capable openly available LLM to date》 <a href="https://ai.meta.com/blog/meta-llama-3/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hovr9gq146j21e00u0tav.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hovr9idh2bj21hc0u0q65.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hovr9ketfcj21bt0u041d.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hovr9oe9jvj218g0hqq4t.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 19 Apr 2024 05:00:09 GMT</pubDate>
-<pubDate>Fri, 19 Apr 2024 05:00:09 GMT</pubDate>
 </item>
-
 <item>
 <title>【YouTube多语言数据集，包含 YouTube 上的视频信息和相关元数据，总共包含 400k 条记录，字段包括视频标题、链接、描述、发布日期、许可证、原始语言和转录语言...</title>
 <link>https://weibo.com/1402400261/OaoBdxMrE</link>
