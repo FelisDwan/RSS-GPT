@@ -5491,3 +5491,9 @@ Summarized using GPT-3.5-turbo
 Append: [提出通过 Marching Cubes 算法从关联高斯点云重建质量高且具跨帧对应关系的动态网格。 - 转发 @爱可可-爱生活:&ensp;[CV]《Dynamic Gaussians Mesh: Consistent ...](https://weibo.com/1402400261/Oax4K9MNa)
 append_entries: 10
 Finish: 2024-04-20 00:51:34.801521
+------------------------------------------------------
+Started: 2024-04-20 02:18:22.729974
+Existing_entries: 935
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-20 02:18:22.876989
