@@ -5536,3 +5536,39 @@ Summarized using GPT-3.5-turbo
 Append: [【NeRF-Based-SLAM-Incredible-Insights：旨在提供对各种基于 NeRF(神经辐射场)的 Slam(同时定位和建图)算法的全面见解】'NeRF-Based-SLAM-Incredible-Insights'...](https://weibo.com/1402400261/OaAdMq4FU)
 append_entries: 1
 Finish: 2024-04-20 10:11:23.617041
+------------------------------------------------------
+Started: 2024-04-20 12:18:51.656654
+Existing_entries: 940
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1943
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark》(CVPR 2024) GitHub: github.com/facebookresearch/real-a...](https://weibo.com/1402400261/OaC2fz3IW)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [【BeyondLLM：用于实验、评估和部署基于检索增强生成 (RAG) 的系统的工具包，支持各种大语言模型 (LLM)，旨在减少 LLM 幻觉风险并提高可靠性】'BeyondLLM - Buil...](https://weibo.com/1402400261/OaC28Bhro)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [【SAE Lens：在语言模型上训练稀疏自编码器】'SAE Lens - Training Sparse Autoencoders on Language Models' GitHub: github.com/jbloomAus/SAELens #开源# #机...](https://weibo.com/1402400261/OaBYXglHQ)
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [【A Web Component for Math Input：为网页提供易于使用的数学公式输入界面的强大 Web 组件】'A Web Component for Math Input - A web component for easy math...](https://weibo.com/1402400261/OaBYufwEK)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [【CIANNA：专门为天体物理学家设计的深度学习框架，用于天体数据分析，并提供了高级 Python 接口】'CIANNA - Convolutional Interactive Artificial Neural Netw...](https://weibo.com/1402400261/OaBY1AIPW)
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [【python-barcode：创建标准条形码的简单 Python 库】'python-barcode - Create standard barcodes with Python. No external dependencies. 100% Organic Pytho...](https://weibo.com/1402400261/OaBXCyavy)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [【Live2D Virtual Human for Chatting based on Unity：寄语Unity的开源聊天虚拟人项目】'Live2D Virtual Human for Chatting based on Unity - Live2D Virtual ...](https://weibo.com/1402400261/OaBMw0bqn)
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [【json-repair：提供了一个名为 json-repair 的工具，用于修复从语言模型(LLM)产生的 JSON 格式异常】'Repair JSON！Solution for JSON Anomalies from LLMs.' G...](https://weibo.com/1402400261/OaBLxcg7u)
+Token length: 270
+Summarized using GPT-3.5-turbo
+Append: [【The largest Awesome List of CLI/TUI programs：最大的精选 CLI/TUI 应用清单，并以 CSV 文件的形式组织了源数据】'The largest Awesome List of CLI/TUI pro...](https://weibo.com/1402400261/OaBDrrpN6)
+Token length: 189
+Summarized using GPT-3.5-turbo
+Append: [【Form Extractor Prototype：使用 Claude 3 LLM 模型的工具，可以从表单图像中提取结构，并将其转换为符合 GOV.UK 表单模式的 JSON 结构，然后生成多页面的 Web...](https://weibo.com/1402400261/OaBBCyFlS)
+append_entries: 10
+Finish: 2024-04-20 12:19:35.306743

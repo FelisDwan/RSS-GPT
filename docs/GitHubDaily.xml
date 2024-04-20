@@ -4,6 +4,7 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+
 <item>
 <title>分享 GitHub 上一个开源好用的汉字笔画书写练习库 Hanzi Writer。这是一个开源免费的 JavaScript 库，通过它，可以根据汉字书写时按照笔画顺序的特征，播放正确...</title>
 <link>https://weibo.com/5722964389/OaARCr9Nb</link>
@@ -11,14 +12,12 @@
 <content:encoded><![CDATA[
 <div> GitHub、汉字笔画、书写练习、Hanzi Writer、开源、JavaScript库、笔画顺序、描边动画、练习测试、30kb、应用
 
-<br><br>总结:
+<br /><br />总结:
 Hanzi Writer 是一个开源的 JavaScript 库，用于汉字笔画书写练习。该库提供了9000多个常用的简体字和繁体字，可以播放正确笔画顺序的描边动画，帮助用户进行汉字练习测试。开发者可以将这个库嵌入到任何平台应用中，包括Web、iOS和Android等。这个库的体积很小，仅为30kb。GitHub上的这个库是由一名国外的全栈程序员开发的。建议有开发能力的人将其封装成一款应用，为国外友人或小孩提供学习汉字的工具。 <div>
 分享 GitHub 上一个开源好用的汉字笔画书写练习库 Hanzi Writer。<br /><br />这是一个开源免费的 JavaScript 库，通过它，可以根据汉字书写时按照笔画顺序的特征，播放正确笔画顺序的描边动画和练习测试。<br /><br />提供 9000 多常用的简体字和繁体字，库大小仅 30kb，可以嵌入到任何平台应用，如 Web、iOS 或 Android 等。<br /><br />GitHub：github.com/chanind/hanzi-writer<br /><br />看了下，开源这库是国外一名全栈程序员，大概率是因为在学习汉字时而开发的一个库。<br /><br />有开发能力的同学可以考虑下，将其封装成一款应用，提供给国外友人或小孩学习汉字使用。<img src="https://tvax2.sinaimg.cn/large/006fiYtfgy1hoxa4nwk4ej311i0r9wie.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sat, 20 Apr 2024 07:00:00 GMT</pubDate>
-<pubDate>Sat, 20 Apr 2024 07:00:00 GMT</pubDate>
 </item>
-
 <item>
 <title>分享一份较为全面的机器学习教程 machine-learning-list。从基础到高级再到实践与应用，涉及到基本简介、训练和微调、推理和执行策略、数据集处理以及实际应用等...</title>
 <link>https://weibo.com/5722964389/OaaWfFiNX</link>

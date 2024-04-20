@@ -5,20 +5,153 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>几篇论文实现代码：《Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark》(CVPR 2024) GitHub: github.com/facebookresearch/real-a...</title>
+<link>https://weibo.com/1402400261/OaC2fz3IW</link>
+<guid>https://weibo.com/1402400261/OaC2fz3IW</guid>
+<content:encoded><![CDATA[
+<div> 关键词：音频-视觉数据集，房间声学，单视角对象重建，多视角遮挡监督，文本图像转换，身份保留，频率感知扩散合声器，车辆轨迹预测，事实核查，语音带宽扩展
+
+总结:<br><br>《Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark》提出了一个音频-视觉数据集，用于房间声学研究，并提供了评估基准。<br>《MOHO: Learning Single-view Hand-held Object Reconstruction with Multi-view Occlusion-Aware Supervision》介绍了一种学习单视角手持对象重建的方法，具备多视角遮挡监督。<br>《Customizing Text-to-Image Diffusion with Camera Viewpoint Control》探讨了通过自定义相机视角控制来改善文本到图像转换的方法。<br>《FlashFace: Human Image Personalization with High-fidelity Identity Preservation》展示了一种人像个性化处理方法，保持高保真度身份信息。<br>《FreGrad: Lightweight and fast frequency-aware diffusion vocoder》介绍了一种轻量级且快速的频率感知扩散合声器。<br>《Decomposing and Editing Predictions by Modeling Model Computation》通过建模模型计算来分解和编辑预测结果。<br>《Self-playing Adversarial Language Game Enhances LLM Reasoning》探讨了自我对抗语言游戏如何增强大型语言模型的推理能力。<br>《BLINK: Multimodal Large Language Models Can See but Not Perceive》展示了多模态大型语言模型的能力，并指出其无法感知信息。<br>《A Unified Framework for Scalable Vehicle Trajectory Prediction》提出了一个可扩展的车辆轨迹预测统一框架。<br>《MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents》介绍了一种在基础文件上高效检查大型语言模型事实的方法。<br>《Towards High-Quality and Efficient Speech Bandwidth Extension with Parallel Amplitude and Phase Prediction》展示了一种高质量、高效率的语音带宽扩展方法。<br>《AbsGS: Recovering Fine Details for 3D Gaussian Splatting》提出了一种用于3D高斯喷涂的细节恢复方法。<br>《Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs》描述了如何通过在图上推理来增强大型语言模型。<br>《TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding》介绍了一种通过分层推测解码实现长序列生成的无损加速方法。 <div>
+几篇论文实现代码：<br />《Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark》(CVPR 2024) GitHub: github.com/facebookresearch/real-acoustic-fields<br />《MOHO: Learning Single-view Hand-held Object Reconstruction with Multi-view Occlusion-Aware Supervision》(CVPR 2024) GitHub: github.com/ZhangCYG/MOHO<br />《Customizing Text-to-Image Diffusion with Camera Viewpoint Control》(2024) GitHub: github.com/customdiffusion360/custom-diffusion360 [fig1]<br />《FlashFace: Human Image Personalization with High-fidelity Identity Preservation》(2024) GitHub: github.com/ali-vilab/FlashFace<br />《Position Paper: Learning with 3D rotations, a hitchhiker’s guide to SO(3)》(2024) GitHub: github.com/martius-lab/hitchhiking-rotations<br />《FreGrad: Lightweight and fast frequency-aware diffusion vocoder》(2024) GitHub: github.com/signofthefour/fregrad<br />《Decomposing and Editing Predictions by Modeling Model Computation》(2024) GitHub: github.com/MadryLab/modelcomponents [fig2]<br />《Self-playing Adversarial Language Game Enhances LLM Reasoning》(2024) GitHub: github.com/Linear95/SPAG<br />《BLINK: Multimodal Large Language Models Can See but Not Perceive》(2024) GitHub: github.com/zeyofu/BLINK_Benchmark [fig3]<br />《A Unified Framework for Scalable Vehicle Trajectory Prediction》(2024) GitHub: github.com/vita-epfl/UniTraj [fig4]<br />《MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents》(2024) GitHub: github.com/Liyan06/MiniCheck<br />《Towards High-Quality and Efficient Speech Bandwidth Extension with Parallel Amplitude and Phase Prediction》(2024) GitHub: github.com/yxlu-0102/AP-BWE<br />《AbsGS: Recovering Fine Details for 3D Gaussian Splatting》(2024) GitHub: github.com/ingra14m/floater-free-gaussian-splatting<br />《Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs》(2024) GitHub: github.com/PeterGriffinJin/Graph-CoT [fig5] <br />《TriForce: Lossless Acceleration of Long Sequence<br />Generation with Hierarchical Speculative Decoding》(2024) GitHub: github.com/Infini-AI-Lab/TriForce<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoxckkex4lj23131diaqu.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoxeejw5idj21wu1867h7.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoxefof2d3j21w115gx6p.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoxet0bufnj21pz0obtq5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoxf0cpj4hj21ue0yuap9.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 20 Apr 2024 09:58:57 GMT</pubDate>
+<pubDate>Sat, 20 Apr 2024 09:58:57 GMT</pubDate>
+</item>
+<item>
+<title>【BeyondLLM：用于实验、评估和部署基于检索增强生成 (RAG) 的系统的工具包，支持各种大语言模型 (LLM)，旨在减少 LLM 幻觉风险并提高可靠性】'BeyondLLM - Buil...</title>
+<link>https://weibo.com/1402400261/OaC28Bhro</link>
+<guid>https://weibo.com/1402400261/OaC28Bhro</guid>
+<content:encoded><![CDATA[
+<div> GitHub, 工具包, 检索增强生成, 语言模型, 减少风险, 提高可靠性, 实验, 评估, 部署  
+
+总结:<br><br>文章介绍了名为BeyondLLM的工具包，旨在帮助用户构建、评估和部署基于检索增强生成（RAG）的系统，支持各种大语言模型（LLM）。该工具包的目标是减少LLM产生的幻觉风险并提高系统的可靠性。用户可以利用该工具包进行实验、评估和观察LLM应用的表现，并确保系统在不同环境下的稳定性和可靠性。GitHub链接为github.com/aiplanethub/beyondllm。 <div>
+【BeyondLLM：用于实验、评估和部署基于检索增强生成 (RAG) 的系统的工具包，支持各种大语言模型 (LLM)，旨在减少 LLM 幻觉风险并提高可靠性】'BeyondLLM - Build, evaluate and observe LLM apps' GitHub: github.com/aiplanethub/beyondllm <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoxg94f63qj20u00ybaec.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 20 Apr 2024 09:58:40 GMT</pubDate>
+<pubDate>Sat, 20 Apr 2024 09:58:40 GMT</pubDate>
+</item>
+<item>
+<title>【SAE Lens：在语言模型上训练稀疏自编码器】'SAE Lens - Training Sparse Autoencoders on Language Models' GitHub: github.com/jbloomAus/SAELens #开源# #机...</title>
+<link>https://weibo.com/1402400261/OaBYXglHQ</link>
+<guid>https://weibo.com/1402400261/OaBYXglHQ</guid>
+<content:encoded><![CDATA[
+<div> 稀疏自编码器、语言模型、训练、GitHub、SAELens
+
+<br><br>总结:
+本文介绍了在语言模型上训练稀疏自编码器的方法，作者提供了在GitHub上的开源代码SAELens。稀疏自编码器是一种无监督学习的模型，通过学习数据的稀疏表示来降低维度。在语言模型上训练稀疏自编码器可以帮助提取文本数据中的特征，并用于各种自然语言处理任务。通过使用SAELens，研究人员可以方便地训练和测试稀疏自编码器，这对于语言模型和深度学习领域的研究具有重要意义。 <div>
+【SAE Lens：在语言模型上训练稀疏自编码器】'SAE Lens - Training Sparse Autoencoders on Language Models' GitHub: github.com/jbloomAus/SAELens <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoxg0m3a8mj20u010644w.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 20 Apr 2024 09:50:49 GMT</pubDate>
+<pubDate>Sat, 20 Apr 2024 09:50:49 GMT</pubDate>
+</item>
+<item>
+<title>【A Web Component for Math Input：为网页提供易于使用的数学公式输入界面的强大 Web 组件】'A Web Component for Math Input - A web component for easy math...</title>
+<link>https://weibo.com/1402400261/OaBYufwEK</link>
+<guid>https://weibo.com/1402400261/OaBYufwEK</guid>
+<content:encoded><![CDATA[
+<div> Web Component, Math Input, 网页, 数学公式, 输入界面, GitHub, 强大, 组件, 简单, 使用
+
+<br><br>总结:
+本文介绍了一个名为"A Web Component for Math Input"的Web组件，旨在为网页提供方便易用的数学公式输入界面。该组件可以在GitHub上找到，提供了强大的功能，让用户可以轻松输入数学公式。通过这个组件，用户可以快速在网页中添加数学公式，提高了数学输入的效率和便利性。 <div>
+【A Web Component for Math Input：为网页提供易于使用的数学公式输入界面的强大 Web 组件】'A Web Component for Math Input - A web component for easy math input' GitHub: github.com/arnog/mathlive <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoxfzqu3vvj20x20u0jv2.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 20 Apr 2024 09:49:40 GMT</pubDate>
+<pubDate>Sat, 20 Apr 2024 09:49:40 GMT</pubDate>
+</item>
+<item>
+<title>【CIANNA：专门为天体物理学家设计的深度学习框架，用于天体数据分析，并提供了高级 Python 接口】'CIANNA - Convolutional Interactive Artificial Neural Netw...</title>
+<link>https://weibo.com/1402400261/OaBY1AIPW</link>
+<guid>https://weibo.com/1402400261/OaBY1AIPW</guid>
+<content:encoded><![CDATA[
+<div> 天体物理学家、深度学习框架、CIANNA、天体数据分析、高级 Python 接口、GitHub、Convolutional Interactive Artificial Neural Networks、Astrophysicists、GitHub仓库
+
+<br><br>总结:
+CIANNA是专门为天体物理学家设计的深度学习框架，用于天体数据分析。它提供了高级 Python 接口，方便用户使用。CIANNA的全称为Convolutional Interactive Artificial Neural Networks，为天体物理学家提供了一个便捷的工具进行数据处理和分析。用户可以在GitHub上找到CIANNA的开源代码仓库，方便下载和使用。 <div>
+【CIANNA：专门为天体物理学家设计的深度学习框架，用于天体数据分析，并提供了高级 Python 接口】'CIANNA - Convolutional Interactive Artificial Neural Networks by/for Astrophysicists' GitHub: github.com/Deyht/CIANNA <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoxfylkspsj20u00x0grb.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 20 Apr 2024 09:48:32 GMT</pubDate>
+<pubDate>Sat, 20 Apr 2024 09:48:32 GMT</pubDate>
+</item>
+<item>
+<title>【python-barcode：创建标准条形码的简单 Python 库】'python-barcode - Create standard barcodes with Python. No external dependencies. 100% Organic Pytho...</title>
+<link>https://weibo.com/1402400261/OaBXCyavy</link>
+<guid>https://weibo.com/1402400261/OaBXCyavy</guid>
+<content:encoded><![CDATA[
+<div> GitHub, python-barcode, 标准条形码, Python, 无外部依赖, 100% 纯 Python
+
+python-barcode 是一个简单的 Python 库，用于创建标准的条形码，不需要外部依赖，完全由 Python 编写。可以通过 GitHub 获取项目源代码。此库是为了方便用户在 Python 中生成标准的条形码。与其他库不同的是，python-barcode 是一个纯 Python 库，不依赖于任何其他第三方库。用户可以直接使用这个库来生成不同类型的条形码，比如 EAN13、UPCA、CODE128 等等。这个库的设计是非常简洁和易于使用的，用户只需导入库并调用相应的方法即可生成所需的条形码。总的来说，python-barcode 是一个方便、易用且没有额外依赖的 Python 条形码生成库。<br><br>总结: 该库是一个简单的 Python 库，用于创建标准的条形码，不需要外部依赖，完全由 Python 编写。用户可以直接使用这个库来生成不同类型的条形码，设计简洁易用。 <div>
+【python-barcode：创建标准条形码的简单 Python 库】'python-barcode - Create standard barcodes with Python. No external dependencies. 100% Organic Python.' GitHub: github.com/WhyNotHugo/python-barcode <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoxfx05yfnj21h80lkacy.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 20 Apr 2024 09:47:32 GMT</pubDate>
+<pubDate>Sat, 20 Apr 2024 09:47:32 GMT</pubDate>
+</item>
+<item>
+<title>【Live2D Virtual Human for Chatting based on Unity：寄语Unity的开源聊天虚拟人项目】'Live2D Virtual Human for Chatting based on Unity - Live2D Virtual ...</title>
+<link>https://weibo.com/1402400261/OaBMw0bqn</link>
+<guid>https://weibo.com/1402400261/OaBMw0bqn</guid>
+<content:encoded><![CDATA[
+<div> Live2D、Unity、开源项目、虚拟人、聊天、GitHub、Navi Studio、项目、技术、实现
+
+总结:<br><br>这是一个基于Unity的开源项目，旨在创建一个能够进行实时对话的Live2D虚拟人。项目已经在GitHub上发布，由Navi Studio开发。通过使用技术实现，用户可以与虚拟人进行交流和互动，为Unity开发者提供了一个有趣的项目。 <div>
+【Live2D Virtual Human for Chatting based on Unity：寄语Unity的开源聊天虚拟人项目】'Live2D Virtual Human for Chatting based on Unity - Live2D Virtual Human for Chatting based on Unity' GitHub: github.com/Navi-Studio/Virtual-Human-for-Chatting?tab=readme-ov-file <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoxf3jdpeqj215s0nm0wt.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 20 Apr 2024 09:20:10 GMT</pubDate>
+<pubDate>Sat, 20 Apr 2024 09:20:10 GMT</pubDate>
+</item>
+<item>
+<title>【json-repair：提供了一个名为 json-repair 的工具，用于修复从语言模型(LLM)产生的 JSON 格式异常】'Repair JSON！Solution for JSON Anomalies from LLMs.' G...</title>
+<link>https://weibo.com/1402400261/OaBLxcg7u</link>
+<guid>https://weibo.com/1402400261/OaBLxcg7u</guid>
+<content:encoded><![CDATA[
+<div> 修复工具、JSON异常、语言模型、LLM、GitHub、解决方案、RealAlexandreAI、修复JSON格式异常
+<br>
+提供了一个名为 json-repair 的工具，用于修复从语言模型(LLM)产生的 JSON 格式异常。你可以在 GitHub 上找到这个工具，地址是 github.com/RealAlexandreAI/json-repair。该工具能够解决从LLMs产生的JSON异常，是一个修复JSON格式异常的解决方案。 <div>
+【json-repair：提供了一个名为 json-repair 的工具，用于修复从语言模型(LLM)产生的 JSON 格式异常】'Repair JSON！Solution for JSON Anomalies from LLMs.' GitHub: github.com/RealAlexandreAI/json-repair <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoxf2dlge9j20u010eafa.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 20 Apr 2024 09:17:45 GMT</pubDate>
+<pubDate>Sat, 20 Apr 2024 09:17:45 GMT</pubDate>
+</item>
+<item>
+<title>【The largest Awesome List of CLI/TUI programs：最大的精选 CLI/TUI 应用清单，并以 CSV 文件的形式组织了源数据】'The largest Awesome List of CLI/TUI pro...</title>
+<link>https://weibo.com/1402400261/OaBDrrpN6</link>
+<guid>https://weibo.com/1402400261/OaBDrrpN6</guid>
+<content:encoded><![CDATA[
+<div> GitHub, CLI/TUI 应用清单, CSV 文件, 源数据, 组织, 最大的<br>
+<br>总结:
+本文介绍了 GitHub 上最大的 CLI/TUI 应用清单，其中包括了以 CSV 文件形式组织的源数据。这个清单中涵盖了大量的 CLI/TUI 应用程序，为用户提供了便利的选择。CLI/TUI 应用程序在命令行或文本用户界面上执行操作，可帮助用户提高工作效率。通过这个清单，用户能够更方便地找到并使用各种 CLI/TUI 应用程序，让他们的工作更加高效和便捷。GitHub 上的这个 Awesome List 为用户提供了一个全面而精选的资源，帮助他们更好地利用 CLI/TUI 技术。 <div>
+【The largest Awesome List of CLI/TUI programs：最大的精选 CLI/TUI 应用清单，并以 CSV 文件的形式组织了源数据】'The largest Awesome List of CLI/TUI programs - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files' GitHub: github.com/toolleeo/cli-apps <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23CLI%23"><span class="surl-text">#CLI#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoxeht1hsej20u01307bh.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 20 Apr 2024 08:57:49 GMT</pubDate>
+<pubDate>Sat, 20 Apr 2024 08:57:49 GMT</pubDate>
+</item>
+<item>
+<title>【Form Extractor Prototype：使用 Claude 3 LLM 模型的工具，可以从表单图像中提取结构，并将其转换为符合 GOV.UK 表单模式的 JSON 结构，然后生成多页面的 Web...</title>
+<link>https://weibo.com/1402400261/OaBBCyFlS</link>
+<guid>https://weibo.com/1402400261/OaBBCyFlS</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Form Extractor Prototype, Claude 3 LLM 模型, 表单图像, 结构提取, GOV.UK 表单模式, JSON 结构, 多页面 Web 表单
+
+<br><br>总结:
+这篇文章介绍了一个名为'Form Extractor Prototype'的工具，使用了Claude 3 LLM模型，可以从表单图像中提取结构，并转换为符合GOV.UK表单模式的JSON结构。然后，该工具可以生成多页面的Web表单。这个工具的开源代码可以在GitHub上找到。 <div>
+【Form Extractor Prototype：使用 Claude 3 LLM 模型的工具，可以从表单图像中提取结构，并将其转换为符合 GOV.UK 表单模式的 JSON 结构，然后生成多页面的 Web 表单】'Form Extractor Prototype' GitHub: github.com/timpaul/form-extractor-prototype <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoxed5196tj216a0o077r.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 20 Apr 2024 08:53:20 GMT</pubDate>
+<pubDate>Sat, 20 Apr 2024 08:53:20 GMT</pubDate>
+</item>
+
+<item>
 <title>【NeRF-Based-SLAM-Incredible-Insights：旨在提供对各种基于 NeRF(神经辐射场)的 Slam(同时定位和建图)算法的全面见解】'NeRF-Based-SLAM-Incredible-Insights'...</title>
 <link>https://weibo.com/1402400261/OaAdMq4FU</link>
 <guid>https://weibo.com/1402400261/OaAdMq4FU</guid>
 <content:encoded><![CDATA[
 <div> NeRF, Slam, 神经辐射场, 定位, 建图, 算法, 全面见解, GitHub, Incredible Insights
 
-<br><br>总结:
+<br /><br />总结:
 本文旨在提供对各种基于 NeRF(神经辐射场)的 Slam(同时定位和建图)算法的全面见解。NeRF 是一种用于重建三维场景的方法，结合 Slam 可以实现准确的定位和建图。通过 GitHub 项目 'NeRF-Based-SLAM-Incredible-Insights'，我们可以深入了解这些算法的原理、应用和不同方面的技术细节。通过研究这些内容，我们可以获得关于 NeRF-Based Slam 算法的令人难以置信的洞察力。 <div>
 【NeRF-Based-SLAM-Incredible-Insights：旨在提供对各种基于 NeRF(神经辐射场)的 Slam(同时定位和建图)算法的全面见解】'NeRF-Based-SLAM-Incredible-Insights' GitHub: github.com/electech6/NeRF-Based-SLAM-Incredible-Insights?tab=readme-ov-file <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hox88etlaej21740se0xv.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sat, 20 Apr 2024 05:21:51 GMT</pubDate>
-<pubDate>Sat, 20 Apr 2024 05:21:51 GMT</pubDate>
 </item>
-
 <item>
 <title>LLM匿名竞技场的最新结果显示，在English赛道 Llama-3-70b-Instruct 已经超过 Claude 3 Opus，仅次于 GPT-4 #人工智能# [图片]</title>
 <link>https://weibo.com/1402400261/Oaz9ih5C7</link>

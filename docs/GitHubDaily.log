@@ -2760,3 +2760,9 @@ Summarized using GPT-3.5-turbo
 Append: [分享 GitHub 上一个开源好用的汉字笔画书写练习库 Hanzi Writer。这是一个开源免费的 JavaScript 库，通过它，可以根据汉字书写时按照笔画顺序的特征，播放正确...](https://weibo.com/5722964389/OaARCr9Nb)
 append_entries: 1
 Finish: 2024-04-20 10:11:29.681642
+------------------------------------------------------
+Started: 2024-04-20 12:19:35.369278
+Existing_entries: 59
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-04-20 12:19:35.531945
