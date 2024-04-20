@@ -5572,3 +5572,9 @@ Summarized using GPT-3.5-turbo
 Append: [【Form Extractor Prototype：使用 Claude 3 LLM 模型的工具，可以从表单图像中提取结构，并将其转换为符合 GOV.UK 表单模式的 JSON 结构，然后生成多页面的 Web...](https://weibo.com/1402400261/OaBBCyFlS)
 append_entries: 10
 Finish: 2024-04-20 12:19:35.306743
+------------------------------------------------------
+Started: 2024-04-20 14:09:09.821553
+Existing_entries: 950
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-20 14:09:09.954059
