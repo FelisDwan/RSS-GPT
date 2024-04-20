@@ -5506,3 +5506,18 @@ Summarized using GPT-3.5-turbo
 Append: [【用 ORPO 将 Llama 3 的性能提升到新高度】- ORPO(Odds Ratio Preference Optimization)是一种新的微调技术，可以将传统的监督微调和偏好对齐阶段合并为一个过...](https://weibo.com/1402400261/OaxUVi5hh)
 append_entries: 1
 Finish: 2024-04-20 04:14:48.158303
+------------------------------------------------------
+Started: 2024-04-20 06:13:20.004190
+Existing_entries: 936
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 78
+Summarized using GPT-3.5-turbo
+Append: [LLM匿名竞技场的最新结果显示，在English赛道 Llama-3-70b-Instruct 已经超过 Claude 3 Opus，仅次于 GPT-4 #人工智能# [图片]](https://weibo.com/1402400261/Oaz9ih5C7)
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [【Penzai：基于 JAX 的神经网络研究工具包，用于构建、编辑和可视化神经网络，可轻松查看模型内部结构，允许在任意地方注入自定义逻辑】'Penzai - A JAX researc...](https://weibo.com/1402400261/Oaz0M09Ku)
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [【LLM API价格比较表】《Compare LLM API Pricing Instantly - Quickly Find the Perfect Large Language Models (LLM) API for Your Budget! Use Our Free Tool...](https://weibo.com/1402400261/OayOl2GT7)
+append_entries: 3
+Finish: 2024-04-20 06:13:30.437734
