@@ -5527,3 +5527,12 @@ Existing_entries: 939
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-20 08:12:29.866484
+------------------------------------------------------
+Started: 2024-04-20 10:11:17.776818
+Existing_entries: 939
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [【NeRF-Based-SLAM-Incredible-Insights：旨在提供对各种基于 NeRF(神经辐射场)的 Slam(同时定位和建图)算法的全面见解】'NeRF-Based-SLAM-Incredible-Insights'...](https://weibo.com/1402400261/OaAdMq4FU)
+append_entries: 1
+Finish: 2024-04-20 10:11:23.617041
