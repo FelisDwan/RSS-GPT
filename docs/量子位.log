@@ -3927,3 +3927,12 @@ Existing_entries: 489
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-20 14:09:08.673264
+------------------------------------------------------
+Started: 2024-04-20 16:13:29.151839
+Existing_entries: 489
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 371
+Summarized using GPT-3.5-turbo
+Append: [【#空间计算像手机一样便宜了#】空间计算的ChatGPT时刻还有多远？这是行业代表玩家最新动作引发的思考。刚刚，Rokid发布新一代产品Rokid AR Lite，一种空间计算...](https://weibo.com/6105753431/OaDpmsWdk)
+append_entries: 1
+Finish: 2024-04-20 16:13:37.415766
