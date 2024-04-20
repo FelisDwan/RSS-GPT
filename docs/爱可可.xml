@@ -4,6 +4,20 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>【用 ORPO 将 Llama 3 的性能提升到新高度】- ORPO(Odds Ratio Preference Optimization)是一种新的微调技术，可以将传统的监督微调和偏好对齐阶段合并为一个过...</title>
+<link>https://weibo.com/1402400261/OaxUVi5hh</link>
+<guid>https://weibo.com/1402400261/OaxUVi5hh</guid>
+<content:encoded><![CDATA[
+<div> ORPO, Llama 3, 性能提升, 新高度, 监督微调, 偏好对齐, 计算资源, 训练时间, 语言建模, 比值项
+
+<br><br>总结:
+ORPO是一种新的微调技术，可以将监督微调和偏好对齐合并为一个过程，通过修改语言建模目标，强化被选择的响应，从而将Llama 3的性能提升到新高度。文章使用ORPOTrainer在Llama 3 8B模型上进行微调，尽管样本量有限，但在Nous基准测试中表现良好。ORPO展现了作为新微调范式的潜力，重要的是在更大规模的偏好数据集上进行充分训练。当前开源社区活跃，开源模型与专有模型差距缩小，微调是关键。 <div>
+【用 ORPO 将 Llama 3 的性能提升到新高度】<br />- ORPO(Odds Ratio Preference Optimization)是一种新的微调技术，可以将传统的监督微调和偏好对齐阶段合并为一个过程，从而减少计算资源和训练时间。   <br />- ORPO通过修改语言建模目标，将负对数似然损失与比值(OR)项相结合，以弱化被拒绝的响应并强化被选择的响应，让模型同时学习目标任务和人类偏好。   <br />- 文章使用TRL库中的ORPOTrainer在Llama 3 8B模型上进行ORPO微调，数据集包含DPO偏好对，共1000个样本。   <br />- 尽管由于样本量少仅训练了1个epoch，但微调后的模型在Nous的基准测试中表现良好，所有指标上均优于Llama 3原模型。   <br />- ORPO展现了作为新的微调范式的潜力，未来在更大规模的偏好数据集上进行充分训练将产生更好的效果。选择高质量的数据集也非常重要。   <br />- 当前是开源社区的活跃时期，正在发布越来越多高质量的开源模型，开源模型与专有模型的差距正在缩小，微调是获得最佳性能的关键。<br />《Fine-tune Llama 3 with ORPO》 <a href="https://huggingface.co/blog/mlabonne/orpo-llama-3"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8howy0qq6enj20u00xyq83.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 19 Apr 2024 23:29:53 GMT</pubDate>
+<pubDate>Fri, 19 Apr 2024 23:29:53 GMT</pubDate>
+</item>
 
 <item>
 <title>今日推介(第1381期)：语言模型实际上是个Q函数、3D旋转学习指南、单目视频的一致网格重建、视觉基础模型语义分割基准测试方案探索、用微调和迭代推理增强特定领...</title>

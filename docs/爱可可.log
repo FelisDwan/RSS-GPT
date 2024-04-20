@@ -5497,3 +5497,12 @@ Existing_entries: 935
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-20 02:18:22.876989
+------------------------------------------------------
+Started: 2024-04-20 04:14:42.295429
+Existing_entries: 935
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 497
+Summarized using GPT-3.5-turbo
+Append: [【用 ORPO 将 Llama 3 的性能提升到新高度】- ORPO(Odds Ratio Preference Optimization)是一种新的微调技术，可以将传统的监督微调和偏好对齐阶段合并为一个过...](https://weibo.com/1402400261/OaxUVi5hh)
+append_entries: 1
+Finish: 2024-04-20 04:14:48.158303
