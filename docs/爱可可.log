@@ -5752,3 +5752,31 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OaNkay6vb)
 append_entries: 0
 Finish: 2024-04-21 20:11:44.713063
+------------------------------------------------------
+Started: 2024-04-21 22:10:52.963749
+Existing_entries: 976
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [ScaleFold通过深入分析AlphaFold训练的可扩展性瓶颈，从算法结构到底层实现进行系统性优化，使之成功扩展到2080个GPU并将初步训练时间缩短至10小时。 - 转发 @爱...](https://weibo.com/1402400261/OaPRLo6Du)
+Token length: 122
+Summarized using GPT-3.5-turbo
+Append: [[LG]《ScaleFold: Reducing AlphaFold Initial Training Time to 10 Hours》F Zhu, A Nowaczynski, R Li, J Xin… [NVIDIA] (2024) 网页链接 #机器学习##人工智...](https://weibo.com/1402400261/OaPRGmIll)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [构建了一个多步多模态基准测试MMInA，在不断变化的真实网站环境中评估Agent完成复杂互联网任务的能力，为未来智能体互联网应用能力的测试提供了一个高标准的基准...](https://weibo.com/1402400261/OaPPSdk67)
+Token length: 136
+Summarized using GPT-3.5-turbo
+Append: [[CV]《MMInA: Benchmarking Multihop Multimodal Internet Agents》Z Zhang, S Tian, L Chen, Z Liu [Nanyang Technological University] (2024) 网页链接 #机器...](https://weibo.com/1402400261/OaPPO5atQ)
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [提出并证明了一种使用结构因果模型与大型语言模型相结合，实现社会科学研究全流程自动化的方法。 - 转发 @爱可可-爱生活:&ensp;[AI]《Automated Social Science:...](https://weibo.com/1402400261/OaPP2cVAg)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [[AI]《Automated Social Science: Language Models as Scientist and Subjects》B S. Manning, K Zhu, J J. Horton [MIT & Harvard] (2024) 网页链接 #机器学习#...](https://weibo.com/1402400261/OaPOWiiDR)
+Token length: 4
+Summarized using GPT-3.5-turbo
+Append: [早！[太阳] #早安# [图片]](https://weibo.com/1402400261/OaPOioLre)
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OaNkay6vb)
+append_entries: 7
+Finish: 2024-04-21 22:11:21.310067

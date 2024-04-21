@@ -4,6 +4,101 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>ScaleFold通过深入分析AlphaFold训练的可扩展性瓶颈，从算法结构到底层实现进行系统性优化，使之成功扩展到2080个GPU并将初步训练时间缩短至10小时。 - 转发 @爱...</title>
+<link>https://weibo.com/1402400261/OaPRLo6Du</link>
+<guid>https://weibo.com/1402400261/OaPRLo6Du</guid>
+<content:encoded><![CDATA[
+<div> 可扩展性瓶颈, 算法结构, 低层实现, 系统优化, 2080个GPU, 初步训练时间缩短至10小时  
+
+总结:  
+ScaleFold通过深入分析AlphaFold训练的可扩展性瓶颈，从算法结构到低层实现进行系统性优化，成功将训练扩展到2080个GPU，并将初步训练时间缩短至10小时。这一研究对于加速蛋白结构预测有重要意义，为未来的生物信息学研究提供了新的思路。 <div>
+ScaleFold通过深入分析AlphaFold训练的可扩展性瓶颈，从算法结构到底层实现进行系统性优化，使之成功扩展到2080个GPU并将初步训练时间缩短至10小时。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《ScaleFold: Reducing AlphaFold Initial Training Time to 10 Hours》F Zhu, A Nowaczynski, R Li, J Xin… [NVIDIA] (2024) <a href="https://arxiv.org/abs/2404.11068"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz5adpgtuj20u00sg12b.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz5ae4iwaj21og0ryaix.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz5ae9lymj21jo0fun08.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz5aedp05j20tu0lg0vy.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 21:11:34 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 21:11:34 GMT</pubDate>
+</item>
+<item>
+<title>[LG]《ScaleFold: Reducing AlphaFold Initial Training Time to 10 Hours》F Zhu, A Nowaczynski, R Li, J Xin… [NVIDIA] (2024) 网页链接 #机器学习##人工智...</title>
+<link>https://weibo.com/1402400261/OaPRGmIll</link>
+<guid>https://weibo.com/1402400261/OaPRGmIll</guid>
+<content:encoded><![CDATA[
+<div> 关键词: ScaleFold, Reducing, AlphaFold, Initial Training Time, 10 Hours, NVIDIA
+
+本文介绍了一种名为ScaleFold的方法，可以将AlphaFold的初始训练时间缩短至10小时。研究团队包括F Zhu、A Nowaczynski、R Li和J Xin，合作单位为NVIDIA。他们在文章中提出了这种新的方法，能够显著减少AlphaFold的训练时间，从而提高效率。通过ScaleFold的应用，研究人员可以在更短的时间内进行模型训练和优化，加快了科学研究和发现的步伐。这一创新有望为蛋白质结构预测领域带来重大突破，对于促进生命科学和药物研发具有重要意义。<br><br>总结: 本文介绍了ScaleFold方法，可以将AlphaFold的初始训练时间缩短至10小时，提高了蛋白质结构预测的效率，对推动科学研究和药物研发具有重要意义。 <div>
+[LG]《ScaleFold: Reducing AlphaFold Initial Training Time to 10 Hours》F Zhu, A Nowaczynski, R Li, J Xin… [NVIDIA] (2024) <a href="https://arxiv.org/abs/2404.11068"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz5adpgtuj20u00sg12b.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz5ae4iwaj21og0ryaix.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz5ae9lymj21jo0fun08.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz5aedp05j20tu0lg0vy.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 21:11:22 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 21:11:22 GMT</pubDate>
+</item>
+<item>
+<title>构建了一个多步多模态基准测试MMInA，在不断变化的真实网站环境中评估Agent完成复杂互联网任务的能力，为未来智能体互联网应用能力的测试提供了一个高标准的基准...</title>
+<link>https://weibo.com/1402400261/OaPPSdk67</link>
+<guid>https://weibo.com/1402400261/OaPPSdk67</guid>
+<content:encoded><![CDATA[
+<div> 多模态、多步、基准测试、MMInA、Agent、互联网任务、评估、真实网站环境、智能体、应用能力
+
+<br><br>总结:
+本研究构建了一个名为MMInA的多步多模态基准测试，旨在评估智能Agent在复杂互联网任务中的表现能力。该基准测试在真实网站环境中进行，在不断变化的场景中对智能体进行评估。研究团队来自南洋理工大学，通过评估Agent的能力，为未来智能体在互联网应用中的能力提供了高标准的基准。这项研究的结果发表在CV领域的论文中，为智能体在互联网任务中的发展提供了重要参考。 <div>
+构建了一个多步多模态基准测试MMInA，在不断变化的真实网站环境中评估Agent完成复杂互联网任务的能力，为未来智能体互联网应用能力的测试提供了一个高标准的基准。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CV]《MMInA: Benchmarking Multihop Multimodal Internet Agents》Z Zhang, S Tian, L Chen, Z Liu [Nanyang Technological University] (2024) <a href="https://arxiv.org/abs/2404.09992"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz551759cj21460ycqiu.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz551xnwuj21c810wk72.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz55257t4j21d60w0dmc.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz5529mlhj20hi0kw75a.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 21:06:54 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 21:06:54 GMT</pubDate>
+</item>
+<item>
+<title>[CV]《MMInA: Benchmarking Multihop Multimodal Internet Agents》Z Zhang, S Tian, L Chen, Z Liu [Nanyang Technological University] (2024) 网页链接 #机器...</title>
+<link>https://weibo.com/1402400261/OaPPO5atQ</link>
+<guid>https://weibo.com/1402400261/OaPPO5atQ</guid>
+<content:encoded><![CDATA[
+<div> Benchmarking, Multihop, Multimodal, Internet Agents, MMInA, Nanyang Technological University, 2024
+
+<br><br>总结:
+本研究由南洋理工大学的张、田、陈和刘等人完成，针对多跳多模态互联网智能体技术进行了基准测试。研究旨在评估这种技术在网络通信中的表现，并为未来研究提供参考。研究团队在2024年发表了这篇文章，详细介绍了他们的研究成果。他们的研究对于推动多跳多模态互联网智能体技术的发展至关重要，为相关领域的进一步研究提供了有价值的信息。
+ <div>
+[CV]《MMInA: Benchmarking Multihop Multimodal Internet Agents》Z Zhang, S Tian, L Chen, Z Liu [Nanyang Technological University] (2024) <a href="https://arxiv.org/abs/2404.09992"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz551759cj21460ycqiu.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz551xnwuj21c810wk72.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz55257t4j21d60w0dmc.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz5529mlhj20hi0kw75a.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 21:06:44 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 21:06:44 GMT</pubDate>
+</item>
+<item>
+<title>提出并证明了一种使用结构因果模型与大型语言模型相结合，实现社会科学研究全流程自动化的方法。 - 转发 @爱可可-爱生活:&amp;ensp;[AI]《Automated Social Science:...</title>
+<link>https://weibo.com/1402400261/OaPP2cVAg</link>
+<guid>https://weibo.com/1402400261/OaPP2cVAg</guid>
+<content:encoded><![CDATA[
+<div> 模型；社会科学；结构因果模型；大型语言模型；自动化方法；研究全流程；B S. Manning；K Zhu；J J. Horton
+
+总结:<br><br>这篇文章提出了一种结合结构因果模型与大型语言模型的方法，实现社会科学研究全流程的自动化。研究由B S. Manning、K Zhu和J J. Horton进行，并在2024年发表。他们提出利用语言模型作为研究者和对象，开创了自动化社会科学研究的新思路。通过这一方法，可以更高效地进行社会科学研究，提高研究的准确性和可靠性。 <div>
+提出并证明了一种使用结构因果模型与大型语言模型相结合，实现社会科学研究全流程自动化的方法。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [AI]《Automated Social Science: Language Models as Scientist and Subjects》B S. Manning, K Zhu, J J. Horton [MIT &amp; Harvard] (2024) <a href="https://arxiv.org/abs/2404.11794"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz53b6axoj21a010217q.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz53bprvtj21gc10sqb0.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz53bzkvmj20p00xugno.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz53c9xg8j218m19gwq5.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 21:04:49 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 21:04:49 GMT</pubDate>
+</item>
+<item>
+<title>[AI]《Automated Social Science: Language Models as Scientist and Subjects》B S. Manning, K Zhu, J J. Horton [MIT &amp; Harvard] (2024) 网页链接 #机器学习#...</title>
+<link>https://weibo.com/1402400261/OaPOWiiDR</link>
+<guid>https://weibo.com/1402400261/OaPOWiiDR</guid>
+<content:encoded><![CDATA[
+<div> 社会科学、语言模型、自动化、科学家、主题、研究、机器学习、社会影响、数据分析、技术发展
+
+总结:<br><br>本文讨论了自动化社会科学领域中语言模型的应用。研究者通过机器学习技术构建了能够扮演科学家和研究对象角色的语言模型，实现了自动化的科学研究过程。语言模型的运用影响了社会科学领域的数据分析方法，促进了技术的发展。这一新领域的出现将对社会产生重要影响，需持续关注研究进展和技术应用。 <div>
+[AI]《Automated Social Science: Language Models as Scientist and Subjects》B S. Manning, K Zhu, J J. Horton [MIT &amp; Harvard] (2024) <a href="https://arxiv.org/abs/2404.11794"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz53b6axoj21a010217q.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz53bprvtj21gc10sqb0.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz53bzkvmj20p00xugno.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz53c9xg8j218m19gwq5.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 21:04:36 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 21:04:36 GMT</pubDate>
+</item>
+<item>
+<title>早！[太阳] #早安# [图片]</title>
+<link>https://weibo.com/1402400261/OaPOioLre</link>
+<guid>https://weibo.com/1402400261/OaPOioLre</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 早, 文章, 中文, 总结, 要点
+
+想要正确完成一篇文章的总结，必须准确提取主要关键词和要点。这篇文章首先提出了要求总结一篇文章的任务，提示先提取关键词。然后要求用中文撰写800字内的总结，按顺序列出所有重要要点。务必按要求正确提取关键词和准确总结文章内容。<br><br>总结:文章要求提取关键词和撰写800字内的总结，按要点顺序逐一列出。 <div>
+早！<span class="url-icon"><img alt="[太阳]" src="https://h5.sinaimg.cn/m/emoticon/icon/others/w_taiyang-2b1d91ddac.png" style="width: 1em; height: 1em;" /></span> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%97%A9%E5%AE%89%23&amp;isnewpage=1"><span class="surl-text">#早安#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoz52o8al2j20fu0j076s.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 21:03:01 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 21:03:01 GMT</pubDate>
+</item>
 
 <item>
 <title>《爱可可微博热门分享(4.21)》 爱可可微博热门分享(4.21) [图片]</title>
