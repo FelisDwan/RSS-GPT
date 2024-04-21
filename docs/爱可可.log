@@ -5605,3 +5605,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OaEtIkws6)
 append_entries: 0
 Finish: 2024-04-20 22:10:50.079097
+------------------------------------------------------
+Started: 2024-04-21 00:54:30.083816
+Existing_entries: 950
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 842
+Summarized using GPT-3.5-turbo
+Append: [编码游戏是学习编程的最佳方式——从CSS、Python、JavaScript到区块链。十个最佳在线通过游戏学编程网站推荐： #编程#1. CryptoZombiesCryptoZombies 是一所互动...](https://weibo.com/1402400261/OaHADFtSr)
+Token length: 596
+Summarized using GPT-3.5-turbo
+Append: [【Elon Musk 称赞 Meta 的 Llama 3 AI，引起业界广泛关注】- 伊隆·马斯克最近评价Meta的开源语言模型Llama 3“不错”，这让Llama 3突然受到广泛关注。 - Llama ...](https://weibo.com/1402400261/OaHnanztp)
+Token length: 81
+Summarized using GPT-3.5-turbo
+Append: [【Qwen1.5 110B模型聊天Demo】《Qwen1.5 110B Chat Demo - a Hugging Face Space by Qwen》 网页链接 #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/OaHlh55eT)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1382期)：基于潜扩散的长音乐生成、通过想象、搜索与批评实现LLM的自我提升、语言失衡可促进跨语言泛化、语言模型能解决奥林匹克编程问题吗、情感分...](https://weibo.com/1402400261/OaH8VrIV4)
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [[CL] The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey 网页链接 调研了AI Agent在复杂任务推理、规划...](https://weibo.com/1402400261/OaH0f4HGE)
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [[AS] A Large-Scale Evaluation of Speech Foundation Models 网页链接 SUPERB通过面向多任务的标准化评估，系统验证了语音基础模型的有效性，并通过开放平台推...](https://weibo.com/1402400261/OaGXIgSXZ)
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [[CL] ALERT: A Comprehensive Benchmark for Assessing Large Language Models' Safety through Red Teaming 网页链接 提出一个大规模红队测试基准ALERT来评估语...](https://weibo.com/1402400261/OaGUF2lgz)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [[CL] Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models 网页链接 Reka研发的Core、Flash和Edge是一系列多模态语言模型，在语言和...](https://weibo.com/1402400261/OaGQw4hUJ)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [通过归纳文本与情感的因果机制，指导构建对齐的因果提示以改进语言模型在情感分析任务上的表现。 - 转发 @爱可可-爱生活:&ensp;[CL]《On the Causal Nature of S...](https://weibo.com/1402400261/OaGNisVlw)
+Token length: 157
+Summarized using GPT-3.5-turbo
+Append: [[CL]《On the Causal Nature of Sentiment Analysis》Z Lyu, Z Jin, F Gonzalez, R Mihalcea, B Schoelkopf, M Sachan [University of Hong Kong & ETH Zürich]...](https://weibo.com/1402400261/OaGNh2Gs5)
+append_entries: 10
+Finish: 2024-04-21 00:55:06.751008
