@@ -5677,3 +5677,39 @@ Existing_entries: 960
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-21 12:19:56.951704
+------------------------------------------------------
+Started: 2024-04-21 14:09:59.203868
+Existing_entries: 960
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [【LLMstudio by TensorOps：提示工程工具包】’LLMstudio by TensorOps - Framework to bring LLM applications to production' GitHub: github.com/TensorOpsAI...](https://weibo.com/1402400261/OaMJAgRXO)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [【Shadcn Table：一个 shadcn 表格组件，支持服务器端排序、过滤和分页】'Shadcn Table - A shadcn table component with server-side sorting, filtering, and ...](https://weibo.com/1402400261/OaMHGq2Fu)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [【Frappe HR：开源的 HR 和薪酬管理软件项目，提供了一个完整的 HRMS 解决方案，包括员工管理、入职、请假、薪酬、税务等多个模块】'Frappe HR - Open Source HR...](https://weibo.com/1402400261/OaMGg7gIb)
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [【GPT-Subtrans：用 LLM 翻译 SRT 字幕】'GPT-Subtrans - Open Source project using LLMs to translate SRT subtitles' GitHub: github.com/machinewrapped/gpt...](https://weibo.com/1402400261/OaMF2hlt0)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [【llama3-Chinese-chat：首个llama3 中文版) ，供学习交流演示】'llama3-Chinese-chat - Llama3 中文版' GitHub: github.com/CrazyBoyM/llama3-Chinese-chat #开...](https://weibo.com/1402400261/OaMCfgJ79)
+Token length: 170
+Summarized using GPT-3.5-turbo
+Append: [【Anything：一个 Mac 应用，用 AI 自动化任何事，类似于 Zapier，但专注于 AI】'Anything [Alpha Pre Release] - Mac app for automating anything with AI' Gi...](https://weibo.com/1402400261/OaMBIAlpJ)
+Token length: 106
+Summarized using GPT-3.5-turbo
+Append: [’Dynamic Tp - 基于配置中心的轻量级动态线程池，内置监控告警功能，集成常用中间件线程池管理，可通过SPI自定义扩展实现' GitHub: github.com/dromara/dynamic...](https://weibo.com/1402400261/OaMAZvwYN)
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [【SeekStorm：开源的 Rust 实现的全文搜索库和多租户搜索服务器，具有高性能和实时搜索功能】'SeekStorm - sub-millisecond full-text search library & multi-t...](https://weibo.com/1402400261/OaMpKw1ld)
+Token length: 292
+Summarized using GPT-3.5-turbo
+Append: [【NanoLLM：专门为 LLM 提供优化本地推理的平台，提供了 HuggingFace 风格的 API，用于量化、视觉 / 语言模型、多模态Agent、语音、矢量数据库和 RAG】'NanoLLM ...](https://weibo.com/1402400261/OaMpkrqNR)
+Token length: 252
+Summarized using GPT-3.5-turbo
+Append: [【fastfit：提供快速准确少样本分类方法的Python库，特别适用于具有许多语义上相似类别的情况】'fastfit - a method, and a Python package design to provide f...](https://weibo.com/1402400261/OaMovkgeD)
+append_entries: 10
+Finish: 2024-04-21 14:10:34.460344
