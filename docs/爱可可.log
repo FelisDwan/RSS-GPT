@@ -5641,3 +5641,9 @@ Summarized using GPT-3.5-turbo
 Append: [[CL]《On the Causal Nature of Sentiment Analysis》Z Lyu, Z Jin, F Gonzalez, R Mihalcea, B Schoelkopf, M Sachan [University of Hong Kong & ETH Zürich]...](https://weibo.com/1402400261/OaGNh2Gs5)
 append_entries: 10
 Finish: 2024-04-21 00:55:06.751008
+------------------------------------------------------
+Started: 2024-04-21 02:22:48.611073
+Existing_entries: 960
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-21 02:22:48.683355
