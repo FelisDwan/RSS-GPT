@@ -3996,3 +3996,12 @@ Existing_entries: 492
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-21 10:10:34.145471
+------------------------------------------------------
+Started: 2024-04-21 12:19:44.692765
+Existing_entries: 492
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 675
+Summarized using GPT-3.5-turbo
+Append: [#最AI的哲学家去世了# 认知科学和哲学的巨人、塔夫茨大学名誉教授丹尼尔·丹尼特（Daniel Dennett）逝世了，享年82岁。丹尼特在哲学领域做出了重大的贡献，被称...](https://weibo.com/6105753431/OaKEp9gyn)
+append_entries: 1
+Finish: 2024-04-21 12:19:52.041531
