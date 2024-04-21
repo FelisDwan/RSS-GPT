@@ -5713,3 +5713,28 @@ Summarized using GPT-3.5-turbo
 Append: [【fastfit：提供快速准确少样本分类方法的Python库，特别适用于具有许多语义上相似类别的情况】'fastfit - a method, and a Python package design to provide f...](https://weibo.com/1402400261/OaMovkgeD)
 append_entries: 10
 Finish: 2024-04-21 14:10:34.460344
+------------------------------------------------------
+Started: 2024-04-21 16:13:55.053974
+Existing_entries: 970
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OaNkay6vb)
+Token length: 20
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(4.21)》 爱可可微博热门分享(4.21) [图片]](https://weibo.com/1402400261/OaNjNbqip)
+Token length: 977
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Elucidating the Exposure Bias in Diffusion Models》(ICLR 2024) GitHub: github.com/forever208/ADM-ES《Toward Generalist Anomaly Det...](https://weibo.com/1402400261/OaMVtvTUZ)
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: [【robocorp - 用于创建和部署 Python AI 操作和自动化】’Create, deploy and operate Python Automations and AI Actions anywhere. - Create Python AI Action...](https://weibo.com/1402400261/OaMP3FfYZ)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [【推理AI用数据大列表】’awesome-reasoning - a curated list of data for reasoning ai' GitHub: github.com/neurallambda/awesome-reasoning #开源# #机器学...](https://weibo.com/1402400261/OaMO9Djnd)
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: [【社交Agent相关论文资源列表】’Awesome Social Agents - A collection of works that investigate social agents, simulations and their real-world impact i...](https://weibo.com/1402400261/OaMNis4v5)
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [【Ayin：免费且开源的图片编辑软件，可在 Windows、Linux 和 macOS 上使用】'Ayin - Ayin is a free and open source photo editing software available on Wind...](https://weibo.com/1402400261/OaMLl4K4i)
+append_entries: 6
+Finish: 2024-04-21 16:14:35.298837

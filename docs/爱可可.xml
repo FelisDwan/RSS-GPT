@@ -5,17 +5,111 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>《爱可可微博热门分享(4.21)》 爱可可微博热门分享(4.21) [图片]</title>
+<link>https://weibo.com/1402400261/OaNjNbqip</link>
+<guid>https://weibo.com/1402400261/OaNjNbqip</guid>
+<content:encoded><![CDATA[
+<div> 微博、爱可可、热门、分享、4.21、话题、新闻、讨论、网友、评论
+
+<br><br>总结:
+4月21日，爱可可的微博内容受到了热门关注，涉及各种话题和新闻。网友们纷纷参与讨论，展开评论，形成热烈的互动氛围。这些内容被分享出来，引发广泛关注，展示了微博平台的活跃和多样性。 <div>
+《爱可可微博热门分享(4.21)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405025728633634863"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(4.21)</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoyu2hvc2vj20kf0bhmyc.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 14:42:22 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 14:42:22 GMT</pubDate>
+</item>
+<item>
+<title>几篇论文实现代码：《Elucidating the Exposure Bias in Diffusion Models》(ICLR 2024) GitHub: github.com/forever208/ADM-ES《Toward Generalist Anomaly Det...</title>
+<link>https://weibo.com/1402400261/OaMVtvTUZ</link>
+<guid>https://weibo.com/1402400261/OaMVtvTUZ</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 曝光偏差, 扩散模型, 异常检测, 图像分割, 语言模型
+
+总结:
+<br><br>
+本文研究了扩散模型中的曝光偏差，并提出了一种全新的训练方法ADM-ES来解决这一问题。通过在GitHub上提供的代码实现，展示了该方法的有效性和性能。在CVPR 2024会议上，提出了一种通过少量样本提示实现通用异常检测的方法InCTRL。此外，还提出了一种利用视觉基础模型进行领域通用语义分割的方法rein，并展示了其强大性能。在大语言模型训练方面，提出了一种记忆高效的完整参数训练方法BAdam。此外，还介绍了AgentKit，一种基于图形的无需编码的流工程解决方案。最后，针对远程感知图像中的语义变化检测问题，提出了ClearSCD模型，充分利用语义和变化关系，通过GitHub提供了相关代码实现。 <div>
+几篇论文实现代码：<br />《Elucidating the Exposure Bias in Diffusion Models》(ICLR 2024) GitHub: github.com/forever208/ADM-ES<br />《Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts》(CVPR 2024) GitHub: github.com/mala-lab/InCTRL [fig2]<br />《Stronger, Fewer, &amp; Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation》(CVPR 2024) GitHub: github.com/w1oves/rein [fig4]<br />《BAdam: A Memory Efficient Full Parameter Training Method for Large Language Models》(2024) GitHub: github.com/Ledzy/BAdam<br />《AgentKit: Flow Engineering with Graphs, not Coding》(2024) GitHub: github.com/Holmeswww/AgentKit [fig1]<br />《LongEmbed: Extending Embedding Models for Long Context Retrieval》(2024) GitHub: github.com/dwzhu-pku/LongEmbed [fig3]<br />《The ClearSCD model: Comprehensively leveraging semantics and change relationships for semantic change detection in high spatial resolution remote sensing imagery》(2024) GitHub: github.com/tangkai-RS/ClearSCD [fig5]<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoyq0hcbq7j23aj1ubb2a.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoyq3hakl3j21jq0xggxl.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoyqzgna5fj218b0e1whd.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoyr01jl9sj20pj08gaei.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoyrjnq7g0j25so32qb2e.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 13:42:28 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 13:42:28 GMT</pubDate>
+</item>
+<item>
+<title>【robocorp - 用于创建和部署 Python AI 操作和自动化】’Create, deploy and operate Python Automations and AI Actions anywhere. - Create Python AI Action...</title>
+<link>https://weibo.com/1402400261/OaMP3FfYZ</link>
+<guid>https://weibo.com/1402400261/OaMP3FfYZ</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Python, AI, 操作, 自动化, 创建, 部署, 运营
+
+<br><br>总结:
+robocorp是一个用于创建和部署Python AI操作和自动化的平台。用户可以在其中创建Python AI操作和自动化，并在任何地方部署和操作。该平台的GitHub链接为github.com/robocorp/robocorp。通过robocorp，用户可以灵活地开发和部署各种Python基础的操作和AI功能，为各种场景提供自动化解决方案。 <div>
+【robocorp - 用于创建和部署 Python AI 操作和自动化】’Create, deploy and operate Python Automations and AI Actions anywhere. - Create Python AI Actions and Automations, and deploy &amp; operate them anywhere' GitHub: github.com/robocorp/robocorp <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoyrvqiz98j21hc0u0zms.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 13:26:40 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 13:26:40 GMT</pubDate>
+</item>
+<item>
+<title>【推理AI用数据大列表】’awesome-reasoning - a curated list of data for reasoning ai' GitHub: github.com/neurallambda/awesome-reasoning #开源# #机器学...</title>
+<link>https://weibo.com/1402400261/OaMO9Djnd</link>
+<guid>https://weibo.com/1402400261/OaMO9Djnd</guid>
+<content:encoded><![CDATA[
+<div> GitHub, 推理AI, 数据大列表, 精选数据, 理由<br>
+<br>
+1. 该GitHub项目是一个关于推理人工智能使用数据的精选列表。
+2. 项目旨在为推理AI提供丰富的数据资源。
+3. 数据包括各种类型的信息，可以帮助AI进行推理和分析。
+4. 这个列表是经过精心筛选和整理的，以确保质量和多样性。
+5. GitHub链接为github.com/neurallambda/awesome-reasoning，可以随时查看和使用。
+6. 数据涵盖了各个领域和主题，适用于不同类型的推理任务。
+7. 对于开发推理AI的研究人员和工程师来说，这个列表是一个宝贵的资源。
+8. 通过利用这些数据，可以训练和提升推理AI的性能和准确性。
+9. 该列表对于推动推理人工智能领域的发展和创新具有重要意义。
+<br><br>总结: 该GitHub项目提供了一个精选的数据列表，为推理人工智能提供丰富的资源，可以帮助AI进行推理和分析。同时，这个列表的较牢确保了数据的质量和多样性，对于推动推理AI领域的发展具有重要意义。 <div>
+【推理AI用数据大列表】’awesome-reasoning - a curated list of data for reasoning ai' GitHub: github.com/neurallambda/awesome-reasoning <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoyrti6ic0j20u00wfjvd.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 13:24:26 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 13:24:26 GMT</pubDate>
+</item>
+<item>
+<title>【社交Agent相关论文资源列表】’Awesome Social Agents - A collection of works that investigate social agents, simulations and their real-world impact i...</title>
+<link>https://weibo.com/1402400261/OaMNis4v5</link>
+<guid>https://weibo.com/1402400261/OaMNis4v5</guid>
+<content:encoded><![CDATA[
+<div> 社交Agent、模拟、影响、文本、实体、机器人、研究、GitHub、资源列表、真实世界<br>
+<br>
+社交Agent相关论文资源列表包括研究社交Agent在文本、实体和机器人领域的影响及其在现实世界中的作用。GitHub上收集了相关研究的作品。社交Agent的研究对于理解人机交互、社交模拟以及人工智能的发展具有重要意义。通过对社交Agent的研究与应用，可以为社会提供更智能、更智能的解决方案。此资源列表为社交Agent研究者提供了丰富的文献资源，帮助他们更深入地理解和探索这一领域的知识和技术。<br> 
+<br>
+总结:社交Agent的研究与实践对人机交互、社交模拟和人工智能发展至关重要，并且在现实世界中产生重要影响。GitHub资源列表为研究者提供了丰富的文献资料，促进了社交Agent领域的探索和创新。 <div>
+【社交Agent相关论文资源列表】’Awesome Social Agents - A collection of works that investigate social agents, simulations and their real-world impact in text, embodied, and robotics contexts.' GitHub: github.com/sotopia-lab/awesome-social-agents <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoyrrbq78pj214u0u0n3c.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 13:22:19 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 13:22:19 GMT</pubDate>
+</item>
+<item>
+<title>【Ayin：免费且开源的图片编辑软件，可在 Windows、Linux 和 macOS 上使用】'Ayin - Ayin is a free and open source photo editing software available on Wind...</title>
+<link>https://weibo.com/1402400261/OaMLl4K4i</link>
+<guid>https://weibo.com/1402400261/OaMLl4K4i</guid>
+<content:encoded><![CDATA[
+<div> 免费、开源、图片编辑软件、Windows、Linux、macOS、GitHub、github.com/faresbakhit/ayin
+
+<br><br>总结:
+Ayin是一款免费且开源的图片编辑软件，用户可以在Windows、Linux和MacOS上使用。该软件的源代码可在GitHub上找到，项目链接为github.com/faresbakhit/ayin。Ayin提供了丰富的功能，可以满足用户对图片编辑的各种需求。无论是个人用户还是企业用户，都可以通过Ayin轻松实现图片编辑工作，而且免费使用。Ayin的跨平台性也很强，可以在不同操作系统上无缝运行，为用户提供了更大的使用灵活性。Ayin的开源性保证了软件的透明性和安全性，用户可以自行查看源代码并对其进行定制化，从而更好地满足个性化需求。总的来说，Ayin是一款功能强大、方便易用的图片编辑软件，为用户提供了一个高质量的编辑平台。 <div>
+【Ayin：免费且开源的图片编辑软件，可在 Windows、Linux 和 macOS 上使用】'Ayin - Ayin is a free and open source photo editing software available on Windows, Linux, and MacOS' GitHub: github.com/faresbakhit/ayin <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoyrlzlo1qj21ha0ty78h.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 13:17:29 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 13:17:29 GMT</pubDate>
+</item>
+
+<item>
 <title>【LLMstudio by TensorOps：提示工程工具包】’LLMstudio by TensorOps - Framework to bring LLM applications to production' GitHub: github.com/TensorOpsAI...</title>
 <link>https://weibo.com/1402400261/OaMJAgRXO</link>
 <guid>https://weibo.com/1402400261/OaMJAgRXO</guid>
 <content:encoded><![CDATA[
 <div> LLMstudio, TensorOps, Framework, production, GitHub, 工程工具包, 应用推广, 生产环境, 开发工具, 运维工具
 
-<br><br>总结:
+<br /><br />总结:
 LLMstudio是由TensorOps推出的工程工具包，旨在将LLM应用推广至生产环境。该工具包旨在提供开发工具和运维工具，帮助用户更轻松实现LLM应用的上线和管理。通过GitHub平台，用户可以方便地获取和使用这一工具包。 <div>
 【LLMstudio by TensorOps：提示工程工具包】’LLMstudio by TensorOps - Framework to bring LLM applications to production' GitHub: github.com/TensorOpsAI/LLMstudio <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoyrhnxiabj20ys0u0gop.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 21 Apr 2024 13:13:10 GMT</pubDate>
 <pubDate>Sun, 21 Apr 2024 13:13:10 GMT</pubDate>
 </item>
 <item>
@@ -25,10 +119,9 @@ LLMstudio是由TensorOps推出的工程工具包，旨在将LLM应用推广至�
 <content:encoded><![CDATA[
 <div> shadcn Table, 组件, 服务器端排序, 过滤, 分页
 
-总结:<br><br>这篇文章介绍了一个名为Shadcn Table的表格组件，具有服务器端排序、过滤和分页功能。该组件通过GitHub进行开源，用于帮助开发者更便捷地处理大量数据。用户可以根据自己的需求对数据进行排序、过滤和分页，从而提高数据展示和操作的效率。通过使用Shadcn Table组件，开发者可以轻松地实现对数据的动态处理，提升用户体验和数据管理效率。 <div>
+总结:<br /><br />这篇文章介绍了一个名为Shadcn Table的表格组件，具有服务器端排序、过滤和分页功能。该组件通过GitHub进行开源，用于帮助开发者更便捷地处理大量数据。用户可以根据自己的需求对数据进行排序、过滤和分页，从而提高数据展示和操作的效率。通过使用Shadcn Table组件，开发者可以轻松地实现对数据的动态处理，提升用户体验和数据管理效率。 <div>
 【Shadcn Table：一个 shadcn 表格组件，支持服务器端排序、过滤和分页】'Shadcn Table - A shadcn table component with server-side sorting, filtering, and pagination.' GitHub: github.com/sadmann7/shadcn-table <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoyrcvt1e0j213r0l7q8e.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 21 Apr 2024 13:08:29 GMT</pubDate>
 <pubDate>Sun, 21 Apr 2024 13:08:29 GMT</pubDate>
 </item>
 <item>
@@ -37,11 +130,10 @@ LLMstudio是由TensorOps推出的工程工具包，旨在将LLM应用推广至�
 <guid>https://weibo.com/1402400261/OaMGg7gIb</guid>
 <content:encoded><![CDATA[
 <div> 开源、HR、薪酬管理软件、项目、HRMS、员工管理、入职、请假、税务、模块
-<br><br>总结:
+<br /><br />总结:
 Frappe HR是一个开源的HR和薪酬管理软件项目，提供了完整的HRMS解决方案。该软件包括员工管理、入职、请假、薪酬、税务等多个模块，为企业提供了全面的人力资源管理和支付相关功能。通过GitHub平台，用户可以轻松访问并使用这一功能强大的解决方案，帮助企业实现高效的人力资源管理和薪酬处理。Frappe HR的开源特性使得用户可以根据自身需求进行定制和升级，实现更加个性化的管理和支付流程。对于需要全面的HRMS解决方案的企业来说，Frappe HR是一个值得考虑的选择。 <div>
 【Frappe HR：开源的 HR 和薪酬管理软件项目，提供了一个完整的 HRMS 解决方案，包括员工管理、入职、请假、薪酬、税务等多个模块】'Frappe HR - Open Source HR and Payroll Software' GitHub: github.com/frappe/hrms <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoyr953dl9j21390u0q5z.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 21 Apr 2024 13:04:58 GMT</pubDate>
 <pubDate>Sun, 21 Apr 2024 13:04:58 GMT</pubDate>
 </item>
 <item>
@@ -51,11 +143,10 @@ Frappe HR是一个开源的HR和薪酬管理软件项目，提供了完整的HRM
 <content:encoded><![CDATA[
 <div> github、GPT-Subtrans、LLMs、SRT、字幕、翻译、开源项目
 
-<br><br>总结:
+<br /><br />总结:
 介绍了一个名为GPT-Subtrans的开源项目，利用LLMs来翻译SRT字幕。该项目的GitHub链接为github.com/machinewrapped/gpt-subtrans。通过这个项目，用户可以方便地利用先进的语言模型来翻译字幕文件，提高翻译效率和准确性。 <div>
 【GPT-Subtrans：用 LLM 翻译 SRT 字幕】'GPT-Subtrans - Open Source project using LLMs to translate SRT subtitles' GitHub: github.com/machinewrapped/gpt-subtrans <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoyr3ajf6ij21i00iodjb.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 21 Apr 2024 13:01:58 GMT</pubDate>
 <pubDate>Sun, 21 Apr 2024 13:01:58 GMT</pubDate>
 </item>
 <item>
@@ -65,10 +156,9 @@ Frappe HR是一个开源的HR和薪酬管理软件项目，提供了完整的HRM
 <content:encoded><![CDATA[
 <div> 关键词: llama3, 中文版, 学习, 交流, 演示, GitHub, CrazyBoyM, 开发
 
-llama3 中文版是一个供学习交流演示的项目，由 GitHub 上的用户CrazyBoyM 开发。这个项目为用户提供了一个中文版的llama3，使得更多人可以通过这个工具来学习和交流。用户可以在GitHub 上找到这个项目的源代码和文档，方便学习和参与讨论。 llamas3 中文版的发布为中文用户提供了更好的使用体验和学习资源，使得交流和学习更加便利。总结： <br><br> <div>
+llama3 中文版是一个供学习交流演示的项目，由 GitHub 上的用户CrazyBoyM 开发。这个项目为用户提供了一个中文版的llama3，使得更多人可以通过这个工具来学习和交流。用户可以在GitHub 上找到这个项目的源代码和文档，方便学习和参与讨论。 llamas3 中文版的发布为中文用户提供了更好的使用体验和学习资源，使得交流和学习更加便利。总结： <br /><br /> <div>
 【llama3-Chinese-chat：首个llama3 中文版) ，供学习交流演示】'llama3-Chinese-chat - Llama3 中文版' GitHub: github.com/CrazyBoyM/llama3-Chinese-chat <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoyqyzyuxsj21f60u0gr4.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 21 Apr 2024 12:55:05 GMT</pubDate>
 <pubDate>Sun, 21 Apr 2024 12:55:05 GMT</pubDate>
 </item>
 <item>
@@ -78,11 +168,10 @@ llama3 中文版是一个供学习交流演示的项目，由 GitHub 上的用�
 <content:encoded><![CDATA[
 <div> GitHub, tryanything-ai, anything, Mac 应用, AI, 自动化, Zapier, 专注, Pre Release
 
-<br><br>总结:
+<br /><br />总结:
 这是一个名为Anything的Mac应用，专注于利用人工智能来自动化任何事情，类似于Zapier。该应用目前处于Alpha预发布阶段，用户可以前往GitHub上的tryanything-ai/anything仓库了解更多信息。应用使用AI技术，旨在帮助用户更智能地完成各种任务和流程。 <div>
 【Anything：一个 Mac 应用，用 AI 自动化任何事，类似于 Zapier，但专注于 AI】'Anything [Alpha Pre Release] - Mac app for automating anything with AI' GitHub: github.com/tryanything-ai/anything <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoyqwm836rj21400mqtbe.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoyqwpgminj213q0mqtbb.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 21 Apr 2024 12:53:47 GMT</pubDate>
 <pubDate>Sun, 21 Apr 2024 12:53:47 GMT</pubDate>
 </item>
 <item>
@@ -97,7 +186,6 @@ Dynamic Tp是一个基于配置中心的轻量级动态线程池，具有内置�
 ’Dynamic Tp - 基于配置中心的轻量级动态线程池，内置监控告警功能，集成常用中间件线程池管理，可通过SPI自定义扩展实现' GitHub: github.com/dromara/dynamic-tp <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoyqvbek72j212q0u0jvw.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoyqvlh7qgj214t0sd7a8.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoyqvryolkj21tg0u0gqj.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 21 Apr 2024 12:52:00 GMT</pubDate>
-<pubDate>Sun, 21 Apr 2024 12:52:00 GMT</pubDate>
 </item>
 <item>
 <title>【SeekStorm：开源的 Rust 实现的全文搜索库和多租户搜索服务器，具有高性能和实时搜索功能】'SeekStorm - sub-millisecond full-text search library &amp; multi-t...</title>
@@ -106,11 +194,10 @@ Dynamic Tp是一个基于配置中心的轻量级动态线程池，具有内置�
 <content:encoded><![CDATA[
 <div> Rust, 全文搜索库, 多租户搜索服务器, 高性能, 实时搜索, 开源
 
-<br><br>总结:
+<br /><br />总结:
 SeekStorm是一个开源的 Rust 实现的全文搜索库和多租户搜索服务器，具有高性能和实时搜索功能。该库能够实现毫秒级的全文搜索，支持多租户环境下对搜索功能的管理和使用。通过在Rust语言中实现，SeekStorm具有高性能的特点，并且能够提供实时搜索的能力，可用于构建各种需要高效搜索功能的应用程序。SeekStorm的GitHub地址为github.com/SeekStorm/SeekStorm，欢迎查看和下载使用。 <div>
 【SeekStorm：开源的 Rust 实现的全文搜索库和多租户搜索服务器，具有高性能和实时搜索功能】'SeekStorm - sub-millisecond full-text search library &amp; multi-tenancy server in Rust' GitHub: github.com/SeekStorm/SeekStorm <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%90%9C%E7%B4%A2%23"><span class="surl-text">#搜索#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoyq2ytdrjj20vz0u0gpe.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 21 Apr 2024 12:24:18 GMT</pubDate>
 <pubDate>Sun, 21 Apr 2024 12:24:18 GMT</pubDate>
 </item>
 <item>
@@ -118,11 +205,10 @@ SeekStorm是一个开源的 Rust 实现的全文搜索库和多租户搜索服�
 <link>https://weibo.com/1402400261/OaMpkrqNR</link>
 <guid>https://weibo.com/1402400261/OaMpkrqNR</guid>
 <content:encoded><![CDATA[
-<div> 优化本地推理, LLM, HuggingFace, API,量化,视觉模型,语言模型,多模态Agent,语音,矢量数据库, RAG<br>
-<br>总结: NanoLLM是专门为LLM提供优化本地推理的平台，具有类似HuggingFace的API，可用于量化、视觉/语言模型、多模态Agent、语音、矢量数据库和RAG。NanoLLM在GitHub上有代码库。 <div>
+<div> 优化本地推理, LLM, HuggingFace, API,量化,视觉模型,语言模型,多模态Agent,语音,矢量数据库, RAG<br />
+<br />总结: NanoLLM是专门为LLM提供优化本地推理的平台，具有类似HuggingFace的API，可用于量化、视觉/语言模型、多模态Agent、语音、矢量数据库和RAG。NanoLLM在GitHub上有代码库。 <div>
 【NanoLLM：专门为 LLM 提供优化本地推理的平台，提供了 HuggingFace 风格的 API，用于量化、视觉 / 语言模型、多模态Agent、语音、矢量数据库和 RAG】'NanoLLM - Optimized local inference for LLMs with HuggingFace-like APIs for quantization, vision/language models, multimodal agents, speech, vector DB, and RAG.' GitHub: github.com/dusty-nv/NanoLLM <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoyq1g0bcbj21700pc788.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 21 Apr 2024 12:23:16 GMT</pubDate>
 <pubDate>Sun, 21 Apr 2024 12:23:16 GMT</pubDate>
 </item>
 <item>
@@ -130,21 +216,19 @@ SeekStorm是一个开源的 Rust 实现的全文搜索库和多租户搜索服�
 <link>https://weibo.com/1402400261/OaMovkgeD</link>
 <guid>https://weibo.com/1402400261/OaMovkgeD</guid>
 <content:encoded><![CDATA[
-<div> 快速准确少样本分类方法 Python库 语义相似类别<br>
-<br>
-要点1: 该Python库名为fastfit，旨在提供快速准确的少样本分类方法。<br>
-要点2: 特别适用于具有许多语义上相似类别的情况。<br>
-要点3: fastfit是一个方法和一个Python包，旨在提供快速准确的少样本分类。<br>
-要点4: 适用于那些有许多语义相似类别的场景。<br>
-要点5: GitHub链接为github.com/IBM/fastfit。<br>
-<br>
+<div> 快速准确少样本分类方法 Python库 语义相似类别<br />
+<br />
+要点1: 该Python库名为fastfit，旨在提供快速准确的少样本分类方法。<br />
+要点2: 特别适用于具有许多语义上相似类别的情况。<br />
+要点3: fastfit是一个方法和一个Python包，旨在提供快速准确的少样本分类。<br />
+要点4: 适用于那些有许多语义相似类别的场景。<br />
+要点5: GitHub链接为github.com/IBM/fastfit。<br />
+<br />
 总结: 该Python库fastfit旨在提供快速准确的少样本分类方法，特别适用于具有许多语义上相似类别的情况，适合那些需要进行高效分类的场景。GitHub链接为github.com/IBM/fastfit。 <div>
 【fastfit：提供快速准确少样本分类方法的Python库，特别适用于具有许多语义上相似类别的情况】'fastfit - a method, and a Python package design to provide fast and accurate few-shot classification, especially for scenarios with many semantically similar classes' GitHub: github.com/IBM/fastfit <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoypypcpnej215z0u0q8p.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 21 Apr 2024 12:21:14 GMT</pubDate>
-<pubDate>Sun, 21 Apr 2024 12:21:14 GMT</pubDate>
 </item>
-
 <item>
 <title>编码游戏是学习编程的最佳方式——从CSS、Python、JavaScript到区块链。十个最佳在线通过游戏学编程网站推荐： #编程#1. CryptoZombiesCryptoZombies 是一所互动...</title>
 <link>https://weibo.com/1402400261/OaHADFtSr</link>
