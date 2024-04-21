@@ -3978,3 +3978,15 @@ Existing_entries: 490
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-21 06:15:14.450623
+------------------------------------------------------
+Started: 2024-04-21 08:13:11.322272
+Existing_entries: 490
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 296
+Summarized using GPT-3.5-turbo
+Append: [#终端侧生成式AI时代已经来临# AI手机、AI PC硬件新物种正崭露头角。高通作为技术及芯片厂商，所提供的产品和解决方案正在推动AIGC相关产业的规模化扩展。在本次...](https://weibo.com/6105753431/OaJGX3u3d)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [#GPT-4化身黑客搞破坏# 91行代码、1056个token，GPT-4化身黑客搞破坏！测试成功率达87%，单次成本仅8.8美元 （折合人民币约63元）。这就是来自伊利诺伊大学香槟...](https://weibo.com/6105753431/OaJAHBBMW)
+append_entries: 2
+Finish: 2024-04-21 08:13:21.481243
