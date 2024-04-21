@@ -5738,3 +5738,10 @@ Summarized using GPT-3.5-turbo
 Append: [【Ayin：免费且开源的图片编辑软件，可在 Windows、Linux 和 macOS 上使用】'Ayin - Ayin is a free and open source photo editing software available on Wind...](https://weibo.com/1402400261/OaMLl4K4i)
 append_entries: 6
 Finish: 2024-04-21 16:14:35.298837
+------------------------------------------------------
+Started: 2024-04-21 18:14:35.740315
+Existing_entries: 976
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OaNkay6vb)
+append_entries: 0
+Finish: 2024-04-21 18:14:35.865801
