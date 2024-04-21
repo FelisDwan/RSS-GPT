@@ -3990,3 +3990,9 @@ Summarized using GPT-3.5-turbo
 Append: [#GPT-4化身黑客搞破坏# 91行代码、1056个token，GPT-4化身黑客搞破坏！测试成功率达87%，单次成本仅8.8美元 （折合人民币约63元）。这就是来自伊利诺伊大学香槟...](https://weibo.com/6105753431/OaJAHBBMW)
 append_entries: 2
 Finish: 2024-04-21 08:13:21.481243
+------------------------------------------------------
+Started: 2024-04-21 10:10:34.002344
+Existing_entries: 492
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-04-21 10:10:34.145471
