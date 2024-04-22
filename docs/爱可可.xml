@@ -4,6 +4,100 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>【SAMMO：用于提示工程和优化的库，支持结构感知多目标元提示优化】'SAMMO - A library for prompt engineering and optimization (SAMMO = Structure-aware Mul...</title>
+<link>https://weibo.com/1402400261/OaSYge5QW</link>
+<guid>https://weibo.com/1402400261/OaSYge5QW</guid>
+<content:encoded><![CDATA[
+<div> SAMMO, 提示工程, 优化, 库, 结构感知, 多目标, 元提示优化, GitHub, Microsoft
+
+<br><br>
+文章介绍了SAMMO这个库，它是用于提示工程和优化的工具，支持结构感知多目标元提示优化。SAMMO的设计使得用户可以更灵活地进行工程和优化任务，同时考虑多种因素，达到更好的效果。这个库的开源代码可以在GitHub上找到，是由Microsoft开发维护的。SAMMO的灵活性和效率使得其在工程和优化领域有着广泛的应用前景。 <div>
+【SAMMO：用于提示工程和优化的库，支持结构感知多目标元提示优化】'SAMMO - A library for prompt engineering and optimization (SAMMO = Structure-aware Multi-Objective Metaprompt Optimization)' GitHub: github.com/microsoft/sammo <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hozj10rf37j211h0u00ws.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 05:05:48 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 05:05:48 GMT</pubDate>
+</item>
+<item>
+<title>【AnimationGPT：基于文本生成格斗风格角色动画】'AnimationGPT - AnimationGPT:An AlGC tool for generating game combat motion assets' GitHub: github.com/f...</title>
+<link>https://weibo.com/1402400261/OaSXgsvvw</link>
+<guid>https://weibo.com/1402400261/OaSXgsvvw</guid>
+<content:encoded><![CDATA[
+<div> 生成动作、格斗风格、角色、动画、AlGC工具、游戏战斗、运动资产、GitHub、文本生成、工具<br>
+<br>
+总结:<br>
+该项目是一个基于文本的角色动画生成工具，利用人工智能生成游戏中的战斗动作。该工具可以帮助游戏开发者快速生成各种格斗风格的角色动画，节约制作成本和时间。通过输入文本描述，工具可以生成相应风格的动画效果，方便开发者定制不同风格的战斗场景。该工具的源代码已经上传至GitHub，可以自由获取和使用。该工具提供了一种新颖的生成动画的方式，对游戏开发行业具有一定的推动作用。 <div>
+【AnimationGPT：基于文本生成格斗风格角色动画】'AnimationGPT - AnimationGPT:An AlGC tool for generating game combat motion assets' GitHub: github.com/fyyakaxyy/animationGPT <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hozixqffz1j214y0u0jw2.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoziy2akw3j226k0u0q9n.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoziyga12gj20ao0aoq2w.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 05:03:21 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 05:03:21 GMT</pubDate>
+</item>
+<item>
+<title>'Dockerized Signal Messenger REST API' GitHub: github.com/bbernhard/signal-cli-rest-api #开源# [图片]</title>
+<link>https://weibo.com/1402400261/OaSTmyDyd</link>
+<guid>https://weibo.com/1402400261/OaSTmyDyd</guid>
+<content:encoded><![CDATA[
+<div> signal messenger, REST API, dockerized, github, bbernhard, signal-cli, 包含基本要点（信号messenger REST API经docker化，并且存放在GitHub上，由bbernhard维护，使用signal-cli工具）<br><br>总结: 信号Messenger REST API经docker化，存放在GitHub上，由bbernhard维护，使用signal-cli工具。 <div>
+'Dockerized Signal Messenger REST API' GitHub: github.com/bbernhard/signal-cli-rest-api <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hozioc6s0wj214o0u0n14.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 04:53:45 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 04:53:45 GMT</pubDate>
+</item>
+<item>
+<title>【关于数据投毒和后门攻击的精选论文和资源列表，包括相关的防御方法】'Awesome Data Poisoning and Backdoor Attacks - A curated list of papers &amp; resources ...</title>
+<link>https://weibo.com/1402400261/OaSSazBGT</link>
+<guid>https://weibo.com/1402400261/OaSSazBGT</guid>
+<content:encoded><![CDATA[
+<div> 数据投毒、后门攻击、防御方法、文章列表、资源列表、数据污染、安全、机器学习、网络安全、信息安全
+
+总结:<br><br>
+这篇文章是一个精选的论文和资源列表，涉及数据投毒、后门攻击以及针对这些攻击的防御方法。其中包括数据污染和安全、机器学习安全、网络安全、信息安全等内容。这些资源可以帮助研究人员了解数据投毒和后门攻击的原理，以及如何有效地保护数据安全和防范恶意攻击。该列表提供了丰富的信息，对数据安全领域的研究和实践具有重要的参考价值。 <div>
+【关于数据投毒和后门攻击的精选论文和资源列表，包括相关的防御方法】'Awesome Data Poisoning and Backdoor Attacks - A curated list of papers &amp; resources linked to data poisoning, backdoor attacks and defenses against them' GitHub: github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hozikuj6wkj20v90u0gqn.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 04:50:48 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 04:50:48 GMT</pubDate>
+</item>
+<item>
+<title>【ai-cli-lib: 为任意基于 readline 的命令行程序添加 AI 功能的库】’ai-cli-lib: AI help for CLI programs - Add AI capabilities to any readline-enabled c...</title>
+<link>https://weibo.com/1402400261/OaSQFiJa1</link>
+<guid>https://weibo.com/1402400261/OaSQFiJa1</guid>
+<content:encoded><![CDATA[
+<div> GitHub、ai-cli-lib、readline、命令行程序、AI、功能、库、添加、dspinellis、AI help<br>
+<br>
+总结：<br>
+这篇文章介绍了ai-cli-lib库，它为基于readline的命令行程序提供了AI功能的能力。用户可以通过添加这个库来赋予命令行程序人工智能的能力，使其更加智能和灵活。这个库的作者是dspinellis，用户可以在GitHub上找到这个库的代码和更多信息。通过ai-cli-lib，用户可以简单地为自己的命令行程序添加AI功能，提升程序的交互性和智能程度。 <div>
+【ai-cli-lib: 为任意基于 readline 的命令行程序添加 AI 功能的库】’ai-cli-lib: AI help for CLI programs - Add AI capabilities to any readline-enabled command-line program' GitHub: github.com/dspinellis/ai-cli-lib <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hozihjzo4ij218c0u0ahp.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 04:47:06 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 04:47:06 GMT</pubDate>
+</item>
+<item>
+<title>【TripoSR Bake：利用 TripoSR 模型从 2D 图像中推断出 3D 形状和纹理数据】'TripoSR Bake - Generate 3D meshes from a single 2D image using TripoSR, comple...</title>
+<link>https://weibo.com/1402400261/OaSPDFapb</link>
+<guid>https://weibo.com/1402400261/OaSPDFapb</guid>
+<content:encoded><![CDATA[
+<div> TripoSR Bake, TripoSR, 3D 形状, 纹理数据, 2D 图像, 生成, 网格, 手动编辑, 贴图<br>
+<br>
+TripoSR Bake是一个利用TripoSR模型从2D图像中生成3D网格的工具，同时支持手动编辑几何形状和纹理数据。用户可以通过GitHub获取该工具的源代码，并使用其功能来生成包含细节的3D网格模型。TripoSR Bake的功能强大，可以从单一的2D图像中推断出具有纹理的逼真3D形状，同时还支持用户进行手动编辑，让用户可以根据需求调整和优化生成的3D网格。这个工具为用户提供了一种简单而有效的方法来将2D图像转换为具有真实感的3D模型，为图形设计和数字艺术领域的专业人士提供了有效的工具和技术支持。<br><br>总结:TripoSR Bake是一个强大的工具，可以从单一的2D图像中生成具有纹理的3D网格模型，并支持手动编辑，为用户提供了灵活性和控制力。 <div>
+【TripoSR Bake：利用 TripoSR 模型从 2D 图像中推断出 3D 形状和纹理数据】'TripoSR Bake - Generate 3D meshes from a single 2D image using TripoSR, complete with manual geometry editing and texture baking support' GitHub: github.com/iffyloop/TripoSR-Bake <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoziewk5zij20ux0u0dmf.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 04:44:33 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 04:44:33 GMT</pubDate>
+</item>
+<item>
+<title>【tinyworldmap：用于离线优先和低带宽Web 应用的小型世界地图】’tinyworldmap - tinyworldmap is a tiny world map for offline-first and low-bandwidth web ...</title>
+<link>https://weibo.com/1402400261/OaSNdmwzL</link>
+<guid>https://weibo.com/1402400261/OaSNdmwzL</guid>
+<content:encoded><![CDATA[
+<div> tinyworldmap、离线优先、低带宽、小型世界地图、GitHub、tiny-world-map
+
+<br><br>总结:
+tinyworldmap是一个用于离线优先和低带宽Web应用的小型世界地图工具。该工具可在GitHub上找到，名为tiny-world-map。适用于需要离线使用和低带宽的Web应用场景，为用户提供便捷的小型世界地图功能。 <div>
+【tinyworldmap：用于离线优先和低带宽Web 应用的小型世界地图】’tinyworldmap - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps' GitHub: github.com/tinyworldmap/tiny-world-map <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hozi8o5d8ej20dp0a3wfe.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 04:38:36 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 04:38:36 GMT</pubDate>
+</item>
 
 <item>
 <title>Menteebot的人形机器人 #人工智能##机器人#</title>

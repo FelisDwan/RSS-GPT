@@ -4066,3 +4066,21 @@ Existing_entries: 498
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-22 04:13:33.418349
+------------------------------------------------------
+Started: 2024-04-22 06:15:00.653865
+Existing_entries: 498
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 196
+Summarized using GPT-3.5-turbo
+Append: [#微软推出逼真对口型AI##蒙娜丽莎AI说唱# 微软最新推出 VASA-1 AI 框架，“1张照片+1段音频” 即可生成逼真对口型视频。据介绍，为了克服以往面部生成技术的局限...](https://weibo.com/6105753431/OaSDekiLR)
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [#巴西医生成功用VisionPro做手术# 在巴西，外科医生 Gobbato 首次成功使用 Apple Vision Pro 进行了肩袖撕裂的手术。——肩关节镜手术在关节内使用摄像头，外科...](https://weibo.com/6105753431/OaSpT5uOt)
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [#外网蹲点今日发布GPT5# 由于 OpenAI 最近在 X 上放了一张意味不明的图片，人们纷纷猜测 GPT-5 很有可能在今天发布。而且有细心网友发现，今天也是 Sam Altman 3...](https://weibo.com/6105753431/OaSdtbbn2)
+Token length: 289
+Summarized using GPT-3.5-turbo
+Append: [#抱抱脸推出Llama3开源平替数据集# Llama3 的开源平替训练数据集来了，同为15万亿 tokens。 Hugging Face 的联创兼首席科学官 Thomas Wolf 最新宣布，包含 15T ...](https://weibo.com/6105753431/OaRZefm2p)
+append_entries: 4
+Finish: 2024-04-22 06:15:24.787679

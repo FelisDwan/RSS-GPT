@@ -5843,3 +5843,30 @@ Existing_entries: 998
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-22 04:13:34.803461
+------------------------------------------------------
+Started: 2024-04-22 06:15:26.013251
+Existing_entries: 998
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [【SAMMO：用于提示工程和优化的库，支持结构感知多目标元提示优化】'SAMMO - A library for prompt engineering and optimization (SAMMO = Structure-aware Mul...](https://weibo.com/1402400261/OaSYge5QW)
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [【AnimationGPT：基于文本生成格斗风格角色动画】'AnimationGPT - AnimationGPT:An AlGC tool for generating game combat motion assets' GitHub: github.com/f...](https://weibo.com/1402400261/OaSXgsvvw)
+Token length: 89
+Summarized using GPT-3.5-turbo
+Append: ['Dockerized Signal Messenger REST API' GitHub: github.com/bbernhard/signal-cli-rest-api #开源# [图片]](https://weibo.com/1402400261/OaSTmyDyd)
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [【关于数据投毒和后门攻击的精选论文和资源列表，包括相关的防御方法】'Awesome Data Poisoning and Backdoor Attacks - A curated list of papers & resources ...](https://weibo.com/1402400261/OaSSazBGT)
+Token length: 195
+Summarized using GPT-3.5-turbo
+Append: [【ai-cli-lib: 为任意基于 readline 的命令行程序添加 AI 功能的库】’ai-cli-lib: AI help for CLI programs - Add AI capabilities to any readline-enabled c...](https://weibo.com/1402400261/OaSQFiJa1)
+Token length: 233
+Summarized using GPT-3.5-turbo
+Append: [【TripoSR Bake：利用 TripoSR 模型从 2D 图像中推断出 3D 形状和纹理数据】'TripoSR Bake - Generate 3D meshes from a single 2D image using TripoSR, comple...](https://weibo.com/1402400261/OaSPDFapb)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [【tinyworldmap：用于离线优先和低带宽Web 应用的小型世界地图】’tinyworldmap - tinyworldmap is a tiny world map for offline-first and low-bandwidth web ...](https://weibo.com/1402400261/OaSNdmwzL)
+append_entries: 7
+Finish: 2024-04-22 06:15:53.546312
