@@ -5888,3 +5888,9 @@ Summarized using GPT-3.5-turbo
 Append: [【使用 OpenAI Functions 的网页爬虫，用于简单的网页数据提取】'Scrape the Web with entities extraction using OpenAI Function - A web scraper that utiliz...](https://weibo.com/1402400261/OaTdOuVXf)
 append_entries: 4
 Finish: 2024-04-22 08:16:14.913940
+------------------------------------------------------
+Started: 2024-04-22 10:13:41.622905
+Existing_entries: 1004
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-22 10:13:43.496658

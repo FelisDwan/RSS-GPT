@@ -4096,3 +4096,18 @@ Summarized using GPT-3.5-turbo
 Append: [#阿里云宣布全方位支持Llama3训练推理# 限时免费提供算力 阿里云百炼大模型服务平台宣布推出针对 Meta 最新开源 Llama 3 系列大语言模型的限时免费训练、部署、...](https://weibo.com/6105753431/OaSMR5bGA)
 append_entries: 2
 Finish: 2024-04-22 08:15:44.174278
+------------------------------------------------------
+Started: 2024-04-22 10:13:22.302279
+Existing_entries: 504
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 301
+Summarized using GPT-3.5-turbo
+Append: [#新型四足机器人# 成功实现“手脚并用”——在自然界中，我们没有看到一只胳膊在背上的狗。（研究人员丁钊）不同于给四足机器人顶部加装“机械臂”的传统做法，...](https://weibo.com/6105753431/OaU7boOzy)
+Token length: 657
+Summarized using GPT-3.5-turbo
+Append: [#深扒全球10大顶尖大模型团队# 167 位华人榜上有名 GPT、Claude、智谱……这些国内外顶尖大模型的核心成员有多少？他们的教育背景如何？关于这些问题，AMiner 结...](https://weibo.com/6105753431/OaTFZhZOy)
+Token length: 695
+Summarized using GPT-3.5-turbo
+Append: [#用大模型反诈# Sora问世，如何用大模型反诈？2月15日（美国当地时间），人工智能研究公司OpenAI正式对外发布人工智能文生视频大模型：Sora。一年多前该公司发布...](https://weibo.com/6105753431/OaTErqUAr)
+append_entries: 3
+Finish: 2024-04-22 10:13:40.423016

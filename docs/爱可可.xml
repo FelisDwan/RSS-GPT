@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>几篇论文实现代码：《Towards Variable and Coordinated Holistic Co-Speech Motion Generation》(CVPR 2024) GitHub: github.com/feifeifeiliu/probtalk《Bidir...</title>
 <link>https://weibo.com/1402400261/OaThoh2qh</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> 关键词：Holistic Co-Speech Motion Generation, Variable, Coordinated, Image Deraining, Bidirectional, Multi-Scale Implicit Neural Representations, Depth-aware Test-Time Training, Zero-shot Video Object Segmentation, SkillDiffuser, Interpretable Hierarchical Planning, Diffusion-Based Task Execution, DialogCC, Multi-modal Dialogue Datasets Resources, Learning Explicit Contact, Moving Object Segmentation, SAM (Spatial Attention Module), Grounding Multimodal Large Language Models, RelayAttention, Large Language Model Serving, PhysDreamer, Physics-Based Interaction, NIR-Assisted Image Denoising, Mixture-of-Depths, Transformer-based Language Models, ControlNet++
 
-总结：<br><br>
+总结：<br /><br />
 1. "Towards Variable and Coordinated Holistic Co-Speech Motion Generation" 介绍了一种变量和协调的整体语音动作生成方法，利用GitHub上的代码实现了该方法。
 2. "Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining" 讨论了一种针对图像去雨的双向多尺度隐式神经表示方法，并在GitHub上提供了相应代码。
 3. "Depth-aware Test-Time Training for Zero-shot Video Object Segmentation" 提出了一种零样本视频对象分割的基于深度的测试训练方法，并在GitHub上分享了代码。
@@ -28,7 +29,6 @@
 几篇论文实现代码：<br />《Towards Variable and Coordinated Holistic Co-Speech Motion Generation》(CVPR 2024) GitHub: github.com/feifeifeiliu/probtalk<br />《Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining》(CVPR 2024) GitHub: github.com/cschenxiang/NeRD-Rain [fig3]<br />《Depth-aware Test-Time Training for Zero-shot Video Object Segmentation》(CVPR 2024) GitHub: github.com/NiFangBaAGe/DATTT [fig4]<br />《SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution》(CVPR 2024) GitHub: github.com/Liang-ZX/skilldiffuser [fig5]<br />《DialogCC: An Automated Pipeline for Creating High-Quality Multi-modal Dialogue Datasets Resources》(NAACL 2024) GitHub: github.com/passing2961/DialogCC<br />《Learning Explicit Contact for Implicit Reconstruction of Hand-held Objects from Monocular Images》(2024) GitHub: github.com/JunxingHu/CHOI [fig6]<br />《Moving Object Segmentation: All You Need Is SAM (and Flow)》(2024) GitHub: github.com/Jyxarthur/flowsam [fig1]<br />《Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models》(2024) GitHub: github.com/FoundationVision/Groma [fig2]<br />《RelayAttention for Efficient Large Language Model Serving with Long System Prompts》(2024) GitHub: github.com/rayleizhu/vllm-ra<br />《PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation》(2024) GitHub: github.com/a1600012888/PhysDreamer<br />《NIR-Assisted Image Denoising: A Selective Fusion Approach and A Real-World Benchmark Dataset》(2024) GitHub: github.com/ronjonxu/NAID<br />《Mixture-of-Depths: Dynamically allocating compute in transformer-based language models》(2024) GitHub: github.com/sramshetty/mixture-of-depths<br />《ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback》(2024) GitHub: github.com/liming-ai/ControlNet_Plus_Plus<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hozi6u54qpj211n0md1f2.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hozi9cwcf5j21tk0ymb2a.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoziq91154j20yd0craez.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoziqt9zr2j22et18zwxk.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hozk3fmh1fj21in0m0h0j.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hozk910yj2j21gx0o9dp8.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 22 Apr 2024 05:52:56 GMT</pubDate>
-<pubDate>Mon, 22 Apr 2024 05:52:56 GMT</pubDate>
 </item>
 <item>
 <title>【AgentRun: AI生成代码隔离运行环境，使用单行代码轻松安全地运行来自大型语言模型 (LLM) 的 Python 代码，同时提供资源管理、超时设置、依赖管理和自动清理等...</title>
@@ -37,11 +37,10 @@
 <content:encoded><![CDATA[
 <div> AgentRun, AI, 代码隔离, 运行环境, Python, 安全, 资源管理, 超时设置, 依赖管理, 自动清理
 
-<br><br>总结:
+<br /><br />总结:
 AgentRun是一个工具，可以安全地运行来自大型语言模型生成的Python代码。它提供了代码隔离的运行环境，可以轻松实现资源管理、超时设置、依赖管理和自动清理等功能，为运行AI生成的代码提供了一种简单快速的方式。通过AgentRun，用户可以在保证安全的情况下运行AI生成的代码，有效地管理资源和确保代码的运行环境。 <div>
 【AgentRun: AI生成代码隔离运行环境，使用单行代码轻松安全地运行来自大型语言模型 (LLM) 的 Python 代码，同时提供资源管理、超时设置、依赖管理和自动清理等功能】'AgentRun: Run AI Generated Code Safely - The easiest, and fastest way to run AI-generated Python code safely' GitHub: github.com/Jonathan-Adly/AgentRun <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hozk6zpn60j21ji0ton3y.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 22 Apr 2024 05:47:10 GMT</pubDate>
 <pubDate>Mon, 22 Apr 2024 05:47:10 GMT</pubDate>
 </item>
 <item>
@@ -51,11 +50,10 @@ AgentRun是一个工具，可以安全地运行来自大型语言模型生成的
 <content:encoded><![CDATA[
 <div> CustomChar, AI角色, 自定义, 助手, llama.cpp, whisper.cpp, ggml, LLaMA-v2, Github
 
-<br><br>总结:
+<br /><br />总结:
 CustomChar 是一个框架，可以用于创建自定义的 AI 角色和助手，在任何硬件上运行。它不依赖特定平台、云服务或专门硬件。通过 llama.cpp、whisper.cpp、ggml 和 LLaMA-v2，用户可以定制自己的 AI 助手，并将其运用到各种环境中。用户可以在 GitHub 上找到 CustomChar 的源代码和文档。 <div>
 【CustomChar：用于创建自定义 AI 角色的框架，不依赖特定平台、云服务或专门硬件】'CustomChar - Your customized AI characters - Your customized AI assistant - Personal assistants on any hardware! With llama.cpp, whisper.cpp, ggml, LLaMA-v2.' GitHub: github.com/nrl-ai/CustomChar <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hozk62rselj21hc0u0gpv.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hozk68m8gdj212d0lp77f.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 22 Apr 2024 05:45:27 GMT</pubDate>
 <pubDate>Mon, 22 Apr 2024 05:45:27 GMT</pubDate>
 </item>
 <item>
@@ -63,15 +61,13 @@ CustomChar 是一个框架，可以用于创建自定义的 AI 角色和助手�
 <link>https://weibo.com/1402400261/OaTdOuVXf</link>
 <guid>https://weibo.com/1402400261/OaTdOuVXf</guid>
 <content:encoded><![CDATA[
-<div> OpenAI Functions、网页爬虫、数据提取、GitHub、entities extraction、web scraper、简单、OpenAI Functions、关键词提取、无监督学习<br>
-<br>
-提供了一个使用OpenAI Functions的网页爬虫，可进行实体提取。该网页爬虫简单易用，可以方便地从网页中提取数据。用户可以通过GitHub获取该项目的源代码。这个项目主要用于实体提取，采用了无监督学习的方法。希望能够帮助用户快速、高效地从网页中提取关键信息。<br><br>总结: <div>
+<div> OpenAI Functions、网页爬虫、数据提取、GitHub、entities extraction、web scraper、简单、OpenAI Functions、关键词提取、无监督学习<br />
+<br />
+提供了一个使用OpenAI Functions的网页爬虫，可进行实体提取。该网页爬虫简单易用，可以方便地从网页中提取数据。用户可以通过GitHub获取该项目的源代码。这个项目主要用于实体提取，采用了无监督学习的方法。希望能够帮助用户快速、高效地从网页中提取关键信息。<br /><br />总结: <div>
 【使用 OpenAI Functions 的网页爬虫，用于简单的网页数据提取】'Scrape the Web with entities extraction using OpenAI Function - A web scraper that utilizes OpenAI Functions for easy scraping.' GitHub: github.com/trancethehuman/entities-extraction-web-scraper <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a>5<img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hozk4wp54zj21ji0pq79b.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 22 Apr 2024 05:44:08 GMT</pubDate>
-<pubDate>Mon, 22 Apr 2024 05:44:08 GMT</pubDate>
 </item>
-
 <item>
 <title>【SAMMO：用于提示工程和优化的库，支持结构感知多目标元提示优化】'SAMMO - A library for prompt engineering and optimization (SAMMO = Structure-aware Mul...</title>
 <link>https://weibo.com/1402400261/OaSYge5QW</link>
@@ -12825,57 +12821,6 @@ Data is Better Together是一个由Hugging Face、Argilla和开源机器学习�
 【艺术成功之路：声誉与网络的量化分析】<br />- 研究人员重建了50万名艺术家的展览历史，绘制出反映艺术在机构之间流动的共同展览网络。  <br />- 在这个网络中的中心性捕捉了机构的声望，允许分析单个艺术家在获取理想机构方面的职业轨迹。  <br />- 早期进入声望高、处于中心位置的机构，可以为艺术家提供终身进入高声望场所的机会，并降低退出率。  <br />- 从网络边缘开始职业生涯会导致高退出率，限制进入中心机构的机会。  <br />- 一个马尔可夫模型可以预测艺术家的职业轨迹，记录了艺术价值评估中强烈的路径依赖和历史依赖。  <br />- 艺术家最初声望(前五次展览)的分布因其原籍国而异，影响他们职业成功的机会。  <br />- 该研究量化了艺术界的分层和准入壁垒，提出了潜在的政策，如彩票系统，以营造公平的竞争环境。  <br /><br />思考：  <br />- 该研究提供了声誉和网络在主观领域(如艺术)中决定资源和回报获取的量化见解，在这些领域中很难客观衡量表现。  <br />- 早期进入声望高的机构会产生终身影响，这一发现挑战了精英制的概念，凸显了初始机会的重要性。  <br />- 该研究关注机构准入和经济价值，可能忽略了艺术丰富社会的其他维度，如文化和情感价值。  <br />- 艺术家原籍国影响其初始声望和职业轨迹，这一观察结果引发了对艺术界系统性偏见和不平等的质疑。  <br />- 建议在艺术界实施彩票系统或盲选程序以提高代表性不足艺术家的包容性，可能面临既得利益机构和艺术界的阻力。  <br />- 尽管该研究量化了准入壁垒，但并未直接解决艺术评估的主观性质以及评估过程中固有的潜在偏见。  <br />- 该研究依赖展览和拍卖数据，可能低估了非实物艺术形式，如行为艺术，因为这些艺术形式无法通过这些渠道捕捉。   <br />- 研究发现，在职业生涯早期在更广泛的机构展出可以提高突破的机会，这挑战了专注于特定领域或风格的传统观点。  <br />- 该研究建议在艺术界实施彩票系统或盲选程序，这些做法更常见于就业或音乐试演等领域。  <br />- 观察到艺术家的原籍国影响其初始声望和职业轨迹，这一点有悖常理，因为在全球化的艺术世界中，人们可能认为天赋与地理因素无关。<br />《Quantifying reputation and success in art | Science》 <a href="https://www.science.org/doi/10.1126/science.aau7224"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnrcnblrptj20u00x113j.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 15 Mar 2024 00:00:12 GMT</pubDate>
-</item>
-<item>
-<title>【Cappy：用小型评分器提升大型语言模型性能】 - Google研究人员提出了一种名为Cappy的新方法，可以通过一个小型评分器(scorer)来提升和增强大型多任务语言模型...</title>
-<link>https://weibo.com/1402400261/O54Dc9dTt</link>
-<guid>https://weibo.com/1402400261/O54Dc9dTt</guid>
-<content:encoded><![CDATA[
-<div> Cappy, 小型评分器, 大型语言模型, 性能提升, 多任务, 输出质量, 灵活性, 高效性, 实际应用, 可扩展性
-
-<br /><br />总结: 
-Google研究人员提出了一种名为Cappy的新方法，通过引入一个小型评分器来提升和增强大型多任务语言模型的性能。Cappy利用评分器重新排序生成的候选输出，提高输出质量。评分器是一个轻量级神经网络模型，专门用于评估候选输出质量，并与大型语言模型结合。Cappy在多个基准测试中展现出优异性能，提高大型模型表现。该方法灵活性强，可与各种大型语言模型结合，适用于不同任务。尽管在基准测试中表现出色，实际应用场景中的效果和可扩展性还需进一步验证。Cappy的高效性和轻量设计或将受益于未来硬件发展，如专用AI加速器。然而，引入新的偏差和不确定性也需进一步研究和优化。Cappy为提高大型语言模型性能提供了新的范式。 <div>
-【Cappy：用小型评分器提升大型语言模型性能】  <br />- Google研究人员提出了一种名为Cappy的新方法，可以通过一个小型评分器(scorer)来提升和增强大型多任务语言模型的性能。  <br />- Cappy利用一个小型评分器来重新排序大型语言模型生成的候选输出，从而提高输出质量。  <br />- 评分器是一个轻量级的神经网络模型，专门用于评估候选输出的质量，而不负责生成输出。  <br />- 在多个基准测试中，Cappy展现出优于大型语言模型的性能，同时也能够提升这些大型模型的表现。  <br />- Cappy的优势在于其高效性和灵活性，可以与各种大型语言模型相结合，并在不同任务上发挥作用。  <br />- 研究人员认为，Cappy为提高大型语言模型的性能和效率提供了一种新的范式。  <br /><br />思考：  <br />- Cappy的提出解决了大型语言模型在某些任务上表现不佳的问题，通过引入一个小型评分器来提升整体性能，这种思路值得关注。  <br />- 将生成和评估分离的方法使Cappy具有灵活性，可以与不同的大型模型相结合，提高了其适用范围。  <br />- 尽管Cappy在基准测试中表现出色，但其在实际应用场景中的效果和可扩展性仍有待进一步验证。  <br />- Cappy的高效性和轻量设计可能会受益于未来硬件的发展，如专用AI加速器等，从而进一步提升其性能。  <br />- 虽然Cappy旨在提高大型语言模型的性能，但其本身也可能引入新的偏差和不确定性，需要进一步研究和优化。<br />《Cappy: Outperforming and boosting large multi-task language models with a small scorer – Google Research Blog》 <a href="https://blog.research.google/2024/03/cappy-outperforming-and-boosting-large.html"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnrc7chdqkj21780go75q.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnrc7csa3qj21jj0r3q63.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnrc7dkpzrj21jj0c6jv0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnrc7ffs7jj21jj0sw42p.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnrc7fyfiuj21hb0u0goi.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 14 Mar 2024 23:45:03 GMT</pubDate>
-</item>
-<item>
-<title>【聊天机器人变身生产力助手：Command-R用Tool Use功能重塑业务工作流】- Cohere推出了Command-R模型的Tool Use功能，使语言模型能够与用户定义的工具交互，实现...</title>
-<link>https://weibo.com/1402400261/O54B6h2pa</link>
-<guid>https://weibo.com/1402400261/O54B6h2pa</guid>
-<content:encoded><![CDATA[
-<div> Command-R, Tool Use, 应用示例, 生产力助手, 跨平台, 自动化工作流程, 部署灵活性, 实施过程, AI应用, 语言模型
-
-<br /><br />总结: 
-Command-R推出了Tool Use功能，使语言模型能够与外部工具交互，执行复杂任务，提升生产力。该功能连接不同应用程序和系统，实现跨平台的自动化工作流程。结合Tool Use，Command-R从聊天机器人发展为强大的生产力助手和研究工具，可能改变AI交互方式。平衡了性能、效率和部署灵活性，适用于构建AI应用，突破了单一云环境的限制。企业实施Tool Use的简化四步过程降低了门槛，加速了应用，但需评估具体需求和系统兼容性。 <div>
-【聊天机器人变身生产力助手：Command-R用Tool Use功能重塑业务工作流】<br />- Cohere推出了Command-R模型的Tool Use功能，使语言模型能够与用户定义的工具交互，实现高度复杂任务的自动化。  <br />- Command-R在Tool Use模式下可以根据用户交互和对话历史创建API负载(包含特定参数的JSON)，用于指示其他应用程序或工具。  <br />- Tool Use的应用示例包括自动分类和路由支持凭证、更新客户关系管理软件(CRM)中的状态，以及从向量数据库中检索相关片段。  <br />- 应用的输出会反馈给Command-R，用于生成最终响应。响应中包含引用，便于用户从源数据或工具结果中追溯声明。  <br />- Tool Use使Command-R的应用从简单的聊天机器人发展为强大的代理和研究工具，提高了生产力。  <br />- Command-R在高效率、强大性能和跨主要云提供商的灵活部署之间取得了平衡，是构建依赖Tool Use的AI应用的有竞争力的解决方案。  <br />- 在企业中实施Tool Use对开发人员来说是一个简单的四步过程。  <br /><br />思考：  <br />- Tool Use功能突破了语言模型仅限于自然语言处理的边界，使其能够与外部工具交互，执行复杂的任务和工作流程，开辟了语言模型应用的新领域。  <br />- Command-R与Tool Use的结合，使聊天机器人从简单的对话工具转变为强大的生产力助手和研究辅助工具，这可能改变我们与AI交互和协作的方式。  <br />- Tool Use通过自然语言交互连接不同的应用程序和系统，实现了跨平台的自动化工作流程，这种方法简化了复杂任务的自动化过程，提高了效率。  <br />- Command-R在性能、效率和部署灵活性方面的平衡，使其成为构建基于Tool Use的AI应用的理想选择，这表明语言模型的应用不再局限于单一的云环境。  <br />- 简化的四步实施过程降低了企业采用Tool Use的门槛，有望加速其在实际业务场景中的应用，但企业仍需评估其具体需求和现有系统的兼容性。<br />《Introducing Tool Use With Command-R: Seamlessly Automate Business Workflows》 <a href="https://txt.cohere.com/tool-use-with-command-r/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnrc23fa5bj20v40l83zo.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnrc23o7u5j20qo0f00ue.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 14 Mar 2024 23:39:53 GMT</pubDate>
-</item>
-<item>
-<title>//@爱可可-爱生活：今日开奖，欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;携手@博文视点Broadview 送出3本《SPSSAU科研数据分析方法与应用》，截至2024.3.15 12:00...</title>
-<link>https://weibo.com/1402400261/O54zSFqzU</link>
-<guid>https://weibo.com/1402400261/O54zSFqzU</guid>
-<content:encoded><![CDATA[
-<div> SPSSAU、数据分析、研究方法、应用、科研、快速入门、知识类、视频讲解、研究者、学习
-
-总结:<br /><br />今天开奖活动欢迎大家参与，“可可粉”转发+评论即可参与赢取《SPSSAU科研数据分析方法与应用》这本书。该书系统介绍了科研数据分析方法，包括数据分析入门、常用研究方法应用、数据综合评价与预测、问卷数据分析、医学数据分析等五个方面，涵盖了13个知识类应用，同时还附赠了171集配套视频讲解。这本书适合研究者快速学习和掌握科研数据分析方法，近万篇研究论文选择SPSSAU作为快速入门工具。截止日期为2024年3月15日。 <div>
-//<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：今日开奖，欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《SPSSAU科研数据分析方法与应用》，截至2024.3.15 12:00，*可可粉*转发+评论即可参与。近万篇研究论文选用SPSSAU快速入门，本书从数据分析入门、常用研究方法应用、数据综合评价及预测、问卷数据分析和医学数据分析等五个方面系统地介绍科研数据的分析方法，涉及13项知识类应用（如影响关系、权重关系、数据预测、问卷研究）附赠171集配套视频讲解，适合研究者快速学习和掌握科研数据分析方法。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5009557898134749"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnj8n91y6bj20m80m8n19.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnj8n9h45kj20m80m8mzs.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnj8n9rlbnj20m80m8tbk.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnj8n9wj7pj20m80m80vr.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 14 Mar 2024 23:36:53 GMT</pubDate>
-</item>
-<item>
-<title>今日推介(第1345期)：基于在线偏好优化的大型语言模型与人类偏好对齐、自注意力的下一token预测机制 、持续预训练大型语言模型的简单可扩展策略、现代大规模数据...</title>
-<link>https://weibo.com/1402400261/O548I0b8m</link>
-<guid>https://weibo.com/1402400261/O548I0b8m</guid>
-<content:encoded><![CDATA[
-<div> 在线偏好优化、大型语言模型、人类偏好对齐、自注意力、下一token预测机制、持续预训练、简单可扩展策略、现代大规模数据集、偏差问题、过训练语言模型
-
-总结:<br />
-本篇文章介绍了基于在线偏好优化的大型语言模型与人类偏好对齐的方法，通过自注意力的下一token预测机制实现了优化。同时提出了一种简单可扩展的持续预训练大型语言模型的策略，探讨了现代大规模数据集是否还存在偏差问题，并研究了过训练语言模型在下游任务中的可靠性扩展。这些研究对于优化大型语言模型的训练方法和应用具有重要意义。 <div>
-今日推介(第1345期)：基于在线偏好优化的大型语言模型与人类偏好对齐、自注意力的下一token预测机制 、持续预训练大型语言模型的简单可扩展策略、现代大规模数据集是否还存在偏差问题、过训练语言模型在下游任务中的可靠扩展 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/687109258"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(3.15)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnra0zsf8qj20k00aawf0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnra126v1dj20k008gjsd.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnra15w1cdj20k00c3mzg.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnra1b1fw5j20k00hsad3.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnra1dmuy3j20k00e1q56.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 14 Mar 2024 22:29:56 GMT</pubDate>
 </item>
 </channel>
 </rss>
