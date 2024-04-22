@@ -5909,3 +5909,13 @@ Summarized using GPT-3.5-turbo
 Append: [【新书：《AI辅助编程》，关于如何利用人工智能开发工具进行代码创建的实用指南，适合初学者和经验丰富的开发者】《AI-Assisted Programming [Book]》 网页链接 ...](https://weibo.com/1402400261/OaW0C4Uh4)
 append_entries: 1
 Finish: 2024-04-22 14:11:39.457044
+------------------------------------------------------
+Started: 2024-04-22 16:13:52.045310
+Existing_entries: 1001
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OaWzNlUDq)
+Token length: 20
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(4.22)》 爱可可微博热门分享(4.22) [图片]](https://weibo.com/1402400261/OaWxVDzhz)
+append_entries: 1
+Finish: 2024-04-22 16:13:59.715353

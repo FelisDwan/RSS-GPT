@@ -4,6 +4,7 @@
 <title>量子位的微博</title>
 <link>https://weibo.com/6105753431/</link>
 
+
 <item>
 <title>#超难基准测试AI分差拉开了# 如果试题太简单，学霸和学渣都能考90分，拉不开差距……随着Claude 3、Llama 3甚至之后GPT-5等更强模型发布，业界急需一款更难、更...</title>
 <link>https://weibo.com/6105753431/OaW7Ej7Eo</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 竞技场、Arena-Hard、LMSYS、指标、区分度、人类数据、SOTA、提示词、数据泄露、测试管线
 
-<br><br>总结:
+<br /><br />总结:
 业界急需一款更难、更有区分度的基准测试，LMSYS推出了下一代基准测试Arena-Hard，引起广泛关注。该测试利用竞技场实时人类数据构建，区分度高达87.4%，与人类偏好一致率达89.1%，并包含实时更新的测试数据和新提示词，减轻数据泄露风险。此外，测试快速且方便，无需等待人类用户参与投票即可得到结果。 Arena-Hard的推出标志着测试标准的提高，对于评估新模型的真实性和强大性至关重要。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%B6%85%E9%9A%BE%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95AI%E5%88%86%E5%B7%AE%E6%8B%89%E5%BC%80%E4%BA%86%23&amp;extparam=%23%E8%B6%85%E9%9A%BE%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95AI%E5%88%86%E5%B7%AE%E6%8B%89%E5%BC%80%E4%BA%86%23"><span class="surl-text">#超难基准测试AI分差拉开了#</span></a> <br /><br />如果试题太简单，学霸和学渣都能考90分，拉不开差距……<br /><br />随着Claude 3、Llama 3甚至之后GPT-5等更强模型发布，业界急需一款更难、更有区分度的基准测试。<br /><br />大模型竞技场背后组织LMSYS推出下一代基准测试Arena-Hard，引起广泛关注。<br /><br />Llama 3的两个指令微调版本实力到底如何，也有了最新参考。<br /><br />与之前大家分数都相近的MT Bench相比，Arena-Hard区分度从22.6%提升到87.4%，孰强孰弱一目了然。<br /><br />Arena-Hard利用竞技场实时人类数据构建，与人类偏好一致率也高达89.1%。<br /><br />除了上面两个指标都达到SOTA之外，还有一个额外的好处：<br /><br />实时更新的测试数据包含人类新想出的、AI在训练阶段从未见过的提示词，减轻潜在的数据泄露。<br /><br />并且新模型发布后，无需再等待一周左右时间让人类用户参与投票，只需花费25美元快速运行测试管线，即可得到结果。<br /><br />有网友评价，使用真实用户提示词而不是高中考试来测试，真的很重要。<br /><br /><a href="https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247726259&amp;idx=1&amp;sn=1ea25d4636696a8e32cf92745413b394&amp;chksm=e8dfc3c1dfa84ad7865182e18f5d2bc487ef6638a7b73adfa5d962d1fd15b46de1da43964a4e&amp;token=369974904&amp;lang=zh_CN#rd"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">新测试基准发布，最强开源Llama 3尴尬了</span></a><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hozwxmtq48j30lu0t4gu0.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 22 Apr 2024 13:07:11 GMT</pubDate>
 <pubDate>Mon, 22 Apr 2024 13:07:11 GMT</pubDate>
 </item>
 <item>
@@ -25,10 +25,9 @@
 <content:encoded><![CDATA[
 <div> 模型算法、算力投入、公域数据、合成数据、小型化、垂直化、复合AI系统、AIGC产品、交互、LUI、CUI
 
-总结:<br><br>本文分享了印象笔记在AIGC领域的经验和思考。首先指出模型算法进展缓慢，算力投入与收益不成比例的问题，以及公域数据穷尽和合成数据使用导致模型输出效果下降。其次强调了小型化、垂直化的模型可以更高效地处理问题。另外，强调了复合AI系统作为模型交付和应用之间的中间层的重要性。最后，指出AIGC产品的交互需要综合考虑LUI和CUI的特点，没有绝对的选择。通过这些观点，可以更好地应用大模型在实际场景中，提升效率和效果。 <div>
+总结:<br /><br />本文分享了印象笔记在AIGC领域的经验和思考。首先指出模型算法进展缓慢，算力投入与收益不成比例的问题，以及公域数据穷尽和合成数据使用导致模型输出效果下降。其次强调了小型化、垂直化的模型可以更高效地处理问题。另外，强调了复合AI系统作为模型交付和应用之间的中间层的重要性。最后，指出AIGC产品的交互需要综合考虑LUI和CUI的特点，没有绝对的选择。通过这些观点，可以更好地应用大模型在实际场景中，提升效率和效果。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23AI%E5%A6%82%E4%BD%95%E5%8D%87%E7%BA%A7%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%84%91%23&amp;extparam=%23AI%E5%A6%82%E4%BD%95%E5%8D%87%E7%BA%A7%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%A4%A7%E8%84%91%23"><span class="surl-text">#AI如何升级你的第二大脑#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BDAIGC%E4%BA%A7%E4%B8%9A%E5%B3%B0%E4%BC%9A%23&amp;extparam=%23%E4%B8%AD%E5%9B%BDAIGC%E4%BA%A7%E4%B8%9A%E5%B3%B0%E4%BC%9A%23"><span class="surl-text">#中国AIGC产业峰会#</span></a>  <br /><br />百模大战之后，大伙儿或许有个共识：<br /><br />现在不缺大模型，缺的是怎么更好地把大模型用起来的方法。<br /><br />有个现成的例子是，印象笔记一直被很多知识工作者当成自己的“第二大脑”来用，在AIGC时代，用户看到了它更智能的改变。<br /><br />其实早在2018年，印象笔记就在AIGC的领域里开启了自己的摸爬滚打，几年下来，积累了不少经验和思考。<br /><br />在本次中国AIGC产业峰会上，印象笔记董事长兼CEO唐毅从知识管理的角度，分享了印象笔记在AIGC领域，从技术到应用和产品的所见所闻、所思所感。<br /><br />【话题要点】<br /><br />模型算法进展缓慢，算力投入与收益不成比例；<br /><br />公域数据穷尽，合成数据使用导致模型输出效果下降；<br /><br />小型化、垂直化的模型可以更高效地处理问题；<br /><br />强调了AI交付和模型之间的中间层——复合AI系统的重要性；<br /><br />AIGC产品的交互不是绝对的LUI（语言用户界面）或者CUI（对话式用户界面）；<br />……<br /><a href="https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247726259&amp;idx=2&amp;sn=8583ba7d876844add5cf0f8d20049f95&amp;chksm=e8dfc3c1dfa84ad7763ab9ddaf68919d74f18e38f473ae8d108044cf00ba625737f52097bced&amp;token=2039083322&amp;lang=zh_CN#rd"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">印象笔记唐毅：AI如何升级你的“第二大脑”｜中国AIGC产业峰会</span></a><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hozw5ewokkj30u00k00yl.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 22 Apr 2024 12:39:50 GMT</pubDate>
 <pubDate>Mon, 22 Apr 2024 12:39:50 GMT</pubDate>
 </item>
 <item>
@@ -38,14 +37,12 @@
 <content:encoded><![CDATA[
 <div> 高斯溅射，新视角合成，动态场景，数字资产，编辑重建，用户交互，实时编辑，SC-GS模型，实时操作，CVMI实验室
 
-<br><br>总结:
+<br /><br />总结:
 最近，高斯溅射技术在新视角合成领域掀起革命，成为领先技术。动态场景合成具有挑战性，数字资产创作备受关注。CVMI实验室发展了SC-GS模型，支持实时交互编辑，用户可便捷操作、编辑重建的场景。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%AE%9E%E6%97%B6%E5%8F%AF%E7%BC%96%E8%BE%913D%E9%87%8D%E5%BB%BA%E6%9D%A5%E4%BA%86%23&amp;extparam=%23%E5%AE%9E%E6%97%B6%E5%8F%AF%E7%BC%96%E8%BE%913D%E9%87%8D%E5%BB%BA%E6%9D%A5%E4%BA%86%23"><span class="surl-text">#实时可编辑3D重建来了#</span></a> <br />最近，高斯溅射（Gaussian Splatting）在新视角合成领域掀起了一轮革命性浪潮，取代上一代技术神经辐射场（NeRF）成为学界业界顶流。而真实场景往往是动态的，如何合成动态场景的新视角是更具价值与挑战的领域。<br /><br />随着图形学与AI的发展，数字资产的创造日益引起人们的重视。对于重建的真实场景进行编辑也是AIGC领域业内关注的热门方向，其为制作数字资产提供了高效与便捷。<br /><br />香港大学CVMI实验室携手3D大模型公司VAST与浙江大学，提出了目前SOTA的动态高斯溅射模型SC-GS，并支持用户交互式实时编辑重建的场景。<br /><br />SC-GS支持用户对重建的动态高斯进行实时交互编辑，制作新的场景运动或形状。<br /><br />使用鼠标的拖拽与键盘组合按键就能够方便的操作。<br /><a href="https://mp.weixin.qq.com/s/6jqZ6Ef3SNbx9TW9zxow1A"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">实时可编辑3D重建！鼠标拖拽就能控制，港大VAST浙大联合出品</span></a><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hozt96rhzrg30go09j1kx.gif" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hozta2v3drg30go0go4qp.gif" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hozta2st55g30go0goat1.gif" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hozta2rh4ug30go0go7g2.gif" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hozta5e104g30go0goh31.gif" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 22 Apr 2024 11:00:36 GMT</pubDate>
-<pubDate>Mon, 22 Apr 2024 11:00:36 GMT</pubDate>
 </item>
-
 <item>
 <title>【#两分钟沉浸式逛展北京InfoComm#】两分钟沉浸式逛展北京InfoComm！用裸眼3D开会、透明屏欣赏小姐姐跳舞，还有沉浸式XR新体验……这个大会真的黑科技点满了！ ...</title>
 <link>https://weibo.com/6105753431/OaUXho1mA</link>
