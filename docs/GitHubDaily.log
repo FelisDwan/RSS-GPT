@@ -2904,3 +2904,12 @@ Existing_entries: 59
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-04-22 10:13:43.616113
+------------------------------------------------------
+Started: 2024-04-22 12:21:40.620972
+Existing_entries: 59
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [推荐一款开源免费的封面图片制作工具 PicProse。该工具能帮助你轻松为 Medium、Wordpress、微信等平台的文章制作精美封面。GitHub：github.com/gezhaoyou/picpro...](https://weibo.com/5722964389/OaVb6EzZm)
+append_entries: 1
+Finish: 2024-04-22 12:21:46.175457
