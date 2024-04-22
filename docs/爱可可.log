@@ -5837,3 +5837,9 @@ Summarized using GPT-3.5-turbo
 Append: [【FineWeb：15T Tokens的网页数据集，由来自CommonCrawl经过清理和重复数据删除的英文web数据组成】《HuggingFaceFW/fineweb · Datasets at Hugging Face》 网...](https://weibo.com/1402400261/OaQYey7wt)
 append_entries: 6
 Finish: 2024-04-22 02:23:19.382770
+------------------------------------------------------
+Started: 2024-04-22 04:13:34.640833
+Existing_entries: 998
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-22 04:13:34.803461
