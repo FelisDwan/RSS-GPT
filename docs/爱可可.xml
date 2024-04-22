@@ -5,17 +5,84 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>几篇论文实现代码：《Towards Variable and Coordinated Holistic Co-Speech Motion Generation》(CVPR 2024) GitHub: github.com/feifeifeiliu/probtalk《Bidir...</title>
+<link>https://weibo.com/1402400261/OaThoh2qh</link>
+<guid>https://weibo.com/1402400261/OaThoh2qh</guid>
+<content:encoded><![CDATA[
+<div> 关键词：Holistic Co-Speech Motion Generation, Variable, Coordinated, Image Deraining, Bidirectional, Multi-Scale Implicit Neural Representations, Depth-aware Test-Time Training, Zero-shot Video Object Segmentation, SkillDiffuser, Interpretable Hierarchical Planning, Diffusion-Based Task Execution, DialogCC, Multi-modal Dialogue Datasets Resources, Learning Explicit Contact, Moving Object Segmentation, SAM (Spatial Attention Module), Grounding Multimodal Large Language Models, RelayAttention, Large Language Model Serving, PhysDreamer, Physics-Based Interaction, NIR-Assisted Image Denoising, Mixture-of-Depths, Transformer-based Language Models, ControlNet++
+
+总结：<br><br>
+1. "Towards Variable and Coordinated Holistic Co-Speech Motion Generation" 介绍了一种变量和协调的整体语音动作生成方法，利用GitHub上的代码实现了该方法。
+2. "Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining" 讨论了一种针对图像去雨的双向多尺度隐式神经表示方法，并在GitHub上提供了相应代码。
+3. "Depth-aware Test-Time Training for Zero-shot Video Object Segmentation" 提出了一种零样本视频对象分割的基于深度的测试训练方法，并在GitHub上分享了代码。
+4. "SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution" 解释了一种可解释的分层规划方法，通过技能抽象在扩散式任务执行中实现，相关代码在GitHub上可获得。
+5. "DialogCC: An Automated Pipeline for Creating High-Quality Multi-modal Dialogue Datasets Resources" 介绍了一个自动化流水线，用于创建高质量的多模态对话数据集资源，相关代码在GitHub上提供。
+6. "Learning Explicit Contact for Implicit Reconstruction of Hand-held Objects from Monocular Images" 探讨了通过单目图像实现手持物体的显式接触隐式重建方法，相关代码可在GitHub上找到。
+7. "Moving Object Segmentation: All You Need Is SAM (and Flow)" 讨论了移动物体分割中的关键因素SAM（空间注意模块）和流的作用，提供了相关代码。
+8. "Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models" 提出了一种用于基于图像的多模态大型语言模型定位的本地化视觉记号化方法，相关代码在GitHub上提供。
+9. "RelayAttention for Efficient Large Language Model Serving with Long System Prompts" 引入了RelayAttention方法，提高了长系统提示下大型语言模型的效率，相关代码在GitHub上可获得。
+10. "PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation" 讨论了通过视频生成实现与3D物体的基于物理的交互方法，相关代码在GitHub上提供。
+11. "NIR-Assisted Image Denoising: A Selective Fusion Approach and A Real-World Benchmark Dataset" 探讨了一种选择性融合方法的NIR辅助图像去噪方案，并提供了真实世界基准数据集，相应代码在GitHub上可获得。
+12. "Mixture-of-Depths: Dynamically allocating compute in transformer-based language models" 讨论了一种在基于转换器的语言模型中动态分配计算资源的深度混合方法，相关代码在GitHub上提供。
+13. "ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback" 提出了ControlNet++方法，通过有效的一致性反馈改善了条件控制，相关代码在GitHub上可获得。 <div>
+几篇论文实现代码：<br />《Towards Variable and Coordinated Holistic Co-Speech Motion Generation》(CVPR 2024) GitHub: github.com/feifeifeiliu/probtalk<br />《Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining》(CVPR 2024) GitHub: github.com/cschenxiang/NeRD-Rain [fig3]<br />《Depth-aware Test-Time Training for Zero-shot Video Object Segmentation》(CVPR 2024) GitHub: github.com/NiFangBaAGe/DATTT [fig4]<br />《SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution》(CVPR 2024) GitHub: github.com/Liang-ZX/skilldiffuser [fig5]<br />《DialogCC: An Automated Pipeline for Creating High-Quality Multi-modal Dialogue Datasets Resources》(NAACL 2024) GitHub: github.com/passing2961/DialogCC<br />《Learning Explicit Contact for Implicit Reconstruction of Hand-held Objects from Monocular Images》(2024) GitHub: github.com/JunxingHu/CHOI [fig6]<br />《Moving Object Segmentation: All You Need Is SAM (and Flow)》(2024) GitHub: github.com/Jyxarthur/flowsam [fig1]<br />《Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models》(2024) GitHub: github.com/FoundationVision/Groma [fig2]<br />《RelayAttention for Efficient Large Language Model Serving with Long System Prompts》(2024) GitHub: github.com/rayleizhu/vllm-ra<br />《PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation》(2024) GitHub: github.com/a1600012888/PhysDreamer<br />《NIR-Assisted Image Denoising: A Selective Fusion Approach and A Real-World Benchmark Dataset》(2024) GitHub: github.com/ronjonxu/NAID<br />《Mixture-of-Depths: Dynamically allocating compute in transformer-based language models》(2024) GitHub: github.com/sramshetty/mixture-of-depths<br />《ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback》(2024) GitHub: github.com/liming-ai/ControlNet_Plus_Plus<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hozi6u54qpj211n0md1f2.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hozi9cwcf5j21tk0ymb2a.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoziq91154j20yd0craez.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoziqt9zr2j22et18zwxk.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hozk3fmh1fj21in0m0h0j.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hozk910yj2j21gx0o9dp8.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 05:52:56 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 05:52:56 GMT</pubDate>
+</item>
+<item>
+<title>【AgentRun: AI生成代码隔离运行环境，使用单行代码轻松安全地运行来自大型语言模型 (LLM) 的 Python 代码，同时提供资源管理、超时设置、依赖管理和自动清理等...</title>
+<link>https://weibo.com/1402400261/OaTf3fbhx</link>
+<guid>https://weibo.com/1402400261/OaTf3fbhx</guid>
+<content:encoded><![CDATA[
+<div> AgentRun, AI, 代码隔离, 运行环境, Python, 安全, 资源管理, 超时设置, 依赖管理, 自动清理
+
+<br><br>总结:
+AgentRun是一个工具，可以安全地运行来自大型语言模型生成的Python代码。它提供了代码隔离的运行环境，可以轻松实现资源管理、超时设置、依赖管理和自动清理等功能，为运行AI生成的代码提供了一种简单快速的方式。通过AgentRun，用户可以在保证安全的情况下运行AI生成的代码，有效地管理资源和确保代码的运行环境。 <div>
+【AgentRun: AI生成代码隔离运行环境，使用单行代码轻松安全地运行来自大型语言模型 (LLM) 的 Python 代码，同时提供资源管理、超时设置、依赖管理和自动清理等功能】'AgentRun: Run AI Generated Code Safely - The easiest, and fastest way to run AI-generated Python code safely' GitHub: github.com/Jonathan-Adly/AgentRun <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hozk6zpn60j21ji0ton3y.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 05:47:10 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 05:47:10 GMT</pubDate>
+</item>
+<item>
+<title>【CustomChar：用于创建自定义 AI 角色的框架，不依赖特定平台、云服务或专门硬件】'CustomChar - Your customized AI characters - Your customized AI assista...</title>
+<link>https://weibo.com/1402400261/OaTelBHyp</link>
+<guid>https://weibo.com/1402400261/OaTelBHyp</guid>
+<content:encoded><![CDATA[
+<div> CustomChar, AI角色, 自定义, 助手, llama.cpp, whisper.cpp, ggml, LLaMA-v2, Github
+
+<br><br>总结:
+CustomChar 是一个框架，可以用于创建自定义的 AI 角色和助手，在任何硬件上运行。它不依赖特定平台、云服务或专门硬件。通过 llama.cpp、whisper.cpp、ggml 和 LLaMA-v2，用户可以定制自己的 AI 助手，并将其运用到各种环境中。用户可以在 GitHub 上找到 CustomChar 的源代码和文档。 <div>
+【CustomChar：用于创建自定义 AI 角色的框架，不依赖特定平台、云服务或专门硬件】'CustomChar - Your customized AI characters - Your customized AI assistant - Personal assistants on any hardware! With llama.cpp, whisper.cpp, ggml, LLaMA-v2.' GitHub: github.com/nrl-ai/CustomChar <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hozk62rselj21hc0u0gpv.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hozk68m8gdj212d0lp77f.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 05:45:27 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 05:45:27 GMT</pubDate>
+</item>
+<item>
+<title>【使用 OpenAI Functions 的网页爬虫，用于简单的网页数据提取】'Scrape the Web with entities extraction using OpenAI Function - A web scraper that utiliz...</title>
+<link>https://weibo.com/1402400261/OaTdOuVXf</link>
+<guid>https://weibo.com/1402400261/OaTdOuVXf</guid>
+<content:encoded><![CDATA[
+<div> OpenAI Functions、网页爬虫、数据提取、GitHub、entities extraction、web scraper、简单、OpenAI Functions、关键词提取、无监督学习<br>
+<br>
+提供了一个使用OpenAI Functions的网页爬虫，可进行实体提取。该网页爬虫简单易用，可以方便地从网页中提取数据。用户可以通过GitHub获取该项目的源代码。这个项目主要用于实体提取，采用了无监督学习的方法。希望能够帮助用户快速、高效地从网页中提取关键信息。<br><br>总结: <div>
+【使用 OpenAI Functions 的网页爬虫，用于简单的网页数据提取】'Scrape the Web with entities extraction using OpenAI Function - A web scraper that utilizes OpenAI Functions for easy scraping.' GitHub: github.com/trancethehuman/entities-extraction-web-scraper <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a>5<img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hozk4wp54zj21ji0pq79b.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 05:44:08 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 05:44:08 GMT</pubDate>
+</item>
+
+<item>
 <title>【SAMMO：用于提示工程和优化的库，支持结构感知多目标元提示优化】'SAMMO - A library for prompt engineering and optimization (SAMMO = Structure-aware Mul...</title>
 <link>https://weibo.com/1402400261/OaSYge5QW</link>
 <guid>https://weibo.com/1402400261/OaSYge5QW</guid>
 <content:encoded><![CDATA[
 <div> SAMMO, 提示工程, 优化, 库, 结构感知, 多目标, 元提示优化, GitHub, Microsoft
 
-<br><br>
+<br /><br />
 文章介绍了SAMMO这个库，它是用于提示工程和优化的工具，支持结构感知多目标元提示优化。SAMMO的设计使得用户可以更灵活地进行工程和优化任务，同时考虑多种因素，达到更好的效果。这个库的开源代码可以在GitHub上找到，是由Microsoft开发维护的。SAMMO的灵活性和效率使得其在工程和优化领域有着广泛的应用前景。 <div>
 【SAMMO：用于提示工程和优化的库，支持结构感知多目标元提示优化】'SAMMO - A library for prompt engineering and optimization (SAMMO = Structure-aware Multi-Objective Metaprompt Optimization)' GitHub: github.com/microsoft/sammo <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hozj10rf37j211h0u00ws.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 22 Apr 2024 05:05:48 GMT</pubDate>
 <pubDate>Mon, 22 Apr 2024 05:05:48 GMT</pubDate>
 </item>
 <item>
@@ -23,13 +90,12 @@
 <link>https://weibo.com/1402400261/OaSXgsvvw</link>
 <guid>https://weibo.com/1402400261/OaSXgsvvw</guid>
 <content:encoded><![CDATA[
-<div> 生成动作、格斗风格、角色、动画、AlGC工具、游戏战斗、运动资产、GitHub、文本生成、工具<br>
-<br>
-总结:<br>
+<div> 生成动作、格斗风格、角色、动画、AlGC工具、游戏战斗、运动资产、GitHub、文本生成、工具<br />
+<br />
+总结:<br />
 该项目是一个基于文本的角色动画生成工具，利用人工智能生成游戏中的战斗动作。该工具可以帮助游戏开发者快速生成各种格斗风格的角色动画，节约制作成本和时间。通过输入文本描述，工具可以生成相应风格的动画效果，方便开发者定制不同风格的战斗场景。该工具的源代码已经上传至GitHub，可以自由获取和使用。该工具提供了一种新颖的生成动画的方式，对游戏开发行业具有一定的推动作用。 <div>
 【AnimationGPT：基于文本生成格斗风格角色动画】'AnimationGPT - AnimationGPT:An AlGC tool for generating game combat motion assets' GitHub: github.com/fyyakaxyy/animationGPT <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hozixqffz1j214y0u0jw2.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoziy2akw3j226k0u0q9n.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoziyga12gj20ao0aoq2w.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 22 Apr 2024 05:03:21 GMT</pubDate>
 <pubDate>Mon, 22 Apr 2024 05:03:21 GMT</pubDate>
 </item>
 <item>
@@ -37,10 +103,9 @@
 <link>https://weibo.com/1402400261/OaSTmyDyd</link>
 <guid>https://weibo.com/1402400261/OaSTmyDyd</guid>
 <content:encoded><![CDATA[
-<div> signal messenger, REST API, dockerized, github, bbernhard, signal-cli, 包含基本要点（信号messenger REST API经docker化，并且存放在GitHub上，由bbernhard维护，使用signal-cli工具）<br><br>总结: 信号Messenger REST API经docker化，存放在GitHub上，由bbernhard维护，使用signal-cli工具。 <div>
+<div> signal messenger, REST API, dockerized, github, bbernhard, signal-cli, 包含基本要点（信号messenger REST API经docker化，并且存放在GitHub上，由bbernhard维护，使用signal-cli工具）<br /><br />总结: 信号Messenger REST API经docker化，存放在GitHub上，由bbernhard维护，使用signal-cli工具。 <div>
 'Dockerized Signal Messenger REST API' GitHub: github.com/bbernhard/signal-cli-rest-api <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hozioc6s0wj214o0u0n14.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 22 Apr 2024 04:53:45 GMT</pubDate>
 <pubDate>Mon, 22 Apr 2024 04:53:45 GMT</pubDate>
 </item>
 <item>
@@ -50,11 +115,10 @@
 <content:encoded><![CDATA[
 <div> 数据投毒、后门攻击、防御方法、文章列表、资源列表、数据污染、安全、机器学习、网络安全、信息安全
 
-总结:<br><br>
+总结:<br /><br />
 这篇文章是一个精选的论文和资源列表，涉及数据投毒、后门攻击以及针对这些攻击的防御方法。其中包括数据污染和安全、机器学习安全、网络安全、信息安全等内容。这些资源可以帮助研究人员了解数据投毒和后门攻击的原理，以及如何有效地保护数据安全和防范恶意攻击。该列表提供了丰富的信息，对数据安全领域的研究和实践具有重要的参考价值。 <div>
 【关于数据投毒和后门攻击的精选论文和资源列表，包括相关的防御方法】'Awesome Data Poisoning and Backdoor Attacks - A curated list of papers &amp; resources linked to data poisoning, backdoor attacks and defenses against them' GitHub: github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hozikuj6wkj20v90u0gqn.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 22 Apr 2024 04:50:48 GMT</pubDate>
 <pubDate>Mon, 22 Apr 2024 04:50:48 GMT</pubDate>
 </item>
 <item>
@@ -62,13 +126,12 @@
 <link>https://weibo.com/1402400261/OaSQFiJa1</link>
 <guid>https://weibo.com/1402400261/OaSQFiJa1</guid>
 <content:encoded><![CDATA[
-<div> GitHub、ai-cli-lib、readline、命令行程序、AI、功能、库、添加、dspinellis、AI help<br>
-<br>
-总结：<br>
+<div> GitHub、ai-cli-lib、readline、命令行程序、AI、功能、库、添加、dspinellis、AI help<br />
+<br />
+总结：<br />
 这篇文章介绍了ai-cli-lib库，它为基于readline的命令行程序提供了AI功能的能力。用户可以通过添加这个库来赋予命令行程序人工智能的能力，使其更加智能和灵活。这个库的作者是dspinellis，用户可以在GitHub上找到这个库的代码和更多信息。通过ai-cli-lib，用户可以简单地为自己的命令行程序添加AI功能，提升程序的交互性和智能程度。 <div>
 【ai-cli-lib: 为任意基于 readline 的命令行程序添加 AI 功能的库】’ai-cli-lib: AI help for CLI programs - Add AI capabilities to any readline-enabled command-line program' GitHub: github.com/dspinellis/ai-cli-lib <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hozihjzo4ij218c0u0ahp.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 22 Apr 2024 04:47:06 GMT</pubDate>
 <pubDate>Mon, 22 Apr 2024 04:47:06 GMT</pubDate>
 </item>
 <item>
@@ -76,12 +139,11 @@
 <link>https://weibo.com/1402400261/OaSPDFapb</link>
 <guid>https://weibo.com/1402400261/OaSPDFapb</guid>
 <content:encoded><![CDATA[
-<div> TripoSR Bake, TripoSR, 3D 形状, 纹理数据, 2D 图像, 生成, 网格, 手动编辑, 贴图<br>
-<br>
-TripoSR Bake是一个利用TripoSR模型从2D图像中生成3D网格的工具，同时支持手动编辑几何形状和纹理数据。用户可以通过GitHub获取该工具的源代码，并使用其功能来生成包含细节的3D网格模型。TripoSR Bake的功能强大，可以从单一的2D图像中推断出具有纹理的逼真3D形状，同时还支持用户进行手动编辑，让用户可以根据需求调整和优化生成的3D网格。这个工具为用户提供了一种简单而有效的方法来将2D图像转换为具有真实感的3D模型，为图形设计和数字艺术领域的专业人士提供了有效的工具和技术支持。<br><br>总结:TripoSR Bake是一个强大的工具，可以从单一的2D图像中生成具有纹理的3D网格模型，并支持手动编辑，为用户提供了灵活性和控制力。 <div>
+<div> TripoSR Bake, TripoSR, 3D 形状, 纹理数据, 2D 图像, 生成, 网格, 手动编辑, 贴图<br />
+<br />
+TripoSR Bake是一个利用TripoSR模型从2D图像中生成3D网格的工具，同时支持手动编辑几何形状和纹理数据。用户可以通过GitHub获取该工具的源代码，并使用其功能来生成包含细节的3D网格模型。TripoSR Bake的功能强大，可以从单一的2D图像中推断出具有纹理的逼真3D形状，同时还支持用户进行手动编辑，让用户可以根据需求调整和优化生成的3D网格。这个工具为用户提供了一种简单而有效的方法来将2D图像转换为具有真实感的3D模型，为图形设计和数字艺术领域的专业人士提供了有效的工具和技术支持。<br /><br />总结:TripoSR Bake是一个强大的工具，可以从单一的2D图像中生成具有纹理的3D网格模型，并支持手动编辑，为用户提供了灵活性和控制力。 <div>
 【TripoSR Bake：利用 TripoSR 模型从 2D 图像中推断出 3D 形状和纹理数据】'TripoSR Bake - Generate 3D meshes from a single 2D image using TripoSR, complete with manual geometry editing and texture baking support' GitHub: github.com/iffyloop/TripoSR-Bake <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoziewk5zij20ux0u0dmf.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 22 Apr 2024 04:44:33 GMT</pubDate>
 <pubDate>Mon, 22 Apr 2024 04:44:33 GMT</pubDate>
 </item>
 <item>
@@ -91,14 +153,12 @@ TripoSR Bake是一个利用TripoSR模型从2D图像中生成3D网格的工具，
 <content:encoded><![CDATA[
 <div> tinyworldmap、离线优先、低带宽、小型世界地图、GitHub、tiny-world-map
 
-<br><br>总结:
+<br /><br />总结:
 tinyworldmap是一个用于离线优先和低带宽Web应用的小型世界地图工具。该工具可在GitHub上找到，名为tiny-world-map。适用于需要离线使用和低带宽的Web应用场景，为用户提供便捷的小型世界地图功能。 <div>
 【tinyworldmap：用于离线优先和低带宽Web 应用的小型世界地图】’tinyworldmap - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps' GitHub: github.com/tinyworldmap/tiny-world-map <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hozi8o5d8ej20dp0a3wfe.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 22 Apr 2024 04:38:36 GMT</pubDate>
-<pubDate>Mon, 22 Apr 2024 04:38:36 GMT</pubDate>
 </item>
-
 <item>
 <title>Menteebot的人形机器人 #人工智能##机器人#</title>
 <link>https://weibo.com/1402400261/OaR7zuIrP</link>
@@ -12816,71 +12876,6 @@ Command-R推出了Tool Use功能，使语言模型能够与外部工具交互，
 今日推介(第1345期)：基于在线偏好优化的大型语言模型与人类偏好对齐、自注意力的下一token预测机制 、持续预训练大型语言模型的简单可扩展策略、现代大规模数据集是否还存在偏差问题、过训练语言模型在下游任务中的可靠扩展 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/687109258"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(3.15)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnra0zsf8qj20k00aawf0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnra126v1dj20k008gjsd.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnra15w1cdj20k00c3mzg.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnra1b1fw5j20k00hsad3.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnra1dmuy3j20k00e1q56.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Thu, 14 Mar 2024 22:29:56 GMT</pubDate>
-</item>
-<item>
-<title>[CV] DAM: Dynamic Adapter Merging for Continual Video QA Learning 网页链接 介绍了一种名为DAM的视频问答(VidQA)持续学习方法，以解决灾难性遗忘问题、适应...</title>
-<link>https://weibo.com/1402400261/O544i5YCV</link>
-<guid>https://weibo.com/1402400261/O544i5YCV</guid>
-<content:encoded><![CDATA[
-<div> 动态适配器合并, 持续学习, VidQA, 适配器训练, 路由器函数, 跨域知识共享, 性能优于当前方法, 图像分类, 图像问答
-
-总结:<br /><br />
-这篇文章介绍了一种名为DAM的视频问答持续学习方法，旨在解决灾难性遗忘、适应新数据集、处理未知数据集输入以及促进跨域知识共享等挑战。DAM通过动态适配器合并，在训练过程中训练特定数据集的适配器并冻结预训练的视频语言骨干网络。在推理过程中，利用非参数路由器函数计算适配器相关性概率，动态合并适配器权重定制新的适配器实例进行VidQA预测，从而降低路由器预测不准确的影响并提升跨域知识共享。DAM在多个VidQA数据集上的表现优于当前持续学习方法，并在图像分类和图像问答任务上也具有明显优势。 <div>
-[CV] DAM: Dynamic Adapter Merging for Continual Video QA Learning  <br /><a href="https://arxiv.org/abs/2403.08755"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />介绍了一种名为DAM的视频问答(VidQA)持续学习方法，以解决灾难性遗忘问题、适应持续到来的数据集、处理未知数据集的输入以及跨相似数据集域共享知识等挑战。DAM通过动态适配器合并，训练特定数据集的适配器并冻结预训练的视频语言骨干网络。推理时，DAM使用非参数路由器函数计算每个适配器的相关性概率，随后动态合并适配器权重，以定制新的适配器实例进行VidQA预测，从而降低路由器预测不准确的影响并促进跨域知识共享。DAM在多个VidQA数据集上的性能超过了当前最先进的持续学习方法，并且在图像分类和图像问答任务上也展现出显著优势。<img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnr9q1w748j212s1lm4i4.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnr9q2da9lj21pc0zitl9.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnr9q2wsp9j21pa1b6nc5.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 14 Mar 2024 22:19:03 GMT</pubDate>
-</item>
-<item>
-<title>[CV] GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting 网页链接 介绍了一种名为GaussianImage的新的图像表示和压缩方...</title>
-<link>https://weibo.com/1402400261/O541SxwIU</link>
-<guid>https://weibo.com/1402400261/O541SxwIU</guid>
-<content:encoded><![CDATA[
-<div> GaussianImage, 2D高斯Splatting, GPU资源, 隐式神经表示, INR, 渲染算法, GPU内存占用, 拟合时间, 渲染速度, 向量量化技术
-
-总结:<br /><br />该文章介绍了一种名为GaussianImage的新的图像表示和压缩方法，基于2D高斯Splatting技术。与依赖GPU资源且训练时间长的隐式神经表示(INR)不同，GaussianImage通过每个2D高斯的8个参数来表示图像，使用累积求和的新渲染算法。这一方法显著减少了GPU内存占用和拟合时间，同时提供了与INR相当的表示性能和更快的渲染速度。该方法配合现有向量量化技术的编解码器在实验中表现出与基于压缩的INR（如COIN和COIN++）相当的速率失真性能，同时实现了约1000 FPS的解码速度。初步概念验证显示，在使用部分比特回传编码时，该编解码器的性能超过了COIN和COIN++。 <div>
-[CV] GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting  <br /><a href="https://arxiv.org/abs/2403.08551"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />介绍了一种名为GaussianImage的新的图像表示和压缩方法，基于2D高斯Splatting技术。不同于依赖GPU资源且训练时间长的隐式神经表示(INR)，GaussianImage通过每个2D高斯的8个参数来表示图像，用累积求和的新渲染算法。这一方法显著减少了GPU内存占用(至少减少3倍)和拟合时间(加快5倍)，同时提供了与INR相当的表示性能和更快的渲染速度(1500-2000 FPS)。此外，集成了现有向量量化技术的图像编解码器在实验中展现出了与基于压缩的INR(如COIN和COIN++)相当的速率失真性能，并实现了约1000 FPS的解码速度。初步概念验证还表明，使用部分比特回传编码时，该编解码器的性能超过了COIN和COIN++。<img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnr9jwd3olj213i1kw18a.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnr9jwqeu2j21hq0t0qay.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnr9jwv8uyj21hc0gudmi.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnr9jx0572j21ha0mi7a8.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 14 Mar 2024 22:13:07 GMT</pubDate>
-</item>
-<item>
-<title>[CL] Gemma: Open Models Based on Gemini Research and Technology 网页链接 介绍了Google DeepMind团队开发的Gemma模型，这是一组基于Gemini研究和技术构建的...</title>
-<link>https://weibo.com/1402400261/O53Z1zK3Y</link>
-<guid>https://weibo.com/1402400261/O53Z1zK3Y</guid>
-<content:encoded><![CDATA[
-<div> Google DeepMind, Gemma, Gemini, 轻量, 开放, 性能, 安全性, Transformer, TPUv5e, 负责任
-<br />
-<br />
-总结: 
-Google DeepMind团队开发了基于Gemini研究和技术的Gemma模型，是一组轻量、开放的最新模型。Gemma在语言理解、推理和安全性方面表现出强大性能，在18项文本任务中有11项超越同等规模的开放模型。该模型使用了基于Transformer的架构，优化了多查询注意力、RoPE嵌入、GeGLU激活函数和RMSNorm等技术，并使用TPUv5e硬件和分布式系统技术进行训练。发布了规模为20亿和70亿参数的两种模型，提供了预训练和微调检查点。强调了负责任发布大型语言模型对提升安全性、促进技术公平获取和驱动创新的重要性。对模型的安全性和负责任也进行了全面评估。 <div>
-[CL] Gemma: Open Models Based on Gemini Research and Technology  <br /><a href="https://arxiv.org/abs/2403.08295"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />介绍了Google DeepMind团队开发的Gemma模型，这是一组基于Gemini研究和技术构建的轻量、开放的最新模型。Gemma在语言理解、推理和安全性方面在学术基准测试中展现出强大的性能。发布了两种规模的模型(20亿和70亿参数)，提供了预训练和微调的检查点。Gemma在18项文本任务中的11项上超越了同等规模的开放模型，并对模型的安全性和负责任进行了全面评估。Gemma利用了基于Transformer的架构，优化了多查询注意力、RoPE嵌入、GeGLU激活函数和RMSNorm等技术。训练使用了TPUv5e硬件和先进的分布式系统技术。强调了负责任发布大型语言模型(LLM)对于提升前沿模型安全性、促进技术公平获取、严格评估现有技术和驱动创新的重要性。<img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnr9ckrwzaj215e1ia7qg.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnr9cl1imxj21ee0suwjs.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnr9clc1n5j20p40n6adb.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnr9clj4cfj20pc0ksgoa.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 14 Mar 2024 22:06:05 GMT</pubDate>
-</item>
-<item>
-<title>创新地研究了在过训练情况下的语言模型扩展律，并建立了模型困惑度与其在下游任务表现之间的关联，提供了在减少计算成本的同时有效预测模型表现的方法，挑战了只...</title>
-<link>https://weibo.com/1402400261/O53WGwMw8</link>
-<guid>https://weibo.com/1402400261/O53WGwMw8</guid>
-<content:encoded><![CDATA[
-<div> 扩展律、语言模型、过训练、模型困惑度、下游任务、关联、计算成本、预测、模型表现、传统观点
-
-<br /><br />总结：
-该研究创新地研究了语言模型在过训练情况下的扩展律，并建立了模型困惑度与在下游任务表现之间的关联。提供了一种方法，在减少计算成本的同时有效预测模型表现，挑战了传统观点认为只有在计算最优训练阶段才能应用扩展律的观点。Researchers在此研究中展示了语言模型在过训练时表现稳定，并且其性能与下游任务的表现存在关联。他们的研究结果具有实践意义，可以帮助在研究领域中更有效地运用语言模型。 <div>
-创新地研究了在过训练情况下的语言模型扩展律，并建立了模型困惑度与其在下游任务表现之间的关联，提供了在减少计算成本的同时有效预测模型表现的方法，挑战了只有在计算最优训练阶段才能应用扩展律的传统观点。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Language models scale reliably with over-training and on downstream tasks》S Y Gadre, G Smyrnis, V Shankar, S Gururangan... [Columbia University &amp; UT Austin &amp; Apple] (2024) <a href="https://arxiv.org/abs/2403.08540"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnr96ao77pj21ga0qanai.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnr96b57p7j21my15caoy.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnr96bitojj21n61167jj.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnr96c1k8zj21mi0xo49l.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnr96gyggij210z0ken19.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnr96gz8taj21120ir78f.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05gy1hnr96gyotij21120lln0l.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05gy1hnr96gz5nqj21170oktd1.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnr96gz9y5j21110fkacs.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 14 Mar 2024 22:00:19 GMT</pubDate>
-</item>
-<item>
-<title>[CL]《Language models scale reliably with over-training and on downstream tasks》S Y Gadre, G Smyrnis, V Shankar, S Gururangan... [Columbia University...</title>
-<link>https://weibo.com/1402400261/O53WE06Ly</link>
-<guid>https://weibo.com/1402400261/O53WE06Ly</guid>
-<content:encoded><![CDATA[
-<div> Language models, scale, over-training, downstream tasks, reliability, Columbia University, UT Austin, Apple
-
-<br /><br />总结:
-这篇文章研究了语言模型在超过训练规模以及在下游任务中的表现，发现语言模型在这些情况下能够可靠地扩展，通过在哥伦比亚大学、德克萨斯大学奥斯汀分校和苹果公司的合作进行了实验。他们的研究结果为语言模型的发展提供了有益的参考，为今后的研究和应用提供了新的思路。 <div>
-[CL]《Language models scale reliably with over-training and on downstream tasks》S Y Gadre, G Smyrnis, V Shankar, S Gururangan... [Columbia University &amp; UT Austin &amp; Apple] (2024) <a href="https://arxiv.org/abs/2403.08540"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnr96ao77pj21ga0qanai.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnr96b57p7j21my15caoy.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnr96bitojj21n61167jj.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnr96c1k8zj21mi0xo49l.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnr96gyggij210z0ken19.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnr96gz8taj21120ir78f.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05gy1hnr96gyotij21120lln0l.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05gy1hnr96gz5nqj21170oktd1.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnr96gz9y5j21110fkacs.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnr96gypmlj210y0hg42h.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnr96h0bszj210z0umjxf.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnr96gzuksj21120pbafd.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05gy1hnr96gzkggj21110j1whm.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnr96gypocj21110j1who.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05gy1hnr96gyc00j21120domzf.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05gy1hnr96h0emmj21131blqc1.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 14 Mar 2024 22:00:13 GMT</pubDate>
 </item>
 </channel>
 </rss>

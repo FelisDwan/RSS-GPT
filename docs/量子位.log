@@ -4084,3 +4084,15 @@ Summarized using GPT-3.5-turbo
 Append: [#抱抱脸推出Llama3开源平替数据集# Llama3 的开源平替训练数据集来了，同为15万亿 tokens。 Hugging Face 的联创兼首席科学官 Thomas Wolf 最新宣布，包含 15T ...](https://weibo.com/6105753431/OaRZefm2p)
 append_entries: 4
 Finish: 2024-04-22 06:15:24.787679
+------------------------------------------------------
+Started: 2024-04-22 08:15:32.924520
+Existing_entries: 502
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 246
+Summarized using GPT-3.5-turbo
+Append: [#中国人工智能发明专利企业TOP50# IPRdaily中文网最新发布《中国人工智能发明专利企业排行榜》（TOP50）。根据榜单显示，腾讯以 15626 件发明专利排名第一，其次...](https://weibo.com/6105753431/OaSWLFe0g)
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [#阿里云宣布全方位支持Llama3训练推理# 限时免费提供算力 阿里云百炼大模型服务平台宣布推出针对 Meta 最新开源 Llama 3 系列大语言模型的限时免费训练、部署、...](https://weibo.com/6105753431/OaSMR5bGA)
+append_entries: 2
+Finish: 2024-04-22 08:15:44.174278

@@ -5870,3 +5870,21 @@ Summarized using GPT-3.5-turbo
 Append: [【tinyworldmap：用于离线优先和低带宽Web 应用的小型世界地图】’tinyworldmap - tinyworldmap is a tiny world map for offline-first and low-bandwidth web ...](https://weibo.com/1402400261/OaSNdmwzL)
 append_entries: 7
 Finish: 2024-04-22 06:15:53.546312
+------------------------------------------------------
+Started: 2024-04-22 08:15:45.463595
+Existing_entries: 1005
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1778
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Towards Variable and Coordinated Holistic Co-Speech Motion Generation》(CVPR 2024) GitHub: github.com/feifeifeiliu/probtalk《Bidir...](https://weibo.com/1402400261/OaThoh2qh)
+Token length: 246
+Summarized using GPT-3.5-turbo
+Append: [【AgentRun: AI生成代码隔离运行环境，使用单行代码轻松安全地运行来自大型语言模型 (LLM) 的 Python 代码，同时提供资源管理、超时设置、依赖管理和自动清理等...](https://weibo.com/1402400261/OaTf3fbhx)
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [【CustomChar：用于创建自定义 AI 角色的框架，不依赖特定平台、云服务或专门硬件】'CustomChar - Your customized AI characters - Your customized AI assista...](https://weibo.com/1402400261/OaTelBHyp)
+Token length: 238
+Summarized using GPT-3.5-turbo
+Append: [【使用 OpenAI Functions 的网页爬虫，用于简单的网页数据提取】'Scrape the Web with entities extraction using OpenAI Function - A web scraper that utiliz...](https://weibo.com/1402400261/OaTdOuVXf)
+append_entries: 4
+Finish: 2024-04-22 08:16:14.913940
