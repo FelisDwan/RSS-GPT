@@ -5813,3 +5813,27 @@ Summarized using GPT-3.5-turbo
 Append: [[CL]《What are human values, and how do we align AI to them?》O Klingefjord, R Lowe, J Edelman [Meaning Alignment Institute] (2024) 网页链接 #机器学习...](https://weibo.com/1402400261/OaPYwhY8e)
 append_entries: 9
 Finish: 2024-04-22 00:53:13.655028
+------------------------------------------------------
+Started: 2024-04-22 02:22:53.027948
+Existing_entries: 992
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 17
+Summarized using GPT-3.5-turbo
+Append: [Menteebot的人形机器人 #人工智能##机器人#](https://weibo.com/1402400261/OaR7zuIrP)
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [【LLM API 提供商排行榜，比较和排名了 API 提供商在价格、性能 / 速度（吞吐量和延迟）、上下文窗口大小等关键指标】《LLM API Provider Leaderboard | Artific...](https://weibo.com/1402400261/OaR4wzYuT)
+Token length: 600
+Summarized using GPT-3.5-turbo
+Append: [【用了半个亿GPT Token得出的经验】- 提示越简单越好，不要过度指定。GPT本身就很智能，过度提示会把它搞混淆。比如分类任务，直接让GPT给出分类名称，而不要让...](https://weibo.com/1402400261/OaR3K8xNE)
+Token length: 1
+Summarized using GPT-3.5-turbo
+Append: [[笑而不语] [图片]](https://weibo.com/1402400261/OaR19oFd5)
+Token length: 98
+Summarized using GPT-3.5-turbo
+Append: [【在Vercel的AI Playground可对比体验由groq提供的llama-3-70b-instruct-groq模型】《AI Playground | Vercel AI SDK》 网页链接 #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/OaR0xBpce)
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [【FineWeb：15T Tokens的网页数据集，由来自CommonCrawl经过清理和重复数据删除的英文web数据组成】《HuggingFaceFW/fineweb · Datasets at Hugging Face》 网...](https://weibo.com/1402400261/OaQYey7wt)
+append_entries: 6
+Finish: 2024-04-22 02:23:19.382770

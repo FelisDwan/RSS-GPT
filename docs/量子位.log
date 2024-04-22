@@ -4041,3 +4041,22 @@ Existing_entries: 493
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-22 00:52:33.116109
+------------------------------------------------------
+Started: 2024-04-22 02:22:31.872610
+Existing_entries: 493
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [#新闻看点# 《直播网友AI写歌征婚，实测音乐SOTA模型：免费无限次，一键生成》 继Suno、Udio带火AI音乐生成大模型之后，第一个国产“音乐版Sora”，终于来了！话...](https://weibo.com/6105753431/OaRSFDkM1)
+Token length: 50
+Summarized using GPT-3.5-turbo
+Append: [#Sora新视频# 40年后的TED会是什么样子？——来自艺术家 PaulTrillo 和 Sora 的全新合作。 量子位的微博视频](https://weibo.com/6105753431/OaRLznA3y)
+Token length: 151
+Summarized using GPT-3.5-turbo
+Append: [【百川+阿里云，AI领先跑】#我用的云是阿里云#百川智能创始人兼CEO王小川透露：国产AGI大模型正高速进化，科技硬实力较量激烈。百川智能倚重阿里云提供的全球云...](https://weibo.com/6105753431/OaRKRDu7V)
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [#本地实时处理图像新技术# Meta 的 Segment Anything Model （SAM） 现在可以在带有 WebGPU （+ fp16） 的浏览器中运行了。这意味着图像编码速度可以提高 8 倍（...](https://weibo.com/6105753431/OaRDh2az5)
+Append: [#小扎最新采访# Llama 3 405B 版本将在今年晚些时候推出围绕 Llama 3、AGI、元宇宙等话题，扎克伯格在最新一期播客采访中透露了许多消息。比如 Llama 3 405B 参...](https://weibo.com/6105753431/OaRtKo1M7)
+append_entries: 5
+Finish: 2024-04-22 02:22:51.822286
