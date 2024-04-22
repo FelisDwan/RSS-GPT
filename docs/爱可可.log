@@ -5900,3 +5900,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-22 12:21:40.558669
+------------------------------------------------------
+Started: 2024-04-22 14:11:28.981690
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 90
+Summarized using GPT-3.5-turbo
+Append: [【新书：《AI辅助编程》，关于如何利用人工智能开发工具进行代码创建的实用指南，适合初学者和经验丰富的开发者】《AI-Assisted Programming [Book]》 网页链接 ...](https://weibo.com/1402400261/OaW0C4Uh4)
+append_entries: 1
+Finish: 2024-04-22 14:11:39.457044

@@ -4120,3 +4120,18 @@ Summarized using GPT-3.5-turbo
 Append: [【#两分钟沉浸式逛展北京InfoComm#】两分钟沉浸式逛展北京InfoComm！用裸眼3D开会、透明屏欣赏小姐姐跳舞，还有沉浸式XR新体验……这个大会真的黑科技点满了！ ...](https://weibo.com/6105753431/OaUXho1mA)
 append_entries: 1
 Finish: 2024-04-22 12:21:36.833080
+------------------------------------------------------
+Started: 2024-04-22 14:11:05.183375
+Existing_entries: 508
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 414
+Summarized using GPT-3.5-turbo
+Append: [#超难基准测试AI分差拉开了# 如果试题太简单，学霸和学渣都能考90分，拉不开差距……随着Claude 3、Llama 3甚至之后GPT-5等更强模型发布，业界急需一款更难、更...](https://weibo.com/6105753431/OaW7Ej7Eo)
+Token length: 369
+Summarized using GPT-3.5-turbo
+Append: [#AI如何升级你的第二大脑##中国AIGC产业峰会# 百模大战之后，大伙儿或许有个共识：现在不缺大模型，缺的是怎么更好地把大模型用起来的方法。有个现成的例子是，...](https://weibo.com/6105753431/OaVWyeQjN)
+Token length: 320
+Summarized using GPT-3.5-turbo
+Append: [#实时可编辑3D重建来了# 最近，高斯溅射（Gaussian Splatting）在新视角合成领域掀起了一轮革命性浪潮，取代上一代技术神经辐射场（NeRF）成为学界业界顶流。而...](https://weibo.com/6105753431/OaVih4W48)
+append_entries: 3
+Finish: 2024-04-22 14:11:27.775722
