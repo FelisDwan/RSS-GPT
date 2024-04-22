@@ -5780,3 +5780,36 @@ Append: [早！[太阳] #早安# [图片]](https://weibo.com/1402400261/OaPOioLr
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OaNkay6vb)
 append_entries: 7
 Finish: 2024-04-21 22:11:21.310067
+------------------------------------------------------
+Started: 2024-04-22 00:52:34.301312
+Existing_entries: 983
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1383期)：自动化社会科学、多跳多模态网络Agent基准、将AlphaFold初始训练时间减少到10小时、人类价值观及AI与其对齐研究、基于分层投机解码的长序列...](https://weibo.com/1402400261/OaQeSCPzy)
+Token length: 111
+Summarized using GPT-3.5-turbo
+Append: [[CL] Measuring Cross-lingual Transfer in Bytes 网页链接 通过字节级标记化和数据迁移指标的方法发现语言模型中存在重要的语言无关知识成分，这可能是模型强大...](https://weibo.com/1402400261/OaQasdPPi)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [[LG] Stepwise Alignment for Constrained Language Model Policy Optimization 网页链接 通过逐步调整语言模型策略以满足奖励和安全约束，提出了一种简单、稳定...](https://weibo.com/1402400261/OaQ8g7dE9)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [[CL] Language Models Still Struggle to Zero-shot Reason about Time Series 网页链接 提出时间序列推理的三种形式，发现当前语言模型在这三方面表现均较差，...](https://weibo.com/1402400261/OaQ6w5YJl)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [[CL] When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes 网页链接 FastFit利用批量对比学习和token级表示快速有效地...](https://weibo.com/1402400261/OaQ4olOZe)
+Token length: 233
+Summarized using GPT-3.5-turbo
+Append: [通过分层投机解码和基于检索的键值缓存选择策略，实现了大型语言模型长序列生成的可扩展且无损的加速，在保持生成质量的同时显著提升了推理效率。 - 转发 @爱可...](https://weibo.com/1402400261/OaQ1OoAsw)
+Token length: 157
+Summarized using GPT-3.5-turbo
+Append: [[CL]《TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding》H Sun, Z Chen, X Yang, Y Tian, B Chen [CMU] ...](https://weibo.com/1402400261/OaQ1MlBLe)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [提出一种通过语言模型引导广泛公众参与表达和评判价值观来构建人工智能系统值观对齐目标的新方法，并通过实验验证了该方法在多个关键指标上的有效性 - 转发 @爱...](https://weibo.com/1402400261/OaPYzfhws)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [[CL]《What are human values, and how do we align AI to them?》O Klingefjord, R Lowe, J Edelman [Meaning Alignment Institute] (2024) 网页链接 #机器学习...](https://weibo.com/1402400261/OaPYwhY8e)
+append_entries: 9
+Finish: 2024-04-22 00:53:13.655028

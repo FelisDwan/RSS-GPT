@@ -5,6 +5,132 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>今日推介(第1383期)：自动化社会科学、多跳多模态网络Agent基准、将AlphaFold初始训练时间减少到10小时、人类价值观及AI与其对齐研究、基于分层投机解码的长序列...</title>
+<link>https://weibo.com/1402400261/OaQeSCPzy</link>
+<guid>https://weibo.com/1402400261/OaQeSCPzy</guid>
+<content:encoded><![CDATA[
+<div> 自动化社会科学、多跳多模态网络Agent基准、AlphaFold、初始训练时间、人类价值观、AI对齐、分层投机解码、长序列生成、无损加速
+
+<br><br>总结:
+本文介绍了几个最新研究领域的前沿技术和发展。首先是自动化社会科学的探索，通过数据和技术的应用实现社会科学研究的自动化。其次是多跳多模态网络Agent基准的提出，为多模态网络的研究提供了一个标准基准。接着是将AlphaFold的初始训练时间缩短到10小时，这将极大地提高蛋白结构预测的效率。另外，研究人员也探讨了人类价值观与人工智能的对齐问题，强调了在AI发展中考虑人类价值观的重要性。还有基于分层投机解码的长序列生成无损加速的方法，为大规模数据处理提供了有效解决方案。这些研究成果将为相关领域的进一步发展和应用提供重要参考。 <div>
+今日推介(第1383期)：自动化社会科学、多跳多模态网络Agent基准、将AlphaFold初始训练时间减少到10小时、人类价值观及AI与其对齐研究、基于分层投机解码的长序列生成无损加速 公·众·号：爱可可爱生活 <a href="http://aicoco.net/s/8l"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hoz6yh5saaj21400s4dkb.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoz6yjixxlj21370u0qc2.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hoz6ylu09kj21400iiwid.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoz6yq9346j21400owagc.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoz6ytqblbj21400kyq8z.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 22:08:30 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 22:08:30 GMT</pubDate>
+</item>
+<item>
+<title>[CL] Measuring Cross-lingual Transfer in Bytes 网页链接 通过字节级标记化和数据迁移指标的方法发现语言模型中存在重要的语言无关知识成分，这可能是模型强大...</title>
+<link>https://weibo.com/1402400261/OaQasdPPi</link>
+<guid>https://weibo.com/1402400261/OaQasdPPi</guid>
+<content:encoded><![CDATA[
+<div> 字节级标记化、数据迁移指标、语言无关知识、语言模型、跨语言迁移能力、关键所在<br>
+<br>
+在语言模型中，通过字节级标记化和数据迁移指标的方法发现了重要的语言无关知识成分，这可以提高模型在不同语言间进行迁移时的能力。研究表明，语言模型中存在一定数量的语言无关知识，这些知识可以帮助模型在跨语言任务中取得更好的性能。因此，通过对模型进行字节级标记化处理和实验评估，可以更好地了解模型的跨语言迁移能力，并为进一步优化和改进模型提供重要参考。总体来说，研究结果表明字节级标记化和数据迁移指标是发现语言模型跨语言迁移能力关键的有效方法，对于加强模型的跨语言表现具有重要意义。<br><br>总结: <br>通过字节级标记化和数据迁移指标发现了语言模型中的重要语言无关知识成分，提高了模型的跨语言迁移能力。研究结果为理解模型的跨语言表现提供了重要参考，为未来改进和优化模型奠定了基础。 <div>
+[CL] Measuring Cross-lingual Transfer in Bytes  <br /><a href="https://arxiv.org/abs/2404.08191"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>        <br />通过字节级标记化和数据迁移指标的方法发现语言模型中存在重要的语言无关知识成分，这可能是模型强大的跨语言迁移能力的关键所在。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz6ng91wrj20sg16u187.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz6ngirr4j21ki0v0q9b.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz6nh7pymj21l00oyn37.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 21:57:36 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 21:57:36 GMT</pubDate>
+</item>
+<item>
+<title>[LG] Stepwise Alignment for Constrained Language Model Policy Optimization 网页链接 通过逐步调整语言模型策略以满足奖励和安全约束，提出了一种简单、稳定...</title>
+<link>https://weibo.com/1402400261/OaQ8g7dE9</link>
+<guid>https://weibo.com/1402400261/OaQ8g7dE9</guid>
+<content:encoded><![CDATA[
+<div> 调整语言模型，奖励约束，安全约束，简单，稳定，灵活，有用，无害，步骤对齐
+
+<br><br>总结:
+本文介绍了一种通过逐步调整语言模型策略以满足奖励和安全约束的方法。该方法简单、稳定、灵活，能够获得既有用又无害的语言模型。通过调整语言模型策略，实现了对奖励和安全约束的平衡，从而提高了语言模型的性能和效果。步骤对齐是该方法的关键特点，有效地引导语言模型在训练过程中逐步优化，确保其在输出时符合预设的约束条件。通过该方法，可以更好地利用语言模型在各种领域中的应用，并提升其在实际场景中的效果和可靠性。 <div>
+[LG] Stepwise Alignment for Constrained Language Model Policy Optimization  <br /><a href="https://arxiv.org/abs/2404.11049"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>       <br />通过逐步调整语言模型策略以满足奖励和安全约束，提出了一种简单、稳定、灵活的方法来获得既有用又无害的语言模型。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz6huberoj20q413ktk3.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz6hulau8j21ci0j0ahi.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz6huykdpj21c20pmdm7.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 21:52:12 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 21:52:12 GMT</pubDate>
+</item>
+<item>
+<title>[CL] Language Models Still Struggle to Zero-shot Reason about Time Series 网页链接 提出时间序列推理的三种形式，发现当前语言模型在这三方面表现均较差，...</title>
+<link>https://weibo.com/1402400261/OaQ6w5YJl</link>
+<guid>https://weibo.com/1402400261/OaQ6w5YJl</guid>
+<content:encoded><![CDATA[
+<div> 时间序列推理、语言模型、表现差、理解时间序列、重要方向<br>
+<br>
+时间序列数据在许多领域中起着关键作用，对其进行推理有着重要意义。研究者提出了三种形式的时间序列推理：定性推理、定量推理和因果推理。然而，当前语言模型在这三方面表现都较差，存在很大的改进空间。针对这一问题，需要进一步探索如何让语言模型更好地理解时间序列行为，从而改善其推理能力，这仍然是一个值得深入探讨的重要方向。<br><br>总结: <br>时间序列数据推理在各领域具有重要意义，但当前语言模型在理解和推理时间序列数据方面表现不佳，需要进一步研究和改进。 <div>
+[CL] Language Models Still Struggle to Zero-shot Reason about Time Series  <br /><a href="https://arxiv.org/abs/2404.11757"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />提出时间序列推理的三种形式，发现当前语言模型在这三方面表现均较差，说明理解时间序列行为仍是一个值得探索的重要方向。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz6dczvzjj20qk16ek57.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz6ddalqbj217q0n07b4.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz6ddk7j6j21be0q2do7.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 21:47:54 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 21:47:54 GMT</pubDate>
+</item>
+<item>
+<title>[CL] When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes 网页链接 FastFit利用批量对比学习和token级表示快速有效地...</title>
+<link>https://weibo.com/1402400261/OaQ4olOZe</link>
+<guid>https://weibo.com/1402400261/OaQ4olOZe</guid>
+<content:encoded><![CDATA[
+<div> 关键词: FastFit, 批量对比学习, token级表示, 文本分类, 样本量少, 类别数多
+
+FastFit是一种快速有效的文本分类方法，利用批量对比学习和token级表示解决了样本量少但类别数多的问题。该方法能够高效地处理多类别分类任务，提高了分类的准确性和速度。FastFit的效果在实验中得到验证，展现出了其优越的性能。总体而言，FastFit是一种解决文本分类问题的快速且有效的方法。 <br><br>
+总结: <br>
+1. FastFit利用批量对比学习和token级表示解决了样本量少但类别数多的文本分类问题。
+2. 该方法在多类别分类任务中表现出高效的分类准确性和速度。
+3. 实验结果验证了FastFit的优越性能，显示其是一种快速有效的文本分类方法。 <div>
+[CL] When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes  <br /><a href="https://arxiv.org/abs/2404.12365"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />FastFit利用批量对比学习和token级表示快速有效地解决了样本量少但类别数多的文本分类问题。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz67x34v9j20s616mqg7.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz67x7thnj20s60q0mze.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz67xrm8wj20sm0tw0wf.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 21:42:40 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 21:42:40 GMT</pubDate>
+</item>
+<item>
+<title>通过分层投机解码和基于检索的键值缓存选择策略，实现了大型语言模型长序列生成的可扩展且无损的加速，在保持生成质量的同时显著提升了推理效率。 - 转发 @爱可...</title>
+<link>https://weibo.com/1402400261/OaQ1OoAsw</link>
+<guid>https://weibo.com/1402400261/OaQ1OoAsw</guid>
+<content:encoded><![CDATA[
+<div> 加速、分层投机解码、基于检索的键值缓存、大型语言模型、长序列生成、推理效率
+
+<br><br>总结:本研究利用分层投机解码和基于检索的键值缓存选择策略，实现了对大型语言模型长序列生成的加速，保持生成质量的同时提升了推理效率。通过TriForce算法，实现了可扩展且无损的加速，为语言模型的进一步研究和应用提供了新的思路。 <div>
+通过分层投机解码和基于检索的键值缓存选择策略，实现了大型语言模型长序列生成的可扩展且无损的加速，在保持生成质量的同时显著提升了推理效率。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding》H Sun, Z Chen, X Yang, Y Tian, B Chen [CMU] (2024) <a href="https://arxiv.org/abs/2404.11912"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz5uz5nefj21f40o6wrw.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz5uzou58j21ko0todsq.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz5uzrforj21kg0qeajg.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz5uzwgcgj21kk0qek01.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz618jfsfj20fi0aljru.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz618jp0fj20b40cddg7.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz618locjj210z0hh0w3.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 21:36:19 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 21:36:19 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding》H Sun, Z Chen, X Yang, Y Tian, B Chen [CMU] ...</title>
+<link>https://weibo.com/1402400261/OaQ1MlBLe</link>
+<guid>https://weibo.com/1402400261/OaQ1MlBLe</guid>
+<content:encoded><![CDATA[
+<div> Hierarchical Speculative Decoding, TriForce, Lossless Acceleration, Long Sequence Generation, CMU, H Sun, Z Chen, X Yang, Y Tian, B Chen 
+
+<br><br>总结:
+这篇论文提出了一种名为TriForce的方法，旨在加速长序列生成过程并提高性能。其中，采用了层次化的推测式解码技术，通过结合多个解码器以并行生成大规模序列，实现了无损压缩的效果。研究团队通过对该方法的实验验证，证明了其在不同任务中均取得了显著的性能提升。通过在CMU进行的研究，该方法展示了在长序列生成领域的潜在优势，为推动序列生成技术的发展提供了新的思路和方法。 <div>
+[CL]《TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding》H Sun, Z Chen, X Yang, Y Tian, B Chen [CMU] (2024) <a href="https://arxiv.org/abs/2404.11912"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz5uz5nefj21f40o6wrw.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz5uzou58j21ko0todsq.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz5uzrforj21kg0qeajg.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz5uzwgcgj21kk0qek01.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz618jfsfj20fi0aljru.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz618jp0fj20b40cddg7.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz618locjj210z0hh0w3.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 21:36:14 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 21:36:14 GMT</pubDate>
+</item>
+<item>
+<title>提出一种通过语言模型引导广泛公众参与表达和评判价值观来构建人工智能系统值观对齐目标的新方法，并通过实验验证了该方法在多个关键指标上的有效性 - 转发 @爱...</title>
+<link>https://weibo.com/1402400261/OaPYzfhws</link>
+<guid>https://weibo.com/1402400261/OaPYzfhws</guid>
+<content:encoded><![CDATA[
+<div> 人工智能系统、价值观、语言模型、有效性验证、公众参与、人类价值、价值观对齐、新方法、实验、多个关键指标
+<br>
+<br>
+人工智能系统与人类价值观的对齐问题一直备受关注，研究团队提出了一种新方法，通过语言模型引导广泛公众参与表达和评判价值观，来构建人工智能系统的价值观对齐目标。他们进行了实验验证，结果显示该方法在多个关键指标上取得了有效性。这项研究为解决人工智能系统与人类价值观背离的问题提供了新的思路和解决方案。 <div>
+提出一种通过语言模型引导广泛公众参与表达和评判价值观来构建人工智能系统值观对齐目标的新方法，并通过实验验证了该方法在多个关键指标上的有效性<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《What are human values, and how do we align AI to them?》O Klingefjord, R Lowe, J Edelman [Meaning Alignment Institute] (2024) <a href="https://arxiv.org/abs/2404.10636"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz5e7aanoj214m0vynbp.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz5e7rh69j21c40tygw5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz5e7w1j5j21cc0tsn5b.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz5e7ztkhj21bs0xwtf7.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz5svukgwj20vd0z6gqs.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz5svt67oj20vg0j340a.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz5svv2zbj20vd16tdls.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz5svu9anj20vg0psq7k.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz5svttk6j20vi0maaco.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 21:28:19 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 21:28:19 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《What are human values, and how do we align AI to them?》O Klingefjord, R Lowe, J Edelman [Meaning Alignment Institute] (2024) 网页链接 #机器学习...</title>
+<link>https://weibo.com/1402400261/OaPYwhY8e</link>
+<guid>https://weibo.com/1402400261/OaPYwhY8e</guid>
+<content:encoded><![CDATA[
+<div> 人类价值观, 人工智能, 对齐, 伦理, 发展, 控制, 效益, 道德, 尊重, 合作
+
+总结:<br><br>本文讨论了人类价值观以及如何将人工智能对齐到这些价值观。针对人工智能发展中可能出现的伦理问题，我们需要制定合适的控制措施，确保人工智能的发展符合道德标准并尊重人类价值观。在引入人工智能技术时，应考虑其长期效益，并重视人类价值观的重要性。促进人工智能与人类之间的合作关系，以实现最佳的发展和利益。 <div>
+[CL]《What are human values, and how do we align AI to them?》O Klingefjord, R Lowe, J Edelman [Meaning Alignment Institute] (2024) <a href="https://arxiv.org/abs/2404.10636"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz5e7aanoj214m0vynbp.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz5e7rh69j21c40tygw5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz5e7w1j5j21cc0tsn5b.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz5e7ztkhj21bs0xwtf7.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz5svukgwj20vd0z6gqs.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz5svt67oj20vg0j340a.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz5svv2zbj20vd16tdls.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz5svu9anj20vg0psq7k.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz5svttk6j20vi0maaco.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz5svubn0j20vd0ymq7p.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz5svu2hrj20vd0tjad4.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz5svtjepj20vd0p1wh9.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz5svtg4oj20vd0i8abz.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz5svvimkj20vg1bwth6.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 21 Apr 2024 21:28:12 GMT</pubDate>
+<pubDate>Sun, 21 Apr 2024 21:28:12 GMT</pubDate>
+</item>
+
+<item>
 <title>ScaleFold通过深入分析AlphaFold训练的可扩展性瓶颈，从算法结构到底层实现进行系统性优化，使之成功扩展到2080个GPU并将初步训练时间缩短至10小时。 - 转发 @爱...</title>
 <link>https://weibo.com/1402400261/OaPRLo6Du</link>
 <guid>https://weibo.com/1402400261/OaPRLo6Du</guid>
@@ -16,7 +142,6 @@ ScaleFold通过深入分析AlphaFold训练的可扩展性瓶颈，从算法结�
 ScaleFold通过深入分析AlphaFold训练的可扩展性瓶颈，从算法结构到底层实现进行系统性优化，使之成功扩展到2080个GPU并将初步训练时间缩短至10小时。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《ScaleFold: Reducing AlphaFold Initial Training Time to 10 Hours》F Zhu, A Nowaczynski, R Li, J Xin… [NVIDIA] (2024) <a href="https://arxiv.org/abs/2404.11068"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz5adpgtuj20u00sg12b.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz5ae4iwaj21og0ryaix.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz5ae9lymj21jo0fun08.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz5aedp05j20tu0lg0vy.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Sun, 21 Apr 2024 21:11:34 GMT</pubDate>
-<pubDate>Sun, 21 Apr 2024 21:11:34 GMT</pubDate>
 </item>
 <item>
 <title>[LG]《ScaleFold: Reducing AlphaFold Initial Training Time to 10 Hours》F Zhu, A Nowaczynski, R Li, J Xin… [NVIDIA] (2024) 网页链接 #机器学习##人工智...</title>
@@ -25,10 +150,9 @@ ScaleFold通过深入分析AlphaFold训练的可扩展性瓶颈，从算法结�
 <content:encoded><![CDATA[
 <div> 关键词: ScaleFold, Reducing, AlphaFold, Initial Training Time, 10 Hours, NVIDIA
 
-本文介绍了一种名为ScaleFold的方法，可以将AlphaFold的初始训练时间缩短至10小时。研究团队包括F Zhu、A Nowaczynski、R Li和J Xin，合作单位为NVIDIA。他们在文章中提出了这种新的方法，能够显著减少AlphaFold的训练时间，从而提高效率。通过ScaleFold的应用，研究人员可以在更短的时间内进行模型训练和优化，加快了科学研究和发现的步伐。这一创新有望为蛋白质结构预测领域带来重大突破，对于促进生命科学和药物研发具有重要意义。<br><br>总结: 本文介绍了ScaleFold方法，可以将AlphaFold的初始训练时间缩短至10小时，提高了蛋白质结构预测的效率，对推动科学研究和药物研发具有重要意义。 <div>
+本文介绍了一种名为ScaleFold的方法，可以将AlphaFold的初始训练时间缩短至10小时。研究团队包括F Zhu、A Nowaczynski、R Li和J Xin，合作单位为NVIDIA。他们在文章中提出了这种新的方法，能够显著减少AlphaFold的训练时间，从而提高效率。通过ScaleFold的应用，研究人员可以在更短的时间内进行模型训练和优化，加快了科学研究和发现的步伐。这一创新有望为蛋白质结构预测领域带来重大突破，对于促进生命科学和药物研发具有重要意义。<br /><br />总结: 本文介绍了ScaleFold方法，可以将AlphaFold的初始训练时间缩短至10小时，提高了蛋白质结构预测的效率，对推动科学研究和药物研发具有重要意义。 <div>
 [LG]《ScaleFold: Reducing AlphaFold Initial Training Time to 10 Hours》F Zhu, A Nowaczynski, R Li, J Xin… [NVIDIA] (2024) <a href="https://arxiv.org/abs/2404.11068"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz5adpgtuj20u00sg12b.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz5ae4iwaj21og0ryaix.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz5ae9lymj21jo0fun08.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz5aedp05j20tu0lg0vy.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 21 Apr 2024 21:11:22 GMT</pubDate>
 <pubDate>Sun, 21 Apr 2024 21:11:22 GMT</pubDate>
 </item>
 <item>
@@ -38,11 +162,10 @@ ScaleFold通过深入分析AlphaFold训练的可扩展性瓶颈，从算法结�
 <content:encoded><![CDATA[
 <div> 多模态、多步、基准测试、MMInA、Agent、互联网任务、评估、真实网站环境、智能体、应用能力
 
-<br><br>总结:
+<br /><br />总结:
 本研究构建了一个名为MMInA的多步多模态基准测试，旨在评估智能Agent在复杂互联网任务中的表现能力。该基准测试在真实网站环境中进行，在不断变化的场景中对智能体进行评估。研究团队来自南洋理工大学，通过评估Agent的能力，为未来智能体在互联网应用中的能力提供了高标准的基准。这项研究的结果发表在CV领域的论文中，为智能体在互联网任务中的发展提供了重要参考。 <div>
 构建了一个多步多模态基准测试MMInA，在不断变化的真实网站环境中评估Agent完成复杂互联网任务的能力，为未来智能体互联网应用能力的测试提供了一个高标准的基准。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CV]《MMInA: Benchmarking Multihop Multimodal Internet Agents》Z Zhang, S Tian, L Chen, Z Liu [Nanyang Technological University] (2024) <a href="https://arxiv.org/abs/2404.09992"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz551759cj21460ycqiu.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz551xnwuj21c810wk72.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz55257t4j21d60w0dmc.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz5529mlhj20hi0kw75a.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Sun, 21 Apr 2024 21:06:54 GMT</pubDate>
 <pubDate>Sun, 21 Apr 2024 21:06:54 GMT</pubDate>
 </item>
 <item>
@@ -52,12 +175,11 @@ ScaleFold通过深入分析AlphaFold训练的可扩展性瓶颈，从算法结�
 <content:encoded><![CDATA[
 <div> Benchmarking, Multihop, Multimodal, Internet Agents, MMInA, Nanyang Technological University, 2024
 
-<br><br>总结:
+<br /><br />总结:
 本研究由南洋理工大学的张、田、陈和刘等人完成，针对多跳多模态互联网智能体技术进行了基准测试。研究旨在评估这种技术在网络通信中的表现，并为未来研究提供参考。研究团队在2024年发表了这篇文章，详细介绍了他们的研究成果。他们的研究对于推动多跳多模态互联网智能体技术的发展至关重要，为相关领域的进一步研究提供了有价值的信息。
  <div>
 [CV]《MMInA: Benchmarking Multihop Multimodal Internet Agents》Z Zhang, S Tian, L Chen, Z Liu [Nanyang Technological University] (2024) <a href="https://arxiv.org/abs/2404.09992"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz551759cj21460ycqiu.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoz551xnwuj21c810wk72.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz55257t4j21d60w0dmc.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz5529mlhj20hi0kw75a.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 21 Apr 2024 21:06:44 GMT</pubDate>
 <pubDate>Sun, 21 Apr 2024 21:06:44 GMT</pubDate>
 </item>
 <item>
@@ -67,10 +189,9 @@ ScaleFold通过深入分析AlphaFold训练的可扩展性瓶颈，从算法结�
 <content:encoded><![CDATA[
 <div> 模型；社会科学；结构因果模型；大型语言模型；自动化方法；研究全流程；B S. Manning；K Zhu；J J. Horton
 
-总结:<br><br>这篇文章提出了一种结合结构因果模型与大型语言模型的方法，实现社会科学研究全流程的自动化。研究由B S. Manning、K Zhu和J J. Horton进行，并在2024年发表。他们提出利用语言模型作为研究者和对象，开创了自动化社会科学研究的新思路。通过这一方法，可以更高效地进行社会科学研究，提高研究的准确性和可靠性。 <div>
+总结:<br /><br />这篇文章提出了一种结合结构因果模型与大型语言模型的方法，实现社会科学研究全流程的自动化。研究由B S. Manning、K Zhu和J J. Horton进行，并在2024年发表。他们提出利用语言模型作为研究者和对象，开创了自动化社会科学研究的新思路。通过这一方法，可以更高效地进行社会科学研究，提高研究的准确性和可靠性。 <div>
 提出并证明了一种使用结构因果模型与大型语言模型相结合，实现社会科学研究全流程自动化的方法。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [AI]《Automated Social Science: Language Models as Scientist and Subjects》B S. Manning, K Zhu, J J. Horton [MIT &amp; Harvard] (2024) <a href="https://arxiv.org/abs/2404.11794"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz53b6axoj21a010217q.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz53bprvtj21gc10sqb0.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz53bzkvmj20p00xugno.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz53c9xg8j218m19gwq5.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Sun, 21 Apr 2024 21:04:49 GMT</pubDate>
 <pubDate>Sun, 21 Apr 2024 21:04:49 GMT</pubDate>
 </item>
 <item>
@@ -80,10 +201,9 @@ ScaleFold通过深入分析AlphaFold训练的可扩展性瓶颈，从算法结�
 <content:encoded><![CDATA[
 <div> 社会科学、语言模型、自动化、科学家、主题、研究、机器学习、社会影响、数据分析、技术发展
 
-总结:<br><br>本文讨论了自动化社会科学领域中语言模型的应用。研究者通过机器学习技术构建了能够扮演科学家和研究对象角色的语言模型，实现了自动化的科学研究过程。语言模型的运用影响了社会科学领域的数据分析方法，促进了技术的发展。这一新领域的出现将对社会产生重要影响，需持续关注研究进展和技术应用。 <div>
+总结:<br /><br />本文讨论了自动化社会科学领域中语言模型的应用。研究者通过机器学习技术构建了能够扮演科学家和研究对象角色的语言模型，实现了自动化的科学研究过程。语言模型的运用影响了社会科学领域的数据分析方法，促进了技术的发展。这一新领域的出现将对社会产生重要影响，需持续关注研究进展和技术应用。 <div>
 [AI]《Automated Social Science: Language Models as Scientist and Subjects》B S. Manning, K Zhu, J J. Horton [MIT &amp; Harvard] (2024) <a href="https://arxiv.org/abs/2404.11794"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz53b6axoj21a010217q.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoz53bprvtj21gc10sqb0.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoz53bzkvmj20p00xugno.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoz53c9xg8j218m19gwq5.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 21 Apr 2024 21:04:36 GMT</pubDate>
 <pubDate>Sun, 21 Apr 2024 21:04:36 GMT</pubDate>
 </item>
 <item>
@@ -93,13 +213,11 @@ ScaleFold通过深入分析AlphaFold训练的可扩展性瓶颈，从算法结�
 <content:encoded><![CDATA[
 <div> 关键词: 早, 文章, 中文, 总结, 要点
 
-想要正确完成一篇文章的总结，必须准确提取主要关键词和要点。这篇文章首先提出了要求总结一篇文章的任务，提示先提取关键词。然后要求用中文撰写800字内的总结，按顺序列出所有重要要点。务必按要求正确提取关键词和准确总结文章内容。<br><br>总结:文章要求提取关键词和撰写800字内的总结，按要点顺序逐一列出。 <div>
+想要正确完成一篇文章的总结，必须准确提取主要关键词和要点。这篇文章首先提出了要求总结一篇文章的任务，提示先提取关键词。然后要求用中文撰写800字内的总结，按顺序列出所有重要要点。务必按要求正确提取关键词和准确总结文章内容。<br /><br />总结:文章要求提取关键词和撰写800字内的总结，按要点顺序逐一列出。 <div>
 早！<span class="url-icon"><img alt="[太阳]" src="https://h5.sinaimg.cn/m/emoticon/icon/others/w_taiyang-2b1d91ddac.png" style="width: 1em; height: 1em;" /></span> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%97%A9%E5%AE%89%23&amp;isnewpage=1"><span class="surl-text">#早安#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hoz52o8al2j20fu0j076s.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 21 Apr 2024 21:03:01 GMT</pubDate>
-<pubDate>Sun, 21 Apr 2024 21:03:01 GMT</pubDate>
 </item>
-
 <item>
 <title>《爱可可微博热门分享(4.21)》 爱可可微博热门分享(4.21) [图片]</title>
 <link>https://weibo.com/1402400261/OaNjNbqip</link>
