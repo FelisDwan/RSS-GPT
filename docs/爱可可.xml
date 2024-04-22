@@ -4,6 +4,140 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>设计了一个利用大型语言模型进行查询重写的系统LLM-R2，能显著提高查询效率，在不同数据集上表现强大的鲁棒性。 - 转发 @爱可可-爱生活:&amp;ensp;[CL]《LLM-R2: A L...</title>
+<link>https://weibo.com/1402400261/OaZpQ6gtH</link>
+<guid>https://weibo.com/1402400261/OaZpQ6gtH</guid>
+<content:encoded><![CDATA[
+<div> 关键词：LLM-R2、大型语言模型、查询重写、提高查询效率、数据集、鲁棒性、规则、系统、效果、性能
+
+总结：<br><br>本文介绍了一种名为LLM-R2的系统，利用大型语言模型进行查询重写，显著提高了查询效率，并在不同数据集上展现出强大的鲁棒性。作者通过设计规则和结合语言模型，有效提升了系统的性能。研究结果表明，LLM-R2在实验中取得了显著的效果，为提升查询效率提供了一种新的解决方案。整体而言，LLM-R2系统在查询重写领域有着广阔的应用前景。 <div>
+设计了一个利用大型语言模型进行查询重写的系统LLM-R2，能显著提高查询效率，在不同数据集上表现强大的鲁棒性。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency》Z Li, H Yuan, H Wang, G Cong, L Bing [Nanyang Technological University] (2024) <a href="https://arxiv.org/abs/2404.12872"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0bbmu6v4j20tu0v0akr.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0bbn7k4oj20qw0gugod.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0bbndqo9j20tu17o7cf.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0bbnm6tvj21oo0rkape.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0bh6ferwj20jc063q3n.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0bh6fu5nj20jb0eddhe.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0bh6gc8gj20jg0l4775.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0bh6fq4aj20jc0bkdgs.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0bh6g06gj20zu07g76a.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 21:30:13 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 21:30:13 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency》Z Li, H Yuan, H Wang, G Cong, L Bing [Nanyang T...</title>
+<link>https://weibo.com/1402400261/OaZpNfyiu</link>
+<guid>https://weibo.com/1402400261/OaZpNfyiu</guid>
+<content:encoded><![CDATA[
+<div> 大规模语言模型，基于规则的重写系统，查询效率，Nanyang Technological University<br>
+<br>
+总结:<br>
+本文介绍了一种名为LLM-R2的大规模语言模型增强型基于规则的重写系统，用于提高查询效率。系统由Z Li、H Yuan、H Wang、G Cong和L Bing等人于2024年在南洋理工大学开发。其核心思想是结合语言模型和规则重写技术，通过对查询进行重写和优化，从而提高查询效率。研究人员通过实验证明，LLM-R2系统在不同数据集上均取得了显著的性能提升，证明了其在提升查询效率方面的有效性。这项研究对于改善搜索引擎等信息检索系统的效率具有重要意义。 <div>
+[CL]《LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency》Z Li, H Yuan, H Wang, G Cong, L Bing [Nanyang Technological University] (2024) <a href="https://arxiv.org/abs/2404.12872"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0bbmu6v4j20tu0v0akr.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0bbn7k4oj20qw0gugod.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0bbndqo9j20tu17o7cf.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0bbnm6tvj21oo0rkape.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0bh6ferwj20jc063q3n.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0bh6fu5nj20jb0eddhe.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0bh6gc8gj20jg0l4775.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0bh6fq4aj20jc0bkdgs.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0bh6g06gj20zu07g76a.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 21:30:07 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 21:30:07 GMT</pubDate>
+</item>
+<item>
+<title>[CV]《PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation》T Zhang, H Yu, R Wu, B Y. Feng, C Zheng, N Snavely, J Wu, W T. Free...</title>
+<link>https://weibo.com/1402400261/OaZmWiRMD</link>
+<guid>https://weibo.com/1402400261/OaZmWiRMD</guid>
+<content:encoded><![CDATA[
+<div> 关键词: PhysDreamer, 物理交互, 3D对象, 视频生成, MIT, Stanford University, Columbia University, 论文, 作者
+
+总结:<br><br>总结: 本研究通过PhysDreamer系统实现了基于物理的与3D对象的交互，通过视频生成技术进行展示。作者来自MIT、Stanford University和Columbia University，论文于2024年发表。研究通过结合物理模型和视频生成技术，实现了前所未有的3D对象交互方式，为该领域的发展带来了新的思路和方法。PhysDreamer系统的设计和实现，展现了作者在该领域的研究能力和创新精神，为未来的进一步研究和应用奠定了基础。 <div>
+[CV]《PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation》T Zhang, H Yu, R Wu, B Y. Feng, C Zheng, N Snavely, J Wu, W T. Freeman [MIT &amp; Stanford University &amp; Columbia University] (2024) <a href="https://arxiv.org/abs/2404.13026"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0b2zbjdkj21gi14gh43.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0b2zxis9j21q20z6162.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0b30mvezj21q20vq4br.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0b30v9f2j21ps19qaq5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0b9vgar8j20q10a93zu.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0b9vgw4vj20rh0qfdjs.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0b9vhp8kj20rh15hwkz.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0b9vggbbj20rh0ekdim.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 21:23:05 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 21:23:05 GMT</pubDate>
+</item>
+<item>
+<title>提出RAGCache系统，通过缓存文档中间状态实现跨请求共享，优化知识树和替换策略，实现检索与推理流水线重叠，可显著提升RAG系统性能。 - 转发 @爱可可-爱生活:&amp;e...</title>
+<link>https://weibo.com/1402400261/OaZgnfmLO</link>
+<guid>https://weibo.com/1402400261/OaZgnfmLO</guid>
+<content:encoded><![CDATA[
+<div> RAGCache, 缓存文档中间状态, 跨请求共享, 知识树, 替换策略, 检索与推理流水线, RAG系统, 性能优化, 检索增强生成, 缓存技术
+
+<br><br>总结:
+研究团队提出了一种名为RAGCache的系统，利用缓存文档中间状态实现跨请求共享，优化知识树和替换策略。这样的设计可以实现检索与推理流水线重叠，从而显著提升RAG系统的性能。研究结果表明，RAGCache系统在检索增强生成任务中取得了令人满意的效果。通过有效利用缓存技术，可以提高系统的效率和性能，为自然语言处理领域的研究和应用带来新的可能性。 <div>
+提出RAGCache系统，通过缓存文档中间状态实现跨请求共享，优化知识树和替换策略，实现检索与推理流水线重叠，可显著提升RAG系统性能。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation》C Jin, Z Zhang, X Jiang, F Liu, X Liu, X Liu, X Jin [Peking University] (2024) <a href="https://arxiv.org/abs/2404.12457"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0arx3jb5j20tu0z6n8v.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0arxkegwj20so0e6abm.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0arxrizej20u00xc0yl.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0asp3z1bj212x0930u9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0asp3s3pj20i809174x.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0asp3la6j20de0bc74z.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0asp3o2sj20fl08r74v.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0asp3oi0j20dk09xaaj.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0asp3p20j20ic064t90.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 21:06:55 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 21:06:55 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation》C Jin, Z Zhang, X Jiang, F Liu, X Liu, X Liu, X Jin [Peking University...</title>
+<link>https://weibo.com/1402400261/OaZgilFOK</link>
+<guid>https://weibo.com/1402400261/OaZgilFOK</guid>
+<content:encoded><![CDATA[
+<div> 关键词: RAGCache, 知识缓存, 检索增强生成, 高效, 知识获取, 文本生成, 信息检索, 缓存策略, 模型优化
+
+总结:<br><br>本文提出了一种名为RAGCache的知识缓存方法，旨在提高检索增强生成系统的效率。该方法主要解决了知识获取和文本生成过程中的效率问题，采用了相关的缓存策略和模型优化方法。研究结果表明，RAGCache在提高信息检索和文本生成质量方面取得了显著的效果，为进一步优化检索增强生成系统提供了重要的参考。 <div>
+[CL]《RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation》C Jin, Z Zhang, X Jiang, F Liu, X Liu, X Liu, X Jin [Peking University] (2024) <a href="https://arxiv.org/abs/2404.12457"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0arx3jb5j20tu0z6n8v.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0arxkegwj20so0e6abm.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0arxrizej20u00xc0yl.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0asp3z1bj212x0930u9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0asp3s3pj20i809174x.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0asp3la6j20de0bc74z.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0asp3o2sj20fl08r74v.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0asp3oi0j20dk09xaaj.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0asp3p20j20ic064t90.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0asp3r7fj20gx07kglx.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0asp42ofj20jb08saal.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0asp3lcmj20iu09b0tj.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0asp3truj20iw09ggme.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0asp4n6hj21360a5q4f.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0asp465oj20iv09ijs2.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0asp3wnmj20iv09kt9k.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0asp48u8j20iv09kdgk.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 21:06:43 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 21:06:43 GMT</pubDate>
+</item>
+<item>
+<title>提出Lean Copilot框架，探索了大型语言模型作为Copilot协助交互式定理证明的有效性。 - 转发 @爱可可-爱生活:&amp;ensp;[LG]《Towards Large Language Models as Cop...</title>
+<link>https://weibo.com/1402400261/OaZfFdG6k</link>
+<guid>https://weibo.com/1402400261/OaZfFdG6k</guid>
+<content:encoded><![CDATA[
+<div> 模型验证、Lean Copilot框架、大型语言模型、交互式定理证明、有效性、P Song、K Yang、A Anandkumar、UC Santa Barbara、California Institute of Technology
+
+<br><br>总结:
+本文提出了Lean Copilot框架，旨在探索将大型语言模型作为Copilot协助交互式定理证明的有效性。研究团队由P Song、K Yang和A Anandkumar等人组成，来自UC Santa Barbara和California Institute of Technology。他们认为利用大型语言模型作为辅助工具可以提高定理证明的效率和准确性，为此构建了Lean Copilot框架。通过实验和数据分析，他们验证了该框架的有效性，为未来的定理证明工作提供了新的思路和方法。 <div>
+提出Lean Copilot框架，探索了大型语言模型作为Copilot协助交互式定理证明的有效性。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Towards Large Language Models as Copilots for Theorem Proving in Lean》P Song, K Yang, A Anandkumar [UC Santa Barbara &amp; California Institute of Technology] (2024) <a href="https://arxiv.org/abs/2404.12534"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0aqjvn5rj21cg0o0dq7.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0aqkhbt1j21ci0vm0y9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0aqkst7rj21ci0pkqae.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0aql16q3j21cc0smafu.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0aqyrtbaj20vg0erdgw.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0aqyrrquj20vf08ngma.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0aqyrw3ej20vk096gmq.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0aqyrujdj20vg09ggml.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0aqys3j3j20vg09hgmu.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 21:05:09 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 21:05:09 GMT</pubDate>
+</item>
+<item>
+<title>[LG]《Towards Large Language Models as Copilots for Theorem Proving in Lean》P Song, K Yang, A Anandkumar [UC Santa Barbara &amp; California Institute of ...</title>
+<link>https://weibo.com/1402400261/OaZfzcrVw</link>
+<guid>https://weibo.com/1402400261/OaZfzcrVw</guid>
+<content:encoded><![CDATA[
+<div> Towards Large Language Models, Theorem Proving, Lean, Copilots, UC Santa Barbara, California Institute of Technology, 2024, P Song, K Yang, A Anandkumar
+
+<br><br>总结:
+本文提出了使用大型语言模型作为Lean定理证明的助手的想法。作者将大型语言模型引入Lean系统中，旨在提高定理证明的效率和准确性。他们探讨了在 Lean 环境中使用语言模型的可行性和潜力，并展示了这种方法的优势。通过将大型语言模型作为copilots，可以辅助定理证明者更快速地进行推理和证明过程，提高定理证明的效率。研究团队的实验结果表明，这种方法取得了令人满意的成果，为使用大型语言模型作为定理证明辅助工具提供了新思路。 <div>
+[LG]《Towards Large Language Models as Copilots for Theorem Proving in Lean》P Song, K Yang, A Anandkumar [UC Santa Barbara &amp; California Institute of Technology] (2024) <a href="https://arxiv.org/abs/2404.12534"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0aqjvn5rj21cg0o0dq7.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0aqkhbt1j21ci0vm0y9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0aqkst7rj21ci0pkqae.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0aql16q3j21cc0smafu.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0aqyrtbaj20vg0erdgw.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0aqyrrquj20vf08ngma.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0aqyrw3ej20vk096gmq.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0aqyrujdj20vg09ggml.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0aqys3j3j20vg09hgmu.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0aqysla3j20vg0f1gnw.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0aqysww0j20vg0ewjty.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 21:04:55 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 21:04:55 GMT</pubDate>
+</item>
+<item>
+<title>通过语言模型与爬虫技术的结合，提出了垂直信息网页的爬虫生成任务和AUTOCRAWLER框架，可以生成可在多个相似网页上执行的动作序列，从而实现对开放世界场景的更...</title>
+<link>https://weibo.com/1402400261/OaZfb5kzU</link>
+<guid>https://weibo.com/1402400261/OaZfb5kzU</guid>
+<content:encoded><![CDATA[
+<div> 垂直信息网页、爬虫生成任务、AUTOCRAWLER框架、语言模型、爬虫技术、动作序列、开放世界场景、适应性
+
+总结:<br><br>该研究结合语言模型与爬虫技术，提出了垂直信息网页的爬虫生成任务和AUTOCRAWLER框架。该框架能生成可以在多个相似网页上执行的动作序列，从而更好适应开放世界场景。研究通过深度学习技术实现了对网页的理解和自动化操作，提高了爬虫的效率和适应性。该方法为网络数据采集和处理提供了新的思路和工具。 <div>
+通过语言模型与爬虫技术的结合，提出了垂直信息网页的爬虫生成任务和AUTOCRAWLER框架，可以生成可在多个相似网页上执行的动作序列，从而实现对开放世界场景的更好适应性。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation》W Huang, C Peng, Z Li, J Liang, Y Xiao, L Wen, Z Chen [Fudan University] (2024) <a href="https://arxiv.org/abs/2404.12753"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0ap6ztk3j20oi148k18.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0ap72wz9j20sk1547cl.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0ap7hqpej21kq1104bw.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0ap7ooe3j20se0p477x.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0aptri4gj20hn0efq3p.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0aptt29hj20zx0vvagn.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 21:03:58 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 21:03:58 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation》W Huang, C Peng, Z Li, J Liang, Y Xiao, L Wen, Z Chen [Fudan Univ...</title>
+<link>https://weibo.com/1402400261/OaZf7nzJv</link>
+<guid>https://weibo.com/1402400261/OaZf7nzJv</guid>
+<content:encoded><![CDATA[
+<div> 关键词：AutoCrawler, 渐进式理解，网络代理，网络爬虫生成，Fudan University
+
+总结:<br><br>这篇文章介绍了一种名为AutoCrawler的网络代理，它具有渐进式理解能力，可以用于网络爬虫生成。研究团队来自复旦大学。该网络代理利用先进的技术和算法，能够不断学习和优化自己的爬取能力，更有效地搜集网络数据。研究成果为网络爬取技术的发展提供了新的思路和方法。<br>通过AutoCrawler，研究者们探索了网络代理的理解能力，以及其在网络爬取方面的应用。这项研究有望为网络数据的获取和处理提供更多可能性，推动相关技术的进步。AutoCrawler的渐进式理解能力使其在不断学习和优化中不断提升性能，为网络爬虫领域带来新的机遇和挑战。同时，作为一种先进的网络代理技术，AutoCrawler引入了复杂的算法和模型，提高了爬取效率和准确性，为网络数据分析和利用提供了更多可能性。总的来说，AutoCrawler是一种创新的网络代理技术，为网络爬取和数据搜集领域带来了新的思路和方法。 <div>
+[CL]《AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation》W Huang, C Peng, Z Li, J Liang, Y Xiao, L Wen, Z Chen [Fudan University] (2024) <a href="https://arxiv.org/abs/2404.12753"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0ap6ztk3j20oi148k18.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0ap72wz9j20sk1547cl.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp0ap7hqpej21kq1104bw.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp0ap7ooe3j20se0p477x.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp0aptri4gj20hn0efq3p.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp0aptt29hj20zx0vvagn.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 21:03:49 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 21:03:49 GMT</pubDate>
+</item>
+<item>
+<title>早！[太阳] #早安# [图片]</title>
+<link>https://weibo.com/1402400261/OaZe2j0sM</link>
+<guid>https://weibo.com/1402400261/OaZe2j0sM</guid>
+<content:encoded><![CDATA[
+<div> 关键词：早、中文、总结、800字、要点、提取、输出、格式、换行、HTML
+
+提取关键词，写800字的中文总结，按照要点输出。<br><br>总结:在这篇文章中，我们学习了如何提取关键词并用中文写800字的总结。文章教导我们如何在同一行内输出关键词，并按要点进行组织。同时，我们也学会了使用HTML的换行符来格式化输出内容，保持清晰可读。通过这篇文章的学习，我们对文章总结的方法有了更深入的理解和实践经验。 <div>
+早！<span class="url-icon"><img alt="[太阳]" src="https://h5.sinaimg.cn/m/emoticon/icon/others/w_taiyang-2b1d91ddac.png" style="width: 1em; height: 1em;" /></span> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%97%A9%E5%AE%89%23&amp;isnewpage=1"><span class="surl-text">#早安#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hp0an1451sj20kf0ix0ub.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 22 Apr 2024 21:01:09 GMT</pubDate>
+<pubDate>Mon, 22 Apr 2024 21:01:09 GMT</pubDate>
+</item>
 
 <item>
 <title>《爱可可微博热门分享(4.22)》 爱可可微博热门分享(4.22) [图片]</title>

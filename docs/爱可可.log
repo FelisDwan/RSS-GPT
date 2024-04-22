@@ -5933,3 +5933,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OaWzNlUDq)
 append_entries: 0
 Finish: 2024-04-22 20:12:22.902047
+------------------------------------------------------
+Started: 2024-04-22 22:11:56.767766
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [设计了一个利用大型语言模型进行查询重写的系统LLM-R2，能显著提高查询效率，在不同数据集上表现强大的鲁棒性。 - 转发 @爱可可-爱生活:&ensp;[CL]《LLM-R2: A L...](https://weibo.com/1402400261/OaZpQ6gtH)
+Token length: 182
+Summarized using GPT-3.5-turbo
+Append: [[CL]《LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency》Z Li, H Yuan, H Wang, G Cong, L Bing [Nanyang T...](https://weibo.com/1402400261/OaZpNfyiu)
+Token length: 211
+Summarized using GPT-3.5-turbo
+Append: [[CV]《PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation》T Zhang, H Yu, R Wu, B Y. Feng, C Zheng, N Snavely, J Wu, W T. Free...](https://weibo.com/1402400261/OaZmWiRMD)
+Token length: 235
+Summarized using GPT-3.5-turbo
+Append: [提出RAGCache系统，通过缓存文档中间状态实现跨请求共享，优化知识树和替换策略，实现检索与推理流水线重叠，可显著提升RAG系统性能。 - 转发 @爱可可-爱生活:&e...](https://weibo.com/1402400261/OaZgnfmLO)
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [[CL]《RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation》C Jin, Z Zhang, X Jiang, F Liu, X Liu, X Liu, X Jin [Peking University...](https://weibo.com/1402400261/OaZgilFOK)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [提出Lean Copilot框架，探索了大型语言模型作为Copilot协助交互式定理证明的有效性。 - 转发 @爱可可-爱生活:&ensp;[LG]《Towards Large Language Models as Cop...](https://weibo.com/1402400261/OaZfFdG6k)
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Towards Large Language Models as Copilots for Theorem Proving in Lean》P Song, K Yang, A Anandkumar [UC Santa Barbara & California Institute of ...](https://weibo.com/1402400261/OaZfzcrVw)
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [通过语言模型与爬虫技术的结合，提出了垂直信息网页的爬虫生成任务和AUTOCRAWLER框架，可以生成可在多个相似网页上执行的动作序列，从而实现对开放世界场景的更...](https://weibo.com/1402400261/OaZfb5kzU)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [[CL]《AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation》W Huang, C Peng, Z Li, J Liang, Y Xiao, L Wen, Z Chen [Fudan Univ...](https://weibo.com/1402400261/OaZf7nzJv)
+Token length: 4
+Summarized using GPT-3.5-turbo
+Append: [早！[太阳] #早安# [图片]](https://weibo.com/1402400261/OaZe2j0sM)
+append_entries: 10
+Finish: 2024-04-22 22:12:45.383598
