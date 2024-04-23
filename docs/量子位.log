@@ -4165,3 +4165,15 @@ Existing_entries: 511
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-23 00:51:16.392764
+------------------------------------------------------
+Started: 2024-04-23 02:22:32.036716
+Existing_entries: 511
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [#Llama3微调中文版# 为了减少 Llama 3-8B “中文问题英文回答” 和混合中英文回答的问题。有人通过 ORPO 微调出了#Llama3-8B-Chinese-Chat#模型。与 Llama-3-8B-...](https://weibo.com/6105753431/Ob0SHcYG8)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [#Midjourney新功能#：随机生成更多风格Midjourney 刚刚发布了一项新功能，可让您“随机探索更多视觉风格”。它被称为#Style Random#，要使用它，只需在提示的末...](https://weibo.com/6105753431/Ob0JCxBSO)
+append_entries: 2
+Finish: 2024-04-23 02:22:45.552888

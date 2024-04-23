@@ -5996,3 +5996,30 @@ Summarized using GPT-3.5-turbo
 Append: [[LG] Mapping Social Choice Theory to RLHF 网页链接 通过比较社会选择理论和RLHF在问题设置上的差异，提出了调整后的公理，并讨论了“失真”等概念在分析RLHF...](https://weibo.com/1402400261/OaZrV7pB7)
 append_entries: 7
 Finish: 2024-04-23 00:51:56.030168
+------------------------------------------------------
+Started: 2024-04-23 02:22:46.783417
+Existing_entries: 1007
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 11
+Summarized using GPT-3.5-turbo
+Append: [大模型训练成本估算 #人工智能# [图片]](https://weibo.com/1402400261/Ob0I8qugw)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [【免费课程：《Mistral入门》，面向初学者，旨在让学生了解并使用 Mistral AI 的先进开源和商业 LLM 模型】《Getting Started With Mistral - DeepLearning.AI》...](https://weibo.com/1402400261/Ob0FBcg7o)
+Token length: 23
+Summarized using GPT-3.5-turbo
+Append: [开源机器学习编译器的“理想与现实” src:网页链接 [图片]](https://weibo.com/1402400261/Ob0ESvD9Y)
+Token length: 548
+Summarized using GPT-3.5-turbo
+Append: [【为需要而做，做好还要用好：通过打造和使用研究成果来实现影响力】- 作者提出了一个核心理念：打造你需要的，并使用你所打造的。这将研究重心从发表“论文”转...](https://weibo.com/1402400261/Ob0BCrZZ4)
+Token length: 161
+Summarized using GPT-3.5-turbo
+Append: [【Llama3-8B-Chinese-Chat：首个中文微调LLaMa 3模型，基于 Meta-Llama-3-8B-Instruct 模型，使用 ORPO 对其进行了中文微调，从而提高了其在中文问答中的表现】...](https://weibo.com/1402400261/Ob0vLqbmP)
+Token length: 513
+Summarized using GPT-3.5-turbo
+Append: [【使用PyTorch FSDP和Q-Lora高效微调Llama 3】- 通过PyTorch FSDP和Q-Lora，现在可以在2块消费级GPU上微调Llama 2 70B或Mixtral 8x7B模型。 - PyTorch FSDP通过...](https://weibo.com/1402400261/Ob0tturCD)
+Token length: 517
+Summarized using GPT-3.5-turbo
+Append: [【JAT：多功能Transformer智能体】- 提到JAT项目，目标是朝着通用智能体的方向发展。该项目基于Gato的工作，构建了一个开源版本的Gato数据集。 发布了大量专家强...](https://weibo.com/1402400261/Ob0sq0eTn)
+append_entries: 7
+Finish: 2024-04-23 02:23:24.525102
