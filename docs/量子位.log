@@ -4231,3 +4231,23 @@ Summarized using GPT-3.5-turbo
 Append: [#Llama3上下文窗口翻倍# 完全开源 HyperWriteAI 的 CEO 宣布，自己将 Llama-3-8B 的上下文窗口翻了一番（8k→16K)。目前该版本已在抱抱脸开源~此外，他还在评论...](https://weibo.com/6105753431/Ob31Tydd1)
 append_entries: 3
 Finish: 2024-04-23 10:12:02.142267
+------------------------------------------------------
+Started: 2024-04-23 12:21:14.114591
+Existing_entries: 523
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [#商汤发布日日新5# 综合能力全面对标GPT-4 就在刚刚，商汤科技发布了 “日日新 5.0”。该模型采用了 MOE 混合专家架构，并基于超过 10TB 的数据tokens进行训练，...](https://weibo.com/6105753431/Ob4bSonWE)
+Token length: 73
+Summarized using GPT-3.5-turbo
+Append: [我们生活中随处可见的手机电脑，都需要通过互联网获取时间。网络时间协议，简称NTP，是怎样让全世界亿万台网络设备同步时间的？#网络时间是怎么来的？#手机电脑...](https://weibo.com/6105753431/Ob46VgOHC)
+Token length: 368
+Summarized using GPT-3.5-turbo
+Append: [#一句话让黑照变废为宝# 2024最wow的AI生图工具出现了！对“青春纪念手册”下手，你就说这味儿正不正宗P1不信谁没有，谁也别说谁。别着急，下一秒“啪”的一下P2...](https://weibo.com/6105753431/Ob45o7Y1k)
+Token length: 481
+Summarized using GPT-3.5-turbo
+Append: [#Meta向硬件厂商开放VRAR操作系统授权# 联想、华硕加盟 小扎在脸书上宣布，将向第三方硬件厂商开放 VR/AR 操作系统 Meta Horizon OS。包括联想、微软和华硕等公...](https://weibo.com/6105753431/Ob44V3Rum)
+Append: [【#黄仁勋谈人形机器人#】机器人时代要来了？英伟达CEO黄仁勋最新断言，机器人售价将不超过两万美元，成本远低预期。 量子位的微博视频](https://weibo.com/6105753431/Ob3QrD2Bw)
+Append: [#AI编辑人类基因# 有研究团队宣布，成功利用完全由 AI 设计的基因编辑器编辑人类细胞中的DNA。[来] 论文：网页链接 [图片][图片][图片][图片][图片]](https://weibo.com/6105753431/Ob3OQAlsP)
+append_entries: 6
+Finish: 2024-04-23 12:21:36.438265
