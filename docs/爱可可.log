@@ -6023,3 +6023,9 @@ Summarized using GPT-3.5-turbo
 Append: [【JAT：多功能Transformer智能体】- 提到JAT项目，目标是朝着通用智能体的方向发展。该项目基于Gato的工作，构建了一个开源版本的Gato数据集。 发布了大量专家强...](https://weibo.com/1402400261/Ob0sq0eTn)
 append_entries: 7
 Finish: 2024-04-23 02:23:24.525102
+------------------------------------------------------
+Started: 2024-04-23 04:14:23.824698
+Existing_entries: 1007
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-23 04:14:24.033030

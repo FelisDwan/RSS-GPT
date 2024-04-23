@@ -5,6 +5,48 @@
 <link>https://weibo.com/6105753431/</link>
 
 <item>
+<title>#Adobe开源视频超分辨率模型# 支持8倍放大图像 Adobe 推出 VideoGigaGAN。它是一种新的生成式 VSR（视频超分辨率） 模型，可以在 8 倍放大视频的情形下仍保证画...</title>
+<link>https://weibo.com/6105753431/Ob226on1n</link>
+<guid>https://weibo.com/6105753431/Ob226on1n</guid>
+<content:encoded><![CDATA[
+<div> VideoGigaGAN, Adobe, VSR, 8倍放大, 细节清晰度, 非对称U-Net架构, 公共数据集, 表现出色
+
+<br><br>总结:
+Adobe推出了VideoGigaGAN，这是一种新的生成式视频超分辨率模型，可以在8倍放大视频的情况下保持画面细节和清晰度。该模型建立在图像GigaGAN的非对称U-Net架构之上，在与公共数据集上最先进的VSR模型的比较中表现出色。这一创新有望在视频处理领域带来更高质量的视频放大效果。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Adobe%E5%BC%80%E6%BA%90%E8%A7%86%E9%A2%91%E8%B6%85%E5%88%86%E8%BE%A8%E7%8E%87%E6%A8%A1%E5%9E%8B%23&amp;extparam=%23Adobe%E5%BC%80%E6%BA%90%E8%A7%86%E9%A2%91%E8%B6%85%E5%88%86%E8%BE%A8%E7%8E%87%E6%A8%A1%E5%9E%8B%23"><span class="surl-text">#Adobe开源视频超分辨率模型#</span></a> 支持8倍放大图像 <br /><br />Adobe 推出 VideoGigaGAN。<br /><br />它是一种新的生成式 VSR（视频超分辨率） 模型，可以在 8 倍放大视频的情形下仍保证画面细节和清晰度。<br /><br />据介绍，VideoGigaGAN 建立在图像 GigaGAN 上采样器的非对称 U-Net 架构之上。<br /><br />采用这种架构，VideoGigaGAN 在与公共数据集上最先进的 VSR 模型的比较中仍表现出色。<br /><br />项目主页介绍：<a href="https://videogigagan.github.io/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />论文：<a href="https://arxiv.org/pdf/2404.12388.pdf"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hp0n4mu3mtj31hq184e81.jpg" /><br /><br /><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax1.sinaimg.cn/orj480/006Fd7o3ly1hp0n0f9v17j31hc0u0myx.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/pey6P0TKlx08eiTYsCOc01041200lNsu0E010.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1713849244&amp;ssig=cy%2FgfjT2za&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/hwM963kalx08eiTXPVQA01041200aOG80E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1713849244&amp;ssig=YsrH4aJlzF&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/G1Zm2QoQlx08eiTXlVhe010412006iUm0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1713849244&amp;ssig=aRFU66O3XI&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5026288742629404" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
+]]></content:encoded>
+<pubDate>Tue, 23 Apr 2024 04:10:00 GMT</pubDate>
+<pubDate>Tue, 23 Apr 2024 04:10:00 GMT</pubDate>
+</item>
+<item>
+<title>#一键换衣虚拟试穿神器# 来自韩国的研究团队推出了一个基于图像的虚拟试穿新方法。用这个新方法#IDM-VTON#，老黄轻松换上东北大花，史密斯也换风格了。[doge]据...</title>
+<link>https://weibo.com/6105753431/Ob1MJiWiZ</link>
+<guid>https://weibo.com/6105753431/Ob1MJiWiZ</guid>
+<content:encoded><![CDATA[
+<div> 虚拟试穿、图像、研究团队、韩国、IDM-VTON、服装、语义、模块、文本提示、保真度
+
+虚拟试穿新方法是由一支来自韩国的研究团队推出的，名为IDM-VTON。该方法利用两个不同的模块来编码服装图像的语义，实现了高级语义和低级特征的融合。团队还提供了详细的文本提示，以增强生成的视觉效果的真实性。同时，他们提出了一种改进的定制方法，显著提高了虚拟试穿的保真度和真实性。这项研究技术先进，应用广泛，为虚拟试穿领域带来了新的突破。该项目的主页、论文和工具体验也可以进一步了解和体验这项技术的精妙之处。<br><br>总结:虚拟试穿新方法IDM-VTON来自韩国的研究团队推出，利用两个模块实现高级语义和低级特征融合，提供详细文本提示增强真实性，改进的定制方法显著提高保真度，技术先进应用广泛。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%80%E9%94%AE%E6%8D%A2%E8%A1%A3%E8%99%9A%E6%8B%9F%E8%AF%95%E7%A9%BF%E7%A5%9E%E5%99%A8%23&amp;extparam=%23%E4%B8%80%E9%94%AE%E6%8D%A2%E8%A1%A3%E8%99%9A%E6%8B%9F%E8%AF%95%E7%A9%BF%E7%A5%9E%E5%99%A8%23"><span class="surl-text">#一键换衣虚拟试穿神器#</span></a> <br /><br />来自韩国的研究团队推出了一个基于图像的虚拟试穿新方法。<br /><br />用这个新方法<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23IDM-VTON%23&amp;extparam=%23IDM-VTON%23"><span class="surl-text">#IDM-VTON#</span></a>，老黄轻松换上东北大花，史密斯也换风格了。<span class="url-icon"><img alt="[doge]" src="https://h5.sinaimg.cn/m/emoticon/icon/others/d_doge-be7f768d78.png" style="width: 1em; height: 1em;" /></span><br /><br />据介绍，IDM-VTON 使用两个不同的模块来编码服装图像的语义。<br /><br />1.给定扩散模型的基本UNet，将从视觉编码器中提取的高级语义融合到交叉注意力层<br /><br />2.从并行UNet中提取的低级特征融合到自注意力层<br /><br />此外，团队还为服装和人物图像提供详细的文本提示，以增强生成的视觉效果的真实性。<br /><br />最后，团队提出了一种使用一对人物服装图像的定制方法，该方法显著提高了保真度和真实性。<br /><br />PS：小编也上手体验了给马斯克换装，效果如下~（大家觉得如何<span class="url-icon"><img alt="[喵喵]" src="https://h5.sinaimg.cn/m/emoticon/icon/others/d_miao-c1b3d563bd.png" style="width: 1em; height: 1em;" /></span>）<br /><br />项目介绍主页：<a href="https://idm-vton.github.io/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />论文：<a href="https://arxiv.org/abs/2403.05139"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />工具体验：<a href="https://huggingface.co/spaces/yisol/IDM-VTON"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hp0lts792jj30xc0dkabp.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hp0lts8ai0j30xc0k4whx.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hp0ltzg9o7j31z40xvdop.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hp0lwh8fsgj30yq0yqgr7.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hp0lvwvg76j30ic0c8q38.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hp0lvmwa46j30lc0sgjz8.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 23 Apr 2024 03:32:07 GMT</pubDate>
+<pubDate>Tue, 23 Apr 2024 03:32:07 GMT</pubDate>
+</item>
+<item>
+<title>#RISCV国际基金会最新任命# 北大教授谢涛、达摩院陈炜 RISC-V 国际基金会正式官宣，由北大教授谢涛出任人工智能/机器学习特别兴趣组的主席，达摩院生态总监陈炜...</title>
+<link>https://weibo.com/6105753431/Ob1xYq5A9</link>
+<guid>https://weibo.com/6105753431/Ob1xYq5A9</guid>
+<content:encoded><![CDATA[
+<div> 北大教授、达摩院陈炜、RISC-V 国际基金会、人工智能、机器学习、软件工程、主席、副主席、AI/ML、技术委员会
+
+<br><br>总结:
+北大教授谢涛和达摩院陈炜分别担任RISC-V国际基金会的主席和副主席，基金会将AI/ML作为2024年的战略重点之一。技术委员会主席Greg提出了2024年的工作目标和优先事项：建立良好的基础扩展规格、重点关注成熟的AI/ML数据类型、推迟支持结构化和非结构化稀疏性、同时满足HPC和AI/ML需求。整体来看，RISC-V国际基金会致力于推动AI/ML等技术的国际标准化工作，并通过合作推进RISC-V生态建设。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23RISCV%E5%9B%BD%E9%99%85%E5%9F%BA%E9%87%91%E4%BC%9A%E6%9C%80%E6%96%B0%E4%BB%BB%E5%91%BD%23&amp;extparam=%23RISCV%E5%9B%BD%E9%99%85%E5%9F%BA%E9%87%91%E4%BC%9A%E6%9C%80%E6%96%B0%E4%BB%BB%E5%91%BD%23"><span class="surl-text">#RISCV国际基金会最新任命#</span></a> 北大教授谢涛、达摩院陈炜 <br /><br />RISC-V 国际基金会正式官宣，由北大教授谢涛出任人工智能/机器学习特别兴趣组的主席，达摩院生态总监陈炜任副主席。<br /><br />据公开资料显示：<br /><br />北大谢涛教授是软件科学与工程领域国际知名学者，被选为多个国际顶级学会的会士，包括ACM、IEEE、AAAS，以及欧洲科学院外籍院士。<br /><br />他的主要研究领域包括软件工程，系统软件，软件安全，可信人工智能，RISC-V基础软件。<br /><br />他曾获微软研究院杰出合作者奖（全球32位获奖教授之一、3位华人得主之一）、微软研究软件工程创新基础奖、谷歌教授研究奖、Facebook研究奖、IBM Jazz创新奖、IBM教授奖等。<br /><br />而达摩院生态总监陈炜，主要负责玄铁芯片系列产品的技术推广与 RISC-V 生态建设。<br /><br />作为 RISC-V 国际基金会软件委员会副主席，陈炜先生致力于推动多项技术的国际标准化工作。<br /><br />据悉，RISC-V 国际基金会将 AI/ML 作为其 2024 战略优先级的三大方向之一。<br /><br />在此次任命邮件中，基金会技术委员会主席 Greg 介绍了整个 RISC-V 技术团队 2024 年的工作目标和优先事项。<br /><br />具体包括：<br /><br />1.建议在初始版本的扩展中不要尝试做“一切”，而是建立良好的基础扩展规格，然后快速跟进附加扩展。<br /><br />2.建议重点关注更成熟的AI/ML数据类型，并随后支持一些最新提出的数据类型。<br /><br />3.提出了推迟对结构化和/或非结构化稀疏性的支持到后续扩展，但在基础扩展中考虑它们将来如何被适应。<br /><br />4.指出了同时解决高性能计算（HPC）和AI/ML的需求<img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hp0kulpqv7j30pp0dwwgc.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hp0l0ab4gej324a14q4qp.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 23 Apr 2024 02:55:46 GMT</pubDate>
+<pubDate>Tue, 23 Apr 2024 02:55:46 GMT</pubDate>
+</item>
+
+<item>
 <title>#Llama3微调中文版# 为了减少 Llama 3-8B “中文问题英文回答” 和混合中英文回答的问题。有人通过 ORPO 微调出了#Llama3-8B-Chinese-Chat#模型。与 Llama-3-8B-...</title>
 <link>https://weibo.com/6105753431/Ob0SHcYG8</link>
 <guid>https://weibo.com/6105753431/Ob0SHcYG8</guid>
@@ -16,7 +58,6 @@ Llama-3-8B与ORPO微调模型相比，在回答中文问题时表现更好，尤
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Llama3%E5%BE%AE%E8%B0%83%E4%B8%AD%E6%96%87%E7%89%88%23&amp;extparam=%23Llama3%E5%BE%AE%E8%B0%83%E4%B8%AD%E6%96%87%E7%89%88%23"><span class="surl-text">#Llama3微调中文版#</span></a> <br /><br />为了减少 Llama 3-8B “中文问题英文回答” 和混合中英文回答的问题。<br /><br />有人通过 ORPO 微调出了<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Llama3-8B-Chinese-Chat%23&amp;extparam=%23Llama3-8B-Chinese-Chat%23"><span class="surl-text">#Llama3-8B-Chinese-Chat#</span></a>模型。<br /><br />与 Llama-3-8B-Insturct 相比，新模型对中文提示产生更好的响应，而且在逻辑、编码、数学和写作方面表现出色。<br /><br />此外，新模型在回答中大量减少了表情符号的使用，使得回应更加正式。<br /><br />Hugging Face:<a href="https://huggingface.co/shenzhi-wang/Llama3-8B-Chinese-Chat"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hp0hxf99xij30xe122asa.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hp0hxjofmzj30wo0ke7ed.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hp0hxjob1dj30wc108dx9.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hp0hxjphzrj30wo17knis.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hp0hxn9qroj30wo12iwqu.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hp0hxnlgkdj30wk18iagl.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Tue, 23 Apr 2024 01:14:03 GMT</pubDate>
-<pubDate>Tue, 23 Apr 2024 01:14:03 GMT</pubDate>
 </item>
 <item>
 <title>#Midjourney新功能#：随机生成更多风格Midjourney 刚刚发布了一项新功能，可让您“随机探索更多视觉风格”。它被称为#Style Random#，要使用它，只需在提示的末...</title>
@@ -24,14 +65,12 @@ Llama-3-8B与ORPO微调模型相比，在回答中文问题时表现更好，尤
 <guid>https://weibo.com/6105753431/Ob0JCxBSO</guid>
 <content:encoded><![CDATA[
 <div> 随机探索、视觉风格、新功能、Midjourney、随机样式引用、对比图、图像URL、功能使用、添加到提示中
-<br>
+<br />
 Midjourney 刚刚发布了一项新功能，名为“随机探索更多视觉风格”。用户只需在提示末尾添加“--sref random”，即可利用该功能，每次为提示添加一个随机样式引用。用户喜欢某一风格时，还可将图像URL作为--sref URL添加到提示中。新功能增加了视觉探索的乐趣，提供更多风格选择，可通过对比图更直观地了解效果。愿意尝试不同风格的用户可利用这一功能进行创作。Midjourney借此增强了用户体验，为用户提供更多可能性。总结：Midjourney发布了可随机探索更多视觉风格的新功能，用户可添加--sref random到提示末尾使用，还可将喜欢的风格图像URL添加到提示中，为用户提供更多风格选择和创作可能。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Midjourney%E6%96%B0%E5%8A%9F%E8%83%BD%23&amp;extparam=%23Midjourney%E6%96%B0%E5%8A%9F%E8%83%BD%23"><span class="surl-text">#Midjourney新功能#</span></a>：随机生成更多风格<br /><br />Midjourney 刚刚发布了一项新功能，可让您“随机探索更多视觉风格”。<br /><br />它被称为<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Style+Random%23&amp;extparam=%23Style+Random%23"><span class="surl-text">#Style Random#</span></a>，要使用它，只需在提示的末尾添加“--sref random”即可。<br /><br />它基本上每次都会为您的提示添加一个随机样式引用。<br /><br />以下是一些新功能使用前后对比图。<br /><br />PS：如果你喜欢某一风格，还可以复制图像的 URL 并将其作为 --sref URL 添加到提示中~<img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hp0h4ymbv5j31uo11ie81.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hp0h4y00h5j31uo11i1d9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hp0h4y2j11j31uo11iayi.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Tue, 23 Apr 2024 00:51:43 GMT</pubDate>
-<pubDate>Tue, 23 Apr 2024 00:51:43 GMT</pubDate>
 </item>
-
 <item>
 <title>#超难基准测试AI分差拉开了# 如果试题太简单，学霸和学渣都能考90分，拉不开差距……随着Claude 3、Llama 3甚至之后GPT-5等更强模型发布，业界急需一款更难、更...</title>
 <link>https://weibo.com/6105753431/OaW7Ej7Eo</link>

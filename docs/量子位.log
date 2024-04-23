@@ -4177,3 +4177,18 @@ Summarized using GPT-3.5-turbo
 Append: [#Midjourney新功能#：随机生成更多风格Midjourney 刚刚发布了一项新功能，可让您“随机探索更多视觉风格”。它被称为#Style Random#，要使用它，只需在提示的末...](https://weibo.com/6105753431/Ob0JCxBSO)
 append_entries: 2
 Finish: 2024-04-23 02:22:45.552888
+------------------------------------------------------
+Started: 2024-04-23 04:14:04.077289
+Existing_entries: 513
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 194
+Summarized using GPT-3.5-turbo
+Append: [#Adobe开源视频超分辨率模型# 支持8倍放大图像 Adobe 推出 VideoGigaGAN。它是一种新的生成式 VSR（视频超分辨率） 模型，可以在 8 倍放大视频的情形下仍保证画...](https://weibo.com/6105753431/Ob226on1n)
+Token length: 280
+Summarized using GPT-3.5-turbo
+Append: [#一键换衣虚拟试穿神器# 来自韩国的研究团队推出了一个基于图像的虚拟试穿新方法。用这个新方法#IDM-VTON#，老黄轻松换上东北大花，史密斯也换风格了。[doge]据...](https://weibo.com/6105753431/Ob1MJiWiZ)
+Token length: 642
+Summarized using GPT-3.5-turbo
+Append: [#RISCV国际基金会最新任命# 北大教授谢涛、达摩院陈炜 RISC-V 国际基金会正式官宣，由北大教授谢涛出任人工智能/机器学习特别兴趣组的主席，达摩院生态总监陈炜...](https://weibo.com/6105753431/Ob1xYq5A9)
+append_entries: 3
+Finish: 2024-04-23 04:14:22.422722
