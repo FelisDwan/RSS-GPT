@@ -4216,3 +4216,18 @@ Existing_entries: 520
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-23 08:14:18.035878
+------------------------------------------------------
+Started: 2024-04-23 10:11:42.500246
+Existing_entries: 520
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [#首个开源多模态多任务Agent# 首个完全开源的，多模态、多任务通用模型#JAT#在抱抱脸正式推出。JAT 是一个基于 Transformer 的 Agent，能够玩视频游戏、控制机器...](https://weibo.com/6105753431/Ob3D26bxa)
+Token length: 320
+Summarized using GPT-3.5-turbo
+Append: [#人人可参与的大模型评测# 关于Llama 3，又有测试结果新鲜出炉——大模型评测社区LMSYS发布了一份大模型排行榜单，Llama 3位列第五，英文单项与GPT-4并列第一。...](https://weibo.com/6105753431/Ob36a2mRR)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [#Llama3上下文窗口翻倍# 完全开源 HyperWriteAI 的 CEO 宣布，自己将 Llama-3-8B 的上下文窗口翻了一番（8k→16K)。目前该版本已在抱抱脸开源~此外，他还在评论...](https://weibo.com/6105753431/Ob31Tydd1)
+append_entries: 3
+Finish: 2024-04-23 10:12:02.142267
