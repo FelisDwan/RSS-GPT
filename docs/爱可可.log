@@ -6071,3 +6071,21 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-23 12:21:39.547057
+------------------------------------------------------
+Started: 2024-04-23 14:10:55.242241
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1060
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Memory-based Adapters for Online 3D Scene Perception》(CVPR 2024) GitHub: github.com/xuxw98/Online3D [fig4]《IPoD: Implicit Field ...](https://weibo.com/1402400261/Ob5Ej7NJX)
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [【jemma：用 AI 代理来将想法转化为代码，进而创建 web 原型】'jemma - jemma & her ai agents that build software' GitHub: github.com/tolitius/jemma #开源#...](https://weibo.com/1402400261/Ob5CTkVOM)
+Token length: 157
+Summarized using GPT-3.5-turbo
+Append: [【seemore：用 PyTorch 从头开始实现的视觉语言模型】'seemore - From scratch implementation of a vision language model in pure PyTorch' GitHub: github.co...](https://weibo.com/1402400261/Ob5xV0l2B)
+Token length: 255
+Summarized using GPT-3.5-turbo
+Append: [【Lumina-T2X: 基于大型扩散Transformer的流式文本到任意模态生成】’Lumina-T2X: Transform Text into Any Modality, Res. and Duration via Flow-based Large ...](https://weibo.com/1402400261/Ob5vHzQdr)
+append_entries: 4
+Finish: 2024-04-23 14:11:29.040315

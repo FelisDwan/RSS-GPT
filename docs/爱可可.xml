@@ -4,6 +4,75 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>几篇论文实现代码：《Memory-based Adapters for Online 3D Scene Perception》(CVPR 2024) GitHub: github.com/xuxw98/Online3D [fig4]《IPoD: Implicit Field ...</title>
+<link>https://weibo.com/1402400261/Ob5Ej7NJX</link>
+<guid>https://weibo.com/1402400261/Ob5Ej7NJX</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 3D场景感知、内存适配器、在线学习、3D对象重建、单RGB-D图像、隐式场学习、GANs、多用途Transformer代理、网页爬虫生成、时间序列预测
+
+总结:
+<br>
+《Memory-based Adapters for Online 3D Scene Perception》提出了一种基于内存的适配器方法，用于在线3D场景感知，通过将适配器与现有模型并列运行，实现增量学习和适应性调整。GitHub上提供了对应的实现代码，有助于研究人员理解并复现该方法。
+<br>
+《IPoD: Implicit Field Learning with Point Diffusion for Generalizable 3D Object Reconstruction from Single RGB-D Images》介绍了一种通过点扩散学习隐式场的方法，用于从单个RGB-D图像中重建三维对象，实现了泛化能力。GitHub上提供了代码，可供研究者使用和参考。
+<br>
+《The Unreasonable Ineffectiveness of the Deeper Layers》讨论了神经网络更深层次的不合理失效问题，通过消融实验发现深层模型的部分层次对网络性能贡献不大。GitHub上提供了名为PruneMe的代码库，研究人员可以探索这一现象。
+<br>
+《Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior》提出了一种基于文本引导的高质量3D肖像生成方法，利用金字塔表示和GANs先验知识。相关实现代码在GitHub上开源，可供研究者使用。
+<br>
+《Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent》介绍了一种多用途Transformer代理模型，具有广泛的应用潜力。研究者可以在GitHub上找到名为jat的实现代码，用于进一步研究和应用。
+<br>
+《AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation》提出了一种用于网页爬虫生成的渐进式理解网络代理模型AutoCrawler。相关实现代码已在GitHub上发布，可供研究人员使用和讨论。
+<br>
+《Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks》介绍了一种用于3D感知生成对抗网络的高斯喷涂解码器方法。GitHub上提供了名为gaussian_gan_decoder的实现代码，有助于研究人员进一步探索这一领域的技术。
+<br>
+《UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting》提出了一种基于语言增强的跨领域时间序列预测统一模型UniTime。相关实现代码已在GitHub上公开，供研究人员学习和使用。 <div>
+几篇论文实现代码：<br />《Memory-based Adapters for Online 3D Scene Perception》(CVPR 2024) GitHub: github.com/xuxw98/Online3D [fig4]<br />《IPoD: Implicit Field Learning with Point Diffusion for Generalizable 3D Object Reconstruction from Single RGB-D Images》(CVPR 2024) GitHub: github.com/yushuang-wu/IPoD [fig5]<br />《The Unreasonable Ineffectiveness of the Deeper Layers》(2024) GitHub: github.com/arcee-ai/PruneMe<br />《Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior》(2024) GitHub: github.com/oneThousand1000/Portrait3D<br />《Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent》(2024) GitHub: github.com/huggingface/jat [fig1]<br />《AutoCrawler: A Progressive Understanding Web Agent for Web Crawler Generation》(2024) GitHub: github.com/EZ-hwh/AutoCrawler [fig2]<br />《Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks》(2024) GitHub: github.com/fraunhoferhhi/gaussian_gan_decoder [fig3]<br />《UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting》(2024) GitHub: github.com/liuxu77/UniTime<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp126j9b1xj20zi0wsgv3.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp126jvm2xj21dt0r0k14.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp12ajpoczj21ba0cfth8.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp12la564oj21lv0hktw7.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp12u2poq2j21r50hxdqu.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 23 Apr 2024 13:22:21 GMT</pubDate>
+<pubDate>Tue, 23 Apr 2024 13:22:21 GMT</pubDate>
+</item>
+<item>
+<title>【jemma：用 AI 代理来将想法转化为代码，进而创建 web 原型】'jemma - jemma &amp; her ai agents that build software' GitHub: github.com/tolitius/jemma #开源#...</title>
+<link>https://weibo.com/1402400261/Ob5CTkVOM</link>
+<guid>https://weibo.com/1402400261/Ob5CTkVOM</guid>
+<content:encoded><![CDATA[
+<div> GitHub, jemma, AI 代理, 想法转化, 代码, 创建 web 原型
+
+<br><br>总结:
+文章介绍了一个名为jemma的项目，利用AI代理来将想法转化为代码，从而快速创建web原型。jemma项目的GitHub链接为github.com/tolitius/jemma。通过jemma和她的AI代理，能够更高效地构建软件。 <div>
+【jemma：用 AI 代理来将想法转化为代码，进而创建 web 原型】'jemma - jemma &amp; her ai agents that build software' GitHub: github.com/tolitius/jemma <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp12vzdg7qj213d0u0aes.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 23 Apr 2024 13:18:52 GMT</pubDate>
+<pubDate>Tue, 23 Apr 2024 13:18:52 GMT</pubDate>
+</item>
+<item>
+<title>【seemore：用 PyTorch 从头开始实现的视觉语言模型】'seemore - From scratch implementation of a vision language model in pure PyTorch' GitHub: github.co...</title>
+<link>https://weibo.com/1402400261/Ob5xV0l2B</link>
+<guid>https://weibo.com/1402400261/Ob5xV0l2B</guid>
+<content:encoded><![CDATA[
+<div> 视觉语言模型、PyTorch、从头开始、GitHub、实现、纯净、AviSoori1x、代码、深度学习、项目<br>
+<br>
+实现了一个视觉语言模型，使用PyTorch从头开始编写，GitHub上有相关项目，由AviSoori1x创建和维护。该模型是基于深度学习的，并且在实现过程中保持了纯净的代码风格。通过该项目，可以学习如何利用PyTorch来构建和训练视觉语言模型。 <div>
+【seemore：用 PyTorch 从头开始实现的视觉语言模型】'seemore - From scratch implementation of a vision language model in pure PyTorch' GitHub: github.com/AviSoori1x/seemore <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp12jm7010j20v70u00wo.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 23 Apr 2024 13:06:37 GMT</pubDate>
+<pubDate>Tue, 23 Apr 2024 13:06:37 GMT</pubDate>
+</item>
+<item>
+<title>【Lumina-T2X: 基于大型扩散Transformer的流式文本到任意模态生成】’Lumina-T2X: Transform Text into Any Modality, Res. and Duration via Flow-based Large ...</title>
+<link>https://weibo.com/1402400261/Ob5vHzQdr</link>
+<guid>https://weibo.com/1402400261/Ob5vHzQdr</guid>
+<content:encoded><![CDATA[
+<div> 大型扩散Transformer、流式文本、任意模态生成、Lumina-T2X、GitHub、模型、生成、文本、基于、任意<br>
+<br>
+Lumina-T2X是一个基于大型扩散Transformer的模型，可将文本转换为任意模态。该模型在GitHub上有开源代码，可以实现文本到任意模态的生成任务。通过流式技术，Lumina-T2X能够生成多种模态的内容，使得文本生成更加灵活多样化。其特点在于利用大型扩散Transformer模型，实现高质量的文本到模态的转换，为生成任务提供了新的思路和方法。 <div>
+【Lumina-T2X: 基于大型扩散Transformer的流式文本到任意模态生成】’Lumina-T2X: Transform Text into Any Modality, Res. and Duration via Flow-based Large Diffusion Transformer - Lumina-T2X is a model for Text to Any Modality Generation' GitHub: github.com/Alpha-VLLM/Lumina-T2X <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp12dxsn52j21ef0u0qkr.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 23 Apr 2024 13:01:10 GMT</pubDate>
+<pubDate>Tue, 23 Apr 2024 13:01:10 GMT</pubDate>
+</item>
 
 <item>
 <title>【PyPDFForm：Python 3的免费开源 PDF 表单处理库，提供了填充 PDF 表单、创建表单小部件和其他常见实用程序的功能】’PyPDFForm - The Python library for PDF ...</title>
