@@ -5969,3 +5969,30 @@ Summarized using GPT-3.5-turbo
 Append: [早！[太阳] #早安# [图片]](https://weibo.com/1402400261/OaZe2j0sM)
 append_entries: 10
 Finish: 2024-04-22 22:12:45.383598
+------------------------------------------------------
+Started: 2024-04-23 00:51:17.615536
+Existing_entries: 1010
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 459
+Summarized using GPT-3.5-turbo
+Append: [【LLM金融市场应用】- LLM擅长建模词语序列，但直接应用到价格或交易序列上的效果并不突出。因为金融时间序列噪声大且信息含量低，而语言序列具有固有的语法结构...](https://weibo.com/1402400261/OaZGTvbad)
+Token length: 66
+Summarized using GPT-3.5-turbo
+Append: [【基于扩散模型的视频生成】《Diffusion Models for Video Generation | Lil'Log》 网页链接 #机器学习# #人工智能# [图片][图片][图片][图片][图片][图片][图片...](https://weibo.com/1402400261/OaZFUnroQ)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1384期)：面向网络爬虫生成的渐进理解网络Agent、作为Copilot的大型语言模型在Lean定理证明中的应用、检索增强生成的高效知识缓存、通过视频生成与3D...](https://weibo.com/1402400261/OaZDde92j)
+Token length: 153
+Summarized using GPT-3.5-turbo
+Append: [[CV] Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models 网页链接 通过视觉token化实现多模态语言模型的局部化视觉理解和...](https://weibo.com/1402400261/OaZyLCXxO)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [[CL] Characterizing LLM Abstention Behavior in Science QA with Context Perturbations 网页链接 通过一个简单的自动联想任务探究了人工神经网络学习是训练项...](https://weibo.com/1402400261/OaZw9clS0)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [[CL] Characterizing LLM Abstention Behavior in Science QA with Context Perturbations 网页链接 通过上下文扰动研究了语言模型在科学问答任务中的弃权行为，...](https://weibo.com/1402400261/OaZu1oTke)
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [[LG] Mapping Social Choice Theory to RLHF 网页链接 通过比较社会选择理论和RLHF在问题设置上的差异，提出了调整后的公理，并讨论了“失真”等概念在分析RLHF...](https://weibo.com/1402400261/OaZrV7pB7)
+append_entries: 7
+Finish: 2024-04-23 00:51:56.030168
