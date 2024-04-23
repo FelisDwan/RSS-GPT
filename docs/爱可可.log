@@ -6113,3 +6113,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/Ob5X4qzPU)
 append_entries: 0
 Finish: 2024-04-23 20:11:32.839017
+------------------------------------------------------
+Started: 2024-04-23 22:11:59.239989
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 198
+Summarized using GPT-3.5-turbo
+Append: [[CL] Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals 网页链接 通过全面分析大语言模型...](https://weibo.com/1402400261/Ob8VLET8f)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [[CL] A Survey on Self-Evolution of Large Language Models 网页链接 本文通过建立自我进化的概念框架，全面调研语言模型的自主进化方法，分析现有挑战并指出未...](https://weibo.com/1402400261/Ob8TydxgV)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [[CL] Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone 网页链接 通过训练数据优化创新打破常规模型缩放律，实现了一个性能强劲...](https://weibo.com/1402400261/Ob8QF9tzq)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [提出DataTune方法，通过改造现有数据集生成更高质量的任务定制合成训练数据，并在BIG-Bench任务上验证了其有效性。 - 转发 @爱可可-爱生活:&ensp;[CL]《Better S...](https://weibo.com/1402400261/Ob8O97cur)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Better Synthetic Data by Retrieving and Transforming Existing Datasets》S Gandhi, R Gala, V Viswanathan, T Wu, G Neubig [CMU] (2024) 网页链接 #...](https://weibo.com/1402400261/Ob8O4zvfd)
+Token length: 232
+Summarized using GPT-3.5-turbo
+Append: [提出指令层次结构和自动生成训练数据的方法，可以显著提高大型语言模型对提示注入等攻击的鲁棒性，使其更安全可控，仅对能力造成轻微影响。 - 转发 @爱可可-爱生...](https://weibo.com/1402400261/Ob8KY3Qt8)
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [[CL]《The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions》E Wallace, K Xiao, R Leike, L Weng, J Heidecke, A Beutel [OpenAI...](https://weibo.com/1402400261/Ob8KVlVRj)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [通过对基本人类情感进行量化建模，并利用自监督学习算法及人机互动使LLM内化伦理约束，展示了LLM在同理心表达及原则决策方面的潜力。 - 转发 @爱可可-爱生活:&en...](https://weibo.com/1402400261/Ob8Gmau69)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Modeling Emotions and Ethics with Large Language Models》E Y. Chang [Stanford University] (2024) 网页链接 #机器学习##人工智能##论文# [图片][图片...](https://weibo.com/1402400261/Ob8GisJlM)
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [提出MOLE方法，通过可学习门控函数实现LoRA层级权重控制，以最小计算开销实现多个LoRA的高效、动态组合，在保留各LoRA个性的同时发挥集成效应，在多任务上的泛化...](https://weibo.com/1402400261/Ob8Fv99rh)
+append_entries: 10
+Finish: 2024-04-23 22:12:45.292747
