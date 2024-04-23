@@ -6035,3 +6035,27 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-23 06:15:14.182317
+------------------------------------------------------
+Started: 2024-04-23 08:14:19.242655
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [【PyPDFForm：Python 3的免费开源 PDF 表单处理库，提供了填充 PDF 表单、创建表单小部件和其他常见实用程序的功能】’PyPDFForm - The Python library for PDF ...](https://weibo.com/1402400261/Ob2MKhIpq)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [【AlwaysReddy：使用热键控制的简约 AI 助手】’AlwaysReddy - a LLM voice assistant that is always just a hotkey away.' GitHub: github.com/ILikeAI/Always...](https://weibo.com/1402400261/Ob2K570f5)
+Token length: 185
+Summarized using GPT-3.5-turbo
+Append: [【WebLlama：基于 Llama3 的能浏览网页、可以遵循指令并与用户交互的Agent】’WebLlama - Llama-3 agents that can browse the web by following instructions a...](https://weibo.com/1402400261/Ob2J50wdo)
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [【Empirical：快速测试和评估 LLM、提示和其他配置，适用于应用的所有重要场景】’Empirical - Test and evaluate LLMs, prompts and other configuration, acro...](https://weibo.com/1402400261/Ob2HS0xYu)
+Token length: 349
+Summarized using GPT-3.5-turbo
+Append: [【ai-diagram-generator：AI 流程图生成器，使用 LlamaIndex 和 Vercel AI SDK 构建的 AI 图表生成器，可以根据给定的主题生成图表，并在生成过程中实时流传输部...](https://weibo.com/1402400261/Ob2GItN9C)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [【xrem：使用 Rust 和 Svelte 构建的跨平台本地搜索工具，用于在本地记录和搜索在任何计算机上查看的所有内容】’xrem - (Cross-Platform) An open source appro...](https://weibo.com/1402400261/Ob2G6aCWZ)
+append_entries: 6
+Finish: 2024-04-23 08:14:39.581346

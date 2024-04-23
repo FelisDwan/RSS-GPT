@@ -2970,3 +2970,9 @@ Summarized using GPT-3.5-turbo
 Append: [分享 GitHub 上一份精心收集和梳理中文 LLM 相关集合 Awesome Chinese LLM。不仅包含了多个垂直领域（如医疗、法律、金融、教育、科技、电商、网络安全和农业）...](https://weibo.com/5722964389/Ob1Y34slk)
 append_entries: 1
 Finish: 2024-04-23 06:15:24.822483
+------------------------------------------------------
+Started: 2024-04-23 08:14:39.644931
+Existing_entries: 61
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-04-23 08:14:41.758481
