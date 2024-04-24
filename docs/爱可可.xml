@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>《爱可可微博热门分享(4.24)》 爱可可微博热门分享(4.24) [图片]</title>
 <link>https://weibo.com/1402400261/ObfCTywEh</link>
@@ -11,14 +12,12 @@
 <content:encoded><![CDATA[
 <div> 爱可可 微博 热门 分享 4.24
 
-总结:<br>
+总结:<br />
 文章介绍了爱可可微博上4.24日热门分享的内容。包括各种话题和讨论，引起了广泛关注。报道内容生动有趣，深受网友喜爱。帖文更新频繁且内容多样，涵盖了各种热门话题。网友们在评论中互相交流，形成了热烈的讨论氛围。总体来看，爱可可微博在4.24日的热门分享中表现出色。 <div>
 《爱可可微博热门分享(4.24)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405026816795738680"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(4.24)</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp2b1j5enqj20rs0fmdlw.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 24 Apr 2024 14:46:20 GMT</pubDate>
-<pubDate>Wed, 24 Apr 2024 14:46:20 GMT</pubDate>
 </item>
-
 <item>
 <title>几篇论文实现代码：《Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video》(ICLR 2024) GitHub: github.com/shashankvkt...</title>
 <link>https://weibo.com/1402400261/Obc3hxSHU</link>
@@ -12851,19 +12850,6 @@ StreamMultiDiffusion是一种新型实时交互式文本到图像生成框架，
 [CL] Unpacking Tokenization: Evaluating Text Compression and its Correlation with Model Performance  <br /><a href="https://arxiv.org/abs/2403.06265"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />深入探讨了字节对比编码(BPE)算法中压缩的重要性，并指出其实为一个潜在的0-gram语言模型。研究通过控制BPE的训练文档量，从100万份文档到零文档(即字符级的分词器)，并分别基于这些分词器预训练英文语言模型，在多个任务上进行微调。结果显示，分词器的压缩能力与模型的下游任务表现存在明显的相关性，压缩性能更好的分词器能显著提高模型整体性能。此外，该相关性在生成任务上更为显著，并且小模型比大模型更依赖高质量的分词。通过在土耳其语上的实验验证，确认了这一结论不仅适用于英语，而是具有跨语言的普适性。研究表明，构建更好的压缩分词器是提升语言模型性能的有效途径。<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnuq42bb6ij213a1j0kb3.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnuq42d1ooj21580j2jur.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 22:02:46 GMT</pubDate>
-</item>
-<item>
-<title>针对大规模语言模型(如ChatGPT)在科学同行评审中的应用，提出一种新的分布式GPT量化框架，通过极大似然估计结合特定形容词的使用频率，有效地监测并估计信息生态...</title>
-<link>https://weibo.com/1402400261/O5wdcqM4V</link>
-<guid>https://weibo.com/1402400261/O5wdcqM4V</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 大规模语言模型、科学同行评审、分布式GPT量化、极大似然估计、特定形容词、信息生态系统、AI修改内容、使用频率、计算效率、高风险生态系统
-
-总结:<br /><br />
-这篇文章提出了一种新的分布式GPT量化框架，结合极大似然估计和特定形容词的使用频率，可以有效监测和估计大规模语言模型在信息生态系统中修改或生成内容的比例。这种方法计算效率高于现有方法，为理解和管理LLM在高风险信息生态系统中的影响提供了重要工具。作者通过在AI会议同行评审中的案例研究，展示了这种框架在实际应用中的效果，来自Stanford University & NEC Labs的研究团队对此进行了深入研究。 <div>
-针对大规模语言模型(如ChatGPT)在科学同行评审中的应用，提出一种新的分布式GPT量化框架，通过极大似然估计结合特定形容词的使用频率，有效地监测并估计信息生态系统中AI修改或生成的内容比例，计算效率远超现有方法，对于理解和管理LLM在高风险信息生态系统中的影响提供了重要工具。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews》W Liang, Z Izzo, Y Zhang, H Lepp... [Stanford University &amp; NEC Labs] (2024) <a href="https://arxiv.org/abs/2403.07183"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupehnp17j20rm1beamr.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupei7riyj20w40te7bm.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnupeildg5j21s60wyn62.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnupeit8cej20vy0v4q9s.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupyvs56mj20iz0h2wgv.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnupyvs6pij20j10f9taj.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnupyvsbv7j20iz0g50ut.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnupyvs1ouj20iz0bj759.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupyvrzpjj20iz0cjab9.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 21:57:54 GMT</pubDate>
 </item>
 </channel>
 </rss>
