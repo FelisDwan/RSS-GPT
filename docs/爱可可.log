@@ -6167,3 +6167,12 @@ Summarized using GPT-3.5-turbo
 Append: [[CV] Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer 网页链接 通过将视觉重定位原理应用于增量式...](https://weibo.com/1402400261/Ob8Ye9ylP)
 append_entries: 4
 Finish: 2024-04-24 00:51:25.263411
+------------------------------------------------------
+Started: 2024-04-24 02:21:02.658194
+Existing_entries: 1004
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [【用Pytorch从头实现Transformer】《Creating a Transformer From Scratch - Part One: The Attention Mechanism | Mixed Precision》 网页链接《Creating a Tra...](https://weibo.com/1402400261/Oba0q9CiJ)
+append_entries: 1
+Finish: 2024-04-24 02:21:10.079786

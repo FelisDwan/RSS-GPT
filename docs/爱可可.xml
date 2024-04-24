@@ -5,16 +5,29 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>【用Pytorch从头实现Transformer】《Creating a Transformer From Scratch - Part One: The Attention Mechanism | Mixed Precision》 网页链接《Creating a Tra...</title>
+<link>https://weibo.com/1402400261/Oba0q9CiJ</link>
+<guid>https://weibo.com/1402400261/Oba0q9CiJ</guid>
+<content:encoded><![CDATA[
+<div> 注意机制、混合精度、Transformer、Pytorch、实现、编程代码、模型、训练、优化、注意力权重
+
+总结：<br><br>这篇文章通过两部分介绍了如何使用Pytorch从头实现Transformer模型。第一部分讨论了注意机制的实现，解释了注意力权重的计算过程和实现细节，并介绍了混合精度优化技术。第二部分详细讲解了Transformer模型的其余部分的实现，包括编码器和解码器的构建，以及模型的训练和优化过程。通过编写Python代码，作者演示了如何使用Pytorch构建和训练Transformer模型，帮助读者更好地理解这一先进的神经网络结构。整个教程涵盖了从基本概念到实际编程代码的全过程，为想要深入了解Transformer的研究人员提供了很好的参考。 <div>
+【用Pytorch从头实现Transformer】<br />《Creating a Transformer From Scratch - Part One: The Attention Mechanism | Mixed Precision》 <a href="https://benjaminwarner.dev/2023/07/01/attention-mechanism"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />《Creating a Transformer From Scratch - Part Two: The Rest of the Transformer | Mixed Precision》 <a href="https://benjaminwarner.dev/2023/07/28/rest-of-the-transformer"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <br /> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp1m81zl39j20vh0u0af0.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp1m8cpnxqj210q0u0dko.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 24 Apr 2024 00:27:49 GMT</pubDate>
+<pubDate>Wed, 24 Apr 2024 00:27:49 GMT</pubDate>
+</item>
+
+<item>
 <title>Demo: 网页链接 Models: 网页链接 - 转发 @爱可可-爱生活:&amp;ensp;[CL] Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone 网页链...</title>
 <link>https://weibo.com/1402400261/Ob95n2PNr</link>
 <guid>https://weibo.com/1402400261/Ob95n2PNr</guid>
 <content:encoded><![CDATA[
 <div> 关键词: 训练数据、优化、创新、模型、缩放律、性能强劲、安全可控、体积小巧、手机、语言模型
 
-通过训练数据的优化和创新，这篇技术报告介绍了一种能在手机上运行的高性能、安全可控、体积小巧的语言模型。这个模型突破了常规模型的缩放限制，为语言模型的发展带来了新的可能性。这种技术可以让用户在手机上使用强大的语言模型，无需依赖云端服务，提高了数据安全性和隐私保护。这个创新的模型设计将手机变成了语言处理的利器，为用户提供更好的使用体验和便利性。整体而言，这项技术为移动设备上的语言处理技术带来了重大突破，为未来的发展带来了新的可能性。<br><br>总结: 该技术报告介绍了一种能在手机上运行的高性能语言模型，通过优化训练数据和创新设计，实现了模型的性能强劲、安全可控、体积小巧的特点，突破了常规模型的缩放限制。 <div>
+通过训练数据的优化和创新，这篇技术报告介绍了一种能在手机上运行的高性能、安全可控、体积小巧的语言模型。这个模型突破了常规模型的缩放限制，为语言模型的发展带来了新的可能性。这种技术可以让用户在手机上使用强大的语言模型，无需依赖云端服务，提高了数据安全性和隐私保护。这个创新的模型设计将手机变成了语言处理的利器，为用户提供更好的使用体验和便利性。整体而言，这项技术为移动设备上的语言处理技术带来了重大突破，为未来的发展带来了新的可能性。<br /><br />总结: 该技术报告介绍了一种能在手机上运行的高性能语言模型，通过优化训练数据和创新设计，实现了模型的性能强劲、安全可控、体积小巧的特点，突破了常规模型的缩放限制。 <div>
 Demo: <a href="https://huggingface.co/chat/models/microsoft/Phi-3-mini-4k-instruct/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> Models: <a href="https://huggingface.co/models?other=phi3&amp;sort=trending&amp;search=microsoft"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL] Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone  <br /><a href="https://arxiv.org/abs/2404.14219"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>   <br />通过训练数据优化创新打破常规模型缩放律，实现了一个性能强劲、安全可控、体积小巧到能运行在手机上的语言模型。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1h4f3y56j20w813edtx.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1h4fc944j21lm13ytiv.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1h4fvgzej21m40wogss.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Tue, 23 Apr 2024 22:07:16 GMT</pubDate>
 <pubDate>Tue, 23 Apr 2024 22:07:16 GMT</pubDate>
 </item>
 <item>
@@ -24,11 +37,10 @@ Demo: <a href="https://huggingface.co/chat/models/microsoft/Phi-3-mini-4k-instru
 <content:encoded><![CDATA[
 <div> MergeKit、Evolutionary Model Merging、Arcee、模型性能优化、评估任务、优化目标、模型融合配置、最佳融合方案、计算后端、模型融合研究应用
 
-<br><br>总结:
+<br /><br />总结:
 Arcee公司推出了新的MergeKit工具，实现了进化模型融合技术，用户可以针对特定能力或品质进行模型融合。进化模型融合可以通过定义评估任务和优化目标自动搜索最佳方案，简化了融合过程。使用示例展示了模型融合配置及运行融合过程，找到了平衡不同特性的最佳融合方案。Arcee计划集成这一技术在产品中，提供计算后端支持，推动模型融合研究和应用，邀请用户提交研究以共同推进领域发展。 <div>
 【用 Evolutionary Model Merging 优化模型性能】<br />- Arcee公司推出了新的MergeKit工具，实现了开创性的进化模型融合技术，让用户可以针对特定的能力或品质进行模型融合。   <br />- 通过定义评估任务和优化目标，进化模型融合可以自动搜索出符合要求的模型融合方案。不再需要手工尝试大量融合才找出最佳方案。   <br />- 文中提供了详细的示例，包括定义空间推理和回复格式评估任务，编写模型融合配置，运行融合过程。   <br />- 融合过程会自动评估大量模型，找到评估指标最高的那个作为最终模型。   <br />- 文中融合了3个不同特性的7B模型，优化回复格式和空间推理指标，找到了平衡二者的最佳融合方案。   <br />- 这一技术使得模型融合更简单可访问，用户只需定义需求就可以自动获得满足要求的融合模型。   <br />- Arcee计划在产品中集成这一技术，提供完整的计算后端，让用户无需自备GPU就可以使用模型融合。   <br />- 这项技术有望大大推动模型融合的研究和应用。Arcee邀请用户提交模型融合的创新研究，共同推进这一领域。<br />《Evolutionary Model Merging For All》 <a href="https://blog.arcee.ai/tutorial-tutorial-how-to-get-started-with-evolutionary-model-merging/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp1i3fat93j20u00ucwmj.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 23 Apr 2024 22:04:39 GMT</pubDate>
 <pubDate>Tue, 23 Apr 2024 22:04:39 GMT</pubDate>
 </item>
 <item>
@@ -36,16 +48,15 @@ Arcee公司推出了新的MergeKit工具，实现了进化模型融合技术，�
 <link>https://weibo.com/1402400261/Ob91AtPm4</link>
 <guid>https://weibo.com/1402400261/Ob91AtPm4</guid>
 <content:encoded><![CDATA[
-<div> 多模态自动可解释性Agent、LoRA专家混合、大语言模型建模情感和伦理、训练LLM处理指令、检索转换现有数据集合成数据<br>
-<br>
+<div> 多模态自动可解释性Agent、LoRA专家混合、大语言模型建模情感和伦理、训练LLM处理指令、检索转换现有数据集合成数据<br />
+<br />
 1. 多模态自动可解释性Agent和LoRA专家混合是重要推介内容，这表明了对于自动智能系统的需求越来越多元化。
 2. 用大语言模型建模情感和伦理方面的研究成果展示了人工智能在社会伦理方面的应用与潜力。
 3. 训练LLM用不同优先级层次化处理指令的方法可能为提高指令执行效率提供了新思路。
 4. 通过检索和转换现有数据集来更好地合成数据的技术，可以帮助提升数据的多样性和质量。 
-<br><br>总结: 提出了多种智能技术的研究成果和应用前景，展示了人工智能在多领域的潜力和可能性，对未来的智能系统发展具有重要启示意义。 <div>
+<br /><br />总结: 提出了多种智能技术的研究成果和应用前景，展示了人工智能在多领域的潜力和可能性，对未来的智能系统发展具有重要启示意义。 <div>
 今日推介(第1385期)：多模态自动可解释性Agent、LoRA专家混合、用大语言模型建模情感和伦理、训练LLM用不同优先级层次化处理指令、通过检索和转换现有数据集来更好地合成数据 公·众·号：爱可可爱生活 爱可可AI前沿推介(12.19) <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp1hvw7uv3j20se0zwq80.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp1hvyu2kij20ls0q2djh.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp1hw2scn6j20tw0r0gp1.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp1hwbn87xj21400m6jxb.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp1hweu7s8j20sq1bkgv1.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 23 Apr 2024 21:57:57 GMT</pubDate>
 <pubDate>Tue, 23 Apr 2024 21:57:57 GMT</pubDate>
 </item>
 <item>
@@ -55,15 +66,13 @@ Arcee公司推出了新的MergeKit工具，实现了进化模型融合技术，�
 <content:encoded><![CDATA[
 <div> Scene Coordinate Reconstruction, Posing, Image Collections, Incremental Learning, Relocalizer, 视觉重定位原理, 隐式场景表示, 相机姿态估计, 特征匹配, 姿态先验
 
-<br><br>
+<br /><br />
 总结:
 本文提出了一种通过增量学习重定位器来实现图像集合的姿态重建技术。该方法无需特征匹配或姿态先验，仅通过学习隐式场景表示和估计相机姿态来实现图像的姿态确定。通过将视觉重定位原理应用于结构化运动流程，实现了高效准确的姿态估计，为场景重建和图像处理领域提供了新的技术思路。 <div>
 [CV] Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer  <br /><a href="https://arxiv.org/abs/2404.14351"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />通过将视觉重定位原理应用于增量式结构化运动流程，实现仅从图像学习隐式场景表示并估计相机姿态，无需特征匹配或姿态先验。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1hnrl3kmj20s218wqfx.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp1hns6ywyj21p417c1kx.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1hnsugacj214a0z8wu4.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Tue, 23 Apr 2024 21:49:40 GMT</pubDate>
-<pubDate>Tue, 23 Apr 2024 21:49:40 GMT</pubDate>
 </item>
-
 <item>
 <title>[CL] Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals 网页链接 通过全面分析大语言模型...</title>
 <link>https://weibo.com/1402400261/Ob8VLET8f</link>
@@ -12862,55 +12871,6 @@ MIMo是一个用于研究婴儿认知发展的平台，提供关键数据和功�
 【MIMo：用于婴儿认知发展研究的开源平台，提供分析婴儿认知发育的关键数据和功能】'MIMo - a platform for the research of the cognitive development of infants' GitHub: github.com/trieschlab/MIMo <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnu1c6ud7cj21bi0u0q89.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 07:45:42 GMT</pubDate>
-</item>
-<item>
-<title>【Local RAG：一个开源项目，使用 开源大预言模型 (LLM) 提取文件并进行检索增强生成 (RAG)，无需第三方或敏感数据，在本地保持匿名】'Local RAG - Ingest files...</title>
-<link>https://weibo.com/1402400261/O5qCu1PLb</link>
-<guid>https://weibo.com/1402400261/O5qCu1PLb</guid>
-<content:encoded><![CDATA[
-<div> 开源项目、本地保持匿名、Local RAG、LLM、RAG、文件提取、检索增强生成、无需第三方、敏感数据保护、GitHub<br /><br />总结:
-Local RAG是一个开源项目，使用开源大预言模型（LLM）来提取文件并进行检索增强生成（RAG），并且能够在本地网络中保持匿名。该项目无需第三方参与，能够有效保护敏感数据的安全。GitHub链接为github.com/jonfairbanks/local-rag。 <div>
-【Local RAG：一个开源项目，使用 开源大预言模型 (LLM) 提取文件并进行检索增强生成 (RAG)，无需第三方或敏感数据，在本地保持匿名】'Local RAG - Ingest files for retrieval augmented generation (RAG) with open-source Large Language Models (LLMs), all without 3rd parties or sensitive data leaving your network.' GitHub: github.com/jonfairbanks/local-rag <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnu1a5h6fxj21g10u0q5e.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:43:43 GMT</pubDate>
-</item>
-<item>
-<title>【NeMo Curator：一个 Python 库，用于创建和处理自然语言处理 (NLP) 数据集，以便训练大型语言模型 (LLM)。该库包含一些可扩展的模块，允许 NLP 研究人员从无标...</title>
-<link>https://weibo.com/1402400261/O5qAfojgc</link>
-<guid>https://weibo.com/1402400261/O5qAfojgc</guid>
-<content:encoded><![CDATA[
-<div> Python、库、自然语言处理、数据集、语言模型、模块、Web采集、文本、GPU加速、高质量
-
-<br /><br />总结:
-NeMo Curator是一个Python库，旨在帮助自然语言处理研究人员创建和处理数据集，用于训练大型语言模型。该库包含可扩展的模块，允许从无标注Web采集高质量文本，并提供GPU加速功能。通过NeMo Curator，研究人员可以更轻松地获取并处理文本数据，提高训练效率和模型性能。 <div>
-【NeMo Curator：一个 Python 库，用于创建和处理自然语言处理 (NLP) 数据集，以便训练大型语言模型 (LLM)。该库包含一些可扩展的模块，允许 NLP 研究人员从无标注 Web 采集高质量文本，并提供 GPU 加速功能】'NeMo Curator - Scalable toolkit for data curation' GitHub: github.com/NVIDIA/NeMo-Curator <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnu14hfnofj21ji0pgwln.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:38:13 GMT</pubDate>
-</item>
-<item>
-<title>【超赞列表合集，从各类Awesome list项目抓取而来】“Awesome List” 网页链接 [图片]</title>
-<link>https://weibo.com/1402400261/O5qwr6nHP</link>
-<guid>https://weibo.com/1402400261/O5qwr6nHP</guid>
-<content:encoded><![CDATA[
-<div> Awesome List、项目、合集、抓取、资源、开发、技术、网站、GitHub、工具
-<br />这篇文章是关于各类Awesome List项目的合集，内容涵盖了各种技术、开发资源，以及可在GitHub上找到的工具和网站。这些列表项目汇总了相关领域的优质资源，为开发者提供了丰富的参考和学习资料。从这些列表中可以获取各种有用的信息和工具，帮助开发者提升技能和解决问题。整理这些Awesome List的合集是为了让开发者更便捷地找到他们所需的资源和工具，提升开发效率和技术水平。
-<br />总结: 这篇文章介绍了关于各类Awesome List项目的合集，涵盖了各种技术、开发资源和工具，为开发者提供了丰富的学习和参考资料。整理这些资源的目的是为了帮助开发者更便捷地获取他们所需的信息，提升技术水平。 <div>
-【超赞列表合集，从各类Awesome list项目抓取而来】“Awesome List” <a href="https://asmen.icopy.site/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnu0tfohbrj217q0om0xl.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:28:49 GMT</pubDate>
-</item>
-<item>
-<title>【BrowserGym: 用于 Web 任务自动化的开源项目，提供 Chrome 浏览器环境的 Gym 集成，用于自动化各种网站和应用的任务】’BrowserGym: a Gym Environment for We...</title>
-<link>https://weibo.com/1402400261/O5qsp2NdU</link>
-<guid>https://weibo.com/1402400261/O5qsp2NdU</guid>
-<content:encoded><![CDATA[
-<div> BrowserGym, Gym环境, Web任务自动化, 开源项目, Chrome浏览器, 自动化任务, 网站, 应用<br />
-<br />
-总结:<br />
-BrowserGym是一个开源项目，提供了一个基于Chrome浏览器的Gym环境，用于自动化各种网站和应用的任务。用户可以通过BrowserGym在Chromium浏览器中进行Web任务自动化，提高效率并简化操作。这个项目在GitHub上有源代码，帮助用户更好地进行Web任务自动化。 <div>
-【BrowserGym: 用于 Web 任务自动化的开源项目，提供 Chrome 浏览器环境的 Gym 集成，用于自动化各种网站和应用的任务】’BrowserGym: a Gym Environment for Web Task Automation - BrowserGym, a gym environment for web task automation in the Chromium browser.' GitHub: github.com/ServiceNow/BrowserGym <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnu0kdzmk6j20yy0u0gp3.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:18:53 GMT</pubDate>
 </item>
 </channel>
 </rss>
