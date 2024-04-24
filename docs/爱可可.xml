@@ -5,17 +5,76 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>Demo: 网页链接 Models: 网页链接 - 转发 @爱可可-爱生活:&amp;ensp;[CL] Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone 网页链...</title>
+<link>https://weibo.com/1402400261/Ob95n2PNr</link>
+<guid>https://weibo.com/1402400261/Ob95n2PNr</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 训练数据、优化、创新、模型、缩放律、性能强劲、安全可控、体积小巧、手机、语言模型
+
+通过训练数据的优化和创新，这篇技术报告介绍了一种能在手机上运行的高性能、安全可控、体积小巧的语言模型。这个模型突破了常规模型的缩放限制，为语言模型的发展带来了新的可能性。这种技术可以让用户在手机上使用强大的语言模型，无需依赖云端服务，提高了数据安全性和隐私保护。这个创新的模型设计将手机变成了语言处理的利器，为用户提供更好的使用体验和便利性。整体而言，这项技术为移动设备上的语言处理技术带来了重大突破，为未来的发展带来了新的可能性。<br><br>总结: 该技术报告介绍了一种能在手机上运行的高性能语言模型，通过优化训练数据和创新设计，实现了模型的性能强劲、安全可控、体积小巧的特点，突破了常规模型的缩放限制。 <div>
+Demo: <a href="https://huggingface.co/chat/models/microsoft/Phi-3-mini-4k-instruct/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> Models: <a href="https://huggingface.co/models?other=phi3&amp;sort=trending&amp;search=microsoft"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL] Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone  <br /><a href="https://arxiv.org/abs/2404.14219"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>   <br />通过训练数据优化创新打破常规模型缩放律，实现了一个性能强劲、安全可控、体积小巧到能运行在手机上的语言模型。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1h4f3y56j20w813edtx.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1h4fc944j21lm13ytiv.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1h4fvgzej21m40wogss.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Tue, 23 Apr 2024 22:07:16 GMT</pubDate>
+<pubDate>Tue, 23 Apr 2024 22:07:16 GMT</pubDate>
+</item>
+<item>
+<title>【用 Evolutionary Model Merging 优化模型性能】- Arcee公司推出了新的MergeKit工具，实现了开创性的进化模型融合技术，让用户可以针对特定的能力或品质进行模...</title>
+<link>https://weibo.com/1402400261/Ob94j96sW</link>
+<guid>https://weibo.com/1402400261/Ob94j96sW</guid>
+<content:encoded><![CDATA[
+<div> MergeKit、Evolutionary Model Merging、Arcee、模型性能优化、评估任务、优化目标、模型融合配置、最佳融合方案、计算后端、模型融合研究应用
+
+<br><br>总结:
+Arcee公司推出了新的MergeKit工具，实现了进化模型融合技术，用户可以针对特定能力或品质进行模型融合。进化模型融合可以通过定义评估任务和优化目标自动搜索最佳方案，简化了融合过程。使用示例展示了模型融合配置及运行融合过程，找到了平衡不同特性的最佳融合方案。Arcee计划集成这一技术在产品中，提供计算后端支持，推动模型融合研究和应用，邀请用户提交研究以共同推进领域发展。 <div>
+【用 Evolutionary Model Merging 优化模型性能】<br />- Arcee公司推出了新的MergeKit工具，实现了开创性的进化模型融合技术，让用户可以针对特定的能力或品质进行模型融合。   <br />- 通过定义评估任务和优化目标，进化模型融合可以自动搜索出符合要求的模型融合方案。不再需要手工尝试大量融合才找出最佳方案。   <br />- 文中提供了详细的示例，包括定义空间推理和回复格式评估任务，编写模型融合配置，运行融合过程。   <br />- 融合过程会自动评估大量模型，找到评估指标最高的那个作为最终模型。   <br />- 文中融合了3个不同特性的7B模型，优化回复格式和空间推理指标，找到了平衡二者的最佳融合方案。   <br />- 这一技术使得模型融合更简单可访问，用户只需定义需求就可以自动获得满足要求的融合模型。   <br />- Arcee计划在产品中集成这一技术，提供完整的计算后端，让用户无需自备GPU就可以使用模型融合。   <br />- 这项技术有望大大推动模型融合的研究和应用。Arcee邀请用户提交模型融合的创新研究，共同推进这一领域。<br />《Evolutionary Model Merging For All》 <a href="https://blog.arcee.ai/tutorial-tutorial-how-to-get-started-with-evolutionary-model-merging/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp1i3fat93j20u00ucwmj.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 23 Apr 2024 22:04:39 GMT</pubDate>
+<pubDate>Tue, 23 Apr 2024 22:04:39 GMT</pubDate>
+</item>
+<item>
+<title>今日推介(第1385期)：多模态自动可解释性Agent、LoRA专家混合、用大语言模型建模情感和伦理、训练LLM用不同优先级层次化处理指令、通过检索和转换现有数据集来更...</title>
+<link>https://weibo.com/1402400261/Ob91AtPm4</link>
+<guid>https://weibo.com/1402400261/Ob91AtPm4</guid>
+<content:encoded><![CDATA[
+<div> 多模态自动可解释性Agent、LoRA专家混合、大语言模型建模情感和伦理、训练LLM处理指令、检索转换现有数据集合成数据<br>
+<br>
+1. 多模态自动可解释性Agent和LoRA专家混合是重要推介内容，这表明了对于自动智能系统的需求越来越多元化。
+2. 用大语言模型建模情感和伦理方面的研究成果展示了人工智能在社会伦理方面的应用与潜力。
+3. 训练LLM用不同优先级层次化处理指令的方法可能为提高指令执行效率提供了新思路。
+4. 通过检索和转换现有数据集来更好地合成数据的技术，可以帮助提升数据的多样性和质量。 
+<br><br>总结: 提出了多种智能技术的研究成果和应用前景，展示了人工智能在多领域的潜力和可能性，对未来的智能系统发展具有重要启示意义。 <div>
+今日推介(第1385期)：多模态自动可解释性Agent、LoRA专家混合、用大语言模型建模情感和伦理、训练LLM用不同优先级层次化处理指令、通过检索和转换现有数据集来更好地合成数据 公·众·号：爱可可爱生活 爱可可AI前沿推介(12.19) <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp1hvw7uv3j20se0zwq80.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp1hvyu2kij20ls0q2djh.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp1hw2scn6j20tw0r0gp1.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp1hwbn87xj21400m6jxb.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp1hweu7s8j20sq1bkgv1.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 23 Apr 2024 21:57:57 GMT</pubDate>
+<pubDate>Tue, 23 Apr 2024 21:57:57 GMT</pubDate>
+</item>
+<item>
+<title>[CV] Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer 网页链接 通过将视觉重定位原理应用于增量式...</title>
+<link>https://weibo.com/1402400261/Ob8Ye9ylP</link>
+<guid>https://weibo.com/1402400261/Ob8Ye9ylP</guid>
+<content:encoded><![CDATA[
+<div> Scene Coordinate Reconstruction, Posing, Image Collections, Incremental Learning, Relocalizer, 视觉重定位原理, 隐式场景表示, 相机姿态估计, 特征匹配, 姿态先验
+
+<br><br>
+总结:
+本文提出了一种通过增量学习重定位器来实现图像集合的姿态重建技术。该方法无需特征匹配或姿态先验，仅通过学习隐式场景表示和估计相机姿态来实现图像的姿态确定。通过将视觉重定位原理应用于结构化运动流程，实现了高效准确的姿态估计，为场景重建和图像处理领域提供了新的技术思路。 <div>
+[CV] Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer  <br /><a href="https://arxiv.org/abs/2404.14351"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />通过将视觉重定位原理应用于增量式结构化运动流程，实现仅从图像学习隐式场景表示并估计相机姿态，无需特征匹配或姿态先验。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1hnrl3kmj20s218wqfx.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp1hns6ywyj21p417c1kx.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1hnsugacj214a0z8wu4.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 23 Apr 2024 21:49:40 GMT</pubDate>
+<pubDate>Tue, 23 Apr 2024 21:49:40 GMT</pubDate>
+</item>
+
+<item>
 <title>[CL] Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals 网页链接 通过全面分析大语言模型...</title>
 <link>https://weibo.com/1402400261/Ob8VLET8f</link>
 <guid>https://weibo.com/1402400261/Ob8VLET8f</guid>
 <content:encoded><![CDATA[
 <div> 关键词: 大语言模型, 可持续发展目标, 理解, 支持, 预警, 建议, 负责任应用, 人机协同, 差异, 分析
 
-总结:<br><br>
+总结:<br /><br />
 本文通过全面分析大语言模型与人类在可持续发展目标的理解和支持方面的差异，提出了重要的预警和建议。文章指出负责任应用大语言模型有助于推动人机协同共同推进可持续发展目标的实现。对于大语言模型对可持续发展目标的理解和支持，我们需要加强监管和引导，确保其发挥积极作用。同时，人类在意识形态、文化、价值观等方面与大语言模型存在差异，需要进一步研究和调整，以实现更好的匹配和相互支持。最后，建议建立人机协同工作机制，促进大语言模型与人类共同推动可持续发展目标的实现。 <div>
 [CL]  Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals  <br /><a href="https://arxiv.org/abs/2404.13885"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />通过全面分析大语言模型与人类在可持续发展目标理解和支持方面的差异，提出了重要的预警和建议，有利于推动大语言模型的负责任应用，实现人机协同推进可持续发展。<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1hhisg5gj20uu14g7fk.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1hhj0j6rj21dk0niagk.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1hhjrpghj21l4114n8u.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 23 Apr 2024 21:43:37 GMT</pubDate>
 <pubDate>Tue, 23 Apr 2024 21:43:37 GMT</pubDate>
 </item>
 <item>
@@ -25,11 +84,10 @@
 <content:encoded><![CDATA[
 <div> 自我进化、语言模型、调研、挑战、未来方向、下一代模型、概念框架、方法、分析、路径铺平
 
-<br><br>总结:
+<br /><br />总结:
 本文通过建立自我进化的概念框架，全面调研语言模型的自主进化方法，分析现有挑战并指出未来方向，为发展下一代自我进化模型铺平道路。 <div>
 [CL] A Survey on Self-Evolution of Large Language Models  <br /><a href="https://arxiv.org/abs/2404.14387"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>       <br />本文通过建立自我进化的概念框架，全面调研语言模型的自主进化方法，分析现有挑战并指出未来方向，为发展下一代自我进化模型铺平道路。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1hbrbcqxj20s816a4eh.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1hbsrhnxj21i80hwwj0.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp1hbrjilqj21jg0umtj7.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 23 Apr 2024 21:38:09 GMT</pubDate>
 <pubDate>Tue, 23 Apr 2024 21:38:09 GMT</pubDate>
 </item>
 <item>
@@ -39,10 +97,9 @@
 <content:encoded><![CDATA[
 <div> 关键词: Phi-3, 语言模型, 手机, 性能强劲, 安全可控, 体积小巧, 训练数据, 创新, 模型缩放律
 
-总结:<br><br>这篇技术报告介绍了Phi-3的语言模型，通过训练数据优化和创新，成功打破常规模型缩放律，实现了一个性能强劲、安全可控、体积小巧的语言模型，可以运行在手机上。Phi-3的设计使得其在资源受限的环境下也能高效运行，并保证安全性和可控性。通过优化训练数据，Phi-3取得了令人满意的性能表现，为手机上的语言处理提供了新的可能性。Phi-3的出现将为语言模型在移动端的应用带来重要突破，为用户提供更便捷、高效的语言处理服务。 <div>
+总结:<br /><br />这篇技术报告介绍了Phi-3的语言模型，通过训练数据优化和创新，成功打破常规模型缩放律，实现了一个性能强劲、安全可控、体积小巧的语言模型，可以运行在手机上。Phi-3的设计使得其在资源受限的环境下也能高效运行，并保证安全性和可控性。通过优化训练数据，Phi-3取得了令人满意的性能表现，为手机上的语言处理提供了新的可能性。Phi-3的出现将为语言模型在移动端的应用带来重要突破，为用户提供更便捷、高效的语言处理服务。 <div>
 [CL] Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone  <br /><a href="https://arxiv.org/abs/2404.14219"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>   <br />通过训练数据优化创新打破常规模型缩放律，实现了一个性能强劲、安全可控、体积小巧到能运行在手机上的语言模型。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1h4f3y56j20w813edtx.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1h4fc944j21lm13ytiv.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1h4fvgzej21m40wogss.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 23 Apr 2024 21:31:02 GMT</pubDate>
 <pubDate>Tue, 23 Apr 2024 21:31:02 GMT</pubDate>
 </item>
 <item>
@@ -52,14 +109,13 @@
 <content:encoded><![CDATA[
 <div> DataTune 方法、数据集、任务定制、合成训练数据、BIG-Bench 任务、高质量、有效性验证、Retrieving、Transforming、Existing Datasets
 
-<br>
+<br />
 提出了一种名为 DataTune 的方法，旨在通过改造现有数据集生成更高质量的任务定制合成训练数据。研究团队在 BIG-Bench 任务上验证了该方法的有效性，作者包括 S Gandhi、R Gala、V Viswanathan、T Wu 和 G Neubig（CMU）。该研究通过检索和转换现有数据集，提升了合成数据的质量，并为任务定制提供了新的途径。DataTune 方法为数据生成领域带来了新的思路和技术，对提升数据质量和任务定制的效果具有重要意义。
 
-<br>
+<br />
 总结: 提出了名为 DataTune 的方法，旨在通过改造现有数据集生成更高质量的任务定制合成训练数据。研究团队在 BIG-Bench 任务上验证了该方法的有效性，作者包括 S Gandhi、R Gala、V Viswanathan、T Wu 和 G Neubig（CMU）。DataTune 方法为数据生成领域带来了新的思路和技术，对提升数据质量和任务定制的效果具有重要意义。 <div>
 提出DataTune方法，通过改造现有数据集生成更高质量的任务定制合成训练数据，并在BIG-Bench任务上验证了其有效性。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Better Synthetic Data by Retrieving and Transforming Existing Datasets》S Gandhi, R Gala, V Viswanathan, T Wu, G Neubig [CMU] (2024) <a href="https://arxiv.org/abs/2404.14361"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1grd5yflj20os1a84a8.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1grdfpksj20sq1bkalr.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1grdqquqj21ia0o8109.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1gre3c4uj21ks12andk.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp1gxtl0h8j20hs0mb405.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp1gxtktxej20hr0l4gna.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Tue, 23 Apr 2024 21:24:50 GMT</pubDate>
 <pubDate>Tue, 23 Apr 2024 21:24:50 GMT</pubDate>
 </item>
 <item>
@@ -69,11 +125,10 @@
 <content:encoded><![CDATA[
 <div> Retrieving, Transforming, Synthetic Data, Existing Datasets, Better, Improved, Machine Learning, Data Augmentation, Data Privacy, Evaluation
 
-<br><br>总结:
+<br /><br />总结:
 本文提出了一种通过检索和转换现有数据集来生成更好合成数据的方法。作者介绍了这种方法的优势，可以提高数据的质量和多样性，同时降低了数据隐私风险。他们还探讨了如何使用这种方法改进机器学习模型的性能，并提出了一种用于评估生成数据效果的框架。通过这种方法，可以更好地利用现有数据资源，提高数据利用率和模型表现。 <div>
 [CL]《Better Synthetic Data by Retrieving and Transforming Existing Datasets》S Gandhi, R Gala, V Viswanathan, T Wu, G Neubig [CMU] (2024) <a href="https://arxiv.org/abs/2404.14361"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1grd5yflj20os1a84a8.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1grdfpksj20sq1bkalr.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1grdqquqj21ia0o8109.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1gre3c4uj21ks12andk.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp1gxtl0h8j20hs0mb405.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp1gxtktxej20hr0l4gna.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 23 Apr 2024 21:24:40 GMT</pubDate>
 <pubDate>Tue, 23 Apr 2024 21:24:40 GMT</pubDate>
 </item>
 <item>
@@ -83,11 +138,10 @@
 <content:encoded><![CDATA[
 <div> 关键词: 指令层次结构, 自动生成训练数据, 大型语言模型, 鲁棒性, 提示注入攻击, 安全可控, 轻微影响
 
-总结:<br>
+总结:<br />
 本文提出了一种新的方法，通过指令层次结构和自动生成训练数据来提高大型语言模型对提示注入等攻击的鲁棒性。该方法使模型更安全可控，同时对其性能影响较小。这一创新的方法有望有效应对当前存在的安全挑战，进一步提升大型语言模型的安全性和可靠性。 <div>
 提出指令层次结构和自动生成训练数据的方法，可以显著提高大型语言模型对提示注入等攻击的鲁棒性，使其更安全可控，仅对能力造成轻微影响。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions》E Wallace, K Xiao, R Leike, L Weng, J Heidecke, A Beutel [OpenAI] (2024) <a href="https://arxiv.org/abs/2404.13208"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp1giwyhllj21420lmwnn.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp1gixe4twj21c80qqk14.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1giy0avqj21ci182akz.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1giyd6qzj21cu0o0dll.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1gpr0tsij20ve0gx0v4.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Tue, 23 Apr 2024 21:17:00 GMT</pubDate>
 <pubDate>Tue, 23 Apr 2024 21:17:00 GMT</pubDate>
 </item>
 <item>
@@ -97,10 +151,9 @@
 <content:encoded><![CDATA[
 <div> 训练、LLMs、特权指令、指令层次结构、优先级、指令优先级、人工智能、数据集、模型性能、任务表现
 
-总结:<br><br>该研究提出了一种用于训练LLMs优先考虑特权指令的指令层次结构。研究团队通过设计数据集和调整模型性能评价方法，成功训练了LLMs在执行任务时优先执行特权指令。他们的方法在提高模型任务表现方面取得了显著的成果，为人工智能领域的发展带来了新的可能性。 <div>
+总结:<br /><br />该研究提出了一种用于训练LLMs优先考虑特权指令的指令层次结构。研究团队通过设计数据集和调整模型性能评价方法，成功训练了LLMs在执行任务时优先执行特权指令。他们的方法在提高模型任务表现方面取得了显著的成果，为人工智能领域的发展带来了新的可能性。 <div>
 [CL]《The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions》E Wallace, K Xiao, R Leike, L Weng, J Heidecke, A Beutel [OpenAI] (2024) <a href="https://arxiv.org/abs/2404.13208"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp1giwyhllj21420lmwnn.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp1gixe4twj21c80qqk14.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1giy0avqj21ci182akz.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1giyd6qzj21cu0o0dll.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1gpr0tsij20ve0gx0v4.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 23 Apr 2024 21:16:54 GMT</pubDate>
 <pubDate>Tue, 23 Apr 2024 21:16:54 GMT</pubDate>
 </item>
 <item>
@@ -109,17 +162,16 @@
 <guid>https://weibo.com/1402400261/Ob8Gmau69</guid>
 <content:encoded><![CDATA[
 <div> 情感建模、量化、自监督学习、人机互动、LLM、同理心、伦理约束、原则决策、潜力
-<br>
-<br>
+<br />
+<br />
 要点1：文章通过量化建模基本人类情感，展示了LLM在同理心表达方面的潜力。
 要点2：利用自监督学习算法内化伦理约束，提升LLM在原则决策方面的能力。
 要点3：作者是来自斯坦福大学的E Y. Chang。
 要点4：研究成果表明LLM有望在情感模拟和伦理决策领域取得重要进展。
 要点5：人机互动是实现LLM内化伦理约束的关键手段。
-<br><br>总结: 本文提出了一种利用自监督学习算法和人机互动的方法，通过量化建模人类情感，实现LLM内化伦理约束。作者展示了LLM在同理心表达和原则决策方面的潜力，为人工智能领域的伦理研究提供了新思路和方法。文章强调了情感建模和伦理约束在人机互动中的重要性，为实现人工智能普及应用提供了理论支持。 <div>
+<br /><br />总结: 本文提出了一种利用自监督学习算法和人机互动的方法，通过量化建模人类情感，实现LLM内化伦理约束。作者展示了LLM在同理心表达和原则决策方面的潜力，为人工智能领域的伦理研究提供了新思路和方法。文章强调了情感建模和伦理约束在人机互动中的重要性，为实现人工智能普及应用提供了理论支持。 <div>
 通过对基本人类情感进行量化建模，并利用自监督学习算法及人机互动使LLM内化伦理约束，展示了LLM在同理心表达及原则决策方面的潜力。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Modeling Emotions and Ethics with Large Language Models》E Y. Chang [Stanford University] (2024) <a href="https://arxiv.org/abs/2404.13071"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1gcvj1lbj20tm0nm7bp.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1gcw3ecsj20tw0r0tcw.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1gcwbqofj20rw0usgp3.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1gcxhy53j21iu0ww19m.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1gdw1e4ij20rq0u810t.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Tue, 23 Apr 2024 21:05:39 GMT</pubDate>
 <pubDate>Tue, 23 Apr 2024 21:05:39 GMT</pubDate>
 </item>
 <item>
@@ -129,11 +181,10 @@
 <content:encoded><![CDATA[
 <div> 情感建模、道德建模、大型语言模型、伦理问题、数据机器学习、人工智能伦理、自然语言处理、模型伦理、道德决策、情感识别
 
-总结:<br>
+总结:<br />
 本文讨论了如何使用大型语言模型来进行情感和道德建模。作者强调了伦理问题在数据驱动的机器学习中的重要性，特别是在涉及人工智能伦理和自然语言处理的领域。文章探讨了模型如何识别情感并做出道德决策，强调了模型伦理的重要性。通过深入研究情感识别和道德建模，可以提高大型语言模型在现实世界中的应用和影响力。 <div>
 [CL]《Modeling Emotions and Ethics with Large Language Models》E Y. Chang [Stanford University] (2024) <a href="https://arxiv.org/abs/2404.13071"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1gcvj1lbj20tm0nm7bp.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1gcw3ecsj20tw0r0tcw.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1gcwbqofj20rw0usgp3.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1gcxhy53j21iu0ww19m.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1gdw1e4ij20rq0u810t.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 23 Apr 2024 21:05:30 GMT</pubDate>
 <pubDate>Tue, 23 Apr 2024 21:05:30 GMT</pubDate>
 </item>
 <item>
@@ -142,14 +193,12 @@
 <guid>https://weibo.com/1402400261/Ob8Fv99rh</guid>
 <content:encoded><![CDATA[
 <div> 门控函数、LoRA层级权重控制、多个LoRA动态组合、集成效应、多任务泛化提升
-<br>
-MOLE方法通过可学习门控函数实现LoRA层级权重控制，在最小计算开销下实现多个LoRA的高效、动态组合，保留各LoRA个性的同时发挥集成效应，显著提升多任务上的泛化性。该方法能有效提升模型性能，并在多个任务上取得了显著的改进。MOLE方法为多任务学习提供了一种新的思路，具有较强的实用性和推广价值。MOLE方法的提出将为深度学习领域的研究和应用带来新的启发，有望在实际任务中产生重要影响。总的来说，MOLE方法为LoRA层级权重控制和多任务泛化提升提供了一种高效且创新的解决方案。<br><br>总结: <div>
+<br />
+MOLE方法通过可学习门控函数实现LoRA层级权重控制，在最小计算开销下实现多个LoRA的高效、动态组合，保留各LoRA个性的同时发挥集成效应，显著提升多任务上的泛化性。该方法能有效提升模型性能，并在多个任务上取得了显著的改进。MOLE方法为多任务学习提供了一种新的思路，具有较强的实用性和推广价值。MOLE方法的提出将为深度学习领域的研究和应用带来新的启发，有望在实际任务中产生重要影响。总的来说，MOLE方法为LoRA层级权重控制和多任务泛化提升提供了一种高效且创新的解决方案。<br /><br />总结: <div>
 提出MOLE方法，通过可学习门控函数实现LoRA层级权重控制，以最小计算开销实现多个LoRA的高效、动态组合，在保留各LoRA个性的同时发挥集成效应，在多任务上的泛化性取得显著提升。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Mixture of LoRA Experts》X Wu, S Huang, F Wei [Microsoft Research Asia] (2024) <a href="https://arxiv.org/abs/2404.13628"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1ga7r5nbj213a0tkk50.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1ga84vebj20ls0q2dkf.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1ga8uyi5j21bm0nmgty.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1gae17laj21b00mq4kl.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1gbhb348j20eo0d5dgx.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp1gbhbqw6j20el0cx0tg.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1gbhcrebj20ve0ogwj6.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1gbhbwv6j20vd0dejtp.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1gbhdqjgj20vj0rcjwn.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Tue, 23 Apr 2024 21:03:32 GMT</pubDate>
-<pubDate>Tue, 23 Apr 2024 21:03:32 GMT</pubDate>
 </item>
-
 <item>
 <title>《爱可可微博热门分享(4.23)》 爱可可微博热门分享(4.23) [图片]</title>
 <link>https://weibo.com/1402400261/Ob5WRoiAI</link>
@@ -12862,132 +12911,6 @@ BrowserGym是一个开源项目，提供了一个基于Chrome浏览器的Gym环�
 【BrowserGym: 用于 Web 任务自动化的开源项目，提供 Chrome 浏览器环境的 Gym 集成，用于自动化各种网站和应用的任务】’BrowserGym: a Gym Environment for Web Task Automation - BrowserGym, a gym environment for web task automation in the Chromium browser.' GitHub: github.com/ServiceNow/BrowserGym <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnu0kdzmk6j20yy0u0gp3.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 07:18:53 GMT</pubDate>
-</item>
-<item>
-<title>【flybody是一个用于 MuJoCo 物理模拟和强化学习应用的果蝇模型，基于 Google DeepMind 和 HHMI Janelia 研究中心的相结合的作品，旨在建立果蝇体系生物物理模拟...</title>
-<link>https://weibo.com/1402400261/O5qqjDbVj</link>
-<guid>https://weibo.com/1402400261/O5qqjDbVj</guid>
-<content:encoded><![CDATA[
-<div> 果蝇模型, MuJoCo 物理模拟, 强化学习, Google DeepMind, HHMI Janelia, 生物物理模拟平台, GitHub, TuragaLab, reinforcement learning, 任务<br />
-<br />
-总结:<br />
-该项目将果蝇模型应用于 MuJoCo 物理模拟和强化学习任务，结合了 Google DeepMind 和 HHMI Janelia 的研究成果，旨在建立果蝇体系生物物理模拟平台。该项目的代码存储在 GitHub 上的 TuragaLab/flybody 项目中。通过这个模型，研究人员可以在仿真环境中进行果蝇的生物物理模拟和强化学习，为研究果蝇行为和神经系统提供了新的工具和资源。 <div>
-【flybody是一个用于 MuJoCo 物理模拟和强化学习应用的果蝇模型，基于 Google DeepMind 和 HHMI Janelia 研究中心的相结合的作品，旨在建立果蝇体系生物物理模拟平台】'flybody: fruit fly body model for MuJoCo physics - MuJoCo fruit fly body model and reinforcement learning tasks' GitHub: github.com/TuragaLab/flybody <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnu0elerekj219u0u00y4.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:13:44 GMT</pubDate>
-</item>
-<item>
-<title>【Magix 是一个用于训练大规模语言模型的轻量工具，具有灵活的数据和模型平行功能】'Magix - Supercharge huggingface transformers with model parallelism.' G...</title>
-<link>https://weibo.com/1402400261/O5q959sOY</link>
-<guid>https://weibo.com/1402400261/O5q959sOY</guid>
-<content:encoded><![CDATA[
-<div> Magix, huggingface, transformers, model parallelism, GitHub, 训练大规模语言模型, 轻量工具, 灵活的数据, 模型平行功能
-
-<br /><br />总结:
-Magix 是一个用于训练大规模语言模型的轻量工具，能够有效地利用模型并行性，并具有灵活的数据和模型平行功能。通过 Magix，用户可以在 GitHub 上找到支持 model parallelism 的 huggingface transformers。Magix 的出现为训练大规模语言模型提供了更加高效和灵活的选择。 <div>
-【Magix 是一个用于训练大规模语言模型的轻量工具，具有灵活的数据和模型平行功能】'Magix - Supercharge huggingface transformers with model parallelism.' GitHub: github.com/luyug/magix <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hntz6t5nagj21e00pqjvg.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 06:31:17 GMT</pubDate>
-</item>
-<item>
-<title>【ArXiv Paper Reader：旨在简化和流利的arXiv论文阅读，使用 LaTeX 代码转换为 HTML 页面，然后提取文本和公式，将其转换为视频，并创建与 PDF 文档匹配的图，...</title>
-<link>https://weibo.com/1402400261/O5q2nDkz5</link>
-<guid>https://weibo.com/1402400261/O5q2nDkz5</guid>
-<content:encoded><![CDATA[
-<div> 简化、流利、arXiv论文、LaTeX代码、HTML页面、提取文本、公式、视频、PDF文档、图像<br />
-<br />
-提供了一个名为ArXiv Paper Reader的工具，旨在简化和流利地阅读arXiv论文。该工具首先将LaTeX代码转换为HTML页面，然后提取文本、公式，并将其转换为视频。接着创建与PDF文档匹配的图像，并将文本分段并转换为音频。通过这种方式，用户可以更方便地理解和阅读arXiv论文，提高阅读效率。总的来说，这个工具为阅读arXiv论文提供了更加便捷的方式，使得用户可以更加愉快地进行学术阅读。<br /><br />总结: <div>
-【ArXiv Paper Reader：旨在简化和流利的arXiv论文阅读，使用 LaTeX 代码转换为 HTML 页面，然后提取文本和公式，将其转换为视频，并创建与 PDF 文档匹配的图，以及文本分段并将其转换为音频】'ArXiv Paper Reader - Code behind Arxiv Papers' GitHub: github.com/imelnyk/ArxivPapers <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hntypo9wd3j221b0u0n1i.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 06:14:47 GMT</pubDate>
-</item>
-<item>
-<title>【Skyvern 利用 LLM 和计算机视觉，自动化浏览器基础工作流。它提供一个简洁的 API 端点，允许完全自动化手动工作流，取代难以维护或易于故障的自动化解决方案】...</title>
-<link>https://weibo.com/1402400261/O5pYY8wLP</link>
-<guid>https://weibo.com/1402400261/O5pYY8wLP</guid>
-<content:encoded><![CDATA[
-<div> LLMs, 计算机视觉, 自动化, 浏览器, API, 手动工作流, 维护, 故障, 解决方案, GitHub<br /><br />总结: Skyvern利用LLM和计算机视觉技术，自动化浏览器基础工作流。其提供了一个简洁的API端点，允许完全自动化手动工作流，取代难以维护或易于故障的自动化解决方案。该项目的GitHub链接为github.com/Skyvern-AI/skyvern。 <div>
-【Skyvern 利用 LLM 和计算机视觉，自动化浏览器基础工作流。它提供一个简洁的 API 端点，允许完全自动化手动工作流，取代难以维护或易于故障的自动化解决方案】'Skyvern - Automate browser-based workflows with LLMs and Computer Vision' GitHub: github.com/Skyvern-AI/skyvern <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hntygovm8aj213t0u0wgj.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 06:06:22 GMT</pubDate>
-</item>
-<item>
-<title>【Pretzel是一个开源，在线浏览器式数据探索和可视化的工具，提供快速便捷的数据分析和可视化功能。它无需后台设置，可在浏览器中实时运行，无需任何服务器连接...</title>
-<link>https://weibo.com/1402400261/O5pPCFNVf</link>
-<guid>https://weibo.com/1402400261/O5pPCFNVf</guid>
-<content:encoded><![CDATA[
-<div> Pretzel, 开源, 在线浏览器, 数据探索, 可视化, 数据分析, 数据变换, 实时更新, DuckDB-Wasm, PRQL
-
-<br /><br />总结:
-Pretzel是一个开源的在线浏览器式数据探索和可视化工具，无需后台设置，可实时在浏览器中运行，提供快速便捷的数据分析和可视化功能。用户可以通过视觉化的数据变换区块轻松操控数据，并实时更新所有与变换区块和图表相关的内容，使用了DuckDB-Wasm和PRQL技术。 <div>
-【Pretzel是一个开源，在线浏览器式数据探索和可视化的工具，提供快速便捷的数据分析和可视化功能。它无需后台设置，可在浏览器中实时运行，无需任何服务器连接。Pretzel通过视觉化的数据变换区块轻松操控数据，并实时更新所有与变换区块和图表相关的区块和图表】'Pretzel - Open-source, browser-local data exploration using DuckDB-Wasm and PRQL' GitHub: github.com/pretzelai/pretzelai <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hntxt0cgs0j21bz0u0qa8.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 05:43:21 GMT</pubDate>
-</item>
-<item>
-<title>【扩散蒸馏相关论文资源列表】’Awesome-Diffusion-Distillation - A list of papers, docs, codes about diffusion distillation.This repo collects various d...</title>
-<link>https://weibo.com/1402400261/O5pF46IZu</link>
-<guid>https://weibo.com/1402400261/O5pF46IZu</guid>
-<content:encoded><![CDATA[
-<div> GitHub, papers, docs, codes, diffusion distillation, distillation methods<br />
-<br />
-总结：<br />
-这个GitHub仓库收集了关于扩散模型的各种蒸馏方法，欢迎贡献未被收录的相关作品（论文、代码库）。扩散蒸馏是一个重要的研究领域，通过这个仓库可以找到多种不同的蒸馏方法和资源。希望这个仓库可以帮助研究人员更好地了解和应用扩散蒸馏技术。 <div>
-【扩散蒸馏相关论文资源列表】’Awesome-Diffusion-Distillation - A list of papers, docs, codes about diffusion distillation.This repo collects various distillation methods for the Diffusion model. Welcome to PR the works (papers, repositories) missed by the repo.' GitHub: github.com/cantbebetter2/Awesome-Diffusion-Distillation <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hntwv7uq2gj20u80u0wj8.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 05:17:19 GMT</pubDate>
-</item>
-<item>
-<title>【Recommender AI Agent: 使用大语言模型提供交互式推荐功能的agent】’Recommender AI Agent: Integrating Large Language Models for Interactive Recommendat...</title>
-<link>https://weibo.com/1402400261/O5pAps9gS</link>
-<guid>https://weibo.com/1402400261/O5pAps9gS</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Recommender AI Agent, 大语言模型, 交互式推荐, GitHub, Microsoft
-
-总结:<br /><br />
-这篇文章介绍了一个名为'Recommender AI Agent'的项目，该项目利用大语言模型来提供交互式推荐功能。通过GitHub上的链接github.com/microsoft/RecAI 可以找到该项目的代码和资源。这个项目的目标是整合大语言模型，通过与用户的交互，为他们提供更加个性化的推荐服务。这种推荐代理的技术可以被应用到各种领域，帮助用户更快地找到他们感兴趣的内容。Microsoft是这个项目的背后支持者，展示了他们在人工智能和数据科学领域的实力和创新能力。通过这种新型推荐技术，用户可以享受到更加智能化和高效的推荐体验，提升用户体验和满意度。 <div>
-【Recommender AI Agent: 使用大语言模型提供交互式推荐功能的agent】’Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations' GitHub: github.com/microsoft/RecAI <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hntwpyjejsj21b70glgp4.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 05:05:52 GMT</pubDate>
-</item>
-<item>
-<title>'Campus2025 - 2025届互联网校招信息汇总' GitHub: github.com/NAOSI-DLUT/Campus2025 #开源# #校招# [图片]</title>
-<link>https://weibo.com/1402400261/O5pyCbZZ7</link>
-<guid>https://weibo.com/1402400261/O5pyCbZZ7</guid>
-<content:encoded><![CDATA[
-<div> GitHub, Campus2025, 2025届, 互联网, 校招, 信息, 汇总
-
-<br /><br />总结:
-GitHub上有一个名为Campus2025的项目，汇总了2025届互联网校园招聘的信息。这个项目提供了一个集中查找各种互联网公司校招信息的平台，帮助学生更方便地了解招聘信息和机会。对于即将步入社会的2025届学生来说，这个项目提供了一个很好的资源，可以帮助他们更好地规划自己的职业发展方向。通过这个项目，学生可以及时了解各个互联网公司的招聘信息，选择最适合自己的发展方向和机会。整合了各种互联网公司的招聘信息，让学生可以更方便地比较和选择自己感兴趣的企业和岗位。建议2025届的学生多关注这个项目，及时了解就业信息，为自己的职业发展做好准备。 <div>
-'Campus2025 - 2025届互联网校招信息汇总' GitHub: github.com/NAOSI-DLUT/Campus2025 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%A0%A1%E6%8B%9B%23&amp;isnewpage=1"><span class="surl-text">#校招#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hntwle8h77j20un0u00wu.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 05:01:27 GMT</pubDate>
-</item>
-<item>
-<title>【大模型数据增强相关文献资源列表】’Papers and resources on data augmentation using large models - The official GitHub page for the survey paper "A Su...</title>
-<link>https://weibo.com/1402400261/O5pxswqTp</link>
-<guid>https://weibo.com/1402400261/O5pxswqTp</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 数据增强, 大模型, 调查论文, GitHub, 资源, 机器学习, 深度学习
-
-总结:<br /><br />
-这篇文章是关于在大模型时代中使用数据增强的调查论文。GitHub上有一份关于数据增强的官方调查论文页面，提供了大模型数据增强相关的论文和资源列表。该调查论文涵盖了数据增强在机器学习和深度学习中的应用，以及大模型时代如何利用数据增强来提升模型性能。通过研究论文和资源，我们可以更好地了解数据增强在大模型领域的应用和重要性，为我们在实践中更好地利用数据增强提供了指导和参考。 <div>
-【大模型数据增强相关文献资源列表】’Papers and resources on data augmentation using large models - The official GitHub page for the survey paper "A Survey on Data Augmentation in Large Model Era"' GitHub: github.com/MLGroup-JLU/LLM-data-aug-survey <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hntwi7n59vj210s0u0jxn.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hntwidk0cgj21480u0jwj.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 04:58:36 GMT</pubDate>
-</item>
-<item>
-<title>【DRL-Based Trajectory Tracking (DRLTT) 是一个用于自动驾驶轨迹跟踪的开源项目，它结合深度强化学习(DRL)技术，并具有高效性和准确性的功能，可用于轨迹跟踪...</title>
-<link>https://weibo.com/1402400261/O5pshzWGg</link>
-<guid>https://weibo.com/1402400261/O5pshzWGg</guid>
-<content:encoded><![CDATA[
-<div> GitHub, DRL-Based Trajectory Tracking, 深度强化学习, 轨迹跟踪, 自动驾驶, 开源项目, 高效性, 准确性, 任务
-
-<br /><br />总结:
-DRL-Based Trajectory Tracking (DRLTT) 是一个开源项目，采用深度强化学习技术，旨在实现自动驾驶轨迹跟踪任务。该项目结合了高效性和准确性的特点，提供了一个有效的解决方案。通过 GitHub 平台展示和分享，用户可以了解和参与该项目，促进自动驾驶技术的发展。 <div>
-【DRL-Based Trajectory Tracking (DRLTT) 是一个用于自动驾驶轨迹跟踪的开源项目，它结合深度强化学习(DRL)技术，并具有高效性和准确性的功能，可用于轨迹跟踪任务】'DRL-Based Trajectory Tracking (DRLTT) - DRL-based trajectory tracking.' GitHub: github.com/MARMOTatZJU/drl-based-trajectory-tracking <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hntw56a5v2j215e0u079l.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 04:45:51 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -6149,3 +6149,21 @@ Summarized using GPT-3.5-turbo
 Append: [提出MOLE方法，通过可学习门控函数实现LoRA层级权重控制，以最小计算开销实现多个LoRA的高效、动态组合，在保留各LoRA个性的同时发挥集成效应，在多任务上的泛化...](https://weibo.com/1402400261/Ob8Fv99rh)
 append_entries: 10
 Finish: 2024-04-23 22:12:45.292747
+------------------------------------------------------
+Started: 2024-04-24 00:51:01.477551
+Existing_entries: 1010
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [Demo: 网页链接 Models: 网页链接 - 转发 @爱可可-爱生活:&ensp;[CL] Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone 网页链...](https://weibo.com/1402400261/Ob95n2PNr)
+Token length: 497
+Summarized using GPT-3.5-turbo
+Append: [【用 Evolutionary Model Merging 优化模型性能】- Arcee公司推出了新的MergeKit工具，实现了开创性的进化模型融合技术，让用户可以针对特定的能力或品质进行模...](https://weibo.com/1402400261/Ob94j96sW)
+Token length: 122
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1385期)：多模态自动可解释性Agent、LoRA专家混合、用大语言模型建模情感和伦理、训练LLM用不同优先级层次化处理指令、通过检索和转换现有数据集来更...](https://weibo.com/1402400261/Ob91AtPm4)
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: [[CV] Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer 网页链接 通过将视觉重定位原理应用于增量式...](https://weibo.com/1402400261/Ob8Ye9ylP)
+append_entries: 4
+Finish: 2024-04-24 00:51:25.263411
