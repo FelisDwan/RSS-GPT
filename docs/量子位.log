@@ -4293,3 +4293,21 @@ Existing_entries: 529
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-24 02:21:01.433251
+------------------------------------------------------
+Started: 2024-04-24 04:13:22.892354
+Existing_entries: 529
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 430
+Summarized using GPT-3.5-turbo
+Append: [#10分钟构建语音助手# 手把手教程推特一网友分享了 10 分钟自主构建实时语音助手的教程。废话不多说，先看看效果（他搞了个牙科预约系统）~据介绍，他主要采用了...](https://weibo.com/6105753431/Obbag3qHY)
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [#perplexity获新一轮融资# 美国人工智能搜索公司 Perplexity AI 宣布在新一轮融资中筹集了约 6300 万美元。这使得公司估值超过 10 亿美元，较三个月前翻了一番。...](https://weibo.com/6105753431/ObaKMF4eT)
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [#Adobe最新版文生图模型# Firefly Image 3 Model Firefly Image 3 具体升级如下：- 提供结构参考和样式参考，无需构思提示词即可“照猫画虎”- 提供更多创意选项...](https://weibo.com/6105753431/ObaysbGJt)
+Token length: 297
+Summarized using GPT-3.5-turbo
+Append: [#Adobe推出新版Photoshop# 全面集成AIAdobe 宣布推出新版 Photoshop。它引入了新的 Firefly Image 3 Foundation Model，用于从文本生成图像。具体而言，此次更新...](https://weibo.com/6105753431/ObakSdCen)
+append_entries: 4
+Finish: 2024-04-24 04:13:39.592756

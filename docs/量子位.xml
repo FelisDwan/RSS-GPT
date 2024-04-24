@@ -4,6 +4,60 @@
 <title>量子位的微博</title>
 <link>https://weibo.com/6105753431/</link>
 
+<item>
+<title>#10分钟构建语音助手# 手把手教程推特一网友分享了 10 分钟自主构建实时语音助手的教程。废话不多说，先看看效果（他搞了个牙科预约系统）~据介绍，他主要采用了...</title>
+<link>https://weibo.com/6105753431/Obbag3qHY</link>
+<guid>https://weibo.com/6105753431/Obbag3qHY</guid>
+<content:encoded><![CDATA[
+<div> NextJS, DeepgramAI, GroqInc, 实时语音助手, 牙科预约系统, API密钥, 本地服务器, is_final属性, GroqAgentResponse组件, GroqInc客户端
+
+总结:<br><br>
+本文介绍了如何利用NextJS、DeepgramAI和GroqInc等工具，在10分钟内构建一个实时语音助手，作者展示了一个牙科预约系统作为示例。主要步骤包括在NextJS上克隆DeepgramAI项目、获取Deepgram的API密钥、授权麦克风测试应用、添加GroqInc增强功能、根据is_final属性判断用户停止说话时发送请求、创建GroqAgentResponse组件保持代码整洁、设置GroqInc客户端并调用AI。这个教程简单易懂，适合想要尝试构建实时语音助手的开发者。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%2310%E5%88%86%E9%92%9F%E6%9E%84%E5%BB%BA%E8%AF%AD%E9%9F%B3%E5%8A%A9%E6%89%8B%23&amp;extparam=%2310%E5%88%86%E9%92%9F%E6%9E%84%E5%BB%BA%E8%AF%AD%E9%9F%B3%E5%8A%A9%E6%89%8B%23"><span class="surl-text">#10分钟构建语音助手#</span></a> 手把手教程<br /><br />推特一网友分享了 10 分钟自主构建实时语音助手的教程。<br /><br />废话不多说，先看看效果（他搞了个牙科预约系统）~<br /><br />据介绍，他主要采用了以下这些步骤：<br /><br />1.在 NextJS 上克隆免费的 DeepgramAI 入门项目<br /><br />2.通过注册获取 Deepgram 的私有 API 密钥（新用户有 250 美元免费积分）<br /><br />3.打开本地服务器 localhost:3000，授权麦克风以测试应用<br /><br />4.添加 GroqInc 以增强应用功能<br /><br />5.通过检查 DeepgramAI 响应中的 is_final 属性来判断用户何时停止说话。当 is_final 为真时，将请求发送给 GroqInc。在检测到问号时也发送请求以获得更好的结果。<br /><br />6.创建一个 GrowqAgentResponse 组件，并将其添加到 microphone.tsx 文件中，以保持代码的整洁性。<br /><br />7.设置一个 GroqInc 客户端，最后使用简单的 .create 请求来调用 AI<br /><br />详细指导：<a href="https://twitter.com/madarco/status/1782439384165556656"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />工具地址1：<a href="http://deepgram.com/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />工具地址2：<a href="https://groq.com/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hp1rb2xoj8j30wm0wwqfy.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hp1rb7639aj30we0soajs.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hp1rba593lj30wm0syn58.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hp1rbf74jxj30wk0l8n7x.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hp1rblf7b5j30vy0qkn7i.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hp1rbp59ovj30vq0is48t.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hp1rbs8khoj30wy0jitgq.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hp1rbvdttqj30ww0vsdtj.jpg" /><br /><br /><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006Fd7o3ly1hp1rcgrel0j310a0j80t4.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/VMLmIDcdlx08ekrMtPGo010412001ShV0E010.mp4?label=mp4_720p&amp;template=1306x692.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1713932988&amp;ssig=%2FJlJY1bRF6&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/A3EfAETilx08ekrMq1A4010412000SES0E010.mp4?label=mp4_hd&amp;template=904x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1713932988&amp;ssig=aZppgdbbGJ&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/s5pDEwqSlx08ekrMolgk010412000x6k0E010.mp4?label=mp4_ld&amp;template=676x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1713932988&amp;ssig=ThYud5vK5q&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5026644880982028" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
+]]></content:encoded>
+<pubDate>Wed, 24 Apr 2024 03:24:48 GMT</pubDate>
+<pubDate>Wed, 24 Apr 2024 03:24:48 GMT</pubDate>
+</item>
+<item>
+<title>#perplexity获新一轮融资# 美国人工智能搜索公司 Perplexity AI 宣布在新一轮融资中筹集了约 6300 万美元。这使得公司估值超过 10 亿美元，较三个月前翻了一番。...</title>
+<link>https://weibo.com/6105753431/ObaKMF4eT</link>
+<guid>https://weibo.com/6105753431/ObaKMF4eT</guid>
+<content:encoded><![CDATA[
+<div> 美国、人工智能搜索公司、Perplexity AI、融资、6300 万美元、估值、10 亿美元、Tech Crunch、25 亿至 30 亿美元、2.5 亿美元
+
+<br><br>总结:
+美国人工智能搜索公司Perplexity AI宣布在新一轮融资中筹集了约6300万美元，使得公司估值超过10亿美元。据Tech Crunch透露，Perplexity AI正在寻求至少25亿至30亿美元的融资。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23perplexity%E8%8E%B7%E6%96%B0%E4%B8%80%E8%BD%AE%E8%9E%8D%E8%B5%84%23&amp;extparam=%23perplexity%E8%8E%B7%E6%96%B0%E4%B8%80%E8%BD%AE%E8%9E%8D%E8%B5%84%23"><span class="surl-text">#perplexity获新一轮融资#</span></a> <br /><br />美国人工智能搜索公司 Perplexity AI 宣布在新一轮融资中筹集了约 6300 万美元。<br /><br />这使得公司估值超过 10 亿美元，较三个月前翻了一番。<br /><br />不过， Perplexity AI 或许仍在继续寻求融资。<br /><br />据 Tech Crunch 最新爆料，该公司目前正在以 25 亿至 30 亿美元的估值筹集至少 2.5 亿美元。<br /><br />附工具地址：<a href="https://www.perplexity.ai/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hp1pg8edhgj30xa1bc7pv.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hp1piu6jwwj30o20i2wgj.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hp1pg8vdk6j326u1ek1ky.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 24 Apr 2024 02:22:03 GMT</pubDate>
+<pubDate>Wed, 24 Apr 2024 02:22:03 GMT</pubDate>
+</item>
+<item>
+<title>#Adobe最新版文生图模型# Firefly Image 3 Model Firefly Image 3 具体升级如下：- 提供结构参考和样式参考，无需构思提示词即可“照猫画虎”- 提供更多创意选项...</title>
+<link>https://weibo.com/6105753431/ObaysbGJt</link>
+<guid>https://weibo.com/6105753431/ObaysbGJt</guid>
+<content:encoded><![CDATA[
+<div> Firefly Image 3 Model, 结构参考, 样式参考, 创意选项, 颜色, 背景, 渲染升级, 细节, 文本渲染, 插图, 图标样式
+
+<br><br>总结: Firefly Image 3 Model 在提供更多创意选项的基础上，升级了画面和文本渲染，提供更多插图和图标样式选项，同时增加了生成扩展功能，使用户能够轻松调整图像尺寸，提升了用户体验。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Adobe%E6%9C%80%E6%96%B0%E7%89%88%E6%96%87%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B%23&amp;extparam=%23Adobe%E6%9C%80%E6%96%B0%E7%89%88%E6%96%87%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B%23"><span class="surl-text">#Adobe最新版文生图模型#</span></a>  Firefly Image 3 Model <br /><br />Firefly Image 3 具体升级如下：<br /><br />-  提供结构参考和样式参考，无需构思提示词即可“照猫画虎”<br />-  提供更多创意选项，包括各种新的样式、颜色、背景、姿势等<br />-  画面渲染升级，细节和清晰度方面有显著提升<br />-  文本渲染升级，能够生成具有清晰文本显示的图像<br />-  提供更多插图和图标样式<br />-  “生成扩展”功能可一键调整图像尺寸<br />……<br /><br />体验地址：<a href="https://firefly.adobe.com/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://video.weibo.com/show?fid=1034:5026615822843923"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">量子位的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax1.sinaimg.cn/orj480/006Fd7o3gy1hp1o3ykkrcj30k00qogqu.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/kEeyz7Ualx08eklnXcSY01041200eDsI0E010.mp4?label=mp4_720p&amp;template=720x1280.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1713932988&amp;ssig=LsPnbMue8J&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/v8Q0SaDklx08eklnK72E010412009tJu0E010.mp4?label=mp4_hd&amp;template=540x960.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1713932988&amp;ssig=g06ct8rJHP&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/AfISwjPHlx08eklnPOSA010412005cmU0E010.mp4?label=mp4_ld&amp;template=360x640.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1713932988&amp;ssig=BtngrH2tCN&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5026615822843923" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
+]]></content:encoded>
+<pubDate>Wed, 24 Apr 2024 01:51:40 GMT</pubDate>
+<pubDate>Wed, 24 Apr 2024 01:51:40 GMT</pubDate>
+</item>
+<item>
+<title>#Adobe推出新版Photoshop# 全面集成AIAdobe 宣布推出新版 Photoshop。它引入了新的 Firefly Image 3 Foundation Model，用于从文本生成图像。具体而言，此次更新...</title>
+<link>https://weibo.com/6105753431/ObakSdCen</link>
+<guid>https://weibo.com/6105753431/ObakSdCen</guid>
+<content:encoded><![CDATA[
+<div> Photoshop, Firefly Image 3, 文本到图像, 参考图像, 背景替换, 增强细节, 桌面平台, Beta 标签, 测试版, 在线体验 
+
+总结:<br><br>Adobe推出新版Photoshop，引入Firefly Image 3技术，首次实现文本到图像功能，在生成相似内容的基础上增加了参考图像功能，同时可以生成可替换背景，增强细节并微调图像。新版现已在桌面平台推出，带有Beta标签，全面发布将在今年晚些时候。Firefly Image 3测试版已开放，可在官网体验。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Adobe%E6%8E%A8%E5%87%BA%E6%96%B0%E7%89%88Photoshop%23&amp;extparam=%23Adobe%E6%8E%A8%E5%87%BA%E6%96%B0%E7%89%88Photoshop%23"><span class="surl-text">#Adobe推出新版Photoshop#</span></a>  全面集成AI<br /><br />Adobe 宣布推出新版 Photoshop。<br /><br />它引入了新的 Firefly Image 3 Foundation Model，用于从文本生成图像。<br /><br />具体而言，此次更新如下：<br /><br />- 首次在 Photoshop 中直接使用文本到图像功能<br />- 生成相似内容供用户进一步挑选<br />- 使用参考图像输出内容<br />- 生成可替换背景，实现图像与背景完美融合<br />- 增强细节，微调图像以提高锐度和清晰度<br /><br />另外，新版 Photoshop 现已在桌面平台推出，并带有 Beta 标签，将于今年晚些时候全面发布。<br /><br />Firefly Image 3 已开放测试版，可以在其官网访问。<br /><br />在线体验 Firefly：<a href="https://firefly.adobe.com/inspire/images"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />生成式填充体验地址：<a href="https://firefly.adobe.com/upload/inpaint"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://video.weibo.com/show?fid=1034:5026606650163202"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">量子位的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax3.sinaimg.cn/orj480/006Fd7o3ly1hp1mx4elg0j31hc0u044c.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/JZthSdX9lx08ekj5uQZW01041200lRBq0E010.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1713932988&amp;ssig=gigtjueHQF&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/cpoGwCnglx08ekj4G5Mk01041200bAUY0E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1713932988&amp;ssig=Ucb%2FI0KZ0H&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/YyD0ejbFlx08ekj4GaIM010412007l6m0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1713932988&amp;ssig=m4vN5KbgiR&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5026606650163202" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
+]]></content:encoded>
+<pubDate>Wed, 24 Apr 2024 01:18:13 GMT</pubDate>
+<pubDate>Wed, 24 Apr 2024 01:18:13 GMT</pubDate>
+</item>
 
 <item>
 <title>#商汤发布日日新5# 综合能力全面对标GPT-4 就在刚刚，商汤科技发布了 “日日新 5.0”。该模型采用了 MOE 混合专家架构，并基于超过 10TB 的数据tokens进行训练，...</title>

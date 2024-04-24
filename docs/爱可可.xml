@@ -5,19 +5,32 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>#免费##抽奖# 携手@博文视点Broadview 送出3本《多模态大模型：新一代人工智能技术范式 （全彩）》，截至2024.5.1 12:00，*可可粉*转发+评论即可参与。中山大学 ...</title>
+<link>https://weibo.com/1402400261/ObaVdaaXn</link>
+<guid>https://weibo.com/1402400261/ObaVdaaXn</guid>
+<content:encoded><![CDATA[
+<div> 中山大学、HCP 实验室、多模态大模型、人工智能、技术方法、开源平台、应用场景、因果推理、世界模型、多智能体
+
+<br><br>总结:
+中山大学HCP实验室推出的《多模态大模型：新一代人工智能技术范式》介绍了多模态大模型的技术方法、开源平台和应用场景，深入浅出地探讨了因果推理、世界模型、多智能体等前沿领域。这本全彩书籍有助于读者全面了解多模态大模型的特点和发展方向，对促进新一代人工智能技术范式和通用人工智能的发展具有重要推动作用。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《多模态大模型：新一代人工智能技术范式 （全彩）》，截至2024.5.1 12:00，*可可粉*转发+评论即可参与。中山大学 HCP 实验室出品，本书以深入浅出的方式介绍多模态大模型的技术方法、开源平台和应用场景，并详细阐述因果推理、世界模型及多智能体与具身智能等前沿技术领域，有助于读者全面了解多模态大模型的特点及发展方向，对新一代人工智能技术范式和通用人工智能的发展起到重要推动作用。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp1q8lh8x1j20m80m8djk.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp1q8n4hifj20m80m8gnu.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp1q8pgbfhj20m80m8dj2.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp1q8r3pagj20m80m80ur.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 24 Apr 2024 02:47:44 GMT</pubDate>
+<pubDate>Wed, 24 Apr 2024 02:47:44 GMT</pubDate>
+</item>
+
+<item>
 <title>【用Pytorch从头实现Transformer】《Creating a Transformer From Scratch - Part One: The Attention Mechanism | Mixed Precision》 网页链接《Creating a Tra...</title>
 <link>https://weibo.com/1402400261/Oba0q9CiJ</link>
 <guid>https://weibo.com/1402400261/Oba0q9CiJ</guid>
 <content:encoded><![CDATA[
 <div> 注意机制、混合精度、Transformer、Pytorch、实现、编程代码、模型、训练、优化、注意力权重
 
-总结：<br><br>这篇文章通过两部分介绍了如何使用Pytorch从头实现Transformer模型。第一部分讨论了注意机制的实现，解释了注意力权重的计算过程和实现细节，并介绍了混合精度优化技术。第二部分详细讲解了Transformer模型的其余部分的实现，包括编码器和解码器的构建，以及模型的训练和优化过程。通过编写Python代码，作者演示了如何使用Pytorch构建和训练Transformer模型，帮助读者更好地理解这一先进的神经网络结构。整个教程涵盖了从基本概念到实际编程代码的全过程，为想要深入了解Transformer的研究人员提供了很好的参考。 <div>
+总结：<br /><br />这篇文章通过两部分介绍了如何使用Pytorch从头实现Transformer模型。第一部分讨论了注意机制的实现，解释了注意力权重的计算过程和实现细节，并介绍了混合精度优化技术。第二部分详细讲解了Transformer模型的其余部分的实现，包括编码器和解码器的构建，以及模型的训练和优化过程。通过编写Python代码，作者演示了如何使用Pytorch构建和训练Transformer模型，帮助读者更好地理解这一先进的神经网络结构。整个教程涵盖了从基本概念到实际编程代码的全过程，为想要深入了解Transformer的研究人员提供了很好的参考。 <div>
 【用Pytorch从头实现Transformer】<br />《Creating a Transformer From Scratch - Part One: The Attention Mechanism | Mixed Precision》 <a href="https://benjaminwarner.dev/2023/07/01/attention-mechanism"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />《Creating a Transformer From Scratch - Part Two: The Rest of the Transformer | Mixed Precision》 <a href="https://benjaminwarner.dev/2023/07/28/rest-of-the-transformer"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <br /> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp1m81zl39j20vh0u0af0.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp1m8cpnxqj210q0u0dko.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 24 Apr 2024 00:27:49 GMT</pubDate>
-<pubDate>Wed, 24 Apr 2024 00:27:49 GMT</pubDate>
 </item>
-
 <item>
 <title>Demo: 网页链接 Models: 网页链接 - 转发 @爱可可-爱生活:&amp;ensp;[CL] Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone 网页链...</title>
 <link>https://weibo.com/1402400261/Ob95n2PNr</link>
@@ -12858,19 +12871,6 @@ AI-in-a-Box是一个旨在帮助工程师建立人工智能和机器学习解决
 【视频生成相关研究列表】’A Collection of Video Generation Studies - A collection of awesome video generation studies.' GitHub: github.com/AlonzoLeeeooo/awesome-video-generation <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnu1deazrtj21fo0g4ad5.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 07:47:07 GMT</pubDate>
-</item>
-<item>
-<title>【MIMo：用于婴儿认知发展研究的开源平台，提供分析婴儿认知发育的关键数据和功能】'MIMo - a platform for the research of the cognitive development of infa...</title>
-<link>https://weibo.com/1402400261/O5qDi0lSg</link>
-<guid>https://weibo.com/1402400261/O5qDi0lSg</guid>
-<content:encoded><![CDATA[
-<div> 平台，婴儿，认知发展，研究，开源，数据，功能，分析，关键，GitHub
-
-<br /><br />总结:
-MIMo是一个用于研究婴儿认知发展的平台，提供关键数据和功能，开源且可用于分析婴儿认知发育。用户可以在GitHub上找到该平台的代码。MIMo是一个重要的工具，用于帮助研究人员深入研究婴儿认知发展的过程，并产生有价值的发现。 <div>
-【MIMo：用于婴儿认知发展研究的开源平台，提供分析婴儿认知发育的关键数据和功能】'MIMo - a platform for the research of the cognitive development of infants' GitHub: github.com/trieschlab/MIMo <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnu1c6ud7cj21bi0u0q89.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:45:42 GMT</pubDate>
 </item>
 </channel>
 </rss>
