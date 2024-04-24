@@ -6212,3 +6212,9 @@ Summarized using GPT-3.5-turbo
 Append: [【CoreNet: Apple的深度网络训练库，用于训练深度神经网络，支持各种任务，包括基础模型(如 CLIP 和 LLM)、目标分类、目标检测和语义分割】'CoreNet: A library ...](https://weibo.com/1402400261/ObbAchnpj)
 append_entries: 7
 Finish: 2024-04-24 06:17:29.725063
+------------------------------------------------------
+Started: 2024-04-24 08:15:14.378396
+Existing_entries: 1007
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-24 08:15:16.032758

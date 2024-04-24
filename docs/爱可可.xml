@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>几篇论文实现代码：《Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video》(ICLR 2024) GitHub: github.com/shashankvkt...</title>
 <link>https://weibo.com/1402400261/Obc3hxSHU</link>
@@ -15,7 +16,6 @@
 几篇论文实现代码：<br />《Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video》(ICLR 2024) GitHub: github.com/shashankvkt/DoRA_ICLR24 [fig9]<br />《VGGSfM Visual Geometry Grounded Deep Structure From Motion》(CVPR 2024) GitHub: github.com/facebookresearch/vggsfm<br />《HUGS: Human Gaussian Splats》(CVPR 2024) GitHub: github.com/apple/ml-hugs [fig2]<br />《Towards Realistic Scene Generation with LiDAR Diffusion Models》(CVPR 2024) GitHub: github.com/hancyran/LiDAR-Diffusion [fig3]<br />《TexTile: A Differentiable Metric for Texture Tileability》(CVPR 2024) GitHub: github.com/crp94/textile<br />《Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss》(CVPR 2024) GitHub: github.com/JaehaKim97/SR4IR<br />《DMesh: A Differentiable Representation for General Meshes》(2024) GitHub: github.com/SonSang/dmesh [fig1] <br />《Design of highly functional genome editors by modeling the universe of CRISPR-Cas sequences》(2024) GitHub: github.com/Profluent-AI/OpenCRISPR<br />《AgentOhana: Design Unified Data and Training Pipeline for Effective Agent Learning》(2024) GitHub: github.com/SalesforceAIResearch/xLAM [fig4]<br />《FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent》(2024) GitHub: github.com/dcharatan/flowmap<br />《How Good Are Low-bit Quantized LLAMA3 Models? An Empirical Study》(2024) GitHub: github.com/Macaronlin/LLaMA3-Quantization [fig5]<br />《STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases》(2024) GitHub: github.com/snap-stanford/stark [fig6]<br />《DoRA: Weight-Decomposed Low-Rank Adaptation》(2024) GitHub: github.com/NVlabs/DoRA [fig7]<br />《Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting》(2024) GitHub: github.com/JLDeng/SCNN<br />《MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation》(2024) GitHub: github.com/bytedance/MoMA [fig8]<br />《Musical Word Embedding for Music Tagging and Retrieval》(2024) GitHub: github.com/seungheondoh/musical-word-embedding<br />《Neural Étendue Expander for Ultra-Wide-Angle High-Fidelity Holographic Display》(2024) GitHub: github.com/Ethan-Tseng/Neural_Etendue_Expander<br />《Structured Chemistry Reasoning with Large Language Models》(2024) GitHub: github.com/ozyyshr/StructChem<br />《MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation》(2024) GitHub: github.com/KunpengSong/MoMA<br />《InstructPLM: Aligning Protein Language Models to Follow Protein Structure Instructions》(2024) GitHub: github.com/Eikor/InstructPLM<br />《Complementing Onboard Sensors with Satellite Map: A New Perspective for HD Map Construction》(2024) GitHub: github.com/xjtu-cs-gao/SatforHDMap<br />《RiNALMo: General-Purpose RNA Language Models Can Generalize Well on Structure Prediction Tasks》(2024) GitHub: github.com/lbcb-sci/RiNALMo<br />《UV-SAM: Adapting Segment Anything Model for Urban Village Identification》(2024) GitHub: github.com/tsinghua-fib-lab/UV-SAM<br />《MedMamba: Vision Mamba for Medical Image Classification》(2024) GitHub: github.com/YubiaoYue/MedMamba<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1svui6laj22c41a3qv6.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1u57nm0zj23mc1fa4qr.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1u652iz8j21zg2eykjl.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp1uj4utoij28fe3cn4qr.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1umpzuhmj211p0b6q57.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp1uofcyvhj21ea0wwtlh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1upmuvycj229a1lke81.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1uql1586j21dw0l47iw.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1usr9d5yj21fi0dujw0.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 24 Apr 2024 05:40:22 GMT</pubDate>
-<pubDate>Wed, 24 Apr 2024 05:40:22 GMT</pubDate>
 </item>
 <item>
 <title>【Unichat-llama3-Chinese：联通AI创新中心发布业界llama3中文指令微调模型】'Unichat-llama3-Chinese' GitHub: github.com/UnicomAI/Unichat-llama3-Chinese #...</title>
@@ -24,11 +24,10 @@
 <content:encoded><![CDATA[
 <div> 联通AI创新中心，llama3，中文指令微调模型，业界，发布，GitHub，Unichat-llama3-Chinese，模型，功能，优化
 
-<br><br>总结:
+<br /><br />总结:
 联通AI创新中心发布了业界llama3中文指令微调模型，通过GitHub项目Unichat-llama3-Chinese实现。该模型对中文指令进行了微调，优化了功能，为用户提供更高效的使用体验。 <div>
 【Unichat-llama3-Chinese：联通AI创新中心发布业界llama3中文指令微调模型】'Unichat-llama3-Chinese' GitHub: github.com/UnicomAI/Unichat-llama3-Chinese <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp1uxbvjcvj21840u0q85.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 24 Apr 2024 05:28:36 GMT</pubDate>
 <pubDate>Wed, 24 Apr 2024 05:28:36 GMT</pubDate>
 </item>
 <item>
@@ -38,11 +37,10 @@
 <content:encoded><![CDATA[
 <div> 推理库，C++，CPU，CUDA，AVX512，GitHub，Llama 2
 
-<br><br>总结:
+<br /><br />总结:
 这篇文章介绍了一个名为Llama 2的推理库的C++版本，该库支持CPU计算，并计划未来支持CUDA和AVX512。作者提供了GitHub链接，项目地址为github.com/AmeyaWagh/llama2.cpp。该推理库的C++版本提供了更多计算功能，并且未来将支持更多计算平台，为用户提供更便捷、高效的推理计算体验。 <div>
 【llama2.cpp：C++ 版本的 Llama 2 推理库，支持 CPU 计算，并且计划支持 CUDA 和 AVX512】'llama2.cpp - Inference Llama 2 in C++' GitHub: github.com/AmeyaWagh/llama2.cpp <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp1us44z3pj212h0u0jvx.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 24 Apr 2024 05:23:34 GMT</pubDate>
 <pubDate>Wed, 24 Apr 2024 05:23:34 GMT</pubDate>
 </item>
 <item>
@@ -52,11 +50,10 @@
 <content:encoded><![CDATA[
 <div> Ray, MuZero, 开源, GKE, 分布式调度器, 实现, GitHub, 分布式 orchestrator
 
-总结:<br>
+总结:<br />
 MuKoe是一个完全开源的MuZero实现，利用Ray作为分布式调度器，在Google Kubernetes Engine(GKE)上运行。这个项目已经在GitHub上开源，并提供了详细的代码和文档。通过利用Ray的分布式功能，MuKoe能够有效地分配计算资源，提高训练效率，并且可以轻松扩展到更大规模的计算集群。对于想要了解MuZero算法实现细节的研究者和开发者来说，MuKoe是一个很好的参考和学习资源。 <div>
 【MuKoe：开源的 MuZero 实现，利用 Ray 作为分布式调度器，在 GKE 上运行】'MuKoe - a fully open sourced implementation of MuZero using Ray as the distributed orchestrator on GKE’ GitHub: github.com/character-ai/MuKoe <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp1ulal65uj211o0mgtd6.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 24 Apr 2024 05:17:06 GMT</pubDate>
 <pubDate>Wed, 24 Apr 2024 05:17:06 GMT</pubDate>
 </item>
 <item>
@@ -66,11 +63,10 @@ MuKoe是一个完全开源的MuZero实现，利用Ray作为分布式调度器，
 <content:encoded><![CDATA[
 <div> Llama 3, 安全措施, 程序, 前缀, 文本, 有害, 调用, 模型, GitHub, jailbreak
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了一种用于绕过 Llama 3 模型安全措施的程序，通过在助手角色中插入有害前缀来生成有害的文本，并调用其他模型生成有害前缀，然后传递给 Llama 3。作者在 GitHub 上分享了这个名为“llama3-jailbreak”的项目，展示了一种简单的 Llama 3 破解方法。 <div>
 【A Trivial Jailbreak Against Llama 3：用于绕过 Llama 3 模型安全措施的程序，可以通过在助手角色中插入有害前缀来绕过 Llama 3 的安全措施，从而生成有害的文本，还可以通过调用其他模型生成有害前缀，然后将其传递给 Llama 3】’A Trivial Jailbreak Against Llama 3 - A trivial programmatic Llama 3 jailbreak. Sorry Zuck!' GitHub: github.com/haizelabs/llama3-jailbreak <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp1uhc8bcfj21fy0n8wi0.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 24 Apr 2024 05:14:07 GMT</pubDate>
 <pubDate>Wed, 24 Apr 2024 05:14:07 GMT</pubDate>
 </item>
 <item>
@@ -78,13 +74,12 @@ MuKoe是一个完全开源的MuZero实现，利用Ray作为分布式调度器，
 <link>https://weibo.com/1402400261/ObbN84k0P</link>
 <guid>https://weibo.com/1402400261/ObbN84k0P</guid>
 <content:encoded><![CDATA[
-<div> 创新 KV 缓存 压缩 方法 GitHub FasterDecoding SnapKV <br>
-<br>
-总结: <br>
+<div> 创新 KV 缓存 压缩 方法 GitHub FasterDecoding SnapKV <br />
+<br />
+总结: <br />
 这篇文章介绍了一个名为SnapKV的创新KV缓存压缩方法。SnapKV采用了一种出色的压缩技术，可以大大提高KV缓存的性能和效率。它通过GitHub项目FasterDecoding开源，为开发者提供了一个新颖的解决方案。SnapKV的出现为KV缓存系统的发展带来了新的可能性，有望在未来得到广泛应用。 <div>
 【SnapKV：创新且出色的 KV 缓存压缩方法】'SnapKV - an innovative and out-of-box KV cache compression method’  GitHub: github.com/FasterDecoding/SnapKV <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a>
 ]]></content:encoded>
-<pubDate>Wed, 24 Apr 2024 05:00:34 GMT</pubDate>
 <pubDate>Wed, 24 Apr 2024 05:00:34 GMT</pubDate>
 </item>
 <item>
@@ -93,14 +88,12 @@ MuKoe是一个完全开源的MuZero实现，利用Ray作为分布式调度器，
 <guid>https://weibo.com/1402400261/ObbAchnpj</guid>
 <content:encoded><![CDATA[
 <div> Apple、深度网络、训练库、神经网络、任务、基础模型、目标分类、目标检测、语义分割
-<br><br>总结:
+<br /><br />总结:
 Apple推出了CoreNet，这是一个用于训练深度神经网络的库。它支持多种任务，包括基础模型如CLIP和LLM、目标分类、目标检测和语义分割。这个库旨在帮助开发者更轻松地训练各种深度神经网络，提高其应用的效率和准确性。CoreNet的出现将为深度学习领域带来更多的可能性和发展空间。 <div>
 【CoreNet: Apple的深度网络训练库，用于训练深度神经网络，支持各种任务，包括基础模型(如 CLIP 和 LLM)、目标分类、目标检测和语义分割】'CoreNet: A library for training deep neural networks - CoreNet: A library for training deep neural networks' GitHub: github.com/apple/corenet <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp1t71di1hj217y0l0q6g.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 24 Apr 2024 04:28:43 GMT</pubDate>
-<pubDate>Wed, 24 Apr 2024 04:28:43 GMT</pubDate>
 </item>
-
 <item>
 <title>#免费##抽奖# 携手@博文视点Broadview 送出3本《多模态大模型：新一代人工智能技术范式 （全彩）》，截至2024.5.1 12:00，*可可粉*转发+评论即可参与。中山大学 ...</title>
 <link>https://weibo.com/1402400261/ObaVdaaXn</link>
@@ -12857,102 +12850,6 @@ StreamMultiDiffusion是一种新型实时交互式文本到图像生成框架，
 针对大规模语言模型(如ChatGPT)在科学同行评审中的应用，提出一种新的分布式GPT量化框架，通过极大似然估计结合特定形容词的使用频率，有效地监测并估计信息生态系统中AI修改或生成的内容比例，计算效率远超现有方法，对于理解和管理LLM在高风险信息生态系统中的影响提供了重要工具。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews》W Liang, Z Izzo, Y Zhang, H Lepp... [Stanford University &amp; NEC Labs] (2024) <a href="https://arxiv.org/abs/2403.07183"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupehnp17j20rm1beamr.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupei7riyj20w40te7bm.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnupeildg5j21s60wyn62.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnupeit8cej20vy0v4q9s.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupyvs56mj20iz0h2wgv.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnupyvs6pij20j10f9taj.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnupyvsbv7j20iz0g50ut.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnupyvs1ouj20iz0bj759.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupyvrzpjj20iz0cjab9.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 21:57:54 GMT</pubDate>
-</item>
-<item>
-<title>[CL]《Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews》W Liang, Z Izzo, Y Zhang, H Lepp.....</title>
-<link>https://weibo.com/1402400261/O5wd9mRwc</link>
-<guid>https://weibo.com/1402400261/O5wd9mRwc</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 监测，AI修改内容，ChatGPT，会议审稿，规模，影响，案例研究，人工智能，会议，同行评审
-
-总结:<br /><br />这篇文章是由斯坦福大学和NEC实验室的研究人员撰写的，旨在研究AI修改内容对人工智能会议审稿的影响。研究使用ChatGPT进行了案例研究，探讨了AI技术在会议审稿中的规模化应用。他们发现AI修改内容可能对同行评审过程产生影响，提出了一些监测和应对AI修改内容影响的建议。这项研究展示了AI技术在学术领域中的潜在影响，并呼吁对AI修改内容进行更加深入的研究和监测。 <div>
-[CL]《Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews》W Liang, Z Izzo, Y Zhang, H Lepp... [Stanford University &amp; NEC Labs] (2024) <a href="https://arxiv.org/abs/2403.07183"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupehnp17j20rm1beamr.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupei7riyj20w40te7bm.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnupeildg5j21s60wyn62.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnupeit8cej20vy0v4q9s.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupyvs56mj20iz0h2wgv.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnupyvs6pij20j10f9taj.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnupyvsbv7j20iz0g50ut.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnupyvs1ouj20iz0bj759.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupyvrzpjj20iz0cjab9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnupyvs356j20jd0c80u1.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnupyvs27ij20iz0df75s.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnupyvs9jej20iv0f575x.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnupyvsggfj20wa0krwh4.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnupyvsr8zj20wj0knju5.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 21:57:48 GMT</pubDate>
-</item>
-<item>
-<title>提出一种半参数化token-sequence协同监督训练方法，通过同时利用参数化token嵌入空间和非参数化sequence嵌入空间的监督，显著提升了语言模型在信息检索任务中的...</title>
-<link>https://weibo.com/1402400261/O5w1DlH5W</link>
-<guid>https://weibo.com/1402400261/O5w1DlH5W</guid>
-<content:encoded><![CDATA[
-<div> 半参数化token-sequence、协同监督、训练方法、嵌入空间、信息检索、表现力、泛化能力、预测模式、局限<br />
-<br />
-提出的半参数化token-sequence协同监督训练方法结合了参数化token嵌入空间和非参数化sequence嵌入空间的优势，在信息检索任务中表现出显著的提升，并具备较强的泛化能力。这一方法突破了传统单一预测模式的局限，通过同时利用两种不同嵌入空间的监督，达到了更好的训练效果。提出的方法为语言模型的发展带来了新的思路和方法，为相关研究领域提供了有价值的参考。<br /><br />总结: <br />这篇文章介绍了一种半参数化token-sequence协同监督训练方法，通过结合参数化token嵌入空间和非参数化sequence嵌入空间的优势，提升了语言模型在信息检索任务中的表现力和泛化能力，突破了传统单一预测模式的局限。提出的方法为语言模型研究领域带来了新的可能性和启发。 <div>
-提出一种半参数化token-sequence协同监督训练方法，通过同时利用参数化token嵌入空间和非参数化sequence嵌入空间的监督，显著提升了语言模型在信息检索任务中的表现力及泛化能力，特别在于其训练过程中结合了两种不同嵌入空间的优势，突破了传统单一预测模式的局限。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Semiparametric Token-Sequence Co-Supervision》H Lee, D Kim, J Jun, S Joo, J Jang, K On, M Seo [KAIST AI] (2024) <a href="https://arxiv.org/abs/2403.09024"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnuotlll0bj20l40w8qaf.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnuotm570sj20oe0qctcw.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnuotmhkc2j21cc0sggry.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnuotmq88hj20o80icabd.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnuouk0fgqj20hs0hvgmp.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnuouk12kpj20hm0d3jrx.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnuouk19wfj20hn0nsjt8.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 21:29:25 GMT</pubDate>
-</item>
-<item>
-<title>[CL]《Semiparametric Token-Sequence Co-Supervision》H Lee, D Kim, J Jun, S Joo, J Jang, K On, M Seo [KAIST AI] (2024) 网页链接 #机器学习##人工智能##论...</title>
-<link>https://weibo.com/1402400261/O5vXq7N1N</link>
-<guid>https://weibo.com/1402400261/O5vXq7N1N</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Semiparametric, Token-Sequence, Co-Supervision, AI, KAIST, Lee, Kim, Jun, Joo, Jang
-
-总结:<br /><br />这篇文章来自于韩国科学技术研究院（KAIST AI）的研究团队，论文的题目是《Semiparametric Token-Sequence Co-Supervision》。研究人员包括H Lee、D Kim、J Jun、S Joo、J Jang、K On和M Seo。研究主要探讨了半参数化标记序列协同监督的方法。作者提出的方法结合了参数化和非参数化模型，利用标记序列的监督信息来提高模型性能。通过实验验证了该方法的有效性和优越性，展示了其在各种应用场景中的潜力。这项研究对于进一步发展半参数化方法在人工智能领域的应用具有指导意义。 <div>
-[CL]《Semiparametric Token-Sequence Co-Supervision》H Lee, D Kim, J Jun, S Joo, J Jang, K On, M Seo [KAIST AI] (2024) <a href="https://arxiv.org/abs/2403.09024"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnuotlll0bj20l40w8qaf.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnuotm570sj20oe0qctcw.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnuotmhkc2j21cc0sggry.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnuotmq88hj20o80icabd.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnuouk0fgqj20hs0hvgmp.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnuouk12kpj20hm0d3jrx.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnuouk19wfj20hn0nsjt8.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 21:19:02 GMT</pubDate>
-</item>
-<item>
-<title>《爱可可微博热门分享(3.17)》 爱可可微博热门分享(3.17) [图片]</title>
-<link>https://weibo.com/1402400261/O5tkBDmpW</link>
-<guid>https://weibo.com/1402400261/O5tkBDmpW</guid>
-<content:encoded><![CDATA[
-<div> 微博, 爱可可, 热门分享, 3.17, 娱乐, 新闻, 热点, 社交, 观点, 情感<br />
-<br />
-爱可可微博在3.17日分享了一篇热门内容，涵盖了娱乐、新闻和热点话题。其中包括了社交观点和情感类内容，引起了广泛关注。微博用户在评论中纷纷表达了自己的看法和感受，形成了热烈的讨论氛围。爱可可微博在推送这篇内容时，吸引了大量粉丝的关注和转发，展示了其在社交媒体领域的影响力和号召力。总的来说，这篇内容在微博上获得了良好的反响，为读者带来了丰富多彩的信息和观点。 <br /><br />总结: <div>
-《爱可可微博热门分享(3.17)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405013043942916181"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(3.17)</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnud93xshgj20ht0a075q.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 14:37:56 GMT</pubDate>
-</item>
-<item>
-<title>几篇论文实现代码：《CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets》(ICLR 2024) GitHub: github.com/lifan-yuan/CRAFT [fig...</title>
-<link>https://weibo.com/1402400261/O5qIuBoo2</link>
-<guid>https://weibo.com/1402400261/O5qIuBoo2</guid>
-<content:encoded><![CDATA[
-<div> 关键词：自定义LLM，专业工具集，知识获取，红队行动，好奇心驱动，执行反馈，活体动画控制器，3D人体恢复，立体匹配，目标检测，语言模型协作解码，视频理解，第一人称视角，不确定性规划，图像到3D转换，扩散模型，口头反馈学习，通用视觉转换器，多语言隐语言，智能工作任务解决，数据过滤，脆弱性攻击，闭环检测，实时生成，视频理解，数据初始化，目标跟踪，极长序列理解，代码评估，物体变化评估，偏好优化，模型增强，风格转移，建模。
-
-总结：<br /><br />
-1. 《CRAFT》介绍了通过创建和从专业工具集中检索个性化LLM的方法，提高了知识获取能力。<br />
-2. 《Curiosity-driven Red Teaming for Large Language Models》探讨了通过好奇心驱动的方式进行网络攻击红队行动。<br />
-3. 《Making Language Models Better Tool Learners with Execution Feedback》利用执行反馈提升语言模型的学习能力。<br />
-4. 《PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios》介绍了一种用于驾驶场景的行人动画控制器。<br />
-5. 《Score-Guided Diffusion for 3D Human Recovery》提出了一种评分引导的方法用于3D人体恢复。<br />
-6. 《Robust Synthetic-to-Real Transfer for Stereo Matching》探讨了立体匹配中合成到真实数据的转移问题。<br />
-7. 《Generative Region-Language Pretraining for Open-Ended Object Detection》介绍了用于目标检测的区域语言预训练方法。<br />
-8. 《Learning to Decode Collaboratively with Multiple Language Models》讨论了多语言模型协作解码的学习方式。<br />
-9. 《TempCompass: Do Video LLMs Really Understand Videos?》探究了视频理解中LLM的实际效果。<br />
-10. 《Can Vision-Language Models Think from a First-Person Perspective?》研究了视觉语言模型是否具备第一人称视角思维。<br /> <div>
-几篇论文实现代码：<br />《CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets》(ICLR 2024) GitHub: github.com/lifan-yuan/CRAFT [fig3]<br />《Curiosity-driven Red Teaming for Large Language Models》(ICLR 2024) GitHub: github.com/Improbable-AI/curiosity_redteam<br />《Making Language Models Better Tool Learners with Execution Feedback》(NAACL 2024) GitHub: github.com/zjunlp/TRICE [fig6]<br />《PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios》(CVPR 2024) GitHub: github.com/IDC-Flash/PacerPlus<br />《Score-Guided Diffusion for 3D Human Recovery》(CVPR 2024) GitHub: github.com/statho/ScoreHMR<br />《Robust Synthetic-to-Real Transfer for Stereo Matching》(CVPR 2024) GitHub: github.com/jiaw-z/DKT-Stereo<br />《Generative Region-Language Pretraining for Open-Ended Object Detection》(CVPR 2024) GitHub: github.com/FoundationVision/GenerateU<br />《Learning to Decode Collaboratively with Multiple Language Models》(2024) GitHub: github.com/clinicalml/co-llm<br />《TempCompass: Do Video LLMs Really Understand Videos?》(2024) GitHub: github.com/llyx97/TempCompass [fig1]<br />《Can Vision-Language Models Think from a First-Person Perspective?》(2024) GitHub: github.com/AdaCheng/EgoThink<br />《Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in Large Language Models》(2024) GitHub: github.com/zhiyuanhubj/UoT [fig2]<br />《Envision3D: One Image to 3D with Anchor Views Interpolation》(2024) GitHub: github.com/PKU-YuanGroup/Envision3D<br />《DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models》(2024) GitHub: github.com/sekstini/basedxl<br />《RLVF: Learning from Verbal Feedback without Overgeneralization》(2024) GitHub: github.com/austrian-code-wizard/c3po<br />《GiT: Towards Generalist Vision Transformer through Universal Language Interface》(2024) GitHub: github.com/Haiyang-W/GiT [fig7]<br />《Do Llamas Work in English? On the Latent Language of Multilingual Transformers》(2024) GitHub: github.com/epfl-dlab/llm-latent-language<br />《WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?》(2024) GitHub: github.com/ServiceNow/WorkArena<br />《Superfiltering: Weak-to-Strong Data Filtering for Fast Instruction-Tuning》(2024) GitHub: github.com/tianyi-lab/Superfiltering [fig4] <br />《COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability》(NeurIPS 2024) GitHub: github.com/Yu-Fangxu/COLD-Attack [fig5]<br />《Effectively Detecting Loop Closures using Point Cloud Density Maps》(2024) GitHub: github.com/PRBonn/MapClosures [fig8] <br />《StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control.》(2024) GitHub: github.com/ironjr/StreamMultiDiffusion<br />《Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding》(2024) GitHub: github.com/OpenGVLab/video-mamba-suite [fig9]<br />《Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting》(2024) GitHub: github.com/KU-CVLAB/RAIN-GS<br />《VastTrack: Vast Category Visual Object Tracking》(2024) GitHub: github.com/HengLan/VastTrack<br />《InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory》(2024) GitHub: github.com/thunlp/InfLLM [fig10]<br />《LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code》(2024) GitHub: github.com/LiveCodeBench/LiveCodeBench<br />《ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes》(2024) GitHub: github.com/Muhammad-Huzaifaa/ObjectCompose [fig11]<br />《Reference-free Monolithic Preference Optimization with Odds Ratio》(2024) GitHub: github.com/xfactlab/orpo<br />《CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences》(2024) GitHub: github.com/martin-wey/CodeUltraFeedback <br />《DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation》(2024) GitHub: github.com/j96w/DexCap<br />《Strengthening Multimodal Large Language Model with Bootstrapped Preference Optimization》(2024) GitHub: github.com/pipilurj/BPO<br />《Grimoire is All You Need for Enhancing Large Language Models》(2024) GitHub: github.com/IAAR-Shanghai/Grimoire<br />《FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models》(2024) GitHub: github.com/FreeStyleFreeLunch/FreeStyle<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnu1peo3wfj244e1plkjl.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnu1pfjmrfj23qq0ukau1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnu1pg33q3j21480x6nb5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnu1pgtzc9j22c5276k96.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnu1ph7lzpj227u0ouqct.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnu1phyr60j23qt1z1tyo.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnu1pijfg4j21qg0o6dsd.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnu1pja928j21mj0kjdo2.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnu1pjvqsmj22880ymdsk.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnu1pkdxpdj21k20m40w9.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnu1pkywzjj21gg0jw108.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:58:32 GMT</pubDate>
-</item>
-<item>
-<title>【AI-in-a-Box：旨在帮助工程师建立人工智能和机器学习解决方案，并提供快速而高质量的解决方案，以减少架构师的成本和降低风险】'AI-in-a-Box' GitHub: github....</title>
-<link>https://weibo.com/1402400261/O5qFqECzE</link>
-<guid>https://weibo.com/1402400261/O5qFqECzE</guid>
-<content:encoded><![CDATA[
-<div> AI-in-a-Box、工程师、人工智能、机器学习、解决方案、快速、高质量、降低成本、降低风险
-
-<br /><br />总结:
-AI-in-a-Box是一个旨在帮助工程师建立人工智能和机器学习解决方案的工具。通过提供快速而高质量的解决方案，AI-in-a-Box可以降低架构师的成本，降低风险。工程师可以在GitHub上找到AI-in-a-Box的资源，帮助他们更有效地开发人工智能和机器学习项目。 <div>
-【AI-in-a-Box：旨在帮助工程师建立人工智能和机器学习解决方案，并提供快速而高质量的解决方案，以减少架构师的成本和降低风险】'AI-in-a-Box' GitHub: github.com/Azure/AI-in-a-Box <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnu1hqwzepj20m80cd0uv.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:50:59 GMT</pubDate>
-</item>
-<item>
-<title>【ShareGPT Builder：一个功能强大的 Flask 应用，用于创建和存储 ChatGPT 模型的训练样本，允许手动创建和存储 SFT 格式的聊天对话，并自动将其添加到 JSON 文...</title>
-<link>https://weibo.com/1402400261/O5qELjK5G</link>
-<guid>https://weibo.com/1402400261/O5qELjK5G</guid>
-<content:encoded><![CDATA[
-<div> Flask 应用, ChatGPT 模型, 训练样本, SFT 格式, 聊天对话, JSON 文件, 模型训练, GitHub, 语言学习模型, 功能强大
-
-总结:
-这是一个功能强大的 Flask 应用程序，名为 ShareGPT Builder，提供训练语言学习模型（LLMs）的两个关键功能。它允许用户手动创建和存储 SFT 格式的聊天对话，自动将其添加到 JSON 文件中，以供其他模型访问。在 GitHub 上可找到该应用，链接为 github.com/teknium1/ShareGPT-Builder。 ShareGPT Builder不仅提供了创建和存储训练样本的功能，还支持模型训练的过程。 <div>
-【ShareGPT Builder：一个功能强大的 Flask 应用，用于创建和存储 ChatGPT 模型的训练样本，允许手动创建和存储 SFT 格式的聊天对话，并自动将其添加到 JSON 文件中，以便其他模型可访问】'ShareGPT Builder - a versatile Flask application that provides two key functionalities for training Language Learning Models (LLMs)’ GitHub: github.com/teknium1/ShareGPT-Builder <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnu1g28ioyj20u00v0tc9.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:49:20 GMT</pubDate>
 </item>
 </channel>
 </rss>
