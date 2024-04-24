@@ -4311,3 +4311,12 @@ Summarized using GPT-3.5-turbo
 Append: [#Adobe推出新版Photoshop# 全面集成AIAdobe 宣布推出新版 Photoshop。它引入了新的 Firefly Image 3 Foundation Model，用于从文本生成图像。具体而言，此次更新...](https://weibo.com/6105753431/ObakSdCen)
 append_entries: 4
 Finish: 2024-04-24 04:13:39.592756
+------------------------------------------------------
+Started: 2024-04-24 06:16:57.977740
+Existing_entries: 533
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 76
+Summarized using GPT-3.5-turbo
+Append: [【#Adobe新AI让模糊视频变高清#】模糊视频一键变高清，Adobe新AI来了！它叫VideoGigaGAN，能将所有视频的分辨率提高8倍，人像、动物、风景，各种风格的视频都能...](https://weibo.com/6105753431/ObbjnCAeo)
+append_entries: 1
+Finish: 2024-04-24 06:17:04.283103

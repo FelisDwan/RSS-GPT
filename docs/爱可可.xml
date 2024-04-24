@@ -5,20 +5,115 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>几篇论文实现代码：《Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video》(ICLR 2024) GitHub: github.com/shashankvkt...</title>
+<link>https://weibo.com/1402400261/Obc3hxSHU</link>
+<guid>https://weibo.com/1402400261/Obc3hxSHU</guid>
+<content:encoded><![CDATA[
+<div> MoMA, Multimodal LLM Adapter, Fast Personalized Image Generation, GitHub, KunpengSong, MoMA, 2024, personalized, image generation, adapter
+
+总结: 该项研究提出了MoMA，这是一个多模态LLM适配器，可实现快速个性化图像生成。研究团队通过GitHub平台发布了代码，并进行了详细的实验和测试。这一技术创新能够实现个性化图像生成，并展示了其在不同场景下的应用潜力。MoMA的发布将对个性化图像生成领域具有重大的推动作用。 <div>
+几篇论文实现代码：<br />《Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video》(ICLR 2024) GitHub: github.com/shashankvkt/DoRA_ICLR24 [fig9]<br />《VGGSfM Visual Geometry Grounded Deep Structure From Motion》(CVPR 2024) GitHub: github.com/facebookresearch/vggsfm<br />《HUGS: Human Gaussian Splats》(CVPR 2024) GitHub: github.com/apple/ml-hugs [fig2]<br />《Towards Realistic Scene Generation with LiDAR Diffusion Models》(CVPR 2024) GitHub: github.com/hancyran/LiDAR-Diffusion [fig3]<br />《TexTile: A Differentiable Metric for Texture Tileability》(CVPR 2024) GitHub: github.com/crp94/textile<br />《Beyond Image Super-Resolution for Image Recognition with Task-Driven Perceptual Loss》(CVPR 2024) GitHub: github.com/JaehaKim97/SR4IR<br />《DMesh: A Differentiable Representation for General Meshes》(2024) GitHub: github.com/SonSang/dmesh [fig1] <br />《Design of highly functional genome editors by modeling the universe of CRISPR-Cas sequences》(2024) GitHub: github.com/Profluent-AI/OpenCRISPR<br />《AgentOhana: Design Unified Data and Training Pipeline for Effective Agent Learning》(2024) GitHub: github.com/SalesforceAIResearch/xLAM [fig4]<br />《FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent》(2024) GitHub: github.com/dcharatan/flowmap<br />《How Good Are Low-bit Quantized LLAMA3 Models? An Empirical Study》(2024) GitHub: github.com/Macaronlin/LLaMA3-Quantization [fig5]<br />《STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases》(2024) GitHub: github.com/snap-stanford/stark [fig6]<br />《DoRA: Weight-Decomposed Low-Rank Adaptation》(2024) GitHub: github.com/NVlabs/DoRA [fig7]<br />《Disentangling Structured Components: Towards Adaptive, Interpretable and Scalable Time Series Forecasting》(2024) GitHub: github.com/JLDeng/SCNN<br />《MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation》(2024) GitHub: github.com/bytedance/MoMA [fig8]<br />《Musical Word Embedding for Music Tagging and Retrieval》(2024) GitHub: github.com/seungheondoh/musical-word-embedding<br />《Neural Étendue Expander for Ultra-Wide-Angle High-Fidelity Holographic Display》(2024) GitHub: github.com/Ethan-Tseng/Neural_Etendue_Expander<br />《Structured Chemistry Reasoning with Large Language Models》(2024) GitHub: github.com/ozyyshr/StructChem<br />《MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation》(2024) GitHub: github.com/KunpengSong/MoMA<br />《InstructPLM: Aligning Protein Language Models to Follow Protein Structure Instructions》(2024) GitHub: github.com/Eikor/InstructPLM<br />《Complementing Onboard Sensors with Satellite Map: A New Perspective for HD Map Construction》(2024) GitHub: github.com/xjtu-cs-gao/SatforHDMap<br />《RiNALMo: General-Purpose RNA Language Models Can Generalize Well on Structure Prediction Tasks》(2024) GitHub: github.com/lbcb-sci/RiNALMo<br />《UV-SAM: Adapting Segment Anything Model for Urban Village Identification》(2024) GitHub: github.com/tsinghua-fib-lab/UV-SAM<br />《MedMamba: Vision Mamba for Medical Image Classification》(2024) GitHub: github.com/YubiaoYue/MedMamba<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1svui6laj22c41a3qv6.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1u57nm0zj23mc1fa4qr.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1u652iz8j21zg2eykjl.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp1uj4utoij28fe3cn4qr.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp1umpzuhmj211p0b6q57.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp1uofcyvhj21ea0wwtlh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1upmuvycj229a1lke81.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp1uql1586j21dw0l47iw.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp1usr9d5yj21fi0dujw0.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 24 Apr 2024 05:40:22 GMT</pubDate>
+<pubDate>Wed, 24 Apr 2024 05:40:22 GMT</pubDate>
+</item>
+<item>
+<title>【Unichat-llama3-Chinese：联通AI创新中心发布业界llama3中文指令微调模型】'Unichat-llama3-Chinese' GitHub: github.com/UnicomAI/Unichat-llama3-Chinese #...</title>
+<link>https://weibo.com/1402400261/ObbYvoxwi</link>
+<guid>https://weibo.com/1402400261/ObbYvoxwi</guid>
+<content:encoded><![CDATA[
+<div> 联通AI创新中心，llama3，中文指令微调模型，业界，发布，GitHub，Unichat-llama3-Chinese，模型，功能，优化
+
+<br><br>总结:
+联通AI创新中心发布了业界llama3中文指令微调模型，通过GitHub项目Unichat-llama3-Chinese实现。该模型对中文指令进行了微调，优化了功能，为用户提供更高效的使用体验。 <div>
+【Unichat-llama3-Chinese：联通AI创新中心发布业界llama3中文指令微调模型】'Unichat-llama3-Chinese' GitHub: github.com/UnicomAI/Unichat-llama3-Chinese <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp1uxbvjcvj21840u0q85.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 24 Apr 2024 05:28:36 GMT</pubDate>
+<pubDate>Wed, 24 Apr 2024 05:28:36 GMT</pubDate>
+</item>
+<item>
+<title>【llama2.cpp：C++ 版本的 Llama 2 推理库，支持 CPU 计算，并且计划支持 CUDA 和 AVX512】'llama2.cpp - Inference Llama 2 in C++' GitHub: github.com/AmeyaW...</title>
+<link>https://weibo.com/1402400261/ObbWsEEOu</link>
+<guid>https://weibo.com/1402400261/ObbWsEEOu</guid>
+<content:encoded><![CDATA[
+<div> 推理库，C++，CPU，CUDA，AVX512，GitHub，Llama 2
+
+<br><br>总结:
+这篇文章介绍了一个名为Llama 2的推理库的C++版本，该库支持CPU计算，并计划未来支持CUDA和AVX512。作者提供了GitHub链接，项目地址为github.com/AmeyaWagh/llama2.cpp。该推理库的C++版本提供了更多计算功能，并且未来将支持更多计算平台，为用户提供更便捷、高效的推理计算体验。 <div>
+【llama2.cpp：C++ 版本的 Llama 2 推理库，支持 CPU 计算，并且计划支持 CUDA 和 AVX512】'llama2.cpp - Inference Llama 2 in C++' GitHub: github.com/AmeyaWagh/llama2.cpp <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp1us44z3pj212h0u0jvx.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 24 Apr 2024 05:23:34 GMT</pubDate>
+<pubDate>Wed, 24 Apr 2024 05:23:34 GMT</pubDate>
+</item>
+<item>
+<title>【MuKoe：开源的 MuZero 实现，利用 Ray 作为分布式调度器，在 GKE 上运行】'MuKoe - a fully open sourced implementation of MuZero using Ray as the distrib...</title>
+<link>https://weibo.com/1402400261/ObbTQ9EuI</link>
+<guid>https://weibo.com/1402400261/ObbTQ9EuI</guid>
+<content:encoded><![CDATA[
+<div> Ray, MuZero, 开源, GKE, 分布式调度器, 实现, GitHub, 分布式 orchestrator
+
+总结:<br>
+MuKoe是一个完全开源的MuZero实现，利用Ray作为分布式调度器，在Google Kubernetes Engine(GKE)上运行。这个项目已经在GitHub上开源，并提供了详细的代码和文档。通过利用Ray的分布式功能，MuKoe能够有效地分配计算资源，提高训练效率，并且可以轻松扩展到更大规模的计算集群。对于想要了解MuZero算法实现细节的研究者和开发者来说，MuKoe是一个很好的参考和学习资源。 <div>
+【MuKoe：开源的 MuZero 实现，利用 Ray 作为分布式调度器，在 GKE 上运行】'MuKoe - a fully open sourced implementation of MuZero using Ray as the distributed orchestrator on GKE’ GitHub: github.com/character-ai/MuKoe <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp1ulal65uj211o0mgtd6.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 24 Apr 2024 05:17:06 GMT</pubDate>
+<pubDate>Wed, 24 Apr 2024 05:17:06 GMT</pubDate>
+</item>
+<item>
+<title>【A Trivial Jailbreak Against Llama 3：用于绕过 Llama 3 模型安全措施的程序，可以通过在助手角色中插入有害前缀来绕过 Llama 3 的安全措施，从而生成有害的...</title>
+<link>https://weibo.com/1402400261/ObbSD4bIr</link>
+<guid>https://weibo.com/1402400261/ObbSD4bIr</guid>
+<content:encoded><![CDATA[
+<div> Llama 3, 安全措施, 程序, 前缀, 文本, 有害, 调用, 模型, GitHub, jailbreak
+
+<br><br>总结:
+本文介绍了一种用于绕过 Llama 3 模型安全措施的程序，通过在助手角色中插入有害前缀来生成有害的文本，并调用其他模型生成有害前缀，然后传递给 Llama 3。作者在 GitHub 上分享了这个名为“llama3-jailbreak”的项目，展示了一种简单的 Llama 3 破解方法。 <div>
+【A Trivial Jailbreak Against Llama 3：用于绕过 Llama 3 模型安全措施的程序，可以通过在助手角色中插入有害前缀来绕过 Llama 3 的安全措施，从而生成有害的文本，还可以通过调用其他模型生成有害前缀，然后将其传递给 Llama 3】’A Trivial Jailbreak Against Llama 3 - A trivial programmatic Llama 3 jailbreak. Sorry Zuck!' GitHub: github.com/haizelabs/llama3-jailbreak <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp1uhc8bcfj21fy0n8wi0.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 24 Apr 2024 05:14:07 GMT</pubDate>
+<pubDate>Wed, 24 Apr 2024 05:14:07 GMT</pubDate>
+</item>
+<item>
+<title>【SnapKV：创新且出色的 KV 缓存压缩方法】'SnapKV - an innovative and out-of-box KV cache compression method’ GitHub: github.com/FasterDecoding/SnapKV ...</title>
+<link>https://weibo.com/1402400261/ObbN84k0P</link>
+<guid>https://weibo.com/1402400261/ObbN84k0P</guid>
+<content:encoded><![CDATA[
+<div> 创新 KV 缓存 压缩 方法 GitHub FasterDecoding SnapKV <br>
+<br>
+总结: <br>
+这篇文章介绍了一个名为SnapKV的创新KV缓存压缩方法。SnapKV采用了一种出色的压缩技术，可以大大提高KV缓存的性能和效率。它通过GitHub项目FasterDecoding开源，为开发者提供了一个新颖的解决方案。SnapKV的出现为KV缓存系统的发展带来了新的可能性，有望在未来得到广泛应用。 <div>
+【SnapKV：创新且出色的 KV 缓存压缩方法】'SnapKV - an innovative and out-of-box KV cache compression method’  GitHub: github.com/FasterDecoding/SnapKV <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a>
+]]></content:encoded>
+<pubDate>Wed, 24 Apr 2024 05:00:34 GMT</pubDate>
+<pubDate>Wed, 24 Apr 2024 05:00:34 GMT</pubDate>
+</item>
+<item>
+<title>【CoreNet: Apple的深度网络训练库，用于训练深度神经网络，支持各种任务，包括基础模型(如 CLIP 和 LLM)、目标分类、目标检测和语义分割】'CoreNet: A library ...</title>
+<link>https://weibo.com/1402400261/ObbAchnpj</link>
+<guid>https://weibo.com/1402400261/ObbAchnpj</guid>
+<content:encoded><![CDATA[
+<div> Apple、深度网络、训练库、神经网络、任务、基础模型、目标分类、目标检测、语义分割
+<br><br>总结:
+Apple推出了CoreNet，这是一个用于训练深度神经网络的库。它支持多种任务，包括基础模型如CLIP和LLM、目标分类、目标检测和语义分割。这个库旨在帮助开发者更轻松地训练各种深度神经网络，提高其应用的效率和准确性。CoreNet的出现将为深度学习领域带来更多的可能性和发展空间。 <div>
+【CoreNet: Apple的深度网络训练库，用于训练深度神经网络，支持各种任务，包括基础模型(如 CLIP 和 LLM)、目标分类、目标检测和语义分割】'CoreNet: A library for training deep neural networks - CoreNet: A library for training deep neural networks' GitHub: github.com/apple/corenet <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp1t71di1hj217y0l0q6g.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 24 Apr 2024 04:28:43 GMT</pubDate>
+<pubDate>Wed, 24 Apr 2024 04:28:43 GMT</pubDate>
+</item>
+
+<item>
 <title>#免费##抽奖# 携手@博文视点Broadview 送出3本《多模态大模型：新一代人工智能技术范式 （全彩）》，截至2024.5.1 12:00，*可可粉*转发+评论即可参与。中山大学 ...</title>
 <link>https://weibo.com/1402400261/ObaVdaaXn</link>
 <guid>https://weibo.com/1402400261/ObaVdaaXn</guid>
 <content:encoded><![CDATA[
 <div> 中山大学、HCP 实验室、多模态大模型、人工智能、技术方法、开源平台、应用场景、因果推理、世界模型、多智能体
 
-<br><br>总结:
+<br /><br />总结:
 中山大学HCP实验室推出的《多模态大模型：新一代人工智能技术范式》介绍了多模态大模型的技术方法、开源平台和应用场景，深入浅出地探讨了因果推理、世界模型、多智能体等前沿领域。这本全彩书籍有助于读者全面了解多模态大模型的特点和发展方向，对促进新一代人工智能技术范式和通用人工智能的发展具有重要推动作用。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《多模态大模型：新一代人工智能技术范式 （全彩）》，截至2024.5.1 12:00，*可可粉*转发+评论即可参与。中山大学 HCP 实验室出品，本书以深入浅出的方式介绍多模态大模型的技术方法、开源平台和应用场景，并详细阐述因果推理、世界模型及多智能体与具身智能等前沿技术领域，有助于读者全面了解多模态大模型的特点及发展方向，对新一代人工智能技术范式和通用人工智能的发展起到重要推动作用。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp1q8lh8x1j20m80m8djk.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp1q8n4hifj20m80m8gnu.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp1q8pgbfhj20m80m8dj2.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp1q8r3pagj20m80m80ur.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 24 Apr 2024 02:47:44 GMT</pubDate>
-<pubDate>Wed, 24 Apr 2024 02:47:44 GMT</pubDate>
 </item>
-
 <item>
 <title>【用Pytorch从头实现Transformer】《Creating a Transformer From Scratch - Part One: The Attention Mechanism | Mixed Precision》 网页链接《Creating a Tra...</title>
 <link>https://weibo.com/1402400261/Oba0q9CiJ</link>
@@ -12858,19 +12953,6 @@ AI-in-a-Box是一个旨在帮助工程师建立人工智能和机器学习解决
 【ShareGPT Builder：一个功能强大的 Flask 应用，用于创建和存储 ChatGPT 模型的训练样本，允许手动创建和存储 SFT 格式的聊天对话，并自动将其添加到 JSON 文件中，以便其他模型可访问】'ShareGPT Builder - a versatile Flask application that provides two key functionalities for training Language Learning Models (LLMs)’ GitHub: github.com/teknium1/ShareGPT-Builder <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnu1g28ioyj20u00v0tc9.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 17 Mar 2024 07:49:20 GMT</pubDate>
-</item>
-<item>
-<title>【视频生成相关研究列表】’A Collection of Video Generation Studies - A collection of awesome video generation studies.' GitHub: github.com/AlonzoLeeeo...</title>
-<link>https://weibo.com/1402400261/O5qDRoorO</link>
-<guid>https://weibo.com/1402400261/O5qDRoorO</guid>
-<content:encoded><![CDATA[
-<div> GitHub、视频生成、研究、收藏、视频、生成、研究、集合、研究、学习
-
-<br /><br />总结:
-该GitHub仓库收集了一系列关于视频生成的研究，涵盖了各种有趣的视频生成研究，为视频生成领域的学习提供了丰富的资源。研究内容包括视频的生成方法、技术应用以及相关算法等，为研究者们提供了广阔的研究方向。通过这些研究，可以深入了解视频生成的原理和方法，为视频生成技术的进一步发展提供了参考和借鉴。GitHub上的资源丰富多样，对视频生成领域的研究有很大的帮助。 <div>
-【视频生成相关研究列表】’A Collection of Video Generation Studies - A collection of awesome video generation studies.' GitHub: github.com/AlonzoLeeeooo/awesome-video-generation <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnu1deazrtj21fo0g4ad5.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 17 Mar 2024 07:47:07 GMT</pubDate>
 </item>
 </channel>
 </rss>

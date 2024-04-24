@@ -6185,3 +6185,30 @@ Summarized using GPT-3.5-turbo
 Append: [#免费##抽奖# 携手@博文视点Broadview 送出3本《多模态大模型：新一代人工智能技术范式 （全彩）》，截至2024.5.1 12:00，*可可粉*转发+评论即可参与。中山大学 ...](https://weibo.com/1402400261/ObaVdaaXn)
 append_entries: 1
 Finish: 2024-04-24 04:13:46.815120
+------------------------------------------------------
+Started: 2024-04-24 06:17:05.494229
+Existing_entries: 1001
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 2940
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video》(ICLR 2024) GitHub: github.com/shashankvkt...](https://weibo.com/1402400261/Obc3hxSHU)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [【Unichat-llama3-Chinese：联通AI创新中心发布业界llama3中文指令微调模型】'Unichat-llama3-Chinese' GitHub: github.com/UnicomAI/Unichat-llama3-Chinese #...](https://weibo.com/1402400261/ObbYvoxwi)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [【llama2.cpp：C++ 版本的 Llama 2 推理库，支持 CPU 计算，并且计划支持 CUDA 和 AVX512】'llama2.cpp - Inference Llama 2 in C++' GitHub: github.com/AmeyaW...](https://weibo.com/1402400261/ObbWsEEOu)
+Token length: 193
+Summarized using GPT-3.5-turbo
+Append: [【MuKoe：开源的 MuZero 实现，利用 Ray 作为分布式调度器，在 GKE 上运行】'MuKoe - a fully open sourced implementation of MuZero using Ray as the distrib...](https://weibo.com/1402400261/ObbTQ9EuI)
+Token length: 280
+Summarized using GPT-3.5-turbo
+Append: [【A Trivial Jailbreak Against Llama 3：用于绕过 Llama 3 模型安全措施的程序，可以通过在助手角色中插入有害前缀来绕过 Llama 3 的安全措施，从而生成有害的...](https://weibo.com/1402400261/ObbSD4bIr)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [【SnapKV：创新且出色的 KV 缓存压缩方法】'SnapKV - an innovative and out-of-box KV cache compression method’ GitHub: github.com/FasterDecoding/SnapKV ...](https://weibo.com/1402400261/ObbN84k0P)
+Token length: 223
+Summarized using GPT-3.5-turbo
+Append: [【CoreNet: Apple的深度网络训练库，用于训练深度神经网络，支持各种任务，包括基础模型(如 CLIP 和 LLM)、目标分类、目标检测和语义分割】'CoreNet: A library ...](https://weibo.com/1402400261/ObbAchnpj)
+append_entries: 7
+Finish: 2024-04-24 06:17:29.725063
