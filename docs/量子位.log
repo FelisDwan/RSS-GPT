@@ -4332,3 +4332,21 @@ Existing_entries: 534
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-24 10:13:34.538475
+------------------------------------------------------
+Started: 2024-04-24 12:23:56.625740
+Existing_entries: 534
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 53
+Summarized using GPT-3.5-turbo
+Append: [#优化扩散模型采样新方法# 英伟达提出了 Align Your Steps ，它被用来解决扩散模型采样速度慢的问题。[来] 论文地址：网页链接 量子位的微博视频](https://weibo.com/6105753431/ObdHLc1PB)
+Token length: 256
+Summarized using GPT-3.5-turbo
+Append: [#OpenAI推出安全指令层次结构# ：让大模型免受越狱、注入等攻击OpenAI 宣布推出最新安全研究成果——安全指令层次结构。研究提到，LLMs 之所以容易受到提示注入...](https://weibo.com/6105753431/ObdyfEjAq)
+Token length: 65
+Summarized using GPT-3.5-turbo
+Append: [#新视频分割模型# 牛津上交通过结合 Segment Anything 模型（SAM）和光流技术，成功实现了对视频中移动对象的有效分割。[来] 论文：网页链接 量子位的微博视频](https://weibo.com/6105753431/ObdqpjTDi)
+Token length: 287
+Summarized using GPT-3.5-turbo
+Append: [#爱诗科技获上亿融资# 蚂蚁集团独家投资中国视频生成大模型公司爱诗科技 A2 轮，金额超 1 亿元人民币。至此，爱诗科技一年内累计获得融资超 2 亿人民币，成为中...](https://weibo.com/6105753431/ObdjGAHUH)
+append_entries: 4
+Finish: 2024-04-24 12:24:26.800500
