@@ -6267,3 +6267,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/ObfDkBRvL)
 append_entries: 0
 Finish: 2024-04-24 22:11:55.115379
+------------------------------------------------------
+Started: 2024-04-25 00:53:29.478195
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《多模态大模型：新一代人工智能技术范式 （全彩）》...](https://weibo.com/1402400261/ObiyizCNb)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1386期)：基于开源训练和推理框架的高效语言模型族、从对抗压缩角度重新思考LLM记忆、教大型语言模型推理代码执行、多头Mixture-of-Experts、Transfo...](https://weibo.com/1402400261/Obiy0gxt5)
+Token length: 186
+Summarized using GPT-3.5-turbo
+Append: [[CV] FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent 网页链接 提出FlowMap，一种纯梯度下降的可微方法，可从视频中估计精确...](https://weibo.com/1402400261/Obitxp1gu)
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [[CL] SnapKV: LLM Knows What You are Looking for Before Generation 网页链接 SnapKV通过发现和利用LLM生成时attention头关注prompt特定特征的规律，实现高效...](https://weibo.com/1402400261/Obir3bpSO)
+Token length: 167
+Summarized using GPT-3.5-turbo
+Append: [[CL] Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners 网页链接 提出“深入理解问题”提示策略，通过提炼核心问题、...](https://weibo.com/1402400261/ObioOghQH)
+Token length: 124
+Summarized using GPT-3.5-turbo
+Append: [[CL] AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs网页链接 提出使用AdvPrompter LLM快速生成针对目标LLM的高质量人工可读对抗提示，并使LLM通过...](https://weibo.com/1402400261/Obimgc8df)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [通过构造等价的Transformer语言模型，证明了Transformer可以精确表示传统n-gram语言模型，建立了它们之间的确切数学关系，是理解Transformer概率表示能力的第一...](https://weibo.com/1402400261/ObiitC1yo)
+Token length: 99
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Transformers Can Represent nn-gram Language Models》A Svete, R Cotterell [ETH Zurich] (2024) 网页链接 #机器学习##人工智能##论文# [图片][图片][图...](https://weibo.com/1402400261/ObiirxWSh)
+Token length: 166
+Summarized using GPT-3.5-turbo
+Append: [提出MH-MoE，用多头机制增强了SMoE框架中的expert激活和对歧义内容的理解。 - 转发 @爱可可-爱生活:&ensp;[CL]《Multi-Head Mixture-of-Experts》X Wu, S Huang,...](https://weibo.com/1402400261/ObifUCqwL)
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Multi-Head Mixture-of-Experts》X Wu, S Huang, W Wang, F Wei [Microsoft Research & Tsinghua Universit] (2024) 网页链接 #机器学习##人工智能##论文#...](https://weibo.com/1402400261/ObifPxJNt)
+append_entries: 10
+Finish: 2024-04-25 00:54:29.940042
