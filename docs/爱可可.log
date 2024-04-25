@@ -6333,3 +6333,39 @@ Existing_entries: 1006
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-25 04:13:45.007635
+------------------------------------------------------
+Started: 2024-04-25 06:15:19.053946
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: ['QuickRecorder - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具' GitHub: gi...](https://weibo.com/1402400261/OblDRiuCx)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [【LLMBox：用于实现大语言模型的综合库，提供统一的训练流程和全面的模型评估】'LLMBox - a comprehensive library for implementing LLMs, including a unified...](https://weibo.com/1402400261/OblCuwdPV)
+Token length: 291
+Summarized using GPT-3.5-turbo
+Append: [【文档图像处理的论文和数据集列表，涵盖了外观增强、阴影消除、矫正、去模糊和二值化等方面】'This repository contains a paper collection of the methods fo...](https://weibo.com/1402400261/OblAayBvI)
+Token length: 246
+Summarized using GPT-3.5-turbo
+Append: [【CelestialChat：基于 Next.js 和 Shadcn UI 的简单 AI 聊天应用程序，旨在提供快速搜索结果，由 Claude Haiku 和 Tavily 搜索驱动】'CelestialChat - a simple...](https://weibo.com/1402400261/OblxT6N49)
+Token length: 258
+Summarized using GPT-3.5-turbo
+Append: [【LangChain Rust：用 Rust 语言实现的 LangChain，提供了 LLM、Embeddings、VectorStores、Chain、Agents、Tools 等功能，并支持多种 LLM 和 VectorStores】'La...](https://weibo.com/1402400261/Oblwqlvrf)
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: ['Llama3-Chinese：以Meta-Llama-3-8B为底座，使用 DORA + LORA+ 的训练方法，在50w高质量中文多轮SFT数据 + 10w英文多轮SFT数据 + 2000单轮自我认知数据训练而来...](https://weibo.com/1402400261/OblrE04KZ)
+Token length: 224
+Summarized using GPT-3.5-turbo
+Append: [【Terrarium - A Simple Python Sandbox：简单易用的 Python 沙箱，用于执行不受信任的用户或 LLM 生成的 Python 代码】'Terrarium - A Simple Python Sandbox -...](https://weibo.com/1402400261/Obll3yhYD)
+Token length: 206
+Summarized using GPT-3.5-turbo
+Append: [【Diarizers：使用 Hugging Face 生态系统微调 Pyannote 说话人辨识模型的库】'Diarizers - a library for fine-tuning pyannote speaker diarization models us...](https://weibo.com/1402400261/ObldRnTfA)
+Token length: 643
+Summarized using GPT-3.5-turbo
+Append: [GitHub: github.com/Snowflake-Labs/snowflake-arctic - 转发 @爱可可-爱生活:&ensp;【Snowflake Arctic：面向企业AI的大语言模型】- Snowflake研究团队推出了新...](https://weibo.com/1402400261/ObldbbZtO)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [【Cohere Toolkit：一组预构建的组件，使用户能够快速构建和部署 RAG(Retrieval Augmented Generation)应用】'Cohere Toolkit - Toolkit is a collection of pre...](https://weibo.com/1402400261/OblcYsnVO)
+append_entries: 10
+Finish: 2024-04-25 06:16:04.389606

@@ -4419,3 +4419,22 @@ Existing_entries: 545
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-25 04:13:43.118485
+------------------------------------------------------
+Started: 2024-04-25 06:14:56.040481
+Existing_entries: 545
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [#华为回归苹果最受伤荣耀排第一# IDC报告显示，2024年第一季度中国手机市场，华为强势回归，而荣耀则以17.1%的份额位居榜单首位。相比与中国手机品牌的崛起，苹...](https://weibo.com/6105753431/ObkR4nwHp)
+Token length: 169
+Summarized using GPT-3.5-turbo
+Append: [#开源可商用文本转语音模型# 加拿大初创公司 MyShell 和 MIT 升级推出 OpenVoice V2。作为一种文本转语音模型，OpenVoice V2 仅使用一小段人声就能克隆语音。而...](https://weibo.com/6105753431/ObkDInc3e)
+Token length: 15
+Summarized using GPT-3.5-turbo
+Append: [#Claude新增停止生成按钮# 打断 Claude 施法[doge] 量子位的微博视频](https://weibo.com/6105753431/ObksvEYaG)
+Token length: 241
+Summarized using GPT-3.5-turbo
+Append: [#特斯拉市值一夜大涨4028亿# 昨日美股收盘之际，特斯拉股价大涨超 12% ，创下了自2022年1月以来的最大单日涨幅记录。这一飙升使特斯拉市值大涨 556 亿美元（约合...](https://weibo.com/6105753431/ObknwC79o)
+Append: [#OpenAI收到英伟达全球首部超算# OpenAI 总裁兼联合创始人 Greg Brockman 发了一张合照：除了他，还有奥特曼以及老黄。据称这是英伟达号称开创先河的人工智能（A...](https://weibo.com/6105753431/ObkeviuPU)
+append_entries: 5
+Finish: 2024-04-25 06:15:17.853792
