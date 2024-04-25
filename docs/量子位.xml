@@ -4,6 +4,7 @@
 <title>量子位的微博</title>
 <link>https://weibo.com/6105753431/</link>
 
+
 <item>
 <title>#PyTorch迎来更新# 就在刚刚，PyTorch 2.3 发布了~作为一个开源的 Python 机器学习库，PyTorch 2.3 更新如下：首先，允许使用 torch.compile 本地执行包含 trito...</title>
 <link>https://weibo.com/6105753431/ObkZT3jti</link>
@@ -11,14 +12,12 @@
 <content:encoded><![CDATA[
 <div> PyTorch, 机器学习库, 更新, torch.compile, triton 内核, eager PyTorch, 张量并行性, LLMs, API, 半结构化稀疏性
 
-<br><br>总结:
+<br /><br />总结:
 PyTorch 2.3发布了新版本，引入了一些重要的更新。首先，用户现在可以使用torch.compile在本地执行包含triton内核的PyTorch代码，从而实现无性能回归或图形中断的迁移。其次，张量并行性的引入提高了训练LLMs的效率，相关API支持训练超过100B参数的模型。最后，新的数据存储和计算方式半结构化稀疏性被提出，可以节省内存并加速计算。这些更新对于PyTorch的用户来说将带来更好的训练和计算体验。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23PyTorch%E8%BF%8E%E6%9D%A5%E6%9B%B4%E6%96%B0%23&amp;extparam=%23PyTorch%E8%BF%8E%E6%9D%A5%E6%9B%B4%E6%96%B0%23"><span class="surl-text">#PyTorch迎来更新#</span></a> <br /><br />就在刚刚，PyTorch 2.3 发布了~<br /><br />作为一个开源的 Python 机器学习库，PyTorch 2.3 更新如下：<br /><br />首先，允许使用 torch.compile 本地执行包含 triton 内核的 PyTorch 代码。<br /><br />这使用户能够将包含 triton 内核的代码从 eager PyTorch 迁移到 torch.compile，而不会遇到性能回归或图形中断。<br /><br />其次，张量并行性引入了更有效的训练 LLMs 方式，相关 API 可支持训练超 100B 参数模型。<br /><br />最后，半结构化稀疏性作为一种新的数据存储和计算方式被提出，可以节省内存并加速计算。<br /><br />介绍主页：<a href="https://pytorch.org/blog/pytorch2-3/?utm_content=290726973&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-776585502606721024"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />相关文档：<a href="https://pytorch.org/docs/stable/index.html"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />相关教程：<a href="https://pytorch.org/tutorials/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hp2yqmfw7kj318g0p0gnd.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hp2yqpcsb7j31gy0c2ahc.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Thu, 25 Apr 2024 04:26:43 GMT</pubDate>
-<pubDate>Thu, 25 Apr 2024 04:26:43 GMT</pubDate>
 </item>
-
 <item>
 <title>#华为回归苹果最受伤荣耀排第一# IDC报告显示，2024年第一季度中国手机市场，华为强势回归，而荣耀则以17.1%的份额位居榜单首位。相比与中国手机品牌的崛起，苹...</title>
 <link>https://weibo.com/6105753431/ObkR4nwHp</link>

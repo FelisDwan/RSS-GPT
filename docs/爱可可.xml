@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>几篇论文实现代码：《Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization》(CVPR 2024) GitHub: github.com/princeton-vl/MultiSlam_Diff...</title>
 <link>https://weibo.com/1402400261/OblHx82hW</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> Multi-Session SLAM, Pose Optimization, Differentiable, Wide-Baseline, GitHub, Sparse Global Matching, Video Frame Interpolation, Large Motion, SiTH, Human Reconstruction, Diffusion, Fast ODE-based Sampling, Learning Transferable Negative Prompts, Out-of-Distribution Detection, Depth Anything, Monocular Depth Estimation, SpaceByte, Language Modeling, Vectorized Sampling-Based Planning, Motion Planning, LinK3D, Keypoint Representation, LiDAR Point Cloud, Generalized Contrastive Learning, Multi-Modal Retrieval, Ranking, Image-Text Alignment, Remote Sensing, DeProt, Protein Language Model, Attention.
 
-<br><br>总结: 这篇文章介绍了多个涉及计算机视觉、深度学习和机器学习领域的论文实现代码，涵盖了多会话SLAM、视频帧插值、人体重建、扩散模型采样、异常检测、深度估计、语言建模、动作规划、目标识别等多个主题。这些项目的GitHub链接提供了代码实现和相关资源，为相关研究工作者提供了方便。这些工作在不同领域提供了新的方法和技术，为相关研究领域的发展做出了积极贡献。 <div>
+<br /><br />总结: 这篇文章介绍了多个涉及计算机视觉、深度学习和机器学习领域的论文实现代码，涵盖了多会话SLAM、视频帧插值、人体重建、扩散模型采样、异常检测、深度估计、语言建模、动作规划、目标识别等多个主题。这些项目的GitHub链接提供了代码实现和相关资源，为相关研究工作者提供了方便。这些工作在不同领域提供了新的方法和技术，为相关研究领域的发展做出了积极贡献。 <div>
 几篇论文实现代码：<br />《Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization》(CVPR 2024) GitHub: github.com/princeton-vl/MultiSlam_DiffPose [fig1]<br />《Sparse Global Matching for Video Frame Interpolation with Large Motion》(CVPR 2024) GitHub: github.com/MCG-NJU/SGM-VFI [fig2]<br />《SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion》(CVPR 2024) GitHub: github.com/SiTH-Diffusion/SiTH<br />《Fast ODE-based Sampling for Diffusion Models in Around 5 Steps》(CVPR 2024) GitHub: github.com/zju-pi/diff-sampler<br />《Learning Transferable Negative Prompts for Out-of-Distribution Detection》(CVPR 2024) GitHub: github.com/mala-lab/NegPrompt [fig3]<br />《Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation》(CVPR 2024) GitHub: github.com/LiheYoung/Depth-Anything<br />《SpaceByte: Towards Deleting Tokenization from Large Language Modeling》(2024) GitHub: github.com/kjslag/spacebyte<br />《Motions in Microseconds via Vectorized Sampling-Based Planning》(2024) GitHub: github.com/KavrakiLab/vamp<br />《LinK3D: Linear Keypoint Representation for 3D LiDAR Point Cloud》(2024) GitHub: github.com/YungeCui/LinK3D<br />《Generalized Contrastive Learning for Multi-Modal Retrieval and Ranking》(2024) GitHub: github.com/marqo-ai/GCL<br />《Bootstrapping Interactive Image-Text Alignment for Remote Sensing Image Captioning》(2024) GitHub: github.com/yangcong356/BITA<br />《DeProt: A protein language model with quantizied structure and disentangled attention》(2024) GitHub: github.com/ginnm/DeProt [fig4]<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp30br3wkbj220u0qnats.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp30jyx8zlj22bc0qo7on.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp30yrigokj21hc0u0tos.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp31ir5o5jj21gk0h4qfj.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Thu, 25 Apr 2024 06:14:15 GMT</pubDate>
 <pubDate>Thu, 25 Apr 2024 06:14:15 GMT</pubDate>
 </item>
 <item>
@@ -24,11 +24,10 @@
 <content:encoded><![CDATA[
 <div> LLM、phidata、长期记忆、解决问题、上下文、无法采取行动、GitHub、知识、工具
 
-<br><br>总结:
+<br /><br />总结:
 文章介绍了phidata为LLM添加长期记忆、知识和工具，旨在解决LLM存在的上下文有限和无法采取行动的问题。phidata的目标是通过增加记忆、知识和工具来加强LLM的功能，使其能够更好地理解和处理更复杂的任务。该项目的GitHub链接为github.com/phidatahq/phidata。 <div>
 【phidata：为 LLM 添加长期记忆，旨在解决 LLM 有限的上下文和无法采取行动的问题】’phidata - Add memory, knowledge and tools to LLMs' GitHub: github.com/phidatahq/phidata <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp31sxd2m9j20u60hw0wb.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Thu, 25 Apr 2024 06:13:17 GMT</pubDate>
 <pubDate>Thu, 25 Apr 2024 06:13:17 GMT</pubDate>
 </item>
 <item>
@@ -38,14 +37,12 @@
 <content:encoded><![CDATA[
 <div> Verilog, GPU, 开源, 设计项目, 学习, 底层, GitHub, tiny-gpu
 
-<br><br>总结:
+<br /><br />总结:
 tiny-gpu是一个使用Verilog语言编写的开源GPU设计项目，旨在帮助人们从底层上理解GPU是如何工作的。该项目可以让人们学习GPU的工作原理和设计，通过GitHub获取更多信息。 <div>
 【tiny-gpu：开源的 Verilog 语言编写的 GPU 设计项目，旨在帮助人们从底层上理解 GPU 是如何工作的】'tiny-gpu - A minimal GPU design in Verilog to learn how GPUs work from the ground up' GitHub: github.com/adam-maj/tiny-gpu <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23GPU%23"><span class="surl-text">#GPU#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp31ptnoawj20u014ljus.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp31puetmfj20u015cq6o.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Thu, 25 Apr 2024 06:09:09 GMT</pubDate>
-<pubDate>Thu, 25 Apr 2024 06:09:09 GMT</pubDate>
 </item>
-
 <item>
 <title>'QuickRecorder - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具' GitHub: gi...</title>
 <link>https://weibo.com/1402400261/OblDRiuCx</link>
@@ -12851,45 +12848,6 @@ MoE是一种通过稀疏的MoE层来取代稠密的前馈网络层，实现更�
 【Quanto：pytorch量化工具包】<br />1. quanto是一个灵活的pytorch量化工具包,提供了独特的功能:<br />- 支持eager模式(可用于非可trace的模型)<br />- 量化后的模型可在任意设备上运行(包括CUDA和MPS)  <br />- 自动插入量化和反量化代码<br />- 自动插入量化的函数操作<br />- 自动插入量化的模块(如QLinear、QConv2d等)<br />- 提供从动态到静态量化的流程  <br />- 支持量化模型的状态字典序列化<br />- 不仅支持int8权重,还支持int2和int4<br />- 不仅支持int8激活,还支持float8<br />2. 典型的量化流程包括:量化、校准、调优和冻结。<br />3. quanto与huggingface transformers库深度集成,可通过QuantoConfig来量化任意模型。<br />4. quanto的实现细节:<br />- 提供了针对不同量化类型的定制Tensor子类<br />- 提供了可处理quanto tensor的量化模块,如QLinear、QConv2d等<br />- 通过pytorch dispatch机制,实现了常见函数的量化版本<br />- 计划集成各种PTQ优化算法<br />5. quanto的性能:<br />- 在多个模型上展示了不同量化配置的准确率<br />- 展示了相比全精度,量化带来的加速比<br />《Quanto: a pytorch quantization toolkit》 <a href="https://huggingface.co/blog/quanto-introduction"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnvz9gsvxfj20u00v7q7c.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Tue, 19 Mar 2024 00:04:58 GMT</pubDate>
-</item>
-<item>
-<title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.2...</title>
-<link>https://weibo.com/1402400261/O5GrXa9Og</link>
-<guid>https://weibo.com/1402400261/O5GrXa9Og</guid>
-<content:encoded><![CDATA[
-<div> 知识体系、实践性、全彩印刷、杨青、度小满、轩辕大模型、十亿、百亿、千亿、训练经验
-<br />
-<br />
-总结:<br />
-本书《大语言模型：原理与工程实践(全彩)》由度小满轩辕大模型负责人杨青撰写，旨在揭开大语言模型的神秘面纱，深入解读内在机理和应用实践。书中系统性的知识体系和对实践性的重视是其特色之一，同时作者结合自己在不同参数规模大语言模型训练经验，将实践经验融入书中，内容干货十足，非空谈。书籍全彩印刷，配有代码，适合想要深入了解大语言模型的读者阅读。欢迎转发评论参与赢取《大语言模型：原理与工程实践(全彩)》。 <div>
-//<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.24 12:00，*可可粉*转发+评论即可参与。本书旨在揭开大语言模型的神秘面纱，透彻地解读其内在机理和应用实践。一大特色体现在其知识体系的系统性，另一大特色是对实践性的重视。配代码、全彩印刷。本书作者杨青是度小满轩辕大模型负责人，作为真正的大语言模型实践者，拥有十亿、百亿、千亿等不同参数规模大语言模型的训练经验。在本书中，这些经验都被毫无保留地融入其中，干货满满，绝非空谈。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5012867076850203"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb85d5j20m90m9jw5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8np7j20m90m90vz.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8bphj20m90m9789.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb9t7fj20m90m9dph.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvb8gi3j20m90m90xl.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvbf5k1j21hc0u0wud.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvbadpbj21dd0rsguo.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntsvbag7dj20rs0rs793.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb7ig9j20rs0m841y.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 00:01:44 GMT</pubDate>
-</item>
-<item>
-<title>【解密Meta的GenAI基础设施】- Meta宣布投资建设了两座规模为24k GPU的AI集群，用于支持公司当前和未来的AI模型研发，包括下一代语言模型Llama 3。 - 详细介绍了...</title>
-<link>https://weibo.com/1402400261/O5Gn8yily</link>
-<guid>https://weibo.com/1402400261/O5Gn8yily</guid>
-<content:encoded><![CDATA[
-<div> 存储部署、网络、AI集群、GenAI基础设施、Meta、Grand Teton、RDMA over RoCE、InfiniBand、NVIDIA H100 GPU、Llama 3
-
-总结:<br /><br />Meta宣布投资建设了两座规模为24k GPU的AI集群，用于支持公司当前和未来的AI模型研发，包括下一代语言模型Llama 3。这两座AI集群基于自研的开源硬件Grand Teton，拥有优化的网络部署和存储系统。通过软硬件协同设计，Meta在大规模集群上高效运行复杂的AI工作负载，并计划继续扩张基础设施，部署35万块NVIDIA H100 GPU，确保其AI基础设施灵活可靠地支持快速发展的AI模型和研究。Meta致力于开放的AI创新，贡献开源硬件和软件项目，为整个行业解决大规模AI的挑战。在AI系统日益复杂的今天，基础设施的重要性不容忽视，需要与算法同步优化和创新。文章着重介绍了Meta在GenAI基础设施的存储部署方面的定制化工作，呈现了一个不同的视角，强调了基础设施细节对支撑AI系统的重要性。人们对Meta采用两种不同的存储部署方式表示好奇，也有人质疑定制化基础设施是否真的有必要，是否会带来过高的成本和复杂性。Meta通过自研硬件、持续优化软件框架等方式，确保其AI基础设施能够始终满足快速发展的需求。 <div>
-【解密Meta的GenAI基础设施】<br />- Meta宣布投资建设了两座规模为24k GPU的AI集群，用于支持公司当前和未来的AI模型研发，包括下一代语言模型Llama 3。   <br />- 详细介绍了这两座AI集群的硬件配置，包括网络、存储、计算单元等。两者都使用了自研的开源硬件Grand Teton作为基础。   <br />- AI集群的网络部分采用了RDMA over RoCE和InfiniBand两种解决方案，用于评估不同互联方式的可扩展性。存储部分则自研了优化过的分布式存储系统。   <br />- 通过软硬件协同设计，Meta能够在这样的大规模集群上高效运行复杂的AI工作负载，并取得很好的性能。文章给出了优化前后集群性能对比的数据。   <br />- Meta致力于开放的AI创新，持续贡献开源硬件和软件项目。此举有助于整个行业解决大规模AI的挑战。   <br />- 到2024年底，Meta计划继续扩张基础设施，部署35万块NVIDIA H100 GPU，计算能力将达到近60万块H100的规模。   <br />- Meta正通过自研硬件、持续优化软件框架等方式，确保其AI基础设施能够灵活可靠地支持快速发展的AI模型和研究。<br /><br />思考：  <br />- 文章着重介绍了Meta在GenAI基础设施的存储部署方面所做的定制化工作。  <br />- 通常人们更关注AI模型和算法本身，而较少关注支撑AI系统的基础设施细节，文章提供了一个不同的视角。  <br />- 有人会对Meta采用两种不同的存储部署方式表示好奇，也有人质疑定制化基础设施是否真的有必要，是否会带来过高的成本和复杂性。  <br />- 在AI系统日益复杂的今天，基础设施的重要性不容忽视，需要与算法同步优化和创新。<br />《Building Meta’s GenAI Infrastructure - Engineering at Meta》 <a href="https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnvytnizjsj215w0u0q9s.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnvytpx4yjj21400u0jt3.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 23:49:52 GMT</pubDate>
-</item>
-<item>
-<title>今日推介(第1349期)：面向推测译码加速的最优块级草稿验证、基于冻结特征增强的少样本图像分类、用RAG提高LLM事实准确性以对抗幻觉、适应特定域RAG的语言模型、...</title>
-<link>https://weibo.com/1402400261/O5FPKcyln</link>
-<guid>https://weibo.com/1402400261/O5FPKcyln</guid>
-<content:encoded><![CDATA[
-<div> 面向推测译码加速、块级草稿验证、冻结特征增强、少样本图像分类、RAG、LLM、事实准确性、适应特定域、语言模型、大型语言模型
-
-<br /><br />总结:
-本文提出了面向推测译码加速的最优块级草稿验证方法，在图像分类任务中使用冻结特征增强来处理少样本情况，同时利用RAG提高LLM事实准确性以对抗幻觉。文章还探讨了适应特定域RAG的语言模型，并提出了面向大型语言模型快速推测解码的循环起草器。这些方法有望在加速推测译码和提高语言模型准确性方面发挥重要作用。 <div>
-今日推介(第1349期)：面向推测译码加速的最优块级草稿验证、基于冻结特征增强的少样本图像分类、用RAG提高LLM事实准确性以对抗幻觉、适应特定域RAG的语言模型、面向大型语言模型快速推测解码的循环起草器 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/687756478"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(3.19)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnvwfx7dt5j20k0089dgm.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnvwfzaly2j20k00q2n0h.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnvwg1j2dmj20k00edace.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnvwg40ht4j20k009ygmx.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnvwg5x3qrj20k00cmjtc.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 18 Mar 2024 22:27:35 GMT</pubDate>
 </item>
 </channel>
 </rss>

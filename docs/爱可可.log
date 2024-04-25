@@ -6384,3 +6384,9 @@ Summarized using GPT-3.5-turbo
 Append: [【tiny-gpu：开源的 Verilog 语言编写的 GPU 设计项目，旨在帮助人们从底层上理解 GPU 是如何工作的】'tiny-gpu - A minimal GPU design in Verilog to learn ho...](https://weibo.com/1402400261/OblFsztVE)
 append_entries: 3
 Finish: 2024-04-25 08:16:08.423524
+------------------------------------------------------
+Started: 2024-04-25 10:11:37.466823
+Existing_entries: 1003
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-25 10:11:37.545813
