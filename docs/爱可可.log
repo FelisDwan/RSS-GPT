@@ -6303,3 +6303,27 @@ Summarized using GPT-3.5-turbo
 Append: [[CL]《Multi-Head Mixture-of-Experts》X Wu, S Huang, W Wang, F Wei [Microsoft Research & Tsinghua Universit] (2024) 网页链接 #机器学习##人工智能##论文#...](https://weibo.com/1402400261/ObifPxJNt)
 append_entries: 10
 Finish: 2024-04-25 00:54:29.940042
+------------------------------------------------------
+Started: 2024-04-25 02:22:23.673691
+Existing_entries: 1010
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 107
+Summarized using GPT-3.5-turbo
+Append: [Infinite-Realities 展示了实时 3D/4D Gaussian splatting 的最新工作，可以捕捉从复杂的角色互动到动态的快速战斗场景，甚至是家人和朋友的记忆，其重点是高质...](https://weibo.com/1402400261/Objzv89kv)
+Token length: 467
+Summarized using GPT-3.5-turbo
+Append: [【用AI编辑人类基因】 - 使用从零开始通过AI设计的分子，实现了世界上第一个精确基因编辑。这代表了AI驱动生物设计领域的重大飞跃。 - 训练了大规模语言模型来设...](https://weibo.com/1402400261/ObjwTdrGa)
+Token length: 23
+Summarized using GPT-3.5-turbo
+Append: [信息图：商用LLM参数规模一览 src: 网页链接 #人工智能# [图片]](https://weibo.com/1402400261/Obju85SMs)
+Token length: 85
+Summarized using GPT-3.5-turbo
+Append: [【用AutoTrain Advanced在MacBook Pro上微调phi-3模型】《How to Finetune phi-3 on MacBook Pro》 网页链接 #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/Objnqmxjx)
+Token length: 85
+Summarized using GPT-3.5-turbo
+Append: [【Meta做了OpenAI本该做的】《Meta does everything OpenAI should be [D] : r/MachineLearning》 网页链接 #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/Objm8fGEz)
+Token length: 585
+Summarized using GPT-3.5-turbo
+Append: [【Snowflake Arctic：面向企业AI的大语言模型】- Snowflake研究团队推出了新语言模型Snowflake Arctic，针对企业级AI任务进行了优化，在代码生成、SQL生成和复杂...](https://weibo.com/1402400261/Objlp5lgb)
+append_entries: 6
+Finish: 2024-04-25 02:22:55.207780
