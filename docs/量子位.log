@@ -4438,3 +4438,12 @@ Append: [#特斯拉市值一夜大涨4028亿# 昨日美股收盘之际，特斯�
 Append: [#OpenAI收到英伟达全球首部超算# OpenAI 总裁兼联合创始人 Greg Brockman 发了一张合照：除了他，还有奥特曼以及老黄。据称这是英伟达号称开创先河的人工智能（A...](https://weibo.com/6105753431/ObkeviuPU)
 append_entries: 5
 Finish: 2024-04-25 06:15:17.853792
+------------------------------------------------------
+Started: 2024-04-25 08:15:43.779019
+Existing_entries: 550
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 288
+Summarized using GPT-3.5-turbo
+Append: [#PyTorch迎来更新# 就在刚刚，PyTorch 2.3 发布了~作为一个开源的 Python 机器学习库，PyTorch 2.3 更新如下：首先，允许使用 torch.compile 本地执行包含 trito...](https://weibo.com/6105753431/ObkZT3jti)
+append_entries: 1
+Finish: 2024-04-25 08:15:51.922848

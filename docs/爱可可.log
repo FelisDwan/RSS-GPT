@@ -6369,3 +6369,18 @@ Summarized using GPT-3.5-turbo
 Append: [【Cohere Toolkit：一组预构建的组件，使用户能够快速构建和部署 RAG(Retrieval Augmented Generation)应用】'Cohere Toolkit - Toolkit is a collection of pre...](https://weibo.com/1402400261/OblcYsnVO)
 append_entries: 10
 Finish: 2024-04-25 06:16:04.389606
+------------------------------------------------------
+Started: 2024-04-25 08:15:53.149309
+Existing_entries: 1010
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1515
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization》(CVPR 2024) GitHub: github.com/princeton-vl/MultiSlam_Diff...](https://weibo.com/1402400261/OblHx82hW)
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [【phidata：为 LLM 添加长期记忆，旨在解决 LLM 有限的上下文和无法采取行动的问题】’phidata - Add memory, knowledge and tools to LLMs' GitHub: github.com...](https://weibo.com/1402400261/OblH8Ahow)
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [【tiny-gpu：开源的 Verilog 语言编写的 GPU 设计项目，旨在帮助人们从底层上理解 GPU 是如何工作的】'tiny-gpu - A minimal GPU design in Verilog to learn ho...](https://weibo.com/1402400261/OblFsztVE)
+append_entries: 3
+Finish: 2024-04-25 08:16:08.423524
