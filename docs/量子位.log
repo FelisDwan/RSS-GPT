@@ -4453,3 +4453,25 @@ Existing_entries: 551
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-25 10:11:36.239366
+------------------------------------------------------
+Started: 2024-04-25 12:17:15.833614
+Existing_entries: 551
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 380
+Summarized using GPT-3.5-turbo
+Append: [#OPPOK12正式发布# 4月24日，OPPO正式发布新品OPPO K12。OPPO K系列的使命为 5 亿大众用户打造一部好手机，此次，OPPO K12较上代全面升阶，搭载长寿版100W超级闪...](https://weibo.com/6105753431/ObnsBs0Vv)
+Token length: 438
+Summarized using GPT-3.5-turbo
+Append: [#揭秘腾讯混元大模型400+场景落地# 进入2024，大模型的风向变了。当初“百模大战”时，只要简单粗暴拿个Demo搞MaaS（模型即服务），也就是让用户直接和大模型交...](https://weibo.com/6105753431/Obn8D2EXM)
+Token length: 291
+Summarized using GPT-3.5-turbo
+Append: [#支付宝灰测智能助理# 支付宝被曝推出了新的AI产品！量子位了解到，支付宝正在对一款AI智能助理进行灰度测试。这款AI产品入口，就在支付宝最核心的首页位置，但...](https://weibo.com/6105753431/ObmQjwiQY)
+Token length: 59
+Summarized using GPT-3.5-turbo
+Append: [#真实还原3D素材# 大变活车！使用 Simulon 这个AI工具可以在几分钟内将任何 3D 模型添加进真实视频中，这下子谁还分得清~[傻眼] 量子位的微博视频](https://weibo.com/6105753431/ObmPrblkI)
+Append: [#轮腿混合式物流机器人# 注意看，这个机器人叫小帅。它今天穿越大街小巷、又爬楼梯、又钻下水道帮忙送快递了——这个机器人由苏黎世的研究人员推出，用于解决城...](https://weibo.com/6105753431/Obmy8rwnj)
+Append: [【#多模态Llama3上新Meta智能眼镜#】Llama3多模态有多强？Meta新款智能眼镜，能看会说还能直播，交互能力炸裂！ 量子位的微博视频](https://weibo.com/6105753431/Obms41p7Q)
+Append: [#多功能AI视频编辑工具# 多位 X 网友分享了一款AI视频编辑工具#RecCloud#。经了解，它的主要功能包括：- 文字生成视频- 可用于会议纪要的语音转文本- 提供 URL ...](https://weibo.com/6105753431/ObmdaBuFP)
+Append: [#字节旷视图像生成新框架# 来自字节、旷视的研究人员推出了新的免调优高分辨率框架#HiDiffusion#。它能够将图像生成分辨率扩展到 4096×4096（约 4K 的两倍）。...](https://weibo.com/6105753431/OblUHxo2U)
+append_entries: 8
+Finish: 2024-04-25 12:17:45.013979

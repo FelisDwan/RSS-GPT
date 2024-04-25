@@ -4,6 +4,19 @@
 <title>GitHubDaily的微博</title>
 <link>https://weibo.com/5722964389/</link>
 
+<item>
+<title>AI 生成视频的热度一直在技术圈中递增不减，此前，Colossal-AI 团队在 GitHub 全面开源了全球首个类 Sora 架构视频生成模型 「Open-Sora」，涵盖了整个训练流程...</title>
+<link>https://weibo.com/5722964389/ObmybtdZu</link>
+<guid>https://weibo.com/5722964389/ObmybtdZu</guid>
+<content:encoded><![CDATA[
+<div> 关键词: AI, 视频生成模型, Open-Sora, GitHub, 更新, 长视频生成, 分辨率, 模型架构, 数据处理, 全流程
+
+总结:<br><br>最近，Colossal-AI团队在GitHub开源了全球首个类Sora架构视频生成模型「Open-Sora」，最新更新支持长达单镜头16秒的视频生成，分辨率可达720p，处理任何宽高比的文本到图像、文本到视频、图像到视频、视频到视频和无限长视频的生成需求。团队还发布了技术报告，包括稳定的模型架构设计和自动数据处理全流程。该项目所有内容均已开源至GitHub，并包含最新的模型权重、训练流程、数据处理、训练细节、demo和上手教程。这一更新为对AI生成视频感兴趣的同学提供了更多体验。 <div>
+AI 生成视频的热度一直在技术圈中递增不减，此前，Colossal-AI 团队在 GitHub 全面开源了全球首个类 Sora 架构视频生成模型 「Open-Sora」，涵盖了整个训练流程，包括数据处理、所有训练细节和模型权重。<br /><br />近日，Open-Sora 在开源社区悄悄更新了，现已支持长达单镜头 16 秒的视频生成，分辨率最高可达 720p，并且可以处理任何宽高比的文本到图像、文本到视频、图像到视频、视频到视频和无限长视频的生成需求。<br /><br />GitHub：github.com/hpcaitech/Open-Sora<br /><br />本次更新内容依旧全部开源，包含最新的模型架构、最新的模型权重、多时间/分辨率/长宽比/帧率的训练流程、数据收集和预处理的完整流程、所有的训练细节、demo 示例和详尽的上手教程。<br /><br />另外，团队在 GitHub 上正式发布了 Open-Sora 技术报告，本次更新主要包括以下几项关键特性：<br /><br />- 支持长视频生成；<br />- 视频生成分辨率最高可达 720p；<br />- 单模型支持任何宽高比，不同分辨率和时长的文本到图像、文本到视频、图像到视频、视频到视频和无限长视频的生成需求；<br />- 提出了更稳定的模型架构设计，支持多时间 / 分辨率 / 长宽比 / 帧率训练；<br />- 开源了最新的自动数据处理全流程。<br /><br />所有代码均已开源至 GitHub，对 AI 文生视频感兴趣的同学，可以体验一下。<img src="https://tvax2.sinaimg.cn/large/006fiYtfgy1hp35kyq1ssg30bk0fcu15.gif" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006fiYtfgy1hp35kxd4rlg30bs06oaw8.gif" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006fiYtfgy1hp35kxfcm0g30bs06o4nb.gif" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006fiYtfgy1hp35kxh3vdg30bs06oaq3.gif" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006fiYtfgy1hp35kxlkp5g30go09ekjm.gif" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006fiYtfgy1hp35kxka5gg30bs06o7wj.gif" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006fiYtfgy1hp35kxfaivg306o0bs4qp.gif" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006fiYtfgy1hp35kxfiu1g3074074e2k.gif" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006fiYtfgy1hp35ldwlrfg30go09g1ky.gif" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 25 Apr 2024 08:23:58 GMT</pubDate>
+<pubDate>Thu, 25 Apr 2024 08:23:58 GMT</pubDate>
+</item>
 
 <item>
 <title>分享 GitHub 上一份精心收集和梳理中文 LLM 相关集合 Awesome Chinese LLM。不仅包含了多个垂直领域（如医疗、法律、金融、教育、科技、电商、网络安全和农业）...</title>
