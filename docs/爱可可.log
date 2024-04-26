@@ -6547,3 +6547,16 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-26 16:14:51.943392
+------------------------------------------------------
+Started: 2024-04-26 18:13:39.416629
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/ObytztLkg)
+Token length: 20
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(4.26)》 爱可可微博热门分享(4.26) [图片]](https://weibo.com/1402400261/Obys8hKqx)
+Token length: 670
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Retrieval Head Mechanistically Explains Long-Context Factuality》(2024) GitHub: github.com/nightdessert/Retrieval_Head《Vitron: A ...](https://weibo.com/1402400261/ObyihuJ4g)
+append_entries: 2
+Finish: 2024-04-26 18:13:52.025499
