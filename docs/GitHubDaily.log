@@ -3192,3 +3192,12 @@ Summarized using GPT-3.5-turbo
 Append: [GitHub 上最大的开源算法库 The Algorithms，值得每位算法工程师收藏！该库收录了 Python、Java、C++、JavaScript、Go 等多种主流编程语言的算法实现代码。其中...](https://weibo.com/5722964389/ObufybGsO)
 append_entries: 1
 Finish: 2024-04-26 06:16:57.346880
+------------------------------------------------------
+Started: 2024-04-26 08:14:38.980705
+Existing_entries: 63
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 302
+Summarized using GPT-3.5-turbo
+Append: [推荐 GitHub 上一款多功能、轻量化、高性能的 macOS 屏幕工具 QuickRecorder。具有如下特性：- 软件大小仅 4MB 左右，体积小巧轻量化；- 支持窗口录制, App 录制...](https://weibo.com/5722964389/ObvCMgwyE)
+append_entries: 1
+Finish: 2024-04-26 08:14:45.647464

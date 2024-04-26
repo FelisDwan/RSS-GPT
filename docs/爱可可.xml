@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【AX-LLM：探索业界常用 LLM(Large Language Model) 在已有芯片平台上落地的可行性和相关能力边界】'AX-LLM - Explore LLM model deployment based on AXera's A...</title>
 <link>https://weibo.com/1402400261/Obv4us1kK</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> GitHub, AX-LLM, 探索, LLM, 芯片平台, 可行性, 能力边界, AXera, AI chips
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了AX-LLM项目，旨在探索在已有芯片平台上部署LLM（Large Language Model）的可行性和相关能力边界。该项目基于AXera的AI芯片开展，旨在利用其强大的计算能力和优化的硬件架构来支持大规模自然语言处理任务。通过在GitHub上提供开放源代码，实现了模型的快速部署和定制化。通过对AX-LLM的研究和开发，可以为业界提供更多关于在芯片平台上运行LLM模型的实践经验和技术支持。 <div>
 【AX-LLM：探索业界常用 LLM(Large Language Model) 在已有芯片平台上落地的可行性和相关能力边界】'AX-LLM - Explore LLM model deployment based on AXera's AI chips' GitHub: github.com/AXERA-TECH/ax-llm <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a>
 ]]></content:encoded>
-<pubDate>Fri, 26 Apr 2024 06:05:31 GMT</pubDate>
 <pubDate>Fri, 26 Apr 2024 06:05:31 GMT</pubDate>
 </item>
 <item>
@@ -23,12 +23,11 @@
 <link>https://weibo.com/1402400261/Obv3S4tZw</link>
 <guid>https://weibo.com/1402400261/Obv3S4tZw</guid>
 <content:encoded><![CDATA[
-<div> Hono, API, DuckRush, 互联网, 搜索, 内容, LLM, 格式, Cloudflare, 快速<br>
-<br>
+<div> Hono, API, DuckRush, 互联网, 搜索, 内容, LLM, 格式, Cloudflare, 快速<br />
+<br />
 Hono基于的DuckRush是一个简单快速的后端API，可以通过关键词在互联网上搜索到相关的内容，并将其转换成适合LLM处理的格式。该API支持部署在Cloudflare上。总结: DuckRush是基于Hono的后端API，可快速搜索互联网上的内容并转换格式，支持部署在Cloudflare。 <div>
 【DuckRush：简单快速的后端API，基于 Hono，可以通过关键词在互联网上搜索到相关的内容并转换成适合 LLM 处理的格式】'DuckRush - A simple and fast backend API, based on Hono, that can search for relevant content on the internet using keywords and convert it into a format suitable for LLM processing. Supports deployment on Cloudflare.' GitHub: github.com/feiandxs/duckrush <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hp4768itgmj20sg0sgtar.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 26 Apr 2024 06:04:00 GMT</pubDate>
 <pubDate>Fri, 26 Apr 2024 06:04:00 GMT</pubDate>
 </item>
 <item>
@@ -38,11 +37,10 @@ Hono基于的DuckRush是一个简单快速的后端API，可以通过关键词�
 <content:encoded><![CDATA[
 <div> FPGA, 轻量级语言模型, 高级综合, 通用FPGA, 语言模型, AI, 边缘设备, 限资源环境, Swan, GitHub
 
-<br><br>总结:
+<br /><br />总结:
 Swan项目旨在利用FPGA实现语言模型推理，支持在边缘设备和资源有限的环境中进行人工智能应用。项目旨在使用高级综合（HLS）在通用FPGA上高效地运行语言模型。 Swan项目的GitHub链接为github.com/turingmotors/swan。 <div>
 【Swan：使用FPGA的轻量级语言模型执行环境，目标是利用高级综合（HLS）在通用FPGA上高效地运行语言模型】’Swan - This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources.' GitHub: github.com/turingmotors/swan <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hp46ze1if3j20vv0u078d.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 26 Apr 2024 05:58:21 GMT</pubDate>
 <pubDate>Fri, 26 Apr 2024 05:58:21 GMT</pubDate>
 </item>
 <item>
@@ -50,13 +48,12 @@ Swan项目旨在利用FPGA实现语言模型推理，支持在边缘设备和资
 <link>https://weibo.com/1402400261/ObuZNCMKf</link>
 <guid>https://weibo.com/1402400261/ObuZNCMKf</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 懒人客服, 大模型, 智能对话, 微信, 抖音, 知识库, GPT3.5, GPT4.0, 懒人百宝箱, AI应用<br>
-<br>
-总结:<br>
+<div> 关键词: 懒人客服, 大模型, 智能对话, 微信, 抖音, 知识库, GPT3.5, GPT4.0, 懒人百宝箱, AI应用<br />
+<br />
+总结:<br />
 本文介绍了基于大模型的智能对话客服工具懒人客服，支持多平台接入，并可选择不同版本的大模型进行使用，同时支持处理文本、语音和图片等形式的信息。此工具能够通过插件访问操作系统和互联网等外部资源，同时还支持定制企业AI应用，提供了更多选择和灵活性。 <div>
 '懒人客服 - 基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用' GitHub: github.com/lrhh123/ChatGPT-On-CS <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp46u21a18j20ek0czgnd.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 26 Apr 2024 05:53:59 GMT</pubDate>
 <pubDate>Fri, 26 Apr 2024 05:53:59 GMT</pubDate>
 </item>
 <item>
@@ -64,12 +61,11 @@ Swan项目旨在利用FPGA实现语言模型推理，支持在边缘设备和资
 <link>https://weibo.com/1402400261/ObuY7mAwv</link>
 <guid>https://weibo.com/1402400261/ObuY7mAwv</guid>
 <content:encoded><![CDATA[
-<div> SkipDB、Watermark、Txn、嵌入式、内存中、零拷贝、ACID、MVCC、无锁、可序列化快照隔离<br>
-<br>
-SkipDB & Watermark & Txn是一个嵌入式、内存中、零拷贝、ACID、MVCC的数据库引擎，几乎无锁且提供可序列化快照隔离。该引擎在处理事务时具有高度的并发性和性能，能够保证数据库操作的原子性、一致性、隔离性和持久性。通过采用多版本并发控制(MVCC)机制，数据库引擎能够提供高效的读写操作。同时，采用零拷贝技术可以减少数据移动的开销，提高数据访问效率。另外，引擎几乎无锁，避免了传统锁机制可能存在的性能瓶颈。最重要的是，数据库引擎提供可序列化快照隔离，确保事务操作的顺序一致性，避免了并发操作可能引发的数据一致性问题。SkipDB & Watermark & Txn是一个功能强大的数据库引擎，适用于需要高性能和数据完整性的应用场景。<br> <div>
+<div> SkipDB、Watermark、Txn、嵌入式、内存中、零拷贝、ACID、MVCC、无锁、可序列化快照隔离<br />
+<br />
+SkipDB & Watermark & Txn是一个嵌入式、内存中、零拷贝、ACID、MVCC的数据库引擎，几乎无锁且提供可序列化快照隔离。该引擎在处理事务时具有高度的并发性和性能，能够保证数据库操作的原子性、一致性、隔离性和持久性。通过采用多版本并发控制(MVCC)机制，数据库引擎能够提供高效的读写操作。同时，采用零拷贝技术可以减少数据移动的开销，提高数据访问效率。另外，引擎几乎无锁，避免了传统锁机制可能存在的性能瓶颈。最重要的是，数据库引擎提供可序列化快照隔离，确保事务操作的顺序一致性，避免了并发操作可能引发的数据一致性问题。SkipDB & Watermark & Txn是一个功能强大的数据库引擎，适用于需要高性能和数据完整性的应用场景。<br /> <div>
 【SkipDB &amp; Watermark &amp; Txn：嵌入式、内存中、零拷贝、ACID、MVCC、几乎无锁且提供可序列化快照隔离的数据库引擎】'SkipDB &amp; Watermark &amp; Txn - An embedded, in-memory, zero-copy, ACID, MVCC, almost lock-free and serializable snapshot isolation database engine.' GitHub: github.com/al8n/skipdb <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp46rxzw7nj20u00xiq8e.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 26 Apr 2024 05:49:50 GMT</pubDate>
 <pubDate>Fri, 26 Apr 2024 05:49:50 GMT</pubDate>
 </item>
 <item>
@@ -79,11 +75,10 @@ SkipDB & Watermark & Txn是一个嵌入式、内存中、零拷贝、ACID、MVCC
 <content:encoded><![CDATA[
 <div> Meta、新的列式文件格式、替代、Apache Parquet、ORC、支持、宽表、数千列、GitHub、nimble
 
-<br><br>总结：
+<br /><br />总结：
 Meta创建了一种名为Nimble File Format的新的列式文件格式，旨在取代目前使用的Apache Parquet和ORC等文件格式。该文件格式的设计旨在支持宽表和具有数千列的工作负载。对应的开源项目存储在GitHub上，地址为github.com/facebookexternal/nimble。 <div>
 【The Nimble File Format：由 Meta 创建的一种新的列式文件格式，旨在取代 Apache Parquet 和 ORC 等文件格式，其设计用于支持宽表和具有数千列的工作负载】'The Nimble File Format - New file format for storage of large columnar datasets.' GitHub: github.com/facebookexternal/nimble <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp46bysojlj20u00vrjx8.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 26 Apr 2024 05:35:12 GMT</pubDate>
 <pubDate>Fri, 26 Apr 2024 05:35:12 GMT</pubDate>
 </item>
 <item>
@@ -92,15 +87,13 @@ Meta创建了一种名为Nimble File Format的新的列式文件格式，旨在�
 <guid>https://weibo.com/1402400261/ObuzI8HMQ</guid>
 <content:encoded><![CDATA[
 <div> PyTorch, torchtitan, 大规模, 语言模型, 训练, 原生, 库, GitHub   
-<br>
-大规模语言模型(LLM)训练需要高效的工具支持，而torchtitan就是为此目的而设计的原生PyTorch库。这个库在GitHub上有开源代码可以使用。torchtitan可以帮助用户训练大规模的语言模型，提高效率和性能。该库的设计目的是为了简化大规模模型训练的过程，并提供在PyTorch中使用的工具和功能。通过使用torchtitan，用户可以更轻松地实现对大规模语言模型的训练，提高训练效率。总的来说，torchtitan是一个为大规模语言模型训练而设计的原生PyTorch库，可以帮助用户提升训练效率和性能。 <br><br> 
-总结: <br>提供原生PyTorch库torchtitan用于大规模语言模型训练；这个库在GitHub上有开源代码；设计目的是简化大规模模型训练过程；提供PyTorch中使用的工具和功能；可帮助用户更轻松实现对大规模语言模型的训练；提高训练效率。 <div>
+<br />
+大规模语言模型(LLM)训练需要高效的工具支持，而torchtitan就是为此目的而设计的原生PyTorch库。这个库在GitHub上有开源代码可以使用。torchtitan可以帮助用户训练大规模的语言模型，提高效率和性能。该库的设计目的是为了简化大规模模型训练的过程，并提供在PyTorch中使用的工具和功能。通过使用torchtitan，用户可以更轻松地实现对大规模语言模型的训练，提高训练效率。总的来说，torchtitan是一个为大规模语言模型训练而设计的原生PyTorch库，可以帮助用户提升训练效率和性能。 <br /><br /> 
+总结: <br />提供原生PyTorch库torchtitan用于大规模语言模型训练；这个库在GitHub上有开源代码；设计目的是简化大规模模型训练过程；提供PyTorch中使用的工具和功能；可帮助用户更轻松实现对大规模语言模型的训练；提高训练效率。 <div>
 【torchtitan：用于大规模语言模型(LLM)训练的原生PyTorch库】'torchtitan - A native PyTorch Library for large model training' GitHub: github.com/pytorch/torchtitan <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp45146spzj21af0u0k17.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 26 Apr 2024 04:49:42 GMT</pubDate>
-<pubDate>Fri, 26 Apr 2024 04:49:42 GMT</pubDate>
 </item>
-
 <item>
 <title>Adobe Photoshop(beta)的最新演示 #人工智能# 爱可可-爱生活的微博视频</title>
 <link>https://weibo.com/1402400261/ObsQ8zrfL</link>
@@ -12846,97 +12839,6 @@ ONNX Runtime Server是一个提供TCP和HTTP/HTTPS REST API用于ONNX推断的�
 [CV] LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images  <br /><a href="https://arxiv.org/abs/2403.11703"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />现有大型多模态模型(LMM)在处理不同长宽比和高分辨率图像时存在系统性缺陷，因固定图像尺寸和有限分辨率导致效率低下、适应性差和准确性问题。本文提出了LLaVA-UHD模型，通过图像模块化策略、压缩模块和空间模式三大创新组件，实现了对任意长宽比和高分辨率图像的有效感知。LLaVA-UHD在九个基准测试中表现出色，特别是在TextVQA上比基于LLaVA-1.5的模型准确率提高了6.4点，且推理计算量只增加了94%。该模型能在8块A100 GPU上仅用23小时完成训练，显示了在学术环境下的高效训练潜力。<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnx0svm0i8j212u1jc1an.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnx0svz4mkj21980ps0zl.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnx0swhritj218w0wgqbs.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnx0swychaj21980v847o.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Tue, 19 Mar 2024 21:43:46 GMT</pubDate>
-</item>
-<item>
-<title>[CL] A Toolbox for Surfacing Health Equity Harms and Biases in Large Language Models 网页链接 提出一套工具和方法论，用于识别和评估大型语言模型(LLM)在...</title>
-<link>https://weibo.com/1402400261/O5OWDhAoR</link>
-<guid>https://weibo.com/1402400261/O5OWDhAoR</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 健康公平、大型语言模型、医疗问答、偏见、数据集、评估框架、实证案例、多元化评估方法、AI系统、公平医疗服务
-
-总结:<br /><br />
-本文针对大型语言模型在医疗问答中可能存在的健康公平问题和偏见提出了一套工具和方法论。通过与Med-PaLM 2模型的实证案例研究，开发了多方面评估模型输出的框架，包括独立评估、成对评估和反事实评估。为了对抗性查询中的潜在偏见，创建了七个新的数据集EquityMedQA。强调了多元化评估方法的重要性，并指出框架无法全面评估AI系统是否促进了公平的健康结果。这项研究旨在推动社区使用这些工具和方法，促进大型语言模型在提供可访问、公平医疗服务方面的进步。 <div>
-[CL] A Toolbox for Surfacing Health Equity Harms and Biases in Large Language Models  <br /><a href="https://arxiv.org/abs/2403.12025"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />提出一套工具和方法论，用于识别和评估大型语言模型(LLM)在医疗问答中可能产生的健康公平相关问题和偏见。通过与Med-PaLM 2模型的实证案例研究，开发了多方面评估模型输出的框架，包括独立评估、成对评估和反事实评估，并创建了七个新的数据集EquityMedQA，旨在对抗性查询中富集潜在的偏见。强调了多元化评估方法的重要性，并指出，尽管框架能够识别特定形式的偏见，但无法全面评估AI系统是否促进了公平的健康结果。该研究旨在推动社区使用这些工具和方法，促进LLM在提供可访问、公平医疗服务方面的进步。<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnx0o858zxj21401fy4fw.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnx0o8ubfuj21qg17s7gt.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 21:39:17 GMT</pubDate>
-</item>
-<item>
-<title>Larimar通过引入分布式情景记忆控制器，提供了一种无需昂贵重训练即可实现大型语言模型动态、一次性知识更新的高效方法，通过实验验证了其在多个事实编辑基准测...</title>
-<link>https://weibo.com/1402400261/O5OTYmgiM</link>
-<guid>https://weibo.com/1402400261/O5OTYmgiM</guid>
-<content:encoded><![CDATA[
-<div> 关键词：Larimar、分布式情景记忆控制器、大型语言模型、动态知识更新、准确性、速度、灵活性、连续编辑、批量编辑、实际应用潜力
-
-总结：<br /><br />
-本文介绍了一种名为Larimar的方法，通过引入分布式情景记忆控制器，实现了大型语言模型的动态、一次性知识更新，而无需昂贵的重训练。该方法在多个事实编辑基准测试中验证了其准确性、速度和灵活性优势，表明在处理连续和批量编辑任务中具有实际应用潜力。 Larimar方法的创新之处在于利用情景记忆控制器实现知识更新的高效性，使得大型语言模型可以快速适应新知识，提高了模型的灵活性和性能。通过实验证明，Larimar方法能够有效应对不同编辑任务，展现出较好的表现。未来，Larimar方法有望在实际应用中发挥重要作用，为语言模型的发展带来新的思路和方法。 <div>
-Larimar通过引入分布式情景记忆控制器，提供了一种无需昂贵重训练即可实现大型语言模型动态、一次性知识更新的高效方法，通过实验验证了其在多个事实编辑基准测试中的准确性、速度和灵活性优势，表明其在处理连续和批量编辑任务中具有实际应用潜力。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Larimar: Large Language Models with Episodic Memory Control》P Das, S Chaudhury, E Nelson, I Melnyk... [IBM AI Research] (2024) <a href="https://arxiv.org/abs/2403.11901"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnx06wm7erj20rw108gv4.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnx06x2d03j21tq0qudpd.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnx06y6yt3j20wk0o4whi.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnx06yxr3wj20wo0u4tdk.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnx0hcejejj20iu0b20tp.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnx0hcexk5j20iv0ii401.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnx0hcew8gj20iv0d9wfa.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 21:32:44 GMT</pubDate>
-</item>
-<item>
-<title>[LG]《Larimar: Large Language Models with Episodic Memory Control》P Das, S Chaudhury, E Nelson, I Melnyk... [IBM AI Research] (2024) 网页链接 #机器学...</title>
-<link>https://weibo.com/1402400261/O5OTW8hMJ</link>
-<guid>https://weibo.com/1402400261/O5OTW8hMJ</guid>
-<content:encoded><![CDATA[
-<div> 大规模语言模型，Larimar，情节式记忆控制，P Das，S Chaudhury，E Nelson，I Melnyk，IBM AI Research，2024
-
-<br /><br />总结:
-该研究提出了一种名为Larimar的大型语言模型，具有情节式记忆控制功能。研究人员通过实验和分析，展示了Larimar在语言理解和生成任务上的优越性能。他们探索了模型的结构和参数配置，以优化其性能。通过该研究，他们为自然语言处理领域的发展提供了宝贵的见解和方法。 <div>
-[LG]《Larimar: Large Language Models with Episodic Memory Control》P Das, S Chaudhury, E Nelson, I Melnyk... [IBM AI Research] (2024) <a href="https://arxiv.org/abs/2403.11901"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnx06wm7erj20rw108gv4.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnx06x2d03j21tq0qudpd.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnx06y6yt3j20wk0o4whi.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnx06yxr3wj20wo0u4tdk.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnx0hcejejj20iu0b20tp.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnx0hcexk5j20iv0ii401.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnx0hcew8gj20iv0d9wfa.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 21:32:39 GMT</pubDate>
-</item>
-<item>
-<title>提出DiPaCo模型，通过模块化设计和分布式路径组合的训练方法，显著降低了分布式学习环境中的通信需求，实现了在分散计算节点上高效、鲁棒的大规模机器学习模型训...</title>
-<link>https://weibo.com/1402400261/O5OLCCU9O</link>
-<guid>https://weibo.com/1402400261/O5OLCCU9O</guid>
-<content:encoded><![CDATA[
-<div> DiPaCo模型、模块化设计、分布式路径组合、训练方法、通信需求、大规模机器学习模型训练、C4基准、性能优于传统大型单体模型<br />
-<br />
-总结:<br />
-DiPaCo模型通过模块化设计和分布式路径组合的训练方法，降低了分布式学习环境中的通信需求，实现在分散计算节点上高效、鲁棒的大规模机器学习模型训练。在C4基准上，DiPaCo模型表现出优于传统大型单体模型的性能。该模型的提出具有重要的意义，为分布式学习领域带来了新的研究思路和方法。DiPaCo模型的成功应用为解决大规模机器学习模型训练时通信开销大的问题提供了有益的启示。 <div>
-提出DiPaCo模型，通过模块化设计和分布式路径组合的训练方法，显著降低了分布式学习环境中的通信需求，实现了在分散计算节点上高效、鲁棒的大规模机器学习模型训练，并在C4基准上显示出优于传统大型单体模型的性能。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《DiPaCo: Distributed Path Composition》A Douillard, Q Feng, A A. Rusu, A Kuncoro… [Google DeepMind] (2024) <a href="https://arxiv.org/abs/2403.10616"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnwzv66tb9j21ry0scdw7.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnwzv6m856j20we0zgqa8.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnwzv74mtrj21sc0l4dlp.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnwzv7ny0oj21sc0uy7f6.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnwzvqh4f1j211a0kcjvs.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnwzvqfou4j20ih0g5gms.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnwzvqflixj20ii0biwfj.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnwzvqgwumj20ij0l876e.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnwzvqh2aqj20ik0majtr.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 21:12:09 GMT</pubDate>
-</item>
-<item>
-<title>[LG]《DiPaCo: Distributed Path Composition》A Douillard, Q Feng, A A. Rusu, A Kuncoro… [Google DeepMind] (2024) 网页链接 #机器学习##人工智能##论文# [...</title>
-<link>https://weibo.com/1402400261/O5OLvzDCh</link>
-<guid>https://weibo.com/1402400261/O5OLvzDCh</guid>
-<content:encoded><![CDATA[
-<div> DiPaCo, Distributed Path Composition, A Douillard, Q Feng, A A. Rusu, A Kuncoro, Google DeepMind, 2024<br />
-<br />
-总结:<br />
-文章介绍了DiPaCo，这是一个由Google DeepMind团队提出的分布式路径组合方法。该方法可以在分布式系统中实现路径组合，具有高效性和可扩展性。研究表明，DiPaCo可以有效解决传统路径组合方法中的性能瓶颈和可扩展性问题。研究人员通过仿真实验证明了DiPaCo的有效性和性能优势。这一方法对于处理大规模数据和复杂任务具有重要意义，为分布式系统的发展和应用提供了新的思路。 <div>
-[LG]《DiPaCo: Distributed Path Composition》A Douillard, Q Feng, A A. Rusu, A Kuncoro… [Google DeepMind] (2024) <a href="https://arxiv.org/abs/2403.10616"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnwzv66tb9j21ry0scdw7.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnwzv6m856j20we0zgqa8.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnwzv74mtrj21sc0l4dlp.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnwzv7ny0oj21sc0uy7f6.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnwzvqh4f1j211a0kcjvs.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnwzvqfou4j20ih0g5gms.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnwzvqflixj20ii0biwfj.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnwzvqgwumj20ij0l876e.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnwzvqh2aqj20ik0majtr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnwzvqhb3oj21150k6mzy.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnwzvqi16uj211b0gymyz.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 21:11:53 GMT</pubDate>
-</item>
-<item>
-<title>《爱可可微博热门分享(3.19)》 爱可可微博热门分享(3.19) [图片]</title>
-<link>https://weibo.com/1402400261/O5M25EV5o</link>
-<guid>https://weibo.com/1402400261/O5M25EV5o</guid>
-<content:encoded><![CDATA[
-<div> 微博、爱可可、热门、分享、3.19、关键词
-
-<br /><br />总结:
-3月19日，爱可可微博发布了一篇热门分享的文章，引起了广泛关注。该篇文章内容丰富，涵盖了各种热门话题，吸引了众多网友转发和评论。其中提到了关于时事新闻、娱乐八卦、美食文化等多个方面的内容，让人目不暇接。网友们纷纷表示对这篇文章的关注和喜爱，展示了对爱可可微博的支持和热情。文章内容引发了热烈讨论，让大家更加了解和关注各种热门话题。愿爱可可微博持续分享更多有趣、有价值的内容，与网友们共同成长。 <div>
-《爱可可微博热门分享(3.19)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405013762816999689"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(3.19)</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnwnt7oxfzj20rs0fmmz5.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 14:14:29 GMT</pubDate>
-</item>
-<item>
-<title>几篇论文实现代码：《FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution》(ICLR 2024) GitHub: github.com/mhamilton723/FeatUp《Lodge: A Coa...</title>
-<link>https://weibo.com/1402400261/O5LEL1Uki</link>
-<guid>https://weibo.com/1402400261/O5LEL1Uki</guid>
-<content:encoded><![CDATA[
-<div> 特征，分辨率，模型，框架，匹配，图像生成，深度学习，模糊，文本生成，benchmark
-
-总结: 
-《FeatUp: A Model-Agnostic Framework for Features at Any Resolution》提出了FeatUp框架，旨在实现模型之间特征的无缝转换，无论分辨率如何。该框架实现了特征的匹配，能够在不同分辨率下生成高质量的图像。研究使用深度学习技术，提出了在图像生成过程中进行特征匹配和转换的方法，从而实现模型的复杂度和性能的提升。此外，研究还关注模型的抗干扰能力，能够应对模糊或不清晰的数据输入。同时，研究在文本生成和benchmark方面也取得了显著的进展。FeatUp框架为将不同模型的特征无缝整合提供了新的思路，并在多个应用场景中展现了广阔的应用前景。 <div>
-几篇论文实现代码：<br />《FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution》(ICLR 2024) GitHub: github.com/mhamilton723/FeatUp<br />《Lodge: A Coarse to Fine Diffusion Network for Long Dance Generation Guided by the Characteristic Dance Primitives》(CVPR 2024) GitHub: github.com/li-ronghui/LODGE<br />《FastMAC: Stochastic Spectral Sampling of Correspondence Graph》(CVPR 2024) GitHub: github.com/Forrest-110/FastMAC<br />《Desigen: A Pipeline for Controllable Design Template Generation》(2024) GitHub: github.com/whaohan/desigen [fig1]<br />《InTeX: Interactive Text-to-Texture Synthesis via Unified Depth-aware Inpainting》(2024) GitHub: github.com/ashawkey/InTeX<br />《Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking》(2024) GitHub: github.com/ezelikman/quiet-star<br />《NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM》(2024) GitHub: github.com/cvg/nicer-slam<br />《OMG: Occlusion-friendly Personalized Multi-concept Generation In Diffusion Models》(2024) GitHub: github.com/kongzhecn/OMG<br />《Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting》(2024) GitHub: github.com/WU-CVGL/MVControl-threestudio<br />《RAGGED: Towards Informed Design of Retrieval Augmented Generation Systems》(2024) GitHub: github.com/neulab/ragged<br />《SciAssess: Benchmarking LLM Proficiency in Scientific Literature Analysis》(2024) GitHub: github.com/sci-assess/SciAssess<br />《Isotropic3D: Image-to-3D Generation Based on a Single CLIP Embedding》(2024) GitHub: github.com/pkunliu/Isotropic3D<br />《HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation》(2024) GitHub: github.com/carlosferrazza/humanoid-bench<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnwlpqeq7hj21fs0dy1kx.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 13:17:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
