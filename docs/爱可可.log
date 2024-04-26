@@ -6433,3 +6433,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OboRWEh9h)
 append_entries: 0
 Finish: 2024-04-25 22:10:13.123505
+------------------------------------------------------
+Started: 2024-04-26 00:51:12.362350
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 444
+Summarized using GPT-3.5-turbo
+Append: [【Llama 3发布一周近况概览】- 模型已经被下载超过120万次，开发者在Hugging Face上分享了超过600个衍生模型。 - Llama 3的GitHub仓库已经获得超过17000 Stars。...](https://weibo.com/1402400261/ObsCcxdWv)
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《多模态大模型：新一代人工智能技术范式 （全彩）》...](https://weibo.com/1402400261/ObrWXpiMb)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1387期)：Transformer语言模型中的隐含计算、用门控稀疏自编码器改进字典学习、神经原语言重建、参与性代表性和个性化的人工反馈揭示大型语言模型的...](https://weibo.com/1402400261/ObrWQhD9y)
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [[CV] A Survey on Visual Mamba 网页链接 全面综述Visual Mamba的发展，包括基本概念、用于视觉任务的适配设计、与其他模块的集成，以及在不同视觉任务中的应用...](https://weibo.com/1402400261/ObrSXaowi)
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [[CL] Towards Systematic Evaluation of Logical Reasoning Ability of Large Language Models 网页链接 LogicBench通过设计包含25种推理模式的问答数据集，系统...](https://weibo.com/1402400261/ObrQma1Gd)
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [[LG] The Power of Resets in Online Reinforcement Learning 网页链接 通过局部模拟器访问，使用全局最优主义和递归函数搜索的思想，针对两类表示条件下对结构...](https://weibo.com/1402400261/ObrOcjAnG)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [[CL] Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs 网页链接 通过详尽的分类与案例分析，全面梳理了链式推理方法的延伸与创新，包括链...](https://weibo.com/1402400261/ObrLG0O5W)
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [通过在13个开源模型上广泛实验表明，之前开发的语言模型对抗触发词并不可靠地在模型间迁移，尤其是偏好优化对齐的模型；同时，仅通过监督微调对齐的模型表面上看...](https://weibo.com/1402400261/ObrJH5iut)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Universal Adversarial Triggers Are Not Universal》N Meade, A Patel, S Reddy [McGill University and Mila] (2024) 网页链接 #机器学习##人工智能##论...](https://weibo.com/1402400261/ObrJCkoPC)
+Token length: 363
+Summarized using GPT-3.5-turbo
+Append: [提出PRISM语料库，通过匹配个人特征与偏好反馈，支持对大型语言模型的包容和个性化调节。 - 转发 @爱可可-爱生活:&ensp;[CL]《The PRISM Alignment Project: Wha...](https://weibo.com/1402400261/ObrGpp4MK)
+append_entries: 10
+Finish: 2024-04-26 00:52:06.404000
