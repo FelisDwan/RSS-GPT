@@ -4538,3 +4538,21 @@ Existing_entries: 560
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-26 08:14:37.526986
+------------------------------------------------------
+Started: 2024-04-26 10:12:24.302436
+Existing_entries: 560
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: [#xAI或将迎来60亿美元新融资# 有国外媒体爆料：马斯克创办的 xAI 即将完成新一轮融资，融资金额达到 60 亿美元。在本轮融资中，成立不到一年的 xAI 的注资前估值...](https://weibo.com/6105753431/ObvZHv0mo)
+Token length: 803
+Summarized using GPT-3.5-turbo
+Append: [#商汤绝影与合众哪吒再度深化合作# 2024年4月25日，中国北京——北京车展上，哪吒汽车官宣与商汤绝影全面深化战略合作，双方将开启合作新篇章。商汤绝影将以大算...](https://weibo.com/6105753431/ObvRX45eK)
+Token length: 143
+Summarized using GPT-3.5-turbo
+Append: [#机械臂或将取代流水线工人# 一家机械臂初创公司发布视频展示了它们的最新成果# Tau Robotics #。在1.5倍速的视频中，有两个机械臂是完全自主的，另外两个是远程...](https://weibo.com/6105753431/ObvR6tauW)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [#通义APP上线EMO# 给一张照片就能生成舞蹈视频、给段音频和照片就能让图片开口唱歌~前阵子大火的 EMO 终于上线通义APP，并开放给所有用户免费使用。小编火速围观...](https://weibo.com/6105753431/ObvHHv0ZJ)
+append_entries: 4
+Finish: 2024-04-26 10:12:44.397477

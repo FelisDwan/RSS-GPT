@@ -3201,3 +3201,9 @@ Summarized using GPT-3.5-turbo
 Append: [推荐 GitHub 上一款多功能、轻量化、高性能的 macOS 屏幕工具 QuickRecorder。具有如下特性：- 软件大小仅 4MB 左右，体积小巧轻量化；- 支持窗口录制, App 录制...](https://weibo.com/5722964389/ObvCMgwyE)
 append_entries: 1
 Finish: 2024-04-26 08:14:45.647464
+------------------------------------------------------
+Started: 2024-04-26 10:12:45.823207
+Existing_entries: 64
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-04-26 10:12:45.921577
