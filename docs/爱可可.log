@@ -6490,3 +6490,30 @@ Existing_entries: 1003
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-26 04:13:06.472449
+------------------------------------------------------
+Started: 2024-04-26 06:16:17.057967
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [【AX-LLM：探索业界常用 LLM(Large Language Model) 在已有芯片平台上落地的可行性和相关能力边界】'AX-LLM - Explore LLM model deployment based on AXera's A...](https://weibo.com/1402400261/Obv4us1kK)
+Token length: 325
+Summarized using GPT-3.5-turbo
+Append: [【DuckRush：简单快速的后端API，基于 Hono，可以通过关键词在互联网上搜索到相关的内容并转换成适合 LLM 处理的格式】'DuckRush - A simple and fast backend A...](https://weibo.com/1402400261/Obv3S4tZw)
+Token length: 252
+Summarized using GPT-3.5-turbo
+Append: [【Swan：使用FPGA的轻量级语言模型执行环境，目标是利用高级综合（HLS）在通用FPGA上高效地运行语言模型】’Swan - This project aims to enable language model...](https://weibo.com/1402400261/Obv1zCBWO)
+Token length: 207
+Summarized using GPT-3.5-turbo
+Append: ['懒人客服 - 基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择...](https://weibo.com/1402400261/ObuZNCMKf)
+Token length: 247
+Summarized using GPT-3.5-turbo
+Append: [【SkipDB & Watermark & Txn：嵌入式、内存中、零拷贝、ACID、MVCC、几乎无锁且提供可序列化快照隔离的数据库引擎】'SkipDB & Watermark & Txn - An embedded, i...](https://weibo.com/1402400261/ObuY7mAwv)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [【The Nimble File Format：由 Meta 创建的一种新的列式文件格式，旨在取代 Apache Parquet 和 ORC 等文件格式，其设计用于支持宽表和具有数千列的工作负载】'Th...](https://weibo.com/1402400261/ObuSbeYNJ)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [【torchtitan：用于大规模语言模型(LLM)训练的原生PyTorch库】'torchtitan - A native PyTorch Library for large model training' GitHub: github.com/pytorch/...](https://weibo.com/1402400261/ObuzI8HMQ)
+append_entries: 7
+Finish: 2024-04-26 06:16:51.887371

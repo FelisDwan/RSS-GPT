@@ -4,6 +4,102 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>【AX-LLM：探索业界常用 LLM(Large Language Model) 在已有芯片平台上落地的可行性和相关能力边界】'AX-LLM - Explore LLM model deployment based on AXera's A...</title>
+<link>https://weibo.com/1402400261/Obv4us1kK</link>
+<guid>https://weibo.com/1402400261/Obv4us1kK</guid>
+<content:encoded><![CDATA[
+<div> GitHub, AX-LLM, 探索, LLM, 芯片平台, 可行性, 能力边界, AXera, AI chips
+
+<br><br>总结:
+本文介绍了AX-LLM项目，旨在探索在已有芯片平台上部署LLM（Large Language Model）的可行性和相关能力边界。该项目基于AXera的AI芯片开展，旨在利用其强大的计算能力和优化的硬件架构来支持大规模自然语言处理任务。通过在GitHub上提供开放源代码，实现了模型的快速部署和定制化。通过对AX-LLM的研究和开发，可以为业界提供更多关于在芯片平台上运行LLM模型的实践经验和技术支持。 <div>
+【AX-LLM：探索业界常用 LLM(Large Language Model) 在已有芯片平台上落地的可行性和相关能力边界】'AX-LLM - Explore LLM model deployment based on AXera's AI chips' GitHub: github.com/AXERA-TECH/ax-llm <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a>
+]]></content:encoded>
+<pubDate>Fri, 26 Apr 2024 06:05:31 GMT</pubDate>
+<pubDate>Fri, 26 Apr 2024 06:05:31 GMT</pubDate>
+</item>
+<item>
+<title>【DuckRush：简单快速的后端API，基于 Hono，可以通过关键词在互联网上搜索到相关的内容并转换成适合 LLM 处理的格式】'DuckRush - A simple and fast backend A...</title>
+<link>https://weibo.com/1402400261/Obv3S4tZw</link>
+<guid>https://weibo.com/1402400261/Obv3S4tZw</guid>
+<content:encoded><![CDATA[
+<div> Hono, API, DuckRush, 互联网, 搜索, 内容, LLM, 格式, Cloudflare, 快速<br>
+<br>
+Hono基于的DuckRush是一个简单快速的后端API，可以通过关键词在互联网上搜索到相关的内容，并将其转换成适合LLM处理的格式。该API支持部署在Cloudflare上。总结: DuckRush是基于Hono的后端API，可快速搜索互联网上的内容并转换格式，支持部署在Cloudflare。 <div>
+【DuckRush：简单快速的后端API，基于 Hono，可以通过关键词在互联网上搜索到相关的内容并转换成适合 LLM 处理的格式】'DuckRush - A simple and fast backend API, based on Hono, that can search for relevant content on the internet using keywords and convert it into a format suitable for LLM processing. Supports deployment on Cloudflare.' GitHub: github.com/feiandxs/duckrush <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hp4768itgmj20sg0sgtar.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 26 Apr 2024 06:04:00 GMT</pubDate>
+<pubDate>Fri, 26 Apr 2024 06:04:00 GMT</pubDate>
+</item>
+<item>
+<title>【Swan：使用FPGA的轻量级语言模型执行环境，目标是利用高级综合（HLS）在通用FPGA上高效地运行语言模型】’Swan - This project aims to enable language model...</title>
+<link>https://weibo.com/1402400261/Obv1zCBWO</link>
+<guid>https://weibo.com/1402400261/Obv1zCBWO</guid>
+<content:encoded><![CDATA[
+<div> FPGA, 轻量级语言模型, 高级综合, 通用FPGA, 语言模型, AI, 边缘设备, 限资源环境, Swan, GitHub
+
+<br><br>总结:
+Swan项目旨在利用FPGA实现语言模型推理，支持在边缘设备和资源有限的环境中进行人工智能应用。项目旨在使用高级综合（HLS）在通用FPGA上高效地运行语言模型。 Swan项目的GitHub链接为github.com/turingmotors/swan。 <div>
+【Swan：使用FPGA的轻量级语言模型执行环境，目标是利用高级综合（HLS）在通用FPGA上高效地运行语言模型】’Swan - This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources.' GitHub: github.com/turingmotors/swan <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hp46ze1if3j20vv0u078d.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 26 Apr 2024 05:58:21 GMT</pubDate>
+<pubDate>Fri, 26 Apr 2024 05:58:21 GMT</pubDate>
+</item>
+<item>
+<title>'懒人客服 - 基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择...</title>
+<link>https://weibo.com/1402400261/ObuZNCMKf</link>
+<guid>https://weibo.com/1402400261/ObuZNCMKf</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 懒人客服, 大模型, 智能对话, 微信, 抖音, 知识库, GPT3.5, GPT4.0, 懒人百宝箱, AI应用<br>
+<br>
+总结:<br>
+本文介绍了基于大模型的智能对话客服工具懒人客服，支持多平台接入，并可选择不同版本的大模型进行使用，同时支持处理文本、语音和图片等形式的信息。此工具能够通过插件访问操作系统和互联网等外部资源，同时还支持定制企业AI应用，提供了更多选择和灵活性。 <div>
+'懒人客服 - 基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用' GitHub: github.com/lrhh123/ChatGPT-On-CS <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp46u21a18j20ek0czgnd.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 26 Apr 2024 05:53:59 GMT</pubDate>
+<pubDate>Fri, 26 Apr 2024 05:53:59 GMT</pubDate>
+</item>
+<item>
+<title>【SkipDB &amp; Watermark &amp; Txn：嵌入式、内存中、零拷贝、ACID、MVCC、几乎无锁且提供可序列化快照隔离的数据库引擎】'SkipDB &amp; Watermark &amp; Txn - An embedded, i...</title>
+<link>https://weibo.com/1402400261/ObuY7mAwv</link>
+<guid>https://weibo.com/1402400261/ObuY7mAwv</guid>
+<content:encoded><![CDATA[
+<div> SkipDB、Watermark、Txn、嵌入式、内存中、零拷贝、ACID、MVCC、无锁、可序列化快照隔离<br>
+<br>
+SkipDB & Watermark & Txn是一个嵌入式、内存中、零拷贝、ACID、MVCC的数据库引擎，几乎无锁且提供可序列化快照隔离。该引擎在处理事务时具有高度的并发性和性能，能够保证数据库操作的原子性、一致性、隔离性和持久性。通过采用多版本并发控制(MVCC)机制，数据库引擎能够提供高效的读写操作。同时，采用零拷贝技术可以减少数据移动的开销，提高数据访问效率。另外，引擎几乎无锁，避免了传统锁机制可能存在的性能瓶颈。最重要的是，数据库引擎提供可序列化快照隔离，确保事务操作的顺序一致性，避免了并发操作可能引发的数据一致性问题。SkipDB & Watermark & Txn是一个功能强大的数据库引擎，适用于需要高性能和数据完整性的应用场景。<br> <div>
+【SkipDB &amp; Watermark &amp; Txn：嵌入式、内存中、零拷贝、ACID、MVCC、几乎无锁且提供可序列化快照隔离的数据库引擎】'SkipDB &amp; Watermark &amp; Txn - An embedded, in-memory, zero-copy, ACID, MVCC, almost lock-free and serializable snapshot isolation database engine.' GitHub: github.com/al8n/skipdb <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp46rxzw7nj20u00xiq8e.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 26 Apr 2024 05:49:50 GMT</pubDate>
+<pubDate>Fri, 26 Apr 2024 05:49:50 GMT</pubDate>
+</item>
+<item>
+<title>【The Nimble File Format：由 Meta 创建的一种新的列式文件格式，旨在取代 Apache Parquet 和 ORC 等文件格式，其设计用于支持宽表和具有数千列的工作负载】'Th...</title>
+<link>https://weibo.com/1402400261/ObuSbeYNJ</link>
+<guid>https://weibo.com/1402400261/ObuSbeYNJ</guid>
+<content:encoded><![CDATA[
+<div> Meta、新的列式文件格式、替代、Apache Parquet、ORC、支持、宽表、数千列、GitHub、nimble
+
+<br><br>总结：
+Meta创建了一种名为Nimble File Format的新的列式文件格式，旨在取代目前使用的Apache Parquet和ORC等文件格式。该文件格式的设计旨在支持宽表和具有数千列的工作负载。对应的开源项目存储在GitHub上，地址为github.com/facebookexternal/nimble。 <div>
+【The Nimble File Format：由 Meta 创建的一种新的列式文件格式，旨在取代 Apache Parquet 和 ORC 等文件格式，其设计用于支持宽表和具有数千列的工作负载】'The Nimble File Format - New file format for storage of large columnar datasets.' GitHub: github.com/facebookexternal/nimble <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp46bysojlj20u00vrjx8.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 26 Apr 2024 05:35:12 GMT</pubDate>
+<pubDate>Fri, 26 Apr 2024 05:35:12 GMT</pubDate>
+</item>
+<item>
+<title>【torchtitan：用于大规模语言模型(LLM)训练的原生PyTorch库】'torchtitan - A native PyTorch Library for large model training' GitHub: github.com/pytorch/...</title>
+<link>https://weibo.com/1402400261/ObuzI8HMQ</link>
+<guid>https://weibo.com/1402400261/ObuzI8HMQ</guid>
+<content:encoded><![CDATA[
+<div> PyTorch, torchtitan, 大规模, 语言模型, 训练, 原生, 库, GitHub   
+<br>
+大规模语言模型(LLM)训练需要高效的工具支持，而torchtitan就是为此目的而设计的原生PyTorch库。这个库在GitHub上有开源代码可以使用。torchtitan可以帮助用户训练大规模的语言模型，提高效率和性能。该库的设计目的是为了简化大规模模型训练的过程，并提供在PyTorch中使用的工具和功能。通过使用torchtitan，用户可以更轻松地实现对大规模语言模型的训练，提高训练效率。总的来说，torchtitan是一个为大规模语言模型训练而设计的原生PyTorch库，可以帮助用户提升训练效率和性能。 <br><br> 
+总结: <br>提供原生PyTorch库torchtitan用于大规模语言模型训练；这个库在GitHub上有开源代码；设计目的是简化大规模模型训练过程；提供PyTorch中使用的工具和功能；可帮助用户更轻松实现对大规模语言模型的训练；提高训练效率。 <div>
+【torchtitan：用于大规模语言模型(LLM)训练的原生PyTorch库】'torchtitan - A native PyTorch Library for large model training' GitHub: github.com/pytorch/torchtitan <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp45146spzj21af0u0k17.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 26 Apr 2024 04:49:42 GMT</pubDate>
+<pubDate>Fri, 26 Apr 2024 04:49:42 GMT</pubDate>
+</item>
 
 <item>
 <title>Adobe Photoshop(beta)的最新演示 #人工智能# 爱可可-爱生活的微博视频</title>
