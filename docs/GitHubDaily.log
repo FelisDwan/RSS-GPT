@@ -3207,3 +3207,12 @@ Existing_entries: 64
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-04-26 10:12:45.921577
+------------------------------------------------------
+Started: 2024-04-26 12:20:35.451295
+Existing_entries: 64
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 164
+Summarized using GPT-3.5-turbo
+Append: [给前端开发者推荐一款开源的 Chrome 浏览器插件 Reponsive Viewer。它可以在一个界面中展示多个屏幕尺寸，能够很好帮助到你在开发响应式网站或应用时测试多屏幕...](https://weibo.com/5722964389/ObwBFa78o)
+append_entries: 1
+Finish: 2024-04-26 12:20:41.198576
