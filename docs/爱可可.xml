@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>《爱可可微博热门分享(4.26)》 爱可可微博热门分享(4.26) [图片]</title>
 <link>https://weibo.com/1402400261/Obys8hKqx</link>
@@ -15,7 +16,6 @@
 《爱可可微博热门分享(4.26)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405027540480688447"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(4.26)</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp4m5p437nj20rs0fmabt.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 26 Apr 2024 14:42:01 GMT</pubDate>
-<pubDate>Fri, 26 Apr 2024 14:42:01 GMT</pubDate>
 </item>
 <item>
 <title>几篇论文实现代码：《Retrieval Head Mechanistically Explains Long-Context Factuality》(2024) GitHub: github.com/nightdessert/Retrieval_Head《Vitron: A ...</title>
@@ -24,13 +24,11 @@
 <content:encoded><![CDATA[
 <div> 关键词: Retrieval Head, Long-Context Factuality, Pixel-level Vision, Unified, Understanding, Generating, Segmenting, Editing, Talking Head Synthesis, Multimodal LLMs
 
-总结:<br><br>本文介绍了几篇关于人工智能领域的论文实现代码，包括Retrieval Head对长文本语境事实性的解释，Vitron用于理解、生成、分割和编辑像素级视觉任务的统一模型，GaussianTalker实现实时高保真度对话头部合成，List Items One by One为多模态LLM提供了新的数据源和学习范式，Learning Long-form Video Prior通过生成式预训练学习长视频的先验知识。这些论文实现代码均可在对应的GitHub链接中找到。 <div>
+总结:<br /><br />本文介绍了几篇关于人工智能领域的论文实现代码，包括Retrieval Head对长文本语境事实性的解释，Vitron用于理解、生成、分割和编辑像素级视觉任务的统一模型，GaussianTalker实现实时高保真度对话头部合成，List Items One by One为多模态LLM提供了新的数据源和学习范式，Learning Long-form Video Prior通过生成式预训练学习长视频的先验知识。这些论文实现代码均可在对应的GitHub链接中找到。 <div>
 几篇论文实现代码：<br />《Retrieval Head Mechanistically Explains Long-Context Factuality》(2024) GitHub: github.com/nightdessert/Retrieval_Head<br />《Vitron: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing》(2024) GitHub: github.com/SkyworkAI/Vitron [fig1]<br />《GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting》(2024) GitHub: github.com/KU-CVLAB/GaussianTalker [fig2]<br />《List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs》(2024) GitHub: github.com/zzxslp/SoM-LLaVA<br />《Learning Long-form Video Prior via Generative Pre-Training》(2024) GitHub: github.com/showlab/Long-form-Video-Prior<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp4597xkowj27ep7dsnq0.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp45bdwd26j29bq3pohdy.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 26 Apr 2024 14:17:45 GMT</pubDate>
-<pubDate>Fri, 26 Apr 2024 14:17:45 GMT</pubDate>
 </item>
-
 <item>
 <title>【AX-LLM：探索业界常用 LLM(Large Language Model) 在已有芯片平台上落地的可行性和相关能力边界】'AX-LLM - Explore LLM model deployment based on AXera's A...</title>
 <link>https://weibo.com/1402400261/Obv4us1kK</link>
@@ -12839,32 +12837,6 @@ ONNX Runtime Server是一个提供TCP和HTTP/HTTPS REST API用于ONNX推断的�
 [CV] Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation  <br /><a href="https://arxiv.org/abs/2403.12015"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />提出"潜对抗性扩散蒸馏"(LADD)方法，在深度学习扩散模型蒸馏中取得突破性进展。相比前作"对抗性扩散蒸馏"(ADD)，LADD直接利用预训练扩散模型的生成特征，无需解码到像素空间，大幅简化了训练过程，同时还能更好地控制鉴别器的行为。将LADD应用于最新的文本到图像生成模型"Stable Diffusion 3"，得到了超快速的SD3-Turbo，其单步生成质量媲美原模型，但仅需4步采样。展示了LADD适用于图像编辑和修复等其他任务，并深入分析了LADD的伸缩性。总的来说，LADD大幅提升了扩散模型的推理速度，为实时应用铺平了道路。<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnx1ixbjerj212q1im7ls.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnx1ixtzoqj20vc1b8wup.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnx1iy7hgfj21g614qatb.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Tue, 19 Mar 2024 22:08:47 GMT</pubDate>
-</item>
-<item>
-<title>[LG] Understanding Diffusion Models by Feynman's Path Integral 网页链接 通过引入Feynman路径积分的形式，为理解基于得分扩散模型中随机与确定性采样方案性...</title>
-<link>https://weibo.com/1402400261/O5P0Z2xh9</link>
-<guid>https://weibo.com/1402400261/O5P0Z2xh9</guid>
-<content:encoded><![CDATA[
-<div> Feynman路径积分 模型 插值参数 h 确定性随机采样 性能差异 WKB展开 负对数似然 物理学联系 噪声计算
-
-<br /><br />总结:
-本文通过引入Feynman路径积分的形式，提供了新的视角理解基于得分扩散模型中随机与确定性采样方案性能差异。通过引入插值参数h，在路径积分中类似于普朗克常数的作用，连接了随机生成和概率流ODE两种极端情况。结合WKB展开方法，对负对数似然进行评估，解释了性能差异的原因。这种方法不仅展示了扩散模型与物理学的联系，还为在噪声存在的采样过程中计算对数似然提供了新的途径。 <div>
-[LG] Understanding Diffusion Models by Feynman's Path Integral  <br /><a href="https://arxiv.org/abs/2403.11262"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />通过引入Feynman路径积分的形式，为理解基于得分扩散模型中随机与确定性采样方案性能差异提供了新视角。本文发现路径积分公式化可以全面描述生成模型，展示了如何导出后向随机微分方程和损失函数。本文的核心创新是引入一个插值参数h，连接随机生成(h=1)和概率流ODE(h=0)。该参数在路径积分中的作用类似于量子物理中的普朗克常数，通过类比，应用了WKB(Wentzel-Kramers-Brillouin)展开方法，量子物理中的一种技术，用来评估负对数似然(NLL)，以此解释随机和确定性采样方案间的性能差异。这种方法不仅展示了扩散模型与物理学更深层次的联系，还为在存在噪声的采样过程中明确计算对数似然提供了新的途径。<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnx0zd4felj219k1j2h9m.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnx0zdfkbwj20rs104ag5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnx0zdqsajj20rs0n0wht.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 21:49:59 GMT</pubDate>
-</item>
-<item>
-<title>[CV] LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images 网页链接 现有大型多模态模型(LMM)在处理不同长宽比和高分辨率图像时存在系统...</title>
-<link>https://weibo.com/1402400261/O5OYrFho4</link>
-<guid>https://weibo.com/1402400261/O5OYrFho4</guid>
-<content:encoded><![CDATA[
-<div> 模型, 长宽比, 高分辨率, 图像模块化, 压缩模块, 空间模式, 准确率, 推理计算量, A100 GPU, 高效训练
-
-总结:<br /><br />
-本文介绍了LLaVA-UHD模型，解决了大型多模态模型在处理不同长宽比和高分辨率图像时存在的问题。通过图像模块化策略、压缩模块和空间模式的创新组件，实现了对任意长宽比和高分辨率图像的有效感知。该模型在九个基准测试中表现出色，特别是在TextVQA上准确率提高了6.4点，推理计算量仅增加了94%。训练过程仅用时23小时，在学术环境下展现了高效训练潜力。 <div>
-[CV] LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images  <br /><a href="https://arxiv.org/abs/2403.11703"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />现有大型多模态模型(LMM)在处理不同长宽比和高分辨率图像时存在系统性缺陷，因固定图像尺寸和有限分辨率导致效率低下、适应性差和准确性问题。本文提出了LLaVA-UHD模型，通过图像模块化策略、压缩模块和空间模式三大创新组件，实现了对任意长宽比和高分辨率图像的有效感知。LLaVA-UHD在九个基准测试中表现出色，特别是在TextVQA上比基于LLaVA-1.5的模型准确率提高了6.4点，且推理计算量只增加了94%。该模型能在8块A100 GPU上仅用23小时完成训练，显示了在学术环境下的高效训练潜力。<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnx0svm0i8j212u1jc1an.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnx0svz4mkj21980ps0zl.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnx0swhritj218w0wgqbs.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnx0swychaj21980v847o.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Tue, 19 Mar 2024 21:43:46 GMT</pubDate>
 </item>
 </channel>
 </rss>
