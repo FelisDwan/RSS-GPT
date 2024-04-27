@@ -6649,3 +6649,12 @@ Summarized using GPT-3.5-turbo
 Append: [【Geoguess：开源的地理位置猜测游戏，使用 Google Map StreetView，可以单人或多人同时玩】'Geoguess - GeoGuess is an open-source geography game with Googl...](https://weibo.com/1402400261/ObEnVnTwd)
 append_entries: 2
 Finish: 2024-04-27 08:14:08.546366
+------------------------------------------------------
+Started: 2024-04-27 10:12:27.155469
+Existing_entries: 1002
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: [【PDFText：类似 PyMuPDF用于从 PDF 文件提取结构化文本的Python库】’PDFText - Extract structured text from pdfs quickly' GitHub: github.com/VikParuchuri...](https://weibo.com/1402400261/ObEN9EwF9)
+append_entries: 1
+Finish: 2024-04-27 10:12:34.357939
