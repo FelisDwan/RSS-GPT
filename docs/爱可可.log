@@ -6691,3 +6691,9 @@ Summarized using GPT-3.5-turbo
 Append: [【Simone：将 YouTube 视频转换成博客文章，并自动生成相关的上下文截图】'Simone - Repurpose your YouTube videos by converting them into blog posts.' GitH...](https://weibo.com/1402400261/ObFM447Xt)
 append_entries: 9
 Finish: 2024-04-27 12:19:12.436016
+------------------------------------------------------
+Started: 2024-04-27 14:09:06.772113
+Existing_entries: 1009
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-27 14:09:06.909238

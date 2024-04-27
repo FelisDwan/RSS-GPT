@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>几篇论文实现代码：《Subtractive Mixture Models via Squaring: Representation and Learning》(ICLR 2024) GitHub: github.com/april-tools/squared-npcs《Dra...</title>
 <link>https://weibo.com/1402400261/ObGjwqjmT</link>
@@ -11,20 +12,19 @@
 <content:encoded><![CDATA[
 <div> 关键词：Subtractive Mixture Models, Squaring, Representation, Learning, Interactive Point-based Editing, Diffusion Semantic Propagation, Vision-and-Language Navigation, Causal Learning, Radiance Fields, Portrait Generation
 
-总结:<br>
-《Subtractive Mixture Models via Squaring: Representation and Learning》介绍了一种通过平方实现减法混合模型的方法，在表示和学习方面取得了进展。<br>
-《Drag Your Noise: Interactive Point-based Editing via Diffusion Semantic Propagation》提出了一种交互式基于点编辑的方法，通过扩散语义传播来编辑噪声。<br>
-《Vision-and-Language Navigation via Causal Learning》探讨了通过因果学习进行视觉与语言导航的方法。<br>
-《Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids》介绍了一种利用Ripmap编码的几何体来抗锯齿辐射场的方法。<br>
-《ConsistentID : Portrait Generation with Multimodal Fine-Grained Identity Preserving 》介绍了一种具有多模态细粒度身份保持的肖像生成方法。<br>
-《DreamPhysics: Learning Physical Properties of Dynamic 3D Gaussians from Video Diffusion Priors》通过视频扩散先验学习动态3D高斯函数的物理属性。<br>
-《CWF: Consolidating Weak Features in High-quality Mesh Simplification》介绍了一种在高质量网格简化中巩固弱特征的方法。<br>
-《Reconstructing Hand-Held Objects in 3D》探讨了在三维空间中重建手持物体的方法。<br>
-《Enriching Music Descriptions with a Finetuned-LLM and Metadata for Text-to-Music Retrieval》介绍了一种通过细调LLM和元数据来丰富音乐描述以进行文本到音乐检索的方法。<br>
-《MMT-Bench: A Multimodal MultiTask Benchmark for Comprehensive Evaluation of Large Vision-Language Models》介绍了用于大型视觉语言模型综合评估的多模式多任务基准。<br> <div>
+总结:<br />
+《Subtractive Mixture Models via Squaring: Representation and Learning》介绍了一种通过平方实现减法混合模型的方法，在表示和学习方面取得了进展。<br />
+《Drag Your Noise: Interactive Point-based Editing via Diffusion Semantic Propagation》提出了一种交互式基于点编辑的方法，通过扩散语义传播来编辑噪声。<br />
+《Vision-and-Language Navigation via Causal Learning》探讨了通过因果学习进行视觉与语言导航的方法。<br />
+《Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids》介绍了一种利用Ripmap编码的几何体来抗锯齿辐射场的方法。<br />
+《ConsistentID : Portrait Generation with Multimodal Fine-Grained Identity Preserving 》介绍了一种具有多模态细粒度身份保持的肖像生成方法。<br />
+《DreamPhysics: Learning Physical Properties of Dynamic 3D Gaussians from Video Diffusion Priors》通过视频扩散先验学习动态3D高斯函数的物理属性。<br />
+《CWF: Consolidating Weak Features in High-quality Mesh Simplification》介绍了一种在高质量网格简化中巩固弱特征的方法。<br />
+《Reconstructing Hand-Held Objects in 3D》探讨了在三维空间中重建手持物体的方法。<br />
+《Enriching Music Descriptions with a Finetuned-LLM and Metadata for Text-to-Music Retrieval》介绍了一种通过细调LLM和元数据来丰富音乐描述以进行文本到音乐检索的方法。<br />
+《MMT-Bench: A Multimodal MultiTask Benchmark for Comprehensive Evaluation of Large Vision-Language Models》介绍了用于大型视觉语言模型综合评估的多模式多任务基准。<br /> <div>
 几篇论文实现代码：<br />《Subtractive Mixture Models via Squaring: Representation and Learning》(ICLR 2024) GitHub: github.com/april-tools/squared-npcs<br />《Drag Your Noise: Interactive Point-based Editing via Diffusion Semantic Propagation》(CVPR 2024) GitHub: github.com/haofengl/DragNoise<br />《Vision-and-Language Navigation via Causal Learning》(CVPR 2024) GitHub: github.com/CrystalSixone/VLN-GOAT<br />《Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids》(SIGGRAPH 2024) GitHub: github.com/JunchenLiu77/Rip-NeRF [fig2]<br />《ConsistentID : Portrait Generation with Multimodal Fine-Grained Identity Preserving 》(2024) GitHub: github.com/JackAILab/ConsistentID [fig1]<br />《DreamPhysics: Learning Physical Properties of Dynamic 3D Gaussians from Video Diffusion Priors》(2024) GitHub: github.com/tyhuang0428/DreamPhysics<br />《CWF: Consolidating Weak Features in High-quality Mesh Simplification》(2024) GitHub: github.com/Xrvitd/CWF<br />《Reconstructing Hand-Held Objects in 3D》(2024) GitHub: github.com/janehwu/mcc-ho<br />《Enriching Music Descriptions with a Finetuned-LLM and Metadata for Text-to-Music Retrieval》(2024) GitHub: github.com/seungheondoh/music-text-representation-pp<br />《MMT-Bench: A Multimodal MultiTask Benchmark for Comprehensive Evaluation of Large Vision-Language Models》(2024) GitHub: github.com/OpenGVLab/MMT-Bench [fig4]<br />《SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation》(2024) GitHub: github.com/xuxy09/smpler<br />《Vertex Block Descent》(2024) GitHub: github.com/AnkaChan/TinyVBD<br />《NIIRF: Neural IIR Filter Field for HRTF Upsampling and Personalization》(2024) GitHub: github.com/merlresearch/neural-IIR-field<br />《Learning Visuotactile Skills with Two Multifingered Hands》(2024) GitHub: github.com/ToruOwO/hato<br />《Make Your LLM Fully Utilize the Context》(2024) GitHub: github.com/microsoft/FILM<br />《MR-MT3: Memory Retaining Multi-Track Music Transcription to Mitigate Instrument Leakage》(2024) GitHub: github.com/gudgud96/MR-MT3<br />《Towards Efficient and Reliable LLM Serving: A Real-World Workload Study》(2024) GitHub: github.com/HPMLL/BurstGPT<br />《Beyond A* Better Planning with Transformers via Search Dynamics Bootstrapping》(2024) GitHub: github.com/facebookresearch/searchformer<br />《ChangeCLIP: Remote sensing change detection with multimodal vision-language representation learning》(2024) GitHub: github.com/dyzy41/ChangeCLIP<br />《Simple and Controllable Music Generation》(2024) GitHub: github.com/ylacombe/musicgen-dreamboothing<br />《BEV-MAE: Bird's Eye View Masked Autoencoders for Point Cloud Pre-training in Autonomous Driving Scenarios》(2024) GitHub: github.com/VDIGPKU/BEV-MAE<br />《BEV-MAE: Bird's Eye View Masked Autoencoders for Point Cloud Pre-training in Autonomous Driving Scenarios》(2024) GitHub: github.com/VDIGPKU/BEV-MAE<br />《SCNet: Sparse Compression Network for Music Source Separation》(2024) GitHub: github.com/starrytong/SCNet [fig3]<br />《PeLiCal: Targetless Extrinsic Calibration via Penetrating<br />Lines for RGB-D Cameras with Limited Co-visibility》(2024) GitHub: github.com/joomeok/PeLiCal<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp5e72iuoxj21eq0qh7wh.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp5j74ovgnj21i10i6nay.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp5k3o914gj21ep0jm76s.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp5ki39uazj23341qi7wj.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 27 Apr 2024 10:42:47 GMT</pubDate>
 <pubDate>Sat, 27 Apr 2024 10:42:47 GMT</pubDate>
 </item>
 <item>
@@ -34,11 +34,10 @@
 <content:encoded><![CDATA[
 <div> 面试准备工具、AI、面试练习、代理角色、个性化面试、GitHub、训练、情境、工具
 
-<br><br>总结:
+<br /><br />总结:
 InterviewPilot.AI是一个使用AI技术帮助用户进行面试准备的工具，其代理角色会根据用户的背景定制个性化的面试练习，听取用户的回答并像真实面试官一样作出反应。用户可以通过这个工具在不同情境下进行训练，帮助他们在各种面试场合中取得成功。同时，该工具还在GitHub上进行开源，让更多人能够使用和分享。 <div>
 【InterviewPilot.AI：使用AI帮用户进行面试练习的面试准备工具】’InterviewPilot.AI - Ace interviews with AI practice. Our agent role-plays personalized interview tailored to your background, listening and replying like a real interviewer. Train across personas for any situation.' GitHub: github.com/tejpshah/interview-pilot-ai <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp5jxmlyacj20v00u0wk8.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 27 Apr 2024 10:10:32 GMT</pubDate>
 <pubDate>Sat, 27 Apr 2024 10:10:32 GMT</pubDate>
 </item>
 <item>
@@ -48,11 +47,10 @@ InterviewPilot.AI是一个使用AI技术帮助用户进行面试准备的工具�
 <content:encoded><![CDATA[
 <div> 开源、复现版、私有化部署、LLM、前端项目、anime.gf、CharacterAI、GitHub、local、 alternative
 
-<br><br>总结:
+<br /><br />总结:
 anime.gf是一个可私有化部署的开源前端项目，是CharacterAI的复现版本，提供了一个本地和开源的替代解决方案。用户可以在GitHub上找到该项目，并使用LLM技术实现人物角色相关功能。 <div>
 【anime.gf：CharacterAI开源复现版，可私有化部署的开源 LLM 前端项目】’anime.gf - Local &amp; Open Source Alternative to CharacterAI' GitHub: github.com/cyanff/anime.gf <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp5jozpdl7j21es0s9aiv.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 27 Apr 2024 10:02:19 GMT</pubDate>
 <pubDate>Sat, 27 Apr 2024 10:02:19 GMT</pubDate>
 </item>
 <item>
@@ -64,10 +62,9 @@ anime.gf是一个可私有化部署的开源前端项目，是CharacterAI的复�
 
 LLM全栈优质资源汇总是一个GitHub仓库，提供了丰富的全栈开发资源。这个仓库由liguodongiot创建并维护，收集了各种优质的学习资料、工具和教程，方便开发人员学习和使用。仓库中包含了各种技术领域的资源，涵盖了前端、后端、数据库、DevOps等方面。开发人员可以通过这个仓库找到他们需要的各种资源，提升自己的技能和知识水平。
 
-总结：<br><br>LLM全栈优质资源汇总是一个GitHub仓库，提供了丰富的全栈开发资源，由liguodongiot创建并维护，包含各种优质学习资料和工具，方便开发人员学习和使用。<br>仓库中包含各种技术领域的资源，涵盖了前端、后端、数据库、DevOps等方面，让开发人员可以找到自己需要的资源，提升技能和知识水平。 <div>
+总结：<br /><br />LLM全栈优质资源汇总是一个GitHub仓库，提供了丰富的全栈开发资源，由liguodongiot创建并维护，包含各种优质学习资料和工具，方便开发人员学习和使用。<br />仓库中包含各种技术领域的资源，涵盖了前端、后端、数据库、DevOps等方面，让开发人员可以找到自己需要的资源，提升技能和知识水平。 <div>
 'LLM全栈优质资源汇总' GitHub: github.com/liguodongiot/llm-resource <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp5jhrdk17j20u013k0wx.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 27 Apr 2024 09:55:22 GMT</pubDate>
 <pubDate>Sat, 27 Apr 2024 09:55:22 GMT</pubDate>
 </item>
 <item>
@@ -77,10 +74,9 @@ LLM全栈优质资源汇总是一个GitHub仓库，提供了丰富的全栈开�
 <content:encoded><![CDATA[
 <div> GitHub, GenIR, 信息检索, 论文列表, 生成式
 
-总结:<br><br>该文章介绍了关于生成式信息检索(GenIR)的调查研究，对GenIR调查的知识库进行了介绍。GitHub上提供了GenIR调查的存储库，研究了相关论文列表。GenIR算法在信息检索领域中具有重要意义，通过这篇文章可以了解到更多关于GenIR的相关领域研究进展。 <div>
+总结:<br /><br />该文章介绍了关于生成式信息检索(GenIR)的调查研究，对GenIR调查的知识库进行了介绍。GitHub上提供了GenIR调查的存储库，研究了相关论文列表。GenIR算法在信息检索领域中具有重要意义，通过这篇文章可以了解到更多关于GenIR的相关领域研究进展。 <div>
 【GenIR-Survey：生成式信息检索(GenIR)相关论文列表】’GenIR-Survey - This is the repository for the GenIR survey.' GitHub: github.com/RUC-NLPIR/GenIR-Survey <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp5ja74am3j20xo0u0n57.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 27 Apr 2024 09:48:46 GMT</pubDate>
 <pubDate>Sat, 27 Apr 2024 09:48:46 GMT</pubDate>
 </item>
 <item>
@@ -90,11 +86,10 @@ LLM全栈优质资源汇总是一个GitHub仓库，提供了丰富的全栈开�
 <content:encoded><![CDATA[
 <div> API，音乐生成，Suno AI，集成，GPTs，agent，调用，github，gcui-art，易用性
 
-<br><br>总结:
+<br /><br />总结:
 文章介绍了Suno AI API，可以通过API调用suno.ai的音乐生成AI，并且可以轻松集成到像GPTs这样的agent中。该API提供了方便的方式让用户调用音乐生成AI，同时可以用于集成到各种agent中，增强其功能。该项目的代码托管在GitHub上，方便用户访问和使用。整体来说，Suno AI API提供了一个便捷的方式让用户利用音乐生成AI进行创作和应用。 <div>
 【Suno AI API：用 API 调用 suno.ai 的音乐生成 AI，并且可以轻松集成到 GPTs 等 agent 中】'Suno AI API - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.' GitHub: github.com/gcui-art/suno-api <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp5j3mjgw0j21840kk406.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 27 Apr 2024 09:42:00 GMT</pubDate>
 <pubDate>Sat, 27 Apr 2024 09:42:00 GMT</pubDate>
 </item>
 <item>
@@ -104,11 +99,10 @@ LLM全栈优质资源汇总是一个GitHub仓库，提供了丰富的全栈开�
 <content:encoded><![CDATA[
 <div> 文件管理、照片管理、开源、隐私友好、可扩展、功能丰富、用户友好、便携、系统、TagStudio
 
-<br><br>总结:
+<br /><br />总结:
 TagStudio是一个开源的文件/照片管理应用和系统，旨在创建一个便携式、隐私友好、开放、可扩展且功能丰富的文件组织系统。它注重用户体验，提供便捷的文件管理和照片管理功能，保护用户隐私，同时支持系统的扩展性和自定义功能。TagStudio是一个用户友好的文件组织系统，旨在为用户提供更好的文件管理体验。 <div>
 【TagStudio (Preview/Alpha): 开源的文件/照片管理应用和系统，目标是创建一个便携式、隐私友好、开放、可扩展且功能丰富的文件组织系统】’TagStudio (Preview/Alpha): A User-Focused Document Management System - A file and photo management application and system.' GitHub: github.com/TagStudioDev/TagStudio <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp5ip8bi09j21900sg4bm.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 27 Apr 2024 09:27:58 GMT</pubDate>
 <pubDate>Sat, 27 Apr 2024 09:27:58 GMT</pubDate>
 </item>
 <item>
@@ -120,10 +114,9 @@ TagStudio是一个开源的文件/照片管理应用和系统，旨在创建一�
 
 文档图像处理是一项重要的研究领域，涉及到外观增强、去阴影、矫正、去模糊和二值化等技术。在这个存储库中，收集了相关论文和数据集，探讨了不同方法在文档图像处理中的应用。外观增强是通过改进图像的视觉质量来提高文档图像的识别性能，而去阴影则是消除图像中的阴影干扰。矫正技术可以对文档图像进行几何变换，使其更加规范和易于处理，而去模糊则可以提高文档图像的清晰度。二值化是将文档图像转换为黑白两色，方便后续的处理和识别。这些技术的研究有助于提高文档图像处理的效率和准确性，对于数字化文档管理和文档识别具有重要意义。
 
-<br><br>总结:方法, 文档图像处理, 外观增强, 去阴影, 矫正, 去模糊, 二值化。文档图像处理是一项重要的研究领域，涉及到外观增强、去阴影、矫正、去模糊和二值化等技术。外观增强是通过改进图像的视觉质量来提高文档图像的识别性能，而去阴影则是消除图像中的阴影干扰。矫正技术可以对文档图像进行几何变换，使其更加规范和易于处理，而去模糊则可以提高文档图像的清晰度。二值化是将文档图像转换为黑白两色，方便后续的处理和识别。这些技术的研究有助于提高文档图像处理的效率和准确性，对于数字化文档管理和文档识别具有重要意义。 <div>
+<br /><br />总结:方法, 文档图像处理, 外观增强, 去阴影, 矫正, 去模糊, 二值化。文档图像处理是一项重要的研究领域，涉及到外观增强、去阴影、矫正、去模糊和二值化等技术。外观增强是通过改进图像的视觉质量来提高文档图像的识别性能，而去阴影则是消除图像中的阴影干扰。矫正技术可以对文档图像进行几何变换，使其更加规范和易于处理，而去模糊则可以提高文档图像的清晰度。二值化是将文档图像转换为黑白两色，方便后续的处理和识别。这些技术的研究有助于提高文档图像处理的效率和准确性，对于数字化文档管理和文档识别具有重要意义。 <div>
 【文档图像处理相关论文和数据集列表】’Recommendations of Document Image Processing - This repository contains a paper collection of the methods for document image processing, including appearance enhancement, deshadow, dewarping, deblur, and binarization.' GitHub: github.com/ZZZHANG-jx/Recommendations-Document-Image-Processing <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hp5ijo3dsmj217s0rugqv.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 27 Apr 2024 09:22:31 GMT</pubDate>
 <pubDate>Sat, 27 Apr 2024 09:22:31 GMT</pubDate>
 </item>
 <item>
@@ -144,14 +137,12 @@ TagStudio是一个开源的文件/照片管理应用和系统，旨在创建一�
 要点九：通过转换视频内容成博客文章，可以扩大内容的传播范围，吸引更多的目标受众。
 要点十：Simone工具的使用简单方便，是一种有效的内容转化方式，适合各类视频创作者和博客写手。 
 
-<br><br>总结: 
+<br /><br />总结: 
 Simone是一个工具，可以帮助用户将YouTube视频转换成博客文章，并自动生成相关的上下文截图。通过GitHub上的代码，用户可以简单操作，将视频内容转化成文字形式，提高内容的传播和利用效率，增加网站的内容多样性。自动生成相关截图，提升文章可读性和吸引力。转换视频内容成博客文章，可以提升SEO效果，吸引更多目标受众，是一种有效的内容转化方式。Simone工具简单易用，适合各类视频创作者和博客写手使用。 <div>
 【Simone：将 YouTube 视频转换成博客文章，并自动生成相关的上下文截图】'Simone - Repurpose your YouTube videos by converting them into blog posts.' GitHub: github.com/rajtilakjee/simone <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp5ihenxsyj21330u0n1g.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sat, 27 Apr 2024 09:20:21 GMT</pubDate>
-<pubDate>Sat, 27 Apr 2024 09:20:21 GMT</pubDate>
 </item>
-
 <item>
 <title>【PDFText：类似 PyMuPDF用于从 PDF 文件提取结构化文本的Python库】’PDFText - Extract structured text from pdfs quickly' GitHub: github.com/VikParuchuri...</title>
 <link>https://weibo.com/1402400261/ObEN9EwF9</link>
@@ -12863,127 +12854,6 @@ LLaMA Nuts and Bolts 是一个旨在通过代码和详细文档全面了解LLaMA
 【大语言模型与工具使用相关论文资源列表】’Awesome LMs with Tools' GitHub: github.com/zorazrw/awesome-tool-llm <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnyk1hgkfcj21550u0dkt.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Thu, 21 Mar 2024 05:34:58 GMT</pubDate>
-</item>
-<item>
-<title>【GritQL 是一个描述式查询语言，可以用于搜索和修改代码，支持多种编程语言】'GritQL is a query language for searching, linting, and modifying code.' GitH...</title>
-<link>https://weibo.com/1402400261/O61rC2jl3</link>
-<guid>https://weibo.com/1402400261/O61rC2jl3</guid>
-<content:encoded><![CDATA[
-<div> GritQL, 查询语言, 搜索, 代码, 修改, 多种编程语言, GitHub, getgrit, gritql <br />
-<br />
-要点一: GritQL是一个用于搜索、审查和修改代码的查询语言。<br />
-要点二: 它支持多种编程语言。<br />
-要点三: GritQL在GitHub上有开源代码，并且可以访问github.com/getgrit/gritql。 <br /> <div>
-【GritQL 是一个描述式查询语言，可以用于搜索和修改代码，支持多种编程语言】'GritQL is a query language for searching, linting, and modifying code.' GitHub: github.com/getgrit/gritql <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%BC%96%E7%A8%8B%23&amp;isnewpage=1"><span class="surl-text">#编程#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnyju2vf6kj21a90u043i.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 21 Mar 2024 05:28:34 GMT</pubDate>
-</item>
-<item>
-<title>【李世乭“人机大战”8年后的反思和感悟】- 本文是世界围棋冠军李世乭(Lee Sedol)在 AlphaGo 战胜他 8 年后的一些反思和感悟。 - 李世乭回顾了 2016 年与 AlphaG...</title>
-<link>https://weibo.com/1402400261/O5Zrf9g14</link>
-<guid>https://weibo.com/1402400261/O5Zrf9g14</guid>
-<content:encoded><![CDATA[
-<div> 李世乭, AlphaGo, 人工智能, 围棋, 人机协作, AI 技术, 伦理, 安全性, 人类参与, 发展<br />
-<br />
-总结:<br />
-李世乭回顾了与AlphaGo的历史性对决，被其出色表现震撼，改变了对人工智能的看法，认为人机协作是未来的发展趋势。他指出AI的发展需要人类参与和引导，呼吁保持理性和谨慎，并重视AI的伦理和安全性。他对AI技术持开放态度，强调人机合作能够充分发挥AI的价值，造福人类。 <div>
-【李世乭“人机大战”8年后的反思和感悟】<br />- 本文是世界围棋冠军李世乭(Lee Sedol)在 AlphaGo 战胜他 8 年后的一些反思和感悟。  <br />- 李世乭回顾了 2016 年与 AlphaGo 的那场历史性对决，当时他对人工智能在围棋领域的能力持怀疑态度。但经过五番棋后，他被 AlphaGo 的出色表现所震惊。  <br />- 这场对决不仅改变了李世乭对人工智能的看法，也让全世界看到了 AI 在复杂决策领域的无限潜力。  <br />- 李世乭认为，AlphaGo 的诞生标志着人工智能时代的到来，它将深刻影响人类的生活和工作方式。  <br />- 尽管 AlphaGo 在围棋上战胜了人类，但李世乭并不认为人工智能会完全取代人类，相反，人机协作将成为未来的发展趋势。  <br />- 李世乭呼吁人们拥抱 AI 技术，但同时也要保持理性和谨慎，注重 AI 的伦理和安全性，确保其为人类社会带来利益而非危害。  <br />- 他认为，人工智能的发展需要人类的参与和引导，只有人机合作，才能充分发挥 AI 的价值，造福人类。  <br /><br />点评：<br />- 李世乭作为人工智能时代的见证者和参与者，他的反思和观点具有独特的洞见和权威性。  <br />- 他对人机协作的展望，体现了一种积极拥抱新技术的开放心态，而非对 AI 的盲目恐惧或排斥。  <br />- 他强调 AI 发展需要人类的参与和引导，这一观点具有前瞻性，有助于促进人工智能的健康发展。  <br />- 他对 AI 伦理和安全性的重视，反映出对这一新兴技术的理性思考和审慎态度，值得肯定。  <br />- 李世乭的观点富有洞见，既展现了对人工智能的热情，也蕴含了对其潜在风险的警示，是一种平衡和中庸之道。<br />《8 years later: A world Go champion’s reflections on AlphaGo》 <a href="https://blog.google/around-the-globe/google-asia/8-years-later-a-world-go-champions-reflections-on-alphago/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span> <span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnyb01j2yaj20qu0i077f.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 21 Mar 2024 00:22:10 GMT</pubDate>
-</item>
-<item>
-<title>【OpenAI的GPT商店充斥大量违规内容】 - OpenAI 推出的 GPT 商店(GPT Store)旨在让开发者构建基于 OpenAI 生成式 AI 模型的定制聊天机器人，用于完成各种任务。 ...</title>
-<link>https://weibo.com/1402400261/O5ZpaE0pX</link>
-<guid>https://weibo.com/1402400261/O5ZpaE0pX</guid>
-<content:encoded><![CDATA[
-<div> 开AI、GPT商店、违规内容、审核、管理、挑战、安全、监管、AI创新、人们担忧<br /><br />总结:
-OpenAI推出的GPT商店遭遇大量违规内容，包括侵犯版权的机器人和不当内容。管理和审核不足暴露了OpenAI的问题，需要加强内容审核和监管措施。AI系统面临伦理和安全挑战，需要制定严格准则。OpenAI需清理违规内容，确保商店健康发展。此事件引发人们对AI系统的担忧，平衡创新与秩序成为难题。 <div>
-【OpenAI的GPT商店充斥大量违规内容】  <br />- OpenAI 推出的 GPT 商店(GPT Store)旨在让开发者构建基于 OpenAI 生成式 AI 模型的定制聊天机器人，用于完成各种任务。  <br />- 然而，该商店目前被大量奇怪的、可能侵犯版权的 GPT 机器人所淹没，这些机器人宣称能够生成迪士尼和漫威等知名 IP 的艺术作品。  <br />- 这些 GPT 机器人实际上只是将用户引导至第三方付费服务，并自称能够绕过 AI 内容检测工具。  <br />- 这一现象暴露了 OpenAI 在审核和管理 GPT 商店内容方面的不足，存在着较为宽松的监管。  <br />- 一些 GPT 机器人还声称能够生成令人反感或不当的内容，如仇恨言论、暴力内容等，这进一步加剧了对 OpenAI 内容审核的质疑。  <br /><br />点评：  <br />- OpenAI 在推出 GPT 商店时，可能低估了管理和审核内容的难度，导致了目前的混乱局面。  <br />- 过于宽松的审核政策，不仅可能助长版权侵权行为，还有引导 AI 系统产生有害内容的风险。  <br />- 这一事件再次凸显了 AI 系统在伦理和安全方面的挑战，需要制定更加严格的准则和监管措施。  <br />- 尽管 GPT 商店的初衷是推动 AI 创新，但如果缺乏有效管控，反而可能适得其反，损害 OpenAI 的声誉和公众对 AI 的信任。  <br />- OpenAI 需要及时采取行动，加强内容审核，清理违规内容，并制定更加透明和负责任的管理机制，以确保 GPT 商店的健康发展。  <br />- 这一事件也引发了人们对 AI 系统的担忧，如何在促进创新与维护秩序之间寻求平衡，是一个亟待解决的难题。<br />《OpenAI’s chatbot store is filling up with spam | TechCrunch》 <a href="https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnyau3kilwj20z60u0ti0.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 21 Mar 2024 00:17:04 GMT</pubDate>
-</item>
-<item>
-<title>【AnimateDiff-Lightning：超快的文生视频实现】《AnimateDiff-Lightning - Lightning-fast text-to-video generation - a Hugging Face Space by ByteDance》 ...</title>
-<link>https://weibo.com/1402400261/O5ZlXunOm</link>
-<guid>https://weibo.com/1402400261/O5ZlXunOm</guid>
-<content:encoded><![CDATA[
-<div> 超快、文本生成、视频、实现、Hugging Face、ByteDance、AnimateDiff-Lightning、Lightning-fast、生成、实现
-
-<br /><br />总结:
-ByteDance推出了一款名为AnimateDiff-Lightning的工具，能够实现超快的文本生成视频。这个工具利用了Hugging Face的技术，并由ByteDance开发。用户可以通过输入文本来生成相应的视频内容，极大地提高了文本到视频的生成速度。AnimateDiff-Lightning可以帮助用户快速创建个性化的视频内容，为文本生成领域带来了新的可能性。 <div>
-【AnimateDiff-Lightning：超快的文生视频实现】《AnimateDiff-Lightning - Lightning-fast text-to-video generation - a Hugging Face Space by ByteDance》 <a href="https://huggingface.co/spaces/ByteDance/AnimateDiff-Lightning"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <a href="https://video.weibo.com/show?fid=1034:5014274796617730"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可-爱生活的微博视频</span></a> <br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/5396ee05ly1hnyamdymnpj20ks0k0t8y.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/FQbKlqxElx08ds03YsbK010412001I340E010.mp4?label=mp4_720p&amp;template=748x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1710983937&amp;ssig=BPGTmcJN26&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/ckileuT4lx08ds03WHbG010412000VAs0E010.mp4?label=mp4_hd&amp;template=496x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1710983937&amp;ssig=4CBR22jtlO&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/lsaLbCSXlx08ds03WtoQ010412000DV10E010.mp4?label=mp4_ld&amp;template=372x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1710983937&amp;ssig=VoFISDuZqH&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5014274796617730" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
-]]></content:encoded>
-<pubDate>Thu, 21 Mar 2024 00:09:09 GMT</pubDate>
-</item>
-<item>
-<title>【用GaLore在消费级硬件上训练大模型】 - GaLore 是一种新的参数高效微调(Parameter Efficient Finetuning， PEFT)方法，可以在消费级GPU(如 RTX 3090)上高效训...</title>
-<link>https://weibo.com/1402400261/O5ZkH1crh</link>
-<guid>https://weibo.com/1402400261/O5ZkH1crh</guid>
-<content:encoded><![CDATA[
-<div> GaLore, 参数高效微调, 消费级硬件, 训练, 大模型, 语言模型, 低秩, 稀疏, 性能, 内存, 计算资源 
-
-<br /><br />总结:
-GaLore 是一种新的参数高效微调方法，可以在消费级硬件上训练大型语言模型，采用了低秩和稀疏的参数分解方式，显著降低了内存和计算资源消耗。与其他方法相比表现出较高性能，使得在消费级GPU上训练包含70亿参数的语言模型成为可能，仅需较少优化器状态和梯度所需内存。GaLore不仅适用于自然语言处理领域，也具有广泛的应用前景，有望促进大型模型的民主化。其提出的新颖思路和性能突出，有望改变大型模型训练的范式，但还需面临一些挑战，如泛化性能和训练稳定性，并需要关注能源消耗、隐私和安全性等问题。GaLore的出现值得关注，体现了对问题的深入思考和创新。 <div>
-【用GaLore在消费级硬件上训练大模型】 <br />- GaLore 是一种新的参数高效微调(Parameter Efficient Finetuning， PEFT)方法，可以在消费级GPU(如 RTX 3090)上高效训练大型语言模型。  <br />- 与其他PEFT方法(如LoRA、Prefix-Tuning等)相比，GaLore在保持性能的同时，显著降低了所需的内存和计算资源。<br />- GaLore 的关键创新在于引入了一种新的参数分解方式，将模型参数分解为低秩和稀疏两部分，从而大幅减少需要微调的参数数量。<br />- GaLore使得在消费级GPU如RTX 4090上训练包含多达70亿参数的语言模型成为可能，这是通过显著减少优化器状态和梯度所需的内存实现的。   <br />- 在 GPT-2 等基准测试中，GaLore 展现出与完整模型微调相当的性能，但仅需 1/10 的内存和计算资源。  <br />- GaLore 不仅适用于自然语言处理任务，对于计算机视觉等其他领域也具有广阔的应用前景。  <br />- 该技术有望推动大型模型的民主化，使更多个人研究者和小型机构能够在普通硬件上训练和部署这些模型。<br /><br />点评： <br />- GaLore 的提出打破了人们对大型模型训练必须依赖昂贵硬件的传统观念，这一反常规的创新值得关注。  <br />- 将模型参数分解为低秩和稀疏两部分的思路具有很高的创新性和独创性，体现了作者对问题的深入思考。  <br />- 如果 GaLore 的性能优势得到进一步验证，它有望彻底改变大型模型训练的范式，推动 AI 民主化进程。  <br />- 尽管取得了突破性进展，但 GaLore 在实际应用中可能还面临一些挑战，如泛化性能、训练稳定性等，需要持续优化和改进。  <br />- 该技术的出现也引发了一些值得深思的问题，比如大型模型的能源消耗、隐私和安全性等，需要引起足够重视。<br />《GaLore: Advancing Large Model Training on Consumer-grade Hardware》 <a href="https://huggingface.co/blog/galore"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnyaj8wnlkj20vg0u0dkt.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 21 Mar 2024 00:06:02 GMT</pubDate>
-</item>
-<item>
-<title>【泛洪预警的"AI力量"：跨界协作,开放创新】 - 洪水是最常见的自然灾害，每年全球造成约500亿美元经济损失。气候变化导致洪水灾害频率上升。约15亿人面临洪水风...</title>
-<link>https://weibo.com/1402400261/O5Zh7dYN0</link>
-<guid>https://weibo.com/1402400261/O5Zh7dYN0</guid>
-<content:encoded><![CDATA[
-<div> 洪水预警、AI技术、Google、全球预报系统、机器学习、数据训练、合作伙伴、开放创新、挑战、实际应用
-
-总结:<br /><br />本文介绍了Google利用人工智能技术提高洪水预警系统的全球规模预报能力。通过机器学习技术，Google建立了实时全球洪水预报系统，提前5天扩大了预报时间窗口，尤其在非洲和亚洲地区取得了较好的预报质量。模型训练数据包括公开天气数据和流域数据，利用LSTM模型表现优异。Google的模型比当前最佳全球预报系统提前5天就可达到其发布当天的准确度，尤其在极端洪水预报方面具有明显优势。未来，Google将继续拓展覆盖范围，加入更多洪水类型，与合作伙伴共同提升洪水预报质量，为社区提供更加可靠的洪水抗灾能力。该研究充分体现了人工智能技术在解决现实世界问题中的潜力，并积极倡导开放数据和开放科学合作精神，值得在其他领域进行进一步探索和推广。虽然取得了令人鼓舞的成果，但在实际应用中仍需持续关注和改进，如模型可解释性、偏差问题等挑战。 <div>
-【泛洪预警的"AI力量"：跨界协作,开放创新】   <br />- 洪水是最常见的自然灾害，每年全球造成约500亿美元经济损失。气候变化导致洪水灾害频率上升。约15亿人面临洪水风险。提高预警系统准确性和及时性，每年可挽救成千上万条生命。   <br />- Google自2017年开始洪水预报研究，通过多年努力，建立了实时全球洪水预报系统，为搜索、地图、手机通知等提供预警。但要实现全球规模预报，特别是数据匮乏地区，需要更多技术突破。   <br />- Google最新Nature论文采用机器学习技术，相比当前最佳全球预报系统，平均将预报提前时间从0天扩大到5天，使非洲和亚洲地区预报质量与欧洲接近。该成果可为上亿人提供提前7天的河流预警。   <br />- 机器学习模型训练数据包括公开天气数据、流域数据等。一个模型训练全球5680个流域站点数据，可扩展到无监测数据流域。LSTM模型表现优异。   <br />- Google模型相比当前最佳全球预报系统GloFAS，提前5天就可达到GloFAS发布当天准确度，尤其在较大规模极端洪水预报方面优势明显。   <br />- 未来工作将继续拓展覆盖范围，加入更多洪水类型，与合作伙伴进一步提升预报质量，为社区提供洪水抗灾能力。<br /><br />点评： <br />- 该研究体现了人工智能在解决现实世界问题方面的巨大潜力，尤其是那些传统方法难以应对的挑战。  <br />- 利用机器学习模型克服数据匮乏的限制，是一种行之有效的创新方法，值得在其他领域进一步探索和推广。  <br />- 开放数据和开放科学精神，是推动该项目取得进展的关键因素之一，这种合作共赢的模式值得借鉴。  <br />- 该研究不仅关注技术创新本身，还重视与各界合作伙伴的协同，以最大程度发挥技术的社会影响力，这种全局观是可喜的。  <br />- 虽然取得了令人鼓舞的成果，但在实际应用中仍可能面临诸多挑战，如模型的可解释性、偏差问题、与现有系统的整合等，需要持续关注和改进。<br />《Using AI to expand global access to reliable flood forecasts – Google Research Blog》 <a href="https://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnya9urb60j20t70lwq60.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnya9w336lj20qo0f0q3q.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnya9xmpo2j20qo0dc0tv.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnya9zwf1xj213d0j5tb4.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnyaa19x1yj21rj0u0gp8.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 23:57:13 GMT</pubDate>
-</item>
-<item>
-<title>【Common Corpus 让 AI 更透明】- Hugging Face发布了Common Corpus，这是迄今为训练大规模语言模型(LLM)发布的最大公共领域数据集。 - Common Corpus包含来自各...</title>
-<link>https://weibo.com/1402400261/O5Zfw6TaS</link>
-<guid>https://weibo.com/1402400261/O5Zfw6TaS</guid>
-<content:encoded><![CDATA[
-<div> 公开获取、透明度、可解释性、多主题、多语种、偏见、算力资源、模型权重、隐私、安全性
-<br />
-<br />
-总结: Hugging Face发布了迄今为训练大规模语言模型(LLM)发布的最大公共领域数据集Common Corpus，包含来自各种文化遗产计划的500亿字，多语种且是包括1800亿英语词汇在内迄今为止最大的数据集。这一举措有望扭转AI过于集中于少数科技巨头的现状，促进AI民主化进程。公开数据有助于提高AI系统的透明度和可解释性，避免偏见和片面性。然而，实现AI民主化仍需更多努力，如算力资源的开放、模型权重的共享。同时，需注意隐私和安全性问题，平衡开放与管控之间的关系。Common Corpus为AI开放、多样和大众化提供了重要支持。 <div>
-【Common Corpus 让 AI 更透明】<br />- Hugging Face发布了Common Corpus，这是迄今为训练大规模语言模型(LLM)发布的最大公共领域数据集。   <br />- Common Corpus包含来自各种文化遗产计划的500亿字。   <br />- Common Corpus是多语言的，是英语、法语、荷兰语、西班牙语、德语和意大利语等语种规模最大的语料库。   <br />- Common Corpus表明，可以在没有版权顾虑的来源上训练完全开放的LLM。   <br />- Common Corpus包含1800亿英语词汇，是迄今为止最大的英语数据集。还包括法语、德语、西班牙语、荷兰语和意大利语等语言的最大开放数据集。   <br />- Common Corpus不仅是开放的，而且质量更高、更多样化，比通常用于预训练的网页存档数据集更理想。   <br />- 这只是工作的开始，未来还会继续丰富这个集合，以支持AI的开放可复现的研究，也使AI更加开放、多样和大众化。<br /><br />点评： <br />- Common Corpus 的发布是 AI 民主化进程中的一个重要里程碑，有望扭转目前 AI 发展过于集中于少数科技巨头的现状。  <br />- 公开获取训练数据，有助于提高 AI 系统的透明度和可解释性，这是构建可信赖 AI 的关键一步。  <br />- 数据集的多语种和多主题特性，有利于培养更加通用和包容的 AI 模型，避免偏见和片面性。  <br />- 尽管取得了可喜进展，但要真正实现 AI 民主化仍需要更多的努力，包括算力资源的开放、模型权重的共享等。  <br />- 开放数据和模型的同时，也需要注重隐私和安全性，防止滥用。如何在开放与管控之间寻求平衡，是一个值得深入探讨的课题。<br />《Releasing Common Corpus: the largest public domain dataset for training LLMs》 <a href="https://huggingface.co/blog/Pclanglais/common-corpus"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnya5zh93gj20xq0u0gps.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 23:53:17 GMT</pubDate>
-</item>
-<item>
-<title>[good] - 转发 @张俊林say:&amp;ensp;这里以通俗易懂的方式来分析Sora的可能做法，包括它的整体结构以及关键组件。我希望即使您不太懂技术，也能大致看明白Sora的可...</title>
-<link>https://weibo.com/1402400261/O5ZdD4U3Z</link>
-<guid>https://weibo.com/1402400261/O5ZdD4U3Z</guid>
-<content:encoded><![CDATA[
-<div> Sora, 分析, 结构, 关键组件, 图解, 技术, 理解, 机制, 复杂, 易懂
-
-<br /><br />
-Sora 的可能做法通过通俗易懂的方式进行分析，主要包括了其整体结构和关键组件，作者通过几十张图解来帮助读者更好地理解。即使不懂技术的读者也能大致了解 Sora 的可能做法，作者保证如果读者对某部分不理解，那是作者的责任。整篇文章分析清晰，内容包括 Sora 的结构、关键组件、机制等，通过图解的方式使整个过程看似复杂的机制变得更加直观易懂。文章引人入胜，对于想要了解 Sora 的读者极具帮助和启发。
-
-<br /><br />
-总结: 
-1. Sora 的可能做法通过图解分析，便于理解。
-2. 内容涵盖整体结构、关键组件、机制等要点。
-3. 作者承诺保证即使对技术不熟悉的读者也能明白。
-4. 文章引人入胜，对读者提供了有益的启发。 <div>
-<span class="url-icon"><img alt="[good]" src="https://h5.sinaimg.cn/m/emoticon/icon/others/h_good-0c51afc69c.png" style="width: 1em; height: 1em;" /></span><br /><blockquote> - 转发 <a href="https://weibo.com/1064649941" target="_blank">@张俊林say</a>: 这里以通俗易懂的方式来分析Sora的可能做法，包括它的整体结构以及关键组件。我希望即使您不太懂技术，也能大致看明白Sora的可能做法，所以画了几十张图来让看似复杂的机制更好理解，如果您看完对某部分仍不理解，那是我的问题。<br /><a href="https://zhuanlan.zhihu.com/p/687928845"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">技术神秘化的去魅：Sora关键技术逆向工程图解</span></a> <img src="https://tvax3.sinaimg.cn/large/3f7544d5ly1hnx6es8uc5j223o16wnj5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/3f7544d5ly1hnx6f6gt4ij22761801kx.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/3f7544d5ly1hnx6fgpk12j225c16kx01.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/3f7544d5ly1hnx6fsmhuvj21zm184kjl.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/3f7544d5ly1hnx6gclielj227g16k7wh.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/3f7544d5ly1hnx6gpi2tcj224u18w4qp.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 23:48:38 GMT</pubDate>
-</item>
-<item>
-<title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.2...</title>
-<link>https://weibo.com/1402400261/O5Zd1EKiB</link>
-<guid>https://weibo.com/1402400261/O5Zd1EKiB</guid>
-<content:encoded><![CDATA[
-<div> 大语言模型，全彩，内在机理，应用实践，系统性，实践性，杨青，度小满，经验，训练。<br />
-<br />
-总结：本书《大语言模型：原理与工程实践(全彩)》由度小满轩辕大模型负责人杨青编写，揭开大语言模型的神秘面纱，重点解读其内在机理和应用实践。书中系统性强，涵盖了多种不同参数规模的大语言模型训练经验，充满干货且内容实用，具有较高的参考价值。截止日期为2024年3月24日中午12点，*可可粉*转发+评论即可参与赢取3本书。 <div>
-//<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.24 12:00，*可可粉*转发+评论即可参与。本书旨在揭开大语言模型的神秘面纱，透彻地解读其内在机理和应用实践。一大特色体现在其知识体系的系统性，另一大特色是对实践性的重视。配代码、全彩印刷。本书作者杨青是度小满轩辕大模型负责人，作为真正的大语言模型实践者，拥有十亿、百亿、千亿等不同参数规模大语言模型的训练经验。在本书中，这些经验都被毫无保留地融入其中，干货满满，绝非空谈。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5012867076850203"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb85d5j20m90m9jw5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8np7j20m90m90vz.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8bphj20m90m9789.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb9t7fj20m90m9dph.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvb8gi3j20m90m90xl.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvbf5k1j21hc0u0wud.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvbadpbj21dd0rsguo.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntsvbag7dj20rs0rs793.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb7ig9j20rs0m841y.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 20 Mar 2024 23:47:09 GMT</pubDate>
 </item>
 </channel>
 </rss>
