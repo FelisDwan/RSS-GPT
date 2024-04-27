@@ -6658,3 +6658,36 @@ Summarized using GPT-3.5-turbo
 Append: [【PDFText：类似 PyMuPDF用于从 PDF 文件提取结构化文本的Python库】’PDFText - Extract structured text from pdfs quickly' GitHub: github.com/VikParuchuri...](https://weibo.com/1402400261/ObEN9EwF9)
 append_entries: 1
 Finish: 2024-04-27 10:12:34.357939
+------------------------------------------------------
+Started: 2024-04-27 12:18:21.459886
+Existing_entries: 1001
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 2967
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Subtractive Mixture Models via Squaring: Representation and Learning》(ICLR 2024) GitHub: github.com/april-tools/squared-npcs《Dra...](https://weibo.com/1402400261/ObGjwqjmT)
+Token length: 306
+Summarized using GPT-3.5-turbo
+Append: [【InterviewPilot.AI：使用AI帮用户进行面试练习的面试准备工具】’InterviewPilot.AI - Ace interviews with AI practice. Our agent role-plays personalized ...](https://weibo.com/1402400261/ObG6r3qcB)
+Token length: 144
+Summarized using GPT-3.5-turbo
+Append: [【anime.gf：CharacterAI开源复现版，可私有化部署的开源 LLM 前端项目】’anime.gf - Local & Open Source Alternative to CharacterAI' GitHub: github.com/cy...](https://weibo.com/1402400261/ObG36cHkB)
+Token length: 62
+Summarized using GPT-3.5-turbo
+Append: ['LLM全栈优质资源汇总' GitHub: github.com/liguodongiot/llm-resource #开源# #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/ObG0hj06m)
+Token length: 142
+Summarized using GPT-3.5-turbo
+Append: [【GenIR-Survey：生成式信息检索(GenIR)相关论文列表】’GenIR-Survey - This is the repository for the GenIR survey.' GitHub: github.com/RUC-NLPIR/GenIR-S...](https://weibo.com/1402400261/ObFXBdVkT)
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [【Suno AI API：用 API 调用 suno.ai 的音乐生成 AI，并且可以轻松集成到 GPTs 等 agent 中】'Suno AI API - Use API to call the music generation AI of suno....](https://weibo.com/1402400261/ObFUR0GYX)
+Token length: 246
+Summarized using GPT-3.5-turbo
+Append: [【TagStudio (Preview/Alpha): 开源的文件/照片管理应用和系统，目标是创建一个便携式、隐私友好、开放、可扩展且功能丰富的文件组织系统】’TagStudio (Preview...](https://weibo.com/1402400261/ObFP9zV2a)
+Token length: 312
+Summarized using GPT-3.5-turbo
+Append: [【文档图像处理相关论文和数据集列表】’Recommendations of Document Image Processing - This repository contains a paper collection of the methods for do...](https://weibo.com/1402400261/ObFMWvGKr)
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [【Simone：将 YouTube 视频转换成博客文章，并自动生成相关的上下文截图】'Simone - Repurpose your YouTube videos by converting them into blog posts.' GitH...](https://weibo.com/1402400261/ObFM447Xt)
+append_entries: 9
+Finish: 2024-04-27 12:19:12.436016

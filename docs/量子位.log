@@ -4643,3 +4643,18 @@ Existing_entries: 569
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-27 10:12:25.969310
+------------------------------------------------------
+Started: 2024-04-27 12:18:09.015079
+Existing_entries: 569
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 242
+Summarized using GPT-3.5-turbo
+Append: [#清华团队国产Sora火了# Sora席卷世界，也掀起了全球竞逐AI视频生成的热潮。就在今天，国内又有一支短片引发关注。视频来自生数科技联合清华大学最新发布的视频...](https://weibo.com/6105753431/ObGc6ltgV)
+Token length: 70
+Summarized using GPT-3.5-turbo
+Append: [【#比EMO更炸裂的AI视频来了#】比阿里EMO更炸裂的AI视频来了！它可以让蒙娜丽莎唱rap、让照片里的人化身刘华强放狠话等等，这个新AI名叫VASA-1，来自微软。 量子...](https://weibo.com/6105753431/ObFPZiJl5)
+Token length: 486
+Summarized using GPT-3.5-turbo
+Append: [#多智能体开发就像搭积木##0经验搞定上万Agent并发##阿里智能体组装工厂开源#让多智能体开发就像搭积木，阿里巴巴通义实验室开源多智能体编程框架与开发平台Agen...](https://weibo.com/6105753431/ObFlobUvh)
+append_entries: 3
+Finish: 2024-04-27 12:18:20.231831
