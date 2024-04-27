@@ -6574,3 +6574,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/ObytztLkg)
 append_entries: 0
 Finish: 2024-04-26 22:11:56.224785
+------------------------------------------------------
+Started: 2024-04-27 00:50:38.910370
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 461
+Summarized using GPT-3.5-turbo
+Append: [【Sora的真实使用体验】- SORA是OpenAI开发的视频生成AI系统，可以生成长度达1分钟的连贯视频。它解决了主体在视野外时也能保持一致的难题。 - 制作团队Shy Kids...](https://weibo.com/1402400261/ObCcVhtwu)
+Token length: 587
+Summarized using GPT-3.5-turbo
+Append: [【生成式AI如何改变工作】- 进入生成式AI(gen AI)的时代，将对工作、劳动力和员工产生深远影响。gen AI可以极大提高生产力，促进经济价值，也可以使工作更具创造...](https://weibo.com/1402400261/ObC81xBqM)
+Token length: 401
+Summarized using GPT-3.5-turbo
+Append: [Linux系统启动过程：第1步 - 打开电源，BIOS(基本输入/输出系统)或UEFI(统一可扩展固件接口)固件将从非易失性存储器中加载，并执行POST（开机自检）；第2步 - BI...](https://weibo.com/1402400261/ObC541ALp)
+Token length: 97
+Summarized using GPT-3.5-turbo
+Append: [【用Llama3和distilabel端到端构建语言模型微调数据集】《Using Llama3 and distilabel to build fine-tuning datasets》 网页链接 #机器学习# #人工智能# [图片...](https://weibo.com/1402400261/ObBZib4bq)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [【用于文本纠错，特别是 OCR 识别后的文本纠错的英文数据集，包含 31.3k 行数据】《PleIAs/Post-OCR-Correction · Datasets at Hugging Face》 网页链接 #机器...](https://weibo.com/1402400261/ObBYtlvRI)
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《多模态大模型：新一代人工智能技术范式 （全彩）》...](https://weibo.com/1402400261/ObBqojVa8)
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1388期)：理解Transformer的层次泛化、基于图RAG方法的查询为中心摘要、基于相对奖励回归的强化学习、提前退出推断和自推测解码实现、让LLM充分利用...](https://weibo.com/1402400261/ObBqbzdOu)
+Token length: 131
+Summarized using GPT-3.5-turbo
+Append: [[CV] Revisiting Text-to-Image Evaluation with Gecko: On Metrics, Prompts, and Human Ratings 网页链接 提出全面的 Gecko 基准与指标，改进了文本到图像生成...](https://weibo.com/1402400261/ObBmW67sU)
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: [[CV] Interactive3D: Create What You Want by Interactive 3D Generation 网页链接 设计交互式3D生成框架，通过直接3D交互指导生成过程，实现高质量、可控的3D...](https://weibo.com/1402400261/ObBkqBW7u)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [[LG] Global Concept Explanations for Graphs by Contrastive Learning 网页链接 通过在自解释图神经网络子图嵌入空间中识别概念集群，提出一种提取全局概念解...](https://weibo.com/1402400261/ObBhhCF71)
+append_entries: 10
+Finish: 2024-04-27 00:51:24.733265
