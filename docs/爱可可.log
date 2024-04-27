@@ -6637,3 +6637,15 @@ Existing_entries: 1003
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-27 06:15:27.266325
+------------------------------------------------------
+Started: 2024-04-27 08:14:00.090043
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: ['Awesome-Chinese-Stable-Diffusion - 中文文生图stable diffsion模型集合' GitHub: github.com/leeguandong/Awesome-Chinese-Stable-Diffusion #开源# #机器学...](https://weibo.com/1402400261/ObErofwl3)
+Token length: 234
+Summarized using GPT-3.5-turbo
+Append: [【Geoguess：开源的地理位置猜测游戏，使用 Google Map StreetView，可以单人或多人同时玩】'Geoguess - GeoGuess is an open-source geography game with Googl...](https://weibo.com/1402400261/ObEnVnTwd)
+append_entries: 2
+Finish: 2024-04-27 08:14:08.546366

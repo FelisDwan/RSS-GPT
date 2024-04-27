@@ -4628,3 +4628,12 @@ Existing_entries: 568
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-27 06:15:25.929439
+------------------------------------------------------
+Started: 2024-04-27 08:13:53.380993
+Existing_entries: 568
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 445
+Summarized using GPT-3.5-turbo
+Append: [#荣耀一季度中国手机市场第一# 今年的中国手机市场，正在迎来大变局。两大变量交融交汇，已经开始展现作用力，让市场重新火热：一是华为全面回归，盛况空前。二...](https://weibo.com/6105753431/ObEUYC2rb)
+append_entries: 1
+Finish: 2024-04-27 08:13:58.897222
