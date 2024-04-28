@@ -5,16 +5,100 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>几篇论文实现代码：《Learning without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels》(CVPR...</title>
+<link>https://weibo.com/1402400261/ObOpY73Q2</link>
+<guid>https://weibo.com/1402400261/ObOpY73Q2</guid>
+<content:encoded><![CDATA[
+<div> 更新、地图、高分辨率、低分辨率、学习、历史、标签、更新算法、卫星影像、地物分类
+
+总结:<br>
+该论文提出了一种在没有精确指导的情况下更新大规模高分辨率地物分类地图的方法。通过利用低分辨率的历史标签和卫星影像，提出了一种更新算法，可以有效地更新地图中的地物分类信息。实验结果表明，该方法在不需要精确标注的情况下能够实现准确有效的地物分类地图更新。该方法对于使用卫星影像进行地物分类和更新具有重要意义。 <div>
+几篇论文实现代码：<br />《Learning without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels》(CVPR 2024) GitHub: github.com/LiZhuoHong/Paraformer<br />《 SpaceByte: Towards Deleting Tokenization from Large Language Modeling》(2024) GitHub: github.com/kjslag/spacebyte<br />《PLLaVA: Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning》(2024) GitHub: github.com/magic-research/PLLaVA [fig1]<br />《Textrolspeech: A text style control speech corpus with codec language text-to-speech models》(2024) GitHub: github.com/jishengpeng/Textrolspeech<br />《InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews》(2024) GitHub: github.com/Neph0s/InCharacter<br />《FRNet: Frustum-Range Networks for Scalable LiDAR Segmentation》(2024) GitHub: github.com/Xiangxu-0103/FRNet [fig2]<br />《LeanReasoner: Boosting Complex Logical Reasoning with Lean》(2024) GitHub: github.com/Some-random/theorem-proving-reasoning<br />《A User-Centric Benchmark for Evaluating Large Language Models》(2024) GitHub: github.com/Alice1998/URS<br />《MR-MT3: Memory Retaining Multi-Track Music Transcription to Mitigate Instrument Leakage》(2024) GitHub: github.com/gudgud96/MR-MT3<br />《ScreenQA: Large-Scale Question-Answer Pairs over Mobile App Screenshots》(2024) GitHub: github.com/google-research-datasets/screen_qa<br />《Improving Diffusion Models for Inverse Problems Using Optimal Posterior Covariance》(2024) GitHub: github.com/xypeng9903/k-diffusion-inverse-problems<br />《DMHomo: Learning Homography with Diffusion Models》(2024) GitHub: github.com/lhaippp/DMHomo<br />《Evaluating generalizability of artificial intelligence models for molecular datasets》(2024) GitHub: github.com/mims-harvard/SPECTRA<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp6hndgk0nj20y20b8wlq.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp6htw7eflj22rj0x1h8d.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 28 Apr 2024 07:20:38 GMT</pubDate>
+<pubDate>Sun, 28 Apr 2024 07:20:38 GMT</pubDate>
+</item>
+<item>
+<title>【大语言模型医疗相关文献资源列表】’Awesome-Foundation-Models-for-Advancing-Healthcare - We present a comprehensive and deep review of the HFM in chal...</title>
+<link>https://weibo.com/1402400261/ObOptCsOl</link>
+<guid>https://weibo.com/1402400261/ObOptCsOl</guid>
+<content:encoded><![CDATA[
+<div> 深度学习、医疗保健、挑战、机会、未来方向、GitHub、资源列表、综述
+
+<br><br>总结:
+本文综述了医疗保健领域的基金模型，探讨了其中的挑战、机会和未来发展方向。作者详细介绍了基金模型在医疗保健领域的广泛应用，并提供了相关资源列表以便读者深入了解。GitHub上提供了更多的信息和资源，为医疗领域的发展提供了重要的参考。希望通过这些基金模型的研究和应用，能够推动医疗保健领域的进步和创新。 <div>
+【大语言模型医疗相关文献资源列表】’Awesome-Foundation-Models-for-Advancing-Healthcare - We present a comprehensive and deep review of the HFM in challenges, opportunities, and future directions' GitHub: github.com/YutingHe-list/Awesome-Foundation-Models-for-Advancing-Healthcare <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp6jsq47uoj22340u0wnx.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 28 Apr 2024 07:19:25 GMT</pubDate>
+<pubDate>Sun, 28 Apr 2024 07:19:25 GMT</pubDate>
+</item>
+<item>
+<title>'phi3-Chinese - Phi3 中文仓库' GitHub: github.com/CrazyBoyM/phi3-Chinese #开源# #机器学习# #人工智能# [图片]</title>
+<link>https://weibo.com/1402400261/ObOcKswFs</link>
+<guid>https://weibo.com/1402400261/ObOcKswFs</guid>
+<content:encoded><![CDATA[
+<div> GitHub, phi3, 中文仓库, CrazyBoyM, 开源, 翻译, 软件项目, 中文化<br>
+<br>
+该篇文章介绍了一个名为'phi3-Chinese'的开源软件项目，该项目是对Phi3软件的中文化翻译工作。该项目的主页位于GitHub上，由开发者CrazyBoyM创建和维护。通过该项目，用户可以下载和使用已经翻译完成的中文化版本的Phi3软件，让使用者能够更便利地理解和操作软件。这个项目提供了一个便捷途径让中文用户能够参与到Phi3软件的使用和交流中，促进软件在中文用户群体中的推广和应用。Phi3-Chinese项目为中文使用者提供了更便捷、更友好的软件体验，也为软件翻译和本土化工作提供了一个实践平台。总结:Phi3-Chinese项目是一个在GitHub上的开源软件项目，旨在对Phi3软件进行中文化翻译，为中文使用者提供更友好的软件体验，推动软件在中文用户群体中的应用和推广。 <div>
+'phi3-Chinese - Phi3 中文仓库' GitHub: github.com/CrazyBoyM/phi3-Chinese <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp6jp8jpo3j210x0u0grh.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 28 Apr 2024 06:48:04 GMT</pubDate>
+<pubDate>Sun, 28 Apr 2024 06:48:04 GMT</pubDate>
+</item>
+<item>
+<title>【WrenAI：提供了一个自然语言界面，使用户通过问题而不是编写 SQL 来更快地获取结果和见解】'WrenAI - Natural Language Interface to Your Data. WrenAI makes...</title>
+<link>https://weibo.com/1402400261/ObOaja2qg</link>
+<guid>https://weibo.com/1402400261/ObOaja2qg</guid>
+<content:encoded><![CDATA[
+<div> GitHub, WrenAI, Text-to-SQL, 自然语言界面, 数据, 接口, 查询, 速度, 结果, 见解
+
+<br><br>总结:
+WrenAI是一个提供自然语言界面的工具，让用户可以通过问题而不是编写SQL来快速获取数据结果和见解。用户可以通过WrenAI简单而准确地进行Text-to-SQL查询，极大地提高了查询速度和效率。GitHub上有完整的项目代码可以查阅。 <div>
+【WrenAI：提供了一个自然语言界面，使用户通过问题而不是编写 SQL 来更快地获取结果和见解】'WrenAI - Natural Language Interface to Your Data. WrenAI makes Text-to-SQL simple and accurate.' GitHub: github.com/Canner/WrenAI <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp6jhvby2oj21vo0u0tb1.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp6jhxouqzj21fa0u0n03.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 28 Apr 2024 06:42:03 GMT</pubDate>
+<pubDate>Sun, 28 Apr 2024 06:42:03 GMT</pubDate>
+</item>
+<item>
+<title>【构建由LlamaIndex支持的文档聊天机器人，用Streamlit文档的内容(或用户自己的数据)增强GPT 3.5】'LlamaIndex - Chat with the Streamlit docs - Build a chatb...</title>
+<link>https://weibo.com/1402400261/ObO8NaWrj</link>
+<guid>https://weibo.com/1402400261/ObO8NaWrj</guid>
+<content:encoded><![CDATA[
+<div> 关键词：LlamaIndex, Chatbot, Streamlit, GPT 3.5, 文档, 数据, 增强, 机器人
+
+总结:
+<br><br>此篇文章介绍了如何建立一个由LlamaIndex支持的文档聊天机器人，该机器人利用Streamlit文档的内容增强了GPT 3.5的功能。通过结合LlamaIndex和Streamlit文档的内容，可以为Chatbot提供更丰富的信息和更优质的交互体验。这个新型的机器人不仅可以根据用户提供的数据进行智能回复，还能够根据用户关注的主题提供更详细的解答。机器人的搭建过程可以借助GitHub上的开源代码来进行，这为开发者提供了便利和参考。通过整合LlamaIndex、Streamlit文档和GPT 3.5的功能，这个聊天机器人在处理复杂问题和提供个性化服务方面具有很大潜力。 <div>
+【构建由LlamaIndex支持的文档聊天机器人，用Streamlit文档的内容(或用户自己的数据)增强GPT 3.5】'LlamaIndex - Chat with the Streamlit docs - Build a chatbot powered by LlamaIndex that augments GPT 3.5 with the contents of the Streamlit docs (or your own data).' GitHub: github.com/carolinedlu/llamaindex-chat-with-streamlit-docs <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp6jcbnx94j20w00r0771.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 28 Apr 2024 06:38:19 GMT</pubDate>
+<pubDate>Sun, 28 Apr 2024 06:38:19 GMT</pubDate>
+</item>
+<item>
+<title>'AIGC 求职面试指南 - AIGC 求职面经、包括必备基础知识、提示词工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等' GitHub: github.com/Embrace...</title>
+<link>https://weibo.com/1402400261/ObO2V8c10</link>
+<guid>https://weibo.com/1402400261/ObO2V8c10</guid>
+<content:encoded><![CDATA[
+<div> AIGC, 求职, 面试, 指南, 必备基础知识, 提示词工程, ChatGPT, Stable Diffusion, Prompt, Embedding, Finetune
+
+<br><br>
+总结:
+AIGC求职面试指南提供了丰富的内容，包括必备基础知识、提示词工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Finetune等。这些内容可以帮助求职者更好地准备面试，并在面试中展现出自己的专业知识和能力。GitHub上提供了更多的资源和信息，对于想要了解AIGC求职面试的人来说是一个很好的参考资料。建议求职者多加利用这些资源，提升自己的求职竞争力。 <div>
+'AIGC 求职面试指南 - AIGC 求职面经、包括必备基础知识、提示词工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等' GitHub: github.com/EmbraceAGI/AIGC_Interview <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hp6izxov2vj20xb0u0dj4.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 28 Apr 2024 06:23:51 GMT</pubDate>
+<pubDate>Sun, 28 Apr 2024 06:23:51 GMT</pubDate>
+</item>
+
+<item>
 <title>【InstructLab(ilab)：用于与LLM模型进行交互和训练的命令行界面】’InstructLab(ilab) - Command-line interface. Use this to chat with the model or train t...</title>
 <link>https://weibo.com/1402400261/ObNXSubPs</link>
 <guid>https://weibo.com/1402400261/ObNXSubPs</guid>
 <content:encoded><![CDATA[
-<div> GitHub, InstructLab, LLM模型, 命令行界面, 交互, 训练, 数据, 训练消耗<br>
-<br>
+<div> GitHub, InstructLab, LLM模型, 命令行界面, 交互, 训练, 数据, 训练消耗<br />
+<br />
 LLM模型的InstructLab(ilab)是一个用于与LLM模型进行交互和训练的命令行界面。用户可以通过这个界面与模型进行对话，也可以用于对模型进行训练，不过需要消耗相应的数据。GitHub上有相关项目的源代码，用户可以进行查阅和使用。这个工具提供了一种便捷的方式来与LLM模型进行互动和学习。 <div>
 【InstructLab(ilab)：用于与LLM模型进行交互和训练的命令行界面】’InstructLab(ilab) - Command-line interface. Use this to chat with the model or train the model (training consumes the taxonomy data)' GitHub: github.com/instructlab/instructlab <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp6in4g5oxj20w70u0dlf.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 28 Apr 2024 06:11:26 GMT</pubDate>
 <pubDate>Sun, 28 Apr 2024 06:11:26 GMT</pubDate>
 </item>
 <item>
@@ -29,7 +113,6 @@ Go Practical Tips是一个关于Go语言编程实践技巧的GitHub项目，旨�
 【Practical Tips：Go语言编程实践技巧集】’Practical Tips - Go Practical Tips' GitHub: github.com/func25/go-practical-tips <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp6hrdixktj20u00usdmc.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 28 Apr 2024 05:41:37 GMT</pubDate>
-<pubDate>Sun, 28 Apr 2024 05:41:37 GMT</pubDate>
 </item>
 <item>
 <title>【HybridAGI: 基于可编程LLM的自治Agent，允许使用基于图的提示编程方法对其行为进行编程】'HybridAGI: The Programmable Neuro-Symbolic AGI for people who wa...</title>
@@ -38,10 +121,9 @@ Go Practical Tips是一个关于Go语言编程实践技巧的GitHub项目，旨�
 <content:encoded><![CDATA[
 <div> HybridAGI、基于LLM、自治Agent、图提示编程、GitHub、SynaLinks、Neuro-Symbolic AGI、人工智能、预期行为、可编程方法
 
-总结:<br><br>本文介绍了基于可编程LLM的自治Agent HybridAGI，允许使用基于图的提示编程方法对其行为进行编程。这是一种符号神经网络AGI，能够让人们预期AI的行为。该项目托管在GitHub的SynaLinks组织下，提供了一个新颖的AI编程工具，结合了符号和神经网络的特点，在人工智能领域具有较高的潜力。HybridAGI的设计能够满足人们对AI行为控制和可预测性的需求，为AI技术的发展带来了新的可能性。 <div>
+总结:<br /><br />本文介绍了基于可编程LLM的自治Agent HybridAGI，允许使用基于图的提示编程方法对其行为进行编程。这是一种符号神经网络AGI，能够让人们预期AI的行为。该项目托管在GitHub的SynaLinks组织下，提供了一个新颖的AI编程工具，结合了符号和神经网络的特点，在人工智能领域具有较高的潜力。HybridAGI的设计能够满足人们对AI行为控制和可预测性的需求，为AI技术的发展带来了新的可能性。 <div>
 【HybridAGI: 基于可编程LLM的自治Agent，允许使用基于图的提示编程方法对其行为进行编程】'HybridAGI: The Programmable Neuro-Symbolic AGI for people who want AI to behave as expected' GitHub: github.com/SynaLinks/HybridAGI <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp6hiyymv2j20u00zwtdi.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 28 Apr 2024 05:33:01 GMT</pubDate>
 <pubDate>Sun, 28 Apr 2024 05:33:01 GMT</pubDate>
 </item>
 <item>
@@ -51,10 +133,9 @@ Go Practical Tips是一个关于Go语言编程实践技巧的GitHub项目，旨�
 <content:encoded><![CDATA[
 <div> GitHub, MLX, 机器学习, 文章, 模型, 库, 工具, 演示, MLX Swift
 
-MLX 是 Apple 推出的机器学习库，开源项目"Awesome MLX"在 GitHub 上提供了关于 MLX 的文章、模型、库和工具、演示、MLX Swift 等内容的精选列表。这个项目汇总了社区分享的关于 MLX 的各种资源，帮助用户快速了解和使用 MLX。GitHub 上的"Awesome MLX"项目是一个有用的资源库，可以帮助开发人员在机器学习领域更好地掌握和应用 MLX。通过这个项目，用户可以找到与 MLX 相关的各种资源，包括文章、模型、库和工具、演示等，帮助他们学习和应用 MLX。总的来说，"Awesome MLX"是一个有价值的资源集合，可以帮助用户更好地了解和使用 Apple 的 MLX 机器学习库。<br><br>总结: GitHub 上的"Awesome MLX"项目提供了关于 Apple MLX 机器学习库的精选资源列表，包括文章、模型、库和工具、演示、MLX Swift 等内容，帮助开发人员更好地了解和应用 MLX。 <div>
+MLX 是 Apple 推出的机器学习库，开源项目"Awesome MLX"在 GitHub 上提供了关于 MLX 的文章、模型、库和工具、演示、MLX Swift 等内容的精选列表。这个项目汇总了社区分享的关于 MLX 的各种资源，帮助用户快速了解和使用 MLX。GitHub 上的"Awesome MLX"项目是一个有用的资源库，可以帮助开发人员在机器学习领域更好地掌握和应用 MLX。通过这个项目，用户可以找到与 MLX 相关的各种资源，包括文章、模型、库和工具、演示等，帮助他们学习和应用 MLX。总的来说，"Awesome MLX"是一个有价值的资源集合，可以帮助用户更好地了解和使用 Apple 的 MLX 机器学习库。<br /><br />总结: GitHub 上的"Awesome MLX"项目提供了关于 Apple MLX 机器学习库的精选资源列表，包括文章、模型、库和工具、演示、MLX Swift 等内容，帮助开发人员更好地了解和应用 MLX。 <div>
 【关于 Apple 的 MLX 机器学习库的精选列表，包括关于 MLX 的文章、模型、库和工具、演示、MLX Swift 等内容】'Awesome MLX' GitHub: github.com/antranapp/awesome-mlx <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp6hexrkzxj210l0u0gqq.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 28 Apr 2024 05:28:56 GMT</pubDate>
 <pubDate>Sun, 28 Apr 2024 05:28:56 GMT</pubDate>
 </item>
 <item>
@@ -62,15 +143,13 @@ MLX 是 Apple 推出的机器学习库，开源项目"Awesome MLX"在 GitHub 上
 <link>https://weibo.com/1402400261/ObNCp1apk</link>
 <guid>https://weibo.com/1402400261/ObNCp1apk</guid>
 <content:encoded><![CDATA[
-<div> AI, 搜索引擎, 开源, 高级机器学习算法, 用户问题, 答案, 隐私保护, GitHub, Perplexity AI <br>
-<br>
+<div> AI, 搜索引擎, 开源, 高级机器学习算法, 用户问题, 答案, 隐私保护, GitHub, Perplexity AI <br />
+<br />
 总结:Perplexica 是一个开源的AI搜索引擎，采用高级机器学习算法理解用户问题并从网络中找到答案，同时保护用户隐私。用户可以在GitHub上找到Perplexica的代码。 <div>
 【Perplexica：开源的 AI 搜索引擎，使用高级机器学习算法来理解用户的问题并从网络中找到答案，同时保护用户的隐私】'Perplexica - An AI-powered search engine - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI' GitHub: github.com/ItzCrazyKns/Perplexica <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp6h3ug4ksj210f0httci.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 28 Apr 2024 05:18:31 GMT</pubDate>
-<pubDate>Sun, 28 Apr 2024 05:18:31 GMT</pubDate>
 </item>
-
 <item>
 <title>【大型语言模型的局限性：为什么它们无法解决简单问题？】- LLM仍无法解决一些看似简单的问题，比如Wordle和数独，以及需要多步推理的游戏。这说明LLM目前在需要...</title>
 <link>https://weibo.com/1402400261/ObMgB5dNV</link>
@@ -12861,69 +12940,6 @@ Meta Reality Labs的研究团队开发了一种名为SceneScript的新方法，�
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.24 12:00，*可可粉*转发+评论即可参与。本书旨在揭开大语言模型的神秘面纱，透彻地解读其内在机理和应用实践。一大特色体现在其知识体系的系统性，另一大特色是对实践性的重视。配代码、全彩印刷。本书作者杨青是度小满轩辕大模型负责人，作为真正的大语言模型实践者，拥有十亿、百亿、千亿等不同参数规模大语言模型的训练经验。在本书中，这些经验都被毫无保留地融入其中，干货满满，绝非空谈。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5012867076850203"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb85d5j20m90m9jw5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8np7j20m90m90vz.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8bphj20m90m9789.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb9t7fj20m90m9dph.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvb8gi3j20m90m90xl.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvbf5k1j21hc0u0wud.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvbadpbj21dd0rsguo.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntsvbag7dj20rs0rs793.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb7ig9j20rs0m841y.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 21 Mar 2024 23:36:09 GMT</pubDate>
-</item>
-<item>
-<title>今日推介(第1352期)：用逆向训练减轻“逆转诅咒“、面向强化学习的视频原则性表示学习、通过多尺度特征学习改进小规模视觉模型性能、通过一次编码并行解码实现高...</title>
-<link>https://weibo.com/1402400261/O6845wLPl</link>
-<guid>https://weibo.com/1402400261/O6845wLPl</guid>
-<content:encoded><![CDATA[
-<div> 逆向训练、逆转诅咒、面向强化学习、视频原则性表示学习、多尺度特征学习、小规模视觉模型、高效Transformer解码、函数树、透明机器学习
-
-总结:<br />
-本篇文章介绍了几种方法来提升机器学习的效果。首先，通过逆向训练可以减轻"逆转诅咒"现象，进而改善模型性能。其次，面向强化学习的视频原则性表示学习方法能够提高模型的学习效率。同时，通过多尺度特征学习可以显著改善小规模视觉模型的性能。此外，一次编码并行解码方法能够高效实现Transformer解码过程。最后，利用函数树实现透明机器学习可以增强模型的可解释性，提高模型的可信度。这些方法为机器学习的进步提供了重要的思路和方法。 <div>
-今日推介(第1352期)：用逆向训练减轻“逆转诅咒“、面向强化学习的视频原则性表示学习、通过多尺度特征学习改进小规模视觉模型性能、通过一次编码并行解码实现高效Transformer解码、用函数树实现透明机器学习 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/688367695"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(3.22)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hnzd2qlg3dj20go08ltae.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnzd2sjjqjj20go07hgme.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnzd2uuxi5j20go09yjsk.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnzd2xe44nj20go0h9764.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hnzd31nv30j20go0kjglz.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 21 Mar 2024 22:19:50 GMT</pubDate>
-</item>
-<item>
-<title>[CV] RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS 网页链接 通过辐射场监督点云表示的优化和渲染，实...</title>
-<link>https://weibo.com/1402400261/O680Jvcgj</link>
-<guid>https://weibo.com/1402400261/O680Jvcgj</guid>
-<content:encoded><![CDATA[
-<div> 辐射场、点云表示、优化、渲染、复杂场景、实时、高质量、视图合成、RadSplat、900+ FPS  
-<br />  
-<br />总结:  
-RadSplat通过辐射场监督点云表示的优化和渲染，实现了对复杂场景的实时高质量视图合成，达到了900+ FPS的渲染速度。该方法利用辐射场信息提高渲染质量，同时通过高效的点云表示实现实时渲染。这种方法能够在复杂场景下快速生成真实感强的视图，为实时渲染提供了一种稳健的方法。 <div>
-[CV]  RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS  <br /><a href="https://arxiv.org/abs/2403.13806"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />通过辐射场监督点云表示的优化和渲染，实现了对复杂场景的实时高质量视图合成。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzcuggq4wj20z01e67h4.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzcugojirj217q0se47h.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 21 Mar 2024 22:11:35 GMT</pubDate>
-</item>
-<item>
-<title>#### [LG] RewardBench: Evaluating Reward Models for Language Modeling 网页链接 提出语言模型奖励模型评估基准RewardBench，评估各类模型的优劣势，发现现有...</title>
-<link>https://weibo.com/1402400261/O67YsjTA0</link>
-<guid>https://weibo.com/1402400261/O67YsjTA0</guid>
-<content:encoded><![CDATA[
-<div> 评估基准，语言模型，奖励模型，优劣势，推理，遵循指令，不足
-
-<br /><br />总结:
-这篇论文提出了一种名为RewardBench的评估基准，用于评估语言模型的奖励模型。研究发现，现有模型在推理和遵循指令方面存在明显不足，因此需要更好的奖励模型来提高模型的性能。提出的基准为研究者提供了一种评估不同模型优劣势的方法，有助于推动语言建模领域的发展。 <div>
-#### [LG]  RewardBench: Evaluating Reward Models for Language Modeling  <br /><a href="https://arxiv.org/abs/2403.13787"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />提出语言模型奖励模型评估基准RewardBench，评估各类模型的优劣势，发现现有模型在推理和遵循指令方面仍存在明显不足。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnzcoivi7yj212q1ju187.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzcojhbknj21i40pa0xw.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 21 Mar 2024 22:05:58 GMT</pubDate>
-</item>
-<item>
-<title>[CL] RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content 网页链接 本文提出了一个多方面框架RigorLLM，通过数据增强、安全...</title>
-<link>https://weibo.com/1402400261/O67Ul8jZG</link>
-<guid>https://weibo.com/1402400261/O67Ul8jZG</guid>
-<content:encoded><![CDATA[
-<div> 多方面框架; 数据增强; 安全后缀优化; 模型融合; 大语言模型; 有害内容检测; 鲁棒性
-
-本文介绍了一个名为RigorLLM的多方面框架，通过数据增强、安全后缀优化和模型融合等方法，提高了大语言模型对有害内容的检测能力和鲁棒性。通过优化输入和输出，让大语言模型更好地应对不良内容，提高了其应用的安全性和可靠性。该框架的综合应用，为大语言模型的发展和应用提供了重要的保障。 <div>
-[CL] RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content  <br /><a href="https://arxiv.org/abs/2403.13031"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />本文提出了一个多方面框架RigorLLM，通过数据增强、安全后缀优化和模型融合，实现了对大语言模型的输入输出进行有害内容检测的强大鲁棒性。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzce172qbj21861jk7pd.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzce1bwjrj212k0mqafc.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzce21dc8j21hq0vyqfp.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzce2poqfj21i00rqaip.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 21 Mar 2024 21:55:50 GMT</pubDate>
-</item>
-<item>
-<title>[LG] Evolutionary Optimization of Model Merging Recipes 网页链接 提出进化模型融合方法,在参数和数据流空间通过进化算法自动发现模型的最优组合,实现跨域模...</title>
-<link>https://weibo.com/1402400261/O67Rq1hAm</link>
-<guid>https://weibo.com/1402400261/O67Rq1hAm</guid>
-<content:encoded><![CDATA[
-<div> 进化算法, 模型融合, 跨域模型, 参数空间, 数据流空间, 自动发现, 最优组合, 性能强劲, 新模型
-
-Evolutionary Optimization of Model Merging Recipes 提出了一种进化模型融合方法，该方法在参数和数据流空间中运用进化算法来自动发现模型的最优组合，实现了跨域模型的高效融合，生成具有强劲性能的新模型。该研究为模型优化提供了一种全新的途径，有望在实际应用中帮助优化模型性能并节省人力成本。<br /><br />总结: 进化算法应用于模型融合，自动发现最优组合，生成强劲性能新模型，有望在实践中带来积极效果。 <div>
-[LG] Evolutionary Optimization of Model Merging Recipes  <br /><a href="https://arxiv.org/abs/2403.13187"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />提出进化模型融合方法,在参数和数据流空间通过进化算法自动发现模型的最优组合,实现跨域模型的高效融合,生成性能强劲的新模型。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzc6kjjllj212w1k8dzq.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzc6ksku0j21ag0woakt.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzc6l8ez8j21a20fk79e.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 21 Mar 2024 21:48:38 GMT</pubDate>
 </item>
 </channel>
 </rss>

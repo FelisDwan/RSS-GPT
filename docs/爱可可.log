@@ -6805,3 +6805,27 @@ Summarized using GPT-3.5-turbo
 Append: [【Perplexica：开源的 AI 搜索引擎，使用高级机器学习算法来理解用户的问题并从网络中找到答案，同时保护用户的隐私】'Perplexica - An AI-powered search engin...](https://weibo.com/1402400261/ObNCp1apk)
 append_entries: 5
 Finish: 2024-04-28 08:15:41.701811
+------------------------------------------------------
+Started: 2024-04-28 10:11:53.845425
+Existing_entries: 1005
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1707
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Learning without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels》(CVPR...](https://weibo.com/1402400261/ObOpY73Q2)
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: [【大语言模型医疗相关文献资源列表】’Awesome-Foundation-Models-for-Advancing-Healthcare - We present a comprehensive and deep review of the HFM in chal...](https://weibo.com/1402400261/ObOptCsOl)
+Token length: 72
+Summarized using GPT-3.5-turbo
+Append: ['phi3-Chinese - Phi3 中文仓库' GitHub: github.com/CrazyBoyM/phi3-Chinese #开源# #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/ObOcKswFs)
+Token length: 183
+Summarized using GPT-3.5-turbo
+Append: [【WrenAI：提供了一个自然语言界面，使用户通过问题而不是编写 SQL 来更快地获取结果和见解】'WrenAI - Natural Language Interface to Your Data. WrenAI makes...](https://weibo.com/1402400261/ObOaja2qg)
+Token length: 295
+Summarized using GPT-3.5-turbo
+Append: [【构建由LlamaIndex支持的文档聊天机器人，用Streamlit文档的内容(或用户自己的数据)增强GPT 3.5】'LlamaIndex - Chat with the Streamlit docs - Build a chatb...](https://weibo.com/1402400261/ObO8NaWrj)
+Token length: 141
+Summarized using GPT-3.5-turbo
+Append: ['AIGC 求职面试指南 - AIGC 求职面经、包括必备基础知识、提示词工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等' GitHub: github.com/Embrace...](https://weibo.com/1402400261/ObO2V8c10)
+append_entries: 6
+Finish: 2024-04-28 10:12:18.246154
