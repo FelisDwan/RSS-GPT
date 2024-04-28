@@ -4778,3 +4778,18 @@ Append: [#SVG查看编辑器# Hacker News上有网友分享了一个实时查看
 Append: [#AI视频翻译器# 有网友分享了一款AI视频翻译器 Notta Showcase，能够克隆语音并将其转成他国语言，而且支持自动加字幕。[来] 工具地址：网页链接 量子位的微博视...](https://weibo.com/6105753431/ObOMUgYGw)
 append_entries: 5
 Finish: 2024-04-28 12:21:00.996273
+------------------------------------------------------
+Started: 2024-04-28 14:09:19.243611
+Existing_entries: 592
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 353
+Summarized using GPT-3.5-turbo
+Append: [#人形机器人在北京亦庄跑起来了# 在北京亦庄，国产人形机器人最新硬核成果曝光！名为天工，实现了全球首例纯电驱全尺寸人形机器人的拟人稳步奔跑，时速可达6km/h...](https://weibo.com/6105753431/ObQ80v2dK)
+Token length: 1036
+Summarized using GPT-3.5-turbo
+Append: [#国产GPU智算集群落地# 算力基础设施建设，北京市有了最新的大动作——《北京市算力基础设施建设实施方案（2024-2027年）》。其中，《方案》在“保障措施”中提...](https://weibo.com/6105753431/ObPNwrm6F)
+Token length: 291
+Summarized using GPT-3.5-turbo
+Append: [#国产多模态大模型开源# 无条件免费商用，性能超Claude 3 Sonnet又一个国产多模态大模型开源！XVERSE-V，来自元象，还是同样的无条件免费商用。此前元象曾率先发...](https://weibo.com/6105753431/ObPI9soZC)
+append_entries: 3
+Finish: 2024-04-28 14:09:39.116445
