@@ -6727,3 +6727,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/ObHTo6GNE)
 append_entries: 0
 Finish: 2024-04-27 22:10:54.131545
+------------------------------------------------------
+Started: 2024-04-28 00:55:13.827057
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《多模态大模型：新一代人工智能技术范式 （全彩）》...](https://weibo.com/1402400261/ObKTtkiIX)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1389期)：在大型语言建模中替换词元化、长上下文检索的扩展嵌入模型、大语言模型(LLM)时代的图机器学习、基于扩散模型的X观光片3D旋转、低比特量化LL...](https://weibo.com/1402400261/ObKTlAZhD)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [[CV] Editable Image Elements for Controllable Synthesis 网页链接 提出一种新的图像表示方法，将输入图像分解为空间可编辑的图像元素，并使用扩散模型从编辑...](https://weibo.com/1402400261/ObKOCvyLR)
+Token length: 137
+Summarized using GPT-3.5-turbo
+Append: [[CV] MoDE: CLIP Data Experts via Clustering 网页链接 通过对大规模网页数据进行聚类训练多个 CLIP 数据专家模型，缓解了不同语义文本被配对到相似图像中的噪...](https://weibo.com/1402400261/ObKKWDOUk)
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [[CV] CatLIP: CLIP-level Visual Recognition Accuracy with 2.7x Faster Pre-training on Web-scale Image-Text Data 网页链接 CatLIP通过将图像-文本预训练重...](https://weibo.com/1402400261/ObKIestVZ)
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [通过全面的实证研究揭示了强大的LLAMA3模型在各类低比特位宽量化下的表现及不足，为未来的语言模型量化技术提供了宝贵启发。 - 转发 @爱可可-爱生活:&ensp;[CL]...](https://weibo.com/1402400261/ObKDOiSG1)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [[CL]《How Good Are Low-bit Quantized LLaMA3 Models? An Empirical Study》W Huang, X Ma, H Qin, X Zheng... [The University of Hong Kong & Beihang Univer...](https://weibo.com/1402400261/ObKDJ25wu)
+Token length: 262
+Summarized using GPT-3.5-turbo
+Append: [提出利用条件扩散模型从单视角放射线照片生成不同视角的方法，解决了以往基于GAN的方法存在的图像质量和多样性不足的问题，为单视角到3D重建提供了新的思路。 - ...](https://weibo.com/1402400261/ObKAdwVED)
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [[CV]《RadRotator: 3D Rotation of Radiographs with Diffusion Models》P Rouzrokh, B Khosravi, S Faghani, K L. Mulford, M J. Taunton, B J. Erickson, C C....](https://weibo.com/1402400261/ObKAbrKEB)
+Token length: 228
+Summarized using GPT-3.5-turbo
+Append: [通过全方位、系统性地回顾大型语言模型与图结构的结合在图机器学习中的进展、应用和未来发展，为理解这个新兴且前景广阔的研究领域提供了宝贵的指导。 - 转发 @...](https://weibo.com/1402400261/ObKve6Zj2)
+append_entries: 10
+Finish: 2024-04-28 00:55:53.019513
