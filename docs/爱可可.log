@@ -6763,3 +6763,12 @@ Summarized using GPT-3.5-turbo
 Append: [通过全方位、系统性地回顾大型语言模型与图结构的结合在图机器学习中的进展、应用和未来发展，为理解这个新兴且前景广阔的研究领域提供了宝贵的指导。 - 转发 @...](https://weibo.com/1402400261/ObKve6Zj2)
 append_entries: 10
 Finish: 2024-04-28 00:55:53.019513
+------------------------------------------------------
+Started: 2024-04-28 02:25:36.356100
+Existing_entries: 1010
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 521
+Summarized using GPT-3.5-turbo
+Append: [【大型语言模型的局限性：为什么它们无法解决简单问题？】- LLM仍无法解决一些看似简单的问题，比如Wordle和数独，以及需要多步推理的游戏。这说明LLM目前在需要...](https://weibo.com/1402400261/ObMgB5dNV)
+append_entries: 1
+Finish: 2024-04-28 02:25:45.274765
