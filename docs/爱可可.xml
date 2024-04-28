@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>《爱可可微博热门分享(4.28)》 爱可可微博热门分享(4.28) [图片]</title>
 <link>https://weibo.com/1402400261/ObRijsZv7</link>
@@ -15,9 +16,7 @@
 《爱可可微博热门分享(4.28)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405028264757297249"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(4.28)</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp6xc4zekvj20rs0fm78o.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 28 Apr 2024 14:40:01 GMT</pubDate>
-<pubDate>Sun, 28 Apr 2024 14:40:01 GMT</pubDate>
 </item>
-
 <item>
 <title>几篇论文实现代码：《Learning without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels》(CVPR...</title>
 <link>https://weibo.com/1402400261/ObOpY73Q2</link>
@@ -12857,19 +12856,6 @@ Devika是一名基于开源的 AI 软件工程师，能够理解人类的高级�
 【Devika：基于开源的 AI 软件工程师，可以理解人类的高级指令，并根据这些指令，分解成步骤，进行相关信息的研究，并编写代码实现目标】'Devika - Agentic AI Software Engineer - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.' GitHub: github.com/stitionai/devika <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnzp769j5cj20un0u0n21.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 22 Mar 2024 05:19:01 GMT</pubDate>
-</item>
-<item>
-<title>【TorchTune：易于使用的 PyTorch 库，可轻松编写、微调和实验LLM模型。该库提供了多种功能，包括使用 native-PyTorch 实现的流行语言模型，支持各种格式的复原...</title>
-<link>https://weibo.com/1402400261/O6aMsh6ew</link>
-<guid>https://weibo.com/1402400261/O6aMsh6ew</guid>
-<content:encoded><![CDATA[
-<div> GitHub，TorchTune，PyTorch，LLM模型，语言模型，fine-tuning，训练工具，评估工具，HF格式，库
-
-总结:<br /><br />
-TorchTune是一个易于使用的PyTorch库，专为LLM模型的微调而设计。该库提供了多种功能，包括使用native-PyTorch实现的流行语言模型，支持各种格式的复原，以及提供训练和评估工具，例如HF格式的检查点支持。通过TorchTune，用户可以轻松编写、微调和实验各种LLM模型，为语言模型相关的任务提供了便利的工具和支持。GitHub链接：github.com/pytorch/torchtune <div>
-【TorchTune：易于使用的 PyTorch 库，可轻松编写、微调和实验LLM模型。该库提供了多种功能，包括使用 native-PyTorch 实现的流行语言模型，支持各种格式的复原，以及提供训练和评估工具，例如 HF 格式的检查点支持】'TorchTune - A Native-PyTorch Library for LLM Fine-tuning' GitHub: github.com/pytorch/torchtune <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnzp2l49hnj212u0u0dkv.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 05:14:39 GMT</pubDate>
 </item>
 </channel>
 </rss>
