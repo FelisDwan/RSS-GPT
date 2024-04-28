@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>几篇论文实现代码：《Learning without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels》(CVPR...</title>
 <link>https://weibo.com/1402400261/ObOpY73Q2</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 更新、地图、高分辨率、低分辨率、学习、历史、标签、更新算法、卫星影像、地物分类
 
-总结:<br>
+总结:<br />
 该论文提出了一种在没有精确指导的情况下更新大规模高分辨率地物分类地图的方法。通过利用低分辨率的历史标签和卫星影像，提出了一种更新算法，可以有效地更新地图中的地物分类信息。实验结果表明，该方法在不需要精确标注的情况下能够实现准确有效的地物分类地图更新。该方法对于使用卫星影像进行地物分类和更新具有重要意义。 <div>
 几篇论文实现代码：<br />《Learning without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels》(CVPR 2024) GitHub: github.com/LiZhuoHong/Paraformer<br />《 SpaceByte: Towards Deleting Tokenization from Large Language Modeling》(2024) GitHub: github.com/kjslag/spacebyte<br />《PLLaVA: Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning》(2024) GitHub: github.com/magic-research/PLLaVA [fig1]<br />《Textrolspeech: A text style control speech corpus with codec language text-to-speech models》(2024) GitHub: github.com/jishengpeng/Textrolspeech<br />《InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews》(2024) GitHub: github.com/Neph0s/InCharacter<br />《FRNet: Frustum-Range Networks for Scalable LiDAR Segmentation》(2024) GitHub: github.com/Xiangxu-0103/FRNet [fig2]<br />《LeanReasoner: Boosting Complex Logical Reasoning with Lean》(2024) GitHub: github.com/Some-random/theorem-proving-reasoning<br />《A User-Centric Benchmark for Evaluating Large Language Models》(2024) GitHub: github.com/Alice1998/URS<br />《MR-MT3: Memory Retaining Multi-Track Music Transcription to Mitigate Instrument Leakage》(2024) GitHub: github.com/gudgud96/MR-MT3<br />《ScreenQA: Large-Scale Question-Answer Pairs over Mobile App Screenshots》(2024) GitHub: github.com/google-research-datasets/screen_qa<br />《Improving Diffusion Models for Inverse Problems Using Optimal Posterior Covariance》(2024) GitHub: github.com/xypeng9903/k-diffusion-inverse-problems<br />《DMHomo: Learning Homography with Diffusion Models》(2024) GitHub: github.com/lhaippp/DMHomo<br />《Evaluating generalizability of artificial intelligence models for molecular datasets》(2024) GitHub: github.com/mims-harvard/SPECTRA<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp6hndgk0nj20y20b8wlq.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hp6htw7eflj22rj0x1h8d.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 28 Apr 2024 07:20:38 GMT</pubDate>
 <pubDate>Sun, 28 Apr 2024 07:20:38 GMT</pubDate>
 </item>
 <item>
@@ -25,11 +25,10 @@
 <content:encoded><![CDATA[
 <div> 深度学习、医疗保健、挑战、机会、未来方向、GitHub、资源列表、综述
 
-<br><br>总结:
+<br /><br />总结:
 本文综述了医疗保健领域的基金模型，探讨了其中的挑战、机会和未来发展方向。作者详细介绍了基金模型在医疗保健领域的广泛应用，并提供了相关资源列表以便读者深入了解。GitHub上提供了更多的信息和资源，为医疗领域的发展提供了重要的参考。希望通过这些基金模型的研究和应用，能够推动医疗保健领域的进步和创新。 <div>
 【大语言模型医疗相关文献资源列表】’Awesome-Foundation-Models-for-Advancing-Healthcare - We present a comprehensive and deep review of the HFM in challenges, opportunities, and future directions' GitHub: github.com/YutingHe-list/Awesome-Foundation-Models-for-Advancing-Healthcare <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp6jsq47uoj22340u0wnx.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 28 Apr 2024 07:19:25 GMT</pubDate>
 <pubDate>Sun, 28 Apr 2024 07:19:25 GMT</pubDate>
 </item>
 <item>
@@ -37,12 +36,11 @@
 <link>https://weibo.com/1402400261/ObOcKswFs</link>
 <guid>https://weibo.com/1402400261/ObOcKswFs</guid>
 <content:encoded><![CDATA[
-<div> GitHub, phi3, 中文仓库, CrazyBoyM, 开源, 翻译, 软件项目, 中文化<br>
-<br>
+<div> GitHub, phi3, 中文仓库, CrazyBoyM, 开源, 翻译, 软件项目, 中文化<br />
+<br />
 该篇文章介绍了一个名为'phi3-Chinese'的开源软件项目，该项目是对Phi3软件的中文化翻译工作。该项目的主页位于GitHub上，由开发者CrazyBoyM创建和维护。通过该项目，用户可以下载和使用已经翻译完成的中文化版本的Phi3软件，让使用者能够更便利地理解和操作软件。这个项目提供了一个便捷途径让中文用户能够参与到Phi3软件的使用和交流中，促进软件在中文用户群体中的推广和应用。Phi3-Chinese项目为中文使用者提供了更便捷、更友好的软件体验，也为软件翻译和本土化工作提供了一个实践平台。总结:Phi3-Chinese项目是一个在GitHub上的开源软件项目，旨在对Phi3软件进行中文化翻译，为中文使用者提供更友好的软件体验，推动软件在中文用户群体中的应用和推广。 <div>
 'phi3-Chinese - Phi3 中文仓库' GitHub: github.com/CrazyBoyM/phi3-Chinese <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp6jp8jpo3j210x0u0grh.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 28 Apr 2024 06:48:04 GMT</pubDate>
 <pubDate>Sun, 28 Apr 2024 06:48:04 GMT</pubDate>
 </item>
 <item>
@@ -52,11 +50,10 @@
 <content:encoded><![CDATA[
 <div> GitHub, WrenAI, Text-to-SQL, 自然语言界面, 数据, 接口, 查询, 速度, 结果, 见解
 
-<br><br>总结:
+<br /><br />总结:
 WrenAI是一个提供自然语言界面的工具，让用户可以通过问题而不是编写SQL来快速获取数据结果和见解。用户可以通过WrenAI简单而准确地进行Text-to-SQL查询，极大地提高了查询速度和效率。GitHub上有完整的项目代码可以查阅。 <div>
 【WrenAI：提供了一个自然语言界面，使用户通过问题而不是编写 SQL 来更快地获取结果和见解】'WrenAI - Natural Language Interface to Your Data. WrenAI makes Text-to-SQL simple and accurate.' GitHub: github.com/Canner/WrenAI <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp6jhvby2oj21vo0u0tb1.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp6jhxouqzj21fa0u0n03.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 28 Apr 2024 06:42:03 GMT</pubDate>
 <pubDate>Sun, 28 Apr 2024 06:42:03 GMT</pubDate>
 </item>
 <item>
@@ -67,10 +64,9 @@ WrenAI是一个提供自然语言界面的工具，让用户可以通过问题�
 <div> 关键词：LlamaIndex, Chatbot, Streamlit, GPT 3.5, 文档, 数据, 增强, 机器人
 
 总结:
-<br><br>此篇文章介绍了如何建立一个由LlamaIndex支持的文档聊天机器人，该机器人利用Streamlit文档的内容增强了GPT 3.5的功能。通过结合LlamaIndex和Streamlit文档的内容，可以为Chatbot提供更丰富的信息和更优质的交互体验。这个新型的机器人不仅可以根据用户提供的数据进行智能回复，还能够根据用户关注的主题提供更详细的解答。机器人的搭建过程可以借助GitHub上的开源代码来进行，这为开发者提供了便利和参考。通过整合LlamaIndex、Streamlit文档和GPT 3.5的功能，这个聊天机器人在处理复杂问题和提供个性化服务方面具有很大潜力。 <div>
+<br /><br />此篇文章介绍了如何建立一个由LlamaIndex支持的文档聊天机器人，该机器人利用Streamlit文档的内容增强了GPT 3.5的功能。通过结合LlamaIndex和Streamlit文档的内容，可以为Chatbot提供更丰富的信息和更优质的交互体验。这个新型的机器人不仅可以根据用户提供的数据进行智能回复，还能够根据用户关注的主题提供更详细的解答。机器人的搭建过程可以借助GitHub上的开源代码来进行，这为开发者提供了便利和参考。通过整合LlamaIndex、Streamlit文档和GPT 3.5的功能，这个聊天机器人在处理复杂问题和提供个性化服务方面具有很大潜力。 <div>
 【构建由LlamaIndex支持的文档聊天机器人，用Streamlit文档的内容(或用户自己的数据)增强GPT 3.5】'LlamaIndex - Chat with the Streamlit docs - Build a chatbot powered by LlamaIndex that augments GPT 3.5 with the contents of the Streamlit docs (or your own data).' GitHub: github.com/carolinedlu/llamaindex-chat-with-streamlit-docs <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp6jcbnx94j20w00r0771.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 28 Apr 2024 06:38:19 GMT</pubDate>
 <pubDate>Sun, 28 Apr 2024 06:38:19 GMT</pubDate>
 </item>
 <item>
@@ -80,15 +76,13 @@ WrenAI是一个提供自然语言界面的工具，让用户可以通过问题�
 <content:encoded><![CDATA[
 <div> AIGC, 求职, 面试, 指南, 必备基础知识, 提示词工程, ChatGPT, Stable Diffusion, Prompt, Embedding, Finetune
 
-<br><br>
+<br /><br />
 总结:
 AIGC求职面试指南提供了丰富的内容，包括必备基础知识、提示词工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Finetune等。这些内容可以帮助求职者更好地准备面试，并在面试中展现出自己的专业知识和能力。GitHub上提供了更多的资源和信息，对于想要了解AIGC求职面试的人来说是一个很好的参考资料。建议求职者多加利用这些资源，提升自己的求职竞争力。 <div>
 'AIGC 求职面试指南 - AIGC 求职面经、包括必备基础知识、提示词工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等' GitHub: github.com/EmbraceAGI/AIGC_Interview <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hp6izxov2vj20xb0u0dj4.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 28 Apr 2024 06:23:51 GMT</pubDate>
-<pubDate>Sun, 28 Apr 2024 06:23:51 GMT</pubDate>
 </item>
-
 <item>
 <title>【InstructLab(ilab)：用于与LLM模型进行交互和训练的命令行界面】’InstructLab(ilab) - Command-line interface. Use this to chat with the model or train t...</title>
 <link>https://weibo.com/1402400261/ObNXSubPs</link>
@@ -12863,83 +12857,6 @@ TorchTune是一个易于使用的PyTorch库，专为LLM模型的微调而设计�
 【TorchTune：易于使用的 PyTorch 库，可轻松编写、微调和实验LLM模型。该库提供了多种功能，包括使用 native-PyTorch 实现的流行语言模型，支持各种格式的复原，以及提供训练和评估工具，例如 HF 格式的检查点支持】'TorchTune - A Native-PyTorch Library for LLM Fine-tuning' GitHub: github.com/pytorch/torchtune <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnzp2l49hnj212u0u0dkv.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 22 Mar 2024 05:14:39 GMT</pubDate>
-</item>
-<item>
-<title>【Pico MLX Server：Apple 的 MLX AI框架的轻松入门方式，提供了一个用于 MLX Server的GUI】’Pico MLX Server' GitHub: github.com/ronaldmannak/PicoMLXServer...</title>
-<link>https://weibo.com/1402400261/O6aBRuVBB</link>
-<guid>https://weibo.com/1402400261/O6aBRuVBB</guid>
-<content:encoded><![CDATA[
-<div> GitHub、Pico MLX Server、Apple、MLX AI框架、轻松入门、GUI
-
-<br /><br />总结:
-Pico MLX Server是一个供Apple的MLX AI框架使用的GUI工具，为用户提供了简单易用的入门方式。用户可以通过访问GitHub上的Pico MLX Server代码库来获取这一工具。 <div>
-【Pico MLX Server：Apple 的 MLX AI框架的轻松入门方式，提供了一个用于 MLX Server的GUI】’Pico MLX Server' GitHub: github.com/ronaldmannak/PicoMLXServer <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hnzobeagodj21200fgq4i.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 04:48:33 GMT</pubDate>
-</item>
-<item>
-<title>【qlora-pipe：用于训练大语言模型的开源脚本，可以在四块4090 GPU上对LLM进行定制训练】'qlora-pipe - A pipeline parallel training script for LLMs.' GitHub...</title>
-<link>https://weibo.com/1402400261/O6aAR2rFQ</link>
-<guid>https://weibo.com/1402400261/O6aAR2rFQ</guid>
-<content:encoded><![CDATA[
-<div> 开源脚本、训练、大语言模型、LLM、四块4090 GPU、定制训练、pipeline parallel、GitHub
-
-<br /><br />总结:
-qlora-pipe是一个用于训练大语言模型的开源脚本，能够在四块4090 GPU上进行定制训练。它采用pipeline parallel技术，可以加快训练进程，提高效率。用户可以在GitHub上找到qlora-pipe的源代码和详细说明，方便使用和定制。使用qlora-pipe可以帮助研究人员和开发者更好地训练和优化LLMs，提高模型的性能和准确性。 <div>
-【qlora-pipe：用于训练大语言模型的开源脚本，可以在四块4090 GPU上对LLM进行定制训练】'qlora-pipe - A pipeline parallel training script for LLMs.' GitHub: github.com/tdrussell/qlora-pipe <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnzo8tlkcnj20yt0u0afc.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 04:46:04 GMT</pubDate>
-</item>
-<item>
-<title>【AGI的定义之争：人工智能的终极目标还有多远？】- 人工通用智能(AGI)这一术语在当前有关人工智能的讨论中无处不在，但对其定义和内涵却存在诸多争议。 - 一些...</title>
-<link>https://weibo.com/1402400261/O69gfhC5j</link>
-<guid>https://weibo.com/1402400261/O69gfhC5j</guid>
-<content:encoded><![CDATA[
-<div> 人工通用智能、定义之争、智能多样性、人类中心主义、理想化假设、身体感知能力、智能与物质关系、全面审视、开放态度、谨慎思考
-
-<br /><br />总结: 本文讨论了人工通用智能(AGI)的定义之争，指出AGI定义的多样性和争议性，挑战了人类中心主义的思维定式。智能有多种形式和维度，不应将人类智能作为唯一标准。即使是人类也无法在所有领域表现出色，对AGI的理想化假设需要谨慎思考。讨论了AGI是否需要具备类人的身体和感知能力，触及了智能与物质关系的深层思考。文章提出了全面审视AGI内涵的视角，呼吁以开放和谨慎的态度探讨人工通用智能的未来。 <div>
-【AGI的定义之争：人工智能的终极目标还有多远？】<br />- 人工通用智能(AGI)这一术语在当前有关人工智能的讨论中无处不在，但对其定义和内涵却存在诸多争议。  <br />- 一些组织和个人将AGI定义为能够像人类一样进行推理和解决问题的系统，但这一定义过于狭隘，忽视了智能的多样性。  <br />- 智能有多种形式和维度，将人类智能作为唯一标准具有局限性。动物和昆虫也展现出了与人类不同但同样令人印象深刻的智能。  <br />- 关于AGI是否应该模仿人脑，以及是否需要具备类似人类的身体和感知能力，学界尚无定论，存在不同观点。  <br />- 一些研究者提出，真正的AGI系统应该能够在多个领域展现出色的性能，但这一观点也受到质疑，因为即使是人类也无法在所有领域都表现出色。  <br />- 对AGI的定义和评判标准的争议，反映出人工智能领域在探索通用智能这一终极目标时仍面临诸多挑战和不确定性。  <br />- 尽管对AGI的理解存在分歧，但各方普遍认为，实现AGI将是人工智能发展的重要里程碑，对人类社会产生深远影响。  <br /><br />点评：<br />- 本文对AGI的定义之争进行了深入剖析，揭示了这一概念在学界和业界的模糊性和争议性，引发读者反思对智能本质的理解。  <br />- 作者提出将人类智能作为AGI标准具有局限性的观点颇具启发性，打破了人类中心主义的思维定式，让我们以更开放的视角看待智能的多样性。  <br />- 文章指出，即使是人类也无法在所有领域都表现出色，这一论断具有一定的颠覆性，挑战了对AGI的一些理想化假设和期望。  <br />- 对AGI是否需要具备类人的身体和感知能力的讨论，触及了人工智能与生物智能的本质区别，引发了关于智能与物质载体关系的深层思考。  <br />- 文章虽未给出对AGI的明确定义，但通过梳理不同观点，为读者提供了一个全面审视AGI内涵的视角，启发我们以更谨慎和开放的态度看待这一概念。<br />《Debates on the nature of artificial general intelligence | Science》 <a href="https://www.science.org/doi/10.1126/science.ado7069"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hnzid60gsij20vk0u0tf2.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 01:22:32 GMT</pubDate>
-</item>
-<item>
-<title>【SceneScript：语言模型赋能3D场景理解】- Meta Reality Labs 研究团队开发了一种名为 SceneScript 的新方法，用于重建 3D 场景并表示物理空间的布局。 - Scene...</title>
-<link>https://weibo.com/1402400261/O68Jg0DkB</link>
-<guid>https://weibo.com/1402400261/O68Jg0DkB</guid>
-<content:encoded><![CDATA[
-<div> Meta Reality Labs, SceneScript, 3D场景理解, 自然语言, 语言模型, 突破性进展, AR技术, 应用前景, 跨领域融合, 人机交互
-
-<br /><br />总结:
-Meta Reality Labs的研究团队开发了一种名为SceneScript的新方法，利用自回归结构化语言模型将3D场景表示为自然语言，突破了传统的场景表示方式。这一方法利用语言模型的强大能力学习场景的结构化表示，取得了突破性进展，展现了在场景理解任务中的潜力。SceneScript被认为是通向真正AR眼镜的重要里程碑，有望连接物理世界和数字世界，加速AR技术的发展。这种新颖的思路和跨领域融合的方法对于激发创新思路和推动人工智能技术的应用具有重要意义。这一研究在多个领域都有广阔的应用前景，有助于提升人机交互和空间理解的能力。SceneScript的出现为3D场景表示开辟了新的方向，有望缩小3D重建社区与自然语言处理领域之间的距离。 <div>
-【SceneScript：语言模型赋能3D场景理解】<br />- Meta Reality Labs 研究团队开发了一种名为 SceneScript 的新方法，用于重建 3D 场景并表示物理空间的布局。  <br />- SceneScript 使用自回归结构化语言模型将 3D 场景表示为自然语言，这是一种全新的场景表示方式。  <br />- 该方法利用大型语言模型的强大能力，学习场景的结构化表示，并生成符合物理约束的场景描述。  <br />- SceneScript 在标准 3D 重建基准测试中取得了最先进的性能，展示了其在场景理解和生成方面的优势。  <br />- 这项研究为将 3D 场景表示为语言开辟了新的方向，有望缩小 3D 重建社区与自然语言处理领域的距离。  <br />- SceneScript 被视为通向真正 AR 眼镜的重要里程碑，有助于连接物理世界和数字世界。  <br />- 该技术有望应用于虚拟助手、机器人导航、内容创作等领域，提升人机交互和空间理解的能力。  <br /><br />点评：  <br />- 将 3D 场景表示为自然语言的思路非常新颖，打破了传统的场景表示方式，具有颠覆性和启发性。  <br />- 利用语言模型的强大能力来理解和生成场景，这种跨领域的融合思维值得借鉴，有助于激发更多创新思路。  <br />- SceneScript 在性能上取得了突破性进展，展现了语言模型在场景理解任务中的巨大潜力，值得期待。  <br />- 该研究对于推动 AR 技术的发展具有重要意义，有望加速实现真正的 AR 眼镜，改变人们与数字世界的交互方式。  <br />- SceneScript 在多个领域都有广阔的应用前景，这种通用性和拓展性值得肯定，有助于推动人工智能技术的普及和应用。<br />《Introducing SceneScript, a novel approach for 3D scene reconstruction》 <a href="https://ai.meta.com/blog/scenescript-3d-scene-reconstruction-reality-labs-research/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzg0j9nuaj21hc0u04qp.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 00:01:16 GMT</pubDate>
-</item>
-<item>
-<title>#免费##抽奖# 携手@图灵文化 @图灵新知 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发+评论即可参与。带你轻松掌握数据结构与算法，以全新的视角带...</title>
-<link>https://weibo.com/1402400261/O68BEFK2R</link>
-<guid>https://weibo.com/1402400261/O68BEFK2R</guid>
-<content:encoded><![CDATA[
-<div> 可可粉, 转发, 评论, 数据结构, 算法, 动画图解, 实战代码示例, 主动思考, 互动环节
-
-<br /><br />总结:
-本文介绍了一本名为《hello 算法》的数据结构与算法书籍，截止日期为2024年3月29日12:00。读者可以通过转发和评论参与送出3本书籍的活动。这本书的特点在于配有生动的动画图解，使抽象的数据结构和算法变得直观易懂。同时，书中提供实战代码示例，让读者能够即学即用，巩固新知识。互动环节的设计有助于读者主动思考、提问和解决问题，带领读者进入算法的世界，轻松掌握知识。 <div>
-<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%87%E5%8C%96">@图灵文化</a> <a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%B0%E7%9F%A5">@图灵新知</a> 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发+评论即可参与。带你轻松掌握数据结构与算法，以全新的视角带你进入算法的世界。书中的每一章节都配有生动的动画图解，让抽象的数据结构和算法变得直观易懂。实战代码示例让你即学即用，及时巩固新知识。互动环节的设计帮助你主动思考，提问和解决问题。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5014630549948449"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfciddvdj21pe24a7wh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfchthjaj20m80m8q6g.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfcht5csj20m80m8go5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzfchtze3j20m80m8ach.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfci9xvsj2494494e81.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnzfcht5xoj20m80m8mzj.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 21 Mar 2024 23:42:33 GMT</pubDate>
-</item>
-<item>
-<title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.2...</title>
-<link>https://weibo.com/1402400261/O68z3vsYr</link>
-<guid>https://weibo.com/1402400261/O68z3vsYr</guid>
-<content:encoded><![CDATA[
-<div> 度小满、大语言模型、全彩、内在机理、实践性、代码、杨青、训练经验、干货、实践者
-
-<br /><br />总结:
-本书《大语言模型：原理与工程实践(全彩)》由度小满轩辕大模型负责人杨青撰写，旨在揭开大语言模型的神秘面纱，透彻解读其内在机理和应用实践。书中系统性的知识体系和对实践性的重视是其特色之一，配有代码，并全彩印刷。杨青作为真正的大语言模型实践者，在书中分享了十亿、百亿、千亿等不同参数规模大语言模型的训练经验，内容满载干货，实用性强，绝非空谈。 <div>
-//<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.24 12:00，*可可粉*转发+评论即可参与。本书旨在揭开大语言模型的神秘面纱，透彻地解读其内在机理和应用实践。一大特色体现在其知识体系的系统性，另一大特色是对实践性的重视。配代码、全彩印刷。本书作者杨青是度小满轩辕大模型负责人，作为真正的大语言模型实践者，拥有十亿、百亿、千亿等不同参数规模大语言模型的训练经验。在本书中，这些经验都被毫无保留地融入其中，干货满满，绝非空谈。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5012867076850203"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb85d5j20m90m9jw5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8np7j20m90m90vz.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8bphj20m90m9789.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb9t7fj20m90m9dph.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvb8gi3j20m90m90xl.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvbf5k1j21hc0u0wud.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvbadpbj21dd0rsguo.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntsvbag7dj20rs0rs793.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb7ig9j20rs0m841y.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 21 Mar 2024 23:36:09 GMT</pubDate>
 </item>
 </channel>
 </rss>
