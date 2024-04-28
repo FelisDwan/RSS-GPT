@@ -4700,3 +4700,22 @@ Existing_entries: 572
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-28 02:25:35.153378
+------------------------------------------------------
+Started: 2024-04-28 04:12:47.256122
+Existing_entries: 572
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 313
+Summarized using GPT-3.5-turbo
+Append: [#马斯克xAI让大模型做机器学习实验# 一个设想：智能体未来能帮忙做科学实验吗？包括创建课题、实验设计、实验运行和结果分析等长期任务。为了回答该问题，xAI旗...](https://weibo.com/6105753431/ObMFLvj13)
+Token length: 195
+Summarized using GPT-3.5-turbo
+Append: [#微软发布MSDOS源代码# 微软宣布公开一个非常老的操作系统——MS-DOS 4.0的源代码。回顾历史，MS-DOS是一个在40多年前，用 8086 汇编语言编写的操作系统。微软曾...](https://weibo.com/6105753431/ObMmREn6W)
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [#B站限免推出数字分身制作工具# 已开启免费内测对于不想真人出镜或出声的视频创作者——B站推出了一款定制数字分身的工具#必剪 Studio#。用户只需上传视频和语音...](https://weibo.com/6105753431/ObM8Ty69C)
+Token length: 339
+Summarized using GPT-3.5-turbo
+Append: [#阿里开源首个千亿参数模型# 阿里宣布开源 Qwen1.5 系列首个千亿参数模型 Qwen1.5-110B。该模型在基础能力评估中与 Meta-Llama3-70B 相媲美。而且在 Chat 评估中...](https://weibo.com/6105753431/ObLYbiex2)
+Append: [#清华新成立人工智能学院# 图灵奖获得者姚期智任院长AI浪潮下，一直位于前沿的清华大学宣布新成立人工智能学院。首任院长将由图灵奖获得者、中国科学院院士姚期...](https://weibo.com/6105753431/ObLPhxMCP)
+append_entries: 5
+Finish: 2024-04-28 04:13:04.353500

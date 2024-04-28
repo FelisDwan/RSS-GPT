@@ -4,6 +4,76 @@
 <title>量子位的微博</title>
 <link>https://weibo.com/6105753431/</link>
 
+<item>
+<title>#马斯克xAI让大模型做机器学习实验# 一个设想：智能体未来能帮忙做科学实验吗？包括创建课题、实验设计、实验运行和结果分析等长期任务。为了回答该问题，xAI旗...</title>
+<link>https://weibo.com/6105753431/ObMFLvj13</link>
+<guid>https://weibo.com/6105753431/ObMFLvj13</guid>
+<content:encoded><![CDATA[
+<div> MLAgentBench, 智能体, 机器学习模型, GPT-4, 高性能, 高度可解释性, 基准测试套件, 评估, 性能, GitHub
+
+<br><br>总结:
+研究人员提出了一个名为MLAgentBench的基准测试套件，用于评估智能体在机器学习工程任务上的性能。该套件包括13个不同的机器学习任务，智能体可以通过尝试不同的方法来实现这些任务。通过基准测试，发现基于GPT-4的智能体能够在多个任务中构建高性能的机器学习模型，并且其计划和行动具有高度可解释性。GitHub上可找到更多相关信息。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%AE%A9%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%81%9A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E9%AA%8C%23&amp;extparam=%23%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%AE%A9%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%81%9A%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E9%AA%8C%23"><span class="surl-text">#马斯克xAI让大模型做机器学习实验#</span></a> <br /><br />一个设想：智能体未来能帮忙做科学实验吗？<br /><br />包括创建课题、实验设计、实验运行和结果分析等长期任务。<br /><br />为了回答该问题，xAI旗下研究人员让智能体先来解决机器学习工程问题：<br /><br />——给定任务描述和数据集，构建一个高性能的模型。<br /><br />展开来说，团队提出了一个 MLAgentBench 基准测试套件，用于评估 AI agents。<br /><br />它包括 13 个不同的 ML 工程任务，智能体可以通过尝试不同的机器学习方法、数据处理、架构、训练过程等来实现。<br /><br />然后，基准测试会自动根据与性能和效率相关的各种指标客观评估智能体的性能。<br /><br />结果表明，基于 GPT-4 的智能体能够在多个任务中构建引人注目的机器学习模型，并且其计划和行动具有高度可解释性。<br /><br />GitHub：<a href="https://github.com/snap-stanford/MLAgentBench"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />论文：<a href="https://arxiv.org/pdf/2310.03302"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hp6cw22qmgj310s0mqajp.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hp6cwh1vghj30vi0j2gos.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hp6cwh2y6xj313w116ara.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hp6cwh23wkj312g0owmzn.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hp6cwh10fnj31420joq5l.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hp6cwh70acj31k20satfx.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 28 Apr 2024 02:54:04 GMT</pubDate>
+<pubDate>Sun, 28 Apr 2024 02:54:04 GMT</pubDate>
+</item>
+<item>
+<title>#微软发布MSDOS源代码# 微软宣布公开一个非常老的操作系统——MS-DOS 4.0的源代码。回顾历史，MS-DOS是一个在40多年前，用 8086 汇编语言编写的操作系统。微软曾...</title>
+<link>https://weibo.com/6105753431/ObMmREn6W</link>
+<guid>https://weibo.com/6105753431/ObMmREn6W</guid>
+<content:encoded><![CDATA[
+<div> MS-DOS 4.0、源代码、微软、操作系统、8086 汇编语言、历史、GitHub、公开、电脑、仿真器
+<br>
+微软宣布公开一个非常老的操作系统——MS-DOS 4.0的源代码。这款操作系统是在40多年前用8086汇编语言编写的。微软曾在十年前公开了1.25和2.0版本的源代码，现在人们可以在一些老式电脑或现代仿真器中运行这些软件。GitHub上发布了这些源代码，包括原始IBM PC XT、较新的Pentium以及开源PCem和86box仿真器。这一举动让人们有机会了解这款具有重大历史意义的操作系统的内部机制和设计。公开MS-DOS 4.0的源代码也是一个向技术社区开放、传承计算机历史的举措。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BE%AE%E8%BD%AF%E5%8F%91%E5%B8%83MSDOS%E6%BA%90%E4%BB%A3%E7%A0%81%23&amp;extparam=%23%E5%BE%AE%E8%BD%AF%E5%8F%91%E5%B8%83MSDOS%E6%BA%90%E4%BB%A3%E7%A0%81%23"><span class="surl-text">#微软发布MSDOS源代码#</span></a> <br /><br />微软宣布公开一个非常老的操作系统——MS-DOS 4.0的源代码。<br /><br />回顾历史，MS-DOS是一个在40多年前，用 8086 汇编语言编写的操作系统。<br /><br />微软曾于十年前公开了其 1.25 和 2.0 版本。<br /><br />而现在，人们又可以在一些老式的电脑或者现代的仿真器中运行这些软件了。<br /><br />（包括但不限于原始 IBM PC XT、较新的 Pentium 以及开源 PCem 和 86box 仿真器）<br /><br />GitHub：<a href="https://github.com/microsoft/MS-DOS/blob/main/v4.0/src/CMD/XCOPY/XCOPY.ASM"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hp6bjmikdyj316c0vs10r.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hp6bjr723bj306y06y3ym.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hp6bjyfrzxj30xc0ir7a8.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 28 Apr 2024 02:07:29 GMT</pubDate>
+<pubDate>Sun, 28 Apr 2024 02:07:29 GMT</pubDate>
+</item>
+<item>
+<title>#B站限免推出数字分身制作工具# 已开启免费内测对于不想真人出镜或出声的视频创作者——B站推出了一款定制数字分身的工具#必剪 Studio#。用户只需上传视频和语音...</title>
+<link>https://weibo.com/6105753431/ObM8Ty69C</link>
+<guid>https://weibo.com/6105753431/ObM8Ty69C</guid>
+<content:encoded><![CDATA[
+<div> B站，内测，视频创作者，数字分身，工具，上传视频，上传语音数据，AI生成，高度仿真，数字人，音色克隆
+
+总结:<br>
+B站推出了一款定制数字分身的工具，用户只需上传视频和语音数据，AI即可生成高度仿真的数字人，并支持音色克隆。同时，用户还可以实现任意文字转真实声音。这项工具已经开启免费内测，适用于不想真人出镜或出声的视频创作者。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23B%E7%AB%99%E9%99%90%E5%85%8D%E6%8E%A8%E5%87%BA%E6%95%B0%E5%AD%97%E5%88%86%E8%BA%AB%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7%23&amp;extparam=%23B%E7%AB%99%E9%99%90%E5%85%8D%E6%8E%A8%E5%87%BA%E6%95%B0%E5%AD%97%E5%88%86%E8%BA%AB%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7%23"><span class="surl-text">#B站限免推出数字分身制作工具#</span></a> 已开启免费内测<br /><br />对于不想真人出镜或出声的视频创作者——<br /><br />B站推出了一款定制数字分身的工具<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BF%85%E5%89%AA+Studio%23&amp;extparam=%23%E5%BF%85%E5%89%AA+Studio%23"><span class="surl-text">#必剪 Studio#</span></a>。<br /><br />用户只需上传视频和语音数据，AI就能生成高度仿真的数字人。<br /><br />同时还支持音色克隆。用户上传一段 30 分钟的音频样本后，可实现任意文字转真实声音。<br /><br />申请内测（免费）：<a href="https://member.bilibili.com/york/bilibili-studio/unlogin?utm_source=ai-bot.cn"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://video.weibo.com/show?fid=1034:5028066343190566"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">量子位的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax3.sinaimg.cn/orj480/006Fd7o3gy1hp6ak1tgcbj31hc0u00yf.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/IynL9f5Mlx08eqHFKkg8010412005vCL0E010.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714277042&amp;ssig=frbrbDw7Ka&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/6bUYaSOklx08eqHFkzmM010412002Ohu0E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714277042&amp;ssig=7nymakuPd0&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/XD02USs2lx08eqHFkf4I010412001ICU0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714277042&amp;ssig=AEmRNwpivr&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5028066343190566" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
+]]></content:encoded>
+<pubDate>Sun, 28 Apr 2024 01:33:05 GMT</pubDate>
+<pubDate>Sun, 28 Apr 2024 01:33:05 GMT</pubDate>
+</item>
+<item>
+<title>#阿里开源首个千亿参数模型# 阿里宣布开源 Qwen1.5 系列首个千亿参数模型 Qwen1.5-110B。该模型在基础能力评估中与 Meta-Llama3-70B 相媲美。而且在 Chat 评估中...</title>
+<link>https://weibo.com/6105753431/ObLYbiex2</link>
+<guid>https://weibo.com/6105753431/ObLYbiex2</guid>
+<content:encoded><![CDATA[
+<div> 阿里、开源、Qwen1.5、千亿参数模型、110B、Meta-Llama3-70B、Chat评估、MT-Bench、AlpacaEval 2.0、多语言支持<br>
+<br>
+1.阿里宣布开源Qwen1.5系列首个千亿参数模型Qwen1.5-110B，在基础能力评估中与Meta-Llama3-70B相媲美。<br>
+2.Qwen1.5-110B在Chat评估中表现出色，支持32K tokens的上下文长度，同时支持多语言。<br>
+3.该模型表现显著优于之前发布的72B模型，主要原因是模型规模增加。<br>
+4.即使在没有大幅改变后训练方法的情况下，更强大、更大规模的基础语言模型也可以带来更好的Chat模型。 <br>
+
+<br><br>总结: 阿里发布了Qwen1.5-110B千亿参数模型，在基础能力评估和Chat评估中表现优秀，支持多语言和更大上下文长度。该模型的表现比之前的规模较小的模型显著更好，显示出模型规模的增加对结果的影响。这表明，更强大、更大规模的语言模型可带来更好的Chat模型表现。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E9%87%8C%E5%BC%80%E6%BA%90%E9%A6%96%E4%B8%AA%E5%8D%83%E4%BA%BF%E5%8F%82%E6%95%B0%E6%A8%A1%E5%9E%8B%23&amp;extparam=%23%E9%98%BF%E9%87%8C%E5%BC%80%E6%BA%90%E9%A6%96%E4%B8%AA%E5%8D%83%E4%BA%BF%E5%8F%82%E6%95%B0%E6%A8%A1%E5%9E%8B%23"><span class="surl-text">#阿里开源首个千亿参数模型#</span></a> <br /><br />阿里宣布开源 Qwen1.5 系列首个千亿参数模型 Qwen1.5-110B。<br /><br />该模型在基础能力评估中与 Meta-Llama3-70B 相媲美。<br /><br />而且在 Chat 评估中表现出色，包括 MT-Bench 和 AlpacaEval 2.0。<br /><br />此外，Qwen1.5-110B 支持 32K tokens 的上下文长度。<br /><br />同时它仍然支持多语言，包括英、中、法、西、德、俄、日、韩、越、阿等。<br /><br />另据团队介绍，与之前发布的 72B 模型相比，110B 表现显著更好。<br /><br />由于并没有对后者的预训练方法进行大幅改变，因此他们认为这一提升主要来自于模型规模增加。<br /><br />换言之，即使在没有大幅改变后训练方法的情况下，更强大、更大规模的基础语言模型也可以带来更好的 Chat 模型。<br /><br />在线体验：<a href="https://huggingface.co/spaces/Qwen/Qwen1.5-110B-Chat-demo"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />GitHub：<a href="https://github.com/QwenLM/Qwen1.5"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />抱抱脸：<a href="https://huggingface.co/Qwen"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hp69t9ltz4j30p00e278b.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hp69rz294dj317e0yg432.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hp69ryzx7kj30ua0gc0uq.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 28 Apr 2024 01:06:41 GMT</pubDate>
+<pubDate>Sun, 28 Apr 2024 01:06:41 GMT</pubDate>
+</item>
+<item>
+<title>#清华新成立人工智能学院# 图灵奖获得者姚期智任院长AI浪潮下，一直位于前沿的清华大学宣布新成立人工智能学院。首任院长将由图灵奖获得者、中国科学院院士姚期...</title>
+<link>https://weibo.com/6105753431/ObLPhxMCP</link>
+<guid>https://weibo.com/6105753431/ObLPhxMCP</guid>
+<content:encoded><![CDATA[
+
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%B8%85%E5%8D%8E%E6%96%B0%E6%88%90%E7%AB%8B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E9%99%A2%23&amp;extparam=%23%E6%B8%85%E5%8D%8E%E6%96%B0%E6%88%90%E7%AB%8B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E9%99%A2%23"><span class="surl-text">#清华新成立人工智能学院#</span></a> 图灵奖获得者姚期智任院长<br /><br />AI浪潮下，一直位于前沿的清华大学宣布新成立人工智能学院。<br /><br />首任院长将由图灵奖获得者、中国科学院院士姚期智担任。<br /><br />未来，该学院将聚焦“人工智能核心基础理论与架构”和 “人工智能 + X”两个重点方向。<br /><br />以高定位和新机制建设中国自主的“AI 顶尖人才和原始创新基座”，为实现高水平科技自立自强提供有力支撑。<img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hp694d7hs0j315y17we81.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hp6960pgsrj30hs0npacc.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 28 Apr 2024 00:44:46 GMT</pubDate>
+<pubDate>Sun, 28 Apr 2024 00:44:46 GMT</pubDate>
+</item>
 
 <item>
 <title>#清华团队国产Sora火了# Sora席卷世界，也掀起了全球竞逐AI视频生成的热潮。就在今天，国内又有一支短片引发关注。视频来自生数科技联合清华大学最新发布的视频...</title>

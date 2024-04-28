@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【大型语言模型的局限性：为什么它们无法解决简单问题？】- LLM仍无法解决一些看似简单的问题，比如Wordle和数独，以及需要多步推理的游戏。这说明LLM目前在需要...</title>
 <link>https://weibo.com/1402400261/ObMgB5dNV</link>
@@ -11,14 +12,12 @@
 <content:encoded><![CDATA[
 <div> LLM、局限性、无法解决问题、Wordle、数独、多步推理、细胞自动机、康威生命游戏、目标漂移、自回归特性
 
-<br><br>总结:
+<br /><br />总结:
 大型语言模型（LLM）在解决一些看似简单的问题时存在局限性，例如Wordle和数独，以及需要多步推理的任务。LLM无法学习细胞自动机如康威生命游戏，表明其难以真正学习背后的规则，只是在训练数据内进行模仿。存在“目标漂移”问题，推理步骤增加时注意力难以保持目标，可靠性下降。即使添加RNN等结构，LLM的自回归特性导致每一步都是从头开始推理，难以有效利用历史信息。虽然可以通过逐步提供信息、链式思维等方法刺激LLM进行多步推理，但可靠性仍有限。尽管LLM在某些领域可以模仿推理，但无法实现真正的泛化，需要进一步研究其局限性。虽然LLM难以取代人类推理，但可作为专家系统在某些领域发挥巨大价值，需要设计专业化的LLM模型。 <div>
 【大型语言模型的局限性：为什么它们无法解决简单问题？】<br />- LLM仍无法解决一些看似简单的问题，比如Wordle和数独，以及需要多步推理的游戏。这说明LLM目前在需要记忆能力和计算能力的任务上仍有局限。   <br />- LLM也无法学习细胞自动机如康威生命游戏。这表明LLM无法真正学习背后的规则，只是在训练数据内进行模仿，LLM难以推广。   <br />- LLM存在“目标漂移”问题，随着推理步骤增加，注意力机制难以保持目标，推理可靠性下降。LLM无法像人类那样动态重置上下文。   <br />- 添加RNN等结构只能部分缓解问题，根本原因是LLM的自回归特性导致每一步都是从头开始推理，无法有效利用历史信息。   <br /> 可以通过逐步提供信息、链式思维等方法刺激LLM进行多步推理，但可靠性仍然有限。LLM展现出惊人的直觉但有限的智能。   <br />- 尽管LLM可以在某些领域模仿推理，但由于训练数据的局限，LLM无法实现真正的泛化，还需进一步研究 LLM的局限。   <br />- 虽然LLM难以取代人类推理，但可作为专家系统在某些领域发挥巨大价值，需要针对不同任务设计专业化的LLM模型。<br />《What can LLMs never do? - by Rohit Krishnan》 <a href="https://www.strangeloopcanon.com/p/what-can-llms-never-do"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp6b4cpuzhj20ww0u0wfz.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp6b4f5u1rj214g0k8q4p.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hp6b4nq3rmj214g0izwgi.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 28 Apr 2024 01:52:03 GMT</pubDate>
-<pubDate>Sun, 28 Apr 2024 01:52:03 GMT</pubDate>
 </item>
-
 <item>
 <title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《多模态大模型：新一代人工智能技术范式 （全彩）》...</title>
 <link>https://weibo.com/1402400261/ObKTtkiIX</link>
@@ -12859,19 +12858,6 @@ Evolutionary Optimization of Model Merging Recipes 提出了一种进化模型�
 [LG] Evolutionary Optimization of Model Merging Recipes  <br /><a href="https://arxiv.org/abs/2403.13187"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />提出进化模型融合方法,在参数和数据流空间通过进化算法自动发现模型的最优组合,实现跨域模型的高效融合,生成性能强劲的新模型。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzc6kjjllj212w1k8dzq.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzc6ksku0j21ag0woakt.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzc6l8ez8j21a20fk79e.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Thu, 21 Mar 2024 21:48:38 GMT</pubDate>
-</item>
-<item>
-<title>[LG] Evaluating Frontier Models for Dangerous Capabilities 网页链接 论文系统地评估了多种领域的AI危险能力,为未来的科学评估和风险管控奠定基础。 [图片][...</title>
-<link>https://weibo.com/1402400261/O67NpDkRT</link>
-<guid>https://weibo.com/1402400261/O67NpDkRT</guid>
-<content:encoded><![CDATA[
-<div> AI、危险能力、科学评估、风险管控、前沿模型
-
-<br /><br />总结:
-本论文针对多领域的AI危险能力进行系统评估，为未来科学评估和风险管控提供了基础。研究围绕前沿模型展开，重点关注发展中的危险能力，并提出评估框架和方法。通过深入研究和实证分析，得出了对不同领域和模型的危险潜在能力的结论。文章强调对AI危险能力的全面评估和风险控制的重要性，为相关领域的研究提供了有益的参考和指导。 <div>
-[LG] Evaluating Frontier Models for Dangerous Capabilities  <br /><a href="https://arxiv.org/abs/2403.13793"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />论文系统地评估了多种领域的AI危险能力,为未来的科学评估和风险管控奠定基础。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzbw9zov9j214k1ku1dp.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnzbwactj4j219i188as8.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnzbwansd4j218y0f0ac7.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzbwbb8x8j219m0mate3.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 21 Mar 2024 21:38:46 GMT</pubDate>
 </item>
 </channel>
 </rss>

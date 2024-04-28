@@ -6772,3 +6772,9 @@ Summarized using GPT-3.5-turbo
 Append: [【大型语言模型的局限性：为什么它们无法解决简单问题？】- LLM仍无法解决一些看似简单的问题，比如Wordle和数独，以及需要多步推理的游戏。这说明LLM目前在需要...](https://weibo.com/1402400261/ObMgB5dNV)
 append_entries: 1
 Finish: 2024-04-28 02:25:45.274765
+------------------------------------------------------
+Started: 2024-04-28 04:13:05.554960
+Existing_entries: 1001
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-04-28 04:13:08.212059
