@@ -6784,3 +6784,24 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-28 06:15:18.575973
+------------------------------------------------------
+Started: 2024-04-28 08:15:16.709287
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 222
+Summarized using GPT-3.5-turbo
+Append: [【InstructLab(ilab)：用于与LLM模型进行交互和训练的命令行界面】’InstructLab(ilab) - Command-line interface. Use this to chat with the model or train t...](https://weibo.com/1402400261/ObNXSubPs)
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: [【Practical Tips：Go语言编程实践技巧集】’Practical Tips - Go Practical Tips' GitHub: github.com/func25/go-practical-tips #开源# [图片]](https://weibo.com/1402400261/ObNLMwDmi)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [【HybridAGI: 基于可编程LLM的自治Agent，允许使用基于图的提示编程方法对其行为进行编程】'HybridAGI: The Programmable Neuro-Symbolic AGI for people who wa...](https://weibo.com/1402400261/ObNIhzOLY)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [【关于 Apple 的 MLX 机器学习库的精选列表，包括关于 MLX 的文章、模型、库和工具、演示、MLX Swift 等内容】'Awesome MLX' GitHub: github.com/antranapp/awes...](https://weibo.com/1402400261/ObNGD7efy)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [【Perplexica：开源的 AI 搜索引擎，使用高级机器学习算法来理解用户的问题并从网络中找到答案，同时保护用户的隐私】'Perplexica - An AI-powered search engin...](https://weibo.com/1402400261/ObNCp1apk)
+append_entries: 5
+Finish: 2024-04-28 08:15:41.701811
