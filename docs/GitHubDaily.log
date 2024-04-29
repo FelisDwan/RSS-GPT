@@ -3426,3 +3426,12 @@ Existing_entries: 65
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-04-29 10:13:05.495383
+------------------------------------------------------
+Started: 2024-04-29 12:21:17.758270
+Existing_entries: 65
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [推荐 GitHub 上一个模仿抖音的移动端短视频项目 Douyin-Vue。使用最新的 Vue 技术栈开发，实现媲美原生 App 丝滑流畅的使用体验。GitHub：github.com/zyronon/do...](https://weibo.com/5722964389/ObZcLnjsd)
+append_entries: 1
+Finish: 2024-04-29 12:21:23.008512

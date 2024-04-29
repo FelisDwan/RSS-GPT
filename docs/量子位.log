@@ -4889,3 +4889,15 @@ Summarized using GPT-3.5-turbo
 Append: [#新闻看点# #人工几十万，AI几十块！国产玩家证明了AIGC视频商业化威力#用遗传算法模拟汽车进化# 一边，以Sora为代表的文生视频Demo发布令世界震撼，新技术还在...](https://weibo.com/6105753431/ObXwKb1lJ)
 append_entries: 3
 Finish: 2024-04-29 10:13:01.591800
+------------------------------------------------------
+Started: 2024-04-29 12:21:05.943500
+Existing_entries: 607
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [#微软用A100跑起了FP6# FP8和更低的浮点数量化精度，不再是H100的“专利”了！老黄想让大家用INT8/INT4，微软DeepSpeed团队在没有英伟达官方支持的条件下，硬生...](https://weibo.com/6105753431/ObYHvrwSd)
+Token length: 55
+Summarized using GPT-3.5-turbo
+Append: [#LeCun预言10年内智能手机将消失# 深度学习之父 Yann LeCun 预言，也许在10年内，智能手机将被搭载智能助手的眼镜等AI硬件取代~ 量子位的微博视频](https://weibo.com/6105753431/ObYmbpEDr)
+append_entries: 2
+Finish: 2024-04-29 12:21:16.358310

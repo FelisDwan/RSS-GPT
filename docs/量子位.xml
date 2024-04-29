@@ -5,6 +5,32 @@
 <link>https://weibo.com/6105753431/</link>
 
 <item>
+<title>#微软用A100跑起了FP6# FP8和更低的浮点数量化精度，不再是H100的“专利”了！老黄想让大家用INT8/INT4，微软DeepSpeed团队在没有英伟达官方支持的条件下，硬生...</title>
+<link>https://weibo.com/6105753431/ObYHvrwSd</link>
+<guid>https://weibo.com/6105753431/ObYHvrwSd</guid>
+<content:encoded><![CDATA[
+<div> 关键词: FP8, INT8, INT4, FP6, A100, TC-FPx, DeepSpeed, 大模型, 加速效果, Llama
+
+总结:<br><br>本文介绍了在A100上运行FP6量化的新方法TC-FPx，同时提及了老黄推动使用INT8和INT4的愿望。微软DeepSpeed团队在没有英伟达官方支持的情况下成功在A100上实现了FP6量化，速度接近甚至超过INT4，同时具有更高的精度。这一方法已经开源且集成到DeepSpeed等框架中，支持端到端的大模型。使用这一框架，在单卡上运行Llama可以获得比双卡还要高2.65倍的吞吐量，加速效果显著。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BE%AE%E8%BD%AF%E7%94%A8A100%E8%B7%91%E8%B5%B7%E4%BA%86FP6%23&amp;extparam=%23%E5%BE%AE%E8%BD%AF%E7%94%A8A100%E8%B7%91%E8%B5%B7%E4%BA%86FP6%23"><span class="surl-text">#微软用A100跑起了FP6#</span></a> <br /><br />FP8和更低的浮点数量化精度，不再是H100的“专利”了！<br /><br />老黄想让大家用INT8/INT4，微软DeepSpeed团队在没有英伟达官方支持的条件下，硬生生在A100上跑起FP6。<br /><br />测试结果表明，新方法TC-FPx在A100上的FP6量化，速度接近甚至偶尔超过INT4，而且拥有比后者更高的精度。<br /><br />在此基础之上，还有端到端的大模型支持，目前已经开源并集成到了DeepSpeed等深度学习推理框架中。<br /><br />这一成果对大模型的加速效果也是立竿见影——在这种框架下用单卡跑Llama，吞吐量比双卡还要高2.65倍。<br /><br /><a href="https://mp.weixin.qq.com/s/XBCodtzdCXsvcCov5-YHPQ"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">单卡跑Llama 70B快过双卡，微软硬生生把FP6搞到了A100里 | 开源</span></a><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hp7u0vzah9j30gg05qq46.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hp7u10j5g7j30u010vkbh.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 09:31:19 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 09:31:19 GMT</pubDate>
+</item>
+<item>
+<title>#LeCun预言10年内智能手机将消失# 深度学习之父 Yann LeCun 预言，也许在10年内，智能手机将被搭载智能助手的眼镜等AI硬件取代~ 量子位的微博视频</title>
+<link>https://weibo.com/6105753431/ObYmbpEDr</link>
+<guid>https://weibo.com/6105753431/ObYmbpEDr</guid>
+<content:encoded><![CDATA[
+<div> Yann LeCun, 深度学习，智能手机，智能助手，眼镜，AI硬件，预言，10年内，替代
+总结:<br><br>Yann LeCun是深度学习之父，他预言在未来10年内智能手机可能被搭载智能助手的眼镜等AI硬件取代。这意味着人们可能会使用更智能的设备来辅助生活和工作，为我们带来更便利和智能的体验。AI技术的发展将助力智能硬件的普及，为我们的生活带来新的可能性。 <div>
+<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23LeCun%E9%A2%84%E8%A8%8010%E5%B9%B4%E5%86%85%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%B0%86%E6%B6%88%E5%A4%B1%23&amp;extparam=%23LeCun%E9%A2%84%E8%A8%8010%E5%B9%B4%E5%86%85%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%B0%86%E6%B6%88%E5%A4%B1%23"><span class="surl-text">#LeCun预言10年内智能手机将消失#</span></a> 深度学习之父 Yann LeCun 预言，也许在10年内，智能手机将被搭载智能助手的眼镜等AI硬件取代~ <a href="https://video.weibo.com/show?fid=1034:5028533446312008"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax1.sinaimg.cn/orj480/006Fd7o3ly1hp7s7ge0acj30k00k0wf3.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/smAnc8P0lx08esLNs3xC01041200cO3b0E010.mp4?label=mp4_720p&amp;template=720x720.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714388731&amp;ssig=SrMmrH2avs&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/U3qIgAF3lx08esLNrk120104120079Um0E010.mp4?label=mp4_hd&amp;template=540x540.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714388731&amp;ssig=wBXDeaqKqE&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/xGhp0ynKlx08esLNaLoY010412004a3D0E010.mp4?label=mp4_ld&amp;template=360x360.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714388731&amp;ssig=0trMIZzalA&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5028533446312008" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 08:38:47 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 08:38:47 GMT</pubDate>
+</item>
+
+<item>
 <title>#首届无人驾驶F1方程赛# 8圈开了一个小时，首届AI方程式大赛最新落幕~据悉，在本次阿布扎比的 F1 赛道上，8 辆赛车使用了相同的轮胎、发动机和车身，唯一不同之...</title>
 <link>https://weibo.com/6105753431/ObXXe1RhZ</link>
 <guid>https://weibo.com/6105753431/ObXXe1RhZ</guid>
@@ -16,7 +42,6 @@ AI方程式大赛在阿布扎比F1赛道上举行，8辆赛车使用相同配备
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%A6%96%E5%B1%8A%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6F1%E6%96%B9%E7%A8%8B%E8%B5%9B%23&amp;extparam=%23%E9%A6%96%E5%B1%8A%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6F1%E6%96%B9%E7%A8%8B%E8%B5%9B%23"><span class="surl-text">#首届无人驾驶F1方程赛#</span></a> <br /><br />8圈开了一个小时，首届AI方程式大赛最新落幕~<br /><br />据悉，在本次阿布扎比的 F1 赛道上，8 辆赛车使用了相同的轮胎、发动机和车身，唯一不同之处就是自动驾驶代码。<br /><br />那这些AI赛车具体表现如何呢？<br /><br />从前方发回的视频来看，只能说这些赛车“很有自己的个性”。<br /><br />比如有直道踩刹车炫酷走位避让空气的；<br /><br />有踩刹车原地打转耍帅的；<br /><br />还有提前预判转弯结果直接撞向墙壁的铁汁；<br /><br />更有比到一半，直接中场休息的；<br /><br />总之，赛后大家纷纷向那些耐心和优雅的解说员致敬，因为没有听到他们叹过一次气。<br /><br />不过不管怎样，这也算AI无人驾驶的一个大胆尝试。<br /><br />最后，让我们恭喜来自德国慕尼黑工业大学的无人驾驶方程式赛车。<br /><br />完整比赛视频（YouTube）：<a href="https://www.youtube.com/watch?v=HZPj9iAWz-4&amp;t=1961s"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><img src="https://tvax3.sinaimg.cn/large/006Fd7o3gy1hp7pvxnoj0j31kw11yqra.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hp7pw5c9fug30go09d1l0.gif" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3gy1hp7pw6c5q8g30dc07i1l2.gif" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3gy1hp7pw8c7z1g30go09d1l4.gif" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hp7pw5wz9ng30go09d7wl.gif" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hp7pws35mjj30sa0hg7nq.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3gy1hp7pyg297lj30js0aegr5.jpg" /><br /><br /><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006Fd7o3ly1hp7qqh3fj3j30zk0k0gmm.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/PWn9P6Gxlx08esHzAj8Q010412006tN30E010.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714381462&amp;ssig=Kx80LM9IIY&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/pP7n9dS0lx08esHzN1jq010412003hHX0E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714381462&amp;ssig=RLy3IjSVeC&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/SQmrYgDklx08esHz0yxG0104120022Pf0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714381462&amp;ssig=0uQkYJhKz8&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5028513233698859" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
 <pubDate>Mon, 29 Apr 2024 07:37:16 GMT</pubDate>
-<pubDate>Mon, 29 Apr 2024 07:37:16 GMT</pubDate>
 </item>
 <item>
 <title>#老黄称AI不会完全取代人类工作# 量子位的微博视频</title>
@@ -27,11 +52,10 @@ AI方程式大赛在阿布扎比F1赛道上举行，8辆赛车使用相同配备
 
 文章总结：
 
-<br><br>总结:
+<br /><br />总结:
 这篇文章主要讲述了如何用中文进行总结文章内容。首先提取出最多10个关键词，然后使用这些关键词来撰写整篇文章的总结。在总结中，按照关键词的顺序逐个列出要点，并确保内容完整准确。通过这种方式，读者能够快速了解文章的主要内容和要点，从而更好地理解文章的核心思想。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%80%81%E9%BB%84%E7%A7%B0AI%E4%B8%8D%E4%BC%9A%E5%AE%8C%E5%85%A8%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E5%B7%A5%E4%BD%9C%23&amp;extparam=%23%E8%80%81%E9%BB%84%E7%A7%B0AI%E4%B8%8D%E4%BC%9A%E5%AE%8C%E5%85%A8%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E5%B7%A5%E4%BD%9C%23"><span class="surl-text">#老黄称AI不会完全取代人类工作#</span></a> <a href="https://video.weibo.com/show?fid=1034:5028507001225307"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax1.sinaimg.cn/orj480/006Fd7o3gy1hp7p620ls2j31hc0u0diu.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/tqK2vY1Ulx08esDTdcwU010412008bne0E010.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714381462&amp;ssig=Ta7U5bh4yx&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/PVAhho2Clx08esDTcpZC010412004kzs0E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714381462&amp;ssig=L59OQjrI2b&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/CTa4XvFDlx08esDTalK0010412002Pwt0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714381462&amp;ssig=H1ZjndMMwh&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5028507001225307" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
-<pubDate>Mon, 29 Apr 2024 06:43:38 GMT</pubDate>
 <pubDate>Mon, 29 Apr 2024 06:43:38 GMT</pubDate>
 </item>
 <item>
@@ -39,16 +63,14 @@ AI方程式大赛在阿布扎比F1赛道上举行，8辆赛车使用相同配备
 <link>https://weibo.com/6105753431/ObXwKb1lJ</link>
 <guid>https://weibo.com/6105753431/ObXwKb1lJ</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 遗传算法, Sora, 文生视频Demo, AIGC公司, 视频生成工具, 新技术, 产品落地, 一站式3D视频创作工具, 魔珐<br>
-<br>
-总结: <br>
+<div> 关键词: 遗传算法, Sora, 文生视频Demo, AIGC公司, 视频生成工具, 新技术, 产品落地, 一站式3D视频创作工具, 魔珐<br />
+<br />
+总结: <br />
 本文讨论了两个不同领域的新技术进展：一方面是利用遗传算法模拟汽车进化，另一方面是以Sora为代表的文生视频Demo发布引起震撼。虽然新技术还在不断突破，但产品落地还有一段距离。在此背景下，AIGC公司凭借视频生成工具开始赚钱，展示了新技术带来的商业机会。来自魔珐的AIGC一站式3D视频创作工具也崭露头角，为视频创作领域带来新的可能性。这些新技术的推广应用，将进一步推动数字媒体产业的发展。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%96%B0%E9%97%BB%E7%9C%8B%E7%82%B9%23&amp;isnewpage=1"><span class="surl-text">#新闻看点#</span></a>  <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E5%87%A0%E5%8D%81%E4%B8%87%EF%BC%8CAI%E5%87%A0%E5%8D%81%E5%9D%97%EF%BC%81%E5%9B%BD%E4%BA%A7%E7%8E%A9%E5%AE%B6%E8%AF%81%E6%98%8E%E4%BA%86AIGC%E8%A7%86%E9%A2%91%E5%95%86%E4%B8%9A%E5%8C%96%E5%A8%81%E5%8A%9B%23&amp;extparam=%23%E4%BA%BA%E5%B7%A5%E5%87%A0%E5%8D%81%E4%B8%87%EF%BC%8CAI%E5%87%A0%E5%8D%81%E5%9D%97%EF%BC%81%E5%9B%BD%E4%BA%A7%E7%8E%A9%E5%AE%B6%E8%AF%81%E6%98%8E%E4%BA%86AIGC%E8%A7%86%E9%A2%91%E5%95%86%E4%B8%9A%E5%8C%96%E5%A8%81%E5%8A%9B%23"><span class="surl-text">#人工几十万，AI几十块！国产玩家证明了AIGC视频商业化威力#</span></a>用遗传算法模拟汽车进化#  一边，以Sora为代表的文生视频Demo发布令世界震撼，新技术还在不断突破，产品落地还有段距离。<br /><br />但另一边，第一波AIGC公司，已经凭借着视频生成工具，开始赚钱了。<br /><br />来自魔珐，来自刚面世不久的AIGC一站式3D视频创作工具有言。 <a href="https://weibo.com/ttarticle/p/show?id=2309405028504340136135"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">人工几十万，AI几十块！国产玩家证明了AIGC视频商业化威力</span></a><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hp7otz3rf5j309m05fglv.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 29 Apr 2024 06:32:02 GMT</pubDate>
-<pubDate>Mon, 29 Apr 2024 06:32:02 GMT</pubDate>
 </item>
-
 <item>
 <title>#用遗传算法模拟汽车进化# Hacker News 上有网友分享了自己从头编写的利用遗传算法模拟汽车进化的项目，目前在GitHub开源~[来] 在线体验：网页链接 量子位的微博...</title>
 <link>https://weibo.com/6105753431/ObWI6ltxQ</link>
