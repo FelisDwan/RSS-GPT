@@ -4841,3 +4841,18 @@ Existing_entries: 597
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-29 04:14:03.723601
+------------------------------------------------------
+Started: 2024-04-29 06:15:25.787381
+Existing_entries: 597
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [#OpenAI搜索引擎新页面曝光# 感觉大家最近又开始卷AI搜索工具了？眼见 Perplexity 和谷歌打得正酣，OpenAI疑似也要推出自己的AI搜索功能~这不，已经有网友曝出了...](https://weibo.com/6105753431/ObWopEFVk)
+Token length: 115
+Summarized using GPT-3.5-turbo
+Append: [#大模型竞技场近1年排名动态变化# X 网友分享了近1年来，大模型在竞技场的排名变化情况~他提到了两个趋势：1. 各公司/开源项目之间的差距正在缩小2. 主要参与者...](https://weibo.com/6105753431/ObW1yiY1G)
+Token length: 297
+Summarized using GPT-3.5-turbo
+Append: [#雅诗兰黛官宣与微软合作# 生成式 AI 开始涉足美妆领域了~雅诗兰黛与微软宣布，将合作成立新的人工智能创新实验室。预计微软的Azure OpenAI服务将帮助该公司的 2...](https://weibo.com/6105753431/ObVWkrkOG)
+append_entries: 3
+Finish: 2024-04-29 06:15:41.016346
