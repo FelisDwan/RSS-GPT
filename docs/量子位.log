@@ -4823,3 +4823,15 @@ Existing_entries: 595
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-29 00:52:18.578252
+------------------------------------------------------
+Started: 2024-04-29 02:22:46.055158
+Existing_entries: 595
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: [#实测AI硬件RabbitR1# 网友疯狂吐槽能与人实时交互、仅有耳机盒大小的 Rabbit R1 用起来究竟如何？来看科技博主的一手实测。一打开，映入眼帘的就是复古“滚轮”...](https://weibo.com/6105753431/ObVG2aeto)
+Token length: 163
+Summarized using GPT-3.5-turbo
+Append: [#新款iPadPro或搭载M4芯片# 据彭博古尔曼最新透露，苹果有很大概率将在 5 月 7 日推出的 OLED iPad Pro 上首发搭载 M4 芯片。这意味着六个月前在 MacBook Pro 和...](https://weibo.com/6105753431/ObVipihez)
+append_entries: 2
+Finish: 2024-04-29 02:22:56.170803
