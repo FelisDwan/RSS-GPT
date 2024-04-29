@@ -5,16 +5,30 @@
 <link>https://weibo.com/6105753431/</link>
 
 <item>
+<title>【#讯飞星火春季上新#】讯飞星火大模型 V3.5春季上新！推出业界首个同时支持长文本、长图文和长语音的大模型，还有超强星火智能体平台，真正解放生产力。 量子位...</title>
+<link>https://weibo.com/6105753431/ObZ1d1Auy</link>
+<guid>https://weibo.com/6105753431/ObZ1d1Auy</guid>
+<content:encoded><![CDATA[
+<div> 讯飞星火大模型 V3.5、春季上新、业界首个、长文本、长图文、长语音、大模型、星火智能体平台、解放生产力 <br>
+<br>
+总结：<br>
+讯飞推出了V3.5版本的星火大模型，是业界首个同时支持长文本、长图文和长语音的大模型。此外，还推出了超强的星火智能体平台，真正解放生产力。这意味着用户可以更方便地处理长文本、长图文和长语音数据，提高工作效率，提升用户体验。新版本的推出将极大地提升用户的工作体验和生产力。 <div>
+【<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%AF%E9%A3%9E%E6%98%9F%E7%81%AB%E6%98%A5%E5%AD%A3%E4%B8%8A%E6%96%B0%23&amp;extparam=%23%E8%AE%AF%E9%A3%9E%E6%98%9F%E7%81%AB%E6%98%A5%E5%AD%A3%E4%B8%8A%E6%96%B0%23"><span class="surl-text">#讯飞星火春季上新#</span></a>】<br /><br />讯飞星火大模型 V3.5春季上新！推出业界首个同时支持长文本、长图文和长语音的大模型，还有超强星火智能体平台，真正解放生产力。 <a href="https://video.weibo.com/show?fid=1034:5028561237508131"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006Fd7o3ly1hp7vf6o73bj30u0140tka.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/txqYZ0mflx08esSJNodO01041200eoCo0E010.mp4?label=mp4_720p&amp;template=720x1280.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714399501&amp;ssig=niQnGvxuQL&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/7ixkFOJ6lx08esSJrOAg010412007SBr0E010.mp4?label=mp4_hd&amp;template=540x960.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714399501&amp;ssig=%2BhmKwEnluZ&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/3mTw5aXJlx08esSJOoO4010412004h0T0E010.mp4?label=mp4_ld&amp;template=360x640.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714399501&amp;ssig=FfXFUdvwyE&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5028561237508131" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 10:19:51 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 10:19:51 GMT</pubDate>
+</item>
+
+<item>
 <title>#微软用A100跑起了FP6# FP8和更低的浮点数量化精度，不再是H100的“专利”了！老黄想让大家用INT8/INT4，微软DeepSpeed团队在没有英伟达官方支持的条件下，硬生...</title>
 <link>https://weibo.com/6105753431/ObYHvrwSd</link>
 <guid>https://weibo.com/6105753431/ObYHvrwSd</guid>
 <content:encoded><![CDATA[
 <div> 关键词: FP8, INT8, INT4, FP6, A100, TC-FPx, DeepSpeed, 大模型, 加速效果, Llama
 
-总结:<br><br>本文介绍了在A100上运行FP6量化的新方法TC-FPx，同时提及了老黄推动使用INT8和INT4的愿望。微软DeepSpeed团队在没有英伟达官方支持的情况下成功在A100上实现了FP6量化，速度接近甚至超过INT4，同时具有更高的精度。这一方法已经开源且集成到DeepSpeed等框架中，支持端到端的大模型。使用这一框架，在单卡上运行Llama可以获得比双卡还要高2.65倍的吞吐量，加速效果显著。 <div>
+总结:<br /><br />本文介绍了在A100上运行FP6量化的新方法TC-FPx，同时提及了老黄推动使用INT8和INT4的愿望。微软DeepSpeed团队在没有英伟达官方支持的情况下成功在A100上实现了FP6量化，速度接近甚至超过INT4，同时具有更高的精度。这一方法已经开源且集成到DeepSpeed等框架中，支持端到端的大模型。使用这一框架，在单卡上运行Llama可以获得比双卡还要高2.65倍的吞吐量，加速效果显著。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BE%AE%E8%BD%AF%E7%94%A8A100%E8%B7%91%E8%B5%B7%E4%BA%86FP6%23&amp;extparam=%23%E5%BE%AE%E8%BD%AF%E7%94%A8A100%E8%B7%91%E8%B5%B7%E4%BA%86FP6%23"><span class="surl-text">#微软用A100跑起了FP6#</span></a> <br /><br />FP8和更低的浮点数量化精度，不再是H100的“专利”了！<br /><br />老黄想让大家用INT8/INT4，微软DeepSpeed团队在没有英伟达官方支持的条件下，硬生生在A100上跑起FP6。<br /><br />测试结果表明，新方法TC-FPx在A100上的FP6量化，速度接近甚至偶尔超过INT4，而且拥有比后者更高的精度。<br /><br />在此基础之上，还有端到端的大模型支持，目前已经开源并集成到了DeepSpeed等深度学习推理框架中。<br /><br />这一成果对大模型的加速效果也是立竿见影——在这种框架下用单卡跑Llama，吞吐量比双卡还要高2.65倍。<br /><br /><a href="https://mp.weixin.qq.com/s/XBCodtzdCXsvcCov5-YHPQ"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">单卡跑Llama 70B快过双卡，微软硬生生把FP6搞到了A100里 | 开源</span></a><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hp7u0vzah9j30gg05qq46.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hp7u10j5g7j30u010vkbh.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 29 Apr 2024 09:31:19 GMT</pubDate>
 <pubDate>Mon, 29 Apr 2024 09:31:19 GMT</pubDate>
 </item>
 <item>
@@ -23,13 +37,11 @@
 <guid>https://weibo.com/6105753431/ObYmbpEDr</guid>
 <content:encoded><![CDATA[
 <div> Yann LeCun, 深度学习，智能手机，智能助手，眼镜，AI硬件，预言，10年内，替代
-总结:<br><br>Yann LeCun是深度学习之父，他预言在未来10年内智能手机可能被搭载智能助手的眼镜等AI硬件取代。这意味着人们可能会使用更智能的设备来辅助生活和工作，为我们带来更便利和智能的体验。AI技术的发展将助力智能硬件的普及，为我们的生活带来新的可能性。 <div>
+总结:<br /><br />Yann LeCun是深度学习之父，他预言在未来10年内智能手机可能被搭载智能助手的眼镜等AI硬件取代。这意味着人们可能会使用更智能的设备来辅助生活和工作，为我们带来更便利和智能的体验。AI技术的发展将助力智能硬件的普及，为我们的生活带来新的可能性。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23LeCun%E9%A2%84%E8%A8%8010%E5%B9%B4%E5%86%85%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%B0%86%E6%B6%88%E5%A4%B1%23&amp;extparam=%23LeCun%E9%A2%84%E8%A8%8010%E5%B9%B4%E5%86%85%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%B0%86%E6%B6%88%E5%A4%B1%23"><span class="surl-text">#LeCun预言10年内智能手机将消失#</span></a> 深度学习之父 Yann LeCun 预言，也许在10年内，智能手机将被搭载智能助手的眼镜等AI硬件取代~ <a href="https://video.weibo.com/show?fid=1034:5028533446312008"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax1.sinaimg.cn/orj480/006Fd7o3ly1hp7s7ge0acj30k00k0wf3.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/smAnc8P0lx08esLNs3xC01041200cO3b0E010.mp4?label=mp4_720p&amp;template=720x720.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714388731&amp;ssig=SrMmrH2avs&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/U3qIgAF3lx08esLNrk120104120079Um0E010.mp4?label=mp4_hd&amp;template=540x540.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714388731&amp;ssig=wBXDeaqKqE&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/xGhp0ynKlx08esLNaLoY010412004a3D0E010.mp4?label=mp4_ld&amp;template=360x360.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714388731&amp;ssig=0trMIZzalA&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5028533446312008" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
 <pubDate>Mon, 29 Apr 2024 08:38:47 GMT</pubDate>
-<pubDate>Mon, 29 Apr 2024 08:38:47 GMT</pubDate>
 </item>
-
 <item>
 <title>#首届无人驾驶F1方程赛# 8圈开了一个小时，首届AI方程式大赛最新落幕~据悉，在本次阿布扎比的 F1 赛道上，8 辆赛车使用了相同的轮胎、发动机和车身，唯一不同之...</title>
 <link>https://weibo.com/6105753431/ObXXe1RhZ</link>
