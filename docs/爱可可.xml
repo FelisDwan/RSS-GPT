@@ -4,18 +4,18 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>几篇论文实现代码：《Kosmos-G: Generating Images in Context with Multimodal Large Language Models》(ICLR 2024) GitHub: github.com/xichenpan/kosmos-g《M...</title>
 <link>https://weibo.com/1402400261/ObXkR84HZ</link>
 <guid>https://weibo.com/1402400261/ObXkR84HZ</guid>
 <content:encoded><![CDATA[
-<div> 关键词: 图像生成, 文本提示, 三维编辑, 机器学习, SLAM, 网络模型, 数据集, 强化学习, 相对奖励<br>
-<br>
+<div> 关键词: 图像生成, 文本提示, 三维编辑, 机器学习, SLAM, 网络模型, 数据集, 强化学习, 相对奖励<br />
+<br />
 总结: 
 本文提出了几篇论文的实现代码，涵盖了多个领域的前沿研究内容。其中涉及了图像生成、三维编辑、机器学习等重要领域。作者们通过利用大型语言模型生成图像、多模态SLAM技术以及神经网络模型等方法，取得了显著的研究成果。他们还提出了一些新的数据集和算法，来评估机器学习模型在不同任务上的表现。同时，作者们还探讨了如何利用强化学习和相对奖励来提高文本到图像生成的速度和准确性。这些工作对于推动人工智能领域的发展和应用具有重要意义。 <div>
 几篇论文实现代码：<br />《Kosmos-G: Generating Images in Context with Multimodal Large Language Models》(ICLR 2024) GitHub: github.com/xichenpan/kosmos-g<br />《Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization》(CVPR 2024) GitHub: github.com/princeton-vl/MultiSlam_DiffPose [fig1]<br />《PoNQ: a Neural QEM-based Mesh Representation》(CVPR 2024) GitHub: github.com/nissmar/PoNQ<br />《TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts》(SIGGRAPH Asia 2024) GitHub: github.com/zjy526223908/TIP-Editor<br />《UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models》(2024) GitHub: github.com/OPTML-Group/UnlearnCanvas [fig2]<br />《CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field》(2024) GitHub: github.com/hjr37/diff-gaussian-rasterization<br />《ZeST: Zero-Shot Material Transfer from a Single Image》(2024) GitHub: github.com/kealiu/ComfyUI-ZeroShot-MTrans [fig3]<br />《RL for Consistency Models: Faster Reward Guided Text-to-Image Generation》(2024) GitHub: github.com/Owen-Oertell/rlcm<br />《REBEL: Reinforcement Learning via Regressing Relative Rewards》(2024) GitHub: github.com/ZhaolinGao/REBEL<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp7mq7goezj220u0qnats.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp7nhu5288j21le0vi7wh.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp7nrrm68vj21mr0olagp.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 29 Apr 2024 06:02:46 GMT</pubDate>
 <pubDate>Mon, 29 Apr 2024 06:02:46 GMT</pubDate>
 </item>
 <item>
@@ -23,13 +23,12 @@
 <link>https://weibo.com/1402400261/ObXkjxo12</link>
 <guid>https://weibo.com/1402400261/ObXkjxo12</guid>
 <content:encoded><![CDATA[
-<div> Google Recaptcha Solver, Python脚本, DrissionPage库, 解决Google reCAPTCHA, Capsolver AI服务, 自动解决验证码<br>
-<br>
-本文介绍了一个名为Google Recaptcha Solver的Python脚本，使用DrissionPage库可以在不到5秒的时间内解决Google reCAPTCHA。同时也提供了一个名为Capsolver的AI服务，专门用于自动解决多种类型的验证码。这个脚本为用户提供了一种快速有效地解决验证码问题的方法，大大节省了用户的时间和精力。Capsolver的出现，使得用户可以更加轻松地完成需要验证码验证的任务，提高了用户体验。总体来说，Google Recaptcha Solver是一个方便实用的工具，为用户提供了更好的验证码解决方案。<br><br> 
-**总结:** <br>通过使用Google Recaptcha Solver的Python脚本和Capsolver AI服务，用户可以在不到5秒的时间内解决Google reCAPTCHA和其他类型的验证码，大大提高了用户的效率和体验。 <div>
+<div> Google Recaptcha Solver, Python脚本, DrissionPage库, 解决Google reCAPTCHA, Capsolver AI服务, 自动解决验证码<br />
+<br />
+本文介绍了一个名为Google Recaptcha Solver的Python脚本，使用DrissionPage库可以在不到5秒的时间内解决Google reCAPTCHA。同时也提供了一个名为Capsolver的AI服务，专门用于自动解决多种类型的验证码。这个脚本为用户提供了一种快速有效地解决验证码问题的方法，大大节省了用户的时间和精力。Capsolver的出现，使得用户可以更加轻松地完成需要验证码验证的任务，提高了用户体验。总体来说，Google Recaptcha Solver是一个方便实用的工具，为用户提供了更好的验证码解决方案。<br /><br /> 
+**总结:** <br />通过使用Google Recaptcha Solver的Python脚本和Capsolver AI服务，用户可以在不到5秒的时间内解决Google reCAPTCHA和其他类型的验证码，大大提高了用户的效率和体验。 <div>
 【Google Recaptcha Solver：一个Python脚本，能使用DrissionPage库在不到5秒的时间内解决Google reCAPTCHA，同时提供了一个名为Capsolver的AI服务，专门用于自动解决多种类型的验证码】'Google Recaptcha Solver - Solve Google reCAPTCHA in less than 5 seconds! 🚀' GitHub: github.com/sarperavci/GoogleRecaptchaBypass <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp7nymyciqj21740kwn0c.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 29 Apr 2024 06:01:26 GMT</pubDate>
 <pubDate>Mon, 29 Apr 2024 06:01:26 GMT</pubDate>
 </item>
 <item>
@@ -39,11 +38,10 @@
 <content:encoded><![CDATA[
 <div> Python, Netprobe Lite, 互联网性能测试工具, ISP, 数据包丢失, 延迟, 抖动, DNS, GitHub
 
-<br><br>总结:
+<br /><br />总结:
 Netprobe Lite 是一个用 Python 编写的简单高效的互联网性能测试工具，主要用于测量家庭互联网服务提供商（ISP）的性能。该工具可以测量数据包丢失率、延迟、抖动以及DNS性能等指标，帮助用户了解网络连接质量和稳定性。用户可以通过 GitHub 上的代码仓库访问 Netprobe Lite 的代码并进行使用。该工具提供了便捷的方式来评估和监测网络性能，对于需要对网络连接质量进行评估的用户来说是一个很实用的工具。 <div>
 【Netprobe Lite：用 Python 编写的简单高效的互联网性能测试工具，用于测量家庭互联网服务提供商(ISP)的性能，包括数据包丢失、延迟、抖动和DNS性能等指标】'Netprobe Lite - Simple internet performance tester written in Python' GitHub: github.com/plaintextpackets/netprobe_lite <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp7nxttuf0j21740huacy.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 29 Apr 2024 06:00:29 GMT</pubDate>
 <pubDate>Mon, 29 Apr 2024 06:00:29 GMT</pubDate>
 </item>
 <item>
@@ -53,10 +51,9 @@ Netprobe Lite 是一个用 Python 编写的简单高效的互联网性能测试�
 <content:encoded><![CDATA[
 <div> 关键词: 高级代码, 文本操作, 提示库, 大型语言模型, GPT-4, Claude, Llama3, GitHub, 开源, 高性能
 
-在当前的技术发展中，大型语言模型（LLM）变得越来越普遍。为了更好地利用这些高级模型，开发了一个名为LLM-Prompt-Library的高级代码和文本操作提示库。该库适用于多种大型语言模型，如GPT-4、Claude、Llama3等，还能与其他高性能的开源LLM兼容。通过GitHub这个平台，开发者们可以轻松地获取和分享这个提示库，从而提升他们在代码和文本操作中的效率和灵活性。<br><br>总结: 提高了LLM的应用效率和灵活性，适用于多种高性能开源模型，通过GitHub平台方便获取和分享。 <div>
+在当前的技术发展中，大型语言模型（LLM）变得越来越普遍。为了更好地利用这些高级模型，开发了一个名为LLM-Prompt-Library的高级代码和文本操作提示库。该库适用于多种大型语言模型，如GPT-4、Claude、Llama3等，还能与其他高性能的开源LLM兼容。通过GitHub这个平台，开发者们可以轻松地获取和分享这个提示库，从而提升他们在代码和文本操作中的效率和灵活性。<br /><br />总结: 提高了LLM的应用效率和灵活性，适用于多种高性能开源模型，通过GitHub平台方便获取和分享。 <div>
 【LLM-Prompt-Library 为多种大型语言模型（如GPT-4、Claude、Llama3等）设计的高级代码和文本操作提示库】'Advanced LLM Prompts Repository - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performing open-source LLMs.' GitHub: github.com/abilzerian/LLM-Prompt-Library <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp7nvz8vdij21740lagoz.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 29 Apr 2024 05:59:07 GMT</pubDate>
 <pubDate>Mon, 29 Apr 2024 05:59:07 GMT</pubDate>
 </item>
 <item>
@@ -66,11 +63,10 @@ Netprobe Lite 是一个用 Python 编写的简单高效的互联网性能测试�
 <content:encoded><![CDATA[
 <div> 插件，开源，人工智能，语音识别，实时字幕，多语言，无需GPU，无需云端，无需网络连接
 
-<br><br>总结:
+<br /><br />总结:
 LocalVocal是一个用于OBS的开源插件，利用人工智能进行本地语音识别和实时字幕生成，支持多种语言，无需GPU、云端服务或网络连接。用户可以通过GitHub找到这个项目，轻松使用这个功能强大的插件。 <div>
 【LocalVocal：用于 OBS 的开源插件，利用人工智能进行本地语音识别和实时字幕生成，支持多种语言，无需 GPU、云端服务或网络连接】’LocalVocal - Speech AI assistant OBS Plugin - OBS plugin for local speech recognition and captioning using AI' GitHub: github.com/occ-ai/obs-localvocal <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp7nu1knu6j20ua0u0afs.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 29 Apr 2024 05:57:02 GMT</pubDate>
 <pubDate>Mon, 29 Apr 2024 05:57:02 GMT</pubDate>
 </item>
 <item>
@@ -80,10 +76,9 @@ LocalVocal是一个用于OBS的开源插件，利用人工智能进行本地语�
 <content:encoded><![CDATA[
 <div> LLM、端到端可观测性工具、开源、实时追踪、评估、度量功能、Open Telemetry标准、Typescript、Python集成、GitHub
 
-总结:<br><br>Langtrace是一款开源的端到端可观测性工具，专为支持大型语言模型（LLM）应用而设计。该工具遵循Open Telemetry标准，提供实时追踪、评估和度量功能，可用于对流行的LLM、LLM框架和向量数据库进行监测。Langtrace支持Typescript和Python的集成，用户可以在GitHub上找到相关信息。 <div>
+总结:<br /><br />Langtrace是一款开源的端到端可观测性工具，专为支持大型语言模型（LLM）应用而设计。该工具遵循Open Telemetry标准，提供实时追踪、评估和度量功能，可用于对流行的LLM、LLM框架和向量数据库进行监测。Langtrace支持Typescript和Python的集成，用户可以在GitHub上找到相关信息。 <div>
 【Langtrace：开源的端到端可观测性工具，用于支持大型语言模型（LLM）应用，提供实时追踪、评估和度量功能，遵循Open Telemetry标准，并支持Typescript和Python集成】'Langtrace - an open-source, Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python.' GitHub: github.com/Scale3-Labs/langtrace <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hp7nt97qg2j20u00yk42d.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 29 Apr 2024 05:55:51 GMT</pubDate>
 <pubDate>Mon, 29 Apr 2024 05:55:51 GMT</pubDate>
 </item>
 <item>
@@ -91,14 +86,13 @@ LocalVocal是一个用于OBS的开源插件，利用人工智能进行本地语�
 <link>https://weibo.com/1402400261/ObXh9eshC</link>
 <guid>https://weibo.com/1402400261/ObXh9eshC</guid>
 <content:encoded><![CDATA[
-<div> 高性能、可扩展、向量数据库、Rust、二进制嵌入、JSON 查询、持久化、分布式架构<br>
-<br>
-<br>
-总结：<br>
+<div> 高性能、可扩展、向量数据库、Rust、二进制嵌入、JSON 查询、持久化、分布式架构<br />
+<br />
+<br />
+总结：<br />
 HaystackDB 是一个高性能、可扩展的向量数据库，使用 Rust 编写。它支持二进制嵌入和 JSON 查询过滤，具有持久化和分布式架构设计。通过 HaystackDB，用户可以快速存储和检索向量数据，同时利用其强大的功能特点实现高效的数据管理和查询操作。HaystackDB 的开源代码托管在 GitHub 上，为用户提供了可靠的数据库解决方案，适用于各种数据存储和查询需求。HaystackDB 的 Rust 实现保证了其稳定性和性能优势，使其成为一个值得关注和使用的新型数据库技术。HaystackDB 的持久化和分布式架构设计为用户提供了更灵活和可靠的数据管理方式，在大规模数据处理和分布式环境下具有良好的适用性。通过深入了解 HaystackDB 的特性和优势，用户可以更好地利用其功能，实现高效的数据存储和查询操作，提升数据处理效率和性能表现。HaystackDB 的不断优化和发展为用户提供了持续改进和更新的保障，使其成为一个具有长期使用潜力和发展前景的数据库解决方案。 <div>
 【HaystackDB：高性能、可扩展的向量数据库，使用 Rust 编写，支持二进制嵌入、JSON 查询过滤，并且具有持久化、分布式架构设计】'HaystackDB' GitHub: github.com/carsonpo/haystackdb <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp7nqpemowj21740o4juh.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 29 Apr 2024 05:53:38 GMT</pubDate>
 <pubDate>Mon, 29 Apr 2024 05:53:38 GMT</pubDate>
 </item>
 <item>
@@ -108,10 +102,9 @@ HaystackDB 是一个高性能、可扩展的向量数据库，使用 Rust 编写
 <content:encoded><![CDATA[
 <div> 知识图谱、检索增强生成、高级提示技术、自然语言处理、向量数据库、RAG、图思考、复杂问题、解决方案
 
-KRAGEN是一种自然语言处理工具，结合知识图谱、检索增强生成（RAG）和高级提示技术来解决复杂问题。它将知识图谱转换为向量数据库，并使用RAG检索相关事实，辅以图思考技术动态分解问题，最终提供解决方案。该工具可以在GitHub上找到，提供了一种实现图思考的软件方法。KRAGEN的功能能够有效应对复杂问题并提供准确的解决方案。总结：<br><br>知识图谱、RAG和高级提示技术被结合应用到自然语言处理中，转化为向量数据库，并使用图思考技术，提供动态解决方案。 <div>
+KRAGEN是一种自然语言处理工具，结合知识图谱、检索增强生成（RAG）和高级提示技术来解决复杂问题。它将知识图谱转换为向量数据库，并使用RAG检索相关事实，辅以图思考技术动态分解问题，最终提供解决方案。该工具可以在GitHub上找到，提供了一种实现图思考的软件方法。KRAGEN的功能能够有效应对复杂问题并提供准确的解决方案。总结：<br /><br />知识图谱、RAG和高级提示技术被结合应用到自然语言处理中，转化为向量数据库，并使用图思考技术，提供动态解决方案。 <div>
 【KRAGEN：结合知识图谱、检索增强生成（RAG）和高级提示技术来解决复杂问题的自然语言处理工具，通过将知识图谱转换为向量数据库，并使用RAG检索相关事实，辅以图思考（GoT）技术动态分解问题，最终提供解决方案】'KRAGEN - Software to implement GoT with a weviate vectorized database' GitHub: github.com/EpistasisLab/KRAGEN <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp7npugbwwj20u00zqjw6.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp7npv93qlj21gh0u0qa3.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 29 Apr 2024 05:52:36 GMT</pubDate>
 <pubDate>Mon, 29 Apr 2024 05:52:36 GMT</pubDate>
 </item>
 <item>
@@ -121,11 +114,10 @@ KRAGEN是一种自然语言处理工具，结合知识图谱、检索增强生�
 <content:encoded><![CDATA[
 <div> Open-Source, Longterm Memory, Autonomous Agents, GitHub, 记忆机制, 自主Agent, 限制, 上下文窗口, 解决, 开源
 
-<br><br>总结:
+<br /><br />总结:
 该项目旨在为自主Agent提供长期记忆机制以克服LLM因为有限的上下文窗口而带来的限制。这个开源项目名为memary，可在GitHub上找到。通过memary，自主Agent可以更好地处理长期记忆，从而提高其行为和决策的准确性和效率。这个项目为研究人员和开发者提供了一个有用的工具，以改善自主Agent的表现和应用。 <div>
 【memary: 旨在为自主Agent提供长期记忆机制，以克服 LLM 因为有限的上下文窗口而带来的限制】'memary: Open-Source Longterm Memory for Autonomous Agents - Longterm Memory for Autonomous Agents.' GitHub: github.com/kingjulio8238/memary <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp7mxze2stj20yo0u042m.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 29 Apr 2024 05:25:48 GMT</pubDate>
 <pubDate>Mon, 29 Apr 2024 05:25:48 GMT</pubDate>
 </item>
 <item>
@@ -135,14 +127,12 @@ KRAGEN是一种自然语言处理工具，结合知识图谱、检索增强生�
 <content:encoded><![CDATA[
 <div> GitHub, LLMOps, Large Language Model, Tooling, prompt templating, agents, LLM memory, AI applications
 
-总结:<br><br>
+总结:<br /><br />
 本文介绍了LLMOps工具，用于构建基于大型语言模型的应用程序。这些工具包括prompt模板和组合、代理、LLM内存等工具，可以帮助AI应用程序的开发者快速构建应用程序。GitHub链接提供了更多详细信息和工具的下载。 <div>
 'LLMOps for Large Language Model-based applications - Tooling to build LLM applications: prompt templating and composition, agents, LLM memory, and other instruments for builders of AI applications.' GitHub: github.com/zmedelis/bosquet <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp7mtpueczj21km0te0zi.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 29 Apr 2024 05:21:55 GMT</pubDate>
-<pubDate>Mon, 29 Apr 2024 05:21:55 GMT</pubDate>
 </item>
-
 <item>
 <title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《多模态大模型：新一代人工智能技术范式 （全彩）》...</title>
 <link>https://weibo.com/1402400261/ObUgWuJF3</link>
@@ -12868,134 +12858,6 @@ Leaping 是一个简洁易用的 Python 测试调试工具，能够帮助用户�
 【VIGGLE：基于骨骼动画技术的AI视频生成工具】<br />- 上传人物角色图片和动作参考视频，Viggle AI可以自动将图片中的人物提取出来，匹配到参考视频的动作上，生成一致性的角色动画视频。  <br />- 利用骨骼动画技术，Viggle AI能够精准捕捉参考视频中人物的动作，并将其映射到静态图片角色上，实现动作的迁移和还原。  <br />- 整个视频生成过程高度自动化，用户只需上传图片和视频，无需手动调整，即可快速生成高质量的人物动画。<br />《VIGGLE》 <a href="https://viggle.ai/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <a href="https://video.weibo.com/show?fid=1034:5015034862960685"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可-爱生活的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/5396ee05ly1ho0pyw4vjlj20zk0k0aa6.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/PQVexIgOlx08dvlCz1rO01041200ab3h0E010.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711171244&amp;ssig=ip8oyDMWYY&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/oh4vtfIdlx08dvlC6w0E010412004xkP0E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711171244&amp;ssig=vk6bhYPmTk&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/UgbXpOkOlx08dvlC5mZq010412002OPL0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711171244&amp;ssig=df03%2FZd5YY&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5015034862960685" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
 <pubDate>Sat, 23 Mar 2024 02:31:30 GMT</pubDate>
-</item>
-<item>
-<title>【NLP入门指南：一文览尽自然语言处理的基本概念】《Natural Language Processing (NLP) [A Complete Guide]》 网页链接 #机器学习# #人工智能# [图片][图片][图...</title>
-<link>https://weibo.com/1402400261/O6ilu3Wss</link>
-<guid>https://weibo.com/1402400261/O6ilu3Wss</guid>
-<content:encoded><![CDATA[
-<div> NLP, 自然语言处理, 基本概念, 入门, 指南, 文章, 内容, 信息提取,语言模型
-
-自然语言处理(NLP)是一门研究如何使用计算机处理和分析人类语言的领域。本文为初学者提供了NLP的基本概念和指南，包括语言模型、信息提取等内容。通过阅读本文，读者可以更好地了解NLP的基本原理和应用。NLP有着广泛的应用领域，如机器翻译、情感分析、文本分类等。通过学习NLP，我们可以更好地理解和处理人类语言，为人工智能技术的发展做出贡献。<br /><br />总结:自然语言处理(NLP)是一门涉及语言模型和信息提取等基本概念的领域。通过学习NLP，我们可以更好地理解和处理人类语言，为人工智能技术的发展做出贡献。 <div>
-【NLP入门指南：一文览尽自然语言处理的基本概念】《Natural Language Processing (NLP) [A Complete Guide]》 <a href="https://www.deeplearning.ai/resources/natural-language-processing"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho0mg60avsj21900u0tdz.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho0mgmjx1kj21h90u0jvn.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho0mgnwo4kj21h90u0wjb.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho0mgplmy3j21h90u044t.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho0mgrblhkj21h90u0432.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho0mgt33llj21h90u0grj.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho0mgv1l7tj21h90u0wjj.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho0mgx8zdjj21h90u0q74.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho0mgyxituj21h90u0aep.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 00:30:10 GMT</pubDate>
-</item>
-<item>
-<title>【平凡中的非凡：AI 工具的日常应用启示录】- 作者分享了他使用 Claude 和 ChatGPT 完成临时任务的案例。 - 作者认为，这个案例最值得注意的地方在于它完全不值...</title>
-<link>https://weibo.com/1402400261/O6iiUb6Xt</link>
-<guid>https://weibo.com/1402400261/O6iiUb6Xt</guid>
-<content:encoded><![CDATA[
-<div> 平凡 非凡 AI 工具 日常应用 启示录 Claude ChatGPT 临时任务 成功 可靠 态度 信任
-
-<br /><br />总结:
-作者分享了使用Claude和ChatGPT完成临时任务的案例，并认为这种平凡的成功反映出AI工具的高度可靠性和应用价值。他对AI工具的信心和依赖启发我们思考其在日常工作中的作用，虽然轻描淡写，但背后透露出对AI工具的高度认可。文章提供了真实的使用场景，引发我们对AI工具在实践中的表现和影响的思考，让我们反思是否已经习以为常地依赖AI的能力。整体而言，文章独特的视角和真实的案例给了我们一些有价值的启示。 <div>
-【平凡中的非凡：AI 工具的日常应用启示录】<br />- 作者分享了他使用 Claude 和 ChatGPT 完成临时任务的案例。  <br />- 作者认为，这个案例最值得注意的地方在于它完全不值得注意，他每天都能从这些工具中获得类似的结果。  <br />- 作者对这个案例的成功并不感到惊讶，相反，如果它没有成功，他可能会有点惊讶。  <br />- 作者提供了与 Claude 和 ChatGPT 对话的完整记录。 <br /> <br />点评：<br />- 作者的观点颇具反直觉性，他认为这个案例之所以值得关注，恰恰是因为它已经变得司空见惯，这种看似平凡的成功背后，反映出 AI 工具已经达到了一个新的高度。  <br />- 作者对 AI 工具的信心和依赖，启发我们思考这些工具在日常工作中的应用价值和可靠性，它们正在悄然改变我们的工作方式。  <br />- 尽管作者没有对案例进行详细分析，但他的分享本身就具有一定的价值，它提供了一个真实的使用场景，让我们看到了 AI 工具在实践中的表现。  <br />- 作者的态度虽然轻描淡写，但背后透露出一种对 AI 工具的高度认可和信任，这种态度值得我们反思：我们是否也已经对 AI 的能力习以为常了?  <br />- 这篇文章虽然篇幅不长，但作者独特的视角和真实的使用案例，给了我们一些有价值的启示，引发了我们对 AI 工具在日常应用中的角色和影响的思考。<br />《Claude and ChatGPT for ad-hoc sidequests》 <a href="https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho0madax76j20u00v2gr5.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 00:23:49 GMT</pubDate>
-</item>
-<item>
-<title>【AI代替受试者：科技进步与风险防范的平衡之道】- 随着 GPT-4 等大型语言模型变得越来越复杂，一些研究人员逐渐接受人工智能可以在某些科学研究中取代人类参与...</title>
-<link>https://weibo.com/1402400261/O6iaDzKnw</link>
-<guid>https://weibo.com/1402400261/O6iaDzKnw</guid>
-<content:encoded><![CDATA[
-<div> 卡内基梅隆大学、大型语言模型、人工智能、研究、AI伦理、风险防范、科技进步、敏感话题、脆弱群体、科学研究。  
-
-总结:  
-卡内基梅隆大学的研究人员领导了一篇新的预印论文，综述了使用大型语言模型代替人类研究对象的想法，并引用了13项相关研究。一些提议认为AI生成的数据可以应用于研究敏感话题，避免将脆弱群体暴露在可能危险的实验中。然而，专家担心这种做法可能导致科研结果不严谨，而脆弱群体的脆弱性可能被AI放大。使用AI取代人类参与者在科研中具有争议性，一方面提高了效率，另一方面可能损害结果的有效性，需要谨慎思考。这一议题涉及技术、伦理、社会等多个维度，需要权衡利弊。文章揭示了一个富有争议但值得探讨的话题，为AI在科研中提供了新的视角。 <div>
-【AI代替受试者：科技进步与风险防范的平衡之道】<br />- 随着 GPT-4 等大型语言模型变得越来越复杂，一些研究人员逐渐接受人工智能可以在某些科学研究中取代人类参与者的想法。  <br />- 一篇新的预印论文综述了十多项已发表的研究，这些研究测试或提议使用大型语言模型来代替人类研究对象或分析研究结果。  <br />- 该论文由卡内基梅隆大学研究 AI 伦理和计算机视觉的 William Agnew 领导，引用了 13 项相关研究。  <br />- 一些最近的提议认为，AI 生成的数据可能对研究自杀等敏感话题有用，理论上可以避免将脆弱群体暴露在可能引发自杀念头的实验中。  <br />- 但许多专家担心这种做法可能会产生科学上不严谨的结果，脆弱群体的脆弱性在许多方面放大了用 AI 响应研究他们经历的危险。  <br /><br />点评：  <br />- 使用 AI 取代人类参与者的想法颇具争议，一方面它可能提高研究效率，另一方面却可能损害结果的有效性，这种矛盾值得深思。  <br />- 论文提出 AI 生成数据可用于研究敏感话题，但同时也引发了伦理问题，需要谨慎对待。  <br />- 专家对 AI 取代人类参与者的担忧不无道理，它提醒我们在追求科技进步的同时，不能忽视潜在的风险和负面影响。  <br />- 这一议题涉及 AI 与人类在科研中的角色定位问题，需要从技术、伦理、社会等多个维度进行全面思考和权衡。  <br />- 这篇文章揭示了一个富有争议但又引人深思的话题，为 AI 在科研中的应用提供了新的视角，值得进一步探讨。<br />《Can AI Replace Human Research Participants? These Scientists See Risks | Scientific American》 <a href="https://www.scientificamerican.com/article/can-ai-replace-human-research-participants-these-scientists-see-risks/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho0lp36kvqj20x10u0afb.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 00:03:27 GMT</pubDate>
-</item>
-<item>
-<title>【免费书稿：可微编程基础】- 一本关于概率图模型的教材的部分章节，主要介绍了联合概率分布、似然函数、最大后验推断、边缘推断等基本概念。 - 在联合概率分布...</title>
-<link>https://weibo.com/1402400261/O6i5FnWqP</link>
-<guid>https://weibo.com/1402400261/O6i5FnWqP</guid>
-<content:encoded><![CDATA[
-<div> 联合概率分布 似然函数 最大后验推断 边缘推断 概率依赖关系 概率分布 模型参数 观测数据 推断算法 马尔可夫链  
-<br />  
-<br />  
-总结:  
-本篇文章介绍了概率图模型中的基本概念，包括联合概率分布、似然函数、最大后验推断和边缘推断。通过详细讨论随机变量之间的概率依赖关系和模型参数与观测数据之间的关系，帮助读者理解概率图模型的核心思想。文章还介绍了期望值、凸包、边缘多面体等数学概念，用于描述概率分布的性质和推断任务的复杂性。由于精确推断的计算复杂度很高，因此设计高效的近似推断算法变得必要。最后，文章开始介绍如何用图模型表示随机过程，为后续章节的讨论做了铺垫。 <div>
-【免费书稿：可微编程基础】<br />- 一本关于概率图模型的教材的部分章节，主要介绍了联合概率分布、似然函数、最大后验推断、边缘推断等基本概念。  <br />- 在联合概率分布部分，详细讨论了随机变量之间的概率依赖关系，以及如何用概率分布来刻画这种关系。  <br />- 似然函数是概率图模型中的重要概念，它描述了模型参数与观测数据之间的关系，是许多推断算法的基础。  <br />- 最大后验推断和边缘推断是概率图模型中的两类重要推断任务，分别对应于寻找最可能的变量组合和计算变量的边缘概率分布。  <br />- 引入了期望值、凸包、边缘多面体等数学概念，用于刻画概率分布的性质和推断任务的复杂性。  <br />- 精确的推断通常具有很高的计算复杂度，因此需要设计高效的近似推断算法。  <br />- 在马尔可夫链部分，开始介绍如何用图模型来表示随机过程，为后续章节的讨论做铺垫。<br />《The Elements of Differentiable Programming》M Blondel, V Roulet [Google DeepMind] (2024) <a href="https://arxiv.org/abs/2403.14606"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho0lc8ag08j20u014cq5i.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 23:51:12 GMT</pubDate>
-</item>
-<item>
-<title>【博士论文：深度学习基础组成——一种范畴论方法】- 从范畴论的角度探讨了深度学习的基本组成部分，提出了一种新的理论框架。 - 引入"学习范畴"的概念，将深度...</title>
-<link>https://weibo.com/1402400261/O6i3mhm0n</link>
-<guid>https://weibo.com/1402400261/O6i3mhm0n</guid>
-<content:encoded><![CDATA[
-<div> 深度学习, 范畴论, 学习范畴, 监督学习, 无监督学习, 强化学习, 优化过程, 泛化能力, 跨学科, 学习算法
-
-<br /><br />总结:
-该博士论文从范畴论的角度探讨了深度学习的基础组成部分，引入了"学习范畴"的概念，将深度学习的组件抽象为范畴论中的对象和态射。论文分析了监督学习、无监督学习、强化学习在学习范畴中的表示，讨论了极限和余极限结构与优化过程、泛化能力的联系。还探讨了学习范畴与其他数学领域的关联，指出学习范畴理论有助于理解深度学习，并为设计新算法提供指导。展望了学习范畴论的未来发展方向，包括拓展到机器学习领域和与其他数学分支融合。 <div>
-【博士论文：深度学习基础组成——一种范畴论方法】<br />- 从范畴论的角度探讨了深度学习的基本组成部分，提出了一种新的理论框架。  <br />- 引入"学习范畴"的概念，将深度学习中的各种组件(如数据、模型、损失函数等)抽象为范畴论中的对象和态射，揭示了它们之间的内在联系。  <br />- 文章系统地分析了监督学习、无监督学习、强化学习等不同学习范式在学习范畴中的表示，展现了该理论框架的普适性。  <br />- 重点讨论了学习范畴中的极限和余极限结构，并证明了它们与深度学习中的优化过程和泛化能力之间的紧密联系。  <br />- 探讨了学习范畴与其他数学领域(如测度论、概率论、拓扑学)之间的关联，展现了深度学习的跨学科特性。  <br />- 学习范畴理论有助于从更高的抽象层次理解深度学习，为设计新的学习算法和架构提供了理论指导。  <br />- 展望了学习范畴论的进一步发展方向，包括将其拓展到更广泛的机器学习领域，以及与其他数学分支的深度融合。  <br />《Fundamental Components of Deep Learning: A category-theoretic approach》B Gavranović [University of Strathclyde] (2024) <a href="https://arxiv.org/abs/2403.13001"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho0l6fztvlj20pg148wil.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 23:45:30 GMT</pubDate>
-</item>
-<item>
-<title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@图灵文化 @图灵新知 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发...</title>
-<link>https://weibo.com/1402400261/O6hv9jfWp</link>
-<guid>https://weibo.com/1402400261/O6hv9jfWp</guid>
-<content:encoded><![CDATA[
-<div> 携手, 送出, hello算法, 可可粉, 数据结构, 算法, 动画图解, 实战代码示例, 互动环节
-
-总结:
-《hello算法》是一本以全新视角呈现数据结构与算法的书籍，配有生动的动画图解，让读者轻松掌握。书中提供实战代码示例，让读者即学即用，巩固新知识。同时设计了互动环节帮助读者主动思考、提问和解决问题。截止2024.3.29 12:00，转发并评论可参与送出3本书的活动，可可粉尽快参与哦！ <div>
-//<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%87%E5%8C%96">@图灵文化</a> <a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%B0%E7%9F%A5">@图灵新知</a> 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发+评论即可参与。带你轻松掌握数据结构与算法，以全新的视角带你进入算法的世界。书中的每一章节都配有生动的动画图解，让抽象的数据结构和算法变得直观易懂。实战代码示例让你即学即用，及时巩固新知识。互动环节的设计帮助你主动思考，提问和解决问题。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5014630549948449"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfciddvdj21pe24a7wh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfchthjaj20m80m8q6g.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfcht5csj20m80m8go5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzfchtze3j20m80m8ach.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfci9xvsj2494494e81.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnzfcht5xoj20m80m8mzj.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 22:21:14 GMT</pubDate>
-</item>
-<item>
-<title>//@爱可可-爱生活：明日开奖，欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截...</title>
-<link>https://weibo.com/1402400261/O6hv5AoXY</link>
-<guid>https://weibo.com/1402400261/O6hv5AoXY</guid>
-<content:encoded><![CDATA[
-<div> 大语言模型、工程实践、全彩、系统性、实践性、代码、作者杨青、训练经验、干货
-
-总结:<br /><br />明天将开奖，欢迎参与。一本名为《大语言模型：原理与工程实践(全彩)》的书籍正在进行赠书活动，截止日期为2024年3月24日12:00。这本书的特色在于揭开大语言模型的神秘面纱，透彻解读内在机理和应用实践，体现系统性和实践性，配有代码和全彩印刷。作者杨青是度小满轩辕大模型负责人，具备训练十亿、百亿、千亿等不同参数规模大语言模型的经验，在书中分享了丰富的干货和实践经验。快来参与转发评论，有机会获得这本经典书籍！ <div>
-//<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：明日开奖，欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.24 12:00，*可可粉*转发+评论即可参与。本书旨在揭开大语言模型的神秘面纱，透彻地解读其内在机理和应用实践。一大特色体现在其知识体系的系统性，另一大特色是对实践性的重视。配代码、全彩印刷。本书作者杨青是度小满轩辕大模型负责人，作为真正的大语言模型实践者，拥有十亿、百亿、千亿等不同参数规模大语言模型的训练经验。在本书中，这些经验都被毫无保留地融入其中，干货满满，绝非空谈。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5012867076850203"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb85d5j20m90m9jw5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8np7j20m90m90vz.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8bphj20m90m9789.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb9t7fj20m90m9dph.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvb8gi3j20m90m90xl.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvbf5k1j21hc0u0wud.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvbadpbj21dd0rsguo.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntsvbag7dj20rs0rs793.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb7ig9j20rs0m841y.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 22:21:06 GMT</pubDate>
-</item>
-<item>
-<title>今日推介(第1353期)：AI发展与内存墙(Memory Wall)、语义解码新时代、少阳本类增量学习技巧包、跟个性化有害阈值的生成式语言模型聊天、模型编辑统一框架 公·众...</title>
-<link>https://weibo.com/1402400261/O6huOyKvQ</link>
-<guid>https://weibo.com/1402400261/O6huOyKvQ</guid>
-<content:encoded><![CDATA[
-<div> AI发展、内存墙、语义解码、增量学习、个性化阈值、生成式语言模型、聊天、模型编辑、统一框架
-<br />
-<br />
-总结:本期推介介绍了AI发展与内存墙、语义解码新时代、少阳本类增量学习技巧包、具有个性化有害阈值的生成式语言模型聊天以及模型编辑统一框架。文章内容涵盖了AI技术的进步、语义解码的应用、增量学习的新思路、生成式语言模型的个性化应用和模型编辑的统一框架构建。通过这些介绍，读者可以了解最新的AI发展趋势和技术应用，以及相关的学习技巧和应用实例。整体而言，本期推介内容涵盖了AI技术领域的多个方面，是一次全面的了解和探讨。 <div>
-今日推介(第1353期)：AI发展与内存墙(Memory Wall)、语义解码新时代、少阳本类增量学习技巧包、跟个性化有害阈值的生成式语言模型聊天、模型编辑统一框架 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/688568613"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho0iplr89oj20go0cz0uc.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho0ipo7zm1j20go0xxwje.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho0ips1vckj20go09d3zg.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho0ipvcjofj20go0id0ul.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho0ipyioxqj20go093dgb.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 22:20:24 GMT</pubDate>
-</item>
-<item>
-<title>[CV] ReNoise: Real Image Inversion Through Iterative Noising 网页链接 ReNoise 通过迭代重加噪声精炼反演潜码估计的固定点迭代方法，实现高质量、高效率的扩...</title>
-<link>https://weibo.com/1402400261/O6hrhuyvs</link>
-<guid>https://weibo.com/1402400261/O6hrhuyvs</guid>
-<content:encoded><![CDATA[
-<div> 关键词: ReNoise, 迭代重加噪声, 反演潜码估计, 固定点迭代方法, 扩散模型, 高质量, 高效率
-
-总结:<br /><br />本文介绍了一种名为ReNoise的方法，通过迭代重加噪声的方式来精炼反演潜码估计。这种固定点迭代方法可实现高质量、高效率的扩散模型图像反演。 ReNoise算法不仅简单高效，而且具有较高的反演准确率和图像质量, 在图像处理和反演领域具有潜在的广泛应用前景。 <div>
-[CV] ReNoise: Real Image Inversion Through Iterative Noising  <br /><a href="https://arxiv.org/abs/2403.14602"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />ReNoise 通过迭代重加噪声精炼反演潜码估计的固定点迭代方法，实现高质量、高效率的扩散模型图像反演。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho0igw6raaj21281ag4me.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho0igw9rloj21120pon2c.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho0igwydikj21r00w0dt0.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 22:11:43 GMT</pubDate>
-</item>
-<item>
-<title>[CV] GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation 网页链接 GRM是首个将Transformer和像素对齐高斯集成的快速而...</title>
-<link>https://weibo.com/1402400261/O6hp1kbP6</link>
-<guid>https://weibo.com/1402400261/O6hp1kbP6</guid>
-<content:encoded><![CDATA[
-<div> 关键词: GRM, Transformer, 像素对齐, 高斯集成, 3D重建, 生成模型
-
-总结:<br /><br />
-本文介绍了一种名为GRM的大型高斯重建模型，它结合了Transformer和像素对齐高斯集成的技术，实现了快速而高质量的3D重建和生成。通过Transformer的应用，GRM能够更有效地处理大规模数据集，并在生成3D模型时保持像素级的精确性。该模型在实验中表现出色，展示了其在提高3D重建效率和质量方面的潜力。 <div>
-[CV] GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation  <br /><a href="https://arxiv.org/abs/2403.14621"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />GRM是首个将Transformer和像素对齐高斯集成的快速而高质量的3D重建与生成模型。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho0ib2baqfj20qk15y13b.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho0ib2ywavj20ve15m12p.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho0ib3k77nj21fo0rmn6m.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Fri, 22 Mar 2024 22:06:08 GMT</pubDate>
 </item>
 </channel>
 </rss>

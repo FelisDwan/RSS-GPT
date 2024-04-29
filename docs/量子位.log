@@ -4874,3 +4874,18 @@ Summarized using GPT-3.5-turbo
 Append: [#开源可商用GPT4v替代方案# GitHub 开源了一款表现接近 GPT-4V 的模型#InternVL#。它在多个基准测试中与 GPT-4V 和 Gemini Pro 旗鼓相当。另外，它还支持与现有...](https://weibo.com/6105753431/ObWyDkFM2)
 append_entries: 4
 Finish: 2024-04-29 08:16:02.151918
+------------------------------------------------------
+Started: 2024-04-29 10:12:45.143784
+Existing_entries: 604
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 295
+Summarized using GPT-3.5-turbo
+Append: [#首届无人驾驶F1方程赛# 8圈开了一个小时，首届AI方程式大赛最新落幕~据悉，在本次阿布扎比的 F1 赛道上，8 辆赛车使用了相同的轮胎、发动机和车身，唯一不同之...](https://weibo.com/6105753431/ObXXe1RhZ)
+Token length: 2
+Summarized using GPT-3.5-turbo
+Append: [#老黄称AI不会完全取代人类工作# 量子位的微博视频](https://weibo.com/6105753431/ObXBrwbBi)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [#新闻看点# #人工几十万，AI几十块！国产玩家证明了AIGC视频商业化威力#用遗传算法模拟汽车进化# 一边，以Sora为代表的文生视频Demo发布令世界震撼，新技术还在...](https://weibo.com/6105753431/ObXwKb1lJ)
+append_entries: 3
+Finish: 2024-04-29 10:13:01.591800
