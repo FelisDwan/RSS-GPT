@@ -4,6 +4,144 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>几篇论文实现代码：《Kosmos-G: Generating Images in Context with Multimodal Large Language Models》(ICLR 2024) GitHub: github.com/xichenpan/kosmos-g《M...</title>
+<link>https://weibo.com/1402400261/ObXkR84HZ</link>
+<guid>https://weibo.com/1402400261/ObXkR84HZ</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 图像生成, 文本提示, 三维编辑, 机器学习, SLAM, 网络模型, 数据集, 强化学习, 相对奖励<br>
+<br>
+总结: 
+本文提出了几篇论文的实现代码，涵盖了多个领域的前沿研究内容。其中涉及了图像生成、三维编辑、机器学习等重要领域。作者们通过利用大型语言模型生成图像、多模态SLAM技术以及神经网络模型等方法，取得了显著的研究成果。他们还提出了一些新的数据集和算法，来评估机器学习模型在不同任务上的表现。同时，作者们还探讨了如何利用强化学习和相对奖励来提高文本到图像生成的速度和准确性。这些工作对于推动人工智能领域的发展和应用具有重要意义。 <div>
+几篇论文实现代码：<br />《Kosmos-G: Generating Images in Context with Multimodal Large Language Models》(ICLR 2024) GitHub: github.com/xichenpan/kosmos-g<br />《Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization》(CVPR 2024) GitHub: github.com/princeton-vl/MultiSlam_DiffPose [fig1]<br />《PoNQ: a Neural QEM-based Mesh Representation》(CVPR 2024) GitHub: github.com/nissmar/PoNQ<br />《TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts》(SIGGRAPH Asia 2024) GitHub: github.com/zjy526223908/TIP-Editor<br />《UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models》(2024) GitHub: github.com/OPTML-Group/UnlearnCanvas [fig2]<br />《CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field》(2024) GitHub: github.com/hjr37/diff-gaussian-rasterization<br />《ZeST: Zero-Shot Material Transfer from a Single Image》(2024) GitHub: github.com/kealiu/ComfyUI-ZeroShot-MTrans [fig3]<br />《RL for Consistency Models: Faster Reward Guided Text-to-Image Generation》(2024) GitHub: github.com/Owen-Oertell/rlcm<br />《REBEL: Reinforcement Learning via Regressing Relative Rewards》(2024) GitHub: github.com/ZhaolinGao/REBEL<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp7mq7goezj220u0qnats.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp7nhu5288j21le0vi7wh.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp7nrrm68vj21mr0olagp.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 06:02:46 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 06:02:46 GMT</pubDate>
+</item>
+<item>
+<title>【Google Recaptcha Solver：一个Python脚本，能使用DrissionPage库在不到5秒的时间内解决Google reCAPTCHA，同时提供了一个名为Capsolver的AI服务，专门用于自...</title>
+<link>https://weibo.com/1402400261/ObXkjxo12</link>
+<guid>https://weibo.com/1402400261/ObXkjxo12</guid>
+<content:encoded><![CDATA[
+<div> Google Recaptcha Solver, Python脚本, DrissionPage库, 解决Google reCAPTCHA, Capsolver AI服务, 自动解决验证码<br>
+<br>
+本文介绍了一个名为Google Recaptcha Solver的Python脚本，使用DrissionPage库可以在不到5秒的时间内解决Google reCAPTCHA。同时也提供了一个名为Capsolver的AI服务，专门用于自动解决多种类型的验证码。这个脚本为用户提供了一种快速有效地解决验证码问题的方法，大大节省了用户的时间和精力。Capsolver的出现，使得用户可以更加轻松地完成需要验证码验证的任务，提高了用户体验。总体来说，Google Recaptcha Solver是一个方便实用的工具，为用户提供了更好的验证码解决方案。<br><br> 
+**总结:** <br>通过使用Google Recaptcha Solver的Python脚本和Capsolver AI服务，用户可以在不到5秒的时间内解决Google reCAPTCHA和其他类型的验证码，大大提高了用户的效率和体验。 <div>
+【Google Recaptcha Solver：一个Python脚本，能使用DrissionPage库在不到5秒的时间内解决Google reCAPTCHA，同时提供了一个名为Capsolver的AI服务，专门用于自动解决多种类型的验证码】'Google Recaptcha Solver - Solve Google reCAPTCHA in less than 5 seconds! 🚀' GitHub: github.com/sarperavci/GoogleRecaptchaBypass <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp7nymyciqj21740kwn0c.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 06:01:26 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 06:01:26 GMT</pubDate>
+</item>
+<item>
+<title>【Netprobe Lite：用 Python 编写的简单高效的互联网性能测试工具，用于测量家庭互联网服务提供商(ISP)的性能，包括数据包丢失、延迟、抖动和DNS性能等指标】'Ne...</title>
+<link>https://weibo.com/1402400261/ObXjVBgkO</link>
+<guid>https://weibo.com/1402400261/ObXjVBgkO</guid>
+<content:encoded><![CDATA[
+<div> Python, Netprobe Lite, 互联网性能测试工具, ISP, 数据包丢失, 延迟, 抖动, DNS, GitHub
+
+<br><br>总结:
+Netprobe Lite 是一个用 Python 编写的简单高效的互联网性能测试工具，主要用于测量家庭互联网服务提供商（ISP）的性能。该工具可以测量数据包丢失率、延迟、抖动以及DNS性能等指标，帮助用户了解网络连接质量和稳定性。用户可以通过 GitHub 上的代码仓库访问 Netprobe Lite 的代码并进行使用。该工具提供了便捷的方式来评估和监测网络性能，对于需要对网络连接质量进行评估的用户来说是一个很实用的工具。 <div>
+【Netprobe Lite：用 Python 编写的简单高效的互联网性能测试工具，用于测量家庭互联网服务提供商(ISP)的性能，包括数据包丢失、延迟、抖动和DNS性能等指标】'Netprobe Lite - Simple internet performance tester written in Python' GitHub: github.com/plaintextpackets/netprobe_lite <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp7nxttuf0j21740huacy.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 06:00:29 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 06:00:29 GMT</pubDate>
+</item>
+<item>
+<title>【LLM-Prompt-Library 为多种大型语言模型（如GPT-4、Claude、Llama3等）设计的高级代码和文本操作提示库】'Advanced LLM Prompts Repository - Advanced Code a...</title>
+<link>https://weibo.com/1402400261/ObXjnlQro</link>
+<guid>https://weibo.com/1402400261/ObXjnlQro</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 高级代码, 文本操作, 提示库, 大型语言模型, GPT-4, Claude, Llama3, GitHub, 开源, 高性能
+
+在当前的技术发展中，大型语言模型（LLM）变得越来越普遍。为了更好地利用这些高级模型，开发了一个名为LLM-Prompt-Library的高级代码和文本操作提示库。该库适用于多种大型语言模型，如GPT-4、Claude、Llama3等，还能与其他高性能的开源LLM兼容。通过GitHub这个平台，开发者们可以轻松地获取和分享这个提示库，从而提升他们在代码和文本操作中的效率和灵活性。<br><br>总结: 提高了LLM的应用效率和灵活性，适用于多种高性能开源模型，通过GitHub平台方便获取和分享。 <div>
+【LLM-Prompt-Library 为多种大型语言模型（如GPT-4、Claude、Llama3等）设计的高级代码和文本操作提示库】'Advanced LLM Prompts Repository - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performing open-source LLMs.' GitHub: github.com/abilzerian/LLM-Prompt-Library <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp7nvz8vdij21740lagoz.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 05:59:07 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 05:59:07 GMT</pubDate>
+</item>
+<item>
+<title>【LocalVocal：用于 OBS 的开源插件，利用人工智能进行本地语音识别和实时字幕生成，支持多种语言，无需 GPU、云端服务或网络连接】’LocalVocal - Speech AI as...</title>
+<link>https://weibo.com/1402400261/ObXix2L9m</link>
+<guid>https://weibo.com/1402400261/ObXix2L9m</guid>
+<content:encoded><![CDATA[
+<div> 插件，开源，人工智能，语音识别，实时字幕，多语言，无需GPU，无需云端，无需网络连接
+
+<br><br>总结:
+LocalVocal是一个用于OBS的开源插件，利用人工智能进行本地语音识别和实时字幕生成，支持多种语言，无需GPU、云端服务或网络连接。用户可以通过GitHub找到这个项目，轻松使用这个功能强大的插件。 <div>
+【LocalVocal：用于 OBS 的开源插件，利用人工智能进行本地语音识别和实时字幕生成，支持多种语言，无需 GPU、云端服务或网络连接】’LocalVocal - Speech AI assistant OBS Plugin - OBS plugin for local speech recognition and captioning using AI' GitHub: github.com/occ-ai/obs-localvocal <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp7nu1knu6j20ua0u0afs.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 05:57:02 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 05:57:02 GMT</pubDate>
+</item>
+<item>
+<title>【Langtrace：开源的端到端可观测性工具，用于支持大型语言模型（LLM）应用，提供实时追踪、评估和度量功能，遵循Open Telemetry标准，并支持Typescript和Python...</title>
+<link>https://weibo.com/1402400261/ObXi3c0Pc</link>
+<guid>https://weibo.com/1402400261/ObXi3c0Pc</guid>
+<content:encoded><![CDATA[
+<div> LLM、端到端可观测性工具、开源、实时追踪、评估、度量功能、Open Telemetry标准、Typescript、Python集成、GitHub
+
+总结:<br><br>Langtrace是一款开源的端到端可观测性工具，专为支持大型语言模型（LLM）应用而设计。该工具遵循Open Telemetry标准，提供实时追踪、评估和度量功能，可用于对流行的LLM、LLM框架和向量数据库进行监测。Langtrace支持Typescript和Python的集成，用户可以在GitHub上找到相关信息。 <div>
+【Langtrace：开源的端到端可观测性工具，用于支持大型语言模型（LLM）应用，提供实时追踪、评估和度量功能，遵循Open Telemetry标准，并支持Typescript和Python集成】'Langtrace - an open-source, Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python.' GitHub: github.com/Scale3-Labs/langtrace <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hp7nt97qg2j20u00yk42d.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 05:55:51 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 05:55:51 GMT</pubDate>
+</item>
+<item>
+<title>【HaystackDB：高性能、可扩展的向量数据库，使用 Rust 编写，支持二进制嵌入、JSON 查询过滤，并且具有持久化、分布式架构设计】'HaystackDB' GitHub: github.c...</title>
+<link>https://weibo.com/1402400261/ObXh9eshC</link>
+<guid>https://weibo.com/1402400261/ObXh9eshC</guid>
+<content:encoded><![CDATA[
+<div> 高性能、可扩展、向量数据库、Rust、二进制嵌入、JSON 查询、持久化、分布式架构<br>
+<br>
+<br>
+总结：<br>
+HaystackDB 是一个高性能、可扩展的向量数据库，使用 Rust 编写。它支持二进制嵌入和 JSON 查询过滤，具有持久化和分布式架构设计。通过 HaystackDB，用户可以快速存储和检索向量数据，同时利用其强大的功能特点实现高效的数据管理和查询操作。HaystackDB 的开源代码托管在 GitHub 上，为用户提供了可靠的数据库解决方案，适用于各种数据存储和查询需求。HaystackDB 的 Rust 实现保证了其稳定性和性能优势，使其成为一个值得关注和使用的新型数据库技术。HaystackDB 的持久化和分布式架构设计为用户提供了更灵活和可靠的数据管理方式，在大规模数据处理和分布式环境下具有良好的适用性。通过深入了解 HaystackDB 的特性和优势，用户可以更好地利用其功能，实现高效的数据存储和查询操作，提升数据处理效率和性能表现。HaystackDB 的不断优化和发展为用户提供了持续改进和更新的保障，使其成为一个具有长期使用潜力和发展前景的数据库解决方案。 <div>
+【HaystackDB：高性能、可扩展的向量数据库，使用 Rust 编写，支持二进制嵌入、JSON 查询过滤，并且具有持久化、分布式架构设计】'HaystackDB' GitHub: github.com/carsonpo/haystackdb <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp7nqpemowj21740o4juh.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 05:53:38 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 05:53:38 GMT</pubDate>
+</item>
+<item>
+<title>【KRAGEN：结合知识图谱、检索增强生成（RAG）和高级提示技术来解决复杂问题的自然语言处理工具，通过将知识图谱转换为向量数据库，并使用RAG检索相关事实，辅以...</title>
+<link>https://weibo.com/1402400261/ObXgJkSqL</link>
+<guid>https://weibo.com/1402400261/ObXgJkSqL</guid>
+<content:encoded><![CDATA[
+<div> 知识图谱、检索增强生成、高级提示技术、自然语言处理、向量数据库、RAG、图思考、复杂问题、解决方案
+
+KRAGEN是一种自然语言处理工具，结合知识图谱、检索增强生成（RAG）和高级提示技术来解决复杂问题。它将知识图谱转换为向量数据库，并使用RAG检索相关事实，辅以图思考技术动态分解问题，最终提供解决方案。该工具可以在GitHub上找到，提供了一种实现图思考的软件方法。KRAGEN的功能能够有效应对复杂问题并提供准确的解决方案。总结：<br><br>知识图谱、RAG和高级提示技术被结合应用到自然语言处理中，转化为向量数据库，并使用图思考技术，提供动态解决方案。 <div>
+【KRAGEN：结合知识图谱、检索增强生成（RAG）和高级提示技术来解决复杂问题的自然语言处理工具，通过将知识图谱转换为向量数据库，并使用RAG检索相关事实，辅以图思考（GoT）技术动态分解问题，最终提供解决方案】'KRAGEN - Software to implement GoT with a weviate vectorized database' GitHub: github.com/EpistasisLab/KRAGEN <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp7npugbwwj20u00zqjw6.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp7npv93qlj21gh0u0qa3.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 05:52:36 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 05:52:36 GMT</pubDate>
+</item>
+<item>
+<title>【memary: 旨在为自主Agent提供长期记忆机制，以克服 LLM 因为有限的上下文窗口而带来的限制】'memary: Open-Source Longterm Memory for Autonomous Agents - L...</title>
+<link>https://weibo.com/1402400261/ObX5R2erg</link>
+<guid>https://weibo.com/1402400261/ObX5R2erg</guid>
+<content:encoded><![CDATA[
+<div> Open-Source, Longterm Memory, Autonomous Agents, GitHub, 记忆机制, 自主Agent, 限制, 上下文窗口, 解决, 开源
+
+<br><br>总结:
+该项目旨在为自主Agent提供长期记忆机制以克服LLM因为有限的上下文窗口而带来的限制。这个开源项目名为memary，可在GitHub上找到。通过memary，自主Agent可以更好地处理长期记忆，从而提高其行为和决策的准确性和效率。这个项目为研究人员和开发者提供了一个有用的工具，以改善自主Agent的表现和应用。 <div>
+【memary: 旨在为自主Agent提供长期记忆机制，以克服 LLM 因为有限的上下文窗口而带来的限制】'memary: Open-Source Longterm Memory for Autonomous Agents - Longterm Memory for Autonomous Agents.' GitHub: github.com/kingjulio8238/memary <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp7mxze2stj20yo0u042m.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 05:25:48 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 05:25:48 GMT</pubDate>
+</item>
+<item>
+<title>'LLMOps for Large Language Model-based applications - Tooling to build LLM applications: prompt templating and composition, agents, LLM memory, and ot...</title>
+<link>https://weibo.com/1402400261/ObX4hvgvy</link>
+<guid>https://weibo.com/1402400261/ObX4hvgvy</guid>
+<content:encoded><![CDATA[
+<div> GitHub, LLMOps, Large Language Model, Tooling, prompt templating, agents, LLM memory, AI applications
+
+总结:<br><br>
+本文介绍了LLMOps工具，用于构建基于大型语言模型的应用程序。这些工具包括prompt模板和组合、代理、LLM内存等工具，可以帮助AI应用程序的开发者快速构建应用程序。GitHub链接提供了更多详细信息和工具的下载。 <div>
+'LLMOps for Large Language Model-based applications - Tooling to build LLM applications: prompt templating and composition, agents, LLM memory, and other instruments for builders of AI applications.' GitHub: github.com/zmedelis/bosquet <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp7mtpueczj21km0te0zi.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 05:21:55 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 05:21:55 GMT</pubDate>
+</item>
 
 <item>
 <title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《多模态大模型：新一代人工智能技术范式 （全彩）》...</title>

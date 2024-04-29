@@ -6925,3 +6925,39 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-29 06:15:46.158873
+------------------------------------------------------
+Started: 2024-04-29 08:16:03.334922
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1150
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Kosmos-G: Generating Images in Context with Multimodal Large Language Models》(ICLR 2024) GitHub: github.com/xichenpan/kosmos-g《M...](https://weibo.com/1402400261/ObXkR84HZ)
+Token length: 252
+Summarized using GPT-3.5-turbo
+Append: [【Google Recaptcha Solver：一个Python脚本，能使用DrissionPage库在不到5秒的时间内解决Google reCAPTCHA，同时提供了一个名为Capsolver的AI服务，专门用于自...](https://weibo.com/1402400261/ObXkjxo12)
+Token length: 210
+Summarized using GPT-3.5-turbo
+Append: [【Netprobe Lite：用 Python 编写的简单高效的互联网性能测试工具，用于测量家庭互联网服务提供商(ISP)的性能，包括数据包丢失、延迟、抖动和DNS性能等指标】'Ne...](https://weibo.com/1402400261/ObXjVBgkO)
+Token length: 305
+Summarized using GPT-3.5-turbo
+Append: [【LLM-Prompt-Library 为多种大型语言模型（如GPT-4、Claude、Llama3等）设计的高级代码和文本操作提示库】'Advanced LLM Prompts Repository - Advanced Code a...](https://weibo.com/1402400261/ObXjnlQro)
+Token length: 226
+Summarized using GPT-3.5-turbo
+Append: [【LocalVocal：用于 OBS 的开源插件，利用人工智能进行本地语音识别和实时字幕生成，支持多种语言，无需 GPU、云端服务或网络连接】’LocalVocal - Speech AI as...](https://weibo.com/1402400261/ObXix2L9m)
+Token length: 389
+Summarized using GPT-3.5-turbo
+Append: [【Langtrace：开源的端到端可观测性工具，用于支持大型语言模型（LLM）应用，提供实时追踪、评估和度量功能，遵循Open Telemetry标准，并支持Typescript和Python...](https://weibo.com/1402400261/ObXi3c0Pc)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [【HaystackDB：高性能、可扩展的向量数据库，使用 Rust 编写，支持二进制嵌入、JSON 查询过滤，并且具有持久化、分布式架构设计】'HaystackDB' GitHub: github.c...](https://weibo.com/1402400261/ObXh9eshC)
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [【KRAGEN：结合知识图谱、检索增强生成（RAG）和高级提示技术来解决复杂问题的自然语言处理工具，通过将知识图谱转换为向量数据库，并使用RAG检索相关事实，辅以...](https://weibo.com/1402400261/ObXgJkSqL)
+Token length: 197
+Summarized using GPT-3.5-turbo
+Append: [【memary: 旨在为自主Agent提供长期记忆机制，以克服 LLM 因为有限的上下文窗口而带来的限制】'memary: Open-Source Longterm Memory for Autonomous Agents - L...](https://weibo.com/1402400261/ObX5R2erg)
+Token length: 239
+Summarized using GPT-3.5-turbo
+Append: ['LLMOps for Large Language Model-based applications - Tooling to build LLM applications: prompt templating and composition, agents, LLM memory, and ot...](https://weibo.com/1402400261/ObX4hvgvy)
+append_entries: 10
+Finish: 2024-04-29 08:16:50.738246

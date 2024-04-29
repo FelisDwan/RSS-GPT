@@ -4856,3 +4856,21 @@ Summarized using GPT-3.5-turbo
 Append: [#雅诗兰黛官宣与微软合作# 生成式 AI 开始涉足美妆领域了~雅诗兰黛与微软宣布，将合作成立新的人工智能创新实验室。预计微软的Azure OpenAI服务将帮助该公司的 2...](https://weibo.com/6105753431/ObVWkrkOG)
 append_entries: 3
 Finish: 2024-04-29 06:15:41.016346
+------------------------------------------------------
+Started: 2024-04-29 08:15:42.712386
+Existing_entries: 600
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 63
+Summarized using GPT-3.5-turbo
+Append: [#用遗传算法模拟汽车进化# Hacker News 上有网友分享了自己从头编写的利用遗传算法模拟汽车进化的项目，目前在GitHub开源~[来] 在线体验：网页链接 量子位的微博...](https://weibo.com/6105753431/ObWI6ltxQ)
+Token length: 389
+Summarized using GPT-3.5-turbo
+Append: [#Sora大片其实有人工特效参与##Sora被指误导大众# 啊？Sora火爆短片《气球人》，也“造假”了？？？背后艺术家团队的最新揭秘，可谓一石激起千层浪：原来，视频...](https://weibo.com/6105753431/ObWHNF2FP)
+Token length: 300
+Summarized using GPT-3.5-turbo
+Append: [#大模型理解侧与生成侧融合##可自我更新的AI来了# 哭死啊，全球狂炼大模型，一互联网的数据不够用，根本不够用。训练模型搞得跟《饥饿游戏》似的，全球AI研究者...](https://weibo.com/6105753431/ObWH0dLhO)
+Token length: 99
+Summarized using GPT-3.5-turbo
+Append: [#开源可商用GPT4v替代方案# GitHub 开源了一款表现接近 GPT-4V 的模型#InternVL#。它在多个基准测试中与 GPT-4V 和 Gemini Pro 旗鼓相当。另外，它还支持与现有...](https://weibo.com/6105753431/ObWyDkFM2)
+append_entries: 4
+Finish: 2024-04-29 08:16:02.151918
