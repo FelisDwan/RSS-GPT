@@ -6871,3 +6871,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/ObRjR7XzG)
 append_entries: 0
 Finish: 2024-04-28 22:10:27.362528
+------------------------------------------------------
+Started: 2024-04-29 00:52:19.749097
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 219
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《多模态大模型：新一代人工智能技术范式 （全彩）》...](https://weibo.com/1402400261/ObUgWuJF3)
+Token length: 122
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1390期)：基于LLM的自动工作流生成、LLM评估器识别并偏爱自己生成的内容、音乐一致性模型、在多个GPU上扩展NeRF、调整您的步骤:优化扩散模型中的采样...](https://weibo.com/1402400261/ObUgK44Dv)
+Token length: 203
+Summarized using GPT-3.5-turbo
+Append: [[CL] Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data 网页链接 通过构建三种不同的分析任务，发现使用在策略采样或负梯度的方法通...](https://weibo.com/1402400261/ObUbYk1XH)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [[LG] Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey 网页链接 对大模型参数高效微调的算法和系统实现进行全面调研，综述该领域的...](https://weibo.com/1402400261/ObU8Nchfe)
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [[LG] A Survey on the Memory Mechanism of Large Language Model based Agents 网页链接 首次全面调研了LLM Agent的记忆机制，讨论其定义、作用、实现和评估，...](https://weibo.com/1402400261/ObU4X5ENf)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [[CV] How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites 网页链接 提出开源多模态语言模型InternVL 1.5，通...](https://weibo.com/1402400261/ObU1Ckq2p)
+Token length: 204
+Summarized using GPT-3.5-turbo
+Append: [通过随机分析方法建立采样schedule优化框架，可针对特定条件进行优化从而提升少步采样效果质量，是第一个可以普适改进输出效果的schedule优化方法。 - 转发 @爱...](https://weibo.com/1402400261/ObTZ4p43H)
+Token length: 119
+Summarized using GPT-3.5-turbo
+Append: [[CV]《Align Your Steps: Optimizing Sampling Schedules in Diffusion Models》A Sabour, S Fidler, K Kreis [NVIDIA] (2024) 网页链接 #机器学习##人工智能##...](https://weibo.com/1402400261/ObTYVzjPB)
+Token length: 217
+Summarized using GPT-3.5-turbo
+Append: [通过联合训练和重写积分方程等技术手段，实现了NeRF在多GPU上的可扩展性，使其重建质量和渲染效率随GPU数量 linerarly scale，是首个揭示NeRF的多GPU扩展定律。 ...](https://weibo.com/1402400261/ObTVbk1L7)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [[CV]《NeRF-XL: Scaling NeRFs with Multiple GPUs》R Li, S Fidler, A Kanazawa, F Williams [NVIDIA & UC Berkeley] (2024) 网页链接 #机器学习##人工智能##论...](https://weibo.com/1402400261/ObTV0bUeT)
+append_entries: 10
+Finish: 2024-04-29 00:52:57.353203
