@@ -7073,3 +7073,39 @@ Summarized using GPT-3.5-turbo
 Append: [【StarCoder2-15B-Instruct-v0.1：首个完全自我对齐的代码生成大型语言模型(LLM)，通过全透明和开放的管线训练而成，实现了72.6的HumanEval得分，超越了CodeLlam...](https://weibo.com/1402400261/Oc4l73zZj)
 append_entries: 5
 Finish: 2024-04-30 04:14:57.884960
+------------------------------------------------------
+Started: 2024-04-30 06:15:06.448421
+Existing_entries: 1005
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 95
+Summarized using GPT-3.5-turbo
+Append: ['linux 编程环境学习笔记，含 linux 基本命令，linux 操作系统，linux 下 C++ 编程等' GitHub: github.com/jinbooooom/linux #开源# #Linux# [图片]](https://weibo.com/1402400261/Oc6yUg9jr)
+Token length: 284
+Summarized using GPT-3.5-turbo
+Append: [【AWS官方提供的关于在AWS上进行大规模模型分布式训练的最佳实践、参考架构、模型训练示例和工具的集合】'ML Training Reference Architectures & Tests - Colle...](https://weibo.com/1402400261/Oc6qUzOOL)
+Token length: 209
+Summarized using GPT-3.5-turbo
+Append: [【Create TSI：低代码生成 AI 应用的 RAG(Retrieval-Augmented Generation)工具包】'Create TSI - Create-tsi is a generative AI RAG toolkit which generates ...](https://weibo.com/1402400261/Oc6fH8tKQ)
+Token length: 306
+Summarized using GPT-3.5-turbo
+Append: [【XCap：用 Rust 编写的跨平台的屏幕捕获库，它支持 Linux(X11,Wayland)、MacOS 与 Windows。XCap 支持截图与视频录制(待实现)】’XCap - a cross-platform scre...](https://weibo.com/1402400261/Oc6dfplVz)
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [【cortex：为深度学习系统设计的模块化架构库，支持多任务、引导生成和多模态模型】'cortex - A Modular Architecture for Deep Learning Systems - A Modular A...](https://weibo.com/1402400261/Oc6cpySlk)
+Token length: 176
+Summarized using GPT-3.5-turbo
+Append: [【GPTLint：利用大型语言模型(LLM)来强化代码库最佳实践的代码质量检查工具】'GPTLint - A linter with superpowers! Use LLMs to enforce best practices acros...](https://weibo.com/1402400261/Oc69DrsG9)
+Token length: 78
+Summarized using GPT-3.5-turbo
+Append: ['基于C++开发的视频行为分析系统v4系统' GitHub: github.com/any12345com/BXC_VideoAnalyzer_v4 #开源# #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/Oc68Tsj50)
+Token length: 116
+Summarized using GPT-3.5-turbo
+Append: ['中文羊驼大模型三期项目 (Chinese Llama-3 LLMs) developed from Meta Llama 3' GitHub: github.com/ymcui/Chinese-LLaMA-Alpaca-3 #开源# #机器学习# #人工智...](https://weibo.com/1402400261/Oc66q0f6i)
+Token length: 310
+Summarized using GPT-3.5-turbo
+Append: [【Kaytu：一个开源工具，旨在帮助工程、DevOps和SRE团队通过分析实际使用情况推荐最优的工作负载配置，以减少云成本】'Kaytu - The Kaytu CLI helps you save on...](https://weibo.com/1402400261/Oc6528Ebk)
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [【LLM Datasets：为大型语言模型(LLM)微调提供高质量数据集、工具和概念的公共库】'LLM Datasets - High-quality datasets, tools, and concepts for LLM fine-t...](https://weibo.com/1402400261/Oc62p5juj)
+append_entries: 10
+Finish: 2024-04-30 06:15:52.007151

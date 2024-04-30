@@ -4952,3 +4952,12 @@ Existing_entries: 610
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-04-30 04:14:32.657841
+------------------------------------------------------
+Started: 2024-04-30 06:14:57.732572
+Existing_entries: 610
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 439
+Summarized using GPT-3.5-turbo
+Append: [#神秘AI能力太强被疑GPT-4.5#一夜之间，大模型话题王，再次易主。一个神秘模型突然杀入众人视野，能力超越一众开源模型，甚至包括GPT-4。几乎所有人都在谈论它，...](https://weibo.com/6105753431/Oc5bSoLv0)
+append_entries: 1
+Finish: 2024-04-30 06:15:05.216234
