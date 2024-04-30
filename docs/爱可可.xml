@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>几篇论文实现代码：《HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention》(CVPR 2024) GitHub: github.com/XiaolongTang23/HPNet [f...</title>
 <link>https://weibo.com/1402400261/Oc6EV9JaA</link>
@@ -11,7 +12,7 @@
 <content:encoded><![CDATA[
 <div> HPNet, Dynamic Trajectory Forecasting, Historical Prediction Attention, CVPR 2024, GitHub, XiaolongTang23, VadCLIP, Vision-Language Models, Weakly Supervised Video Anomaly Detection, AAAI 2024, nwpu-zxr, 2D Gaussian Splatting, Geometrically Accurate Radiance Fields, TimSong412, HandNeRF, Hand-Object Interaction Scene, Single RGB Image, Hongsukchoi, MolTC, Molecular Relational Modeling, Language Models, MangoKiller, Protein design, Guided Discrete Diffusion, prescient-design, Segment Any 3D Object, Language, CVRP-SOLE, CorrespondentDream, 3D Fidelity, Text-to-3D, Cross-View Correspondences, wookiekim, Ag2Manip, Learning, Novel Manipulation Skills, Agent-Agnostic Visual, Action Representations, Xiaoyao-Li  
   
-<br><br>总结:  
+<br /><br />总结:  
 《HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention》提出了一种动态轨迹预测方法，利用历史预测关注力来提高预测准确性，GitHub链接为github.com/XiaolongTang23/HPNet。  
 《VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection》针对弱监督视频异常检测问题，提出了VadCLIP方法，并在AAAI 2024上发表，GitHub链接为github.com/nwpu-zxr/VadCLIP。  
 《2D Gaussian Splatting for Geometrically Accurate Radiance Fields》介绍了一种2D高斯散开法，用于准确计算辐射场，GitHub链接为github.com/TimSong412/2D-surfel-gaussian。  
@@ -24,7 +25,6 @@
 几篇论文实现代码：<br />《HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention》(CVPR 2024) GitHub: github.com/XiaolongTang23/HPNet [fig3] <br />《VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection》(AAAI 2024) GitHub: github.com/nwpu-zxr/VadCLIP [fig2]<br />《2D Gaussian Splatting for Geometrically Accurate Radiance Fields》(2024) GitHub: github.com/TimSong412/2D-surfel-gaussian<br />《HandNeRF: Learning to Reconstruct Hand-Object Interaction Scene from a Single RGB Image》(2024) GitHub: github.com/hongsukchoi/HandNeRF_RELEASE [fig1]<br />《MolTC: Towards Molecular Relational Modeling In Language Models》(2024) GitHub: github.com/MangoKiller/MolTC<br />《Protein design with guided discrete diffusion》(2024) GitHub: github.com/prescient-design/cortex<br />《Segment Any 3D Object with Language》(2024) GitHub: github.com/CVRP-SOLE/SOLE<br />《CorrespondentDream: Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences》(2024) GitHub: github.com/wookiekim/CorrespondentDream<br />《Ag2Manip: Learning Novel Manipulation Skills with Agent-Agnostic Visual and Action Representations》(2024) GitHub: github.com/Xiaoyao-Li/Ag2Manip [fig4]<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp8qu9c84pj20xw0bq7ca.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp8qwp9rf8j21ji0um7kl.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp8ranf824j25qt1hhe82.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp8sjmbotsj217q0b7dwk.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Tue, 30 Apr 2024 05:46:55 GMT</pubDate>
-<pubDate>Tue, 30 Apr 2024 05:46:55 GMT</pubDate>
 </item>
 <item>
 <title>【Dokploy：开源的自托管平台即服务(PaaS)，简化了使用 Docker 和 Traefik 部署和管理应用程序及数据库的过程】'Dokploy - Open Source Alternative to Vercel, ...</title>
@@ -33,14 +33,12 @@
 <content:encoded><![CDATA[
 <div> 开源、自托管、平台即服务、简化、部署、Docker、Traefik、应用程序、数据库
 
-<br><br>总结:
+<br /><br />总结:
 Dokploy是一个开源的自托管平台即服务，可以简化使用Docker和Traefik部署和管理应用程序及数据库的过程。用户可以通过GitHub找到Dokploy的代码仓库。相比于Vercel、Netlify和Heroku等平台，Dokploy提供了一种开源替代方案，让用户能够更灵活地部署和管理他们的应用程序。通过Dokploy，用户可以更方便地实现应用程序的部署和管理，提高开发效率并降低运维成本。Dokploy的开源特性使得用户可以根据自己的需求进行定制和扩展，满足不同用户的个性化需求。使用Dokploy可以让开发者更轻松地搭建自己的应用程序环境，提供了一种更自由、更灵活的选择。 <div>
 【Dokploy：开源的自托管平台即服务(PaaS)，简化了使用 Docker 和 Traefik 部署和管理应用程序及数据库的过程】'Dokploy - Open Source Alternative to Vercel, Netlify and Heroku.' GitHub: github.com/Dokploy/dokploy <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hp8t5uj9arj20yk0u0gpu.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Tue, 30 Apr 2024 05:46:49 GMT</pubDate>
-<pubDate>Tue, 30 Apr 2024 05:46:49 GMT</pubDate>
 </item>
-
 <item>
 <title>'linux 编程环境学习笔记，含 linux 基本命令，linux 操作系统，linux 下 C++ 编程等' GitHub: github.com/jinbooooom/linux #开源# #Linux# [图片]</title>
 <link>https://weibo.com/1402400261/Oc6yUg9jr</link>
@@ -12877,32 +12875,6 @@ WSL Manager 是一个用户友好的小软件，可以帮助用户轻松管理 W
 'RefactorGraph - 分层解耦的深度学习推理引擎' GitHub: github.com/InfiniTensor/RefactorGraph <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho21xtlr6xj214w0u0q7z.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 24 Mar 2024 06:10:54 GMT</pubDate>
-</item>
-<item>
-<title>【Mistral Transformer：用于运行和微调Mistral 7B模型的简洁代码】’Mistral Transformer - minimal code to run our 7B model and to finetune it’ GitHub: g...</title>
-<link>https://weibo.com/1402400261/O6tXzobsR</link>
-<guid>https://weibo.com/1402400261/O6tXzobsR</guid>
-<content:encoded><![CDATA[
-<div> GitHub, Mistral Transformer, 运行, 微调, 7B模型, 简洁代码
-
-<br /><br />总结:
-Mistral Transformer是一个用于运行和微调Mistral 7B模型的工具，提供了简洁的代码。用户可以在GitHub上找到相关代码。该工具可帮助用户快速运行和微调模型，提高工作效率。 <div>
-【Mistral Transformer：用于运行和微调Mistral 7B模型的简洁代码】’Mistral Transformer - minimal code to run our 7B model and to finetune it’ GitHub: github.com/mistralai-sf24/hackathon <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho21qpbzv0j21be0u0gqy.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho21qtnqeyj22k40u0794.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 06:04:13 GMT</pubDate>
-</item>
-<item>
-<title>【Lapdev：自托管远程开发环境管理系统，可以在服务器或云服务器上建立和管理远程开发环境】'Lapdev - Self-Hosted Remote Dev Environment' GitHub: github.com...</title>
-<link>https://weibo.com/1402400261/O6tHorWH1</link>
-<guid>https://weibo.com/1402400261/O6tHorWH1</guid>
-<content:encoded><![CDATA[
-<div> 自托管、远程、开发环境、管理系统、服务器、云服务器、建立、管理、lapdev、GitHub<br />
-<br />
-总结：<br />
-文章介绍了 Lapdev 系统，它是一个自托管的远程开发环境管理系统，可以在服务器或云服务器上建立和管理开发环境。用户可以通过 GitHub 上的 lapce/lapdev 找到该系统的详细信息和代码。该系统的主要特点包括自托管、远程开发环境、服务器和云服务器部署支持，以及便于管理开发环境的功能。通过 Lapdev，用户可以方便地搭建和管理自己的开发环境，提高开发效率。 <div>
-【Lapdev：自托管远程开发环境管理系统，可以在服务器或云服务器上建立和管理远程开发环境】'Lapdev - Self-Hosted Remote Dev Environment' GitHub: github.com/lapce/lapdev <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E5%8F%91%23&amp;isnewpage=1"><span class="surl-text">#开发#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho20l3dc63j21ek0u0din.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 05:24:22 GMT</pubDate>
 </item>
 </channel>
 </rss>
