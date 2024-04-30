@@ -7010,3 +7010,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/Oc0pObn99)
 append_entries: 0
 Finish: 2024-04-29 22:10:47.496322
+------------------------------------------------------
+Started: 2024-04-30 00:51:08.427125
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 224
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：明日开奖，欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《多模态大模型：新一代人工智能技术范式 ...](https://weibo.com/1402400261/Oc3F6fwu9)
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1391期)：LLM驱动的游戏叙事中玩家驱动的突发性、LLM评估对基准分布假设的鲁棒性检验、自适应位宽量化感知训练、对抗贝叶斯分类器的对抗性一致性和唯...](https://weibo.com/1402400261/Oc3Cmdj0a)
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [[IR] A Survey of Generative Search and Recommendation in the Era of Large Language Models 网页链接 生成式检索与推荐通过生成模型直接生成文档/项目标识符...](https://weibo.com/1402400261/Oc3vioIjL)
+Token length: 139
+Summarized using GPT-3.5-turbo
+Append: [[CV] MovieChat+: Question-aware Sparse Memory for Long Video Question Answering 网页链接 提出ProblemChat+框架，通过问题感知记忆机制与预训练语言模型的...](https://weibo.com/1402400261/Oc3rmj3Us)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [提出在室内大场景条件下，通过集成激光与视觉的SLAM方法以及高斯splatting渲染技术，实现了高精度的3D环境重建。 - 转发 @爱可可-爱生活:&ensp;[RO]《SLAM for I...](https://weibo.com/1402400261/Oc3p3bnFd)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [[RO]《SLAM for Indoor Mapping of Wide Area Construction Environments》V Ress, W Zhang, D Skuddis, N Haala, U Soergel [University of Stuttgart] (2024) ...](https://weibo.com/1402400261/Oc3p0e4km)
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [通过对抗贝叶斯分类器的唯一性刻画了对抗学习中凸损失一致性的充要条件，从统计角度深化了对抗学习的理解。 - 转发 @爱可可-爱生活:&ensp;[LG]《Adversarial Con...](https://weibo.com/1402400261/Oc3ljoGMN)
+Token length: 126
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Adversarial Consistency and the Uniqueness of the Adversarial Bayes Classifier》N S. Frank [New York University] (2024) 网页链接 #机器学习##人工...](https://weibo.com/1402400261/Oc3lfEJwu)
+Token length: 212
+Summarized using GPT-3.5-turbo
+Append: [AdaQAT是一种自适应学习DNN混合精度量化位宽的方法，通过梯度优化实数表示的位宽参数，实现了权重和激活信号的统一量化，既可以从零开始训练也可以微调预训练的...](https://weibo.com/1402400261/Oc3gohTMM)
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: [[LG]《AdaQAT: Adaptive Bit-Width Quantization-Aware Training》C Gernigon, S Filip, O Sentieys… [Inria] (2024) 网页链接 #机器学习##人工智能##论文# [图...](https://weibo.com/1402400261/Oc3gkBfad)
+append_entries: 10
+Finish: 2024-04-30 00:51:57.021237
