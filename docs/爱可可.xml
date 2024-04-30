@@ -5,21 +5,57 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>几篇论文实现代码：《HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention》(CVPR 2024) GitHub: github.com/XiaolongTang23/HPNet [f...</title>
+<link>https://weibo.com/1402400261/Oc6EV9JaA</link>
+<guid>https://weibo.com/1402400261/Oc6EV9JaA</guid>
+<content:encoded><![CDATA[
+<div> HPNet, Dynamic Trajectory Forecasting, Historical Prediction Attention, CVPR 2024, GitHub, XiaolongTang23, VadCLIP, Vision-Language Models, Weakly Supervised Video Anomaly Detection, AAAI 2024, nwpu-zxr, 2D Gaussian Splatting, Geometrically Accurate Radiance Fields, TimSong412, HandNeRF, Hand-Object Interaction Scene, Single RGB Image, Hongsukchoi, MolTC, Molecular Relational Modeling, Language Models, MangoKiller, Protein design, Guided Discrete Diffusion, prescient-design, Segment Any 3D Object, Language, CVRP-SOLE, CorrespondentDream, 3D Fidelity, Text-to-3D, Cross-View Correspondences, wookiekim, Ag2Manip, Learning, Novel Manipulation Skills, Agent-Agnostic Visual, Action Representations, Xiaoyao-Li  
+  
+<br><br>总结:  
+《HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention》提出了一种动态轨迹预测方法，利用历史预测关注力来提高预测准确性，GitHub链接为github.com/XiaolongTang23/HPNet。  
+《VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection》针对弱监督视频异常检测问题，提出了VadCLIP方法，并在AAAI 2024上发表，GitHub链接为github.com/nwpu-zxr/VadCLIP。  
+《2D Gaussian Splatting for Geometrically Accurate Radiance Fields》介绍了一种2D高斯散开法，用于准确计算辐射场，GitHub链接为github.com/TimSong412/2D-surfel-gaussian。  
+《HandNeRF: Learning to Reconstruct Hand-Object Interaction Scene from a Single RGB Image》描述了利用单一RGB图像学习重建手-物体交互场景的HandNeRF方法，GitHub链接为github.com/hongsukchoi/HandNeRF_RELEASE。  
+《MolTC: Towards Molecular Relational Modeling In Language Models》致力于在语言模型中实现分子关系建模，GitHub链接为github.com/MangoKiller/MolTC。  
+《Protein design with guided discrete diffusion》介绍了引导离散扩散方法来进行蛋白设计，GitHub链接为github.com/prescient-design/cortex。  
+《Segment Any 3D Object with Language》提出了一种基于语言的任意3D物体分割方法，GitHub链接为github.com/CVRP-SOLE/SOLE。  
+《CorrespondentDream: Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences》利用交叉视图对应关系来提高文本到3D图像的精度，GitHub链接为github.com/wookiekim/CorrespondentDream。  
+《Ag2Manip: Learning Novel Manipulation Skills with Agent-Agnostic Visual and Action Representations》描述了一种利用视觉和动作表示学习新的操纵技能的方法，GitHub链接为github.com/Xiaoyao-Li/Ag2Manip。 <div>
+几篇论文实现代码：<br />《HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention》(CVPR 2024) GitHub: github.com/XiaolongTang23/HPNet [fig3] <br />《VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection》(AAAI 2024) GitHub: github.com/nwpu-zxr/VadCLIP [fig2]<br />《2D Gaussian Splatting for Geometrically Accurate Radiance Fields》(2024) GitHub: github.com/TimSong412/2D-surfel-gaussian<br />《HandNeRF: Learning to Reconstruct Hand-Object Interaction Scene from a Single RGB Image》(2024) GitHub: github.com/hongsukchoi/HandNeRF_RELEASE [fig1]<br />《MolTC: Towards Molecular Relational Modeling In Language Models》(2024) GitHub: github.com/MangoKiller/MolTC<br />《Protein design with guided discrete diffusion》(2024) GitHub: github.com/prescient-design/cortex<br />《Segment Any 3D Object with Language》(2024) GitHub: github.com/CVRP-SOLE/SOLE<br />《CorrespondentDream: Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences》(2024) GitHub: github.com/wookiekim/CorrespondentDream<br />《Ag2Manip: Learning Novel Manipulation Skills with Agent-Agnostic Visual and Action Representations》(2024) GitHub: github.com/Xiaoyao-Li/Ag2Manip [fig4]<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hp8qu9c84pj20xw0bq7ca.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp8qwp9rf8j21ji0um7kl.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hp8ranf824j25qt1hhe82.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hp8sjmbotsj217q0b7dwk.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 30 Apr 2024 05:46:55 GMT</pubDate>
+<pubDate>Tue, 30 Apr 2024 05:46:55 GMT</pubDate>
+</item>
+<item>
+<title>【Dokploy：开源的自托管平台即服务(PaaS)，简化了使用 Docker 和 Traefik 部署和管理应用程序及数据库的过程】'Dokploy - Open Source Alternative to Vercel, ...</title>
+<link>https://weibo.com/1402400261/Oc6ESv6zz</link>
+<guid>https://weibo.com/1402400261/Oc6ESv6zz</guid>
+<content:encoded><![CDATA[
+<div> 开源、自托管、平台即服务、简化、部署、Docker、Traefik、应用程序、数据库
+
+<br><br>总结:
+Dokploy是一个开源的自托管平台即服务，可以简化使用Docker和Traefik部署和管理应用程序及数据库的过程。用户可以通过GitHub找到Dokploy的代码仓库。相比于Vercel、Netlify和Heroku等平台，Dokploy提供了一种开源替代方案，让用户能够更灵活地部署和管理他们的应用程序。通过Dokploy，用户可以更方便地实现应用程序的部署和管理，提高开发效率并降低运维成本。Dokploy的开源特性使得用户可以根据自己的需求进行定制和扩展，满足不同用户的个性化需求。使用Dokploy可以让开发者更轻松地搭建自己的应用程序环境，提供了一种更自由、更灵活的选择。 <div>
+【Dokploy：开源的自托管平台即服务(PaaS)，简化了使用 Docker 和 Traefik 部署和管理应用程序及数据库的过程】'Dokploy - Open Source Alternative to Vercel, Netlify and Heroku.' GitHub: github.com/Dokploy/dokploy <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hp8t5uj9arj20yk0u0gpu.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 30 Apr 2024 05:46:49 GMT</pubDate>
+<pubDate>Tue, 30 Apr 2024 05:46:49 GMT</pubDate>
+</item>
+
+<item>
 <title>'linux 编程环境学习笔记，含 linux 基本命令，linux 操作系统，linux 下 C++ 编程等' GitHub: github.com/jinbooooom/linux #开源# #Linux# [图片]</title>
 <link>https://weibo.com/1402400261/Oc6yUg9jr</link>
 <guid>https://weibo.com/1402400261/Oc6yUg9jr</guid>
 <content:encoded><![CDATA[
-<div> Linux、编程环境、学习、基本命令、操作系统、C++、GitHub、笔记、程序开发、开源<br>
-<br>
-Linux 编程环境学习笔记是关于在 Linux 系统下学习程序开发的一份资料，其中包含了 Linux 的基本命令和操作系统知识。通过学习这份笔记，你可以掌握在 Linux 环境下进行 C++ 编程的基本技能。GitHub 上有这份笔记的详细内容，可以进一步深入学习和了解。<br>
-<br>
-总结: <br>
-1. 提供了学习 Linux 编程环境和基本命令的学习笔记。<br>
-2. 包含了 Linux 操作系统相关的知识和 C++ 编程技能。<br>
-3. GitHub 上有详细的资料供深入学习。<br> <div>
+<div> Linux、编程环境、学习、基本命令、操作系统、C++、GitHub、笔记、程序开发、开源<br />
+<br />
+Linux 编程环境学习笔记是关于在 Linux 系统下学习程序开发的一份资料，其中包含了 Linux 的基本命令和操作系统知识。通过学习这份笔记，你可以掌握在 Linux 环境下进行 C++ 编程的基本技能。GitHub 上有这份笔记的详细内容，可以进一步深入学习和了解。<br />
+<br />
+总结: <br />
+1. 提供了学习 Linux 编程环境和基本命令的学习笔记。<br />
+2. 包含了 Linux 操作系统相关的知识和 C++ 编程技能。<br />
+3. GitHub 上有详细的资料供深入学习。<br /> <div>
 'linux 编程环境学习笔记，含 linux 基本命令，linux 操作系统，linux 下 C++ 编程等' GitHub: github.com/jinbooooom/linux <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Linux%23"><span class="surl-text">#Linux#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp8sqpcc1uj216v0u0jw7.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 30 Apr 2024 05:32:06 GMT</pubDate>
 <pubDate>Tue, 30 Apr 2024 05:32:06 GMT</pubDate>
 </item>
 <item>
@@ -27,12 +63,11 @@ Linux 编程环境学习笔记是关于在 Linux 系统下学习程序开发的�
 <link>https://weibo.com/1402400261/Oc6qUzOOL</link>
 <guid>https://weibo.com/1402400261/Oc6qUzOOL</guid>
 <content:encoded><![CDATA[
-<div> GitHub、分布式训练、模型、训练示例、工具、最佳实践、参考架构、大规模、AWS<br>
-<br>总结：<br>
+<div> GitHub、分布式训练、模型、训练示例、工具、最佳实践、参考架构、大规模、AWS<br />
+<br />总结：<br />
 该文章介绍了在AWS平台上实施大规模模型分布式训练的最佳实践、参考架构、模型训练示例和工具集合。通过GitHub仓库提供的内容，用户可以了解如何在AWS上进行大规模模型训练，包括最佳实践、参考架构和使用工具的示例。这些资源能够帮助用户更好地利用AWS平台进行模型训练，提高训练效率和性能。 <div>
 【AWS官方提供的关于在AWS上进行大规模模型分布式训练的最佳实践、参考架构、模型训练示例和工具的集合】'ML Training Reference Architectures &amp; Tests - Collection of best practices, reference architectures, model training examples and utilities to train large models on AWS.' GitHub: github.com/aws-samples/awsome-distributed-training <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp8s6be0hdj20x60u0wjh.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 30 Apr 2024 05:12:25 GMT</pubDate>
 <pubDate>Tue, 30 Apr 2024 05:12:25 GMT</pubDate>
 </item>
 <item>
@@ -40,12 +75,11 @@ Linux 编程环境学习笔记是关于在 Linux 系统下学习程序开发的�
 <link>https://weibo.com/1402400261/Oc6fH8tKQ</link>
 <guid>https://weibo.com/1402400261/Oc6fH8tKQ</guid>
 <content:encoded><![CDATA[
-<div> 低代码生成、AI 应用、RAG、工具包、Create TSI、GitHub、generative AI、低代码、生成、应用<br>
-<br>
+<div> 低代码生成、AI 应用、RAG、工具包、Create TSI、GitHub、generative AI、低代码、生成、应用<br />
+<br />
 提到了一个名为Create TSI的RAG工具包，可以帮助生成低代码的AI应用。这个工具包可以在GitHub上找到，可以生成具有创造性的AI应用，而且只需要很少的代码。Create TSI的生成方式采用了Retrieval-Augmented Generation技术，可以有效提高生成的效率和质量。这个工具包是一个强大的工具，对于需要快速生成AI应用的开发者来说是一种很好的选择。 <div>
 【Create TSI：低代码生成 AI 应用的 RAG(Retrieval-Augmented Generation)工具包】'Create TSI - Create-tsi is a generative AI RAG toolkit which generates AI Applications with low code.' GitHub: github.com/telekom/create-tsi <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp8rcedgv7j21ji0jqdjq.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 30 Apr 2024 04:44:46 GMT</pubDate>
 <pubDate>Tue, 30 Apr 2024 04:44:46 GMT</pubDate>
 </item>
 <item>
@@ -55,11 +89,10 @@ Linux 编程环境学习笔记是关于在 Linux 系统下学习程序开发的�
 <content:encoded><![CDATA[
 <div> Rust, 跨平台, 屏幕捕获库, Linux, MacOS, Windows, 截图, 视频录制, GitHub
 
-<br><br>
+<br /><br />
 总结: XCap 是一个用 Rust 编写的跨平台屏幕捕获库，支持 Linux (X11, Wayland)、MacOS 和 Windows。它可以进行截图并计划实现视频录制功能。项目地址在 GitHub 上：github.com/nashaofu/xcap。 <div>
 【XCap：用 Rust 编写的跨平台的屏幕捕获库，它支持 Linux(X11,Wayland)、MacOS 与 Windows。XCap 支持截图与视频录制(待实现)】’XCap - a cross-platform screen capture library written in Rust. It supports Linux (X11, Wayland), MacOS, and Windows. XCap supports screenshot and video recording (to be implemented).' GitHub: github.com/nashaofu/xcap <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp8r7949x8j21600u0776.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 30 Apr 2024 04:38:45 GMT</pubDate>
 <pubDate>Tue, 30 Apr 2024 04:38:45 GMT</pubDate>
 </item>
 <item>
@@ -68,13 +101,12 @@ Linux 编程环境学习笔记是关于在 Linux 系统下学习程序开发的�
 <guid>https://weibo.com/1402400261/Oc6cpySlk</guid>
 <content:encoded><![CDATA[
 <div> 模块化架构库、深度学习系统、多任务、引导生成、多模态模型、GitHub、cortex
-<br>
-<br>
+<br />
+<br />
 总结:
 文章介绍了cortex，这是一个为深度学习系统设计的模块化架构库，支持多任务、引导生成和多模态模型。该库的GitHub页面为github.com/prescient-design/cortex。cortex的设计旨在提供灵活性和可扩展性，使用户可以轻松构建复杂的深度学习系统。采用模块化设计的cortex能够支持不同类型的任务并且提供更好的模型性能。此外，cortex还提供了引导生成和多模态模型的支持，使用户能够更好地处理多样的数据类型和任务要求。通过使用cortex，用户可以更便捷地开发深度学习系统，从而加速模型的研发和部署过程。 <div>
 【cortex：为深度学习系统设计的模块化架构库，支持多任务、引导生成和多模态模型】'cortex - A Modular Architecture for Deep Learning Systems - A Modular Architecture for Deep Learning Systems' GitHub: github.com/prescient-design/cortex <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp8r4y47vlj210d0u0ae6.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 30 Apr 2024 04:36:41 GMT</pubDate>
 <pubDate>Tue, 30 Apr 2024 04:36:41 GMT</pubDate>
 </item>
 <item>
@@ -84,11 +116,10 @@ Linux 编程环境学习笔记是关于在 Linux 系统下学习程序开发的�
 <content:encoded><![CDATA[
 <div> GPTLint, 代码质量检查工具, 大型语言模型, 强化最佳实践, 代码库, GitHub, linter, best practices, superpowers, enforcement
 
-<br><br>总结:
+<br /><br />总结:
 GPTLint是一个利用大型语言模型(LLM)的代码质量检查工具，旨在强化代码库最佳实践。通过GitHub上的项目，用户可以使用该工具来确保代码符合最佳实践标准，并具有超级功能。GPTLint可以帮助开发团队在编写代码时更加规范，从而提高代码质量。通过结合LLMs的能力，GPTLint提供了一种强大的方式来进行代码质量检查，帮助开发人员提升编程技能和代码质量。 <div>
 【GPTLint：利用大型语言模型(LLM)来强化代码库最佳实践的代码质量检查工具】'GPTLint - A linter with superpowers! Use LLMs to enforce best practices across your codebase.' GitHub: github.com/gptlint/gptlint <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp8qy2kvk2j20u00yfjvb.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 30 Apr 2024 04:29:51 GMT</pubDate>
 <pubDate>Tue, 30 Apr 2024 04:29:51 GMT</pubDate>
 </item>
 <item>
@@ -98,11 +129,10 @@ GPTLint是一个利用大型语言模型(LLM)的代码质量检查工具，旨�
 <content:encoded><![CDATA[
 <div> 视频行为分析系统、C++开发、GitHub、版本4、系统、代码库、功能强大、视频处理、行为识别
 
-<br><br>总结:
+<br /><br />总结:
 该文章介绍了基于C++开发的视频行为分析系统v4系统，代码库托管在GitHub上。该系统版本更新至第4版，具有强大的功能，可进行视频处理和行为识别。 <div>
 '基于C++开发的视频行为分析系统v4系统' GitHub: github.com/any12345com/BXC_VideoAnalyzer_v4 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp8qvlmcguj21hc0u00zf.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 30 Apr 2024 04:28:01 GMT</pubDate>
 <pubDate>Tue, 30 Apr 2024 04:28:01 GMT</pubDate>
 </item>
 <item>
@@ -112,12 +142,11 @@ GPTLint是一个利用大型语言模型(LLM)的代码质量检查工具，旨�
 <content:encoded><![CDATA[
 <div> 关键词: 中文羊驼大模型三期项目, Meta Llama 3, GitHub, ymcui, Alpaca 3
 
-<br><br>
+<br /><br />
 总结: 
 该项目是基于Meta Llama 3发展的中文羊驼大模型三期项目。代码存储在GitHub上，地址为github.com/ymcui/Chinese-LLaMA-Alpaca-3。项目旨在提供高质量的中文语言模型，为自然语言处理领域的研究和应用提供支持。通过使用Alpaca 3模型，用户可以获得更准确、更精确的中文语言处理结果。如果你是需要中文语言处理模型的研究人员或开发者，可以通过GitHub了解更多关于该项目的信息。 <div>
 '中文羊驼大模型三期项目 (Chinese Llama-3 LLMs) developed from Meta Llama 3' GitHub: github.com/ymcui/Chinese-LLaMA-Alpaca-3 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp8qps8dfbj20zz0u0tfw.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 30 Apr 2024 04:21:55 GMT</pubDate>
 <pubDate>Tue, 30 Apr 2024 04:21:55 GMT</pubDate>
 </item>
 <item>
@@ -127,11 +156,10 @@ GPTLint是一个利用大型语言模型(LLM)的代码质量检查工具，旨�
 <content:encoded><![CDATA[
 <div> 开源工具、工程团队、DevOps、SRE团队、云成本、分析实际使用情况、推荐最优工作负载配置、减少云成本、GitHub、历史使用情况分析、定制化建议
 
-<br><br>总结:
+<br /><br />总结:
 开源工具Kaytu是一个CLI工具，旨在帮助工程、DevOps和SRE团队通过分析实际使用情况推荐最优的工作负载配置，以减少云成本。Kaytu通过分析历史使用情况提供定制化建议，确保你只支付所需资源的成本。GitHub链接为github.com/kaytu-io/kaytu。Kaytu的功能包括分析历史使用情况，提供定制化建议，帮助节省云成本。通过Kaytu工具，用户可以找到最适合的服务器规格，避免浪费资源。Kaytu的使用简单高效，适用于各种工程团队和SRE团队。 <div>
 【Kaytu：一个开源工具，旨在帮助工程、DevOps和SRE团队通过分析实际使用情况推荐最优的工作负载配置，以减少云成本】'Kaytu - The Kaytu CLI helps you save on cloud costs by finding the perfect server sizes. Kaytu analyzes historical usage and provides tailored recommendations, ensuring you only pay for the resources you need.' GitHub: github.com/kaytu-io/kaytu <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp8qlcb8hnj20wb0u0djg.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 30 Apr 2024 04:18:30 GMT</pubDate>
 <pubDate>Tue, 30 Apr 2024 04:18:30 GMT</pubDate>
 </item>
 <item>
@@ -140,14 +168,12 @@ GPTLint是一个利用大型语言模型(LLM)的代码质量检查工具，旨�
 <guid>https://weibo.com/1402400261/Oc62p5juj</guid>
 <content:encoded><![CDATA[
 <div> 数据集、工具、概念、高质量、LLM、微调、公共库、GitHub、mlabonne、llm-datasets
-<br><br>总结:
+<br /><br />总结:
 LLM Datasets是一个旨在为大型语言模型(LLM)微调提供高质量数据集、工具和概念的公共库。该库包含丰富的数据集、工具和概念，方便用户进行LLM的微调工作。用户可以在GitHub上找到该项目，通过mlabonne/llm-datasets访问相关信息。通过这个项目，用户可以轻松地找到用于LLM微调的高质量数据集和工具，提升模型的性能和效果。 <div>
 【LLM Datasets：为大型语言模型(LLM)微调提供高质量数据集、工具和概念的公共库】'LLM Datasets - High-quality datasets, tools, and concepts for LLM fine-tuning.' GitHub: github.com/mlabonne/llm-datasets <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp8qfhpcz4j20u00x70yi.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Tue, 30 Apr 2024 04:12:01 GMT</pubDate>
-<pubDate>Tue, 30 Apr 2024 04:12:01 GMT</pubDate>
 </item>
-
 <item>
 <title>【在GPU上进行矩阵乘法时，使用“可预测”数据可以提高运算速度】- 矩阵乘法在GPU上的速度受到数据内容的影响，与直觉相反。 - 使用CUTLASS库进行矩阵乘法时，性...</title>
 <link>https://weibo.com/1402400261/Oc4wii2o9</link>
@@ -12877,132 +12903,6 @@ Mistral Transformer是一个用于运行和微调Mistral 7B模型的工具，提
 【Lapdev：自托管远程开发环境管理系统，可以在服务器或云服务器上建立和管理远程开发环境】'Lapdev - Self-Hosted Remote Dev Environment' GitHub: github.com/lapce/lapdev <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E5%8F%91%23&amp;isnewpage=1"><span class="surl-text">#开发#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho20l3dc63j21ek0u0din.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 24 Mar 2024 05:24:22 GMT</pubDate>
-</item>
-<item>
-<title>恭喜@Litoch 等3名用户获得【《大语言模型：原理与工程实践(全彩)》】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：网页...</title>
-<link>https://weibo.com/1402400261/O6takDgUm</link>
-<guid>https://weibo.com/1402400261/O6takDgUm</guid>
-<content:encoded><![CDATA[
-<div> 大语言模型，抽奖，书籍，作者，知识体系，实践性，代码，全彩印刷，杨青，训练经验
-
-<br /><br />总结:
-微博举办了抽奖活动，恭喜3名幸运用户获得了《大语言模型：原理与工程实践(全彩)》一书。该书由杨青撰写，旨在揭开大语言模型的神秘面纱，透彻解读其内在机理和应用实践。书籍特色包括系统性的知识体系和实践性的重视，配有代码和全彩印刷。作者具有大语言模型实践经验，在书中分享了训练经验和干货内容，让读者能够深入了解和运用大语言模型。活动截止时间为2024年3月24日12:00，感兴趣的用户可转发和评论参与抽奖。 <div>
-恭喜<a href="https://weibo.com/n/Litoch">@Litoch</a> 等3名用户获得【《大语言模型：原理与工程实践(全彩)》】。微博官方唯一抽奖工具<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> 对本次抽奖进行监督，结果公正有效。公示链接：<a href="https://lottery.media.weibo.com/lottery/h5/result/new?id=20198320&amp;pageid=100140E51188562"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.24 12:00，*可可粉*转发+评论即可参与。本书旨在揭开大语言模型的神秘面纱，透彻地解读其内在机理和应用实践。一大特色体现在其知识体系的系统性，另一大特色是对实践性的重视。配代码、全彩印刷。本书作者杨青是度小满轩辕大模型负责人，作为真正的大语言模型实践者，拥有十亿、百亿、千亿等不同参数规模大语言模型的训练经验。在本书中，这些经验都被毫无保留地融入其中，干货满满，绝非空谈。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5012867076850203"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb85d5j20m90m9jw5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8np7j20m90m90vz.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8bphj20m90m9789.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb9t7fj20m90m9dph.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvb8gi3j20m90m90xl.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvbf5k1j21hc0u0wud.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvbadpbj21dd0rsguo.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntsvbag7dj20rs0rs793.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb7ig9j20rs0m841y.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 04:02:55 GMT</pubDate>
-</item>
-<item>
-<title>【Nvidia提供的在线免费新课】1、Generative AI Explained 网页链接 2、Building A Brain in 10 Minutes | NVIDIA 网页链接 3、Augment your LLM Using Retrieva...</title>
-<link>https://weibo.com/1402400261/O6su8CHHx</link>
-<guid>https://weibo.com/1402400261/O6su8CHHx</guid>
-<content:encoded><![CDATA[
-<div> Generative AI, Building A Brain, Retrieval Augmented Generation, AI in the Data Center, Data Science Workflows, Zero Code Changes
-
-<br /><br />总结:
-Nvidia提供了一系列在线免费新课程，涵盖了各种人工智能领域的主题。其中包括Generative AI的解释，如何在10分钟内构建一个大脑，使用Retrieval Augmented Generation增强LLM，以及在数据中心中应用人工智能等内容。此外，还探讨了如何加速数据科学工作流程而无需进行任何代码更改。这些课程为学习人工智能提供了宝贵资源，帮助人们更好地了解和应用这一领域的知识。 <div>
-【Nvidia提供的在线免费新课】<br />1、Generative AI Explained <a href="https://courses.nvidia.com/courses/course-v1:DLI+S-FX-07+V1/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <br />2、Building A Brain in 10 Minutes | NVIDIA <a href="https://courses.nvidia.com/courses/course-v1:DLI+T-FX-01+V1/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <br />3、Augment your LLM Using Retrieval Augmented Generation <a href="https://courses.nvidia.com/courses/course-v1:NVIDIA+S-FX-16+v1/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />4、AI in the Data Center <a href="https://www.coursera.org/learn/introduction-ai-data-center"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br />5、Accelerate Data Science Workflows with Zero Code Changes <a href="https://courses.nvidia.com/courses/course-v1:DLI+T-DS-03+V1/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho1v8fg0o7j20xc0istgb.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 02:18:58 GMT</pubDate>
-</item>
-<item>
-<title>【LlamaIndex+Mistral开发指南】《Build Cool Stuff with Mistral! (RAG, Agents) - Google Slides》 网页链接 #机器学习# #人工智能# [图片][图片]</title>
-<link>https://weibo.com/1402400261/O6s9ndzLj</link>
-<guid>https://weibo.com/1402400261/O6s9ndzLj</guid>
-<content:encoded><![CDATA[
-<div> Agents, RAG, Google Slides, Mistral, 开发, 指南, Cool Stuff, Build, LlamaIndex
-
-<br /><br />总结:
-本文介绍了如何使用Mistral来构建各种酷炫的项目。首先介绍了Agents和RAG这两个重要概念，然后详细讲解了在Google Slides上如何进行开发。通过本文，读者可以学习到如何利用Mistral来打造各种有趣的项目，为开发者提供了一份详细的指南。 <div>
-【LlamaIndex+Mistral开发指南】《Build Cool Stuff with Mistral! (RAG, Agents) - Google Slides》 <a href="https://docs.google.com/presentation/d/1dbfoxzNcoI-D45RKZfO1UfBJIr4v0YtHhj1cwuCj020/edit"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho1tr8xzhtj21fo0u0wgu.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho1tr98b7yj21jm0u0q8i.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 01:27:48 GMT</pubDate>
-</item>
-<item>
-<title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@图灵文化 @图灵新知 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发...</title>
-<link>https://weibo.com/1402400261/O6rNW8q5w</link>
-<guid>https://weibo.com/1402400261/O6rNW8q5w</guid>
-<content:encoded><![CDATA[
-<div> 携手、送出、hello算法、可可粉、数据结构、算法、动画图解、实战代码示例、互动环节<br />
-<br />
-数据结构和算法是计算机科学中的重要知识点，掌握它们对于编程能力的提高至关重要。《hello算法》这本书以全新的视角带你进入算法的世界，通过生动的动画图解，让抽象的概念变得直观易懂。每一章都提供实战代码示例，帮助读者即学即用，巩固所学知识。书中设计了互动环节，帮助读者主动思考、提问和解决问题。通过携手转发和评论，可可粉可以有机会获得这本书，轻松入门数据结构与算法，提升编程技能。<br /><br />总结:数据结构和算法是计算机科学中的重要知识点，而《hello算法》这本书以全新的视角带你轻松掌握这些概念。书中生动的动画图解、实战代码示例和互动环节设计，让读者能够直观理解、应用和巩固所学的知识。通过参与活动，可可粉有机会获得这本书，提升自己的编程能力。 <div>
-//<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%87%E5%8C%96">@图灵文化</a> <a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%B0%E7%9F%A5">@图灵新知</a> 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发+评论即可参与。带你轻松掌握数据结构与算法，以全新的视角带你进入算法的世界。书中的每一章节都配有生动的动画图解，让抽象的数据结构和算法变得直观易懂。实战代码示例让你即学即用，及时巩固新知识。互动环节的设计帮助你主动思考，提问和解决问题。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5014630549948449"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfciddvdj21pe24a7wh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfchthjaj20m80m8q6g.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfcht5csj20m80m8go5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzfchtze3j20m80m8ach.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfci9xvsj2494494e81.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnzfcht5xoj20m80m8mzj.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 00:34:59 GMT</pubDate>
-</item>
-<item>
-<title>//@爱可可-爱生活：今日开奖，欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型：原理与工程实践(全彩)》，截...</title>
-<link>https://weibo.com/1402400261/O6rNRBQ1C</link>
-<guid>https://weibo.com/1402400261/O6rNRBQ1C</guid>
-<content:encoded><![CDATA[
-<div> 大语言模型、开奖、参与、转发、评论、知识体系、实践性、全彩印刷、杨青、干货满满
-
-总结:<br /><br />今日开奖，欢迎参与转发评论抽奖活动，奖品是《大语言模型：原理与工程实践(全彩)》三本。这本书揭开了大语言模型的神秘面纱，详细解读了内在机理和应用实践，特色在于系统性的知识体系和对实践性的重视。作者杨青是大语言模型实践者，将自己的训练经验融入书中，内容干货满满。截止时间是2024年3月24日12:00，转发+评论即可参与。 <div>
-//<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：今日开奖，欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《大语言模型：原理与工程实践(全彩)》，截止2024.3.24 12:00，*可可粉*转发+评论即可参与。本书旨在揭开大语言模型的神秘面纱，透彻地解读其内在机理和应用实践。一大特色体现在其知识体系的系统性，另一大特色是对实践性的重视。配代码、全彩印刷。本书作者杨青是度小满轩辕大模型负责人，作为真正的大语言模型实践者，拥有十亿、百亿、千亿等不同参数规模大语言模型的训练经验。在本书中，这些经验都被毫无保留地融入其中，干货满满，绝非空谈。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5012867076850203"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb85d5j20m90m9jw5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8np7j20m90m90vz.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb8bphj20m90m9789.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hntsvb9t7fj20m90m9dph.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvb8gi3j20m90m90xl.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvbf5k1j21hc0u0wud.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hntsvbadpbj21dd0rsguo.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hntsvbag7dj20rs0rs793.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hntsvb7ig9j20rs0m841y.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 00:34:49 GMT</pubDate>
-</item>
-<item>
-<title>今日推介(第1354期)：基于条件最优传输理解无限深无限宽ResNets训练、用Shapley交互揭示数据的底层结构、黑盒生成语言模型部分参数的窃取、LLM智能体长时会话记...</title>
-<link>https://weibo.com/1402400261/O6rbfxgVj</link>
-<guid>https://weibo.com/1402400261/O6rbfxgVj</guid>
-<content:encoded><![CDATA[
-<div> 条件最优传输、ResNets训练、Shapley交互、数据结构、黑盒攻击、LLM智能体、长时记忆、立体声音频编码
-
-<br /><br />总结:
-本文介绍了基于条件最优传输理解无限深无限宽ResNets训练的方法，利用Shapley交互揭示数据的底层结构，探讨了黑盒生成语言模型部分参数的窃取问题，提出了LLM智能体长时会话记忆评估的技术，以及快速高保真立体声音频编码的研究成果。这些研究为深度学习和音频处理领域的发展提供了有益的思路和方法。 <div>
-今日推介(第1354期)：基于条件最优传输理解无限深无限宽ResNets训练、用Shapley交互揭示数据的底层结构、黑盒生成语言模型部分参数的窃取、LLM智能体长时会话记忆评估、快速高保真立体声音频编码 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/688692818"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(3.24)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho1pgtonofj20go0bz76y.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho1pgxhwb9j20go095gmb.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho1ph04d2fj20go0ez75t.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho1ph2vh1ej20go0rl0vy.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho1ph55flgj20go0fign7.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 22:59:41 GMT</pubDate>
-</item>
-<item>
-<title>[CL] From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models 网页链接 对图表自动理解任务进行了全面调...</title>
-<link>https://weibo.com/1402400261/O6r7zjwHU</link>
-<guid>https://weibo.com/1402400261/O6r7zjwHU</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 图表自动理解, 大型基础模型, 调研, 方法, 进展, 未来研究方向, 研究与应用, 宝贵参考
-
-总结:<br /><br />本文对图表自动理解领域进行了全面调研，系统地总结了关键问题、方法与进展，为研究与应用提供了宝贵参考。研究指出大型基础模型在自动理解任务中的重要性，也对未来研究方向进行了展望，促进了该领域的发展和进步。<br />Overall, this survey provides a comprehensive overview of the automatic chart understanding task, covering key issues, methods, and advancements. It offers valuable insights for both research and practical applications. The significance of large foundation models in automatic understanding tasks is highlighted, and future research directions are proposed to advance the field. <div>
-[CL] From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models  <br /><a href="https://arxiv.org/abs/2403.12027"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />对图表自动理解任务进行了全面调研，系统梳理了关键问题、方法与进展，并对未来研究方向进行了展望，为该领域的研究与应用提供了宝贵参考。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho1p7mn0twj20y819aqn3.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1p7n7tfkj21r00p0wrf.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1p7nqo39j21p20m8n73.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho1p7oabjyj21rs0lkgt4.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 22:50:37 GMT</pubDate>
-</item>
-<item>
-<title>[CL] A Design Space for Intelligent and Interactive Writing Assistants 网页链接 通过系统地回顾文献，提出了一个包含任务、用户、技术、交互和生态系统五个...</title>
-<link>https://weibo.com/1402400261/O6r0CncNX</link>
-<guid>https://weibo.com/1402400261/O6r0CncNX</guid>
-<content:encoded><![CDATA[
-<div> 智能交互式写作助手, 设计空间, 文献回顾, 结构化, 多维可能性, 研究人员, 设计人员, 生态系统, 任务, 技术
-
-总结:<br />
-本文提出了一个包含任务、用户、技术、交互和生态系统五个方面、35个维度和143个代码的写作助手设计空间，通过系统地回顾文献，为探索智能交互式写作助手的多维可能性空间提供了结构化的方式。这个设计空间可以帮助研究人员、设计人员和其他利益相关者全面理解这个快速发展领域，为进一步研究和设计提供了基础和指导。 <div>
-[CL] A Design Space for Intelligent and Interactive Writing Assistants  <br /><a href="https://arxiv.org/abs/2403.14117"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />通过系统地回顾文献，提出了一个包含任务、用户、技术、交互和生态系统五个方面、35个维度和143个代码的写作助手设计空间，以提供一种结构化的方式探索智能交互式写作助手的多维可能性空间，从而帮助研究人员、设计人员和其他利益相关者全面理解这一快速发展的领域。<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1opt2r41j213c1c84ov.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1optba1sj21ge1c61c1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho1optl9z2j21gc0rywl6.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1opu9kf7j21gm0msah6.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 22:33:29 GMT</pubDate>
-</item>
-<item>
-<title>[CL] Arcee's MergeKit: A Toolkit for Merging Large Language Models 网页链接 提出MergeKit，一个开源、模块化、可扩展的模型合并库，使研究人员和实践者可以...</title>
-<link>https://weibo.com/1402400261/O6qXdEONk</link>
-<guid>https://weibo.com/1402400261/O6qXdEONk</guid>
-<content:encoded><![CDATA[
-<div> 提取关键词：MergeKit、开源、模块化、可扩展、预训练语言模型、性能、适应范围、研究人员、实践者、新模型
-
-总结:<br /><br />
-研究人员和实践者可以利用开源的MergeKit工具包，模块化地、可扩展地合并预训练语言模型，创造出性能更优异、适应范围更广的新模型。这个库通过提供一个高效的方法，为合并大型语言模型提供了方便和效率。MergeKit的模块化设计使得用户可以根据需求自由选择模型组件，定制化自己的合并流程，帮助他们更好地利用不同模型的优势。通过MergeKit，研究人员和实践者可以更轻松地探索、实验和开发更先进的语言模型，提高模型的性能和适应性，推动领域的发展和创新。 <div>
-[CL] Arcee's MergeKit: A Toolkit for Merging Large Language Models  <br /><a href="https://arxiv.org/abs/2403.13257"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />提出MergeKit，一个开源、模块化、可扩展的模型合并库，使研究人员和实践者可以高效地合并预训练语言模型，从而创造出性能更优异、适应范围更广的新模型。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1oh4u01kj20w21cadz4.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho1oh54u1jj21h40y4n1w.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho1oh5gfpfj21c61acqah.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho1oh5t4o6j21ce152n8x.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 22:25:07 GMT</pubDate>
-</item>
-<item>
-<title>[CV] MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems? 网页链接 MATHVERSE通过控制问题的多模态信息内容，配合逐步推理...</title>
-<link>https://weibo.com/1402400261/O6qUh22Ep</link>
-<guid>https://weibo.com/1402400261/O6qUh22Ep</guid>
-<content:encoded><![CDATA[
-<div> 关键词: MathVerse, 多模态信息, MLMM, 视觉数学理解, 推理能力
-
-MathVerse通过控制问题的多模态信息内容，配合逐步推理评分，可以更准确全面地检验MLLM的视觉数学理解和推理能力。文章指出，传统的语言模型可能无法准确理解和解决视觉数学问题，而MathVerse的多模态信息内容可以帮助MLLM更好地识别和理解数学问题中的图表和图片。此外，文章还介绍了MathVerse使用的逐步推理评分方法，通过结合多模态信息和逐步推理评分，可以更全面地评估MLLM的数学理解和推理能力。总体而言，MathVerse提供了一种全面且准确的评测方法，帮助评估MLLM在视觉数学问题中的表现。<br /><br />总结: MathVerse通过控制问题的多模态信息内容，并配合逐步推理评分，可以更准确全面地检验MLLM的视觉数学理解和推理能力。<article> <div>
-[CV] MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?  <br /><a href="https://arxiv.org/abs/2403.14624"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />MATHVERSE通过控制问题的多模态信息内容，配合逐步推理评分，可以更准确全面地检验MLLM的视觉数学理解和推理能力。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho1o9jninjj20vo1bi7j2.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho1o9k4w1jj21ii0xkn8e.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho1o9kk764j21i20p646w.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho1o9l1dxxj21i40vuqd1.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sat, 23 Mar 2024 22:17:50 GMT</pubDate>
 </item>
 </channel>
 </rss>
