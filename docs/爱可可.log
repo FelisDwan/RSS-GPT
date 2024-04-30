@@ -7052,3 +7052,24 @@ Existing_entries: 1010
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-04-30 02:20:54.931481
+------------------------------------------------------
+Started: 2024-04-30 04:14:33.857571
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 401
+Summarized using GPT-3.5-turbo
+Append: [【在GPU上进行矩阵乘法时，使用“可预测”数据可以提高运算速度】- 矩阵乘法在GPU上的速度受到数据内容的影响，与直觉相反。 - 使用CUTLASS库进行矩阵乘法时，性...](https://weibo.com/1402400261/Oc4wii2o9)
+Token length: 105
+Summarized using GPT-3.5-turbo
+Append: [【用Google Colab 15G 40分钟微调llama-3-8b-Instruct模型】《rombodawg/test_dataset_Codellama-3-8B · Hugging Face》 网页链接 #机器学习# #人工智能# [图片...](https://weibo.com/1402400261/Oc4pO61Hf)
+Token length: 565
+Summarized using GPT-3.5-turbo
+Append: [【GitHub Copilot Workspace 是一个创新的开发者环境，它允许开发者从构思到编码再到软件构建，全程使用自然语言与AI辅助进行】- GitHub Copilot Workspace旨在...](https://weibo.com/1402400261/Oc4o4DZiS)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [【OpenAI与金融时报达成战略合作，将金融时报的世界级新闻内容整合到ChatGPT中，共同开发新的AI体验】《We’re bringing the Financial Times’ world-class jou...](https://weibo.com/1402400261/Oc4lHFKBk)
+Token length: 216
+Summarized using GPT-3.5-turbo
+Append: [【StarCoder2-15B-Instruct-v0.1：首个完全自我对齐的代码生成大型语言模型(LLM)，通过全透明和开放的管线训练而成，实现了72.6的HumanEval得分，超越了CodeLlam...](https://weibo.com/1402400261/Oc4l73zZj)
+append_entries: 5
+Finish: 2024-04-30 04:14:57.884960

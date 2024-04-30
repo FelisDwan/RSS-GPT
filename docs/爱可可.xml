@@ -4,6 +4,75 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>【在GPU上进行矩阵乘法时，使用“可预测”数据可以提高运算速度】- 矩阵乘法在GPU上的速度受到数据内容的影响，与直觉相反。 - 使用CUTLASS库进行矩阵乘法时，性...</title>
+<link>https://weibo.com/1402400261/Oc4wii2o9</link>
+<guid>https://weibo.com/1402400261/Oc4wii2o9</guid>
+<content:encoded><![CDATA[
+<div> GPU，矩阵乘法，速度，数据，CUTLASS库，CuBLAS，Python，功耗，零矩阵，时钟速度
+
+总结:<br><br>矩阵乘法在GPU上的速度受数据内容影响，使用“可预测”数据可以提高运算速度。CUTLASS库在GPU上进行矩阵乘法时比CuBLAS性能高出10%，但在Python环境中性能提升消失，因为CUTLASS默认初始化输入值为整数。GPU的动态功耗切换是影响矩阵乘法性能的关键因素，特别是当数据中包含大量零时。当GPU接近功率限制时，会通过降低电压和时钟频率来限制功耗，影响性能。通过调整GPU的功率限制和时钟速度可以观察到使用可预测输入和不可预测输入的性能差异。 <div>
+【在GPU上进行矩阵乘法时，使用“可预测”数据可以提高运算速度】<br />- 矩阵乘法在GPU上的速度受到数据内容的影响，与直觉相反。  <br />- 使用CUTLASS库进行矩阵乘法时，性能比CuBLAS高出10%。  <br />- 在Python环境中，CUTLASS的性能提升消失了，发现CUTLASS默认初始化输入值仅使用整数。  <br />- GPU的动态/切换功耗是影响矩阵乘法性能的关键因素，特别是当数据中包含大量零时。  <br />- GPU在接近其400W的功率限制时，会通过降低电压和时钟频率来限制功耗，从而影响性能。  <br />- 通过调整GPU的功率限制和时钟速度，可以观察到使用可预测输入(如全零矩阵)与不可预测输入(如正态分布)的性能差异。<br />《Strangely, Matrix Multiplications on GPUs Run Faster When Given "Predictable" Data! [short]》 <a href="https://www.thonking.ai/p/strangely-matrix-multiplications"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hp8jptptpwj21110u0acd.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hp8jpw2um3j20dv057glm.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp8jq71staj214g0mlmzn.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 30 Apr 2024 00:20:10 GMT</pubDate>
+<pubDate>Tue, 30 Apr 2024 00:20:10 GMT</pubDate>
+</item>
+<item>
+<title>【用Google Colab 15G 40分钟微调llama-3-8b-Instruct模型】《rombodawg/test_dataset_Codellama-3-8B · Hugging Face》 网页链接 #机器学习# #人工智能# [图片...</title>
+<link>https://weibo.com/1402400261/Oc4pO61Hf</link>
+<guid>https://weibo.com/1402400261/Oc4pO61Hf</guid>
+<content:encoded><![CDATA[
+<div> 微调、Google Colab、llama-3-8b、40分钟、模型、test_dataset、Codellama-3-8B、Hugging Face
+
+<br><br>总结:
+本文介绍了如何在Google Colab上使用15G的资源，在40分钟内对llama-3-8b-Instruct模型进行微调。作者提供了测试数据集test_dataset_Codellama-3-8B，使用Hugging Face库进行模型微调。通过本文，读者可以学习如何利用资源充足的环境快速调整模型，进一步提升模型性能和效果。 <div>
+【用Google Colab 15G 40分钟微调llama-3-8b-Instruct模型】《rombodawg/test_dataset_Codellama-3-8B · Hugging Face》 <a href="https://huggingface.co/rombodawg/test_dataset_Codellama-3-8B"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp8j8vveh5j20u00z00xs.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 30 Apr 2024 00:04:11 GMT</pubDate>
+<pubDate>Tue, 30 Apr 2024 00:04:11 GMT</pubDate>
+</item>
+<item>
+<title>【GitHub Copilot Workspace 是一个创新的开发者环境，它允许开发者从构思到编码再到软件构建，全程使用自然语言与AI辅助进行】- GitHub Copilot Workspace旨在...</title>
+<link>https://weibo.com/1402400261/Oc4o4DZiS</link>
+<guid>https://weibo.com/1402400261/Oc4o4DZiS</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Copilot Workspace, 开发者环境, 自然语言, AI辅助, 生产力提升, GitHub仓库, 团队协作, 移动设备
+
+<br><br>总结:
+GitHub Copilot Workspace是一个创新的开发者环境，利用自然语言和AI辅助帮助开发者完成整个开发流程。自2022年推出以来，显著提升了开发者的生产力，最多可达55%。开发者可以在GitHub仓库或问题中开始项目，获得AI助手全程帮助。提供深入理解的逐步计划，所有提案可编辑，保证开发者控制开发过程。支持团队协作和迭代，可以直接在移动设备上运行代码，实现跨平台开发环境。 <div>
+【GitHub Copilot Workspace 是一个创新的开发者环境，它允许开发者从构思到编码再到软件构建，全程使用自然语言与AI辅助进行】<br />- GitHub Copilot Workspace旨在重新定义开发者环境，让开发者可以通过自然语言完成从想法到代码再到软件的整个开发流程。  <br />- 该环境利用了生成性AI技术，自2022年推出以来，已经显著提升了开发者的生产力，最多可达55%。  <br />- 开发者可以在GitHub仓库或问题(issue)中开始他们的项目，Copilot Workspace会提供从AI助手开始的全面帮助。  <br />- Workspace提供了基于对代码库、问题回复等深入理解的逐步计划，所有提案都是可编辑的，以确保开发者可以控制开发过程的每一步。  <br />- 开发者可以在Copilot Workspace中直接运行代码，并通过链接与团队共享工作空间，便于团队协作和迭代。  <br />- GitHub Copilot Workspace支持移动设备，旨在实现一个无论在桌面、笔记本还是移动设备上都能使用的真正的开发环境。  <br />《GitHub Copilot Workspace: Welcome to the Copilot-native developer environment - The GitHub Blog》 <a href="https://github.blog/2024-04-29-github-copilot-workspace/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span> <span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <a href="https://video.weibo.com/show?fid=1034:5028767853117454"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可-爱生活的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax3.sinaimg.cn/orj480/5396ee05ly1hp8j4n8thnj20zk0k0wf1.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/oc5YpXcYlx08etN3vwcw01041200ldSe0E010.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714451851&amp;ssig=TcS2VOkYe9&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/AwfNDBCzlx08etN3kKJO01041200aNH10E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714451851&amp;ssig=O1c3J6zLgX&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/WCCQGuS0lx08etN2Wmhy010412006VQs0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714451851&amp;ssig=plC7PidbrW&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5028767853117454" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 23:59:56 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 23:59:56 GMT</pubDate>
+</item>
+<item>
+<title>【OpenAI与金融时报达成战略合作，将金融时报的世界级新闻内容整合到ChatGPT中，共同开发新的AI体验】《We’re bringing the Financial Times’ world-class jou...</title>
+<link>https://weibo.com/1402400261/Oc4lHFKBk</link>
+<guid>https://weibo.com/1402400261/Oc4lHFKBk</guid>
+<content:encoded><![CDATA[
+<div> OpenAI, 金融时报, 战略合作, 新闻内容,  ChatGPT, AI体验
+
+<br><br>总结: 
+OpenAI与金融时报达成战略合作，将金融时报的世界级新闻内容整合到ChatGPT中，共同开发新的AI体验。这项合作旨在提升ChatGPT的资讯能力，使用户能够更便捷地获取和理解金融时报的优质新闻内容。金融时报的丰富资讯将为ChatGPT带来更深入、更全面的知识，从而提升用户的智能AI体验。该合作将为用户带来更丰富的交互体验，为金融毕竟的读者提供更便捷的获取新闻的方式，推动AI技术在新闻领域的发展。 <div>
+【OpenAI与金融时报达成战略合作，将金融时报的世界级新闻内容整合到ChatGPT中，共同开发新的AI体验】<br />《We’re bringing the Financial Times’ world-class journalism to ChatGPT》 <a href="https://openai.com/blog/content-partnership-with-financial-times"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hp8iz1obe1j21ea0u0juq.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 23:54:05 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 23:54:05 GMT</pubDate>
+</item>
+<item>
+<title>【StarCoder2-15B-Instruct-v0.1：首个完全自我对齐的代码生成大型语言模型(LLM)，通过全透明和开放的管线训练而成，实现了72.6的HumanEval得分，超越了CodeLlam...</title>
+<link>https://weibo.com/1402400261/Oc4l73zZj</link>
+<guid>https://weibo.com/1402400261/Oc4l73zZj</guid>
+<content:encoded><![CDATA[
+<div> 模型训练，自我对齐，代码生成，大型语言模型，全透明，开放管线，72.6分，人工评估，超越，CodeLlama
+
+<br><br>总结:
+本文介绍了首个完全自我对齐的代码生成大型语言模型StarCoder2-15B-Instruct，通过全透明和开放的管线训练，实现了72.6的HumanEval得分，超越了CodeLlama-70B-Instruct。模型在训练过程中具有高度透明性，能够自我对齐，生成代码。模型的开放管线训练方法为其取得了优异的人工评估得分，展示了其在代码生成领域的潜力和性能优势。 <div>
+【StarCoder2-15B-Instruct-v0.1：首个完全自我对齐的代码生成大型语言模型(LLM)，通过全透明和开放的管线训练而成，实现了72.6的HumanEval得分，超越了CodeLlama-70B-Instruct的72.0分】《StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for Code Generation》 <a href="https://huggingface.co/blog/sc2-instruct"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp8ixirmwyj215k0u00xd.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp8ixjwbxxj21m50u0wjc.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hp8ixm9mk3j20u00wtgqr.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 29 Apr 2024 23:52:37 GMT</pubDate>
+<pubDate>Mon, 29 Apr 2024 23:52:37 GMT</pubDate>
+</item>
 
 <item>
 <title>//@爱可可-爱生活：明日开奖，欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《多模态大模型：新一代人工智能技术范式 ...</title>
