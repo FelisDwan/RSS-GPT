@@ -7212,3 +7212,18 @@ Existing_entries: 1010
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-05-01 02:26:31.882903
+------------------------------------------------------
+Started: 2024-05-01 04:13:31.172601
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 63
+Summarized using GPT-3.5-turbo
+Append: [【TTS语音合成匿名竞技场】《TTS Arena - a Hugging Face Space by TTS-AGI》 网页链接 #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/Oce6KEew7)
+Token length: 106
+Summarized using GPT-3.5-turbo
+Append: [【免费课程：“视觉模型的提示工程”，教授如何使用文本、坐标和边框来引导视觉模型生成特定图像】《Prompt Engineering for Vision Models - DeepLearning.AI》...](https://weibo.com/1402400261/OcdSMz28o)
+Token length: 63
+Summarized using GPT-3.5-turbo
+Append: [【Pinecone的RAG教程】《Retrieval Augmented Generation | Pinecone》 网页链接 #机器学习# #人工智能# [图片]](https://weibo.com/1402400261/OcdMnAw9s)
+append_entries: 3
+Finish: 2024-05-01 04:13:49.336069
