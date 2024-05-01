@@ -7269,3 +7269,18 @@ Summarized using GPT-3.5-turbo
 Append: [【The Borgo Programming Language：一种静态类型编程语言，可编译成Go语言，旨在提供比Go更丰富的表达力，同时比Rust更简洁】'The Borgo Programming Language ...](https://weibo.com/1402400261/OcgABigtQ)
 append_entries: 8
 Finish: 2024-05-01 10:13:30.093210
+------------------------------------------------------
+Started: 2024-05-01 12:21:09.431833
+Existing_entries: 1008
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: [【BitNetMCU: 专注于在低端RISC-V微控制器CH32V003上训练和推理低比特权值神经网络的项目】'BitNetMCU: High Accuracy Low-Bit Quantized Neural Networks on a ...](https://weibo.com/1402400261/OcgWW02Zv)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [【LLMSanitize：一个开源库，用于检测自然语言处理(NLP)数据集和大型语言模型(LLM)中的污染问题】'LLMSanitize - An open-source library for contamination det...](https://weibo.com/1402400261/OcgVWl5oG)
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [【Panza: 私人电子邮件助手，通过在设备上训练和运行，定制化适应用户的写作风格和过往电子邮件历史】'Panza: A personal email assistant, trained and running...](https://weibo.com/1402400261/OcgVdB9Ei)
+append_entries: 3
+Finish: 2024-05-01 12:21:23.483312

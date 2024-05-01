@@ -5,22 +5,63 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>【BitNetMCU: 专注于在低端RISC-V微控制器CH32V003上训练和推理低比特权值神经网络的项目】'BitNetMCU: High Accuracy Low-Bit Quantized Neural Networks on a ...</title>
+<link>https://weibo.com/1402400261/OcgWW02Zv</link>
+<guid>https://weibo.com/1402400261/OcgWW02Zv</guid>
+<content:encoded><![CDATA[
+<div> 低端RISC-V微控制器 CH32V003, 低比特权值神经网络, 训练, 推理, BitNetMCU 项目, GitHub, 高精度, 低比特量化神经网络, 无需乘法
+
+<br><br>总结:
+BitNetMCU是一个专注于在低端RISC-V微控制器CH32V003上训练和推理低比特权值神经网络的项目。该项目致力于实现在这种微控制器上进行神经网络训练和推理的功能，同时保持高精度和低比特量化。通过该项目，用户可以在低端设备上部署高效的神经网络模型，无需复杂的乘法运算，极大地节约了资源。有关该项目的更多信息可以在GitHub上找到。 <div>
+【BitNetMCU: 专注于在低端RISC-V微控制器CH32V003上训练和推理低比特权值神经网络的项目】'BitNetMCU: High Accuracy Low-Bit Quantized Neural Networks on a low-end Microcontroller - Neural Networks with low bit weights on a CH32V003 RISC-V Microcontroller without multiplication' GitHub: github.com/cpldcpu/BitNetMCU <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpa2lr5i1hj20u00uqte7.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 01 May 2024 07:58:46 GMT</pubDate>
+<pubDate>Wed, 01 May 2024 07:58:46 GMT</pubDate>
+</item>
+<item>
+<title>【LLMSanitize：一个开源库，用于检测自然语言处理(NLP)数据集和大型语言模型(LLM)中的污染问题】'LLMSanitize - An open-source library for contamination det...</title>
+<link>https://weibo.com/1402400261/OcgVWl5oG</link>
+<guid>https://weibo.com/1402400261/OcgVWl5oG</guid>
+<content:encoded><![CDATA[
+<div> LLMSanitize、开源库、检测、自然语言处理、数据集、大型语言模型、污染问题、GitHub、ntunlp、污染检测<br>
+<br>
+LLMSanitize是一个开源库，旨在检测自然语言处理数据集和大型语言模型中的污染问题。该库可用于识别NLP数据集和LLMs中可能存在的污染的情况，有助于保证数据和模型的质量可靠性。用户可以通过GitHub上的ntunlp/LLMSanitize访问该库的资源和代码。LLMSanitize对于确保NLP数据集和LLMs的可靠性和准确性具有重要意义，是一个有益的工具。 <div>
+【LLMSanitize：一个开源库，用于检测自然语言处理(NLP)数据集和大型语言模型(LLM)中的污染问题】'LLMSanitize - An open-source library for contamination detection in NLP datasets and Large Language Models (LLMs).' GitHub: github.com/ntunlp/LLMSanitize <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpa2j7vxp2j20u010cgps.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 01 May 2024 07:56:19 GMT</pubDate>
+<pubDate>Wed, 01 May 2024 07:56:19 GMT</pubDate>
+</item>
+<item>
+<title>【Panza: 私人电子邮件助手，通过在设备上训练和运行，定制化适应用户的写作风格和过往电子邮件历史】'Panza: A personal email assistant, trained and running...</title>
+<link>https://weibo.com/1402400261/OcgVdB9Ei</link>
+<guid>https://weibo.com/1402400261/OcgVdB9Ei</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Panza, 私人电子邮件助手, 训练, 定制化, 写作风格, 电子邮件历史, GitHub, IST-DASLab, 设备, 运行
+
+总结:<br><br>
+Panza是一款私人电子邮件助手，可以在设备上训练和运行。它能够定制化适应用户的写作风格和过往电子邮件历史。用户可以在GitHub上找到Panza的代码库，由IST-DASLab维护。这个助手可以在用户的设备上运行，为用户提供定制化的电子邮件写作帮助。 <div>
+【Panza: 私人电子邮件助手，通过在设备上训练和运行，定制化适应用户的写作风格和过往电子邮件历史】'Panza: A personal email assistant, trained and running on-device' GitHub: github.com/IST-DASLab/PanzaMail <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpa2hd6s9wj20u015hdlp.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 01 May 2024 07:54:33 GMT</pubDate>
+<pubDate>Wed, 01 May 2024 07:54:33 GMT</pubDate>
+</item>
+
+<item>
 <title>【Glance：自托管的仪表板，能将所有信息源集成在一个界面上】'Glance - A selfhosted dashboard that puts all your feeds in one place' GitHub: github.com/g...</title>
 <link>https://weibo.com/1402400261/OcgSevR2X</link>
 <guid>https://weibo.com/1402400261/OcgSevR2X</guid>
 <content:encoded><![CDATA[
-<div> GitHub, Glance, 仪表板, 自托管, 信息源, 集成, 界面, 项目, 开源, 简洁<br>
-<br>
-要点1: 本文介绍了一个名为Glance的开源项目，是一个自托管的仪表板。<br>
-要点2: Glance的主要功能是将用户的所有信息源集成在一个界面上，提供了简洁的展示和管理方式。<br>
-要点3: 用户可以在Glance中自定义添加各种信息源，如新闻、社交媒体、博客等，方便快捷地查看和阅读。<br>
-要点4: 这个仪表板可以帮助用户节省时间和精力，提高信息获取的效率和体验。<br>
-要点5: Glance是一个开放源代码的项目，用户可以在GitHub上找到并了解更多相关信息，并有可能对其进行定制和修改。<br>
-<br>
+<div> GitHub, Glance, 仪表板, 自托管, 信息源, 集成, 界面, 项目, 开源, 简洁<br />
+<br />
+要点1: 本文介绍了一个名为Glance的开源项目，是一个自托管的仪表板。<br />
+要点2: Glance的主要功能是将用户的所有信息源集成在一个界面上，提供了简洁的展示和管理方式。<br />
+要点3: 用户可以在Glance中自定义添加各种信息源，如新闻、社交媒体、博客等，方便快捷地查看和阅读。<br />
+要点4: 这个仪表板可以帮助用户节省时间和精力，提高信息获取的效率和体验。<br />
+要点5: Glance是一个开放源代码的项目，用户可以在GitHub上找到并了解更多相关信息，并有可能对其进行定制和修改。<br />
+<br />
 总结: 本文介绍了一个名为Glance的自托管仪表板项目，在提供简洁界面的基础上集成了用户所有信息源，方便用户快捷查看和阅读各种信息，帮助提高信息获取效率和体验。 Glance是开源项目，用户可以在GitHub上查看更多信息并可能定制修改。 <div>
 【Glance：自托管的仪表板，能将所有信息源集成在一个界面上】'Glance - A selfhosted dashboard that puts all your feeds in one place' GitHub: github.com/glanceapp/glance <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpa299jro8j21940qt44e.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 07:47:11 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 07:47:11 GMT</pubDate>
 </item>
 <item>
@@ -30,10 +71,9 @@
 <content:encoded><![CDATA[
 <div> LLM、NPC、游戏开发、高性能、角色、项目、交互式、GitHub、驱动、大型语言模型
 
-总结：<br><br>这是一个利用大型语言模型(LLM)驱动的NPC(非玩家角色)项目，旨在为游戏开发提供高性能的交互式角色。该项目可以在用户的硬件上运行，并通过GitHub提供源代码。 <div>
+总结：<br /><br />这是一个利用大型语言模型(LLM)驱动的NPC(非玩家角色)项目，旨在为游戏开发提供高性能的交互式角色。该项目可以在用户的硬件上运行，并通过GitHub提供源代码。 <div>
 【gigax：利用大型语言模型(LLM)驱动的NPC(非玩家角色)项目，旨在为游戏开发提供高性能的交互式角色】'gigax - LLM-powered NPCs running on your hardware' GitHub: github.com/GigaxGames/gigax <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <a href="https://video.weibo.com/show?fid=1034:5029247333367811"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可-爱生活的微博视频</span></a> <br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax4.sinaimg.cn/orj480/5396ee05ly1hpa287oonxj214g0u0jsw.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/CX8quHsKlx08evTWdRUk01041200811T0E010.mp4?label=mp4_720p&amp;template=968x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714553613&amp;ssig=yrdU7F2A9w&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/3nJx84QHlx08evTW1TMA010412004bgp0E010.mp4?label=mp4_hd&amp;template=644x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714553613&amp;ssig=2lSOzg%2BZhV&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/ZjMTz2eylx08evTVWpCE010412002JiR0E010.mp4?label=mp4_ld&amp;template=484x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714553613&amp;ssig=1rFQOCFy6T&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5029247333367811" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 07:45:47 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 07:45:47 GMT</pubDate>
 </item>
 <item>
@@ -43,11 +83,10 @@
 <content:encoded><![CDATA[
 <div> 模型、视觉Mamba、应用、挑战、调查、GitHub、资源库、论文、研究、评估
 
-<br><br>总结:
+<br /><br />总结:
 这篇文章是关于视觉Mamba模型的文献资源库，提供了视觉Mamba模型的调查，包括模型、应用和挑战。研究人员在GitHub上发布了这一资源库，其中包含论文和研究，用于评估视觉Mamba模型的性能和应用。 <div>
 【关于视觉Mamba模型的精选文献资源库】'Awesome-Vision-Mamba-Models - [Official Repo] A Survey on Vision Mamba: Models, Applications and Challenges' GitHub: github.com/Ruixxxx/Awesome-Vision-Mamba-Models <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpa1msbnstj20u00zi0xp.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 07:25:09 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 07:25:09 GMT</pubDate>
 </item>
 <item>
@@ -57,11 +96,10 @@
 <content:encoded><![CDATA[
 <div> GitHub, GlaDOS, Personality Core, 人工智能, 软硬件项目, 游戏传送门
 
-<br><br>总结:
+<br /><br />总结:
 GlaDOS Personality Core是一个旨在创建真实版GlaDOS人工智能角色的软硬件项目。该项目在GitHub上以'GLaDOS Personality Core'命名，旨在模拟游戏传送门中的人工智能角色GlaDOS。项目中包含与GlaDOS个性相符的软件和硬件设计，通过GitHub网站分享给其他用户，以实现这个理想的目标。 <div>
 【GlaDOS Personality Core是一个旨在创建一个真实版的GlaDOS（源自游戏《传送门》的人工智能角色）的软硬件项目】'GLaDOS Personality Core - Personality Core' GitHub: github.com/dnhkng/GlaDOS <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpa1cq343qj20u00vyq7y.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 07:15:29 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 07:15:29 GMT</pubDate>
 </item>
 <item>
@@ -71,11 +109,10 @@ GlaDOS Personality Core是一个旨在创建真实版GlaDOS人工智能角色的
 <content:encoded><![CDATA[
 <div> Pydantic Logfire, Python 应用, 开源, 可观测性平台, GitHub, 简单, 观测, 工具, 最佳, 日志
 
-<br><br>总结:
+<br /><br />总结:
 Pydantic Logfire 是一个开源的可观测性平台，专为 Python 应用设计。它提供简单易用的观测工具，可以帮助用户实时监测和分析应用程序的运行情况。用户可以在 GitHub 上找到这个项目，并利用其强大的功能来提高应用程序的可观测性水平。Pydantic Logfire 是 Python 开发者的最佳选择，让你可以轻松地监控和管理应用程序的日志和性能数据。 <div>
 【Pydantic Logfire：Python 应用的开源可观测性平台】'Pydantic Logfire — Uncomplicated Observability - The best observability tool for Python! 🪵🔥' GitHub: github.com/pydantic/logfire <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Python%23"><span class="surl-text">#Python#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpa13g0of0j20u00zt44o.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 07:06:34 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 07:06:34 GMT</pubDate>
 </item>
 <item>
@@ -85,10 +122,9 @@ Pydantic Logfire 是一个开源的可观测性平台，专为 Python 应用设�
 <content:encoded><![CDATA[
 <div> 关键词：多模态大模型、人工智能、新一代、技术范式、监督、抽奖、有效、中山大学、HCP 实验室、发展方向
 
-总结:<br><br>本次活动通过微博官方抽奖工具进行监督，公正有效。参与者有机会获得新一代人工智能技术书籍《多模态大模型：新一代人工智能技术范式》，由中山大学 HCP 实验室出品，全面介绍多模态大模型的技术方法、开源平台和应用场景，涵盖因果推理、世界模型和多智能体等前沿技术领域。这本书对于推动通用人工智能的发展具有重要意义。 <div>
+总结:<br /><br />本次活动通过微博官方抽奖工具进行监督，公正有效。参与者有机会获得新一代人工智能技术书籍《多模态大模型：新一代人工智能技术范式》，由中山大学 HCP 实验室出品，全面介绍多模态大模型的技术方法、开源平台和应用场景，涵盖因果推理、世界模型和多智能体等前沿技术领域。这本书对于推动通用人工智能的发展具有重要意义。 <div>
 恭喜<a href="https://weibo.com/n/%E5%8F%AA%E5%9B%A0%E6%88%91%E9%A2%A0%E5%80%92%E4%BA%86%E8%BE%89%E7%85%8C_willschang">@只因我颠倒了辉煌_willschang</a> 等3名用户获得【《多模态大模型：新一代人工智能技术范式》】。微博官方唯一抽奖工具<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> 对本次抽奖进行监督，结果公正有效。公示链接：<a href="https://lottery.media.weibo.com/lottery/h5/result/new?id=20599842&amp;pageid=100140E51213728"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a><br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《多模态大模型：新一代人工智能技术范式 （全彩）》，截至2024.5.1 12:00，*可可粉*转发+评论即可参与。中山大学 HCP 实验室出品，本书以深入浅出的方式介绍多模态大模型的技术方法、开源平台和应用场景，并详细阐述因果推理、世界模型及多智能体与具身智能等前沿技术领域，有助于读者全面了解多模态大模型的特点及发展方向，对新一代人工智能技术范式和通用人工智能的发展起到重要推动作用。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hp1q8lh8x1j20m80m8djk.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp1q8n4hifj20m80m8gnu.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp1q8pgbfhj20m80m8dj2.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hp1q8r3pagj20m80m80ur.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 07:05:06 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 07:05:06 GMT</pubDate>
 </item>
 <item>
@@ -98,11 +134,10 @@ Pydantic Logfire 是一个开源的可观测性平台，专为 Python 应用设�
 <content:encoded><![CDATA[
 <div> 即插即用、零配置、跨浏览器、扩展、开发工具、GitHub、插件、开发、工具
 
-<br><br>总结:
+<br /><br />总结:
 Extension.js是一个即插即用、零配置、跨浏览器的扩展开发工具，可以帮助开发者快速创建插件并在不同浏览器上运行。通过GitHub的开源代码，用户可以方便地使用和定制这个工具。Extension.js为开发者提供了简单易用的方式来进行插件开发，省去了繁琐的配置过程，让开发过程更加高效和便捷。 <div>
 【Extension.js：即插即用、零配置、跨浏览器的扩展开发工具】'Extension.js - Plug-and-play, zero-config, cross-browser extension development tool.' GitHub: github.com/cezaraugusto/extension.js <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpa11u0y38j20xd0u0n12.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 07:05:02 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 07:05:02 GMT</pubDate>
 </item>
 <item>
@@ -110,16 +145,14 @@ Extension.js是一个即插即用、零配置、跨浏览器的扩展开发工�
 <link>https://weibo.com/1402400261/OcgABigtQ</link>
 <guid>https://weibo.com/1402400261/OcgABigtQ</guid>
 <content:encoded><![CDATA[
-<div> Go语言 静态类型 编程语言 Borgo 提供表达力 Rust 简洁 编译 Github<br>
-<br>
-总结:<br>
+<div> Go语言 静态类型 编程语言 Borgo 提供表达力 Rust 简洁 编译 Github<br />
+<br />
+总结:<br />
 Borgo是一种静态类型编程语言，可以编译成Go语言。其目的是提供比Go更丰富的表达力，同时比Rust更简洁。Borgo的GitHub地址是github.com/borgo-lang/borgo。Borgo语言的特点包括静态类型、编译成Go语言、提供更丰富的表达力，同时保持简洁性。通过Borgo，开发者可以享受到Go语言的高效性，同时获得更灵活的编程能力。Borgo的设计旨在兼顾表达力和简洁性，为开发人员提供更好的编程体验。 <div>
 【The Borgo Programming Language：一种静态类型编程语言，可编译成Go语言，旨在提供比Go更丰富的表达力，同时比Rust更简洁】'The Borgo Programming Language - Borgo is a statically typed language that compiles to Go.' GitHub: github.com/borgo-lang/borgo <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%BC%96%E7%A8%8B%23&amp;isnewpage=1"><span class="surl-text">#编程#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpa10iifzwj20zi0u0410.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 01 May 2024 07:03:45 GMT</pubDate>
-<pubDate>Wed, 01 May 2024 07:03:45 GMT</pubDate>
 </item>
-
 <item>
 <title>【TTS语音合成匿名竞技场】《TTS Arena - a Hugging Face Space by TTS-AGI》 网页链接 #机器学习# #人工智能# [图片]</title>
 <link>https://weibo.com/1402400261/Oce6KEew7</link>
@@ -12868,112 +12901,6 @@ Gmeek是一个简洁易用的博客框架，使用git托管代码，无需本地
 'LapisCV - 开箱即用的 Obsidian / Typora 简历' GitHub: github.com/BingyanStudio/LapisCV <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%AE%80%E5%8E%86%23&amp;isnewpage=1"><span class="surl-text">#简历#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho34hqkpjaj218l0u0gqh.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho34hrefgsj218c0u0gqe.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho34hsmj84j21c00u0aeh.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 25 Mar 2024 04:24:53 GMT</pubDate>
-</item>
-<item>
-<title>【Rye language： 一种动态编程语言，结合了 Rebol、Factor、Linux shells 和 Golang 等思想，仍在不断发展中】'Rye language - homoiconic dynamic programming...</title>
-<link>https://weibo.com/1402400261/O6CIG9SM8</link>
-<guid>https://weibo.com/1402400261/O6CIG9SM8</guid>
-<content:encoded><![CDATA[
-<div> Rye language, 动态编程语言, Rebol, Factor, Linux shells, Golang, 发展, homoiconic, GitHub, refaktor<br />
-<br />
-要点一：Rye language 是一种动态编程语言，结合了 Rebol、Factor、Linux shells 和 Golang 等思想，目前仍在不断发展中。<br />
-要点二：Rye language 是一种 homoiconic 动态编程语言，具有一些新的思想。<br />
-要点三：Rye language 的源代码托管在 GitHub 上，项目地址为github.com/refaktor/rye。 <br />
-
-总结：<br />
-Rye language 是一种结合了多种编程语言思想的动态编程语言，包括 Rebol、Factor、Linux shells 和 Golang，它是一种 homoiconic 语言，具有一些新颖的概念。Rye language 的开发仍在不断进行中，代码托管在 GitHub 上，可随时查阅和参与。 <div>
-【Rye language： 一种动态编程语言，结合了 Rebol、Factor、Linux shells 和 Golang 等思想，仍在不断发展中】'Rye language - homoiconic dynamic programming language with some new ideas' GitHub: github.com/refaktor/rye <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%BC%96%E7%A8%8B%23&amp;isnewpage=1"><span class="surl-text">#编程#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho34f2mlflj21ji0oe0y5.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 04:22:15 GMT</pubDate>
-</item>
-<item>
-<title>【codel：可以用来完成各种复杂的任务和项目的自动化AI Agent，无论是使用终端、浏览器还是编辑器】'codel - Fully autonomous AI Agent that can perform compl...</title>
-<link>https://weibo.com/1402400261/O6CI39B4M</link>
-<guid>https://weibo.com/1402400261/O6CI39B4M</guid>
-<content:encoded><![CDATA[
-<div> codel, 自动化AI Agent, 任务, 项目, 终端, 浏览器, 编辑器, GitHub, semanser, 复杂任务<br />
-<br />
-提到了一个名为codel的全自动AI Agent，能够利用终端、浏览器和编辑器完成复杂的任务和项目。该项目的代码托管在GitHub上，作者是semanser。codel的独特之处在于它能够完成各种不同类型的任务，并且可以在不同环境下运行，包括终端、浏览器和编辑器。这使得codel成为一个强大的工具，可以帮助用户自动化完成繁琐的工作，提高工作效率。通过GitHub上的开源代码，用户可以自定义和优化codel，以适应特定的需求和项目。总的来说，codel是一个十分实用和灵活的AI Agent，可以为用户提供强大的自动化功能，帮助他们应对各种复杂任务和项目。 <br /><br />总结: <div>
-【codel：可以用来完成各种复杂的任务和项目的自动化AI Agent，无论是使用终端、浏览器还是编辑器】'codel - Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.' GitHub: github.com/semanser/codel <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho34d9jpl2j21i80u0jv8.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 04:20:42 GMT</pubDate>
-</item>
-<item>
-<title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@图灵文化 @图灵新知 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发...</title>
-<link>https://weibo.com/1402400261/O6B15iVGw</link>
-<guid>https://weibo.com/1402400261/O6B15iVGw</guid>
-<content:encoded><![CDATA[
-<div> 可可粉 转发 评论 hello 算法 数据结构 算法世界 动画图解 实战代码 示例 互动环节
-
-<br /><br />总结:
-文章介绍了一次活动，参与者需要转发并评论指定内容，有机会获得《hello 算法》这本书。这本书通过生动的动画图解和实战代码示例，帮助读者轻松掌握数据结构和算法知识，让抽象的概念变得直观易懂。互动环节的设计也能帮助读者主动思考和解决问题，提高学习效果。活动截止日期为2024年3月29日12:00。 <div>
-//<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%87%E5%8C%96">@图灵文化</a> <a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%B0%E7%9F%A5">@图灵新知</a> 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发+评论即可参与。带你轻松掌握数据结构与算法，以全新的视角带你进入算法的世界。书中的每一章节都配有生动的动画图解，让抽象的数据结构和算法变得直观易懂。实战代码示例让你即学即用，及时巩固新知识。互动环节的设计帮助你主动思考，提问和解决问题。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5014630549948449"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfciddvdj21pe24a7wh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfchthjaj20m80m8q6g.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfcht5csj20m80m8go5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzfchtze3j20m80m8ach.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfci9xvsj2494494e81.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnzfcht5xoj20m80m8mzj.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 00:02:06 GMT</pubDate>
-</item>
-<item>
-<title>今日推介(第1355期)：用图神经网络学习神经网络等变表示、Zigzag Mamba扩散模型、基于文本到图像模型的一步图像翻译、基于内容帧运动潜分解的高效视频扩散模型、...</title>
-<link>https://weibo.com/1402400261/O6Ajk28GJ</link>
-<guid>https://weibo.com/1402400261/O6Ajk28GJ</guid>
-<content:encoded><![CDATA[
-<div> 图神经网络、神经网络等变表示、Zigzag Mamba扩散模型、文本到图像模型、图像翻译、内容帧运动潜分解、视频扩散模型、即插即用框架、视频编辑
-
-<br /><br />总结:
-本文介绍了几个新颖的研究方向：利用图神经网络学习神经网络等变表示，探讨了Zigzag Mamba扩散模型在传播过程中的应用；提出了基于文本到图像模型的一步图像翻译方法，实现了高效的文本转图像任务；同时，基于内容帧运动潜分解的高效视频扩散模型也被提出，为视频扩散任务带来了新的思路；最后，研究者们还提出了一种用于任意视频到视频编辑任务的即插即用框架，为视频编辑领域带来了便利和创新。这些研究成果在图像处理和视频编辑领域具有重要意义，有望为相关领域的研究和应用带来新的启发和突破。 <div>
-今日推介(第1355期)：用图神经网络学习神经网络等变表示、Zigzag Mamba扩散模型、基于文本到图像模型的一步图像翻译、基于内容帧运动潜分解的高效视频扩散模型、用于任意视频到视频编辑任务的即插即用框架 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/688803513"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(3.25)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho2trshiilj20go04l74q.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho2trw1clpj20go085ab2.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho2trz8ig5j20go08twfm.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho2ts3wesij20go07pq41.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho2ts6llz5j20go0bp763.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 22:14:16 GMT</pubDate>
-</item>
-<item>
-<title>[CL] LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models 网页链接 LLAMAFACTORY是一个模块化、标准化、易用的框架，可以高效微调大规模语言...</title>
-<link>https://weibo.com/1402400261/O6AfZcveI</link>
-<guid>https://weibo.com/1402400261/O6AfZcveI</guid>
-<content:encoded><![CDATA[
-<div> 模块化、标准化、易用、框架、高效微调、大规模语言模型   
-<br />
-LLAMAFACTORY是一个模块化、标准化、易用的框架，可以高效微调大规模语言模型。 这个框架可以帮助用户统一微调100多种语言模型，提高效率并简化操作流程。LLAMAFACTORY提供了统一的界面和工具，使用户能够轻松选择并微调所需的语言模型。该框架还支持自定义的微调和扩展，让用户能够根据自己的需求进行灵活应用。LLAMAFACTORY的设计目标是为了让用户更轻松地利用大规模语言模型，从而提升其应用的效果和性能。 <div>
-[CL] LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models  <br /><a href="https://arxiv.org/abs/2403.13372"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />LLAMAFACTORY是一个模块化、标准化、易用的框架，可以高效微调大规模语言模型。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho2tjnkvldj20x41d04jc.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho2tjnppwuj20uu13gdm9.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 22:06:04 GMT</pubDate>
-</item>
-<item>
-<title>[CV] SceneScript: Reconstructing Scenes With An Autoregressive Structured Language Model 网页链接 通过设计可扩展的结构化语言SceneScript以及对应的大规...</title>
-<link>https://weibo.com/1402400261/O6AdPiLs7</link>
-<guid>https://weibo.com/1402400261/O6AdPiLs7</guid>
-<content:encoded><![CDATA[
-<div> 结构化语言SceneScript, 大规模合成数据集, 第一人称视频, 3D 场景结构, 自动回归, 模型训练, 场景重建, 视频分析, 可扩展设计, 复杂场景解析
-
-<br /><br />总结:
-本研究通过设计可扩展的结构化语言SceneScript以及对应的大规模合成数据集，实现了从第一人称视频中解析复杂3D场景结构的新方法。通过自动回归的模型训练，实现了对场景的精确重建和视频分析，为复杂场景的解析提供了有效的工具和方法。 <div>
-[CV] SceneScript: Reconstructing Scenes With An Autoregressive Structured Language Model  <br /><a href="https://arxiv.org/abs/2403.13064"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />通过设计可扩展的结构化语言SceneScript以及对应的大规模合成数据集，实现了直接从第一人称视频中解析复杂3D场景结构的新方法。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho2te21oy4j20rk1amk4m.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho2te2nnzyj21ni11a4e4.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho2te33o3oj21n40v2n9k.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho2te3mc2xj21n60r6163.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 22:00:44 GMT</pubDate>
-</item>
-<item>
-<title>[CV] Nellie: Automated organelle segmentation, tracking, and hierarchical feature extraction in 2D/3D live-cell microscopy 网页链接 Nellie是一个开源的...</title>
-<link>https://weibo.com/1402400261/O6A91e8W9</link>
-<guid>https://weibo.com/1402400261/O6A91e8W9</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Nellie, 细胞内结构分析, 层次特征提取, 机器学习, 单通道图像, 空间动态组织器信息
-
-总结:<br /><br />
-本文介绍了开源工具Nellie，用于自动化分析细胞内结构，包括分割、跟踪和特征提取。该工具具有层次特征提取和机器学习整合的创新，能够从2D/3D单通道图像中获取丰富的空间动态组织器信息。Nellie的应用范围涵盖了细胞生物学领域，为细胞研究提供了强大的工具和支持。 <div>
-[CV] Nellie: Automated organelle segmentation, tracking, and hierarchical feature extraction in 2D/3D live-cell microscopy  <br /><a href="https://arxiv.org/abs/2403.13214"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>   <br />Nellie是一个开源的全自动细胞内结构分析流水线，其创新的层次特征提取与机器学习整合，可从单通道图像中获取丰富的空间动态组织器信息。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho2t1rh18aj210w0yk7e0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho2t1s51e7j211e1c4k5q.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho2t1sd6mzj210g1cqtq6.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho2t1sjtrij210e1detq9.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 21:48:54 GMT</pubDate>
-</item>
-<item>
-<title>[LG] A Survey on Uncertainty Quantification for Deep Learning: An Uncertainty Source Perspective 网页链接 通过不确定性来源的视角首次系统回顾各类DNN不...</title>
-<link>https://weibo.com/1402400261/O6A6olNpV</link>
-<guid>https://weibo.com/1402400261/O6A6olNpV</guid>
-<content:encoded><![CDATA[
-<div> 不确定性、量化、深度学习、技术原理、优劣势、选择方法、实际应用、可解释性AI、指导<br />
-<br />
-<br />
-总结: 本文首次系统回顾了各类DNN不确定度量化技术，通过不确定性来源的视角考察了这些方法框架的技术原理、应对不同不确定性来源的优劣势，以及在选择方法与实际应用之间建立的关联。此外，为不同场景下的可解释性AI提供了指导，有助于更好地理解和应用深度学习模型的不确定性量化技术。 <div>
-[LG] A Survey on Uncertainty Quantification for Deep Learning: An Uncertainty Source Perspective  <br /><a href="https://arxiv.org/abs/2302.13425"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />通过不确定性来源的视角首次系统回顾各类DNN不确定度量化技术，概述了不同方法框架的技术原理、应对不同不确定性来源的优劣势，并在选择方法与实际应用之间建立关联，为不同场景下的可解释性AI提供指导。<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho2sv182sij20u61887ks.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho2sv1bgrgj21680lc417.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho2sv1q3joj21n20i6wjp.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho2sv2b0byj20us0lg76n.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 24 Mar 2024 21:42:26 GMT</pubDate>
 </item>
 </channel>
 </rss>
