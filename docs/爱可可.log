@@ -7299,3 +7299,22 @@ Summarized using GPT-3.5-turbo
 Append: [【lmstudio.js：LM Studio 的 TypeScript SDK，用于在 JavaScript/TypeScript/Node.js 代码中使用本地大型语言模型(LLMs)】'lmstudio.js - LM Studio TypeScript...](https://weibo.com/1402400261/Ocjh3e83Y)
 append_entries: 1
 Finish: 2024-05-01 16:14:26.746033
+------------------------------------------------------
+Started: 2024-05-01 18:14:32.285636
+Existing_entries: 1001
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OcjGwA4bE)
+Token length: 19
+Summarized using GPT-3.5-turbo
+Append: [《爱可可微博热门分享(5.1)》 爱可可微博热门分享(5.1) [图片]](https://weibo.com/1402400261/OcjDok7jz)
+Token length: 1265
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations》(CVPR 2024) GitHub: github.com/eth-ait/4d-dress [fi...](https://weibo.com/1402400261/OcjvlDcax)
+Token length: 175
+Summarized using GPT-3.5-turbo
+Append: [【RKNN Toolkit2 是一个用于快速将AI模型部署到瑞芯微芯片上的软件开发工具包】'RKNN software stack can help users to quickly deploy AI models to Rockchip ...](https://weibo.com/1402400261/OcjlE3gQN)
+Token length: 274
+Summarized using GPT-3.5-turbo
+Append: [【Sequential Workflow Designer：一个无代码组件，用于构建基于流程的编程应用，完全通用，无需外部依赖，支持现代浏览器和移动设备】'Sequential Workflow Des...](https://weibo.com/1402400261/Ocjk09QTv)
+append_entries: 4
+Finish: 2024-05-01 18:14:49.981740

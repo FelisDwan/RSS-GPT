@@ -5,20 +5,74 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>《爱可可微博热门分享(5.1)》 爱可可微博热门分享(5.1) [图片]</title>
+<link>https://weibo.com/1402400261/OcjDok7jz</link>
+<guid>https://weibo.com/1402400261/OcjDok7jz</guid>
+<content:encoded><![CDATA[
+<div> 微博, 热门, 分享, 爱可可, 5.1, 情感, 文章, 点赞, 评论, 用户
+
+<br><br>总结:
+本文介绍了爱可可微博上5月1号的热门分享内容，涵盖了各种情感故事和文章。许多用户对这些内容进行了点赞和评论，讨论热度很高。文章内容贴近用户生活，引起了广泛关注和讨论。 <div>
+《爱可可微博热门分享(5.1)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405029354148069394"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(5.1)</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpaegb4fklj20rs0fm44z.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 01 May 2024 14:48:52 GMT</pubDate>
+<pubDate>Wed, 01 May 2024 14:48:52 GMT</pubDate>
+</item>
+<item>
+<title>几篇论文实现代码：《4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations》(CVPR 2024) GitHub: github.com/eth-ait/4d-dress [fi...</title>
+<link>https://weibo.com/1402400261/OcjvlDcax</link>
+<guid>https://weibo.com/1402400261/OcjvlDcax</guid>
+<content:encoded><![CDATA[
+<div> 服装数据集、语义标注、4D技术、衣物分类、时尚研究、深度学习、图像识别、算法实现、Github代码、CVPR会议。
+<br>
+人们日常穿着的衣物在时尚研究和深度学习中扮演着重要角色，然而现有的衣物数据集缺乏4D技术支持，本文提出了一个包含语义标注的4D服装数据集，以促进衣物分类和图像识别领域的研究。作者实现了算法，并在CVPR会议上发布了该数据集，并将代码放在了Github上。
+<br><br>总结: <div>
+几篇论文实现代码：<br />《4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations》(CVPR 2024) GitHub: github.com/eth-ait/4d-dress [fig2]<br />《Fast ODE-based Sampling for Diffusion Models in Around 5 Steps》(CVPR 2024) GitHub: github.com/zju-pi/diff-sampler<br />《OpenStreetView-5M: The Many Roads to Global Visual Geolocation》(CVPR 2024) GitHub: github.com/gastruc/osv5m [fig3]<br />《KAN: Kolmogorov-Arnold Networks》(2024) GitHub: github.com/KindXiaoming/pykan [fig1]<br />《Lightplane: Highly-Scalable Components for Neural 3D Fields》(2024) GitHub: github.com/facebookresearch/lightplane<br />《2D Gaussian Splatting for Geometrically Accurate Radiance Fields》(2024) GitHub: github.com/hugoycj/2.5d-gaussian-splatting<br />《FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design》(2024) GitHub: github.com/usyd-fsalab/fp6_llm<br />《DMEL: The Differentiable Log-Mel Spectrogram as a Trainable Layer in Neural Networks》(2024) GitHub: github.com/johnmartinsson/differentiable-mel-spectrogram<br />《Aligning Diffusion Models by Optimizing Human Utility》(2024) GitHub: github.com/jacklishufan/diffusion-kto<br />《PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval》(2024) GitHub: github.com/ielab/PromptReps<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpa1dxc3goj21r60z2dse.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpa1ng6bpej21bm0i87hj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpacvrctxbj21rx0fuqk1.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 01 May 2024 14:29:03 GMT</pubDate>
+<pubDate>Wed, 01 May 2024 14:29:03 GMT</pubDate>
+</item>
+<item>
+<title>【RKNN Toolkit2 是一个用于快速将AI模型部署到瑞芯微芯片上的软件开发工具包】'RKNN software stack can help users to quickly deploy AI models to Rockchip ...</title>
+<link>https://weibo.com/1402400261/OcjlE3gQN</link>
+<guid>https://weibo.com/1402400261/OcjlE3gQN</guid>
+<content:encoded><![CDATA[
+<div> 瑞芯微芯片、AI模型部署、软件开发工具包、RKNN Toolkit2、快速、GitHub、rknn-toolkit2、部署、软件栈、用户<br>
+<br>
+RKNN Toolkit2是一个用于快速将AI模型部署到瑞芯微芯片上的软件开发工具包。该软件堆栈可以帮助用户快速部署AI模型到Rockchip芯片上。用户可以在GitHub上找到相关信息，使用rknn-toolkit2进行部署。RKNN Toolkit2为用户提供了便捷的部署AI模型的解决方案。RKNN Toolkit2的优势在于快速且简单地完成AI模型的部署工作，让用户更加方便地利用瑞芯微芯片进行人工智能开发。 <div>
+【RKNN Toolkit2 是一个用于快速将AI模型部署到瑞芯微芯片上的软件开发工具包】'RKNN software stack can help users to quickly deploy AI models to Rockchip chips' GitHub: github.com/airockchip/rknn-toolkit2 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpad6fu64xj20fg088wf2.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 01 May 2024 14:05:08 GMT</pubDate>
+<pubDate>Wed, 01 May 2024 14:05:08 GMT</pubDate>
+</item>
+<item>
+<title>【Sequential Workflow Designer：一个无代码组件，用于构建基于流程的编程应用，完全通用，无需外部依赖，支持现代浏览器和移动设备】'Sequential Workflow Des...</title>
+<link>https://weibo.com/1402400261/Ocjk09QTv</link>
+<guid>https://weibo.com/1402400261/Ocjk09QTv</guid>
+<content:encoded><![CDATA[
+<div> 无代码、组件、流程、编程、应用、通用、现代浏览器、移动设备、GitHub<br>
+<br>
+总结:<br>
+Sequential Workflow Designer是一个无代码组件，用于构建基于流程的编程应用。它完全通用，无需外部依赖，支持现代浏览器和移动设备。用户可以在GitHub上找到该组件的相关信息。 <div>
+【Sequential Workflow Designer：一个无代码组件，用于构建基于流程的编程应用，完全通用，无需外部依赖，支持现代浏览器和移动设备】'Sequential Workflow Designer - Customizable no-code component for building flow-based programming applications. 0 external dependencies.' GitHub: github.com/nocode-js/sequential-workflow-designer <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpad2muz8jj20zk0hs75f.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Wed, 01 May 2024 14:01:05 GMT</pubDate>
+<pubDate>Wed, 01 May 2024 14:01:05 GMT</pubDate>
+</item>
+
+<item>
 <title>【lmstudio.js：LM Studio 的 TypeScript SDK，用于在 JavaScript/TypeScript/Node.js 代码中使用本地大型语言模型(LLMs)】'lmstudio.js - LM Studio TypeScript...</title>
 <link>https://weibo.com/1402400261/Ocjh3e83Y</link>
 <guid>https://weibo.com/1402400261/Ocjh3e83Y</guid>
 <content:encoded><![CDATA[
 <div> lmstudio.js, LM Studio, TypeScript, SDK, JavaScript, Node.js, 大型语言模型, GitHub, lmstudio-ai, 模型使用
 
-<br><br>总结:
+<br /><br />总结:
 lmstudio.js是LM Studio的TypeScript SDK，用于在JavaScript/TypeScript/Node.js代码中使用本地大型语言模型(LLMs)。该SDK提供了一种便捷的方式来集成和调用LLMs，让开发人员可以更轻松地利用强大的自然语言处理能力。通过GitHub上的开源项目lmstudio-ai/lmstudio.js，开发人员可以快速获取和使用该SDK，并在应用程序中实现更复杂的自然语言处理功能。 <div>
 【lmstudio.js：LM Studio 的 TypeScript SDK，用于在 JavaScript/TypeScript/Node.js 代码中使用本地大型语言模型(LLMs)】'lmstudio.js - LM Studio TypeScript SDK' GitHub: github.com/lmstudio-ai/lmstudio.js <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpacv5jwy2j216k0ry77r.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 01 May 2024 13:53:49 GMT</pubDate>
-<pubDate>Wed, 01 May 2024 13:53:49 GMT</pubDate>
 </item>
-
 <item>
 <title>【BitNetMCU: 专注于在低端RISC-V微控制器CH32V003上训练和推理低比特权值神经网络的项目】'BitNetMCU: High Accuracy Low-Bit Quantized Neural Networks on a ...</title>
 <link>https://weibo.com/1402400261/OcgWW02Zv</link>
@@ -12862,18 +12916,6 @@ MLX是一个高性能的macOS应用，它将本地文档与一个个性化的大
 【Cookbook to Craft Good Code：一个帮助编写高质量代码的开源指南，强调代码的可读性、简洁性和易维护性】'Cookbook to Craft Good Code - Cookbook for Crafting Good Code' GitHub: github.com/Mountchicken/CodeCookbook <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%BC%96%E7%A8%8B%23&amp;isnewpage=1"><span class="surl-text">#编程#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho35xpcxokj21bq0u0jy9.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 25 Mar 2024 05:14:51 GMT</pubDate>
-</item>
-<item>
-<title>【LightwheelOcc：面向自动驾驶的3D Occupancy合成数据集】'LightwheelOcc - LightwheelOcc: A 3D Occupancy Synthetic Dataset in Autonomous Driving' GitHub:...</title>
-<link>https://weibo.com/1402400261/O6CVRecv2</link>
-<guid>https://weibo.com/1402400261/O6CVRecv2</guid>
-<content:encoded><![CDATA[
-<div> 关键词：自动驾驶、3D Occupancy、合成数据集、LightwheelOcc、OpenDriveLab、GitHub
-
-总结:<br /><br />本文介绍了面向自动驾驶的3D Occupancy合成数据集LightwheelOcc，旨在提供给研究人员用于自动驾驶系统中的数据处理和算法开发。数据集由OpenDriveLab团队开发，可在GitHub上获取。数据集的发布有助于推动自动驾驶技术的发展，提高系统性能和安全性。LightwheelOcc的开发是为了解决现有数据集的不足，为自动驾驶研究提供更多选择和资源支持。数据集的合成方法有效地模拟了自动驾驶场景，能够提供真实且多样化的数据样本，有助于提高自动驾驶系统的鲁棒性和准确性。通过使用LightwheelOcc数据集，研究人员可以进行更全面的数据分析和算法验证，促进自动驾驶技术的快速发展。 <div>
-【LightwheelOcc：面向自动驾驶的3D  Occupancy合成数据集】'LightwheelOcc - LightwheelOcc: A 3D Occupancy Synthetic Dataset in Autonomous Driving' GitHub: github.com/OpenDriveLab/LightwheelOcc <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho35cb2r26j21420u0teu.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 04:54:43 GMT</pubDate>
 </item>
 </channel>
 </rss>
