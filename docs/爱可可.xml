@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【BitNetMCU: 专注于在低端RISC-V微控制器CH32V003上训练和推理低比特权值神经网络的项目】'BitNetMCU: High Accuracy Low-Bit Quantized Neural Networks on a ...</title>
 <link>https://weibo.com/1402400261/OcgWW02Zv</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 低端RISC-V微控制器 CH32V003, 低比特权值神经网络, 训练, 推理, BitNetMCU 项目, GitHub, 高精度, 低比特量化神经网络, 无需乘法
 
-<br><br>总结:
+<br /><br />总结:
 BitNetMCU是一个专注于在低端RISC-V微控制器CH32V003上训练和推理低比特权值神经网络的项目。该项目致力于实现在这种微控制器上进行神经网络训练和推理的功能，同时保持高精度和低比特量化。通过该项目，用户可以在低端设备上部署高效的神经网络模型，无需复杂的乘法运算，极大地节约了资源。有关该项目的更多信息可以在GitHub上找到。 <div>
 【BitNetMCU: 专注于在低端RISC-V微控制器CH32V003上训练和推理低比特权值神经网络的项目】'BitNetMCU: High Accuracy Low-Bit Quantized Neural Networks on a low-end Microcontroller - Neural Networks with low bit weights on a CH32V003 RISC-V Microcontroller without multiplication' GitHub: github.com/cpldcpu/BitNetMCU <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpa2lr5i1hj20u00uqte7.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 07:58:46 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 07:58:46 GMT</pubDate>
 </item>
 <item>
@@ -23,12 +23,11 @@ BitNetMCU是一个专注于在低端RISC-V微控制器CH32V003上训练和推理
 <link>https://weibo.com/1402400261/OcgVWl5oG</link>
 <guid>https://weibo.com/1402400261/OcgVWl5oG</guid>
 <content:encoded><![CDATA[
-<div> LLMSanitize、开源库、检测、自然语言处理、数据集、大型语言模型、污染问题、GitHub、ntunlp、污染检测<br>
-<br>
+<div> LLMSanitize、开源库、检测、自然语言处理、数据集、大型语言模型、污染问题、GitHub、ntunlp、污染检测<br />
+<br />
 LLMSanitize是一个开源库，旨在检测自然语言处理数据集和大型语言模型中的污染问题。该库可用于识别NLP数据集和LLMs中可能存在的污染的情况，有助于保证数据和模型的质量可靠性。用户可以通过GitHub上的ntunlp/LLMSanitize访问该库的资源和代码。LLMSanitize对于确保NLP数据集和LLMs的可靠性和准确性具有重要意义，是一个有益的工具。 <div>
 【LLMSanitize：一个开源库，用于检测自然语言处理(NLP)数据集和大型语言模型(LLM)中的污染问题】'LLMSanitize - An open-source library for contamination detection in NLP datasets and Large Language Models (LLMs).' GitHub: github.com/ntunlp/LLMSanitize <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpa2j7vxp2j20u010cgps.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 07:56:19 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 07:56:19 GMT</pubDate>
 </item>
 <item>
@@ -38,14 +37,12 @@ LLMSanitize是一个开源库，旨在检测自然语言处理数据集和大型
 <content:encoded><![CDATA[
 <div> 关键词: Panza, 私人电子邮件助手, 训练, 定制化, 写作风格, 电子邮件历史, GitHub, IST-DASLab, 设备, 运行
 
-总结:<br><br>
+总结:<br /><br />
 Panza是一款私人电子邮件助手，可以在设备上训练和运行。它能够定制化适应用户的写作风格和过往电子邮件历史。用户可以在GitHub上找到Panza的代码库，由IST-DASLab维护。这个助手可以在用户的设备上运行，为用户提供定制化的电子邮件写作帮助。 <div>
 【Panza: 私人电子邮件助手，通过在设备上训练和运行，定制化适应用户的写作风格和过往电子邮件历史】'Panza: A personal email assistant, trained and running on-device' GitHub: github.com/IST-DASLab/PanzaMail <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpa2hd6s9wj20u015hdlp.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 01 May 2024 07:54:33 GMT</pubDate>
-<pubDate>Wed, 01 May 2024 07:54:33 GMT</pubDate>
 </item>
-
 <item>
 <title>【Glance：自托管的仪表板，能将所有信息源集成在一个界面上】'Glance - A selfhosted dashboard that puts all your feeds in one place' GitHub: github.com/g...</title>
 <link>https://weibo.com/1402400261/OcgSevR2X</link>
@@ -12863,44 +12860,6 @@ MLX是一个高性能的macOS应用，它将本地文档与一个个性化的大
 【LightwheelOcc：面向自动驾驶的3D  Occupancy合成数据集】'LightwheelOcc - LightwheelOcc: A 3D Occupancy Synthetic Dataset in Autonomous Driving' GitHub: github.com/OpenDriveLab/LightwheelOcc <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho35cb2r26j21420u0teu.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 25 Mar 2024 04:54:43 GMT</pubDate>
-</item>
-<item>
-<title>【Whispering：一个开源项目，旨在通过 OpenAI Whisper API 简化语音到文字转换体验】'Whispering - Seamlessly convert spoken words into text with AI assist...</title>
-<link>https://weibo.com/1402400261/O6CLFqb7N</link>
-<guid>https://weibo.com/1402400261/O6CLFqb7N</guid>
-<content:encoded><![CDATA[
-<div> OpenAI，Whispering，语音到文字转换，OpenAI Whisper API，开源项目，简化体验，AI辅助，无缝转换，文字，通信<br />
-<br />
-提到的开源项目Whispering旨在简化语音到文字转换体验，通过OpenAI Whisper API提供AI助力，让用户能够轻松实现从口述文字的转换，实现了无缝的沟通体验。 <div>
-【Whispering：一个开源项目，旨在通过 OpenAI Whisper API 简化语音到文字转换体验】'Whispering - Seamlessly convert spoken words into text with AI assistance, powered by OpenAI, for effortless communication.' GitHub: github.com/braden-w/whispering <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho34mo6satj211t0u0djr.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 04:29:37 GMT</pubDate>
-</item>
-<item>
-<title>【Gmeek：一个博客框架，使用 git 托管代码，简洁易用，无需本地部署，只需搭建和写作即可完成博客搭建。】'Gmeek - Gmeek is a Blog All in Github' GitHub: gi...</title>
-<link>https://weibo.com/1402400261/O6CK5oqfm</link>
-<guid>https://weibo.com/1402400261/O6CK5oqfm</guid>
-<content:encoded><![CDATA[
-<div> Gmeek, 博客框架, git, 托管代码, 简洁易用, 无需本地部署, 搭建, 写作, 完成博客搭建
-
-<br /><br />总结:
-Gmeek是一个简洁易用的博客框架，使用git托管代码，无需本地部署，只需搭建和写作即可完成博客搭建。通过在GitHub上使用Gmeek，用户可以快速建立自己的博客，方便地进行写作和分享内容。Gmeek的特点是操作简单，只需一些基本的配置和写作，即可发布博客内容。对于想要快速搭建个人博客的用户来说，Gmeek是一个很好的选择。 <div>
-【Gmeek：一个博客框架，使用 git 托管代码，简洁易用，无需本地部署，只需搭建和写作即可完成博客搭建。】'Gmeek - Gmeek is a Blog All in Github' GitHub: github.com/Meekdai/Gmeek <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%8D%9A%E5%AE%A2%23&amp;isnewpage=1"><span class="surl-text">#博客#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho34inyapwj213j0o7mzg.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 04:25:43 GMT</pubDate>
-</item>
-<item>
-<title>'LapisCV - 开箱即用的 Obsidian / Typora 简历' GitHub: github.com/BingyanStudio/LapisCV #开源# #简历# [图片][图片][图片]</title>
-<link>https://weibo.com/1402400261/O6CJKnpvw</link>
-<guid>https://weibo.com/1402400261/O6CJKnpvw</guid>
-<content:encoded><![CDATA[
-<div> GitHub、LapisCV、Obsidian、Typora、简历、开箱即用、BingyanStudio
-
-<br /><br />总结:
-这篇文章介绍了'LapisCV - 开箱即用的 Obsidian / Typora 简历'项目，项目地址为GitHub上的github.com/BingyanStudio/LapisCV。项目中提供了一款名为LapisCV的简历模板，可以在Obsidian或Typora上直接使用，帮助用户快速创建简历。通过该项目，用户可以轻松地定制自己的简历，提升求职竞争力。 <div>
-'LapisCV - 开箱即用的 Obsidian / Typora 简历' GitHub: github.com/BingyanStudio/LapisCV <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%AE%80%E5%8E%86%23&amp;isnewpage=1"><span class="surl-text">#简历#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho34hqkpjaj218l0u0gqh.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho34hrefgsj218c0u0gqe.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho34hsmj84j21c00u0aeh.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 04:24:53 GMT</pubDate>
 </item>
 </channel>
 </rss>
