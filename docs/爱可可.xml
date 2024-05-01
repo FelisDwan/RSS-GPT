@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>《爱可可微博热门分享(5.1)》 爱可可微博热门分享(5.1) [图片]</title>
 <link>https://weibo.com/1402400261/OcjDok7jz</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 微博, 热门, 分享, 爱可可, 5.1, 情感, 文章, 点赞, 评论, 用户
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了爱可可微博上5月1号的热门分享内容，涵盖了各种情感故事和文章。许多用户对这些内容进行了点赞和评论，讨论热度很高。文章内容贴近用户生活，引起了广泛关注和讨论。 <div>
 《爱可可微博热门分享(5.1)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405029354148069394"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(5.1)</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpaegb4fklj20rs0fm44z.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 14:48:52 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 14:48:52 GMT</pubDate>
 </item>
 <item>
@@ -24,12 +24,11 @@
 <guid>https://weibo.com/1402400261/OcjvlDcax</guid>
 <content:encoded><![CDATA[
 <div> 服装数据集、语义标注、4D技术、衣物分类、时尚研究、深度学习、图像识别、算法实现、Github代码、CVPR会议。
-<br>
+<br />
 人们日常穿着的衣物在时尚研究和深度学习中扮演着重要角色，然而现有的衣物数据集缺乏4D技术支持，本文提出了一个包含语义标注的4D服装数据集，以促进衣物分类和图像识别领域的研究。作者实现了算法，并在CVPR会议上发布了该数据集，并将代码放在了Github上。
-<br><br>总结: <div>
+<br /><br />总结: <div>
 几篇论文实现代码：<br />《4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations》(CVPR 2024) GitHub: github.com/eth-ait/4d-dress [fig2]<br />《Fast ODE-based Sampling for Diffusion Models in Around 5 Steps》(CVPR 2024) GitHub: github.com/zju-pi/diff-sampler<br />《OpenStreetView-5M: The Many Roads to Global Visual Geolocation》(CVPR 2024) GitHub: github.com/gastruc/osv5m [fig3]<br />《KAN: Kolmogorov-Arnold Networks》(2024) GitHub: github.com/KindXiaoming/pykan [fig1]<br />《Lightplane: Highly-Scalable Components for Neural 3D Fields》(2024) GitHub: github.com/facebookresearch/lightplane<br />《2D Gaussian Splatting for Geometrically Accurate Radiance Fields》(2024) GitHub: github.com/hugoycj/2.5d-gaussian-splatting<br />《FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design》(2024) GitHub: github.com/usyd-fsalab/fp6_llm<br />《DMEL: The Differentiable Log-Mel Spectrogram as a Trainable Layer in Neural Networks》(2024) GitHub: github.com/johnmartinsson/differentiable-mel-spectrogram<br />《Aligning Diffusion Models by Optimizing Human Utility》(2024) GitHub: github.com/jacklishufan/diffusion-kto<br />《PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval》(2024) GitHub: github.com/ielab/PromptReps<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpa1dxc3goj21r60z2dse.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpa1ng6bpej21bm0i87hj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpacvrctxbj21rx0fuqk1.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 14:29:03 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 14:29:03 GMT</pubDate>
 </item>
 <item>
@@ -37,12 +36,11 @@
 <link>https://weibo.com/1402400261/OcjlE3gQN</link>
 <guid>https://weibo.com/1402400261/OcjlE3gQN</guid>
 <content:encoded><![CDATA[
-<div> 瑞芯微芯片、AI模型部署、软件开发工具包、RKNN Toolkit2、快速、GitHub、rknn-toolkit2、部署、软件栈、用户<br>
-<br>
+<div> 瑞芯微芯片、AI模型部署、软件开发工具包、RKNN Toolkit2、快速、GitHub、rknn-toolkit2、部署、软件栈、用户<br />
+<br />
 RKNN Toolkit2是一个用于快速将AI模型部署到瑞芯微芯片上的软件开发工具包。该软件堆栈可以帮助用户快速部署AI模型到Rockchip芯片上。用户可以在GitHub上找到相关信息，使用rknn-toolkit2进行部署。RKNN Toolkit2为用户提供了便捷的部署AI模型的解决方案。RKNN Toolkit2的优势在于快速且简单地完成AI模型的部署工作，让用户更加方便地利用瑞芯微芯片进行人工智能开发。 <div>
 【RKNN Toolkit2 是一个用于快速将AI模型部署到瑞芯微芯片上的软件开发工具包】'RKNN software stack can help users to quickly deploy AI models to Rockchip chips' GitHub: github.com/airockchip/rknn-toolkit2 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpad6fu64xj20fg088wf2.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 14:05:08 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 14:05:08 GMT</pubDate>
 </item>
 <item>
@@ -50,16 +48,14 @@ RKNN Toolkit2是一个用于快速将AI模型部署到瑞芯微芯片上的软�
 <link>https://weibo.com/1402400261/Ocjk09QTv</link>
 <guid>https://weibo.com/1402400261/Ocjk09QTv</guid>
 <content:encoded><![CDATA[
-<div> 无代码、组件、流程、编程、应用、通用、现代浏览器、移动设备、GitHub<br>
-<br>
-总结:<br>
+<div> 无代码、组件、流程、编程、应用、通用、现代浏览器、移动设备、GitHub<br />
+<br />
+总结:<br />
 Sequential Workflow Designer是一个无代码组件，用于构建基于流程的编程应用。它完全通用，无需外部依赖，支持现代浏览器和移动设备。用户可以在GitHub上找到该组件的相关信息。 <div>
 【Sequential Workflow Designer：一个无代码组件，用于构建基于流程的编程应用，完全通用，无需外部依赖，支持现代浏览器和移动设备】'Sequential Workflow Designer - Customizable no-code component for building flow-based programming applications. 0 external dependencies.' GitHub: github.com/nocode-js/sequential-workflow-designer <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpad2muz8jj20zk0hs75f.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 01 May 2024 14:01:05 GMT</pubDate>
-<pubDate>Wed, 01 May 2024 14:01:05 GMT</pubDate>
 </item>
-
 <item>
 <title>【lmstudio.js：LM Studio 的 TypeScript SDK，用于在 JavaScript/TypeScript/Node.js 代码中使用本地大型语言模型(LLMs)】'lmstudio.js - LM Studio TypeScript...</title>
 <link>https://weibo.com/1402400261/Ocjh3e83Y</link>
@@ -12866,56 +12862,6 @@ Sora模型在重塑艺术家工作流程方面展现了巨大潜力。它通过�
 'Char detection base on crnn 字符（单字）检测基于CRNN' GitHub: github.com/fanqie03/char-detection <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho36n1krarj20v50e2429.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho36n344nbj20an0fwtah.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho36n4karyj20jh0mxaca.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 25 Mar 2024 05:39:11 GMT</pubDate>
-</item>
-<item>
-<title>【NineRec: 多模态大规模数据集和多领域推荐系统基准】'[TPAMI 2024] NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation - A Lar...</title>
-<link>https://weibo.com/1402400261/O6Dc9bvae</link>
-<guid>https://weibo.com/1402400261/O6Dc9bvae</guid>
-<content:encoded><![CDATA[
-<div> 数据集，多模态，大规模，多领域，推荐系统，基准，跨领域迁移学习，GitHub，NineRec，TPAMI 2024
-
-总结:<br /><br />这篇文章介绍了NineRec，一个用于评估可转移推荐的基准数据集套件。该数据集包括大规模的多模态数据，用于多领域推荐系统的基准测试。作者提出了一种用于跨领域迁移学习的NineRec框架，并在TPAMI 2024上发布。GitHub上提供了相关资源。NineRec为推荐系统领域提供了重要的研究工具，并在实验中展示了其有效性和影响力。 <div>
-【NineRec: 多模态大规模数据集和多领域推荐系统基准】'[TPAMI 2024] NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation - A Large-scale Multimodal Dataset and Benchmark for Multi-domain Recommender System' GitHub: github.com/westlake-repl/NineRec <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho36ik5cu8j20z30u044j.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho36il7kmqj20xh0u0486.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 05:34:51 GMT</pubDate>
-</item>
-<item>
-<title>【codeium-parse：命令行代码解析工具，支持语法解析，帮用户轻松处理代码格式】’codeium-parse - A command line tool for parsing code syntax' GitHub: gith...</title>
-<link>https://weibo.com/1402400261/O6DbvzzHC</link>
-<guid>https://weibo.com/1402400261/O6DbvzzHC</guid>
-<content:encoded><![CDATA[
-<div> codeium-parse、命令行、代码解析工具、语法解析、GitHub、Exafunction、轻松处理代码格式
-
-总结:<br /><br />本文介绍了一个名为codeium-parse的命令行工具，用于解析代码语法。该工具支持用户处理代码格式，帮助用户快速解析代码的语法。用户可以在GitHub上找到该工具的开源代码，项目地址为github.com/Exafunction/codeium-parse。 <div>
-【codeium-parse：命令行代码解析工具，支持语法解析，帮用户轻松处理代码格式】’codeium-parse - A command line tool for parsing code syntax' GitHub: github.com/Exafunction/codeium-parse <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho36gz1bpbj20z60u078y.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 05:33:17 GMT</pubDate>
-</item>
-<item>
-<title>【Chat with MLX：高性能的macOS应用，将本地文档与一个个性化大型语言模型(LLM)连接起来。利用检索增强生成 (RAG)，可有效地搜索和查询文档】'Chat with MLX - ...</title>
-<link>https://weibo.com/1402400261/O6D6NezKY</link>
-<guid>https://weibo.com/1402400261/O6D6NezKY</guid>
-<content:encoded><![CDATA[
-<div> 关键词: MLX, macOS应用, 本地文档, 大型语言模型, 检索增强生成, 搜索, 查询
-
-总结:
-MLX是一个高性能的macOS应用，它将本地文档与一个个性化的大型语言模型(LLM)连接起来。通过利用检索增强生成(RAG)，用户可以有效地搜索和查询文档。这个应用提供了一种新颖的方式来管理和利用本地文档，并帮助用户更高效地查找和使用信息。MLX的功能强大，可以满足用户对文档管理和查询的各种需求，是一款实用的工具。MLX提供了一种直观、灵活的界面，让用户可以轻松地与文档和语言模型进行交互。通过MLX，用户可以更快速地查找所需信息，提高工作效率。MLX的设计简洁、易用，适合各种用户群体使用，是一款有很高潜力的应用。MLX的开发团队在不断努力改进和优化应用，以提供更好的用户体验和功能。MLX将成为用户处理文档和获取信息的得力助手，为他们节省时间和精力。 <div>
-【Chat with MLX：高性能的macOS应用，将本地文档与一个个性化大型语言模型(LLM)连接起来。利用检索增强生成 (RAG)，可有效地搜索和查询文档】'Chat with MLX - Chat with MLX is a high-performance macOS application that connects your local documents to a personalized large language model (LLM).' GitHub: github.com/mlx-chat/mlx-chat-app <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho364urcyuj219s0u0gq6.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 05:21:39 GMT</pubDate>
-</item>
-<item>
-<title>【Cookbook to Craft Good Code：一个帮助编写高质量代码的开源指南，强调代码的可读性、简洁性和易维护性】'Cookbook to Craft Good Code - Cookbook for Craft...</title>
-<link>https://weibo.com/1402400261/O6D41EcNQ</link>
-<guid>https://weibo.com/1402400261/O6D41EcNQ</guid>
-<content:encoded><![CDATA[
-<div> GitHub, Cookbook, Craft, Good Code, 高质量代码, 可读性, 简洁性, 易维护性
-
-<br /><br />总结:
-《Cookbook to Craft Good Code》是一个帮助编写高质量代码的开源指南，强调代码的可读性、简洁性和易维护性。该指南包含了许多有用的建议和实用的技巧，可以帮助开发人员写出更好的代码。重点强调了如何使代码易于阅读、简洁明了以及方便维护，旨在提高代码的质量和可维护性。通过遵循这些指南，开发人员可以提高他们编写代码的效率，并减少潜在的bug和问题，从而提高整体开发质量。整体而言，这个指南为编写高质量代码提供了一些非常有用的建议和技巧，值得开发人员借鉴和参考。 <div>
-【Cookbook to Craft Good Code：一个帮助编写高质量代码的开源指南，强调代码的可读性、简洁性和易维护性】'Cookbook to Craft Good Code - Cookbook for Crafting Good Code' GitHub: github.com/Mountchicken/CodeCookbook <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%BC%96%E7%A8%8B%23&amp;isnewpage=1"><span class="surl-text">#编程#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho35xpcxokj21bq0u0jy9.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 05:14:51 GMT</pubDate>
 </item>
 </channel>
 </rss>
