@@ -7170,3 +7170,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/Oca1Eiziq)
 append_entries: 0
 Finish: 2024-04-30 22:11:23.532298
+------------------------------------------------------
+Started: 2024-05-01 00:55:17.032510
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 205
+Summarized using GPT-3.5-turbo
+Append: [【《爱丽丝在可微分奇境的冒险——第一卷，土地之旅》是一本关于现代(深度)神经网络设计的袖珍书，强调了构建高效处理N维数据模型的重要性，被人覆盖从卷积到Tra...](https://weibo.com/1402400261/OcdI88DC9)
+Token length: 224
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：今日开奖，欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《多模态大模型：新一代人工智能技术范式 ...](https://weibo.com/1402400261/OcdqZx5sz)
+Token length: 106
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1392期)：Gemini模型的医学能力、生成式层次模型的高效分类、去噪和扩散、跨语言LLM自适应持续预训、人工偏好对齐对语言模型可信度的影响、揭示语言...](https://weibo.com/1402400261/Ocd9Yes8h)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [[CL] From Persona to Personalization: A Survey on Role-Playing Language Agents 网页链接 通过构建角色扮演语言Agent(RPLA)人格类型分类体系，深入探讨了LLM...](https://weibo.com/1402400261/Ocd6XyMHs)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [[CL] CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments 网页链接 CRISPR-GPT通过智能分解实验设计流程、集成专家知识和生物信息学工...](https://weibo.com/1402400261/Ocd3Gt6rl)
+Token length: 128
+Summarized using GPT-3.5-turbo
+Append: [[LG] A Survey on Diffusion Models for Time Series and Spatio-Temporal Data 网页链接 对时空数据分析中扩散模型的发展现状及应用进行了全面系统的调研总结，...](https://weibo.com/1402400261/Ocd02vxuC)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [[LG] DPO Meets PPO: Reinforced Token Optimization for RLHF 网页链接 通过建立Token级MDP框架，提出RTO算法，将DPO与PPO结合进行Token级策略优化，在对话对齐...](https://weibo.com/1402400261/OccY5h07P)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [提出评估框架系统地比较实例归因和神经元归因方法，发现两者可相互补充，呼吁未来研究综合运用两种方法以更全面地理解语言模型内部机制。 - 转发 @爱可可-爱生活...](https://weibo.com/1402400261/OccVqEnii)
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods》H Yu, P Atanasova, I Augenstein [University ...](https://weibo.com/1402400261/OccVn7Ryv)
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [通过对比三种 RLHF 变体在通用数据集上的效果，揭示了偏好学习与可信度之间的复杂内在联系，为构建既强大又可信赖的语言模型提供了宝贵启示。 - 转发 @爱可可-爱...](https://weibo.com/1402400261/OccSBfS7J)
+append_entries: 10
+Finish: 2024-05-01 00:56:02.020773
