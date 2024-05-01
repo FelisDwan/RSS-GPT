@@ -7206,3 +7206,9 @@ Summarized using GPT-3.5-turbo
 Append: [通过对比三种 RLHF 变体在通用数据集上的效果，揭示了偏好学习与可信度之间的复杂内在联系，为构建既强大又可信赖的语言模型提供了宝贵启示。 - 转发 @爱可可-爱...](https://weibo.com/1402400261/OccSBfS7J)
 append_entries: 10
 Finish: 2024-05-01 00:56:02.020773
+------------------------------------------------------
+Started: 2024-05-01 02:26:31.676245
+Existing_entries: 1010
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-05-01 02:26:31.882903
