@@ -7332,3 +7332,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OcjGwA4bE)
 append_entries: 0
 Finish: 2024-05-01 22:11:10.367948
+------------------------------------------------------
+Started: 2024-05-02 00:51:02.664762
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 572
+Summarized using GPT-3.5-turbo
+Append: [【TED演讲：如何治理人工智能——即使它很难预测】- AI专家普遍认为目前没有人真正了解AI的内部工作原理。这给AI的管理和治理带来了很大困难。 - 一个关键问题是...](https://weibo.com/1402400261/Ocn434TBA)
+Token length: 380
+Summarized using GPT-3.5-turbo
+Append: [【TeraHAC：对包含万亿条边的图进行高效层次聚类】- TeraHAC算法是谷歌研究团队为处理大规模图数据设计的层次聚合聚类算法。 - 该算法能够处理具有数万亿条边的...](https://weibo.com/1402400261/Ocn2BurwH)
+Token length: 698
+Summarized using GPT-3.5-turbo
+Append: [【TED访谈：人工智能正在解开自然和宇宙的奥秘】- Demis Hassabis认为，AI是探索那些传统上需要通过哲学或物理学才能理解的“大问题”的最快途径。他从小就对物...](https://weibo.com/1402400261/Ocn1jgYZU)
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型应用指南》，截至2024.5.9 12:00，*可可粉*转发+评论即可参与。一本对人工智能小白读者非常友好的大语...](https://weibo.com/1402400261/OcmZ1yr5i)
+Token length: 125
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1393期)：Kolmogorov-Arnold网络、迭代推理偏好优化、基于Multi-token预测的更好更快的大型语言模型、无需训练的图神经网络与标签即特征的潜力、面向...](https://weibo.com/1402400261/OcmTr1h55)
+Token length: 101
+Summarized using GPT-3.5-turbo
+Append: [[CV] SAGS: Structure-Aware 3D Gaussian Splatting 网页链接 通过隐式编码场景结构提出结构感知高斯Splatting渲染方法，取得了渲染质量和压缩率的显著提升。 [...](https://weibo.com/1402400261/OcmOXgwaj)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [[LG] Foundations of Multisensory Artificial Intelligence 网页链接 从理论和实践两个方面深入研究了多模态机器学习的基础，包括多模态交互量化、表示学习和大...](https://weibo.com/1402400261/OcmLLfwMj)
+Token length: 140
+Summarized using GPT-3.5-turbo
+Append: [[LG] On Training a Neural Network to Explain Binaries 网页链接 提出嵌入距离相关性(EDC)的算法可以快速可靠地评估序列到序列任务数据集的质量，发现现有公开...](https://weibo.com/1402400261/OcmHWvQjt)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [[CL] Multi-hop Question Answering over Knowledge Graphs using Large Language Models 网页链接 通过信息检索和语义解析两种途径，在不同知识图谱数据集上展...](https://weibo.com/1402400261/OcmEU3WoE)
+Token length: 174
+Summarized using GPT-3.5-turbo
+Append: [通过马尔可夫训练产生可解释、可迁移的链式思维，以提高语言模型的透明度和可靠性。 - 转发 @爱可可-爱生活:&ensp;[CL]《Markovian Agents for Truthful Languag...](https://weibo.com/1402400261/OcmC7b0ob)
+append_entries: 10
+Finish: 2024-05-02 00:51:52.677743
