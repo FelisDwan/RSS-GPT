@@ -4,6 +4,19 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>【通过无监督学习方法激活语言模型潜在行为】- 由于训练数据的原因，大语言模型可能存在多种潜在的行为模式。这些模式可能对模型的安全性和对齐性产生影响。 - ...</title>
+<link>https://weibo.com/1402400261/OcnhX8x5s</link>
+<guid>https://weibo.com/1402400261/OcnhX8x5s</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 无监督学习、语言模型、潜在行为、模型安全性、提示工程、机械化方法、残差流、操纵向量、红队测试、异常检测
+
+总结:<br><br>本文介绍了一种利用无监督学习方法激活语言模型潜在行为的新途径。通过在模型内部添加操纵向量或修改权重来激活这些行为模式，以便更全面地检验模型的行为范围，揭示异常行为。这种机械化方法相对于非机械化方法更具优势。作者通过红队测试发现了反拒绝向量和奇幻向量，揭示了游戏知识的特殊行为。除了小样本大小，该方法还可发现有价值的模型离散行为信息，发现了对下游影响较大的高影响特征。该方法对监督式激活控制和异常检测都有帮助，未来可继续深入研究该方法的定量评估和在异常检测中的应用。 <div>
+【通过无监督学习方法激活语言模型潜在行为】<br />- 由于训练数据的原因，大语言模型可能存在多种潜在的行为模式。这些模式可能对模型的安全性和对齐性产生影响。   <br />- 相比提示工程或树搜索等非机械化方法，文章提出通过机械化地扰动模型内部(如修改权重或在残差流中添加固定偏差)来激发这些潜在行为，这更有利于检验模型的广泛行为，发现异常行为，并覆盖更多行为范围。   <br />- 具体方法是在模型的中间层残差流中添加非监督式的 “操纵向量”，或适配该层的MLP输出权重矩阵，目的是最大化下游层的激活变化。   <br />- 作者应用该方法对模型进行红队测试，发现了可绕过安全训练的反拒绝向量，以及揭示游戏知识的奇幻向量。这表明方法可以发现广泛、有意义的行为。   <br />- 与自编码器等其他方法相比，该方法适用于小样本大小，并可能发现更多关于模型离散分布行为的有价值信息。   <br />- 作者认为该方法发现了对下游影响较大的 “高影响特征”，这反映了这些特征在结构上具有重要性。   <br />- 该方法可为监督式激活控制提供帮助，也可应用于异常检测。   <br />- 未来可继续研究该方法的定量评估，以及在异常检测中的应用。<br />《Mechanistically Eliciting Latent Behaviors in Language Models — AI Alignment Forum》 <a href="https://www.alignmentforum.org/posts/ioPnHKFyy4Cw2Gr2x/mechanistically-eliciting-latent-behaviors-in-language-1"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpauj4e1o5j20n60qkwgh.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Thu, 02 May 2024 00:07:01 GMT</pubDate>
+<pubDate>Thu, 02 May 2024 00:07:01 GMT</pubDate>
+</item>
 
 <item>
 <title>【TED演讲：如何治理人工智能——即使它很难预测】- AI专家普遍认为目前没有人真正了解AI的内部工作原理。这给AI的管理和治理带来了很大困难。 - 一个关键问题是...</title>

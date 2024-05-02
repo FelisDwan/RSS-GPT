@@ -5123,3 +5123,12 @@ Existing_entries: 619
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-05-02 04:13:39.303649
+------------------------------------------------------
+Started: 2024-05-02 06:14:59.571920
+Existing_entries: 619
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 534
+Summarized using GPT-3.5-turbo
+Append: [#中国AIGC产业峰会##只要拿到更多算力超过Sora没那么难# 一支人大系大模型团队，前后与OpenAI进行了三次大撞车！第一次是与Clip，第二次是与GPT-4V，最新一次撞...](https://weibo.com/6105753431/OcpafrB2J)
+append_entries: 1
+Finish: 2024-05-02 06:15:07.000705
