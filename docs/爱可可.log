@@ -7413,3 +7413,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-05-02 14:10:49.803831
+------------------------------------------------------
+Started: 2024-05-02 16:13:42.831468
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 207
+Summarized using GPT-3.5-turbo
+Append: [【OpenAI Assistants API Quickstart：用Next.js快速启动OpenAI助手API的公共模板项目】'OpenAI Assistants API Quickstart - OpenAI Assistants API quickstart...](https://weibo.com/1402400261/OcsMusiTl)
+append_entries: 1
+Finish: 2024-05-02 16:13:51.089613
