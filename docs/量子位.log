@@ -5138,3 +5138,12 @@ Existing_entries: 620
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-05-02 08:14:52.966514
+------------------------------------------------------
+Started: 2024-05-02 10:12:47.708268
+Existing_entries: 620
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 323
+Summarized using GPT-3.5-turbo
+Append: [#Claude突然上线iOS版本##网友呼吁Claude语音功能上线iOS# Claude，深夜突然大放送iOS版本！就在几小时前，Anthropic官方突然给家人们送福利，官宣Claude正式推...](https://weibo.com/6105753431/OcpcswWq2)
+append_entries: 1
+Finish: 2024-05-02 10:12:53.229798
