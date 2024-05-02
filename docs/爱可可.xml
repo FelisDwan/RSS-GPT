@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【TED演讲：如何治理人工智能——即使它很难预测】- AI专家普遍认为目前没有人真正了解AI的内部工作原理。这给AI的管理和治理带来了很大困难。 - 一个关键问题是...</title>
 <link>https://weibo.com/1402400261/Ocn434TBA</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 管理、治理、困难、智能、定义、发展、深度神经网络、可解释性、公众参与、潜力
 
-<br><br>总结:
+<br /><br />总结:
 AI专家普遍认为管理和治理人工智能困难重重，其中一个关键问题在于对智能的定义存在巨大差异。目前的深度神经网络被视为一个"黑匣子"，需要进一步研究以提高可解释性。即使对AI感到困惑，公众也应该保持警惕并参与讨论。在治理AI时，应该关注适应性而非确定性，采取措施及时了解AI发展状态并调整政策。AI的潜力远不止商业应用，公众应该推动AI朝着有利于人类的方向发展。 <div>
 【TED演讲：如何治理人工智能——即使它很难预测】<br />- AI专家普遍认为目前没有人真正了解AI的内部工作原理。这给AI的管理和治理带来了很大困难。   <br />- 一个关键问题是，没有人能够清楚定义“智能”的内涵。不同的专家对智能的理解差异很大，这导致他们对AI发展方向和速度的预期存在巨大分歧。   <br />- 过去将AI分为“窄AI”和“通用AI”。但ChatGPT等系统打破了这个简单的二分法。真正的“通用AI”仍然遥不可及。   <br />- 目前主流的深度神经网络可看作是一个“黑盒”。我们可以看到里面的数字，但过多的参数使得难以解析其中逻辑。需要进一步的可解释性研究。   <br />- 对AI感到困惑和不解是可以理解的。但AI并非魔法，其内部运作并非不可知。公众需要对AI公司和技术专家保持警惕，并参与讨论。   <br />- 在治理AI方面，应该关注适应性而非确定性。通过测量AI能力、要求公司信息披露、建立事故报告机制等方式，及时了解AI发展状态，并据此调整政策。   <br />- AI的潜力远不止某些公司的商业应用。更高级的AI可能会解锁清洁能源、农业革命等多方面变革。公众需要发出自己的声音，推动AI朝着有利于人类的方向发展。<br />《Helen Toner: How to govern AI — even if it's hard to predict | TED Talk》 <a href="https://www.ted.com/talks/helen_toner_how_to_govern_ai_even_if_it_s_hard_to_predict/transcript"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpatlgws9qj21hc0u0443.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 23:32:46 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 23:32:46 GMT</pubDate>
 </item>
 <item>
@@ -25,11 +25,10 @@ AI专家普遍认为管理和治理人工智能困难重重，其中一个关键
 <content:encoded><![CDATA[
 <div> 谷歌、TeraHAC算法、层次聚类、大规模图数据、稀疏图、计算复杂度、MapReduce、分布式环境、多核资源、精确度-召回率权衡
 
-<br><br>总结:
+<br /><br />总结:
 谷歌研究团队设计了TeraHAC算法，用于处理包含万亿条边的大规模图数据，该算法在稀疏图上利用相似性矩阵的稀疏性优化计算步骤，降低计算复杂度。通过MapReduce风格的计算模型，TeraHAC能够在分布式环境中高效利用多核或多机资源。实验结果显示，TeraHAC相比传统算法速度提升超过75倍，并在保持聚类质量的同时实现了最佳的精确度-召回率权衡，在8万亿边的数据集上成为首选算法。 <div>
 【TeraHAC：对包含万亿条边的图进行高效层次聚类】<br />- TeraHAC算法是谷歌研究团队为处理大规模图数据设计的层次聚合聚类算法。  <br />- 该算法能够处理具有数万亿条边的图，适用于大规模预测和信息检索任务。  <br />- TeraHAC通过在稀疏图上利用相似性矩阵中的稀疏性，优化了计算步骤，减少了计算复杂度。  <br />- 实验表明，TeraHAC在保持聚类质量的同时，相比传统算法有超过75倍的速度提升。  <br />- TeraHAC算法采用了MapReduce风格的计算模型，适用于分布式环境，能高效利用多核或多机资源。  <br />- 在8万亿边的数据集上，TeraHAC实现了最佳的精确度-召回率权衡，成为超大规模图聚类的首选算法。  <br />《Scaling hierarchical agglomerative clustering to trillion-edge graphs》 <a href="https://research.google/blog/scaling-hierarchical-agglomerative-clustering-to-trillion-edge-graphs/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span> <span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpathjl3kxj223y0u079i.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 23:29:13 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 23:29:13 GMT</pubDate>
 </item>
 <item>
@@ -39,10 +38,9 @@ AI专家普遍认为管理和治理人工智能困难重重，其中一个关键
 <content:encoded><![CDATA[
 <div> 人工智能、Demis Hassabis、探索、哲学、物理学、游戏训练、AlphaFold项目、蛋白质结构、强大推理、ChatGPT
 
-总结:<br><br>Demis Hassabis认为人工智能是探索传统“大问题”的途径，对物理学问题感兴趣，通过建造AI系统帮助人类思考和获得答案。他使用游戏训练AI系统，如AlphaGo证明了AI的学习能力。AlphaFold项目利用AI预测蛋白质结构，为药物设计带来帮助。AI系统如AlphaZero达到世界顶级水平，但进步指数级，需谨慎对待。ChatGPT激发科技公司竞争，但需注意应用风险。Hassabis乐观认为AI可成为探索工具，但需谨慎应对风险，期望AI最大限度地增进人类福祉。 <div>
+总结:<br /><br />Demis Hassabis认为人工智能是探索传统“大问题”的途径，对物理学问题感兴趣，通过建造AI系统帮助人类思考和获得答案。他使用游戏训练AI系统，如AlphaGo证明了AI的学习能力。AlphaFold项目利用AI预测蛋白质结构，为药物设计带来帮助。AI系统如AlphaZero达到世界顶级水平，但进步指数级，需谨慎对待。ChatGPT激发科技公司竞争，但需注意应用风险。Hassabis乐观认为AI可成为探索工具，但需谨慎应对风险，期望AI最大限度地增进人类福祉。 <div>
 【TED访谈：人工智能正在解开自然和宇宙的奥秘】<br />- Demis Hassabis认为，AI是探索那些传统上需要通过哲学或物理学才能理解的“大问题”的最快途径。他从小就对物理学中的基本问题很感兴趣，如意识本质等。他认为通过建造AI系统可以帮助人类思考和获得这些问题的答案。   <br />- Demis Hassabis使用游戏来训练AI系统。从最初的Atari游戏到后来的围棋软件AlphaGo，游戏为AI算法提供了方便快速的测试环境。这些游戏系统也证明了AI的强大学习和推断能力。   <br />- AlphaFold项目使用AI来预测蛋白质的三维结构，是生物学领域半个世纪的难题。该项目预测了超过2亿个蛋白质的三维结构，节省了数十亿小时的科学家工作时间。为药物设计和疾病研究带来巨大帮助。   <br />- AI系统像AlphaZero在极短时间内达到世界顶级水平，证明了AI的强大推理能力。但也需要谨慎对待，因为它们的进步是指数级的，远非增量式。   <br />- 近期ChatGPT的出现激发了各大科技公司开发类似产品的竞争。但为赶上进度而过于激进地应用AI可能带来风险。行业内部需要加强合作，政府监管也很重要。   <br />- Demis Hassabis对未来保持乐观，认为AI可以成为探索知识树的工具，甚至有朝一日理解基本的实在本质。但他也认为过程中有各种风险需要谨慎对待。   <br />- Demis Hassabis期望通过AI来最大限度地增进人类福祉。<br />《Demis Hassabis: How AI is unlocking the secrets of nature and the universe | TED Talk》 <a href="https://www.ted.com/talks/demis_hassabis_how_ai_is_unlocking_the_secrets_of_nature_and_the_universe/transcript"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpatel264kj217u0oidop.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 23:26:02 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 23:26:02 GMT</pubDate>
 </item>
 <item>
@@ -52,11 +50,10 @@ AI专家普遍认为管理和治理人工智能困难重重，其中一个关键
 <content:encoded><![CDATA[
 <div> 人工智能、大语言模型、应用指南、机器学习、神经网络、自然语言处理、提示工程、GPTs、无梯度优化、安全技术
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了一本《大语言模型应用指南》共分为四篇，旨在帮助人工智能小白读者掌握大语言模型的应用。第一篇夯实基础，涉及机器学习、神经网络、自然语言处理的基础知识。第二篇实践应用，包括交互格式、提示工程、GPTs的开发等内容。第三篇拓宽边界，讨论无梯度优化、自主Agent系统、大语言模型微调等议题。第四篇展望未来，探讨多模态大语言模型、尺度定律、压缩即智能等前沿课题。整体而言，该指南全面涵盖了大语言模型的基础、实践、拓展和未来发展方向，适合初学者了解和深入研究。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《大语言模型应用指南》，截至2024.5.9 12:00，*可可粉*转发+评论即可参与。一本对人工智能小白读者非常友好的大语言模型应用指南，第1篇夯实基础，探索机器学习、神经网络、自然语言处理和大语言模型的基础。第2篇实践应用，包括交互格式、提示工程、工作记忆与长短期记忆，外部工具和GPTs的开发。第3篇拓宽边界，涵盖无梯度优化、自主Agent系统、大语言模型微调以及安全技术等。第4篇洞见未来，探讨多模态大语言模型、尺度定律、压缩即智能、图灵机与大语言模型的关联等。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpat58zigtj20m80m8myr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpat89xztmj20m80m8whk.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpat8ab08qj20m80m80up.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpat8bjhzkj20m80m8q52.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpat8c7vsej20m80m8dhx.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpat8e5u7oj20m80m8gob.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 23:20:24 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 23:20:24 GMT</pubDate>
 </item>
 <item>
@@ -64,12 +61,11 @@ AI专家普遍认为管理和治理人工智能困难重重，其中一个关键
 <link>https://weibo.com/1402400261/OcmTr1h55</link>
 <guid>https://weibo.com/1402400261/OcmTr1h55</guid>
 <content:encoded><![CDATA[
-<div> Kolmogorov-Arnold网络, 迭代推理偏好优化, Multi-token预测, 大型语言模型, 无需训练的图神经网络, 标签即特征, 面向真实性语言建模, 马尔可夫Agent<br>
-<br>
+<div> Kolmogorov-Arnold网络, 迭代推理偏好优化, Multi-token预测, 大型语言模型, 无需训练的图神经网络, 标签即特征, 面向真实性语言建模, 马尔可夫Agent<br />
+<br />
 总结:本文介绍了几个新颖的技术和模型，包括Kolmogorov-Arnold网络、迭代推理偏好优化和基于Multi-token预测的大型语言模型。此外，文章还探讨了无需训练的图神经网络和标签即特征的潜力。最后，作者提出了面向真实性语言建模的马尔可夫Agent模型，展示了其在任务中的应用效果。这些技术和模型的引入和探索将为相关领域的研究和应用带来新的思路和可能性。 <div>
 今日推介(第1393期)：Kolmogorov-Arnold网络、迭代推理偏好优化、基于Multi-token预测的更好更快的大型语言模型、无需训练的图神经网络与标签即特征的潜力、面向真实性语言建模的马尔可夫Agent 公·众·号：爱可可爱生活 <a href="http://aicoco.net/s/8u"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpasu1r79bj21b60lyn1k.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpasu3ypsdj21ba0mwdly.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpasu7a2wcj20t41csn2t.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpasua6hi9j21zj0u0dkq.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpasucy5foj21bq0o0q8o.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 23:06:37 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 23:06:37 GMT</pubDate>
 </item>
 <item>
@@ -79,11 +75,10 @@ AI专家普遍认为管理和治理人工智能困难重重，其中一个关键
 <content:encoded><![CDATA[
 <div> 3D 渲染, 高斯 Splatting, 结构感知, 渲染质量, 压缩率, 隐式编码场景结构
 
-<br><br>总结:
+<br /><br />总结:
 该篇论文提出了一种名为Structure-Aware 3D Gaussian Splatting（SAGS）的渲染方法，通过隐式编码场景结构来实现结构感知。该方法在渲染质量和压缩率方面取得了显著提升。首先，使用高斯分布来表示光线在空间中的传播。随后，通过对场景结构的隐式编码，将每个像素的渲染结果根据结构信息进行调整，从而提高渲染质量。同时，通过对渲染结果进行稀疏表示和学习，实现了高效的压缩，有效减少了计算和存储成本。该方法在多种场景下都取得了良好的效果，展示了其在实际场景中的潜在应用前景。结合了结构感知和高斯Splatting的特点，使得SAGS在渲染任务中具有独特优势，为三维渲染领域的发展提供了新的思路和方法。 <div>
 [CV] SAGS: Structure-Aware 3D Gaussian Splatting  <br /><a href="https://arxiv.org/abs/2404.19149"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />通过隐式编码场景结构提出结构感知高斯Splatting渲染方法，取得了渲染质量和压缩率的显著提升。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpasiv9g1tj20us1bganx.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpasivoti8j215g0rktjq.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpasivx4jyj21520lmwmm.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 22:55:35 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 22:55:35 GMT</pubDate>
 </item>
 <item>
@@ -93,11 +88,10 @@ AI专家普遍认为管理和治理人工智能困难重重，其中一个关键
 <content:encoded><![CDATA[
 <div> 多模态机器学习、多模态交互量化、表示学习、大规模评估、通用、交互、人工智能、基础、理论、实践
 
-<br><br>总结:
+<br /><br />总结:
 本文从理论和实践两个方面深入研究了多模态机器学习的基础。首先探讨了多模态交互量化和表示学习的重要性，强调了这些技术在构建多模态人工智能方面的关键作用。同时，对大规模评估方法进行了讨论，为多模态人工智能的发展提供了实践基础。通过建立通用且具有交互性的多模态人工智能系统，为未来人工智能领域的发展奠定了基础。 <div>
 [LG] Foundations of Multisensory Artificial Intelligence  <br /><a href="https://arxiv.org/abs/2404.18976"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />从理论和实践两个方面深入研究了多模态机器学习的基础，包括多模态交互量化、表示学习和大规模评估，为构建通用和交互的多模态人工智能奠定了基础。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpasalydnzj210u14idla.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpasamjckuj20w41b8ngh.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpasamwt1yj210i18ktjm.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpasanlivxj21181csws0.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpasanoue8j21001cidsp.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpasanpxdaj21001cidsa.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 22:47:43 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 22:47:43 GMT</pubDate>
 </item>
 <item>
@@ -108,11 +102,10 @@ AI专家普遍认为管理和治理人工智能困难重重，其中一个关键
 <div> 提取关键词:
 嵌入距离相关性, 神经网络, 二进制代码, 数据集, 训练, 质量, 评估, 公开数据集, 自建数据集, 任务
 
-总结:<br>
+总结:<br />
 本文提出了嵌入距离相关性（EDC）算法，用于评估序列到序列任务数据集的质量。研究发现现有公开数据集和自建数据集在二进制代码理解任务上质量较差，无法有效训练模型。因此，需要改进数据集质量以利于神经网络的训练。 <div>
 [LG] On Training a Neural Network to Explain Binaries  <br /><a href="https://arxiv.org/abs/2404.19631"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>        <br />提出嵌入距离相关性(EDC)的算法可以快速可靠地评估序列到序列任务数据集的质量，发现现有公开数据集与自建数据集在二进制代码理解任务上质量均较差，无法进行模型有效训练。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpas0vp30wj20uw1d4tng.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpas0w64kmj215k0l8n0x.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpas0wu08vj218k0lqtex.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 22:38:19 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 22:38:19 GMT</pubDate>
 </item>
 <item>
@@ -122,11 +115,10 @@ AI专家普遍认为管理和治理人工智能困难重重，其中一个关键
 <content:encoded><![CDATA[
 <div> 关键词: 多跳问答, 知识图谱, 大规模语言模型, 提示注入知识, 复杂推理
 
-总结:<br>
+总结:<br />
 该研究通过信息检索和语义解析两种途径，在不同知识图谱数据集上展示了提示注入知识后，大规模语言模型可以进行复杂多跳推理的能力。研究结果表明，注入知识可以帮助模型更好地理解问题并进行更准确的推理，从而提高问答系统的性能。这种方法为多跳问题的解决提供了新的思路，并展现了大规模语言模型在知识图谱上的潜在应用前景。研究还指出，在知识图谱的基础上加入额外的背景信息可以进一步提升模型性能，对于推理复杂问题具有重要意义。通过持续优化模型结构和训练方法，可以进一步提高模型在多跳问题上的表现，并推动知识图谱问答系统的发展。 <div>
 [CL] Multi-hop Question Answering over Knowledge Graphs using Large Language Models  <br /><a href="https://arxiv.org/abs/2404.19234"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />通过信息检索和语义解析两种途径，在不同知识图谱数据集上展示了提示注入知识后，大规模语言模型可以进行复杂多跳推理的能力。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpart423afj20x417eh1o.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpart48gwaj21jo1920yo.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpart4cpa5j21jo0qyn0q.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Wed, 01 May 2024 22:30:49 GMT</pubDate>
 <pubDate>Wed, 01 May 2024 22:30:49 GMT</pubDate>
 </item>
 <item>
@@ -134,16 +126,14 @@ AI专家普遍认为管理和治理人工智能困难重重，其中一个关键
 <link>https://weibo.com/1402400261/OcmC7b0ob</link>
 <guid>https://weibo.com/1402400261/OcmC7b0ob</guid>
 <content:encoded><![CDATA[
-<div> 马尔可夫训练、可解释、可迁移、链式思维、语言模型、透明度、可靠性、Stanford University、2024、S Viteri<br>
-<br>
-总结:<br>
+<div> 马尔可夫训练、可解释、可迁移、链式思维、语言模型、透明度、可靠性、Stanford University、2024、S Viteri<br />
+<br />
+总结:<br />
 本文提出了使用马尔可夫代理来训练语言模型的方法，以提高其透明度和可靠性。该方法有助于生成可解释、可迁移的链式思维，使语言模型更具实用性。研究来自斯坦福大学，是为了深入探讨真实语言建模的可能性。这一方法可能对自然语言处理领域产生深远影响，有助于提升模型的性能和可理解性。 <div>
 通过马尔可夫训练产生可解释、可迁移的链式思维，以提高语言模型的透明度和可靠性。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Markovian Agents for Truthful Language Modeling》S Viteri, M Lamparth, P Chatain, C Barrett [Stanford University] (2024) <a href="https://arxiv.org/abs/2404.18988"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hparg6t5ulj213y0qg7fs.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hparg7imt2j21bm0iggs3.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hparg7u3trj21c20t0tfm.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hparg81n2ij21bq0o0n58.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hparg85qi4j21bm0nyn4y.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 01 May 2024 22:23:57 GMT</pubDate>
-<pubDate>Wed, 01 May 2024 22:23:57 GMT</pubDate>
 </item>
-
 <item>
 <title>《爱可可微博热门分享(5.1)》 爱可可微博热门分享(5.1) [图片]</title>
 <link>https://weibo.com/1402400261/OcjDok7jz</link>
@@ -12874,133 +12864,6 @@ Sora模型在重塑艺术家工作流程方面展现了巨大潜力。它通过�
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%87%E5%8C%96">@图灵文化</a> <a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%B0%E7%9F%A5">@图灵新知</a> 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发+评论即可参与。带你轻松掌握数据结构与算法，以全新的视角带你进入算法的世界。书中的每一章节都配有生动的动画图解，让抽象的数据结构和算法变得直观易懂。实战代码示例让你即学即用，及时巩固新知识。互动环节的设计帮助你主动思考，提问和解决问题。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5014630549948449"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfciddvdj21pe24a7wh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfchthjaj20m80m8q6g.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfcht5csj20m80m8go5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzfchtze3j20m80m8ach.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfci9xvsj2494494e81.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnzfcht5xoj20m80m8mzj.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Mon, 25 Mar 2024 23:59:14 GMT</pubDate>
-</item>
-<item>
-<title>今日推介(第1356期)：大型语言模型能在上下文中探索吗、用新型迭代数据增强来提升LLM、利用Spotlighting防御间接提示注入攻击、防止越狱把安全性定义清楚最重要...</title>
-<link>https://weibo.com/1402400261/O6JNAD6QM</link>
-<guid>https://weibo.com/1402400261/O6JNAD6QM</guid>
-<content:encoded><![CDATA[
-<div> 大型语言模型、上下文探索、迭代数据增强、LLM、Spotlighting防御、间接提示注入攻击、防止越狱、安全性定义、概念嵌入生成
-
-<br /><br />总结:
-本文介绍了几个关键技术点。首先是关于大型语言模型在上下文中的探索能力，这对于提高模型的自然语言处理能力至关重要。其次是新型迭代数据增强技术的应用，可以有效提升LLM的性能。接着介绍了Spotlighting防御技术，可以防止间接提示注入攻击，提高系统的安全性。文章还提到了越狱问题，明确定义安全性是防止越狱的关键。最后讨论了大型语言模型的概念嵌入生成，为模型的发展提供了新思路。这些技术和方法的应用将进一步推动自然语言处理和人工智能领域的发展。 <div>
-今日推介(第1356期)：大型语言模型能在上下文中探索吗、用新型迭代数据增强来提升LLM、利用Spotlighting防御间接提示注入攻击、防止越狱把安全性定义清楚最重要、大型语言模型的概念嵌入生成 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/689014510"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho3znqy7f7j20go0f1myr.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho3znuwdacj20go0bs0ug.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho3znzg8ywj20go0ajdga.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho3zo35ouxj20go07faau.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho3zo6h03nj20go0aft9s.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 22:23:35 GMT</pubDate>
-</item>
-<item>
-<title>[LG] Accelerated Objective Gap and Gradient Norm Convergence for Gradient Descent via Long Steps 网页链接 构造涉及银比(silver ratio)的特殊步长表，通过...</title>
-<link>https://weibo.com/1402400261/O6JJXjo0J</link>
-<guid>https://weibo.com/1402400261/O6JJXjo0J</guid>
-<content:encoded><![CDATA[
-<div> 银比、特殊步长表、目标函数差值、梯度范数、收敛速率、O(1/N^(1.2716...))、短步长梯度下降、证明、归纳法、改进
-
-<br /><br />总结:
-文章通过构造涉及银比的特殊步长表，同时在目标函数差值和梯度范数上通过归纳法证明了可以获得收敛速率为O(1/N^(1.2716...))的结果，这一结果改进了短步长梯度下降的经典成果。这种方法提供了更快速的梯度下降算法，为优化问题的解决提供了新的思路和工具。 <div>
-[LG] Accelerated Objective Gap and Gradient Norm Convergence for Gradient Descent via Long Steps  <br /><a href="https://arxiv.org/abs/2403.14045"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />构造涉及银比(silver ratio)的特殊步长表，通过归纳法证明可以在目标函数差值和梯度范数上同时获得O(1/N^(1.2716...))的收敛速率，改进了短步长梯度下降的经典结果。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho3zevlu2xj210s1ba7in.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 22:14:38 GMT</pubDate>
-</item>
-<item>
-<title>[IR] FollowIR: Evaluating and Teaching Information Retrieval Models to Follow Instructions 网页链接 提出FOLLOWIR基准测试集和p-MRR评估指标，分析了现有...</title>
-<link>https://weibo.com/1402400261/O6JHsE2Ne</link>
-<guid>https://weibo.com/1402400261/O6JHsE2Ne</guid>
-<content:encoded><![CDATA[
-<div> 模型评估, 指令理解, 信息检索, FOLLOWIR, 基准测试集, p-MRR, 指令遵循
-
-<br /><br />总结:
-该研究提出了FOLLOWIR基准测试集和p-MRR评估指标，旨在评估和教授信息检索模型遵循指令的能力。分析发现现有模型在遵循复杂指令方面存在不足，为提高信息检索模型的指令理解能力提供了基础。通过该研究，可以更好地了解信息检索模型在指令遵循方面的表现，并为进一步研究指令理解能力和提高模型性能提供参考。 <div>
-[IR] FollowIR: Evaluating and Teaching Information Retrieval Models to Follow Instructions  <br /><a href="https://arxiv.org/abs/2403.15246"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />提出FOLLOWIR基准测试集和p-MRR评估指标，分析了现有模型在遵循复杂指令方面的不足，为进一步提高信息检索模型的指令理解能力奠定基础。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho3z8mo922j20vc1bond1.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho3z8mw16gj21em0qewq7.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho3z8nl79fj21f819gwnh.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 22:08:29 GMT</pubDate>
-</item>
-<item>
-<title>[RO] Learning Quadruped Locomotion Using Differentiable Simulation 网页链接 通过分解与校准不同物理空间实现了可微仿真框架，使单四足机器人可在几分钟内学...</title>
-<link>https://weibo.com/1402400261/O6JDwwbT9</link>
-<guid>https://weibo.com/1402400261/O6JDwwbT9</guid>
-<content:encoded><![CDATA[
-<div> 可微仿真框架, 四足机器人, 学习, 步态, 物理空间, 机器人<br />
-<br />
-通过分解和校准不同物理空间，研究人员开发了一种可微仿真框架，使得单四足机器人能够在几分钟内学习复杂的步态。这种框架可以直接迁移至实际机器人上，极大地提高了机器人学习的效率和准确性。通过这种方法，研究人员为机器人学习和应用带来了新的可能性，为未来的机器人技术发展提供了新思路和方法。<br /><br />总结: <br />可微仿真框架提高了机器人学习效率，使得四足机器人可以快速学习复杂步态。该方法可直接应用于实际机器人上，为机器人技术发展带来新思路。 <div>
-[RO] Learning Quadruped Locomotion Using Differentiable Simulation  <br /><a href="https://arxiv.org/abs/2403.14864"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />通过分解与校准不同物理空间实现了可微仿真框架，使单四足机器人可在几分钟内学习复杂步态，并可直接迁移到实际机器人上。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho3yyc5homj210y1b6qo1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho3yyckgmdj21cu0waqb6.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho3yyd03vaj20oi0i2di2.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho3yydlcefj21cm0lqdpe.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 21:58:47 GMT</pubDate>
-</item>
-<item>
-<title>[LG] Compiler generated feedback for Large Language Models 网页链接 本文通过结合大型语言模型与编译器反馈的方式实现了LLVM IR代码优化，并证明采样技术可...</title>
-<link>https://weibo.com/1402400261/O6JxKz4iD</link>
-<guid>https://weibo.com/1402400261/O6JxKz4iD</guid>
-<content:encoded><![CDATA[
-<div> LLVM IR代码优化 大型语言模型 编译器反馈 采样技术 最优效果
-
-<br /><br />总结:
-本文讨论了如何结合大型语言模型与编译器反馈实现LLVM IR代码优化，并证明了采样技术可以取得近最优的效果。该方法通过引入大型语言模型对代码进行优化，并利用编译器反馈来调整优化策略，取得了令人满意的结果。这种方法在实践中展现出了很高的效果，为代码优化领域带来了新的思路和方法。 <div>
-[LG] Compiler generated feedback for Large Language Models  <br /><a href="https://arxiv.org/abs/2403.14714"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />本文通过结合大型语言模型与编译器反馈的方式实现了LLVM IR代码优化，并证明采样技术可以取得近最优的效果。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho3yjjlcuqj211g1awaw9.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho3yjk3qcrj21g00z4k32.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho3yjkh2fkj21gg0ne0zr.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho3yjkndsyj20qi0t20x6.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 21:44:34 GMT</pubDate>
-</item>
-<item>
-<title>《爱可可微博热门分享(3.25)》 爱可可微博热门分享(3.25) [图片]</title>
-<link>https://weibo.com/1402400261/O6GKpoEpC</link>
-<guid>https://weibo.com/1402400261/O6GKpoEpC</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 爱可可, 微博, 热门分享, 3.25
-
-总结:<br /><br />这篇文章是关于爱可可微博上的热门分享，内容丰富多样，引起广泛关注。其中，3.25号的内容尤为受欢迎。微博作为一个社交平台，通过分享信息、互动交流，为用户带来各种有趣的内容和话题。爱可可微博的热门分享能够吸引大量用户关注和参与讨论，增加用户互动的乐趣，丰富了用户在微博平台上的体验。希望未来能继续看到更多精彩的内容和互动，让用户们享受到更多乐趣和收获。 <div>
-《爱可可微博热门分享(3.25)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405015942936526924"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(3.25)</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho3m746fhzj20rs0fmwgd.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 14:37:30 GMT</pubDate>
-</item>
-<item>
-<title>几篇论文实现代码：《Online GNN Evaluation Under Test-Time Graph Distribution Shifts》(ICLR 2024) GitHub: github.com/Amanda-Zheng/LEBED [fig5]《FITS: M...</title>
-<link>https://weibo.com/1402400261/O6Dg6rZPh</link>
-<guid>https://weibo.com/1402400261/O6Dg6rZPh</guid>
-<content:encoded><![CDATA[
-<div> Online GNN Evaluation, Test-Time Graph Distribution Shifts, FITS, Time Series, Boosting Continual Learning, Vision-Language Models, SpeeDiT, Diffusion Models, BiRefNet, Image Segmentation, Simplified Diffusion Schrödinger Bridge, DPOT, PDE Pre-Training, GCTM, Image Manipulation, MLM_Filter, Finetuned Multimodal Language Models, EnCLAP, Neural Audio Codec, Automated Audio Captioning, MapQR, Vectorized Map Construction, CLIP-VIS, Video Instance Segmentation
-
-<br />
-总结: 在这几篇论文中，提出了许多新颖的方法和技术来解决各种问题。其中包括针对在线图卷积神经网络评估和测试时图分布漂移的解决方案，涉及到时间序列建模、视觉-语言模型持续学习的增强、加速扩散模型训练等领域。此外，还有针对高分辨率图像分割、自动音频字幕生成、地图构建和视频实例分割等问题的创新方法。这些研究为不同领域的深度学习应用提供了新的思路和技术手段，推动了相关领域的发展。 <div>
-几篇论文实现代码：<br />《Online GNN Evaluation Under Test-Time Graph Distribution Shifts》(ICLR 2024) GitHub: github.com/Amanda-Zheng/LEBED [fig5]<br />《FITS: Modeling Time Series with 10k parameters》(ICLR 2024) GitHub: github.com/VEWOXIC/FITS<br />《Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters》(CVPR 2024) GitHub: github.com/JiazuoYu/MoE-Adapters4CL [fig5]<br />《SpeeDiT: Accelerating DiTs and General Diffusion Models via Principle Timestep Adjustment Training》(2024) GitHub: github.com/1zeryu/SpeeDiT<br />《Bilateral Reference for High-Resolution Dichotomous Image Segmentation》(2024) GitHub: github.com/ZhengPeng7/BiRefNet<br />《Simplified Diffusion Schrödinger Bridge》(2024) GitHub: github.com/tzco/Simplified-Diffusion-Schrodinger-Bridge<br />《DPOT: Auto-Regressive Denoising Operator Transformer for Large-Scale PDE Pre-Training》(2024) GitHub: github.com/HaoZhongkai/DPOT [fig1]<br />《Generalized Consistency Trajectory Models for Image Manipulation》(2024) GitHub: github.com/1202kbs/GCTM [fig2]<br />《Finetuned Multimodal Language Models are High-Quality Image-Text Data Filters》(2024) GitHub: github.com/Victorwz/MLM_Filter<br />《EnCLAP: Combining Neural Audio Codec and Audio-Text Joint Embedding for Automated Audio Captioning》(2024) GitHub: github.com/jaeyeonkim99/EnCLAP [fig3]<br />《Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction》(2024) GitHub: github.com/HXMap/MapQR [fig6]<br />《CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation》(2024) GitHub: github.com/zwq456/CLIP-VIS [fig4]<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho34oe5qplj21k60qe7br.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho358pd30dj20pl0kr7ic.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho35bi313rj28cc38o7wk.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho362w5f4hj23r61egnpd.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho3661b06bj215t0hnqif.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho36js2y5xj23300s0qdi.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 05:44:36 GMT</pubDate>
-</item>
-<item>
-<title>【Multimodal Gamer：在电脑上用多媒态模型打游戏的框架】'Multimodal Gamer - A framework to enable multimodal models to play games on a computer.' GitHub...</title>
-<link>https://weibo.com/1402400261/O6Dfbp8b8</link>
-<guid>https://weibo.com/1402400261/O6Dfbp8b8</guid>
-<content:encoded><![CDATA[
-<div> 多媒体模型、游戏、电脑、框架、GitHub、模型训练、模型推理、游戏场景、输入模态、输出模态
-
-<br /><br />总结:
-这篇文章介绍了一个名为Multimodal Gamer的框架，该框架可以让多媒体模型在电脑上玩游戏。通过在GitHub上提供代码，作者展示了如何使用多媒体模型进行游戏。该框架包括模型训练和推理两个主要阶段，能够在游戏场景中使用不同的输入模态和输出模态。通过这个框架，研究人员和开发人员可以更好地探索多媒体模型在游戏领域的应用，并尝试开发更加智能的游戏玩家。 <div>
-【Multimodal Gamer：在电脑上用多媒态模型打游戏的框架】'Multimodal Gamer - A framework to enable multimodal models to play games on a computer.' GitHub: github.com/joshbickett/multimodal-gamer <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho36qeh1z4j20x40u00xr.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 05:42:20 GMT</pubDate>
-</item>
-<item>
-<title>【遥感图像描述相关文献资源列表】’awesome-remote-image-captioning - A list of awesome remote sensing image captioning resources' GitHub: github.com/iO...</title>
-<link>https://weibo.com/1402400261/O6DernLcd</link>
-<guid>https://weibo.com/1402400261/O6DernLcd</guid>
-<content:encoded><![CDATA[
-<div> 远程感知、图像描述、资源列表、GitHub、iOPENCap、遥感图像、图像标注、资源、思维导图、研究方向、深度学习、数据集
-
-遥感图像描述是一个研究方向，该文献资源列表收集了一些相关的资源，可以在GitHub上找到。iOPENCap是其中的一个项目。远程感知领域关注图像描述和遥感图像，提供了一些资源和数据集用于深度学习研究。该资源列表包括数据集、文献和代码等资源，可以帮助研究人员更好地开展远程感知领域的工作。思维导图也是其中的一种资源，可以帮助研究人员更好地理解和整理这个研究方向。 <div>
-【遥感图像描述相关文献资源列表】’awesome-remote-image-captioning - A list of awesome remote sensing image captioning resources' GitHub: github.com/iOPENCap/awesome-remote-image-captioning <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho36oi536nj20x70u046t.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 05:40:30 GMT</pubDate>
-</item>
-<item>
-<title>'Char detection base on crnn 字符（单字）检测基于CRNN' GitHub: github.com/fanqie03/char-detection #开源# #机器学习# #人工智能# [图片][图片][图片]</title>
-<link>https://weibo.com/1402400261/O6DdU75Wt</link>
-<guid>https://weibo.com/1402400261/O6DdU75Wt</guid>
-<content:encoded><![CDATA[
-<div> CRNN、字符检测、单字、GitHub、fanqie03、字符检测、基于、CNN、RNN、文本检测
-<br />
-本文介绍了基于CRNN的字符（单字）检测技术，通过GitHub仓库fanqie03/char-detection进行实现。该技术结合了卷积神经网络（CNN）和循环神经网络（RNN）的特点，能够有效地识别文本中的单个字符。文章中详细介绍了CRNN的原理及实现步骤，包括字符检测的数据集准备、模型训练和测试等内容。通过对字符图像进行预处理、特征提取和序列识别，实现了高效率和准确度的字符检测。这种基于CRNN的方法在文本识别领域具有广泛的应用前景，能够帮助用户快速准确地识别字符信息。总的来说，本文提供了一种有效的字符检测方法，为相关领域的研究和应用提供了有益的参考。 
-<br /><br />总结: <div>
-'Char detection base on crnn 字符（单字）检测基于CRNN' GitHub: github.com/fanqie03/char-detection <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho36n1krarj20v50e2429.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho36n344nbj20an0fwtah.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho36n4karyj20jh0mxaca.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Mon, 25 Mar 2024 05:39:11 GMT</pubDate>
 </item>
 </channel>
 </rss>

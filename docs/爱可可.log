@@ -7368,3 +7368,9 @@ Summarized using GPT-3.5-turbo
 Append: [通过马尔可夫训练产生可解释、可迁移的链式思维，以提高语言模型的透明度和可靠性。 - 转发 @爱可可-爱生活:&ensp;[CL]《Markovian Agents for Truthful Languag...](https://weibo.com/1402400261/OcmC7b0ob)
 append_entries: 10
 Finish: 2024-05-02 00:51:52.677743
+------------------------------------------------------
+Started: 2024-05-02 02:21:39.141256
+Existing_entries: 1010
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-05-02 02:21:39.334666
