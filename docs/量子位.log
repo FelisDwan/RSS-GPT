@@ -5147,3 +5147,15 @@ Summarized using GPT-3.5-turbo
 Append: [#Claude突然上线iOS版本##网友呼吁Claude语音功能上线iOS# Claude，深夜突然大放送iOS版本！就在几小时前，Anthropic官方突然给家人们送福利，官宣Claude正式推...](https://weibo.com/6105753431/OcpcswWq2)
 append_entries: 1
 Finish: 2024-05-02 10:12:53.229798
+------------------------------------------------------
+Started: 2024-05-02 12:21:08.261973
+Existing_entries: 621
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 441
+Summarized using GPT-3.5-turbo
+Append: [#全新神经网络架构一夜爆火# 一种全新的神经网络架构KAN，诞生了！与传统的MLP架构截然不同，且能用更少的参数在数学、物理问题上取得更高精度。比如，200个参数...](https://weibo.com/6105753431/OcriZt9MV)
+Token length: 71
+Summarized using GPT-3.5-turbo
+Append: [【#Sora大片被曝有人工特效参与#】Sora爆火短片《气球人》是造假的？幕后团队放出的揭秘视频，在网上引发巨大争议，许多人怒喷OpenAI是诈骗级宣传，事情究竟怎么...](https://weibo.com/6105753431/OcqYSkED7)
+append_entries: 2
+Finish: 2024-05-02 12:21:21.860462
