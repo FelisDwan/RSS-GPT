@@ -7422,3 +7422,37 @@ Summarized using GPT-3.5-turbo
 Append: [【OpenAI Assistants API Quickstart：用Next.js快速启动OpenAI助手API的公共模板项目】'OpenAI Assistants API Quickstart - OpenAI Assistants API quickstart...](https://weibo.com/1402400261/OcsMusiTl)
 append_entries: 1
 Finish: 2024-05-02 16:13:51.089613
+------------------------------------------------------
+Started: 2024-05-02 18:14:40.621337
+Existing_entries: 1001
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OcsYou0aa)
+Token length: 1438
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《XFeat: Accelerated Features for Lightweight Image Matching》(CVPR 2024) GitHub: github.com/verlab/accelerated_features [fig1]《TIM...](https://weibo.com/1402400261/OcsXp92X0)
+Token length: 406
+Summarized using GPT-3.5-turbo
+Append: [【精选的大型语言模型时代信息检索相关论文列表】'Awesome Information Retrieval in the Age of Large Language Model - A curated list of awesome papers abo...](https://weibo.com/1402400261/OcsWGhrif)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [【llm.c：用纯C/CUDA进行大型语言模型(LLM)训练的开源项目】'llm.c - LLM training in simple, raw C/CUDA' GitHub: github.com/gevtushenko/llm.c #开源# #机器...](https://weibo.com/1402400261/OcsVw8auW)
+Token length: 273
+Summarized using GPT-3.5-turbo
+Append: [【Fireproof realtime database：一个实时数据库，可以在任意前端应用或边缘函数中安装，并通过任意后端进行数据同步】'Fireproof realtime database - Realtime...](https://weibo.com/1402400261/OcsUoFu43)
+Token length: 168
+Summarized using GPT-3.5-turbo
+Append: [【Branches：基于图的高级算法原型工具，专为大型语言模型(LLM)的推理和规划设计】'Branches - Prototype advanced LLM algorithms for reasoning and planning....](https://weibo.com/1402400261/OcsRG9fUT)
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [【OpenAgents：用于构建和商业化AI Agent的平台，支持通过共享技能和知识数据库来创建AI Agent】'OpenAgents - An open agents platform (wip)' GitHub: github....](https://weibo.com/1402400261/OcsRhBugM)
+Token length: 127
+Summarized using GPT-3.5-turbo
+Append: [【LM Buddy：用于微调和评估开源大型语言模型的工具集，目前处于早期开发阶段】'LM Buddy - Your buddy in the (L)LM space.' GitHub: github.com/mozilla-ai/lm...](https://weibo.com/1402400261/OcsQxvJfX)
+Token length: 254
+Summarized using GPT-3.5-turbo
+Append: [【MLX RAG With GGUF Model Weights：使用gguf模型权重，通过MLX实现的RAG（Retrieval-Augmented Generation）模型的最小化、清洁代码实现】'MLX RAG With GGUF ...](https://weibo.com/1402400261/OcsQazsxQ)
+Token length: 480
+Summarized using GPT-3.5-turbo
+Append: [【ChatGPT CLI：为OpenAI和Azure ChatGPT模型提供强大命令行界面的工具，支持实时交互、查询模式、线程管理及高级配置选项】'ChatGPT CLI - ChatGPT CLI is an a...](https://weibo.com/1402400261/OcsONEovT)
+append_entries: 9
+Finish: 2024-05-02 18:15:36.528952
