@@ -4,6 +4,7 @@
 <title>量子位的微博</title>
 <link>https://weibo.com/6105753431/</link>
 
+
 <item>
 <title>#中国AIGC产业峰会##只要拿到更多算力超过Sora没那么难# 一支人大系大模型团队，前后与OpenAI进行了三次大撞车！第一次是与Clip，第二次是与GPT-4V，最新一次撞...</title>
 <link>https://weibo.com/6105753431/OcpafrB2J</link>
@@ -11,14 +12,12 @@
 <content:encoded><![CDATA[
 <div> VDT、Transformer、时间依赖性、Scaling Law、时空注意力机制、token concat、消融实验、计算资源、Sora、算力
 
-<br><br>总结:
+<br /><br />总结:
 中国人民大学高瓴人工智能学院团队与OpenAI进行了三次大撞车，最新一次撞在了Sora上。团队使用了Diffusion Transformer，并在模型中引入统一的时空掩码建模。VDT使用Transformer基础模型来捕捉长期或不规则时间依赖性，转向Transformer的重要原因是Scaling Law。VDT采用时空分离的注意力机制，而Sora采用时空合一的注意力机制。VDT使用token concat方式实现快速收敛和良好效果。消融实验显示，模型效果与训练消耗的计算资源正相关，拥有更多算力就能超越Sora。在视频生成领域，国产Sora的惊艳时刻或许并不遥远。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BDAIGC%E4%BA%A7%E4%B8%9A%E5%B3%B0%E4%BC%9A%23&amp;extparam=%23%E4%B8%AD%E5%9B%BDAIGC%E4%BA%A7%E4%B8%9A%E5%B3%B0%E4%BC%9A%23"><span class="surl-text">#中国AIGC产业峰会#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%8F%AA%E8%A6%81%E6%8B%BF%E5%88%B0%E6%9B%B4%E5%A4%9A%E7%AE%97%E5%8A%9B%E8%B6%85%E8%BF%87Sora%E6%B2%A1%E9%82%A3%E4%B9%88%E9%9A%BE%23&amp;extparam=%23%E5%8F%AA%E8%A6%81%E6%8B%BF%E5%88%B0%E6%9B%B4%E5%A4%9A%E7%AE%97%E5%8A%9B%E8%B6%85%E8%BF%87Sora%E6%B2%A1%E9%82%A3%E4%B9%88%E9%9A%BE%23"><span class="surl-text">#只要拿到更多算力超过Sora没那么难#</span></a> <br /><br />一支人大系大模型团队，前后与OpenAI进行了三次大撞车！<br /><br />第一次是与Clip，第二次是与GPT-4V，最新一次撞在了Sora上：<br /><br />去年5月，他们联合并联合伯克利、港大等单位于在arXiv上发表了关于VDT的论文。<br /><br />那时候，该团队就在在技术架构上提出并采用了Diffusion Transformer。并且，VDT还在模型中引入统一的时空掩码建模。<br /><br />这个团队，正由中国人民大学高瓴人工智能学院教授卢志武带队。<br /><br />Sora问世已经两个多月，现在这支国产团队在视频生成领域的进度怎么样了？什么时候我们能迎来国产Sora的惊艳时刻？<br /><br />在本次中国AIGC产业峰会上，卢志武对上述问题进行了毫无保留的分享。<br /><br />【话题要点】<br /><br />- VDT使用Transformer作为基础模型，能更好地捕捉长期或不规则的时间依赖性；<br /><br />- Scaling Law是视频生成模型从基于Diffusion model转向基于Transformer的重要原因；<br /><br />- VDT采用时空分离的注意力机制，而Sora采用时空合一的注意力机制；<br /><br />- VDT采用token concat方式，实现快速收敛和良好效果；<br /><br />- 消融实验发现，模型效果与训练消耗的计算资源正相关，计算资源越多，效果越好；<br /><br />只要拿到更多算力，超过Sora也不是那么难的事。<br /><a href="https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247727620&amp;idx=2&amp;sn=5ecdf9810e29d729f579aaaf7178ae21&amp;chksm=e8dfcd76dfa84460665053f1304efa9ce21a626d7b431e195997afca800416261a28d2488078&amp;token=299958459&amp;lang=zh_CN&amp;poc_token=HBsaM2ajKeQnZv_UT0Rf2uMhJ8suY-0Pdb7Kruj1"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">人大卢志武：只要拿到更多算力，超过Sora也不是那么难的事｜中国AIGC产业峰会</span></a><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hpb2v7hp7aj30u00k0gx8.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Thu, 02 May 2024 04:53:33 GMT</pubDate>
-<pubDate>Thu, 02 May 2024 04:53:33 GMT</pubDate>
 </item>
-
 <item>
 <title>#爆火AI硬件套壳安卓##RabbitR1套壳安卓# 号称要干翻所有APP的Rabbit R1，自己先被干翻了。年初高调宣传的时候，CEO吕骋说好的搭载的是全新操作系统Rabbit OS。...</title>
 <link>https://weibo.com/6105753431/OcfVjxW2q</link>

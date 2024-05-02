@@ -7389,3 +7389,9 @@ Summarized using GPT-3.5-turbo
 Append: [【通过无监督学习方法激活语言模型潜在行为】- 由于训练数据的原因，大语言模型可能存在多种潜在的行为模式。这些模式可能对模型的安全性和对齐性产生影响。 - ...](https://weibo.com/1402400261/OcnhX8x5s)
 append_entries: 1
 Finish: 2024-05-02 06:15:17.844318
+------------------------------------------------------
+Started: 2024-05-02 08:14:54.162927
+Existing_entries: 1001
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-05-02 08:14:56.194060
