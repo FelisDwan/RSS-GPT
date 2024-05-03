@@ -5219,3 +5219,18 @@ Existing_entries: 623
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-05-03 08:14:13.556131
+------------------------------------------------------
+Started: 2024-05-03 10:12:17.587995
+Existing_entries: 623
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 316
+Summarized using GPT-3.5-turbo
+Append: [#一次预测多个token# Meta新模型推理加速3倍，编程任务提高17%“预测下一个token”被认为是大模型的基本范式，一次预测多个tokens又会怎样？Meta AI法国团队推出...](https://weibo.com/6105753431/OcyX0FVIE)
+Token length: 214
+Summarized using GPT-3.5-turbo
+Append: [#美图吴欣鸿谈国产Sora竞争关键# 全球AIGC应用浪潮下，怎样将大模型产品以一种更贴近消费者的形式融入生产力工具？这，或许是AI在生产力场景延伸过程中，入场玩...](https://weibo.com/6105753431/OcyVuaVZY)
+Token length: 925
+Summarized using GPT-3.5-turbo
+Append: [#奥特曼承认了神秘gpt2# 奥特曼斯坦福爆火演讲，完整版录像公开了！这还只是第一站，在哈佛和MIT再次发现了他的身影。特别是在哈佛，他还变相承认了神秘gpt2-cha...](https://weibo.com/6105753431/OcyJnAESn)
+append_entries: 3
+Finish: 2024-05-03 10:12:33.194677

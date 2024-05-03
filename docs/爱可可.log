@@ -7530,3 +7530,39 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-05-03 08:14:16.999089
+------------------------------------------------------
+Started: 2024-05-03 10:12:34.355870
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 2416
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training》(ICLR 2024) GitHub: github.com/deep-symbolic-ma...](https://weibo.com/1402400261/OczVqcJv0)
+Token length: 237
+Summarized using GPT-3.5-turbo
+Append: [【Time Series Analysis with Python：开源的 Python 时间序列分析课程，提供丰富的 Jupyter Notebooks和资料】'Time Series Analysis with Python - Notebooks ...](https://weibo.com/1402400261/OczSpy9Mj)
+Token length: 237
+Summarized using GPT-3.5-turbo
+Append: [【AubAI：一个开源的Flutter/Dart包，旨在为移动应用提供先进的本地生成式AI(gen-AI)模型，包括离线文本生成等功能】'AubAI - AubAI brings you on-device gen-A...](https://weibo.com/1402400261/OczPrtNwE)
+Token length: 148
+Summarized using GPT-3.5-turbo
+Append: [【Agentic RAG Support Bot：展示了如何利用Redis和LlamaIndex创建一个专为雪佛兰汽车定制的客户支持聊天机器人】'Agentic RAG Support Bot' GitHub: github.com...](https://weibo.com/1402400261/OczNU6EB6)
+Token length: 178
+Summarized using GPT-3.5-turbo
+Append: [【python-ffmpeg：为 FFmpeg 提供同步和异步 API 的 Python 绑定库】'python-ffmpeg - A python binding for FFmpeg which provides sync and async APIs' GitHu...](https://weibo.com/1402400261/OczMf5I1v)
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [【lms：开源的命令行工具，用于在终端管理和操作LM Studio项目】’lms - LM Studio in your terminal' GitHub: github.com/lmstudio-ai/lms #开源# #机器学习# #...](https://weibo.com/1402400261/OczK3zoTR)
+Token length: 311
+Summarized using GPT-3.5-turbo
+Append: [【The Gowebly CLI：开源的下一代命令行工具，旨在简化使用Go语言后端和流行CSS框架前端的Web应用开发】'The Gowebly CLI - A next-generation CLI tool that ma...](https://weibo.com/1402400261/OczJGxBRu)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [【Chainloop：开源的软件供应链元数据仓库，用于管理 SBOMs、VEX、SARIF 文件、QA reports等】'Chainloop - Chainloop is an Open Source Metadata Vault for yo...](https://weibo.com/1402400261/OczHPapyT)
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [【大模型白盒子构建指南：旨在从零开始手写代码，深入理解并实践大型语言模型（LLM）的构建，包括模型结构、RAG、Agent和Eval任务】'大模型白盒子构建指南 - 一...](https://weibo.com/1402400261/OczHeCo5F)
+Token length: 117
+Summarized using GPT-3.5-turbo
+Append: [【Pareas：为简单编程语言设计的 GPU 加速编译器，能输出 RISC-V 机器代码】'Pareas - GPU-accelerated compiler' GitHub: github.com/Snektron/pareas #开源# [...](https://weibo.com/1402400261/OczG0hG1M)
+append_entries: 10
+Finish: 2024-05-03 10:13:19.343287

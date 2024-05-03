@@ -4,6 +4,143 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>几篇论文实现代码：《SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training》(ICLR 2024) GitHub: github.com/deep-symbolic-ma...</title>
+<link>https://weibo.com/1402400261/OczVqcJv0</link>
+<guid>https://weibo.com/1402400261/OczVqcJv0</guid>
+<content:encoded><![CDATA[
+<div> 深度符号数学、多模态数学预训练、车辆路径求解、多任务学习、三维人体动作生成、超分辨率、语义分割、少样本学习、相机标定、自注意力、主题相关性、线性探测、SLAM工具、视频生成、预测、数据合成、身份保持、深度神经网络
+
+总结:<br><br>
+《SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training》介绍了一种统一的预训练方法，旨在将数学符号和数值领域进行融合，为深度符号数学提供基础。研究团队提出了一个名为MVMoE的多任务车辆路径求解模型，利用专家混合策略提高模型性能。另外，通过多轨道时间线控制，实现了基于文本驱动的三维人体动作生成。针对超分辨率问题，提出了Boosting Flow-based Generative Super-Resolution Models via Learned Prior的方法。在语义分割领域，Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models的技术有望取得较好效果。LP++是一个针对少样本学习的线性探测器，在CLIP模型上取得出色性能。通过提出的无偏估计方法，可以更好地进行相机标定。StoryDiffusion提出了一种一致的自注意力机制，用于生成长距离的图像和视频。ThemeStation是一个能够从少量示例中生成主题相关的3D资产的方法。另外，Rethinking LLM Memorization through the Lens of Adversarial Compression展示了对LLM记忆的重新思考。Kolmogorov-Arnold Network和VRP-SAM技术的提出也值得关注。Latte是一种用于视频生成的隐式扩散变换器。VimTS是一个统一的视频和图像文本识别器，可增强跨领域泛化。MambaMIL通过序列重新排序来增强长序列建模，在计算病理学中有潜在应用。StockMixer是一种简单而有效的基于MLP的股价预测架构。此外，Differentially Private Synthetic Data via Foundation Model APIs 2: Text提出了通过基础模型API生成差异化私有合成数据的方法。最后，ConsistentID实现了多模态细粒度身份保持的人像生成。 <div>
+几篇论文实现代码：<br />《SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training》(ICLR 2024) GitHub: github.com/deep-symbolic-mathematics/Multimodal-Math-Pretraining [fig3]<br />《MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts》(ICML 2024) GitHub: github.com/RoyalSkye/Routing-MVMoE [fig8]<br />《Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation》(CVPR 2024) GitHub: github.com/nv-tlabs/stmc [fig1]<br />《Boosting Flow-based Generative Super-Resolution Models via Learned Prior》(CVPR 2024) GitHub: github.com/liyuantsao/FlowSR-LP [fig4]<br />《Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models》(CVPR 2024) GitHub: github.com/vpulab/ovam [fig9]<br />《LP++: A Surprisingly Strong Linear Probe for Few-Shot CLIP》(CVPR 2024) GitHub: github.com/FereshteShakeri/FewShot-CLIP-Strong-Baseline<br />《Unbiased Estimator for Distorted Conic in Camera Calibration》(CVPR 2024) GitHub: github.com/ChaehyeonSong/discocal<br />《StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation》(2024) GitHub: github.com/HVision-NKU/StoryDiffusion<br />《ThemeStation: Generating Theme-Aware 3D Assets from Few Exemplars》(2024) GitHub: github.com/3DTopia/ThemeStation [fig2]<br />《Rethinking LLM Memorization through the Lens of Adversarial Compression》(2024) GitHub: github.com/locuslab/acr-memorization<br />《Kolmogorov-Arnold Network》(2024) GitHub: github.com/Blealtan/efficient-kan<br />《VRP-SAM: SAM with Visual Reference Prompt》(CVPR 2024) GitHub: github.com/syp2ysy/VRP-SAM [fig5]<br />《Latte: Latent Diffusion Transformer for Video Generation》(2024) GitHub: github.com/lyogavin/train_your_own_sora [fig6]<br />《OpenXRLab Deep-learning based SLAM Toolbox and Benchmark》(2024) GitHub: github.com/openxrlab/xrdslam<br />《VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization》(2024) GitHub: github.com/Yuliang-Liu/VimTS [fig7]<br />《MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology》(2024) GitHub: github.com/isyangshu/MambaMIL [fig10]<br />《StockMixer: A Simple yet Strong MLP-based Architecture for Stock Price Forecasting》(2024) GitHub: github.com/SJTU-Quant/StockMixer [fig11]<br />《Differentially Private Synthetic Data via Foundation Model APIs 2: Text》(2024) GitHub: github.com/AI-secure/aug-pe<br />《ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving》(2024) GitHub: github.com/JackAILab/ConsistentID<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpcd55bj2pj25ut1i94qq.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpcd5eebvyj22oq0zau0x.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpcd5wya9cj219y0munls.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpcd6641wyj21mc0ko7m5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpcd6re8efj21jt18m1bz.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpcd77bhayj21a20n2wrz.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpcdo910e6j20w50dd49f.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpcdqomh8ej21ca0dm7bh.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpcdv00rwvj228q0uy7gr.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpcdvp0xz5j2246112hdt.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpcdzavinij20xo0d37b5.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 03 May 2024 08:17:14 GMT</pubDate>
+<pubDate>Fri, 03 May 2024 08:17:14 GMT</pubDate>
+</item>
+<item>
+<title>【Time Series Analysis with Python：开源的 Python 时间序列分析课程，提供丰富的 Jupyter Notebooks和资料】'Time Series Analysis with Python - Notebooks ...</title>
+<link>https://weibo.com/1402400261/OczSpy9Mj</link>
+<guid>https://weibo.com/1402400261/OczSpy9Mj</guid>
+<content:encoded><![CDATA[
+<div> 时间序列分析, Python, 开源, Jupyter Notebooks, 资料
+<br>
+本文介绍了开源的 Python 时间序列分析课程，提供丰富的 Jupyter Notebooks和资料。课程包括对时间序列分析的讲解以及相关的实践代码和案例分析，帮助读者快速掌握时间序列分析的基本概念和技能。通过 GitHub 上的项目链接，读者可以轻松地访问课程的 Jupyter Notebooks 和资料，深入学习和实践时间序列分析领域的知识。这个课程对于希望提升时间序列分析能力的人员来说是一个非常有用的学习资源，可以帮助他们更好地理解和应用时间序列分析技术。总的来说，这个开源的 Python 时间序列分析课程为学习者提供了一个系统全面的学习平台，帮助他们掌握时间序列分析的核心概念和技能。<br><br>总结: 时间序列分析课程提供丰富的Jupyter Notebooks和资料，帮助学习者快速掌握时间序列分析的基本概念和技能，对于提升时间序列分析能力非常有用。 <div>
+【Time Series Analysis with Python：开源的 Python 时间序列分析课程，提供丰富的 Jupyter Notebooks和资料】'Time Series Analysis with Python - Notebooks for the course "Time series analysis with Python"' GitHub: github.com/FilippoMB/python-time-series-handbook <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Python%23"><span class="surl-text">#Python#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpce5r9o74j21420u0wi3.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 03 May 2024 08:09:49 GMT</pubDate>
+<pubDate>Fri, 03 May 2024 08:09:49 GMT</pubDate>
+</item>
+<item>
+<title>【AubAI：一个开源的Flutter/Dart包，旨在为移动应用提供先进的本地生成式AI(gen-AI)模型，包括离线文本生成等功能】'AubAI - AubAI brings you on-device gen-A...</title>
+<link>https://weibo.com/1402400261/OczPrtNwE</link>
+<guid>https://weibo.com/1402400261/OczPrtNwE</guid>
+<content:encoded><![CDATA[
+<div> GitHub, 开源, Flutter, Dart, 移动应用, 本地生成式AI, 离线文本生成, gen-AI<br>
+<br>
+总结：<br>
+AubAI是一个开源的Flutter/Dart包，旨在为移动应用提供先进的本地生成式AI(gen-AI)模型。它包括离线文本生成等功能，可以在应用中直接使用。开发者可以通过GitHub获取该包的源代码，从而在自己的应用中添加本地AI生成功能。这将使移动应用在不需要联网的情况下也能够进行文本生成等操作，提升用户体验。 <div>
+【AubAI：一个开源的Flutter/Dart包，旨在为移动应用提供先进的本地生成式AI(gen-AI)模型，包括离线文本生成等功能】'AubAI - AubAI brings you on-device gen-AI capabilities, including offline text generation and more, directly within your app.' GitHub: github.com/BrutalCoding/aub.ai <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpcdy9ccnoj20xx0u0dkf.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 03 May 2024 08:02:30 GMT</pubDate>
+<pubDate>Fri, 03 May 2024 08:02:30 GMT</pubDate>
+</item>
+<item>
+<title>【Agentic RAG Support Bot：展示了如何利用Redis和LlamaIndex创建一个专为雪佛兰汽车定制的客户支持聊天机器人】'Agentic RAG Support Bot' GitHub: github.com...</title>
+<link>https://weibo.com/1402400261/OczNU6EB6</link>
+<guid>https://weibo.com/1402400261/OczNU6EB6</guid>
+<content:encoded><![CDATA[
+<div> Redis、LlamaIndex、客户支持、雪佛兰汽车、聊天机器人、GitHub、定制、Agentic RAG Support Bot
+
+<br><br>总结:
+文章介绍了如何利用Redis和LlamaIndex创建一个专为雪佛兰汽车定制的客户支持聊天机器人。这个项目是通过GitHub上的'Agentic RAG Support Bot'实现的。通过搭建这个聊天机器人，可以提供更好的客户支持，为雪佛兰汽车用户提供定制化的服务。Redis和LlamaIndex技术的运用使得整个项目更加高效和智能。 <div>
+【Agentic RAG Support Bot：展示了如何利用Redis和LlamaIndex创建一个专为雪佛兰汽车定制的客户支持聊天机器人】'Agentic RAG Support Bot' GitHub: github.com/redis-developer/agentic-rag <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpcdu1vj7hj20wj0u042z.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpcdu4ohigj21fi0e2n1c.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 03 May 2024 07:58:41 GMT</pubDate>
+<pubDate>Fri, 03 May 2024 07:58:41 GMT</pubDate>
+</item>
+<item>
+<title>【python-ffmpeg：为 FFmpeg 提供同步和异步 API 的 Python 绑定库】'python-ffmpeg - A python binding for FFmpeg which provides sync and async APIs' GitHu...</title>
+<link>https://weibo.com/1402400261/OczMf5I1v</link>
+<guid>https://weibo.com/1402400261/OczMf5I1v</guid>
+<content:encoded><![CDATA[
+<div> FFmpeg, Python binding, 同步API, 异步API, GitHub, jonghwanhyeon, 库, 视频处理, 多媒体, 开源<br>
+<br>
+总结:<br>
+本文介绍了一个名为python-ffmpeg的库，它是FFmpeg的Python绑定，提供了同步和异步API。用户可以在GitHub上找到该项目，由用户jonghwanhyeon开发。这个库可以帮助用户处理视频和多媒体文件，并且是开源的。 <div>
+【python-ffmpeg：为 FFmpeg 提供同步和异步 API 的 Python 绑定库】'python-ffmpeg - A python binding for FFmpeg which provides sync and async APIs' GitHub: github.com/jonghwanhyeon/python-ffmpeg <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpcdpssinyj212o0g4405.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 03 May 2024 07:54:37 GMT</pubDate>
+<pubDate>Fri, 03 May 2024 07:54:37 GMT</pubDate>
+</item>
+<item>
+<title>【lms：开源的命令行工具，用于在终端管理和操作LM Studio项目】’lms - LM Studio in your terminal' GitHub: github.com/lmstudio-ai/lms #开源# #机器学习# #...</title>
+<link>https://weibo.com/1402400261/OczK3zoTR</link>
+<guid>https://weibo.com/1402400261/OczK3zoTR</guid>
+<content:encoded><![CDATA[
+<div> LM Studio、开源、命令行工具、终端、管理、操作、GitHub、lmstudio-ai、项目、lms<br>
+<br>
+LM Studio推出了一个开源命令行工具lms，可以在终端中管理和操作LM Studio项目。用户可以在GitHub上找到该工具的代码库github.com/lmstudio-ai/lms。这个工具可以让用户更方便地使用LM Studio项目，提高工作效率。 <div>
+【lms：开源的命令行工具，用于在终端管理和操作LM Studio项目】’lms - LM Studio in your terminal' GitHub: github.com/lmstudio-ai/lms <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpcdk3mughj20pw0k8abb.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 03 May 2024 07:49:14 GMT</pubDate>
+<pubDate>Fri, 03 May 2024 07:49:14 GMT</pubDate>
+</item>
+<item>
+<title>【The Gowebly CLI：开源的下一代命令行工具，旨在简化使用Go语言后端和流行CSS框架前端的Web应用开发】'The Gowebly CLI - A next-generation CLI tool that ma...</title>
+<link>https://weibo.com/1402400261/OczJGxBRu</link>
+<guid>https://weibo.com/1402400261/OczJGxBRu</guid>
+<content:encoded><![CDATA[
+<div> CLI、下一代、简化、Web应用开发、Go语言后端、流行CSS框架前端、htmx、hyperscript、Alpine.js、GitHub
+<br><br>总结:
+Gowebly CLI是一个开源的下一代命令行工具，旨在简化使用Go语言后端和流行CSS框架前端的Web应用开发。通过该工具，开发者可以轻松创建令人惊艳的Web应用程序，在后端使用Go语言，并在前端使用htmx、hyperscript或Alpine.js等流行的工具和框架。该项目的GitHub地址是github.com/gowebly/gowebly。 <div>
+【The Gowebly CLI：开源的下一代命令行工具，旨在简化使用Go语言后端和流行CSS框架前端的Web应用开发】'The Gowebly CLI - A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.' GitHub: github.com/gowebly/gowebly <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpcdjh0i5uj20vc0u0diz.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 03 May 2024 07:48:18 GMT</pubDate>
+<pubDate>Fri, 03 May 2024 07:48:18 GMT</pubDate>
+</item>
+<item>
+<title>【Chainloop：开源的软件供应链元数据仓库，用于管理 SBOMs、VEX、SARIF 文件、QA reports等】'Chainloop - Chainloop is an Open Source Metadata Vault for yo...</title>
+<link>https://weibo.com/1402400261/OczHPapyT</link>
+<guid>https://weibo.com/1402400261/OczHPapyT</guid>
+<content:encoded><![CDATA[
+<div> Chainloop, 开源, 软件供应链, 元数据仓库, 管理, SBOMs, VEX, SARIF 文件, QA reports
+
+<br><br>总结:
+Chainloop是一个开源的软件供应链元数据仓库，主要用于管理SBOMs、VEX、SARIF文件、QA报告等。用户可以使用Chainloop来存储和管理与软件供应链相关的元数据，帮助他们更好地跟踪和管理软件开发过程中涉及的各种文件和报告。通过Chainloop，用户可以方便地查看和管理软件供应链的各个环节，提高项目的可追溯性和质量管理水平。Chainloop的开源性也为用户提供了更大的灵活性和可定制性，使其能够根据自身需求进行定制和扩展。 <div>
+【Chainloop：开源的软件供应链元数据仓库，用于管理 SBOMs、VEX、SARIF 文件、QA reports等】'Chainloop - Chainloop is an Open Source Metadata Vault for your Software Supply Chain metadata, SBOMs, VEX, SARIF files, QA reports, and more.' GitHub: github.com/chainloop-dev/chainloop <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpcdeoix9rj20vo0u0tdj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpcdepbghij21290kqmzp.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 03 May 2024 07:43:44 GMT</pubDate>
+<pubDate>Fri, 03 May 2024 07:43:44 GMT</pubDate>
+</item>
+<item>
+<title>【大模型白盒子构建指南：旨在从零开始手写代码，深入理解并实践大型语言模型（LLM）的构建，包括模型结构、RAG、Agent和Eval任务】'大模型白盒子构建指南 - 一...</title>
+<link>https://weibo.com/1402400261/OczHeCo5F</link>
+<guid>https://weibo.com/1402400261/OczHeCo5F</guid>
+<content:encoded><![CDATA[
+<div> GitHub, 大型语言模型, 模型结构, RAG, Agent, Eval任务, 手写代码, 指南, 理解, 实践
+
+<br><br>总结:
+本篇文章是一篇关于大型语言模型（LLM）的构建指南，旨在从零开始手写代码，深入理解并实践如何构建一个Tiny-Universe模型。文章介绍了模型结构的概念，RAG模型、Agent和Eval任务的相关内容，并提供了GitHub链接供读者参考。通过本文的指导，读者可以学习如何从头开始构建一个大型语言模型，提升对模型结构和相关任务的理解和实践能力。 <div>
+【大模型白盒子构建指南：旨在从零开始手写代码，深入理解并实践大型语言模型（LLM）的构建，包括模型结构、RAG、Agent和Eval任务】'大模型白盒子构建指南 - 一个全手搓的Tiny-Universe' GitHub: github.com/datawhalechina/tiny-universe <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpcdd0jhrzj20u00zs43h.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpcdd1payij20zk0k0djc.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpcdd376ihj217d0pa102.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpcdd4se9aj21070u0gxw.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpcdd60t50j20wi0p6q5g.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 03 May 2024 07:42:17 GMT</pubDate>
+<pubDate>Fri, 03 May 2024 07:42:17 GMT</pubDate>
+</item>
+<item>
+<title>【Pareas：为简单编程语言设计的 GPU 加速编译器，能输出 RISC-V 机器代码】'Pareas - GPU-accelerated compiler' GitHub: github.com/Snektron/pareas #开源# [...</title>
+<link>https://weibo.com/1402400261/OczG0hG1M</link>
+<guid>https://weibo.com/1402400261/OczG0hG1M</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Pareas, GPU 加速编译器, RISC-V 机器代码, 设计, 简单编程语言
+
+<br><br>总结:
+Pareas是一个为简单编程语言设计的GPU加速编译器。它具有能够输出RISC-V机器代码的功能，并在GitHub上开源。通过使用Pareas，开发人员可以设计和编写更简单的编程语言，并利用GPU加速来提高编译速度和性能。该编译器的设计旨在使编程变得更加简单和高效，为开发人员提供更好的编程体验。 <div>
+【Pareas：为简单编程语言设计的 GPU 加速编译器，能输出 RISC-V 机器代码】'Pareas - GPU-accelerated compiler' GitHub: github.com/Snektron/pareas <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpcda20dojj21740sytcm.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Fri, 03 May 2024 07:39:15 GMT</pubDate>
+<pubDate>Fri, 03 May 2024 07:39:15 GMT</pubDate>
+</item>
 
 <item>
 <title>【Kaggle上由LMSYS组织的“Chatbot Arena Human Preference Predictions”竞赛，旨在通过机器学习模型预测用户在聊天机器人生成的答案中更偏好哪一个】- 竞赛目...</title>
