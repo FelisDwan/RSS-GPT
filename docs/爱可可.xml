@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>几篇论文实现代码：《SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training》(ICLR 2024) GitHub: github.com/deep-symbolic-ma...</title>
 <link>https://weibo.com/1402400261/OczVqcJv0</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 深度符号数学、多模态数学预训练、车辆路径求解、多任务学习、三维人体动作生成、超分辨率、语义分割、少样本学习、相机标定、自注意力、主题相关性、线性探测、SLAM工具、视频生成、预测、数据合成、身份保持、深度神经网络
 
-总结:<br><br>
+总结:<br /><br />
 《SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training》介绍了一种统一的预训练方法，旨在将数学符号和数值领域进行融合，为深度符号数学提供基础。研究团队提出了一个名为MVMoE的多任务车辆路径求解模型，利用专家混合策略提高模型性能。另外，通过多轨道时间线控制，实现了基于文本驱动的三维人体动作生成。针对超分辨率问题，提出了Boosting Flow-based Generative Super-Resolution Models via Learned Prior的方法。在语义分割领域，Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models的技术有望取得较好效果。LP++是一个针对少样本学习的线性探测器，在CLIP模型上取得出色性能。通过提出的无偏估计方法，可以更好地进行相机标定。StoryDiffusion提出了一种一致的自注意力机制，用于生成长距离的图像和视频。ThemeStation是一个能够从少量示例中生成主题相关的3D资产的方法。另外，Rethinking LLM Memorization through the Lens of Adversarial Compression展示了对LLM记忆的重新思考。Kolmogorov-Arnold Network和VRP-SAM技术的提出也值得关注。Latte是一种用于视频生成的隐式扩散变换器。VimTS是一个统一的视频和图像文本识别器，可增强跨领域泛化。MambaMIL通过序列重新排序来增强长序列建模，在计算病理学中有潜在应用。StockMixer是一种简单而有效的基于MLP的股价预测架构。此外，Differentially Private Synthetic Data via Foundation Model APIs 2: Text提出了通过基础模型API生成差异化私有合成数据的方法。最后，ConsistentID实现了多模态细粒度身份保持的人像生成。 <div>
 几篇论文实现代码：<br />《SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training》(ICLR 2024) GitHub: github.com/deep-symbolic-mathematics/Multimodal-Math-Pretraining [fig3]<br />《MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts》(ICML 2024) GitHub: github.com/RoyalSkye/Routing-MVMoE [fig8]<br />《Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation》(CVPR 2024) GitHub: github.com/nv-tlabs/stmc [fig1]<br />《Boosting Flow-based Generative Super-Resolution Models via Learned Prior》(CVPR 2024) GitHub: github.com/liyuantsao/FlowSR-LP [fig4]<br />《Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models》(CVPR 2024) GitHub: github.com/vpulab/ovam [fig9]<br />《LP++: A Surprisingly Strong Linear Probe for Few-Shot CLIP》(CVPR 2024) GitHub: github.com/FereshteShakeri/FewShot-CLIP-Strong-Baseline<br />《Unbiased Estimator for Distorted Conic in Camera Calibration》(CVPR 2024) GitHub: github.com/ChaehyeonSong/discocal<br />《StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation》(2024) GitHub: github.com/HVision-NKU/StoryDiffusion<br />《ThemeStation: Generating Theme-Aware 3D Assets from Few Exemplars》(2024) GitHub: github.com/3DTopia/ThemeStation [fig2]<br />《Rethinking LLM Memorization through the Lens of Adversarial Compression》(2024) GitHub: github.com/locuslab/acr-memorization<br />《Kolmogorov-Arnold Network》(2024) GitHub: github.com/Blealtan/efficient-kan<br />《VRP-SAM: SAM with Visual Reference Prompt》(CVPR 2024) GitHub: github.com/syp2ysy/VRP-SAM [fig5]<br />《Latte: Latent Diffusion Transformer for Video Generation》(2024) GitHub: github.com/lyogavin/train_your_own_sora [fig6]<br />《OpenXRLab Deep-learning based SLAM Toolbox and Benchmark》(2024) GitHub: github.com/openxrlab/xrdslam<br />《VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-domain Generalization》(2024) GitHub: github.com/Yuliang-Liu/VimTS [fig7]<br />《MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology》(2024) GitHub: github.com/isyangshu/MambaMIL [fig10]<br />《StockMixer: A Simple yet Strong MLP-based Architecture for Stock Price Forecasting》(2024) GitHub: github.com/SJTU-Quant/StockMixer [fig11]<br />《Differentially Private Synthetic Data via Foundation Model APIs 2: Text》(2024) GitHub: github.com/AI-secure/aug-pe<br />《ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving》(2024) GitHub: github.com/JackAILab/ConsistentID<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpcd55bj2pj25ut1i94qq.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpcd5eebvyj22oq0zau0x.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpcd5wya9cj219y0munls.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpcd6641wyj21mc0ko7m5.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpcd6re8efj21jt18m1bz.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpcd77bhayj21a20n2wrz.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpcdo910e6j20w50dd49f.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpcdqomh8ej21ca0dm7bh.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpcdv00rwvj228q0uy7gr.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpcdvp0xz5j2246112hdt.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpcdzavinij20xo0d37b5.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 08:17:14 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 08:17:14 GMT</pubDate>
 </item>
 <item>
@@ -24,11 +24,10 @@
 <guid>https://weibo.com/1402400261/OczSpy9Mj</guid>
 <content:encoded><![CDATA[
 <div> 时间序列分析, Python, 开源, Jupyter Notebooks, 资料
-<br>
-本文介绍了开源的 Python 时间序列分析课程，提供丰富的 Jupyter Notebooks和资料。课程包括对时间序列分析的讲解以及相关的实践代码和案例分析，帮助读者快速掌握时间序列分析的基本概念和技能。通过 GitHub 上的项目链接，读者可以轻松地访问课程的 Jupyter Notebooks 和资料，深入学习和实践时间序列分析领域的知识。这个课程对于希望提升时间序列分析能力的人员来说是一个非常有用的学习资源，可以帮助他们更好地理解和应用时间序列分析技术。总的来说，这个开源的 Python 时间序列分析课程为学习者提供了一个系统全面的学习平台，帮助他们掌握时间序列分析的核心概念和技能。<br><br>总结: 时间序列分析课程提供丰富的Jupyter Notebooks和资料，帮助学习者快速掌握时间序列分析的基本概念和技能，对于提升时间序列分析能力非常有用。 <div>
+<br />
+本文介绍了开源的 Python 时间序列分析课程，提供丰富的 Jupyter Notebooks和资料。课程包括对时间序列分析的讲解以及相关的实践代码和案例分析，帮助读者快速掌握时间序列分析的基本概念和技能。通过 GitHub 上的项目链接，读者可以轻松地访问课程的 Jupyter Notebooks 和资料，深入学习和实践时间序列分析领域的知识。这个课程对于希望提升时间序列分析能力的人员来说是一个非常有用的学习资源，可以帮助他们更好地理解和应用时间序列分析技术。总的来说，这个开源的 Python 时间序列分析课程为学习者提供了一个系统全面的学习平台，帮助他们掌握时间序列分析的核心概念和技能。<br /><br />总结: 时间序列分析课程提供丰富的Jupyter Notebooks和资料，帮助学习者快速掌握时间序列分析的基本概念和技能，对于提升时间序列分析能力非常有用。 <div>
 【Time Series Analysis with Python：开源的 Python 时间序列分析课程，提供丰富的 Jupyter Notebooks和资料】'Time Series Analysis with Python - Notebooks for the course "Time series analysis with Python"' GitHub: github.com/FilippoMB/python-time-series-handbook <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Python%23"><span class="surl-text">#Python#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpce5r9o74j21420u0wi3.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 08:09:49 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 08:09:49 GMT</pubDate>
 </item>
 <item>
@@ -36,13 +35,12 @@
 <link>https://weibo.com/1402400261/OczPrtNwE</link>
 <guid>https://weibo.com/1402400261/OczPrtNwE</guid>
 <content:encoded><![CDATA[
-<div> GitHub, 开源, Flutter, Dart, 移动应用, 本地生成式AI, 离线文本生成, gen-AI<br>
-<br>
-总结：<br>
+<div> GitHub, 开源, Flutter, Dart, 移动应用, 本地生成式AI, 离线文本生成, gen-AI<br />
+<br />
+总结：<br />
 AubAI是一个开源的Flutter/Dart包，旨在为移动应用提供先进的本地生成式AI(gen-AI)模型。它包括离线文本生成等功能，可以在应用中直接使用。开发者可以通过GitHub获取该包的源代码，从而在自己的应用中添加本地AI生成功能。这将使移动应用在不需要联网的情况下也能够进行文本生成等操作，提升用户体验。 <div>
 【AubAI：一个开源的Flutter/Dart包，旨在为移动应用提供先进的本地生成式AI(gen-AI)模型，包括离线文本生成等功能】'AubAI - AubAI brings you on-device gen-AI capabilities, including offline text generation and more, directly within your app.' GitHub: github.com/BrutalCoding/aub.ai <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpcdy9ccnoj20xx0u0dkf.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 08:02:30 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 08:02:30 GMT</pubDate>
 </item>
 <item>
@@ -52,11 +50,10 @@ AubAI是一个开源的Flutter/Dart包，旨在为移动应用提供先进的本
 <content:encoded><![CDATA[
 <div> Redis、LlamaIndex、客户支持、雪佛兰汽车、聊天机器人、GitHub、定制、Agentic RAG Support Bot
 
-<br><br>总结:
+<br /><br />总结:
 文章介绍了如何利用Redis和LlamaIndex创建一个专为雪佛兰汽车定制的客户支持聊天机器人。这个项目是通过GitHub上的'Agentic RAG Support Bot'实现的。通过搭建这个聊天机器人，可以提供更好的客户支持，为雪佛兰汽车用户提供定制化的服务。Redis和LlamaIndex技术的运用使得整个项目更加高效和智能。 <div>
 【Agentic RAG Support Bot：展示了如何利用Redis和LlamaIndex创建一个专为雪佛兰汽车定制的客户支持聊天机器人】'Agentic RAG Support Bot' GitHub: github.com/redis-developer/agentic-rag <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpcdu1vj7hj20wj0u042z.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpcdu4ohigj21fi0e2n1c.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 07:58:41 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 07:58:41 GMT</pubDate>
 </item>
 <item>
@@ -64,13 +61,12 @@ AubAI是一个开源的Flutter/Dart包，旨在为移动应用提供先进的本
 <link>https://weibo.com/1402400261/OczMf5I1v</link>
 <guid>https://weibo.com/1402400261/OczMf5I1v</guid>
 <content:encoded><![CDATA[
-<div> FFmpeg, Python binding, 同步API, 异步API, GitHub, jonghwanhyeon, 库, 视频处理, 多媒体, 开源<br>
-<br>
-总结:<br>
+<div> FFmpeg, Python binding, 同步API, 异步API, GitHub, jonghwanhyeon, 库, 视频处理, 多媒体, 开源<br />
+<br />
+总结:<br />
 本文介绍了一个名为python-ffmpeg的库，它是FFmpeg的Python绑定，提供了同步和异步API。用户可以在GitHub上找到该项目，由用户jonghwanhyeon开发。这个库可以帮助用户处理视频和多媒体文件，并且是开源的。 <div>
 【python-ffmpeg：为 FFmpeg 提供同步和异步 API 的 Python 绑定库】'python-ffmpeg - A python binding for FFmpeg which provides sync and async APIs' GitHub: github.com/jonghwanhyeon/python-ffmpeg <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpcdpssinyj212o0g4405.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 07:54:37 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 07:54:37 GMT</pubDate>
 </item>
 <item>
@@ -78,12 +74,11 @@ AubAI是一个开源的Flutter/Dart包，旨在为移动应用提供先进的本
 <link>https://weibo.com/1402400261/OczK3zoTR</link>
 <guid>https://weibo.com/1402400261/OczK3zoTR</guid>
 <content:encoded><![CDATA[
-<div> LM Studio、开源、命令行工具、终端、管理、操作、GitHub、lmstudio-ai、项目、lms<br>
-<br>
+<div> LM Studio、开源、命令行工具、终端、管理、操作、GitHub、lmstudio-ai、项目、lms<br />
+<br />
 LM Studio推出了一个开源命令行工具lms，可以在终端中管理和操作LM Studio项目。用户可以在GitHub上找到该工具的代码库github.com/lmstudio-ai/lms。这个工具可以让用户更方便地使用LM Studio项目，提高工作效率。 <div>
 【lms：开源的命令行工具，用于在终端管理和操作LM Studio项目】’lms - LM Studio in your terminal' GitHub: github.com/lmstudio-ai/lms <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpcdk3mughj20pw0k8abb.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 07:49:14 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 07:49:14 GMT</pubDate>
 </item>
 <item>
@@ -92,11 +87,10 @@ LM Studio推出了一个开源命令行工具lms，可以在终端中管理和�
 <guid>https://weibo.com/1402400261/OczJGxBRu</guid>
 <content:encoded><![CDATA[
 <div> CLI、下一代、简化、Web应用开发、Go语言后端、流行CSS框架前端、htmx、hyperscript、Alpine.js、GitHub
-<br><br>总结:
+<br /><br />总结:
 Gowebly CLI是一个开源的下一代命令行工具，旨在简化使用Go语言后端和流行CSS框架前端的Web应用开发。通过该工具，开发者可以轻松创建令人惊艳的Web应用程序，在后端使用Go语言，并在前端使用htmx、hyperscript或Alpine.js等流行的工具和框架。该项目的GitHub地址是github.com/gowebly/gowebly。 <div>
 【The Gowebly CLI：开源的下一代命令行工具，旨在简化使用Go语言后端和流行CSS框架前端的Web应用开发】'The Gowebly CLI - A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.' GitHub: github.com/gowebly/gowebly <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpcdjh0i5uj20vc0u0diz.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 07:48:18 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 07:48:18 GMT</pubDate>
 </item>
 <item>
@@ -106,11 +100,10 @@ Gowebly CLI是一个开源的下一代命令行工具，旨在简化使用Go语�
 <content:encoded><![CDATA[
 <div> Chainloop, 开源, 软件供应链, 元数据仓库, 管理, SBOMs, VEX, SARIF 文件, QA reports
 
-<br><br>总结:
+<br /><br />总结:
 Chainloop是一个开源的软件供应链元数据仓库，主要用于管理SBOMs、VEX、SARIF文件、QA报告等。用户可以使用Chainloop来存储和管理与软件供应链相关的元数据，帮助他们更好地跟踪和管理软件开发过程中涉及的各种文件和报告。通过Chainloop，用户可以方便地查看和管理软件供应链的各个环节，提高项目的可追溯性和质量管理水平。Chainloop的开源性也为用户提供了更大的灵活性和可定制性，使其能够根据自身需求进行定制和扩展。 <div>
 【Chainloop：开源的软件供应链元数据仓库，用于管理 SBOMs、VEX、SARIF 文件、QA reports等】'Chainloop - Chainloop is an Open Source Metadata Vault for your Software Supply Chain metadata, SBOMs, VEX, SARIF files, QA reports, and more.' GitHub: github.com/chainloop-dev/chainloop <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpcdeoix9rj20vo0u0tdj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpcdepbghij21290kqmzp.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 07:43:44 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 07:43:44 GMT</pubDate>
 </item>
 <item>
@@ -120,11 +113,10 @@ Chainloop是一个开源的软件供应链元数据仓库，主要用于管理SB
 <content:encoded><![CDATA[
 <div> GitHub, 大型语言模型, 模型结构, RAG, Agent, Eval任务, 手写代码, 指南, 理解, 实践
 
-<br><br>总结:
+<br /><br />总结:
 本篇文章是一篇关于大型语言模型（LLM）的构建指南，旨在从零开始手写代码，深入理解并实践如何构建一个Tiny-Universe模型。文章介绍了模型结构的概念，RAG模型、Agent和Eval任务的相关内容，并提供了GitHub链接供读者参考。通过本文的指导，读者可以学习如何从头开始构建一个大型语言模型，提升对模型结构和相关任务的理解和实践能力。 <div>
 【大模型白盒子构建指南：旨在从零开始手写代码，深入理解并实践大型语言模型（LLM）的构建，包括模型结构、RAG、Agent和Eval任务】'大模型白盒子构建指南 - 一个全手搓的Tiny-Universe' GitHub: github.com/datawhalechina/tiny-universe <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpcdd0jhrzj20u00zs43h.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpcdd1payij20zk0k0djc.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpcdd376ihj217d0pa102.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpcdd4se9aj21070u0gxw.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpcdd60t50j20wi0p6q5g.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 07:42:17 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 07:42:17 GMT</pubDate>
 </item>
 <item>
@@ -134,14 +126,12 @@ Chainloop是一个开源的软件供应链元数据仓库，主要用于管理SB
 <content:encoded><![CDATA[
 <div> GitHub, Pareas, GPU 加速编译器, RISC-V 机器代码, 设计, 简单编程语言
 
-<br><br>总结:
+<br /><br />总结:
 Pareas是一个为简单编程语言设计的GPU加速编译器。它具有能够输出RISC-V机器代码的功能，并在GitHub上开源。通过使用Pareas，开发人员可以设计和编写更简单的编程语言，并利用GPU加速来提高编译速度和性能。该编译器的设计旨在使编程变得更加简单和高效，为开发人员提供更好的编程体验。 <div>
 【Pareas：为简单编程语言设计的 GPU 加速编译器，能输出 RISC-V 机器代码】'Pareas - GPU-accelerated compiler' GitHub: github.com/Snektron/pareas <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpcda20dojj21740sytcm.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 03 May 2024 07:39:15 GMT</pubDate>
-<pubDate>Fri, 03 May 2024 07:39:15 GMT</pubDate>
 </item>
-
 <item>
 <title>【Kaggle上由LMSYS组织的“Chatbot Arena Human Preference Predictions”竞赛，旨在通过机器学习模型预测用户在聊天机器人生成的答案中更偏好哪一个】- 竞赛目...</title>
 <link>https://weibo.com/1402400261/OcwIAqTM4</link>
@@ -12874,128 +12864,6 @@ WhatTheDuck是一个基于DuckDB的开源web应用，允许用户上传CSV文件
 【WhatTheDuck：用于 DuckDB 的开源 web 应用，用户能将 CSV 文件上传并将其存储在表格中，并通过 SQL 进行查询】'WhatTheDuck - an open-source web application built on DuckDB. It allows users to upload CSV files, store them in tables, and perform SQL queries on the data.' GitHub: github.com/incentius-foss/WhatTheDuck <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%95%B0%E6%8D%AE%E5%BA%93%23&amp;isnewpage=1"><span class="surl-text">#数据库#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho5i21ftj3j21im0pkgqe.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 27 Mar 2024 05:45:14 GMT</pubDate>
-</item>
-<item>
-<title>【BinaryVectorDB：用于高效搜索大规模向量数据库的开源项目】'BinaryVectorDB - Efficient Search on Large Datasets - Efficient vector database for hundred...</title>
-<link>https://weibo.com/1402400261/O6W2NnyJQ</link>
-<guid>https://weibo.com/1402400261/O6W2NnyJQ</guid>
-<content:encoded><![CDATA[
-<div> 向量数据库、高效搜索、大规模、开源项目、GitHub、BinaryVectorDB、向量、检索、百万级、嵌入<br />
-<br />
-BinaryVectorDB是一个开源项目，旨在提供高效搜索大规模向量数据库的解决方案。该项目在GitHub上托管，为用户提供了一个能够处理数亿个嵌入的有效向量数据库。通过BinaryVectorDB，用户可以快速检索和比对向量数据，实现快速而准确的搜索结果。这个项目的出现，为处理海量向量数据提供了便捷和高效的工具，为用户提供了更好的数据处理和资源利用方式。<br /><br />总结: <br />BinaryVectorDB是一个开源项目，旨在提供高效搜索大规模向量数据库的解决方案。该项目在GitHub上托管，为用户提供了一个能够处理数亿个嵌入的有效向量数据库。通过BinaryVectorDB，用户可以快速检索和比对向量数据，实现快速而准确的搜索结果。这个项目的出现，为处理海量向量数据提供了便捷和高效的工具，为用户提供了更好的数据处理和资源利用方式。 <div>
-【BinaryVectorDB：用于高效搜索大规模向量数据库的开源项目】'BinaryVectorDB - Efficient Search on Large Datasets - Efficient vector database for hundred millions of embeddings.' GitHub: github.com/cohere-ai/BinaryVectorDB <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho5hpriibpj21250u0zpc.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 05:34:00 GMT</pubDate>
-</item>
-<item>
-<title>【Freeze：代码和终端输出的截图生成】’Freeze - Generate images of code and terminal output' GitHub: github.com/charmbracelet/freeze #开源# #工具# [图...</title>
-<link>https://weibo.com/1402400261/O6W1ObpF9</link>
-<guid>https://weibo.com/1402400261/O6W1ObpF9</guid>
-<content:encoded><![CDATA[
-<div> GitHub、Freeze、代码、终端输出、生成、图片、charmbracelet、截图、工具、开发者<br />
-<br />
-重点介绍了一个名为Freeze的工具，可以帮助开发者生成代码和终端输出的截图。该工具由charmbracelet团队开发，通过GitHub进行了开源。Freeze可以将代码和终端输出转化为图片形式，方便开发者进行分享和展示。开发者可以通过Freeze轻松地生成漂亮的截图，提高展示代码和输出结果的效果和效率。 <div>
-【Freeze：代码和终端输出的截图生成】’Freeze - Generate images of code and terminal output' GitHub: github.com/charmbracelet/freeze <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%B7%A5%E5%85%B7%23&amp;isnewpage=1"><span class="surl-text">#工具#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho5hnigrrkj20ul0u076u.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 05:31:34 GMT</pubDate>
-</item>
-<item>
-<title>【Hybrid-Net：基于 Transformer 的音源分离工具，可生成歌词、旋律、节奏等】'Hybrid-Net - Real-time audio source separation, generate lyrics, chords, bea...</title>
-<link>https://weibo.com/1402400261/O6W11h8la</link>
-<guid>https://weibo.com/1402400261/O6W11h8la</guid>
-<content:encoded><![CDATA[
-<div> Transformer、音源分离、歌词、旋律、节奏、实时、生成、Hybrid-Net、GitHub、工具
-
-Hybrid-Net 是一个基于 Transformer 技术的音源分离工具，能够实时分离音频源，并生成歌词、旋律和节奏。用户可以在GitHub上找到Hybrid-Net的源代码。这个工具利用了先进的深度学习技术，为音乐制作人和音乐爱好者提供了一种方便且高效的音源分离工具，使他们能够更好地编辑和制作音乐作品。Hybrid-Net的实时性和生成多种音乐元素的能力使其在音乐创作和制作领域具有很大的应用潜力。Hybrid-Net为音乐创作提供了更多可能性，让用户更容易地创作出优质的音乐作品。 <div>
-【Hybrid-Net：基于 Transformer 的音源分离工具，可生成歌词、旋律、节奏等】'Hybrid-Net - Real-time audio source separation, generate lyrics, chords, beat.' GitHub: github.com/DoMusic/Hybrid-Net <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho5hlmtar0j21400h6tat.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 05:29:38 GMT</pubDate>
-</item>
-<item>
-<title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评...</title>
-<link>https://weibo.com/1402400261/O6TbSFiLr</link>
-<guid>https://weibo.com/1402400261/O6TbSFiLr</guid>
-<content:encoded><![CDATA[
-<div> Java, Python, JavaScript, C语言, MySQL, Redis, 技术原理, 故事, 码农翻身2
-
-总结：<br /><br />
-《码农翻身2》是一部以故事为主线讲解技术的畅销书，将枯燥的技术内容变成有趣的故事。在编程语言王国中，Java向Python渗透，JavaScript向Java进攻，C语言孤独回家，MySQL和Redis相互作对。通过讲述这些故事，读者可以轻松掌握技术原理和本质，享受阅读乐趣。 <div>
-//<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评论即可参与。畅销书《码农翻身》第2部终于出版了，依然是用故事的方式讲解技术，把看似枯燥乏味的技术，变成好玩有趣的故事。编程语言王国之间依然争斗得你死我活，今天Java向Python渗透，明天JavaScript就向Java猛烈进攻。而C语言春节回家，发现只有自己没有对象，十分悲催。MySQL和Redis互相看不顺眼，不断向对方使绊子。让大家掌握技术原理和本质的同时，又能读起来很爽。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5016276596163714"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4ohfsdnwj20m80m843i.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4ohgdugqj20m80m8tc1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho4ohgus3ij20m80m8q75.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho4ohhdfwxj20zk0zk7ar.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 26 Mar 2024 22:18:09 GMT</pubDate>
-</item>
-<item>
-<title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@图灵文化 @图灵新知 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发...</title>
-<link>https://weibo.com/1402400261/O6TbNCOp0</link>
-<guid>https://weibo.com/1402400261/O6TbNCOp0</guid>
-<content:encoded><![CDATA[
-<div> hello 算法, 截止日期, 可可粉, 数据结构, 算法, 动画图解, 实战代码示例, 互动环节, 直观易懂, 新知识
-
-<br /><br />总结:
-截止日期为2024年3月29日中午12:00，参与方式是转发并评论帖子。这本《hello 算法》书籍以全新的视角讲解数据结构与算法，每一章节都有生动的动画图解，让抽象的概念变得直观易懂。书中还提供实战代码示例帮助读者即学即用，及时巩固新知识。互动环节的设计则能帮助读者主动思考、提问和解决问题。通过这本书，读者可以轻松掌握算法，进入算法的世界。 <div>
-//<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%87%E5%8C%96">@图灵文化</a> <a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%B0%E7%9F%A5">@图灵新知</a> 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发+评论即可参与。带你轻松掌握数据结构与算法，以全新的视角带你进入算法的世界。书中的每一章节都配有生动的动画图解，让抽象的数据结构和算法变得直观易懂。实战代码示例让你即学即用，及时巩固新知识。互动环节的设计帮助你主动思考，提问和解决问题。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5014630549948449"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfciddvdj21pe24a7wh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfchthjaj20m80m8q6g.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfcht5csj20m80m8go5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzfchtze3j20m80m8ach.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfci9xvsj2494494e81.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnzfcht5xoj20m80m8mzj.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 26 Mar 2024 22:17:57 GMT</pubDate>
-</item>
-<item>
-<title>今日推介(第1357期)：LLM Agent操作系统、从损失角度理解语言模型的涌现能力、用概率流推进扩散语言生成、基于大语言模型状态奖励和动作建模的强化学习推荐系统...</title>
-<link>https://weibo.com/1402400261/O6TbDB7R4</link>
-<guid>https://weibo.com/1402400261/O6TbDB7R4</guid>
-<content:encoded><![CDATA[
-<div> LLM Agent操作系统、损失角度、语言模型、能力、概率流、扩散语言生成、大语言模型、强化学习、推荐系统、3DGS
-总结：<br /><br />本文介绍了最新的LLM Agent操作系统，从损失角度探讨了语言模型的涌现能力，提出了用概率流推进扩散语言生成的方法，以及基于大语言模型的状态奖励和动作建模的强化学习推荐系统。此外，还讨论了3DGS在改进渲染和重建的SDF中的应用。整篇文章深入探讨了语言模型和人工智能技术在推荐系统和渲染领域的最新进展。 <div>
-今日推介(第1357期)：LLM Agent操作系统、从损失角度理解语言模型的涌现能力、用概率流推进扩散语言生成、基于大语言模型状态奖励和动作建模的强化学习推荐系统、3DGS满足改进渲染和重建的SDF 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/689222773"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(3.27)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho553velkuj20go0bp3zt.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho553xmqk5j20go0dzmyp.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho5540zmsoj20go04rq3a.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho55447ws1j20go0770th.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho5546v8uwj20go0b0q4m.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Tue, 26 Mar 2024 22:17:32 GMT</pubDate>
-</item>
-<item>
-<title>[CV] Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections 网页链接 GS-W通过为每个高斯点建立独立、可自适应采样的内在与动态外...</title>
-<link>https://weibo.com/1402400261/O6T8nkhR8</link>
-<guid>https://weibo.com/1402400261/O6T8nkhR8</guid>
-<content:encoded><![CDATA[
-<div> 高斯点，内在动态外观表示，图像重建，快速渲染，高质量<br />
-<br />
-提出了一种名为GS-W的算法，通过为每个高斯点建立独立、可自适应采样的内在与动态外观表示，实现了从无限制图像重建场景的高质量与快速渲染。这种方法能够有效处理不受约束的图像集合，提高重建场景的质量和渲染速度。GS-W算法的关键在于对每个高斯点的内在和动态外观表示进行有效建模，从而实现高质量的场景重建。通过实验证明了该算法的有效性和性能优势，为处理无约束图像集合提供了有效的解决方案。 <div>
-[CV]  Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections  <br /><a href="https://arxiv.org/abs/2403.15704"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>   <br />GS-W通过为每个高斯点建立独立、可自适应采样的内在与动态外观表示，实现了从无限制图像重建场景的高质量与快速渲染。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho54vv1aymj20qa15stj4.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho54vvdhkgj21fu16ywr8.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Tue, 26 Mar 2024 22:09:31 GMT</pubDate>
-</item>
-<item>
-<title>[CV] CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field 网页链接 提出CG-SLAM系统，通过高斯Splatting技术实现高效精...</title>
-<link>https://weibo.com/1402400261/O6T3Ogxsv</link>
-<guid>https://weibo.com/1402400261/O6T3Ogxsv</guid>
-<content:encoded><![CDATA[
-<div> 关键词: CG-SLAM, 高斯Splatting, 相机跟踪, 场景重建, RGB-D SLAM
-
-总结:<br /><br />总结:本文提出了CG-SLAM系统，通过高斯Splatting技术实现高效精确的相机跟踪和优质场景重建，是实时和高质量RGB-D SLAM的有效途径。CG-SLAM能够在三维高斯场中保持一致的不确定性估计，同时有效地处理相机运动和场景表面的变化。使用高斯场作为数据结构使得系统能够高效地进行场景表面重建和相机定位。通过实验证明，CG-SLAM系统具有良好的鲁棒性和实时性，适用于各种室内和室外场景的SLAM任务。 <div>
-[CV] CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field  <br /><a href="https://arxiv.org/abs/2403.16095"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />提出CG-SLAM系统，通过高斯Splatting技术实现高效精确的相机跟踪和优质场景重建，是实时和高质量RGB-D SLAM的有效途径。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho54k4hfr4j20v21codub.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho54k4yen1j21gu0mqn7w.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho54k5m4gaj21hc0w8amw.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Tue, 26 Mar 2024 21:58:16 GMT</pubDate>
-</item>
-<item>
-<title>[CV] latentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction 网页链接 提出变分3D高斯表示以及从两个视角进行预测和新视...</title>
-<link>https://weibo.com/1402400261/O6SYutbHt</link>
-<guid>https://weibo.com/1402400261/O6SYutbHt</guid>
-<content:encoded><![CDATA[
-<div> 变分高斯表示, 3D重建, 视频训练数据, autoencoding, 预测, 合成, 快速, 高质量, 可推广
-
-<br /><br />总结:
-latentSplat提出了一种框架，实现了快速、高质量、可推广的3D场景重建。该框架利用变分高斯表示，可以从两个视角进行预测和新视角合成。重要的是，该方法仅依赖容易获得的视频训练数据，为实现高效的3D重建提供了新途径。 <div>
-[CV] latentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction  <br /><a href="https://arxiv.org/abs/2403.16292"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />提出变分3D高斯表示以及从两个视角进行预测和新视角合成的框架，实现了快速、高质量、可推广的3D场景重建，仅依赖容易获得的视频训练数据。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho546i1lj5j20ry190dui.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho546ils4uj21jg0zygz3.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Tue, 26 Mar 2024 21:45:10 GMT</pubDate>
-</item>
-<item>
-<title>提出一个双分支框架，通过3D高斯Splatting渲染和符号距离场表面重建的有效结合，实现了渲染质量和重建细节的同时改进。 - 转发 @爱可可-爱生活:&amp;ensp;[CV]《GSDF...</title>
-<link>https://weibo.com/1402400261/O6SU0i26G</link>
-<guid>https://weibo.com/1402400261/O6SU0i26G</guid>
-<content:encoded><![CDATA[
-<div> 高斯Splatting、3D、符号距离场、渲染、重建、质量、细节、双分支框架、改进、GSDF<br />
-<br />
-提出了一个双分支框架，结合了3D高斯Splatting渲染和符号距离场表面重建，从而在同时改进渲染质量和重建细节方面取得了显著进展。该框架通过将渲染和重建两个任务进行有效结合，实现了更好的渲染效果和更精细的重建结果。研究者提出的GSDF方法为3DGS和SDF的结合提供了一种有效的途径，极大地提高了渲染和重建的效率和精度。此外，该方法还在实际应用中取得了令人满意的效果，显示出了其在图形渲染和重建领域的巨大潜力。<br /><br />总结: <div>
-提出一个双分支框架，通过3D高斯Splatting渲染和符号距离场表面重建的有效结合，实现了渲染质量和重建细节的同时改进。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CV]《GSDF: 3DGS Meets SDF for Improved Rendering and Reconstruction》M Yu, T Lu, L Xu, L Jiang, Y Xiangli, B Dai [Shanghai Artificial Intelligence Laboratory &amp; The Chinese University of Hong Kong] (2024) <a href="https://arxiv.org/abs/2403.16964"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho53um5ibnj215q0xe4df.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho53umrat0j21dk0wq7gu.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho53un9e7oj21cc1d0arn.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho53unllu1j21by1481bk.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho53uozslwj20rl0cq40y.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho53up08vbj20rl0lh422.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho53uozovdj20rl0e2tas.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho53up110dj20rl12an1y.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho53up29daj20rl14ln4z.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Tue, 26 Mar 2024 21:34:06 GMT</pubDate>
 </item>
 </channel>
 </rss>

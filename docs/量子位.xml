@@ -4,17 +4,17 @@
 <title>量子位的微博</title>
 <link>https://weibo.com/6105753431/</link>
 
+
 <item>
 <title>#一次预测多个token# Meta新模型推理加速3倍，编程任务提高17%“预测下一个token”被认为是大模型的基本范式，一次预测多个tokens又会怎样？Meta AI法国团队推出...</title>
 <link>https://weibo.com/6105753431/OcyX0FVIE</link>
 <guid>https://weibo.com/6105753431/OcyX0FVIE</guid>
 <content:encoded><![CDATA[
 <div> Meta AI法国团队、多token预测模型、编程任务、13B参数模型、HumanEval、MBPP、小型算法推理任务、分布外泛化、自然语言任务、数学选择题
-<br><br>
+<br /><br />
 总结:Meta AI法国团队推出了基于多token预测的更快&更好大模型，该模型在编程类任务表现突出，特别是13B参数模型在HumanEval和MBPP上的表现有显著提高。在小型算法推理任务中，多token预测的模型也带来了令人印象深刻的收益，并在分布外泛化方面表现出色。然而，在自然语言任务中，多token预测并未显著提高模型在数学选择题上的表现。另一个优点是，使用4-token预测训练的模型，在推理速度方面可以提高3倍。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%B8%80%E6%AC%A1%E9%A2%84%E6%B5%8B%E5%A4%9A%E4%B8%AAtoken%23&amp;extparam=%23%E4%B8%80%E6%AC%A1%E9%A2%84%E6%B5%8B%E5%A4%9A%E4%B8%AAtoken%23"><span class="surl-text">#一次预测多个token#</span></a> Meta新模型推理加速3倍，编程任务提高17%<br /><br />“预测下一个token”被认为是大模型的基本范式，一次预测多个tokens又会怎样？<br /><br />Meta AI法国团队推出“基于多token预测的更快&amp;更好大模型”。<br /><br />多token预测模型，在编程类任务上表现尤其突出。与单token预测相比，13B参数模型在HumanEval上多解决了12%的问题，在MBPP上多解决了17%。<br /><br />小型算法推理任务上，多token预测也在分布外泛化方面带来了令人印象深刻的收益。<br /><br />不过在自然语言任务上，多token预测方法并不能显著提高7B模型在数学选择题上的表现了。<br /><br />另外一个好处是，即使batch size较大，使用4-token预测训练的模型，推理速度也可提高3倍。<br /><br /><a href="https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247727655&amp;idx=3&amp;sn=7118b86d70594f54289700aabeee1767&amp;chksm=e8dfcd55dfa8444312acc903fc9ec94906779e6bbe8b856649b86443fadbffc87c14b8bd868d&amp;token=1632026441&amp;lang=zh_CN#rd"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">一次预测多个token，Meta新模型推理加速3倍，编程任务提高17%</span></a><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hpca2m0jdvj30re0xqaj1.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 05:48:24 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 05:48:24 GMT</pubDate>
 </item>
 <item>
@@ -24,11 +24,10 @@
 <content:encoded><![CDATA[
 <div> 美图公司、AIGC、大模型产品、生产力工具、中国AIGC产业峰会、吴欣鸿、图像、视频、设计、经验感悟
 
-<br>
+<br />
 中国AIGC产业峰会上，美图公司创始人、董事长兼CEO吴欣鸿从美图视频大模型的探索之路出发，分享了16年深耕图像、视频和设计领域的经验与感悟。在全球AIGC应用浪潮下，如何将大模型产品融入生产力工具，成为AI在生产力场景延伸过程中需要思考的问题之一。吴欣鸿的演讲内容为大家提供了启发，展望了未来发展方向。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E5%9B%BE%E5%90%B4%E6%AC%A3%E9%B8%BF%E8%B0%88%E5%9B%BD%E4%BA%A7Sora%E7%AB%9E%E4%BA%89%E5%85%B3%E9%94%AE%23&amp;extparam=%23%E7%BE%8E%E5%9B%BE%E5%90%B4%E6%AC%A3%E9%B8%BF%E8%B0%88%E5%9B%BD%E4%BA%A7Sora%E7%AB%9E%E4%BA%89%E5%85%B3%E9%94%AE%23"><span class="surl-text">#美图吴欣鸿谈国产Sora竞争关键#</span></a> <br />全球AIGC应用浪潮下，怎样将大模型产品以一种更贴近消费者的形式融入生产力工具？<br /><br />这，或许是AI在生产力场景延伸过程中，入场玩家们所要思考的一个重要问题。<br /><br />中国AIGC产业峰会上，美图公司创始人、董事长兼CEO吴欣鸿从美图视频大模型的探索之路出发，讲述了美图在图像、视频和设计领域深耕16年而获得的经验与感悟以及对未来的预判。<br /><br />为了完整体现吴欣鸿的思考，在不改变原意的基础上，量子位对演讲内容进行了编辑整理，希望能给你带来更多启发。<br /><a href="https://mp.weixin.qq.com/s/TFvwXWsC9k76OyO_5FD_JA"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">美图吴欣鸿：国产Sora竞争关键，在创意、工作流和垂直场景 | 中国AIGC产业峰会</span></a><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hpc9ynijcej30z80le11g.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 05:44:38 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 05:44:38 GMT</pubDate>
 </item>
 <item>
@@ -39,20 +38,18 @@
 <div> 关键词: 奥特曼, 斯坦福, 演讲, 哈佛, MIT, GPT-2, AI, 论文, Agent, AGI
 
 总结:
-<br>
+<br />
 奥特曼在斯坦福、哈佛和MIT做了火爆演讲，提到了与OpenAI相关的GPT-2和未来的发展方向。
-<br>
+<br />
 奥特曼在哈佛谈到了AI在学术中的应用，支持ChatGPT在写作和交流上的价值。
-<br>
+<br />
 奥特曼在MIT讨论了AI助手Agent的概念，认为它将是杀手级应用。
-<br>
+<br />
 奥特曼暗示GPT-5的发布时间，并强调构建AGI的重要性。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%89%BF%E8%AE%A4%E4%BA%86%E7%A5%9E%E7%A7%98gpt2%23&amp;extparam=%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%89%BF%E8%AE%A4%E4%BA%86%E7%A5%9E%E7%A7%98gpt2%23"><span class="surl-text">#奥特曼承认了神秘gpt2#</span></a> <br />奥特曼斯坦福爆火演讲，完整版录像公开了！<br /><br />这还只是第一站，在哈佛和MIT再次发现了他的身影。<br /><br />特别是在哈佛，他还变相承认了神秘gpt2-chatbot确实与OpenAI有关，但不是GPT-4.5。<br /><br />事实上，我们可以同时在所有模型的行为和功能上取得进展，我认为这是个奇迹。<br /><br />他还提到“每个大学生都应该学会训练GPT-2……这并不是最重要的事情，但我打赌两年后这是每个哈佛新生都必须做的事情”。<br /><br />难不成，就真的是GPT-2 1.5B Plus Pro Max Q*威力加强年度典藏豪华版？？？<br /><br />斯坦福大学位于硅谷附近，而哈佛大学和麻省理工学院则位于美国另一端的东海岸波士顿。<br /><br />奥特曼在哈佛的活动同样座无虚席，学生们据称提交了超过2000个问题，但只有少数人获得了现场提问的机会。<br /><br />奥特曼这是复刻去年GPT-4发布后的世界巡游，又来了一把美国大学巡演的节奏。<br /><br />更详细的消息来自哈佛大学校报和MIT科技评论。<br /><br />在哈佛，奥特曼与师生讨论了AI在学术中的使用。<br /><br />论文到底是学生还是ChatGPT写的，有关系吗？<br /><br />奥特曼举例过去人们也曾担心计算器和搜索引擎会毁了教育，但这并没有发生，而ChatGPT就像“单词计算器”。<br /><br />“必须不断发展的是规范”，奥特曼支持ChatGPT不仅可以用于理工科写作，也可以用于人文学科。<br /><br />再用老式的方法写论文已经行不通了。用ChatGPT把发现和表达、交流想法做到最好，我认为这就是未来的发展方向。<br /><br />在MIT，奥特曼则谈到Agent将是AI的杀手级应用。<br /><br />就像一个超级能干的同事，他了解我一生的一切，我的每封电子邮件，每一次对话。<br /><br />在奥特曼看来，Agent新范式的AI能够在聊天界面之外帮助我们，摆脱现实世界的任务，但这并不一定需要单独的硬件。<br /><br />我对新技术的消费硬件非常感兴趣，但我只是一个业余爱好者，离我的专业还很远。<br /><br />被问到“是否已经知道GPT-5预计何时发布”时，奥特曼平静地说“是的”，面带微笑，没有再说别的了。<br /><br />上周他在斯坦福的演讲完整版视频公开后，也有几个片段引发了热烈讨论：<br /><br />GPT-4将是你们中任何人必须再次使用的最愚蠢的模型。<br /><br />我不在乎我们是否每年烧掉500亿美元，我们正在构建 AGI，这将是值得的。<br /><br />来看奥特曼斯坦福爆火演讲双语字幕版完整视频以及内容整理。<br /><br /><a href="https://mp.weixin.qq.com/s/nq9oMj6HcbVGKeDu3zjcOw"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">奥特曼承认了神秘gpt2！哈佛MIT巡演继续，斯坦福演讲完整版公开</span></a><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hpc93epnq6j30u01dl7wh.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hpc93j071vj30u00e7gov.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hpc93ozy04j30u00mi7ps.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 03 May 2024 05:14:49 GMT</pubDate>
-<pubDate>Fri, 03 May 2024 05:14:49 GMT</pubDate>
 </item>
-
 <item>
 <title>#全新神经网络架构一夜爆火# 一种全新的神经网络架构KAN，诞生了！与传统的MLP架构截然不同，且能用更少的参数在数学、物理问题上取得更高精度。比如，200个参数...</title>
 <link>https://weibo.com/6105753431/OcriZt9MV</link>
