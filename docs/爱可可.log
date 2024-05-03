@@ -7470,3 +7470,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OcsYou0aa)
 append_entries: 0
 Finish: 2024-05-02 22:11:25.844411
+------------------------------------------------------
+Started: 2024-05-03 00:54:10.536872
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 459
+Summarized using GPT-3.5-turbo
+Append: [【Kaggle上由LMSYS组织的“Chatbot Arena Human Preference Predictions”竞赛，旨在通过机器学习模型预测用户在聊天机器人生成的答案中更偏好哪一个】- 竞赛目...](https://weibo.com/1402400261/OcwIAqTM4)
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型应用指南》，截至2024.5.9 12:00，*可可...](https://weibo.com/1402400261/OcwGz8AQT)
+Token length: 107
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1394期)：面向语言模型对齐的自弈偏好优化、用小学算术仔细检验大语言模型性能、神经加性模型的可解释自动评分、多群鲁棒性、基于长上下文模型的上下...](https://weibo.com/1402400261/Ocw6g2UP9)
+Token length: 132
+Summarized using GPT-3.5-turbo
+Append: [[LG] A Survey on Deep Active Learning: Recent Advances and New Frontiers 网页链接 对深度学习主动学习(DAL)进行了全面的分类和分析，回顾了其应用，总结了...](https://weibo.com/1402400261/Ocw1SwAqd)
+Token length: 134
+Summarized using GPT-3.5-turbo
+Append: [[CL] A Primer on the Inner Workings of Transformer-based Language Models 网页链接 通过残差流视角整合地介绍Transformer语言模型架构，并全面综述相关的可...](https://weibo.com/1402400261/OcvYQhSrF)
+Token length: 266
+Summarized using GPT-3.5-turbo
+Append: [通过大规模实验对长上下文中的ICL行为进行了深入探索，发现与短上下文ICL相比，可以提供惊人的性能提升，对示例的质量和顺序要求较低，在某些场景下可作为检索和...](https://weibo.com/1402400261/OcvVZ0isP)
+Token length: 172
+Summarized using GPT-3.5-turbo
+Append: [[CL]《In-Context Learning with Long-Context Models: An In-Depth Exploration》A Bertsch, M Ivgi, U Alon, J Berant, M R. Gormley, G Neubig [CMU & Tel Av...](https://weibo.com/1402400261/OcvVUAiNp)
+Token length: 152
+Summarized using GPT-3.5-turbo
+Append: [提出多群鲁棒性概念并通过与多准确率的关联给出实现方法，可针对训练数据中局限于子集的损坏学习鲁棒模型，保护特定群免受不当影响。 - 转发 @爱可可-爱生活:&en...](https://weibo.com/1402400261/OcvS9DS0f)
+Token length: 82
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Multigroup Robustness》L Hu, C Peale, J H Shen [Stanford University] (2024) 网页链接 #机器学习##人工智能##论文# [图片][图片][图片][图片][图片][...](https://weibo.com/1402400261/OcvRWfzH3)
+Token length: 161
+Summarized using GPT-3.5-turbo
+Append: [提出使用神经加性模型进行可解释的自动短答评分，该模型兼具神经网络的预测性能和加性模型的可解释性。 - 转发 @爱可可-爱生活:&ensp;[LG]《Explainable Automat...](https://weibo.com/1402400261/OcvNusijf)
+append_entries: 10
+Finish: 2024-05-03 00:55:03.563665
