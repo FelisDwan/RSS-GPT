@@ -3935,3 +3935,11 @@ Existing_entries: 391
 Fetching from https://rsshub.app/bilibili/weekly
 append_entries: 0
 Finish: 2024-05-03 16:14:46.815887
+------------------------------------------------------
+Started: 2024-05-03 18:14:15.943840
+Existing_entries: 391
+Fetching from https://rsshub.app/bilibili/weekly
+Append: [【猛男版】晚安大小姐，不睡觉的话...](https://www.bilibili.com/video/BV1Xp421S7zr)
+Append: [《最浪漫的学科》](https://www.bilibili.com/video/BV11M4m1f7ss)
+append_entries: 2
+Finish: 2024-05-03 18:14:16.084781

@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>《爱可可微博热门分享(5.3)》 爱可可微博热门分享(5.3) [图片]</title>
 <link>https://weibo.com/1402400261/OcCgM7Lx6</link>
@@ -11,14 +12,12 @@
 <content:encoded><![CDATA[
 <div> 微博、热门、分享、爱可可、5.3、情感、互动、用户、内容、平台
 
-<br><br>总结：
+<br /><br />总结：
 爱可可微博是一个热门的分享平台，用户可以在上面互动并分享各种情感内容。5.3的微博内容受到了用户们的热烈关注，引发了许多讨论和转发。通过这个平台，用户们可以分享自己的心情和观点，从而拉近彼此之间的距离。爱可可微博的热门内容吸引了大量用户参与，形成了一个充满情感交流的社区。 <div>
 《爱可可微博热门分享(5.3)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405030070484861015"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(5.3)</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpcoq03vwjj20qo0f0tcq.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 03 May 2024 14:15:20 GMT</pubDate>
-<pubDate>Fri, 03 May 2024 14:15:20 GMT</pubDate>
 </item>
-
 <item>
 <title>几篇论文实现代码：《SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training》(ICLR 2024) GitHub: github.com/deep-symbolic-ma...</title>
 <link>https://weibo.com/1402400261/OczVqcJv0</link>
@@ -12865,19 +12864,6 @@ LLM-Culture是一个用于研究大型语言模型文化演化的开源框架。
 【LLM-Culture：用于研究大型语言模型文化演化的开源框架】'LLM-Culture' GitHub: github.com/jeremyperez2/LLM-Culture <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho5i41xnnmj22rl0u0wo9.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho5i43nxr3j21c00u0wh6.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho5i456uhyj22n90u0wog.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Wed, 27 Mar 2024 05:47:16 GMT</pubDate>
-</item>
-<item>
-<title>【WhatTheDuck：用于 DuckDB 的开源 web 应用，用户能将 CSV 文件上传并将其存储在表格中，并通过 SQL 进行查询】'WhatTheDuck - an open-source web applicatio...</title>
-<link>https://weibo.com/1402400261/O6W7maOoB</link>
-<guid>https://weibo.com/1402400261/O6W7maOoB</guid>
-<content:encoded><![CDATA[
-<div> DuckDB, 开源, web 应用, CSV 文件, 存储, 表格, SQL 查询, GitHub, incentius-foss, WhatTheDuck
-
-<br /><br />总结:
-WhatTheDuck是一个基于DuckDB的开源web应用，允许用户上传CSV文件并将其存储在表格中，然后通过SQL查询数据。用户可以在GitHub上找到该项目的代码，链接为github.com/incentius-foss/WhatTheDuck。通过WhatTheDuck，用户可以方便地管理CSV数据并进行SQL查询操作，为数据分析和处理提供了便利和效率。 <div>
-【WhatTheDuck：用于 DuckDB 的开源 web 应用，用户能将 CSV 文件上传并将其存储在表格中，并通过 SQL 进行查询】'WhatTheDuck - an open-source web application built on DuckDB. It allows users to upload CSV files, store them in tables, and perform SQL queries on the data.' GitHub: github.com/incentius-foss/WhatTheDuck <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%95%B0%E6%8D%AE%E5%BA%93%23&amp;isnewpage=1"><span class="surl-text">#数据库#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho5i21ftj3j21im0pkgqe.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 05:45:14 GMT</pubDate>
 </item>
 </channel>
 </rss>
