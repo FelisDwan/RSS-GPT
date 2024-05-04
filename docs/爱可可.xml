@@ -5,17 +5,68 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>几篇论文实现代码：《MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation》(CVPR 2024) GitHub: githu...</title>
+<link>https://weibo.com/1402400261/OcKu09ISg</link>
+<guid>https://weibo.com/1402400261/OcKu09ISg</guid>
+<content:encoded><![CDATA[
+<div> MaskClustering, View Consensus, Mask Graph Clustering, 3D Instance Segmentation, Open-Vocabulary, CVPR 2024, GitHub, UnScene3D, Unsupervised, Indoor Scenes, VMRNN, Vision Mamba, LSTM, Spatiotemporal Forecasting, DrEureka, Language Model, Sim-To-Real Transfer, AdvPrompter, Adversarial Prompting, LLMs, EchoScene, Indoor Scene Generation, Information Echo, Scene Graph Diffusion, SATO, Text-to-Motion Framework, Customizing, Text-to-Image Models, Single Image Pair, M3D, 3D Medical Image Analysis, Multi-Modal, Self-Explore, Reasoning Capabilities, Fine-grained Rewards, SynFlowNet, Molecule Design, Guaranteed Synthesis Pathways
+
+<br><br>总结:
+《MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation》提出了一种新的Mask Graph Clustering方法，用于处理开放词汇的3D实例分割任务。该方法利用视图一致性来聚类实例，并在CVPR 2024会议上发布，并在GitHub上提供了代码。
+《UnScene3D: Unsupervised 3D Instance Segmentation for Indoor Scenes》是针对室内场景的无监督3D实例分割方法，通过GitHub分享代码。
+《VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting》介绍了一种结合Vision Mamba和LSTM的模型，用于高效准确的时空预测任务，同时提供了基于PyTorch的代码。
+《DrEureka: Language Model Guided Sim-To-Real Transfer》提出了一种由语言模型引导的Sim-To-Real转移方法，用于模拟到真实场景的转移。
+《AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs》描述了一种快速自适应的对抗性提示方式，适用于LLMs模型。
+《EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion》介绍了一种基于信息回声的室内场景生成方法，并提供了代码。
+《SATO: Stable Text-to-Motion Framework》是一个稳定的文本到动作框架，通过GitHub分享了代码。
+《Customizing Text-to-Image Models with a Single Image Pair》展示了如何通过单个图像对定制文本到图像模型。
+《M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models》利用多模态大型语言模型推进3D医学图像分析。
+《Self-Explore to Avoid the Pit: Improving the Reasoning Capabilities of Language Models with Fine-grained Rewards》通过精细奖励改善语言模型的推理能力。
+《SynFlowNet: Towards Molecule Design with Guaranteed Synthesis Pathways》旨在通过SynFlowNet实现具有保证合成途径的分子设计。 <div>
+几篇论文实现代码：<br />《MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation》(CVPR 2024) GitHub: github.com/PKU-EPIC/MaskClustering [fig1]<br />《UnScene3D: Unsupervised 3D Instance Segmentation for Indoor Scenes》(CVPR 2024) GitHub: github.com/RozDavid/UnScene3D [fig3]<br />《VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting》(CVPR 2024) GitHub: github.com/yyyujintang/VMRNN-PyTorch [fig4]<br />《DrEureka: Language Model Guided Sim-To-Real Transfer》(2024) GitHub: github.com/eureka-research/DrEureka<br />《AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs》(2024) GitHub: github.com/facebookresearch/advprompter<br />《EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion》(2024) GitHub: github.com/ymxlzgy/echoscene<br />《EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion》(2024) GitHub: github.com/ymxlzgy/echoscene<br />《SATO: Stable Text-to-Motion Framework》(2024) GitHub: github.com/sato-team/Stable-Text-to-Motion-Framework [fig2]<br />《Customizing Text-to-Image Models with a Single Image Pair》(2024) GitHub: github.com/PairCustomization/PairCustomization <br />《M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models》(2024) GitHub: github.com/BAAI-DCAI/M3D<br />《Self-Explore to Avoid the Pit: Improving the Reasoning Capabilities of Language Models with Fine-grained Rewards》(2024) GitHub: github.com/hbin0701/Self-Explore [fig5]<br />《SynFlowNet: Towards Molecule Design with Guaranteed Synthesis Pathways》(2024) GitHub: github.com/mirunacrt/synflownet<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpdhlndh0dj24tq1bnb2d.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpdhqt09z0j20lc0bwwhb.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpdlily2tdj21gn0fl79s.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpdn4pxm8kj227617iwwz.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpdn8p77usj21ws13i4pu.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 11:09:53 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 11:09:53 GMT</pubDate>
+</item>
+<item>
+<title>【ollama-reply：开源的浏览器扩展，利用 AI 技术自动生成社交媒体互动回复，以促进社交网络增长】'ollama-reply - open-source browser extension that leverag...</title>
+<link>https://weibo.com/1402400261/OcKtVEeeg</link>
+<guid>https://weibo.com/1402400261/OcKtVEeeg</guid>
+<content:encoded><![CDATA[
+<div> 开源 浏览器扩展 AI 技术 社交媒体 互动 回复 社交网络 增长<br>
+<br>
+AI 技术的应用已经扩展到社交媒体领域，ollama-reply是一个开源的浏览器扩展，利用AI技术来生成社交媒体互动回复，帮助用户促进社交网络增长。该扩展可以帮助用户生成各种吸引人的回复内容，提高用户的社交媒体曝光度和互动率，进而增加社交网络的发展和壮大。用户可以通过GitHub找到这个项目，体验AI技术在社交媒体领域带来的便利和创新。<br><br>总结: 开源 浏览器扩展 AI 技术 社交媒体 互动 回复 社交网络 增长 <div>
+【ollama-reply：开源的浏览器扩展，利用 AI 技术自动生成社交媒体互动回复，以促进社交网络增长】'ollama-reply - open-source browser extension that leverages the power of the AI to generate engaging replies for social media growth.' GitHub: github.com/jose-donato/ollama-reply <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpdozbn4etj20zs0u0dks.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 11:09:43 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 11:09:43 GMT</pubDate>
+</item>
+<item>
+<title>【Categorized Raycast Extensions：通过分类整理，简化用户发现和使用Raycast扩展的过程】'Categorized Raycast Extensions - Easily find Raycast Extensions!...</title>
+<link>https://weibo.com/1402400261/OcKtr5tS0</link>
+<guid>https://weibo.com/1402400261/OcKtr5tS0</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Raycast, Extensions, 分类, 发现, 使用
+
+<br><br>总结:
+这篇文章介绍了一个名为Categorized Raycast Extensions的项目，旨在通过分类整理，简化用户发现和使用Raycast扩展的过程。GitHub上有相关的代码仓库，方便用户查看和下载扩展。通过该项目，用户可以更轻松地找到所需的Raycast扩展，并且能够更便利地使用这些功能丰富的工具。GitHub链接为github.com/marekbrze/categorized-raycast-extensions。 <div>
+【Categorized Raycast Extensions：通过分类整理，简化用户发现和使用Raycast扩展的过程】'Categorized Raycast Extensions - Easily find Raycast Extensions!' GitHub: github.com/marekbrze/categorized-raycast-extensions <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BARaycast%23&amp;extparam=%23%E6%9C%BARaycast%23"><span class="surl-text">#机Raycast#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpdoxiu3amj210s0u0799.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 11:08:30 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 11:08:30 GMT</pubDate>
+</item>
+
+<item>
 <title>【Omniplex：致力于复现Perplexity的开源项目，专注于开发多功能的聊天界面和插件，使用 TypeScript 语言和 Next.js 框架】'Omniplex - Open-Source Perplexity'...</title>
 <link>https://weibo.com/1402400261/OcK8WispW</link>
 <guid>https://weibo.com/1402400261/OcK8WispW</guid>
 <content:encoded><![CDATA[
 <div> Omniplex, 复现Perplexity, 开源项目, TypeScript, Next.js, 多功能聊天界面, 插件, GitHub, Omniplex-ai, omniplex 
 
-<br><br>总结:
+<br /><br />总结:
 Omniplex是一个旨在复现Perplexity的开源项目，采用了TypeScript语言和Next.js框架来开发多功能的聊天界面和插件。通过GitHub上的Omniplex-ai仓库，用户可以获取更多关于Omniplex的信息和资源。Omniplex致力于提供更好的用户体验和更多的功能选择，为用户打造更便捷、高效的聊天体验。 <div>
 【Omniplex：致力于复现Perplexity的开源项目，专注于开发多功能的聊天界面和插件，使用 TypeScript 语言和 Next.js 框架】'Omniplex - Open-Source Perplexity' GitHub: github.com/Omniplex-ai/omniplex <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpdnh2erevj21bd0u043b.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 10:18:00 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 10:18:00 GMT</pubDate>
 </item>
 <item>
@@ -25,10 +76,9 @@ Omniplex是一个旨在复现Perplexity的开源项目，采用了TypeScript语�
 <content:encoded><![CDATA[
 <div> GitHub, JAX, 离线强化学习算法, 干净, 单文件, 高性能, 基准测试, 灵活性
 
-总结:<br><br>这是一个用 JAX 实现的干净、单文件的离线强化学习算法代码库，旨在提供高性能的基准测试和灵活性。用户可以在GitHub上找到该项目，探索其中的实现细节和性能表现，这对于研究人员和开发者来说是一个有用的资源。 <div>
+总结:<br /><br />这是一个用 JAX 实现的干净、单文件的离线强化学习算法代码库，旨在提供高性能的基准测试和灵活性。用户可以在GitHub上找到该项目，探索其中的实现细节和性能表现，这对于研究人员和开发者来说是一个有用的资源。 <div>
 【JAX-CORL：用 JAX 实现的离线强化学习算法的干净、单文件代码库，旨在提供高性能的基准测试和灵活性】'JAX-CORL - Clean single-file implementation of offline RL algorithms in JAX' GitHub: github.com/nissymori/JAX-CORL <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpdneg0vxqj20u00wzjvx.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 10:15:01 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 10:15:01 GMT</pubDate>
 </item>
 <item>
@@ -38,11 +88,10 @@ Omniplex是一个旨在复现Perplexity的开源项目，采用了TypeScript语�
 <content:encoded><![CDATA[
 <div> 工具包、微调、推理、评估、GreenBitAI、低bit语言模型、LLMs、GitHub、Green-Bit-LLM
 
-<br><br>总结:
+<br /><br />总结:
 Green-Bit-LLM是一个用于微调、推理和评估GreenBitAI的低bit语言模型（LLMs）的工具包。用户可以通过该工具包对GreenBitAI的LLMs进行微调、推理和评估，提高模型的性能和效果。该工具包的代码可以在GitHub上找到，用户可以通过该平台获取和使用。Green-Bit-LLM为用户提供了便捷的工具和资源，帮助他们更好地利用和应用GreenBitAI的低bit语言模型。 <div>
 【Green-Bit-LLM：用于微调、推理和评估 GreenBitAI 低bit语言模型（LLMs）的工具包】'Green-Bit-LLM - A toolkit for fine-tuning, inferencing, and evaluating GreenBitAI's LLMs.' GitHub: github.com/GreenBitAI/green-bit-llm <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpdmvya4nvj21580u0n33.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 09:57:32 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 09:57:32 GMT</pubDate>
 </item>
 <item>
@@ -52,14 +101,12 @@ Green-Bit-LLM是一个用于微调、推理和评估GreenBitAI的低bit语言模
 <content:encoded><![CDATA[
 <div> 高质量、可靠、文本到语音、语音到文本、库、服务器、浏览器、Lobe TTS、GitHub
 
-<br><br>总结:
+<br /><br />总结:
 Lobe TTS是一个专为服务器和浏览器设计的高质量、可靠的文本到语音和语音到文本库。用户可以在GitHub上找到该库的源代码。Lobe TTS提供了优质的TTS和STT功能，可广泛应用于各种语音相关的开发项目中，为用户带来更好的体验。 <div>
 【Lobe TTS：用于服务器和浏览器的高质量、可靠的文本到语音(TTS)/语音到文本(STT)库】'Lobe TTS - Lobe TTS - A high-quality &amp; reliable TTS/STT library for Server and Browser' GitHub: github.com/lobehub/lobe-tts <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpdljyau50j20u00ue77l.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpdljypldfj20u00uu43t.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sat, 04 May 2024 09:11:16 GMT</pubDate>
-<pubDate>Sat, 04 May 2024 09:11:16 GMT</pubDate>
 </item>
-
 <item>
 <title>'Kolmogorov-Arnold Q-Network (KAQN) - KAN applied to Reinforcement learning, initial experiments - Kolmogorov-Arnold Network for Reinforcement Leaning...</title>
 <link>https://weibo.com/1402400261/OcIR78Xo5</link>
@@ -12864,58 +12911,6 @@ EgoLifter利用3D高斯与实例特征的组合以及对比学习，实现了从
 [CV] EgoLifter: Open-world 3D Segmentation for Egocentric Perception  <br /><a href="https://arxiv.org/abs/2403.18118"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />EgoLifter利用3D高斯与实例特征的组合以及对比学习，实现了从第一人称视频进行开放世界3D场景分割的端到端框架，无需人工3D标注数据。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho7fnia6goj20uy1cuwsn.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho7fnipwdjj211g17eh27.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho7fnj4p5nj211o0sa7df.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho7fnjjgkgj20wu1bq179.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Thu, 28 Mar 2024 21:53:15 GMT</pubDate>
-</item>
-<item>
-<title>[CV] Benchmarking Object Detectors with COCO: A New Path Forward 网页链接 通过构建高质量的数据集COCO-ReM，揭示了目标检测模型评估的重要性，为未来的算法...</title>
-<link>https://weibo.com/1402400261/O7bPVv6UR</link>
-<guid>https://weibo.com/1402400261/O7bPVv6UR</guid>
-<content:encoded><![CDATA[
-<div> 构建数据集 COCO-ReM 目标检测模型评估 算法研究 基准 数据集质量 目标检测模型 可靠性
-
-<br /><br />总结:
-该文章介绍了通过建立高质量数据集COCO-ReM来揭示目标检测模型评估的重要性，并为未来算法研究奠定可靠基准。这项研究突出了数据集质量对于目标检测模型评估的关键性，并提出了使用COCO-ReM作为基准数据集的优势。作者强调了评估目标检测模型的重要性，列举了一些现有数据集的局限性，并指出了COCO-ReM数据集的创新性和研究意义。通过对比各种数据集，研究人员表明了COCO-ReM数据集在不同性能指标上的优势，包括更高的准确性和更全面的测试。文章最后总结了该研究的重要性，并呼吁未来的算法研究应该基于可靠的基准数据集进行评估，以推动目标检测领域的发展。 <div>
-[CV]  Benchmarking Object Detectors with COCO: A New Path Forward  <br /><a href="https://arxiv.org/abs/2403.18819"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />通过构建高质量的数据集COCO-ReM，揭示了目标检测模型评估的重要性，为未来的算法研究奠定可靠的基准。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho7fg83ke0j210g184wud.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho7fg8jnpsj217a0xi4dd.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho7fg90wc4j217w0ja47w.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho7fg9jn61j217c0jk0xh.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 21:46:15 GMT</pubDate>
-</item>
-<item>
-<title>[CL] Enhancing Legal Document Retrieval: A Multi-Phase Approach with Large Language Models 网页链接 通过在法律文档多阶段检索流程中集成提示驱动的大型语...</title>
-<link>https://weibo.com/1402400261/O7bNMp76A</link>
-<guid>https://weibo.com/1402400261/O7bNMp76A</guid>
-<content:encoded><![CDATA[
-<div> 大型语言模型、法律文档检索、多阶段方法、提示驱动、性能提升、集成、检索性能、法律领域、信息检索、语言模型
-
-<br /><br />总结:
-本文提出了一种通过在法律文档多阶段检索流程中集成提示驱动的大型语言模型来提升检索性能的方法。研究针对法律领域的信息检索问题进行了探讨，并提出了一种多阶段方法，其中大型语言模型起到关键作用。通过集成大型语言模型，可以显著提高法律文档的检索性能，提高检索结果的准确性和相关性。这种方法为提高法律文档检索效率和质量提供了新思路和方法。 <div>
-[CL] Enhancing Legal Document Retrieval: A Multi-Phase Approach with Large Language Models  <br /><a href="https://arxiv.org/abs/2403.18093"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />通过在法律文档多阶段检索流程中集成提示驱动的大型语言模型，提出了一种可显著提高检索性能的方法。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho7faq17bhj20rm16oals.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho7faqartwj21no0qagrd.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho7farrkrzj21060n2dht.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 21:40:58 GMT</pubDate>
-</item>
-<item>
-<title>[CL] BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text 网页链接 提出了面向生物医学领域的小型开源语言模型BioMedLM，证明了通过高质量...</title>
-<link>https://weibo.com/1402400261/O7bLx6SZP</link>
-<guid>https://weibo.com/1402400261/O7bLx6SZP</guid>
-<content:encoded><![CDATA[
-<div> 生物医学领域、小型开源语言模型、BioMedLM、高质量领域语料训练、生物医学QA、竞争力效果
-
-<br /><br />总结:
-文章介绍了一个面向生物医学领域的小型开源语言模型BioMedLM，该模型在经过高质量领域语料训练后，在生物医学QA等任务上展现出竞争力的效果。作者提出了这个2.7B参数的语言模型，证明了即使不是追求模型规模，通过充分训练仍可以在生物医学领域取得良好的表现。BioMedLM为生物医学领域的文本处理和分析提供了一个有潜力的工具，为相关研究和实践带来了新的可能性。该研究结果为语言模型在特定领域的应用提供了有益的启示，强调了训练数据和模型设计的重要性。BioMedLM的出现丰富了开源语言模型的领域应用场景，对于推动生物医学领域的智能化发展具有积极意义。 <div>
-[CL] BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text  <br /><a href="https://arxiv.org/abs/2403.18421"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />提出了面向生物医学领域的小型开源语言模型BioMedLM，证明了通过高质量的领域语料训练，即使不追求模型规模也可以在生物医学QA等任务上达到竞争力的效果。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho7f4yzhcpj20zk1daww5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho7f4zbj9xj21cs0k2wg9.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho7f4zyeftj214u0pm0ul.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 21:35:25 GMT</pubDate>
-</item>
-<item>
-<title>[LG] Tutorial on Diffusion Models for Imaging and Vision 网页链接 本教程全面系统地介绍了从变分自编码器到扩散模型的发展脉络，数学推导细致，内容丰富，是...</title>
-<link>https://weibo.com/1402400261/O7bJ6kisn</link>
-<guid>https://weibo.com/1402400261/O7bJ6kisn</guid>
-<content:encoded><![CDATA[
-<div> 变分自编码器、扩散模型、数学推导、理解、教材、系统性、发展脉络、内容丰富、图像、视觉功能
-<br />
-<br />
-总结: 本教程全面系统地介绍了从变分自编码器到扩散模型的发展脉络，数学推导细致，内容丰富，是理解扩散模型的好教材。 <div>
-[LG] Tutorial on Diffusion Models for Imaging and Vision  <br /><a href="https://arxiv.org/abs/2403.18103"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />本教程全面系统地介绍了从变分自编码器到扩散模型的发展脉络，数学推导细致，内容丰富，是理解扩散模型的好教材。 <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho7eypxk3tj210q17ggwg.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho7eyq7nf7j21i80vetis.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho7eyqmidgj21cm0o60yj.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 21:29:26 GMT</pubDate>
 </item>
 </channel>
 </rss>

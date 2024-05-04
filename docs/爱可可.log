@@ -7723,3 +7723,18 @@ Summarized using GPT-3.5-turbo
 Append: [【Lobe TTS：用于服务器和浏览器的高质量、可靠的文本到语音(TTS)/语音到文本(STT)库】'Lobe TTS - Lobe TTS - A high-quality & reliable TTS/STT library for ...](https://weibo.com/1402400261/OcJHRcGLe)
 append_entries: 4
 Finish: 2024-05-04 12:18:51.889916
+------------------------------------------------------
+Started: 2024-05-04 14:11:22.439633
+Existing_entries: 1004
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1569
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation》(CVPR 2024) GitHub: githu...](https://weibo.com/1402400261/OcKu09ISg)
+Token length: 236
+Summarized using GPT-3.5-turbo
+Append: [【ollama-reply：开源的浏览器扩展，利用 AI 技术自动生成社交媒体互动回复，以促进社交网络增长】'ollama-reply - open-source browser extension that leverag...](https://weibo.com/1402400261/OcKtVEeeg)
+Token length: 190
+Summarized using GPT-3.5-turbo
+Append: [【Categorized Raycast Extensions：通过分类整理，简化用户发现和使用Raycast扩展的过程】'Categorized Raycast Extensions - Easily find Raycast Extensions!...](https://weibo.com/1402400261/OcKtr5tS0)
+append_entries: 3
+Finish: 2024-05-04 14:11:46.288263

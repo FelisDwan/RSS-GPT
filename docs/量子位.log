@@ -5327,3 +5327,9 @@ Summarized using GPT-3.5-turbo
 Append: [【#马斯克称是时候走向星际文明了#】马斯克动情讲述自己的太空梦：地球是人类摇篮，但人类不能永远待在摇篮里，是时候走向星际文明了。 量子位的微博视频](https://weibo.com/6105753431/OcJPS3QeH)
 append_entries: 1
 Finish: 2024-05-04 12:18:36.966141
+------------------------------------------------------
+Started: 2024-05-04 14:11:19.288513
+Existing_entries: 631
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-05-04 14:11:21.243017
