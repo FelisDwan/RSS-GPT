@@ -7609,3 +7609,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OcCiZecxB)
 append_entries: 0
 Finish: 2024-05-03 22:10:50.757258
+------------------------------------------------------
+Started: 2024-05-04 00:51:09.560876
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 626
+Summarized using GPT-3.5-turbo
+Append: [【生物进化为何有效？生物进化和其他适应过程的最小模型】- 提出一个最小化的生物演化模型，将生物视为按简单规则发展的计算系统。这些规则对应生物基因型，运行...](https://weibo.com/1402400261/OcGgpteAz)
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型应用指南》，截至2024.5.9 12:00，*可可...](https://weibo.com/1402400261/OcFr6diSw)
+Token length: 104
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1395期)：大型语言模型的事实感知对齐、基于对抗想象的机器人安全行走、指令微调时代的可控文本生成、基于最小描述长度原则的网络重构、用单个图像对...](https://weibo.com/1402400261/OcFqMuPHg)
+Token length: 96
+Summarized using GPT-3.5-turbo
+Append: [[RO] NeRF in Robotics: A Survey 网页链接 这篇综述全面介绍了NeRF在机器人领域的应用现状、面临的挑战和未来研究方向，为NeRF与机器人的深度结合提供了很好的...](https://weibo.com/1402400261/OcFmNj4fH)
+Token length: 195
+Summarized using GPT-3.5-turbo
+Append: [[CL] WildChat: 1M ChatGPT Interaction Logs in the Wild 网页链接 本文通过免费提供 ChatGPT API 访问权限，在获得用户同意的前提下收集了 100 万用户真实交互...](https://weibo.com/1402400261/OcFkyaJQ4)
+Token length: 138
+Summarized using GPT-3.5-turbo
+Append: [[CL] NeMo-Aligner: Scalable Toolkit for Efficient Model Alignment 网页链接 NeMo-Aligner是支持分布式训练和多个模型对齐技术的工具包，通过模块化设计和关...](https://weibo.com/1402400261/OcFhuaEK7)
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [[CL] Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models 网页链接 通过在不同评估格式的数据集上训练并合并模型，...](https://weibo.com/1402400261/OcFdQlTzH)
+Token length: 184
+Summarized using GPT-3.5-turbo
+Append: [通过联合优化样式和内容适配器以及样式指导，实现了使用单个图像对自定义文本到图像模型，学习对样式和内容进行解耦的生成。 - 转发 @爱可可-爱生活:&ensp;[CV]...](https://weibo.com/1402400261/OcFbeq5eK)
+Token length: 118
+Summarized using GPT-3.5-turbo
+Append: [[CV]《Customizing Text-to-Image Models with a Single Image Pair》M Jones, S Wang, N Kumari, D Bau, J Zhu [CMU] (2024) 网页链接 #机器学习##人工智能##论...](https://weibo.com/1402400261/OcFbbw4i7)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [基于最小描述长度原理提出一种非参数的贝叶斯网络重构正则化方案，通过权重量化避免收缩以提升稀疏性，算法高效且不需要交叉验证，可广泛应用于各类生成模型的网...](https://weibo.com/1402400261/OcF87fuc6)
+append_entries: 10
+Finish: 2024-05-04 00:52:03.506641
