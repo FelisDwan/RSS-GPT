@@ -5285,3 +5285,15 @@ Existing_entries: 627
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-05-04 02:19:41.505308
+------------------------------------------------------
+Started: 2024-05-04 04:14:11.449942
+Existing_entries: 627
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [#中国AIGC产业峰会##大模型的下一站是多模态Agent# 在过去一年中，通义千问系列模型持续开源。不仅频繁放出多种版本，涉及不同的规模和模态，成绩在大模型竞技场...](https://weibo.com/6105753431/OcHn5rePs)
+Token length: 346
+Summarized using GPT-3.5-turbo
+Append: [#AI教母李飞飞首次创业# 最新消息，斯坦福大学教授李飞飞正在建立一家AI公司，已完成种子轮融资。公司方向定为“空间智能”——旨在让AI能像人类一样对视觉信息...](https://weibo.com/6105753431/OcHmtAGPr)
+append_entries: 2
+Finish: 2024-05-04 04:14:19.947997
