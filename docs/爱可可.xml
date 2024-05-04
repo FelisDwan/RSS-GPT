@@ -4,17 +4,17 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【生物进化为何有效？生物进化和其他适应过程的最小模型】- 提出一个最小化的生物演化模型，将生物视为按简单规则发展的计算系统。这些规则对应生物基因型，运行...</title>
 <link>https://weibo.com/1402400261/OcGgpteAz</link>
 <guid>https://weibo.com/1402400261/OcGgpteAz</guid>
 <content:encoded><![CDATA[
-<div> 元胞自动机、生物演化、适应性进化、变异图、拟态图、规则空间、可判定性问题、性繁殖、计算必然性、复杂性<br>
-<br>
-生物演化的有效性可以通过将生物看作按照简单规则发展的计算系统来解释。这种模型类似于元胞自动机，规则对应基因型，而表型由这些规则的运行结果决定。通过一个元胞自动机的例子展示，从简单规则开始，通过随机变异和自然选择，生物可以逐步适应环境，产生复杂和长寿命模式的规则。变异图展示了演化的全局图景，拟态图表示每个规则的适应度。整个规则空间对比了穷举搜索和适应性演化。作者讨论了可判定性问题，指出判断一个模式是否会终止是不可判定的，这给评估适应度带来了困难。作者还提出了性繁殖等其他适应性演化策略，并讨论了更加最小化的模型。作者认为，这个模型与生物现象高度吻合，揭示了演化中的计算必然性，而不是历史事故。复杂性是达到某种适应度目标所必需的，这有助于理解生物的复杂性和多样性。 <br><br>总结:生物演化通过简单规则和适应性进化模型解释，变异图和拟态图揭示全局演化图景，演化具有计算必然性，复杂性是达到适应度所必需的。适应性演化策略和可判定性问题为生物演化的理解提供了新视角。 <div>
+<div> 元胞自动机、生物演化、适应性进化、变异图、拟态图、规则空间、可判定性问题、性繁殖、计算必然性、复杂性<br />
+<br />
+生物演化的有效性可以通过将生物看作按照简单规则发展的计算系统来解释。这种模型类似于元胞自动机，规则对应基因型，而表型由这些规则的运行结果决定。通过一个元胞自动机的例子展示，从简单规则开始，通过随机变异和自然选择，生物可以逐步适应环境，产生复杂和长寿命模式的规则。变异图展示了演化的全局图景，拟态图表示每个规则的适应度。整个规则空间对比了穷举搜索和适应性演化。作者讨论了可判定性问题，指出判断一个模式是否会终止是不可判定的，这给评估适应度带来了困难。作者还提出了性繁殖等其他适应性演化策略，并讨论了更加最小化的模型。作者认为，这个模型与生物现象高度吻合，揭示了演化中的计算必然性，而不是历史事故。复杂性是达到某种适应度目标所必需的，这有助于理解生物的复杂性和多样性。 <br /><br />总结:生物演化通过简单规则和适应性进化模型解释，变异图和拟态图揭示全局演化图景，演化具有计算必然性，复杂性是达到适应度所必需的。适应性演化策略和可判定性问题为生物演化的理解提供了新视角。 <div>
 【生物进化为何有效？生物进化和其他适应过程的最小模型】<br />- 提出一个最小化的生物演化模型，将生物视为按简单规则发展的计算系统。这些规则对应生物基因型，运行规则得到表型。这种设置类似元胞自动机。   <br />- 通过一个元胞自动机的例子展示，从简单的初始规则开始，通过随机变异和自然选择，可以逐步“适应性进化”到产生复杂和长寿命模式的规则。这揭示了生物演化的本质。   <br /> 详细分析了这个最小模型中的变异图，拟态图和整个规则空间。变异图呈现所有可能的变异路径，揭示演化的全局图景。拟态图表示每个规则的“适应度”，演化试图爬升到更高的适应度峰。整个规则空间对比穷举搜索和适应性演化。   <br />- 讨论可判定性问题，指出判断一个模式是否会终止是不可判定的。这给评估“适应度”带来困难。作者从计算复杂性的角度分析这个问题。   <br /> 提出性繁殖等其他适应性演化策略。讨论一个更加最小化的模型。分析适应性演化能实现什么，这对理解生物学中的演化意味着什么。   <br />- 认为这个模型与生物现象高度吻合，揭示了演化中的计算必然性，而不是历史事故。复杂性是达到某种“适应度”目标所必需的。这有助于理解生物的复杂性和多样性。<br />《Why Does Biological Evolution Work? A Minimal Model for Biological Evolution and Other Adaptive Processes—Stephen Wolfram Writings》 <a href="https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpd6ch840cj219w0u00zd.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpd6cqjuy8j20u010agsf.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 00:25:25 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 00:25:25 GMT</pubDate>
 </item>
 <item>
@@ -24,10 +24,9 @@
 <content:encoded><![CDATA[
 <div> 人工智能、大语言模型、应用指南、机器学习、神经网络、自然语言处理、交互格式、GPTs、无梯度优化、安全技术
 
-总结:<br><br>本文介绍了《大语言模型应用指南》的内容，分为四篇：第1篇夯实基础，介绍了机器学习、神经网络、自然语言处理等基础知识；第2篇实践应用，包括交互格式、提示工程、工作记忆等内容；第3篇拓宽边界，涵盖无梯度优化、自主Agent系统等内容；第4篇洞见未来，探讨多模态大语言模型、尺度定律、压缩即智能等未来发展方向。欢迎参与转发评论活动，有机会获得这本面向人工智能小白读者的大语言模型应用指南。 <div>
+总结:<br /><br />本文介绍了《大语言模型应用指南》的内容，分为四篇：第1篇夯实基础，介绍了机器学习、神经网络、自然语言处理等基础知识；第2篇实践应用，包括交互格式、提示工程、工作记忆等内容；第3篇拓宽边界，涵盖无梯度优化、自主Agent系统等内容；第4篇洞见未来，探讨多模态大语言模型、尺度定律、压缩即智能等未来发展方向。欢迎参与转发评论活动，有机会获得这本面向人工智能小白读者的大语言模型应用指南。 <div>
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《大语言模型应用指南》，截至2024.5.9 12:00，*可可粉*转发+评论即可参与。一本对人工智能小白读者非常友好的大语言模型应用指南，第1篇夯实基础，探索机器学习、神经网络、自然语言处理和大语言模型的基础。第2篇实践应用，包括交互格式、提示工程、工作记忆与长短期记忆，外部工具和GPTs的开发。第3篇拓宽边界，涵盖无梯度优化、自主Agent系统、大语言模型微调以及安全技术等。第4篇洞见未来，探讨多模态大语言模型、尺度定律、压缩即智能、图灵机与大语言模型的关联等。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpat58zigtj20m80m8myr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpat89xztmj20m80m8whk.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpat8ab08qj20m80m80up.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpat8bjhzkj20m80m8q52.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpat8c7vsej20m80m8dhx.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpat8e5u7oj20m80m8gob.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 22:19:00 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 22:19:00 GMT</pubDate>
 </item>
 <item>
@@ -37,11 +36,10 @@
 <content:encoded><![CDATA[
 <div> 大型语言模型、事实感知、对齐、对抗想象、机器人安全行走、指令微调、可控文本生成、最小描述长度、网络重构、单个图像、自定义文本到图像模型
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了几个关于大型语言模型和机器人安全行走的研究方向。首先是关于大型语言模型的事实感知对齐，这有助于提高模型生成文本时的准确性和逻辑性。接着是基于对抗想象的机器人安全行走，通过对抗训练的方法使机器人学会更加安全和稳定地行走。同时，研究者还提出了指令微调时代的可控文本生成，可以更加精准地生成符合要求的文本内容。此外，基于最小描述长度原则的网络重构也是一个重要的研究内容，可以帮助网络更好地处理复杂的信息。最后，用单个图像对自定义文本到图像模型进行训练，能够让模型更好地理解文本内容并生成对应的图像。这些研究方向为深度学习和人工智能领域的发展提供了新的思路和方法。 <div>
 今日推介(第1395期)：大型语言模型的事实感知对齐、基于对抗想象的机器人安全行走、指令微调时代的可控文本生成、基于最小描述长度原则的网络重构、用单个图像对自定义文本到图像模型 公·众·号：爱可可爱生活 <a href="http://aicoco.net/s/8w"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpd2o8yno2j20s20kwjuc.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpd2obisabj214l0u00yz.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpd2oeo4rmj211m0u0ae0.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpd2ojkwqhj20k41cm10d.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpd2omqcjjj211n0u07cn.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 22:18:14 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 22:18:14 GMT</pubDate>
 </item>
 <item>
@@ -49,15 +47,14 @@
 <link>https://weibo.com/1402400261/OcFmNj4fH</link>
 <guid>https://weibo.com/1402400261/OcFmNj4fH</guid>
 <content:encoded><![CDATA[
-<div> NeRF, 机器人领域, 应用现状, 面临挑战, 未来研究方向, 深度结合, 指导<br>
-<br>
-NeRF在机器人领域的应用现状已经被全面介绍，同时也指出了面临的挑战和未来的研究方向。文章为NeRF与机器人的深度结合提供了良好的指导。<br>
-NeRF在机器人领域的应用现状得到了详细探讨，展现了其在实践中的潜力和可能性。文章强调了NeRF在机器人技术中的重要性及应用前景。<br>
-面临的挑战也被列举出来，包括技术难题、数据需求等方面的困难。同时提出了未来的研究方向，为NeRF的发展指明了路线。<br>
+<div> NeRF, 机器人领域, 应用现状, 面临挑战, 未来研究方向, 深度结合, 指导<br />
+<br />
+NeRF在机器人领域的应用现状已经被全面介绍，同时也指出了面临的挑战和未来的研究方向。文章为NeRF与机器人的深度结合提供了良好的指导。<br />
+NeRF在机器人领域的应用现状得到了详细探讨，展现了其在实践中的潜力和可能性。文章强调了NeRF在机器人技术中的重要性及应用前景。<br />
+面临的挑战也被列举出来，包括技术难题、数据需求等方面的困难。同时提出了未来的研究方向，为NeRF的发展指明了路线。<br />
 总结: 这篇综述全面介绍了NeRF在机器人领域的应用现状、面临的挑战和未来研究方向，为NeRF与机器人的深度结合提供了很好的指导。 <div>
 [RO] NeRF in Robotics: A Survey  <br /><a href="https://arxiv.org/abs/2405.01333"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>       <br />这篇综述全面介绍了NeRF在机器人领域的应用现状、面临的挑战和未来研究方向，为NeRF与机器人的深度结合提供了很好的指导。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpd2edmt7pj20xi18q7qh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpd2edrcdlj21hs0oawkt.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpd2eeg9nfj21om0m4guj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpd2eevb2tj21mu0k27b6.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 22:08:24 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 22:08:24 GMT</pubDate>
 </item>
 <item>
@@ -72,7 +69,6 @@ NeRF在机器人领域的应用现状得到了详细探讨，展现了其在实�
 [CL] WildChat: 1M ChatGPT Interaction Logs in the Wild  <br /><a href="https://arxiv.org/abs/2405.01470"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />本文通过免费提供 ChatGPT API 访问权限，在获得用户同意的前提下收集了 100 万用户真实交互的 WILDCHAT 数据集，覆盖 250 万轮对话、68 种语言，展现出比现有数据集更加开放多样的用户提问和更丰富的有害用例，可用于研究对话系统的指令微调和有害内容检测。<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpd28miutuj20qg16k7h4.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpd28n1o6bj21as1267ih.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpd28na50bj21320nojuw.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 03 May 2024 22:02:52 GMT</pubDate>
-<pubDate>Fri, 03 May 2024 22:02:52 GMT</pubDate>
 </item>
 <item>
 <title>[CL] NeMo-Aligner: Scalable Toolkit for Efficient Model Alignment 网页链接 NeMo-Aligner是支持分布式训练和多个模型对齐技术的工具包，通过模块化设计和关...</title>
@@ -81,11 +77,10 @@ NeRF在机器人领域的应用现状得到了详细探讨，展现了其在实�
 <content:encoded><![CDATA[
 <div> NeMo-Aligner, 分布式训练, 多个模型对齐, 工具包, 模块化设计, 高效训练, 大规模语言模型, 对齐技术，效率提高，优化流程
 
-<br><br>总结: 
+<br /><br />总结: 
 NeMo-Aligner是一个支持分布式训练和多个模型对齐技术的工具包，通过模块化设计和关键流程的优化实现了大规模语言模型对齐任务的高效训练。该工具包的设计使得模型对齐任务的训练变得更加高效，提高了整体的效率。同时，NeMo-Aligner采用了优化流程，进一步提升了对齐任务的训练效果，使得处理大规模语言模型时更加有效。NeMo-Aligner的出现为模型对齐任务提供了一个可靠的工具，为研究人员和开发者在这一领域提供了更多便利。 <div>
 [CL] NeMo-Aligner: Scalable Toolkit for Efficient Model Alignment  <br /><a href="https://arxiv.org/abs/2405.01481"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>       <br />NeMo-Aligner是支持分布式训练和多个模型对齐技术的工具包，通过模块化设计和关键流程的优化实现了大规模语言模型对齐任务的高效训练。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpd20rz74mj20qs16yh0e.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpd20sd2buj21bu0wwtip.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpd20sf5dej21c00eiadn.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 21:55:19 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 21:55:19 GMT</pubDate>
 </item>
 <item>
@@ -95,10 +90,9 @@ NeMo-Aligner是一个支持分布式训练和多个模型对齐技术的工具�
 <content:encoded><![CDATA[
 <div> 关键词: Prometheus 2, 开源, 语言模型, 评估器, 训练, 数据集, 模型评估, 接近效果
 
-总结:<br><br>总结: Prometheus 2是一个专门用于评估其他语言模型的开源工具，通过在多种评估数据集上训练和合并模型，实现了与人工和专有模型评估器接近的效果。该工具在直接评分和成对排序任务上都表现出色，为语言模型的评估提供了有力的支持。Prometheus 2的出现将为语言模型研究和评估领域带来新的可能性，并有望成为未来语言模型评估工作中的重要工具。 <div>
+总结:<br /><br />总结: Prometheus 2是一个专门用于评估其他语言模型的开源工具，通过在多种评估数据集上训练和合并模型，实现了与人工和专有模型评估器接近的效果。该工具在直接评分和成对排序任务上都表现出色，为语言模型的评估提供了有力的支持。Prometheus 2的出现将为语言模型研究和评估领域带来新的可能性，并有望成为未来语言模型评估工作中的重要工具。 <div>
 [CL] Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models  <br /><a href="https://arxiv.org/abs/2405.01535"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />通过在不同评估格式的数据集上训练并合并模型，实现了一个开源的语言模型评估器，在直接评分和成对排序任务上都能够实现与人工和专有模型评估器接近的效果。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpd1rfwihrj20si16w18h.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpd1rgqypoj21kc0y8ndu.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpd1rgv6z9j20sw0r0wjo.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 21:46:21 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 21:46:21 GMT</pubDate>
 </item>
 <item>
@@ -108,11 +102,10 @@ NeMo-Aligner是一个支持分布式训练和多个模型对齐技术的工具�
 <content:encoded><![CDATA[
 <div> 联合优化、样式、内容适配器、样式指导、自定义文本到图像模型、解耦、生成、单个图像、学习、图像对
 
-<br><br>总结: 
+<br /><br />总结: 
 文章讨论了如何通过联合优化样式和内容适配器以及样式指导，利用单个图像进行自定义文本到图像模型的学习。研究通过解耦样式和内容来实现更灵活的生成。实验结果表明，这种方法能够有效地提高文本到图像生成的质量和多样性。文章为图像生成领域的深度研究提供了新的思路和方法。 <div>
 通过联合优化样式和内容适配器以及样式指导，实现了使用单个图像对自定义文本到图像模型，学习对样式和内容进行解耦的生成。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CV]《Customizing Text-to-Image Models with a Single Image Pair》M Jones, S Wang, N Kumari, D Bau, J Zhu [CMU] (2024) <a href="https://arxiv.org/abs/2405.01536"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpd1f5s7zdj21gk12q7m1.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpd1f6ji91j21hy1704fb.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpd1f77edcj21ho11u19r.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpd1f7haeqj21hw0qcn8j.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpd1kn5289j20rh0hyn0d.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpd1kn4k19j20rh0djmz3.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpd1kn6kd6j20ri13h45k.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpd1kn4mroj20rh0ffjtm.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpd1kn4ojfj20rh0de768.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 21:39:55 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 21:39:55 GMT</pubDate>
 </item>
 <item>
@@ -122,10 +115,9 @@ NeMo-Aligner是一个支持分布式训练和多个模型对齐技术的工具�
 <content:encoded><![CDATA[
 <div> 关键词: 文本到图像模型, 单图对, 定制, 机器学习, 计算机视觉, CMU
 
-总结:<br><br>这篇文章提出了一种利用单个图像对定制文本到图像模型的方法。作者介绍了他们的研究工作，通过在训练过程中输入单个图像对，这种方法可以帮助模型更好地理解图像特征和文本描述之间的关联。他们使用机器学习和计算机视觉技术，尤其在CMU进行了相关实验和研究。这种方法可以提高文本到图像模型的个性化和定制程度，为图像生成任务带来更好的表现。 <div>
+总结:<br /><br />这篇文章提出了一种利用单个图像对定制文本到图像模型的方法。作者介绍了他们的研究工作，通过在训练过程中输入单个图像对，这种方法可以帮助模型更好地理解图像特征和文本描述之间的关联。他们使用机器学习和计算机视觉技术，尤其在CMU进行了相关实验和研究。这种方法可以提高文本到图像模型的个性化和定制程度，为图像生成任务带来更好的表现。 <div>
 [CV]《Customizing Text-to-Image Models with a Single Image Pair》M Jones, S Wang, N Kumari, D Bau, J Zhu [CMU] (2024) <a href="https://arxiv.org/abs/2405.01536"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpd1f5s7zdj21gk12q7m1.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpd1f6ji91j21hy1704fb.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpd1f77edcj21ho11u19r.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpd1f7haeqj21hw0qcn8j.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpd1kn5289j20rh0hyn0d.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpd1kn4k19j20rh0djmz3.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpd1kn6kd6j20ri13h45k.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpd1kn4mroj20rh0ffjtm.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpd1kn4ojfj20rh0de768.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpd1kn4lg9j20rh0f0jto.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpd1kn4inoj20rh0bujsr.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpd1kn3qv5j20rh09a3z4.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpd1kn5y5yj20ri0urn2s.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpd1kn60rqj20ri10zgry.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpd1kn4t32j20ri0ihdir.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpd1kn48v5j20jj0cdq3k.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Fri, 03 May 2024 21:39:48 GMT</pubDate>
 <pubDate>Fri, 03 May 2024 21:39:48 GMT</pubDate>
 </item>
 <item>
@@ -135,13 +127,11 @@ NeMo-Aligner是一个支持分布式训练和多个模型对齐技术的工具�
 <content:encoded><![CDATA[
 <div> 贝叶斯网络、重构、正则化、最小描述长度、稀疏性、权重量化、算法高效、生成模型、网络结构推断
 
-<br><br>总结: 本文提出了一种基于最小描述长度原理的非参数贝叶斯网络重构正则化方案，通过权重量化避免收缩以提升稀疏性。该算法高效且不需要交叉验证，适用于各类生成模型的网络结构推断。文章通过实验证明该方法在网络重构中具有显著的优势，为网络结构推断问题提供了一种有效的解决方案。 <div>
+<br /><br />总结: 本文提出了一种基于最小描述长度原理的非参数贝叶斯网络重构正则化方案，通过权重量化避免收缩以提升稀疏性。该算法高效且不需要交叉验证，适用于各类生成模型的网络结构推断。文章通过实验证明该方法在网络重构中具有显著的优势，为网络结构推断问题提供了一种有效的解决方案。 <div>
 基于最小描述长度原理提出一种非参数的贝叶斯网络重构正则化方案，通过权重量化避免收缩以提升稀疏性，算法高效且不需要交叉验证，可广泛应用于各类生成模型的网络结构推断中。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Network reconstruction via the minimum description length principle》T P. Peixoto [Central European University] (2024) <a href="https://arxiv.org/abs/2405.01015"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpd14bwey5j21ek0qyh22.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpd14ce7zwj20k41cmwp0.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpd14co42xj20v614gdp5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpd14cuxkyj20vs182tmg.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpd1cjfhn6j21431f4tk6.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpd1cjckimj20jp0gzdht.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpd1cjc3gyj20jp0iwjsg.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpd1cjdswrj20jp14xjwv.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpd1cjdzifj21400sxtfd.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Fri, 03 May 2024 21:32:14 GMT</pubDate>
-<pubDate>Fri, 03 May 2024 21:32:14 GMT</pubDate>
 </item>
-
 <item>
 <title>《爱可可微博热门分享(5.3)》 爱可可微博热门分享(5.3) [图片]</title>
 <link>https://weibo.com/1402400261/OcCgM7Lx6</link>
@@ -12873,134 +12863,6 @@ Distil-Whisper是一个蒸馏精简版的Whisper模型，旨在加快推理速�
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评论即可参与。畅销书《码农翻身》第2部终于出版了，依然是用故事的方式讲解技术，把看似枯燥乏味的技术，变成好玩有趣的故事。编程语言王国之间依然争斗得你死我活，今天Java向Python渗透，明天JavaScript就向Java猛烈进攻。而C语言春节回家，发现只有自己没有对象，十分悲催。MySQL和Redis互相看不顺眼，不断向对方使绊子。让大家掌握技术原理和本质的同时，又能读起来很爽。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5016276596163714"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4ohfsdnwj20m80m843i.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4ohgdugqj20m80m8tc1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho4ohgus3ij20m80m8q75.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho4ohhdfwxj20zk0zk7ar.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Wed, 27 Mar 2024 23:47:18 GMT</pubDate>
-</item>
-<item>
-<title>//@爱可可-爱生活：明日开奖，欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@图灵文化 @图灵新知 送出3本《hello 算法》，截止2024.3.29 12:00，*...</title>
-<link>https://weibo.com/1402400261/O73cwc9dI</link>
-<guid>https://weibo.com/1402400261/O73cwc9dI</guid>
-<content:encoded><![CDATA[
-<div> 可可粉、转发、评论、hello 算法、数据结构、算法、动画图解、实战代码示例、互动环节设计、轻松掌握
-
-<br /><br />总结:
-明日将会开奖，并欢迎大家参与携手送出3本《hello 算法》的活动。截止日期是2024年3月29日中午12点。参与方式是转发并评论*可可粉*即可参与。这本书旨在帮助读者轻松掌握数据结构与算法，通过全新的视角引领读者进入算法的世界。每一章节都配有生动的动画图解，使抽象的数据结构和算法变得直观易懂。书中的实战代码示例让读者可以即学即用，及时巩固新知识。互动环节的设计帮助读者主动思考，提出问题并解决问题。这本书的目的是让读者在学习数据结构与算法的过程中更加轻松愉快。 <div>
-//<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：明日开奖，欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%87%E5%8C%96">@图灵文化</a> <a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%B0%E7%9F%A5">@图灵新知</a> 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发+评论即可参与。带你轻松掌握数据结构与算法，以全新的视角带你进入算法的世界。书中的每一章节都配有生动的动画图解，让抽象的数据结构和算法变得直观易懂。实战代码示例让你即学即用，及时巩固新知识。互动环节的设计帮助你主动思考，提问和解决问题。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5014630549948449"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfciddvdj21pe24a7wh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfchthjaj20m80m8q6g.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfcht5csj20m80m8go5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzfchtze3j20m80m8ach.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfci9xvsj2494494e81.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnzfcht5xoj20m80m8mzj.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 23:47:11 GMT</pubDate>
-</item>
-<item>
-<title>【Chatbot匿名竞技场最新更新：Claude 3 0pus不负众望成为冠军，Starling-LM-7B-beta以7B的规模击败GPT 3.5、Mistral 和 Gemini Pro】《LMSys Chatbot Arena Lea...</title>
-<link>https://weibo.com/1402400261/O72QQ683v</link>
-<guid>https://weibo.com/1402400261/O72QQ683v</guid>
-<content:encoded><![CDATA[
-<div> 更新、竞技场、Claude 3 0pus、冠军、Starling-LM-7B-beta、击败、GPT 3.5、Mistral、Gemini Pro
-
-<br /><br />总结:
-最新更新显示，匿名竞技场中，Claude 3 0pus凭借强大实力成为冠军，而Starling-LM-7B-beta也以7B规模战胜了GPT 3.5、Mistral和Gemini Pro，引起广泛关注。 <div>
-【Chatbot匿名竞技场最新更新：Claude 3 0pus不负众望成为冠军，Starling-LM-7B-beta以7B的规模击败GPT 3.5、Mistral 和 Gemini Pro】《LMSys Chatbot Arena Leaderboard - a Hugging Face Space by lmsys》 <a href="https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho6bs0wrabj21c30u0q88.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 22:53:46 GMT</pubDate>
-</item>
-<item>
-<title>《爱可可微博热门分享(3.27)》 爱可可微博热门分享(3.27) [图片]</title>
-<link>https://weibo.com/1402400261/O6ZHV30UH</link>
-<guid>https://weibo.com/1402400261/O6ZHV30UH</guid>
-<content:encoded><![CDATA[
-<div> 微博，热门，分享，爱可可，3.27，关键词：
-
-抖音，短视频，创作者，内容，粉丝，明星，合作，推广，营销，平台
-
-<br /><br />总结:
-3月27日，爱可可微博发布了热门分享内容，讨论的焦点主要集中在抖音平台上。抖音作为一个热门的短视频平台，吸引了众多创作者在上面发布各种内容，受到粉丝们的喜爱。不仅普通用户，就连明星也会在抖音上开设账号，与粉丝互动。同时，抖音也成为了许多品牌推广营销的平台，通过和创作者合作，进行推广活动，取得良好的营销效果。 <div>
-《爱可可微博热门分享(3.27)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405016671747440838"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(3.27)</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho5xwefsbuj20m80cijt5.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 14:53:33 GMT</pubDate>
-</item>
-<item>
-<title>【Redis架构演进之路】就像罗马不是一天建成的，Redis的架构也是随着时间的推移而不断进化的。 - Redis最初于2010年发布1.0版本，那时的架构非常简单，主要用作...</title>
-<link>https://weibo.com/1402400261/O6YFu0ZOC</link>
-<guid>https://weibo.com/1402400261/O6YFu0ZOC</guid>
-<content:encoded><![CDATA[
-<div> Redis、架构、演进、内存、持久化、故障转移、监控、集群、数据结构、多线程IO
-<br /><br />总结:
-Redis架构从简单的缓存应用不断演进，2013年的2.8版本引入了持久化和复制功能，提高了可用性。2015年的3.0版本推出集群功能，通过数据分片管理数据。2017年的5.0版本新增了Stream数据类型，2020年的6.0版本引入了多线程IO处理，进一步提升了性能。Redis的架构演进之路充满智慧和汗水，体现了业界对高性能、高可用数据存储的追求。Redis不断成长为强大的内存数据库，为业务应用开发带来便利和高效。Redis的发展历程，展示了持续创新和不断进化的精神。Redis架构模型的优化和技术的不断引入，为用户提供更稳定、更高效的数据服务。Redis的成功也启示着业界追求卓越的态度，值得持续关注和学习。 <div>
-【Redis架构演进之路】<br />就像罗马不是一天建成的，Redis的架构也是随着时间的推移而不断进化的。   <br />- Redis最初于2010年发布1.0版本，那时的架构非常简单，主要用作业务应用的缓存。但由于Redis是将数据存储在内存中，一旦重启，所有数据就会丢失，流量会直接冲击数据库。   <br />- 到了2013年，Redis 2.8版本解决了这个问题。它引入了RDB内存快照来持久化数据，同时还支持AOF(Append-Only-File)方式，将每个写命令都写入AOF文件。此外，Redis 2.8还增加了复制功能来提高可用性。主节点处理实时的读写请求，从节点则同步主节点的数据。   <br />- 为了实时监控Redis实例，Redis 2.8推出了Sentinel(哨兵)。它承担四大任务：监控、通知、自动故障转移和配置提供者。可以说，Sentinel为Redis保驾护航，时刻守护着Redis的可用性。   <br />- Redis的下一个里程碑是2015年发布的3.0版本，该版本增加了Redis集群功能。Redis集群是一种分布式数据库解决方案，通过数据分片来管理数据。整个数据被分为16384个槽位，每个节点负责一部分槽位。这就好比将一个大蛋糕切成16384份，分给不同的人去管理。   <br />- Redis之所以备受欢迎，是因为其高性能和丰富的数据结构，大大降低了开发业务应用的复杂度。2017年发布的Redis 5.0新增了Stream数据类型。2020年发布的Redis 6.0则引入了多线程IO处理，进一步提升了性能。Redis的架构模型被划分为网络模块和主处理模块，开发者发现网络模块往往会成为系统的瓶颈。而多线程IO的引入，则解决了这个潜在的问题。   <br />Redis的架构演进之路，充满了智慧和汗水。从最初简单的缓存应用，到集群分片、多线程IO，Redis一步步成长为今天这个强大的内存数据库。它的发展历程，也映射出了业界对高性能、高可用数据存储的追求。<img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho5tas9ihej20u01k9qbj.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho5tbbdmc6j20te10otfe.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 12:14:48 GMT</pubDate>
-</item>
-<item>
-<title>【Sora运行揭秘】- Sora是基于Latent Diffusion和Transformer的扩散模型，相比早期的图像生成模型显著提升了视频质量和一致性。 - 数据量和计算量的扩大是改进视...</title>
-<link>https://weibo.com/1402400261/O6YA4eBGV</link>
-<guid>https://weibo.com/1402400261/O6YA4eBGV</guid>
-<content:encoded><![CDATA[
-<div> Latent Diffusion、Transformer、视频质量、计算量、用户界面、训练计算量、应用渗透度、真实世界模拟、合成数据、机器学习技术
-
-总结:<br /><br />
-Sora是基于Latent Diffusion和Transformer的扩散模型，提升了视频质量和一致性。数据量和计算量的扩大是改进视频生成模型的关键，计算量增加将带来性能提升。Runway等公司正在研发Sora用户界面，对实用性至关重要。训练计算量巨大，推理计算将大于训练。Sora学会了模拟真实世界，可用于合成数据和数据增强。Sora代表了视频生成模型向更高质量发展里程碑，展示了先进机器学习技术潜力。训练数据对性能至关重要，Sora可能借助大型视频数据集。AI生成视频技术的快速发展将影响多个行业，未来电影制作可能由AI完成。视频生成模型发展将增大对算力尤其GPU的需求，Sora为未来GPU需求预测提供重要参考。 <div>
-【Sora运行揭秘】<br />- Sora是基于Latent Diffusion和Transformer的扩散模型，相比早期的图像生成模型显著提升了视频质量和一致性。   <br />- 数据量和计算量的扩大是改进视频生成模型的关键，与大语言模型类似，可以预期计算量持续增加会带来模型性能的快速提升。   <br />- Runway等公司正在研发Sora等模型的用户界面和工作流程，这对其实用性至关重要。   <br />- Sora的训练计算量巨大，据估计需要4200-10500块H100 GPU计算一个月。但推理计算要大于训练计算，“收支平衡点”在生成1530-3810万分钟视频后。   <br />- 如果Sora类模型在TikTok和Youtube等平台达到较高应用渗透度，预计峰值需求将达到约72万个H100 GPU。   <br />- Sora隐含地学会了模拟真实世界，这对于在像素空间大规模训练机器人等具身智能体非常有用。   <br />- Sora类模型也可用于生成合成数据和数据增强，为缺乏数据的领域提供帮助。<br /><br />思考：  <br />- Sora代表了视频生成模型向更大规模、更高质量方向发展的重要里程碑。  <br />- Sora采用了多种先进的机器学习技术，包括扩散模型、潜在空间建模和Transformer架构，展示了这些技术在视频生成领域的巨大潜力。  <br />- 大规模高质量的训练数据对于视频生成模型的性能至关重要。Sora很可能得益于一个前所未有的大型视频数据集。  <br />- Sora的出现预示着AI生成视频技术的快速发展，将对电影、广告等多个行业产生深远影响。未来，AI有可能生成完整的电影，彻底改变视频内容的制作方式。  <br />- 随着视频生成模型的不断发展，对算力尤其是GPU的需求也将大幅增长。Sora为业界对未来GPU需求的预测提供了重要参考。<br />《Factorial Funds | Under The Hood: How OpenAI's Sora Model Works》 <a href="https://www.factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho5sx94j2qj20tu0grjup.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 12:01:28 GMT</pubDate>
-</item>
-<item>
-<title>几篇论文实现代码：《Mastering Memory Tasks with World Models》(ICLR 2024) GitHub: github.com/chandar-lab/Recall2Imagine《Composed Video Retrieval via ...</title>
-<link>https://weibo.com/1402400261/O6WfYlh3o</link>
-<guid>https://weibo.com/1402400261/O6WfYlh3o</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Memory Tasks, World Models, Recall2Imagine, Video Retrieval, Logit Standardization, Knowledge Distillation, Vision-Language Models, Spec-Gaussian, AniPortrait, Data Mixing Laws
-
-总结:<br /><br />本文介绍了几篇论文的实现代码，涵盖了多个领域包括记忆任务、视频检索、知识蒸馏、视觉-语言模型等。第一篇论文《Mastering Memory Tasks with World Models》通过实现代码Recall2Imagine来实现记忆任务。第二篇论文《Composed Video Retrieval via Enriched Context and Discriminative Embeddings》介绍了视频检索方法。第三篇论文《Logit Standardization in Knowledge Distillation》探讨了知识蒸馏中logit标准化的重要性。第四篇论文《Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models》提出了一种适用于视觉-语言模型的双重记忆网络方法。还有其他论文涉及3D高斯光滑、音频驱动的动态图像合成、数据混合规律、波谱图像处理等多个领域。这些论文的实现代码均可在GitHub上找到，为相关研究领域的学术研究者提供了重要的参考资源。 <div>
-几篇论文实现代码：<br />《Mastering Memory Tasks with World Models》(ICLR 2024) GitHub: github.com/chandar-lab/Recall2Imagine<br />《Composed Video Retrieval via Enriched Context and Discriminative Embeddings》(CVPR 2024) GitHub: github.com/OmkarThawakar/composed-video-retrieval<br />《Logit Standardization in Knowledge Distillation》(CVPR 2024) GitHub: github.com/sunshangquan/logit-standardization-KD<br />《Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models》(CVPR 2024) GitHub: github.com/YBZh/DMN [fig4]<br />《Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting》(2024) GitHub: github.com/ingra14m/Specular-Gaussians<br />《AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations》(2024) GitHub: github.com/Zejun-Yang/AniPortrait [fig1]<br />《Data Mixing Laws: Optimizing Data Mixtures by Predicting Language Modeling Performance》(2024) GitHub: github.com/yegcjs/mixinglaws<br />《RGBD GS-ICP SLAM》(2024) GitHub: github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM<br />《AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation》(2024) GitHub: github.com/c-yn/AdaIR [fig2]<br />《Sotopia-π: Interactive Learning of Socially Intelligent Language Agents》(2024) GitHub: github.com/sotopia-lab/sotopia-pi [fig3]<br />《Visual CoT: Unleashing Chain-of-Thought Reasoning in the Multi-Modal Language Model》(2024) GitHub: github.com/deepcs233/Visual-CoT [fig5]<br />《LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models》(2024) GitHub: github.com/42Shawn/LLaVA-PruMerge<br />《GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks》(2024) GitHub: github.com/alibaba/GraphTranslator [fig6]<br />《Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance》(2024) GitHub: github.com/fudan-generative-vision/champ<br />《Optimizing LiDAR Placements for Robust Driving Perception in Adverse Conditions》(2024) GitHub: github.com/ywyeli/Place3D<br />《TC4D: Trajectory-Conditioned Text-to-4D Generation》(2024) GitHub: github.com/sherwinbahmani/tc4d<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho5hr2enfbj214y0sddtp.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho5hu2pesmj20qi0hz7i3.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho5humfr3hj21jk1jkkh6.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho5ia4849cj20lb0fg46o.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho5iaui3hij21740gy430.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho5ihzzcdhj21h60tsgvg.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 06:06:28 GMT</pubDate>
-</item>
-<item>
-<title>【Go-Redis：快速高效的内存型 Key-Value 存储，Redis的替代方案，用 Go 语言实现】'Go-Redis - Super fast drop-in replacement of the in memory key-value st...</title>
-<link>https://weibo.com/1402400261/O6WfRkdaQ</link>
-<guid>https://weibo.com/1402400261/O6WfRkdaQ</guid>
-<content:encoded><![CDATA[
-<div> Go-Redis、快速、高效、内存型、Key-Value、存储、替代方案、Go语言实现、GitHub、Dhravya
-
-<br /><br />总结:
-Go-Redis是一个快速高效的内存型Key-Value存储，是Redis的替代方案，用Go语言实现。该项目托管在GitHub上，由Dhravya开发。Go-Redis是一个极具竞争力的项目，旨在提供与Redis相当甚至更快的性能。由于使用了Go语言实现，Go-Redis具有高效的并发处理能力和优秀的执行性能。通过使用Go-Redis，用户可以获得比传统的Redis更快的操作速度，这使得它成为许多项目的理想选择。如果您正在寻找一个快速、高效且易于集成的Key-Value存储解决方案，Go-Redis可能是您的不二之选。 <div>
-【Go-Redis：快速高效的内存型 Key-Value 存储，Redis的替代方案，用 Go 语言实现】'Go-Redis - Super fast drop-in replacement of the in memory key-value store Redis, made in Golang' GitHub: github.com/Dhravya/go-redis <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Redis%23"><span class="surl-text">#Redis#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho5inu9wf5j212f0u0q5w.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 06:06:11 GMT</pubDate>
-</item>
-<item>
-<title>【C-Shopping：基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台】'C-Shopping v1.0.0 - A beautiful shopping platform developed with Ne...</title>
-<link>https://weibo.com/1402400261/O6WamwqdU</link>
-<guid>https://weibo.com/1402400261/O6WamwqdU</guid>
-<content:encoded><![CDATA[
-<div> Next.js, Desktop, Tablet, Phone, 购物平台, 适配, GitHub, 开发, 设备, 精美
-
-<br /><br />总结:
-"C-Shopping v1.0.0"是一个基于Next.js开发的购物平台，可以适配多种设备，包括Desktop、Tablet和Phone。这个平台具有精美的界面设计，开发者已经将代码上传到GitHub上。希望通过这个平台提供更好的用户体验，满足不同设备的需求。 <div>
-【C-Shopping：基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台】'C-Shopping v1.0.0 - A beautiful shopping platform developed with Next.js, tailored for various devices including Desktop, Tablet, and Phone. ' GitHub: github.com/huanghanzhilian/c-shopping <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho5i9ndpbej20dw07x0up.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho5i9o9wgyj20rs0fq0ub.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho5i9qf5elj20rs0fqdh6.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 05:52:39 GMT</pubDate>
-</item>
-<item>
-<title>【Flatito:用于搜索 YAML 和 JSON 文件的Grep工具，它可以帮助搜索文件中特定的关键字并获取相关信息】'Flatito: Grep for YAML and JSON files - Grep for YAML...</title>
-<link>https://weibo.com/1402400261/O6W9hxmvS</link>
-<guid>https://weibo.com/1402400261/O6W9hxmvS</guid>
-<content:encoded><![CDATA[
-<div> GitHub，Flatito，Grep，YAML，JSON，搜索工具，关键字，获取信息，ceritium，文件<br /><br />总结:
-文章介绍了一款名为Flatito的工具，在GitHub上开源，用于搜索YAML和JSON文件中特定关键字的Grep工具。用户可以通过使用Flatito，搜索文件中的关键字，并获取相关信息。Flatito为程序员提供了便利，使他们能够快速准确地定位文件中的信息，提高工作效率。Flatito由ceritium开发，为用户提供了一个方便的工具，帮助他们更好地管理和处理YAML和JSON文件。 <div>
-【Flatito:用于搜索 YAML 和 JSON 文件的Grep工具，它可以帮助搜索文件中特定的关键字并获取相关信息】'Flatito: Grep for YAML and JSON files - Grep for YAML and JSON files' GitHub: github.com/ceritium/flatito <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho5i6zke6sj20ui0u0dlc.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 05:49:59 GMT</pubDate>
-</item>
-<item>
-<title>【LLM-Culture：用于研究大型语言模型文化演化的开源框架】'LLM-Culture' GitHub: github.com/jeremyperez2/LLM-Culture #开源# #机器学习# #人工智能# [图片][...</title>
-<link>https://weibo.com/1402400261/O6W8b6Y2a</link>
-<guid>https://weibo.com/1402400261/O6W8b6Y2a</guid>
-<content:encoded><![CDATA[
-<div> GitHub, LLM-Culture, 研究, 大型语言模型, 文化演化, 开源框架
-
-<br /><br />总结:
-LLM-Culture是一个用于研究大型语言模型文化演化的开源框架。该项目存储在GitHub上，旨在探讨和分析语言模型在不同文化背景下的发展和变化。通过这个框架，研究人员可以对大型语言模型的文化演化有更深入的理解，并且可以进行进一步的研究和探索。希望这个工具能够为语言模型研究领域带来更多的启发和成果。 <div>
-【LLM-Culture：用于研究大型语言模型文化演化的开源框架】'LLM-Culture' GitHub: github.com/jeremyperez2/LLM-Culture <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho5i41xnnmj22rl0u0wo9.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho5i43nxr3j21c00u0wh6.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho5i456uhyj22n90u0wog.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 05:47:16 GMT</pubDate>
 </item>
 </channel>
 </rss>

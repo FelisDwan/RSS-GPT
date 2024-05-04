@@ -7645,3 +7645,9 @@ Summarized using GPT-3.5-turbo
 Append: [基于最小描述长度原理提出一种非参数的贝叶斯网络重构正则化方案，通过权重量化避免收缩以提升稀疏性，算法高效且不需要交叉验证，可广泛应用于各类生成模型的网...](https://weibo.com/1402400261/OcF87fuc6)
 append_entries: 10
 Finish: 2024-05-04 00:52:03.506641
+------------------------------------------------------
+Started: 2024-05-04 02:19:42.688140
+Existing_entries: 1010
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-05-04 02:19:42.868932
