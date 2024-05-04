@@ -7675,3 +7675,33 @@ Existing_entries: 1002
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-05-04 08:13:17.386739
+------------------------------------------------------
+Started: 2024-05-04 10:10:41.208495
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 208
+Summarized using GPT-3.5-turbo
+Append: ['Kolmogorov-Arnold Q-Network (KAQN) - KAN applied to Reinforcement learning, initial experiments - Kolmogorov-Arnold Network for Reinforcement Leaning...](https://weibo.com/1402400261/OcIR78Xo5)
+Token length: 181
+Summarized using GPT-3.5-turbo
+Append: [【QuantumCollocation.jl：用于量子最优控制的直接配点法的 Julia 语言包】'QuantumCollocation.jl - Quantum Optimal Control with Direct Collocation' GitHub...](https://weibo.com/1402400261/OcIQLi1gq)
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [【Memory-Efficient Cross Entropy Loss：实现了一种线性投影加交叉熵损失的PyTorch模块，相比标准实现大幅降低了内存消耗】'Memory-Efficient Cross Entropy Lo...](https://weibo.com/1402400261/OcIQ7eAyh)
+Token length: 225
+Summarized using GPT-3.5-turbo
+Append: [【DataScience_Interactive_Python：提供了一系列用于数据科学学习的交互式 Python dashboards】'DataScience_Interactive_Python - Python interactive dashboa...](https://weibo.com/1402400261/OcINxErdP)
+Token length: 191
+Summarized using GPT-3.5-turbo
+Append: [【sqlite-vec：一个正在开发中的 SQLite 扩展，提供了轻量、足够快的向量搜索功能，可以在任何支持 SQLite 的平台上运行】'sqlite-vec - Work-in-progress vecto...](https://weibo.com/1402400261/OcILm9tbl)
+Token length: 87
+Summarized using GPT-3.5-turbo
+Append: ['TORAX: Tokamak transport simulation in JAX' GitHub: github.com/google-deepmind/torax #开源# [图片]](https://weibo.com/1402400261/OcIKLuR5i)
+Token length: 187
+Summarized using GPT-3.5-turbo
+Append: [【Blue Recorder：基于Green Recorder用Rust语言重写并改进的简单屏幕录制工具，专为Linux系统设计】'Blue Recorder - Simple Screen Recorder written in Rust ...](https://weibo.com/1402400261/OcIJvnF8s)
+Token length: 245
+Summarized using GPT-3.5-turbo
+Append: [【Secret Llama：完全私密的、无需服务器即可在浏览器中运行的大型语言模型(LLM)聊天机器人，支持 Mistral 和 LLama 3 等开源模型】'Secret Llama - Fully priva...](https://weibo.com/1402400261/OcIIJuk7O)
+append_entries: 8
+Finish: 2024-05-04 10:11:12.565083

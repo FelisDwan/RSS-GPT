@@ -4,6 +4,112 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>'Kolmogorov-Arnold Q-Network (KAQN) - KAN applied to Reinforcement learning, initial experiments - Kolmogorov-Arnold Network for Reinforcement Leaning...</title>
+<link>https://weibo.com/1402400261/OcIR78Xo5</link>
+<guid>https://weibo.com/1402400261/OcIR78Xo5</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Kolmogorov-Arnold Q-Network, KAQN, KAN, Reinforcement learning, initial experiments<br>
+<br>
+引入Kolmogorov-Arnold Q-Network (KAQN)和Kolmogorov-Arnold Network for Reinforcement Learning，并将其应用于强化学习。在GitHub上可以找到该项目的代码。初步实验表明，这种方法在强化学习领域有着潜在的应用前景，值得进一步研究和探索。通过KAQN和KAN，可以更好地优化强化学习算法，提高系统的性能和效率。这些初步实验为进一步的研究奠定了基础，为领域内的创新探索提供了新的方向。<br><br>总结: <div>
+'Kolmogorov-Arnold Q-Network (KAQN) - KAN applied to Reinforcement learning, initial experiments - Kolmogorov-Arnold Network for Reinforcement Leaning, initial experiments' GitHub: github.com/riiswa/kanrl <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpdhsxgyx9j20ub0u044j.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 07:01:20 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 07:01:20 GMT</pubDate>
+</item>
+<item>
+<title>【QuantumCollocation.jl：用于量子最优控制的直接配点法的 Julia 语言包】'QuantumCollocation.jl - Quantum Optimal Control with Direct Collocation' GitHub...</title>
+<link>https://weibo.com/1402400261/OcIQLi1gq</link>
+<guid>https://weibo.com/1402400261/OcIQLi1gq</guid>
+<content:encoded><![CDATA[
+<div> 量子最优控制、直接配点法、Julia语言包、GitHub、QuantumCollocation.jl、量子优化、量子控制、优化算法、数值计算、开源项目
+<br><br>
+总结：QuantumCollocation.jl是一个用于量子最优控制的Julia语言包，采用直接配点法。该包通过数值计算实现量子系统的最优控制，提供了一种优化算法来实现量子系统的控制。用户可以在GitHub找到该开源项目，使用这个包进行量子优化和控制算法的实现。QuantumCollocation.jl为研究人员提供了一个有效的工具，帮助他们在量子系统中进行最优控制的研究。 <div>
+【QuantumCollocation.jl：用于量子最优控制的直接配点法的 Julia 语言包】'QuantumCollocation.jl - Quantum Optimal Control with Direct Collocation' GitHub: github.com/aarontrowbridge/QuantumCollocation.jl <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpdhs0wfwqj210n0u0te0.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 07:00:28 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 07:00:28 GMT</pubDate>
+</item>
+<item>
+<title>【Memory-Efficient Cross Entropy Loss：实现了一种线性投影加交叉熵损失的PyTorch模块，相比标准实现大幅降低了内存消耗】'Memory-Efficient Cross Entropy Lo...</title>
+<link>https://weibo.com/1402400261/OcIQ7eAyh</link>
+<guid>https://weibo.com/1402400261/OcIQ7eAyh</guid>
+<content:encoded><![CDATA[
+<div> PyTorch模块、线性投影、交叉熵损失、内存消耗、降低、标准实现、Memory-Efficient Cross Entropy Loss、GitHub、mgmalek、efficient_cross_entropy
+
+<br><br>总结:
+这篇论文介绍了一种名为Memory-Efficient Cross Entropy Loss的PyTorch模块，它实现了一种线性投影加交叉熵损失的方法，并相比标准实现大幅降低了内存消耗。作者在GitHub上发布了该模块的代码，地址为github.com/mgmalek/efficient_cross_entropy。这种方法的优势在于减少了内存消耗，提高了性能，特别适用于内存资源有限的情况下。通过优化算法和实现，可以在训练模型时获得更好的效果，减少内存占用，提高运行效率。 <div>
+【Memory-Efficient Cross Entropy Loss：实现了一种线性投影加交叉熵损失的PyTorch模块，相比标准实现大幅降低了内存消耗】'Memory-Efficient Cross Entropy Loss' GitHub: github.com/mgmalek/efficient_cross_entropy <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpdhqds8rgj20u010z45i.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 06:58:53 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 06:58:53 GMT</pubDate>
+</item>
+<item>
+<title>【DataScience_Interactive_Python：提供了一系列用于数据科学学习的交互式 Python dashboards】'DataScience_Interactive_Python - Python interactive dashboa...</title>
+<link>https://weibo.com/1402400261/OcINxErdP</link>
+<guid>https://weibo.com/1402400261/OcINxErdP</guid>
+<content:encoded><![CDATA[
+<div> 交互式 Python dashboards, 数据科学学习, 数据科学, GitHub, GeostatsGuy, 学习工具
+
+总结:<br><br>这篇文章介绍了一个名为DataScience_Interactive_Python的项目，提供了一系列用于数据科学学习的交互式 Python dashboards。这些交互式仪表板为学习数据科学提供了便捷的工具，用户可以在GitHub上找到该项目，作者为GeostatsGuy。这是一个很好的学习资源，可帮助用户更好地理解数据科学领域的知识。 <div>
+【DataScience_Interactive_Python：提供了一系列用于数据科学学习的交互式 Python dashboards】'DataScience_Interactive_Python - Python interactive dashboards for learning data science' GitHub: github.com/GeostatsGuy/DataScience_Interactive_Python <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpdhjs604ej21560u0dl7.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 06:52:33 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 06:52:33 GMT</pubDate>
+</item>
+<item>
+<title>【sqlite-vec：一个正在开发中的 SQLite 扩展，提供了轻量、足够快的向量搜索功能，可以在任何支持 SQLite 的平台上运行】'sqlite-vec - Work-in-progress vecto...</title>
+<link>https://weibo.com/1402400261/OcILm9tbl</link>
+<guid>https://weibo.com/1402400261/OcILm9tbl</guid>
+<content:encoded><![CDATA[
+<div> sqlite-vec, SQLite扩展, 向量搜索, 轻量, 快速, 开发中, 支持平台<br>
+<br>
+总结:<br>
+sqlite-vec是一个正在开发中的SQLite扩展，提供了轻量、足够快的向量搜索功能，可以在任何支持SQLite的平台上运行。这个扩展使得在SQLite数据库中进行向量搜索成为可能，并且具有较高的性能和灵活性。sqlite-vec将为SQLite用户提供更多搜索选项和功能，使其更加强大和易用。 <div>
+【sqlite-vec：一个正在开发中的 SQLite 扩展，提供了轻量、足够快的向量搜索功能，可以在任何支持 SQLite 的平台上运行】'sqlite-vec - Work-in-progress vector search SQLite extension that runs anywhere.' GitHub: github.com/asg017/sqlite-vec <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpdhe2wvxpj216c0tq798.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 06:47:09 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 06:47:09 GMT</pubDate>
+</item>
+<item>
+<title>'TORAX: Tokamak transport simulation in JAX' GitHub: github.com/google-deepmind/torax #开源# [图片]</title>
+<link>https://weibo.com/1402400261/OcIKLuR5i</link>
+<guid>https://weibo.com/1402400261/OcIKLuR5i</guid>
+<content:encoded><![CDATA[
+<div> GitHub, TORAX, Tokamak, transport simulation, JAX
+
+<br><br>总结:
+TORAX是一个在JAX中进行Tokamak（托卡马克）传输模拟的开源项目，旨在提供一个高效的解决方案来模拟这种复杂系统。通过GitHub上的项目，用户可以查看源代码并自行使用和定制。该项目利用JAX的强大功能来实现高性能计算，将传输模拟的过程与其他机器学习模型和算法相结合，为科学研究和实验提供支持。如果您对Tokamak传输模拟感兴趣，可以通过访问GitHub页面了解更多详细信息。 <div>
+'TORAX: Tokamak transport simulation in JAX' GitHub: github.com/google-deepmind/torax <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpdhcnrbvrj213t0u0gs3.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 06:45:42 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 06:45:42 GMT</pubDate>
+</item>
+<item>
+<title>【Blue Recorder：基于Green Recorder用Rust语言重写并改进的简单屏幕录制工具，专为Linux系统设计】'Blue Recorder - Simple Screen Recorder written in Rust ...</title>
+<link>https://weibo.com/1402400261/OcIJvnF8s</link>
+<guid>https://weibo.com/1402400261/OcIJvnF8s</guid>
+<content:encoded><![CDATA[
+<div> Blue Recorder、Green Recorder、Rust语言、屏幕录制工具、Linux系统、GitHub、xlmnxp、简单、改进、重写<br><br>总结:
+Blue Recorder是基于Green Recorder用Rust语言重写并改进的简单屏幕录制工具，专为Linux系统设计。该工具在GitHub上的仓库是xlmnxp/blue-recorder。这个工具在简单性和功能上有所改进，采用了Rust语言编写，为Linux用户提供更好的屏幕录制体验。 <div>
+【Blue Recorder：基于Green Recorder用Rust语言重写并改进的简单屏幕录制工具，专为Linux系统设计】'Blue Recorder - Simple Screen Recorder written in Rust based on Green Recorder' GitHub: github.com/xlmnxp/blue-recorder <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpdh8t3v7ij20go0e8ab3.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 06:42:36 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 06:42:36 GMT</pubDate>
+</item>
+<item>
+<title>【Secret Llama：完全私密的、无需服务器即可在浏览器中运行的大型语言模型(LLM)聊天机器人，支持 Mistral 和 LLama 3 等开源模型】'Secret Llama - Fully priva...</title>
+<link>https://weibo.com/1402400261/OcIIJuk7O</link>
+<guid>https://weibo.com/1402400261/OcIIJuk7O</guid>
+<content:encoded><![CDATA[
+<div> 完全私密的、无需服务器、浏览器、大型语言模型、聊天机器人、支持 Mistral、LLama 3、开源模型
+<br><br>总结:
+Secret Llama是一个完全私密的、无需服务器的大型语言模型聊天机器人，可以在浏览器中运行，支持Mistral和LLama 3等开源模型。这个项目提供了一种安全、便捷的方式让用户与语言模型进行交互，保护用户的隐私并提供高质量的聊天体验。Secret Llama 的开发有助于推动语言模型技术在隐私保护方面的发展，提升用户在互动过程中的安全感。 <div>
+【Secret Llama：完全私密的、无需服务器即可在浏览器中运行的大型语言模型(LLM)聊天机器人，支持 Mistral 和 LLama 3 等开源模型】'Secret Llama - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.' GitHub: github.com/abi/secret-llama <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpdh7byexpg20z80k01kx.gif" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 06:40:42 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 06:40:42 GMT</pubDate>
+</item>
 
 <item>
 <title>【机器遗忘(Machine Unlearning)概览】- 机器遗忘(Machine Unlearning)的动机包括用户隐私保护和模型的错误修正。遗忘技术可大致分为：精确遗忘、基于差分隐私的...</title>
