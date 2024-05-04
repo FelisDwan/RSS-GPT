@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【机器遗忘(Machine Unlearning)概览】- 机器遗忘(Machine Unlearning)的动机包括用户隐私保护和模型的错误修正。遗忘技术可大致分为：精确遗忘、基于差分隐私的...</title>
 <link>https://weibo.com/1402400261/OcGugpFpV</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> 精确遗忘、基于差分隐私的遗忘、经验遗忘(已知样本空间)、经验遗忘(未知样本空间)、用户隐私保护、模型错误修正、评估困难、知识深度融入模型、挑战、适用性
 
-总结:<br><br>本文介绍了机器遗忘技术的动机、分类、评估、影响、挑战及替代方案。机器遗忘技术的动机包括用户隐私保护和模型的错误修正，遗忘技术可分为精确遗忘、基于差分隐私的遗忘、经验遗忘等。不同的遗忘方法各有优劣，评估遗忘效果是一项困难的任务。遗忘某些已深入模型的知识会对模型效用产生重大影响，同时面临诸多挑战，如版权保护、检索式AI系统、AI安全等。在考虑遗忘是否为最佳解决方案时，需综合考虑替代方案如数据市场。遗忘研究尚需深入理解遗忘的本质、目标、与模型修正、对抗样本的关系等方面。 <div>
+总结:<br /><br />本文介绍了机器遗忘技术的动机、分类、评估、影响、挑战及替代方案。机器遗忘技术的动机包括用户隐私保护和模型的错误修正，遗忘技术可分为精确遗忘、基于差分隐私的遗忘、经验遗忘等。不同的遗忘方法各有优劣，评估遗忘效果是一项困难的任务。遗忘某些已深入模型的知识会对模型效用产生重大影响，同时面临诸多挑战，如版权保护、检索式AI系统、AI安全等。在考虑遗忘是否为最佳解决方案时，需综合考虑替代方案如数据市场。遗忘研究尚需深入理解遗忘的本质、目标、与模型修正、对抗样本的关系等方面。 <div>
 【机器遗忘(Machine Unlearning)概览】<br />- 机器遗忘(Machine Unlearning)的动机包括用户隐私保护和模型的错误修正。遗忘技术可大致分为：精确遗忘、基于差分隐私的遗忘、经验遗忘(已知样本空间)和经验遗忘(未知样本空间)。   <br />- 精确遗忘通过分割训练数据实现，但代价是效率降低。差分隐私可提供一定的统计保证，但对大模型不太实用。经验遗忘基于模型微调，效果显著但缺乏理论保证。   <br />- 遗忘的评估很困难。对基础模型来说，应用导向的遗忘基准测试更有意义，如TOFU和WMDP。   <br />- 某些知识已深深融入模型，遗忘它们会对模型效用产生巨大影响。   <br />- 遗忘面临许多挑战：版权保护、检索式AI系统、AI安全等。我们需要审视遗忘在这些场景下的适用性。   <br />- 遗忘可能不是最佳解决方案。我们还需要考虑数据市场等替代方案。但如果实施遗忘，提示式遗忘可能是有效途径。   <br />- 遗忘研究尚处起步阶段，需要深入理解遗忘的本质，明确遗忘的目标，以及遗忘与模型修正、对抗样本的关系等。<br />《Machine Unlearning in 2024 - Ken Ziyu Liu - Stanford Computer Science》 <a href="https://ai.stanford.edu/~kzliu/blog/unlearning"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpd7chvs34j20u012f458.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 00:59:33 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 00:59:33 GMT</pubDate>
 </item>
 <item>
@@ -24,14 +24,12 @@
 <content:encoded><![CDATA[
 <div> 弹性深度学习、Horovod、Ray、Uber、Elastic Horovod、动态调整、多云环境、Ray Tune、并行调优、AutoML 框架 Ludwig
 
-<br><br>总结:
+<br /><br />总结:
 Uber在其机器学习平台中使用深度学习模型越来越多，为此开发了Elastic Horovod，实现了动态调整分布式训练节点数量的能力。结合Ray，简化了多云环境下的分布式训练，实验结果显示适当调整节点数量不会影响模型收敛，并且可以通过模拟退火改善模型性能。Ray Tune结合Elastic Horovod可实现嵌套的分布式训练和并行超参数调优。Horovod on Ray统一了计算基础设施，降低了维护成本，而Uber正在AutoML框架Ludwig中应用该技术，支持分布式数据处理、训练和超参数调优。Horovod on Ray为Uber提供了一个弹性、易于使用和维护的深度学习平台，有助于将更多深度学习模型从研究带到生产中。 <div>
 【弹性深度学习：Horovod 在 Ray 上的应用】<br />- Uber 在其机器学习平台中越来越多地使用深度学习模型，这带来了弹性扩展和容错等新需求。   <br />- Uber 开发了 Elastic Horovod，可以动态调整分布式训练中的工作节点数量，实现自动扩缩容和容错。   <br />- Uber 将 Elastic Horovod 与 Ray 结合，通过 Ray 提供的资源发现和请求机制简化了多云环境下的分布式训练。   <br />- 实验结果表明，适当调整工作节点数量不会对模型收敛产生负面影响，甚至可以通过模拟退火的效果改善模型性能。   <br />- Ray Tune 可以并行调优不同的超参数配置。结合 Elastic Horovod，可以实现嵌套的分布式训练和并行超参调优。   <br />- Horovod on Ray 统一了机器学习和深度学习的计算基础设施，为端到端的工作流提供了灵活性，降低了维护成本。   <br />- Uber 正在其 AutoML 框架 Ludwig 中应用 Horovod on Ray，支持分布式数据预处理、训练和超参调优。   <br />- Horovod on Ray 为 Uber 提供了一个弹性、易于使用和维护的深度学习平台，有助于把更多深度学习模型从研究带到生产中。<br />《Elastic Deep Learning with Horovod on Ray | Uber Blog》 <a href="https://www.uber.com/en-KR/blog/horovod-ray/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpd6oyf2kcj210f0u0ac0.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sat, 04 May 2024 00:36:57 GMT</pubDate>
-<pubDate>Sat, 04 May 2024 00:36:57 GMT</pubDate>
 </item>
-
 <item>
 <title>【生物进化为何有效？生物进化和其他适应过程的最小模型】- 提出一个最小化的生物演化模型，将生物视为按简单规则发展的计算系统。这些规则对应生物基因型，运行...</title>
 <link>https://weibo.com/1402400261/OcGgpteAz</link>
@@ -12865,31 +12863,6 @@ Distil-Whisper是一个蒸馏精简版的Whisper模型，旨在加快推理速�
 【RLHF成功背后的隐忧：AI安全亟需多管齐下】<br />- 文章认为当前主流的模型对齐技术RLHF在防止语言模型非故意的伤害方面非常有效，使得聊天机器人产品得以推向大众消费者。   <br />- 但是RLHF无法防止有意图的恶意使用。对付资金雄厚的对手，模型对齐毫无用处，因为对手可以重新训练模型或移除对齐。   <br />- 对付日常用户的恶意使用，模型对齐仍有一定效用，因为它使其更难进行故意误用。但不能仅依赖模型对齐，还需要产品级的其他防范措施。   <br />- 模型对齐更像是内容审核，而不是软件安全。它的不足不应引发恐慌，仍然是有用的。但对付灾难性风险，不应过分依赖模型对齐。   <br />- 需要开发更强大的对齐技术，同时关注模型之外的防御措施，扩大安全性的系统性思考。<br /><br />思考：  <br />- 文章指出，业界过度依赖模型对齐技术来解决AI安全问题，这一观点值得重视。我们不能把模型对齐视为万灵药。  <br />- RLHF等模型对齐技术在聊天机器人领域取得了成功，但其局限性也日益凸显。对齐完美与否，取决于诸多因素。  <br />- 对手绕过对齐技术引发的担忧合情合理。但暂停AI等极端措施是否必要和可行，仍有待商榷。  <br />- 文章提到即使对齐了，聊天机器人也可能有害，产品概念也很重要。这启示我们AI安全需要更全面的视角，不能只盯着模型本身。  <br />- 对于自主智能体等可能带来更严重意外伤害的场景，单纯的技术方法可能不够，这值得AI安全社区高度重视。<br />《Model alignment protects against accidental harms, not intentional ones》 <a href="https://www.aisnakeoil.com/p/model-alignment-protects-against"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho6drrmzkdj20ud0u0dks.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Thu, 28 Mar 2024 00:02:32 GMT</pubDate>
-</item>
-<item>
-<title>【模型安全≠使用安全，AI治理需要更全面的视角】- 在AI界存在一个普遍假设，即AI安全性是AI模型的一项特性。基于这个假设，许多公司投资了大量资源来提高模型的...</title>
-<link>https://weibo.com/1402400261/O73hpqXEs</link>
-<guid>https://weibo.com/1402400261/O73hpqXEs</guid>
-<content:encoded><![CDATA[
-<div> 模型安全, 使用安全, AI治理, 模型特性, 上下文, 系统性思考, 误用, 边际风险, 对抗测试, 社会成本
-
-总结:<br /><br />这篇文章指出了AI安全不是模型特性，强调了模型的安全与其部署的上下文和环境密切相关。文章提出了四点建议，包括防范模型误用、评估边际风险、重塑对抗测试和让第三方进行对抗测试。作者认为模型无法判断某些恶意用途，提出责任划分会变得复杂，AI安全需要综合思考。文章还讨论了安全内容的差异化处理和警惕简单思维定势的重要性。整体而言，AI治理需要更全面的视角，并且不能简单地将安全问题归咎于模型特性。 <div>
-【模型安全≠使用安全，AI治理需要更全面的视角】<br />- 在AI界存在一个普遍假设，即AI安全性是AI模型的一项特性。基于这个假设，许多公司投资了大量资源来提高模型的安全性。但是文章认为这种做法是有限的，因为AI安全性不是模型的特性，而在很大程度上取决于模型被部署的上下文和环境。   <br />- 文章举了钓鱼邮件、生物恐怖主义和传播虚假信息等例子，说明模型本身无法判断这些用途是否恶意，因为模型无法获知完整的部署上下文。要做到只生成无害内容几乎不可能。   <br />- 文章提出了四点建议：一是防范模型误用的主要措施应位于模型之外；二是评估开源模型的边际风险；三是重塑对抗测试，以发现对手方的新能力；四是让第三方而不是开发者自己进行对抗测试。   <br />- 文章认为，接受模型无法杜绝误用意味着责任划分会变得非常复杂。开发者在道德上应承担部分由于AI滥用带来的社会成本，但在法律上很难执行。这是AI政策亟待解决的难题。   <br />- 文章提出AI安全性不是模型特性这一观点，认为仅仅对模型进行安全性改进是有限的，需要更广泛的系统性思考。这一观点对当前AI安全研究具有重要启发意义。<br /><br />思考：  <br />- 作者提出了一个有趣的观点，即AI安全不是模型的特性，这与业界的主流看法形成了鲜明对比，值得深入思考。  <br />- 文章指出，即使模型本身是安全的，也可能被用于恶意目的，这提醒我们在考虑AI安全时需要更全面的视角。  <br />- 作者认为不能将安全问题全权委托给模型决定，因为模型可能缺乏必要的上下文信息，这一论断有一定道理，但可能也并非放之四海而皆准。  <br />- 文章提到一些例外情况，如儿童色情内容等，表明某些内容本身就是有问题的。这提示我们在AI安全治理中，可能需要对不同类型的内容采取差异化的策略。  <br />- "安全是模型特性"说法之所以会流行，可能确实与其便利性有关。这提醒我们在探讨AI安全时，要警惕简单化、一刀切的思维定势。<br />《AI safety is not a model property》 <a href="https://www.aisnakeoil.com/p/ai-safety-is-not-a-model-property"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho6dob3pdpj20ug0u0n1d.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 23:59:14 GMT</pubDate>
-</item>
-<item>
-<title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评...</title>
-<link>https://weibo.com/1402400261/O73czeXBY</link>
-<guid>https://weibo.com/1402400261/O73czeXBY</guid>
-<content:encoded><![CDATA[
-<div> Java、Python、JavaScript、C语言、MySQL、Redis、技术、故事、码农翻身
-
-<br /><br />总结:
-《码农翻身2》是一本以故事方式讲解技术的畅销书，其中描述了编程语言王国之间的争斗和趣味故事。Java、Python、JavaScript等编程语言相互竞争，MySQL和Redis互相斗争，C语言则面临着单身的悲催。这本书旨在让读者掌握技术原理的同时，享受有趣的阅读体验。 <div>
-//<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评论即可参与。畅销书《码农翻身》第2部终于出版了，依然是用故事的方式讲解技术，把看似枯燥乏味的技术，变成好玩有趣的故事。编程语言王国之间依然争斗得你死我活，今天Java向Python渗透，明天JavaScript就向Java猛烈进攻。而C语言春节回家，发现只有自己没有对象，十分悲催。MySQL和Redis互相看不顺眼，不断向对方使绊子。让大家掌握技术原理和本质的同时，又能读起来很爽。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5016276596163714"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4ohfsdnwj20m80m843i.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4ohgdugqj20m80m8tc1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho4ohgus3ij20m80m8q75.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho4ohhdfwxj20zk0zk7ar.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Wed, 27 Mar 2024 23:47:18 GMT</pubDate>
 </item>
 </channel>
 </rss>

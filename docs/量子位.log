@@ -5306,3 +5306,9 @@ Summarized using GPT-3.5-turbo
 Append: [#挖掘Transformer潜力# 万万没想到，与任务无直接关联的多模态数据也能提升Transformer模型性能。比如训练一个图像分类模型，除了标注好类别的图像数据集，增加...](https://weibo.com/6105753431/OcHyczLGI)
 append_entries: 1
 Finish: 2024-05-04 06:14:48.109350
+------------------------------------------------------
+Started: 2024-05-04 08:13:10.880026
+Existing_entries: 630
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+append_entries: 0
+Finish: 2024-05-04 08:13:15.714994
