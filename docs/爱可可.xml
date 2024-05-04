@@ -4,6 +4,33 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>【机器遗忘(Machine Unlearning)概览】- 机器遗忘(Machine Unlearning)的动机包括用户隐私保护和模型的错误修正。遗忘技术可大致分为：精确遗忘、基于差分隐私的...</title>
+<link>https://weibo.com/1402400261/OcGugpFpV</link>
+<guid>https://weibo.com/1402400261/OcGugpFpV</guid>
+<content:encoded><![CDATA[
+<div> 精确遗忘、基于差分隐私的遗忘、经验遗忘(已知样本空间)、经验遗忘(未知样本空间)、用户隐私保护、模型错误修正、评估困难、知识深度融入模型、挑战、适用性
+
+总结:<br><br>本文介绍了机器遗忘技术的动机、分类、评估、影响、挑战及替代方案。机器遗忘技术的动机包括用户隐私保护和模型的错误修正，遗忘技术可分为精确遗忘、基于差分隐私的遗忘、经验遗忘等。不同的遗忘方法各有优劣，评估遗忘效果是一项困难的任务。遗忘某些已深入模型的知识会对模型效用产生重大影响，同时面临诸多挑战，如版权保护、检索式AI系统、AI安全等。在考虑遗忘是否为最佳解决方案时，需综合考虑替代方案如数据市场。遗忘研究尚需深入理解遗忘的本质、目标、与模型修正、对抗样本的关系等方面。 <div>
+【机器遗忘(Machine Unlearning)概览】<br />- 机器遗忘(Machine Unlearning)的动机包括用户隐私保护和模型的错误修正。遗忘技术可大致分为：精确遗忘、基于差分隐私的遗忘、经验遗忘(已知样本空间)和经验遗忘(未知样本空间)。   <br />- 精确遗忘通过分割训练数据实现，但代价是效率降低。差分隐私可提供一定的统计保证，但对大模型不太实用。经验遗忘基于模型微调，效果显著但缺乏理论保证。   <br />- 遗忘的评估很困难。对基础模型来说，应用导向的遗忘基准测试更有意义，如TOFU和WMDP。   <br />- 某些知识已深深融入模型，遗忘它们会对模型效用产生巨大影响。   <br />- 遗忘面临许多挑战：版权保护、检索式AI系统、AI安全等。我们需要审视遗忘在这些场景下的适用性。   <br />- 遗忘可能不是最佳解决方案。我们还需要考虑数据市场等替代方案。但如果实施遗忘，提示式遗忘可能是有效途径。   <br />- 遗忘研究尚处起步阶段，需要深入理解遗忘的本质，明确遗忘的目标，以及遗忘与模型修正、对抗样本的关系等。<br />《Machine Unlearning in 2024 - Ken Ziyu Liu - Stanford Computer Science》 <a href="https://ai.stanford.edu/~kzliu/blog/unlearning"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpd7chvs34j20u012f458.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 00:59:33 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 00:59:33 GMT</pubDate>
+</item>
+<item>
+<title>【弹性深度学习：Horovod 在 Ray 上的应用】- Uber 在其机器学习平台中越来越多地使用深度学习模型，这带来了弹性扩展和容错等新需求。 - Uber 开发了 Elastic H...</title>
+<link>https://weibo.com/1402400261/OcGl5BlMC</link>
+<guid>https://weibo.com/1402400261/OcGl5BlMC</guid>
+<content:encoded><![CDATA[
+<div> 弹性深度学习、Horovod、Ray、Uber、Elastic Horovod、动态调整、多云环境、Ray Tune、并行调优、AutoML 框架 Ludwig
+
+<br><br>总结:
+Uber在其机器学习平台中使用深度学习模型越来越多，为此开发了Elastic Horovod，实现了动态调整分布式训练节点数量的能力。结合Ray，简化了多云环境下的分布式训练，实验结果显示适当调整节点数量不会影响模型收敛，并且可以通过模拟退火改善模型性能。Ray Tune结合Elastic Horovod可实现嵌套的分布式训练和并行超参数调优。Horovod on Ray统一了计算基础设施，降低了维护成本，而Uber正在AutoML框架Ludwig中应用该技术，支持分布式数据处理、训练和超参数调优。Horovod on Ray为Uber提供了一个弹性、易于使用和维护的深度学习平台，有助于将更多深度学习模型从研究带到生产中。 <div>
+【弹性深度学习：Horovod 在 Ray 上的应用】<br />- Uber 在其机器学习平台中越来越多地使用深度学习模型，这带来了弹性扩展和容错等新需求。   <br />- Uber 开发了 Elastic Horovod，可以动态调整分布式训练中的工作节点数量，实现自动扩缩容和容错。   <br />- Uber 将 Elastic Horovod 与 Ray 结合，通过 Ray 提供的资源发现和请求机制简化了多云环境下的分布式训练。   <br />- 实验结果表明，适当调整工作节点数量不会对模型收敛产生负面影响，甚至可以通过模拟退火的效果改善模型性能。   <br />- Ray Tune 可以并行调优不同的超参数配置。结合 Elastic Horovod，可以实现嵌套的分布式训练和并行超参调优。   <br />- Horovod on Ray 统一了机器学习和深度学习的计算基础设施，为端到端的工作流提供了灵活性，降低了维护成本。   <br />- Uber 正在其 AutoML 框架 Ludwig 中应用 Horovod on Ray，支持分布式数据预处理、训练和超参调优。   <br />- Horovod on Ray 为 Uber 提供了一个弹性、易于使用和维护的深度学习平台，有助于把更多深度学习模型从研究带到生产中。<br />《Elastic Deep Learning with Horovod on Ray | Uber Blog》 <a href="https://www.uber.com/en-KR/blog/horovod-ray/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpd6oyf2kcj210f0u0ac0.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 00:36:57 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 00:36:57 GMT</pubDate>
+</item>
 
 <item>
 <title>【生物进化为何有效？生物进化和其他适应过程的最小模型】- 提出一个最小化的生物演化模型，将生物视为按简单规则发展的计算系统。这些规则对应生物基因型，运行...</title>

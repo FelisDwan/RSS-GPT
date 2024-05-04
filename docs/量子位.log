@@ -5297,3 +5297,12 @@ Summarized using GPT-3.5-turbo
 Append: [#AI教母李飞飞首次创业# 最新消息，斯坦福大学教授李飞飞正在建立一家AI公司，已完成种子轮融资。公司方向定为“空间智能”——旨在让AI能像人类一样对视觉信息...](https://weibo.com/6105753431/OcHmtAGPr)
 append_entries: 2
 Finish: 2024-05-04 04:14:19.947997
+------------------------------------------------------
+Started: 2024-05-04 06:14:42.650198
+Existing_entries: 629
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [#挖掘Transformer潜力# 万万没想到，与任务无直接关联的多模态数据也能提升Transformer模型性能。比如训练一个图像分类模型，除了标注好类别的图像数据集，增加...](https://weibo.com/6105753431/OcHyczLGI)
+append_entries: 1
+Finish: 2024-05-04 06:14:48.109350

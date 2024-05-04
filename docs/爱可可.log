@@ -7657,3 +7657,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-05-04 04:14:21.239538
+------------------------------------------------------
+Started: 2024-05-04 06:14:49.301471
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 522
+Summarized using GPT-3.5-turbo
+Append: [【机器遗忘(Machine Unlearning)概览】- 机器遗忘(Machine Unlearning)的动机包括用户隐私保护和模型的错误修正。遗忘技术可大致分为：精确遗忘、基于差分隐私的...](https://weibo.com/1402400261/OcGugpFpV)
+Token length: 590
+Summarized using GPT-3.5-turbo
+Append: [【弹性深度学习：Horovod 在 Ray 上的应用】- Uber 在其机器学习平台中越来越多地使用深度学习模型，这带来了弹性扩展和容错等新需求。 - Uber 开发了 Elastic H...](https://weibo.com/1402400261/OcGl5BlMC)
+append_entries: 2
+Finish: 2024-05-04 06:15:01.173956
