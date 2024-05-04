@@ -5,13 +5,27 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>《爱可可微博热门分享(5.4)》 爱可可微博热门分享(5.4) [图片]</title>
+<link>https://weibo.com/1402400261/OcLzKg0ru</link>
+<guid>https://weibo.com/1402400261/OcLzKg0ru</guid>
+<content:encoded><![CDATA[
+<div> 关键词: 热门分享, 爱可可, 微博
+
+总结:<br><br>本文介绍了爱可可在微博平台上的热门分享内容，主要围绕着爱可可的微博活动和话题展开。文章分享了爱可可在微博上的互动和热门话题，吸引了大量粉丝参与讨论和转发。爱可可的微博内容丰富多彩，涵盖了各种吸引人的话题，让粉丝更加了解和喜爱爱可可。通过微博分享活动，爱可可将品牌形象树立得更加深入人心，为粉丝提供了一个互动交流的平台。 <div>
+《爱可可微博热门分享(5.4)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405030428204728508"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(5.4)</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpdtt2ongaj20rs0fm77f.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sat, 04 May 2024 13:56:47 GMT</pubDate>
+<pubDate>Sat, 04 May 2024 13:56:47 GMT</pubDate>
+</item>
+
+<item>
 <title>几篇论文实现代码：《MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation》(CVPR 2024) GitHub: githu...</title>
 <link>https://weibo.com/1402400261/OcKu09ISg</link>
 <guid>https://weibo.com/1402400261/OcKu09ISg</guid>
 <content:encoded><![CDATA[
 <div> MaskClustering, View Consensus, Mask Graph Clustering, 3D Instance Segmentation, Open-Vocabulary, CVPR 2024, GitHub, UnScene3D, Unsupervised, Indoor Scenes, VMRNN, Vision Mamba, LSTM, Spatiotemporal Forecasting, DrEureka, Language Model, Sim-To-Real Transfer, AdvPrompter, Adversarial Prompting, LLMs, EchoScene, Indoor Scene Generation, Information Echo, Scene Graph Diffusion, SATO, Text-to-Motion Framework, Customizing, Text-to-Image Models, Single Image Pair, M3D, 3D Medical Image Analysis, Multi-Modal, Self-Explore, Reasoning Capabilities, Fine-grained Rewards, SynFlowNet, Molecule Design, Guaranteed Synthesis Pathways
 
-<br><br>总结:
+<br /><br />总结:
 《MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation》提出了一种新的Mask Graph Clustering方法，用于处理开放词汇的3D实例分割任务。该方法利用视图一致性来聚类实例，并在CVPR 2024会议上发布，并在GitHub上提供了代码。
 《UnScene3D: Unsupervised 3D Instance Segmentation for Indoor Scenes》是针对室内场景的无监督3D实例分割方法，通过GitHub分享代码。
 《VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting》介绍了一种结合Vision Mamba和LSTM的模型，用于高效准确的时空预测任务，同时提供了基于PyTorch的代码。
@@ -26,19 +40,17 @@
 几篇论文实现代码：<br />《MaskClustering: View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation》(CVPR 2024) GitHub: github.com/PKU-EPIC/MaskClustering [fig1]<br />《UnScene3D: Unsupervised 3D Instance Segmentation for Indoor Scenes》(CVPR 2024) GitHub: github.com/RozDavid/UnScene3D [fig3]<br />《VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting》(CVPR 2024) GitHub: github.com/yyyujintang/VMRNN-PyTorch [fig4]<br />《DrEureka: Language Model Guided Sim-To-Real Transfer》(2024) GitHub: github.com/eureka-research/DrEureka<br />《AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs》(2024) GitHub: github.com/facebookresearch/advprompter<br />《EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion》(2024) GitHub: github.com/ymxlzgy/echoscene<br />《EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion》(2024) GitHub: github.com/ymxlzgy/echoscene<br />《SATO: Stable Text-to-Motion Framework》(2024) GitHub: github.com/sato-team/Stable-Text-to-Motion-Framework [fig2]<br />《Customizing Text-to-Image Models with a Single Image Pair》(2024) GitHub: github.com/PairCustomization/PairCustomization <br />《M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models》(2024) GitHub: github.com/BAAI-DCAI/M3D<br />《Self-Explore to Avoid the Pit: Improving the Reasoning Capabilities of Language Models with Fine-grained Rewards》(2024) GitHub: github.com/hbin0701/Self-Explore [fig5]<br />《SynFlowNet: Towards Molecule Design with Guaranteed Synthesis Pathways》(2024) GitHub: github.com/mirunacrt/synflownet<img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpdhlndh0dj24tq1bnb2d.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpdhqt09z0j20lc0bwwhb.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpdlily2tdj21gn0fl79s.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpdn4pxm8kj227617iwwz.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpdn8p77usj21ws13i4pu.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sat, 04 May 2024 11:09:53 GMT</pubDate>
-<pubDate>Sat, 04 May 2024 11:09:53 GMT</pubDate>
 </item>
 <item>
 <title>【ollama-reply：开源的浏览器扩展，利用 AI 技术自动生成社交媒体互动回复，以促进社交网络增长】'ollama-reply - open-source browser extension that leverag...</title>
 <link>https://weibo.com/1402400261/OcKtVEeeg</link>
 <guid>https://weibo.com/1402400261/OcKtVEeeg</guid>
 <content:encoded><![CDATA[
-<div> 开源 浏览器扩展 AI 技术 社交媒体 互动 回复 社交网络 增长<br>
-<br>
-AI 技术的应用已经扩展到社交媒体领域，ollama-reply是一个开源的浏览器扩展，利用AI技术来生成社交媒体互动回复，帮助用户促进社交网络增长。该扩展可以帮助用户生成各种吸引人的回复内容，提高用户的社交媒体曝光度和互动率，进而增加社交网络的发展和壮大。用户可以通过GitHub找到这个项目，体验AI技术在社交媒体领域带来的便利和创新。<br><br>总结: 开源 浏览器扩展 AI 技术 社交媒体 互动 回复 社交网络 增长 <div>
+<div> 开源 浏览器扩展 AI 技术 社交媒体 互动 回复 社交网络 增长<br />
+<br />
+AI 技术的应用已经扩展到社交媒体领域，ollama-reply是一个开源的浏览器扩展，利用AI技术来生成社交媒体互动回复，帮助用户促进社交网络增长。该扩展可以帮助用户生成各种吸引人的回复内容，提高用户的社交媒体曝光度和互动率，进而增加社交网络的发展和壮大。用户可以通过GitHub找到这个项目，体验AI技术在社交媒体领域带来的便利和创新。<br /><br />总结: 开源 浏览器扩展 AI 技术 社交媒体 互动 回复 社交网络 增长 <div>
 【ollama-reply：开源的浏览器扩展，利用 AI 技术自动生成社交媒体互动回复，以促进社交网络增长】'ollama-reply - open-source browser extension that leverages the power of the AI to generate engaging replies for social media growth.' GitHub: github.com/jose-donato/ollama-reply <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpdozbn4etj20zs0u0dks.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sat, 04 May 2024 11:09:43 GMT</pubDate>
 <pubDate>Sat, 04 May 2024 11:09:43 GMT</pubDate>
 </item>
 <item>
@@ -48,14 +60,12 @@ AI 技术的应用已经扩展到社交媒体领域，ollama-reply是一个开�
 <content:encoded><![CDATA[
 <div> GitHub, Raycast, Extensions, 分类, 发现, 使用
 
-<br><br>总结:
+<br /><br />总结:
 这篇文章介绍了一个名为Categorized Raycast Extensions的项目，旨在通过分类整理，简化用户发现和使用Raycast扩展的过程。GitHub上有相关的代码仓库，方便用户查看和下载扩展。通过该项目，用户可以更轻松地找到所需的Raycast扩展，并且能够更便利地使用这些功能丰富的工具。GitHub链接为github.com/marekbrze/categorized-raycast-extensions。 <div>
 【Categorized Raycast Extensions：通过分类整理，简化用户发现和使用Raycast扩展的过程】'Categorized Raycast Extensions - Easily find Raycast Extensions!' GitHub: github.com/marekbrze/categorized-raycast-extensions <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BARaycast%23&amp;extparam=%23%E6%9C%BARaycast%23"><span class="surl-text">#机Raycast#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpdoxiu3amj210s0u0799.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sat, 04 May 2024 11:08:30 GMT</pubDate>
-<pubDate>Sat, 04 May 2024 11:08:30 GMT</pubDate>
 </item>
-
 <item>
 <title>【Omniplex：致力于复现Perplexity的开源项目，专注于开发多功能的聊天界面和插件，使用 TypeScript 语言和 Next.js 框架】'Omniplex - Open-Source Perplexity'...</title>
 <link>https://weibo.com/1402400261/OcK8WispW</link>
@@ -12874,43 +12884,6 @@ Grok-1.5是xAI发布的大型语言模型，具有强大的推理和解决问题
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评论即可参与。畅销书《码农翻身》第2部终于出版了，依然是用故事的方式讲解技术，把看似枯燥乏味的技术，变成好玩有趣的故事。编程语言王国之间依然争斗得你死我活，今天Java向Python渗透，明天JavaScript就向Java猛烈进攻。而C语言春节回家，发现只有自己没有对象，十分悲催。MySQL和Redis互相看不顺眼，不断向对方使绊子。让大家掌握技术原理和本质的同时，又能读起来很爽。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5016276596163714"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4ohfsdnwj20m80m843i.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4ohgdugqj20m80m8tc1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho4ohgus3ij20m80m8q75.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho4ohhdfwxj20zk0zk7ar.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
 <pubDate>Thu, 28 Mar 2024 22:01:59 GMT</pubDate>
-</item>
-<item>
-<title>//@爱可可-爱生活：今日开奖，欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@图灵文化 @图灵新知 送出3本《hello 算法》，截止2024.3.29 12:00，*...</title>
-<link>https://weibo.com/1402400261/O7bWgwtuw</link>
-<guid>https://weibo.com/1402400261/O7bWgwtuw</guid>
-<content:encoded><![CDATA[
-<div> 开奖 参与 携手 hello算法 可可粉 数据结构 算法 视角 图解 实战代码 思考问题  <br />
-<br />
-总结: 今天有开奖活动，欢迎大家参与。赠送3本《hello 算法》，截止时间是2024年3月29日中午12点。参与方式是转发并在评论中加上关键词“可可粉”。这本书可以帮助读者轻松掌握数据结构和算法，以全新的视角进入算法的世界。每一章都有生动的动画图解让抽象的概念变得直观易懂，实战代码示例可以帮助读者即学即用，加深对新知识的理解。书中的互动环节设计可以帮助读者主动思考，提出问题并解决问题。希望大家能够充分利用这本书提升自己的算法能力。 <div>
-//<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：今日开奖，欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%87%E5%8C%96">@图灵文化</a> <a href="https://weibo.com/n/%E5%9B%BE%E7%81%B5%E6%96%B0%E7%9F%A5">@图灵新知</a> 送出3本《hello 算法》，截止2024.3.29 12:00，*可可粉*转发+评论即可参与。带你轻松掌握数据结构与算法，以全新的视角带你进入算法的世界。书中的每一章节都配有生动的动画图解，让抽象的数据结构和算法变得直观易懂。实战代码示例让你即学即用，及时巩固新知识。互动环节的设计帮助你主动思考，提问和解决问题。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5014630549948449"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfciddvdj21pe24a7wh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfchthjaj20m80m8q6g.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hnzfcht5csj20m80m8go5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hnzfchtze3j20m80m8ach.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hnzfci9xvsj2494494e81.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hnzfcht5xoj20m80m8mzj.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 22:01:52 GMT</pubDate>
-</item>
-<item>
-<title>今日推介(第1359期)：大型语言模型中的长文本事实性、语言模型的少样本重校准、大型语言模型能产生具有同理心的反应、监控提示训练、适应任意分辨率的视觉Transf...</title>
-<link>https://weibo.com/1402400261/O7bW44IwI</link>
-<guid>https://weibo.com/1402400261/O7bW44IwI</guid>
-<content:encoded><![CDATA[
-<div> 长文本事实性、语言模型、少样本重校准、同理心、监控提示训练、任意分辨率、视觉Transformer<br />
-<br />
-大型语言模型在生成长文本时，需要保证信息的准确性和事实性，这对于提高模型的可信度至关重要。研究表明，少样本重校准技术可以帮助语言模型更好地理解和生成文本，提高其效果和表现。另外，大型语言模型能够产生具有同理心的反应，为人类与AI之间建立更加亲近的联系提供可能。监控提示训练是一种有效的训练方法，可以帮助语言模型适应多样的语境和情境，提高其对话和文本生成的能力。同时，视觉Transformer具有适应任意分辨率的能力，能够更好地处理各种视觉任务。综上所述，大型语言模型在不断发展和完善的过程中，不断探索新的技术方法和应用场景，为人工智能领域的发展带来新的可能性和机遇。<br /><br />总结:长文本事实性是大型语言模型生成文本时需要考虑的重要因素，少样本重校准技术可以提高模型效果，大型语言模型能产生具有同理心的反应，监控提示训练有助于提高模型能力，视觉Transformer适应任意分辨率的特性能够更好应对各种视觉任务。 <div>
-今日推介(第1359期)：大型语言模型中的长文本事实性、语言模型的少样本重校准、大型语言模型能产生具有同理心的反应、监控提示训练、适应任意分辨率的视觉Transformer 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/689639917"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(3.29)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho7fvouo5nj20go08e75c.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho7fvs8ioaj20go05qq3r.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho7fvuu2uvj20go0913z2.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho7fvx9i5qj20go0fat9u.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho7fvzpva4j20go0b10u3.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 22:01:22 GMT</pubDate>
-</item>
-<item>
-<title>[CV] EgoLifter: Open-world 3D Segmentation for Egocentric Perception 网页链接 EgoLifter利用3D高斯与实例特征的组合以及对比学习，实现了从第一人称视频进...</title>
-<link>https://weibo.com/1402400261/O7bSLBR4R</link>
-<guid>https://weibo.com/1402400261/O7bSLBR4R</guid>
-<content:encoded><![CDATA[
-<div> EgoLifter, 3D高斯，实例特征，对比学习，第一人称视频，开放世界3D场景分割，端到端框架，无需人工3D标注数据
-
-<br /><br />总结:
-EgoLifter利用3D高斯与实例特征的组合以及对比学习，实现了从第一人称视频进行开放世界3D场景分割的端到端框架，无需人工3D标注数据。 <div>
-[CV] EgoLifter: Open-world 3D Segmentation for Egocentric Perception  <br /><a href="https://arxiv.org/abs/2403.18118"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />EgoLifter利用3D高斯与实例特征的组合以及对比学习，实现了从第一人称视频进行开放世界3D场景分割的端到端框架，无需人工3D标注数据。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho7fnia6goj20uy1cuwsn.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho7fnipwdjj211g17eh27.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho7fnj4p5nj211o0sa7df.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho7fnjjgkgj20wu1bq179.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Thu, 28 Mar 2024 21:53:15 GMT</pubDate>
 </item>
 </channel>
 </rss>
