@@ -7769,3 +7769,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OcLA14tGU)
 append_entries: 0
 Finish: 2024-05-04 22:09:58.855600
+------------------------------------------------------
+Started: 2024-05-05 00:55:07.342338
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型应用指南》，截至2024.5.9 12:00，*可可...](https://weibo.com/1402400261/OcOZwqa8M)
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1396期)：用多样化模型小组评估LLM生成、教LLM有效利用信息检索、310个与GPT-4竞争的微调LLM的技术报告、面向长程图像和视频生成的一致自注意力、关...](https://weibo.com/1402400261/OcOZfeC1K)
+Token length: 146
+Summarized using GPT-3.5-turbo
+Append: [[RO] What Foundation Models can Bring for Robot Learning in Manipulation : A Survey 网页链接 系统阐释了基础模型如何辅助实现机器人通用操作能力，提出模...](https://weibo.com/1402400261/OcOVrvRMW)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [[CL] LEGENT: Open Platform for Embodied Agents 网页链接 LEGENT是一个开放平台，通过构建交互式3D环境与数据生成管道，促进大规模语言模型与多模态模型的融合...](https://weibo.com/1402400261/OcORUbaId)
+Token length: 155
+Summarized using GPT-3.5-turbo
+Append: [[CL] RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing 网页链接 本综述全面介绍了检索增强语言模型的发展历程、...](https://weibo.com/1402400261/OcOP9sUZ7)
+Token length: 159
+Summarized using GPT-3.5-turbo
+Append: [[LG] Scalable Bayesian Inference in the Era of Deep Learning: From Gaussian Processes to Deep Neural Networks 网页链接 通过线性化和随机梯度方法，为大...](https://weibo.com/1402400261/OcOMxl0vo)
+Token length: 283
+Summarized using GPT-3.5-turbo
+Append: [提出DOCCI，一个高质量的视觉语言数据集，其中包含精心设计的图像及对应的详尽人工描述，可有效评估和改进文本到图像生成模型。 - 转发 @爱可可-爱生活:&ensp;[C...](https://weibo.com/1402400261/OcOE7Bcr2)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [[CV]《DOCCI: Descriptions of Connected and Contrasting Images》Y Onoe, S Rane, Z Berger, Y Bitton, J Cho, R Garg, A Ku, Z Parekh, J Pont-Tuset, G Tanz...](https://weibo.com/1402400261/OcOE4qGBj)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [[CV]《DOCCI: Descriptions of Connected and Contrasting Images》Y Onoe, S Rane, Z Berger, Y Bitton, J Cho, R Garg, A Ku, Z Parekh, J Pont-Tuset, G Tanz...](https://weibo.com/1402400261/OcOE4pAt5)
+Token length: 213
+Summarized using GPT-3.5-turbo
+Append: [[CV]《DOCCI: Descriptions of Connected and Contrasting Images》Y Onoe, S Rane, Z Berger, Y Bitton, J Cho, R Garg, A Ku, Z Parekh, J Pont-Tuset, G Tanz...](https://weibo.com/1402400261/OcOE4gMOs)
+append_entries: 10
+Finish: 2024-05-05 00:55:54.285533
