@@ -4,18 +4,18 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>【支持1M上下文的LLama-3 70B扩展模型，适用于长文本生成和对话场景】《gradientai/Llama-3-70B-Instruct-Gradient-1048k · Hugging Face》 网页链接 #机器学习...</title>
 <link>https://weibo.com/1402400261/OcPGV97lm</link>
 <guid>https://weibo.com/1402400261/OcPGV97lm</guid>
 <content:encoded><![CDATA[
-<div> 支持1M上下文的LLama-3模型, 对话场景, 70B扩展, 长文本生成<br>
-<br>
-总结:<br>
+<div> 支持1M上下文的LLama-3模型, 对话场景, 70B扩展, 长文本生成<br />
+<br />
+总结:<br />
 LLama-3 70B是一个适用于长文本生成和对话场景的模型扩展，支持1M上下文。该模型可以在各种场景下进行有效的应用，具有较强的生成能力和对话交互能力。LLama-3 70B模型通过扩展模型能力和上下文范围，提高了文本生成和对话交互的质量和表现效果。LLama-3 70B模型为处理长文本生成和对话场景提供了一种新的解决方案，具有广泛的应用前景。 <div>
 【支持1M上下文的LLama-3 70B扩展模型，适用于长文本生成和对话场景】《gradientai/Llama-3-70B-Instruct-Gradient-1048k · Hugging Face》 <a href="https://huggingface.co/gradientai/Llama-3-70B-Instruct-Gradient-1048k"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpebw8aaulj20u0142gqa.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Sun, 05 May 2024 00:25:27 GMT</pubDate>
 <pubDate>Sun, 05 May 2024 00:25:27 GMT</pubDate>
 </item>
 <item>
@@ -30,9 +30,7 @@ LLama-3 70B是一个适用于长文本生成和对话场景的模型扩展，支
 【大语言模型在时间序列分析方面的表现】<br />- 文章研究了GPT-4和Claude 3这两个主要大语言模型在给定一组时间序列数据的情况下检测异常或数据变动的能力。这可以评估这些模型在基本模式分析中的表现。   <br />- 研究方法是给模型一组表示不同城市指标的数据，并在数据中引入20-30%的随机噪声。让模型检测超过特定阈值的变动，并指出城市和日期。   <br />- 结果显示Claude 3的表现明显优于GPT-4。在不同的测试场景中，Claude 3的准确率在60-90%之间，而GPT-4的准确率只有30-70%。   <br />- 当异常幅度增大到90%时，Claude 3的检测准确率可达85-90%，而GPT-4仍停留在40-50%。   <br />- 如果在提示中提供预计算的标准差，可以略微提升Claude 3的表现，这说明数学运算确实是语言模型的弱项。   <br />- 结论是Claude 3在需要检索、分析和综合的任务中展现出强大的能力。但GPT-4表现不佳也反映了在实际应用前，有必要进行全面测试。   <br />- 研究同时强调了仔细的测试设计对获得可靠结果的重要性，以及深入理解这些模型的优劣势，才能充分发挥它们的潜力。   <br />- 总体来说，大语言模型在时间序列分析方面存在潜力，但还有很大提升空间。在实际应用中，仍需谨慎对待。<br />《Large Language Model Performance in Time Series Analysis | by Aparna Dhinakaran | May, 2024 | Towards Data Science》 <a href="https://towardsdatascience.com/large-language-model-performance-in-time-series-analysis-4d274b480e24"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpea9pwhfyj20u011u0xw.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sat, 04 May 2024 23:26:18 GMT</pubDate>
-<pubDate>Sat, 04 May 2024 23:26:18 GMT</pubDate>
 </item>
-
 <item>
 <title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型应用指南》，截至2024.5.9 12:00，*可可...</title>
 <link>https://weibo.com/1402400261/OcOZwqa8M</link>
@@ -12864,33 +12862,6 @@ PyTorch在JavaScript中的实现是一个类似于PyTorch的JavaScript库，从�
 【PyTorch in JavaScript：一个深度学习 JavaScript 库，旨在与 PyTorch 的语法相类似，以便开发人员使用 JavaScript 实现深度学习模型】'PyTorch in JavaScript - A JavaScript library like PyTorch, built from scratch.' GitHub: github.com/eduardoleao052/js-torch <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho849wysk6j21am0u0gpo.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 29 Mar 2024 12:05:08 GMT</pubDate>
-</item>
-<item>
-<title>【RAG相关资源大列表】’Awesome-RAG' GitHub: github.com/frutik/Awesome-RAG #开源# #机器学习# #人工智能# [图片]</title>
-<link>https://weibo.com/1402400261/O7hrKuBtP</link>
-<guid>https://weibo.com/1402400261/O7hrKuBtP</guid>
-<content:encoded><![CDATA[
-<div> GitHub、RAG、资源、列表、frutik、Awesome-RAG、资源列表、相关资源、大列表
-<br />
-RAG是一个GitHub上的资源列表，由frutik创建并维护，收录了大量与RAG相关的资源。这个列表包含了各种与RAG技术相关的项目和工具，可以帮助用户更好地了解和学习RAG技术。通过这个资源列表，用户可以找到各种教程、示例代码、工具软件等，帮助他们在RAG领域取得更多的进展。总的来说，Awesome-RAG是一个集合了丰富资源并持续更新的GitHub资源列表，对RAG技术的学习和应用提供了很大的帮助。
-<br /><br />
-总结: RAG资源列表是由frutik创建并维护的GitHub项目，整合了大量关于RAG技术的资源，包括教程、示例代码和工具软件，为用户提供了学习和应用RAG技术的支持。 <div>
-【RAG相关资源大列表】’Awesome-RAG' GitHub: github.com/frutik/Awesome-RAG <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho845k6jptj20sm1j4q92.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 12:03:10 GMT</pubDate>
-</item>
-<item>
-<title>【Page Assist：开源 Chrome 插件它提供一个 Sidebar 和 Web UI，让你在任意网页和本地 AI 模型交互】’Page Assist - Use your locally running AI models to a...</title>
-<link>https://weibo.com/1402400261/O7hpvAAoK</link>
-<guid>https://weibo.com/1402400261/O7hpvAAoK</guid>
-<content:encoded><![CDATA[
-<div> 开源 Chrome 插件 Sidebar Web UI 任意网页 本地 AI 模型 交互 GitHub page-assist 
-
-<br /><br />总结:
-Page Assist 是一个开源的 Chrome 插件，它提供了一个 Sidebar 和 Web UI，让用户可以在任意网页上和本地 AI 模型进行交互。用户可以利用本地运行的 AI 模型来辅助浏览网页，提供更智能的功能和服务。这个项目的代码托管在 GitHub 上，地址为github.com/n4ze3m/page-assist。通过安装该插件，用户可以提升网页浏览的效率和体验，利用 AI 技术来更好地辅助自己的工作和学习。Page Assist 将 AI 技术与浏览器插件相结合，为用户提供了一种新的交互方式，帮助他们更好地利用本地AI模型，实现更智能化的网页浏览体验。 <div>
-【Page Assist：开源 Chrome 插件它提供一个 Sidebar 和 Web UI，让你在任意网页和本地 AI 模型交互】’Page Assist - Use your locally running AI models to assist you in your web browsing' GitHub: github.com/n4ze3m/page-assist <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho8423ptyjj20dc0a074e.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 11:57:39 GMT</pubDate>
 </item>
 </channel>
 </rss>

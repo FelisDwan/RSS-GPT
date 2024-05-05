@@ -7817,3 +7817,9 @@ Summarized using GPT-3.5-turbo
 Append: [【大语言模型在时间序列分析方面的表现】- 文章研究了GPT-4和Claude 3这两个主要大语言模型在给定一组时间序列数据的情况下检测异常或数据变动的能力。这可以评...](https://weibo.com/1402400261/OcPiUuWtb)
 append_entries: 2
 Finish: 2024-05-05 02:24:42.892841
+------------------------------------------------------
+Started: 2024-05-05 04:15:08.714406
+Existing_entries: 1002
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-05-05 04:15:09.269993
