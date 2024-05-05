@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>《爱可可微博热门分享(5.5)》 爱可可微博热门分享(5.5) [图片]</title>
 <link>https://weibo.com/1402400261/OcV3SzzVl</link>
@@ -11,14 +12,12 @@
 <content:encoded><![CDATA[
 <div> 微博、热门、分享、爱可可、5.5、内容、用户、点赞、评论
 
-<br><br>总结:
+<br /><br />总结:
 本文是关于爱可可在微博上热门分享的内容，引起了广大用户的关注。该内容收到了许多点赞和评论，展现了受众对爱可可的喜爱和支持。 <div>
 《爱可可微博热门分享(5.5)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405030792849129785"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(5.5)</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpezoqvedmj20po0efgnz.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 05 May 2024 14:05:45 GMT</pubDate>
-<pubDate>Sun, 05 May 2024 14:05:45 GMT</pubDate>
 </item>
-
 <item>
 <title>几篇论文实现代码：《NOLA: Compressing LoRA using Linear Combination of Random Basis》(ICLR 2024) GitHub: github.com/UCDvision/NOLA [fig3]《BECoTTA: In...</title>
 <link>https://weibo.com/1402400261/OcRRydLgD</link>
@@ -12877,18 +12876,6 @@ LocCa是一种通过引入位置感知描述任务实现视觉表示对局部细
 [LG] Tiny Machine Learning: Progress and Futures  <br /><a href="https://arxiv.org/abs/2403.19076"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>   <br />TinyML通过算法和系统的协同设计，实现深度学习模型在内存和计算有限的微控制器上的高效推理和训练，将强大的AI能力扩展到无数的边缘物联网设备中。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho8lg3cjwnj20wy17u7oc.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho8lg3ml3lj21kq0uuqet.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho8lg3sr1pj21ki18cqff.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho8lg3u4s2j21ke0iin5p.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 29 Mar 2024 21:59:15 GMT</pubDate>
-</item>
-<item>
-<title>通过设计可证明H一致性的单阶段和两阶段代理损失函数，巧妙地将多专家递延框架扩展至回归问题，既适用于联合学习也适用于预训练模型。 - 转发 @爱可可-爱生活:&amp;e...</title>
-<link>https://weibo.com/1402400261/O7lg0kReZ</link>
-<guid>https://weibo.com/1402400261/O7lg0kReZ</guid>
-<content:encoded><![CDATA[
-<div> 代理损失函数, 单阶段, 两阶段, 多专家递延框架, 回归问题, 联合学习, 预训练模型<br />
-<br />
-提出了一种可以证明H一致性的单阶段和两阶段代理损失函数，将多专家递延框架扩展至回归问题。该方法适用于联合学习和预训练模型。通过设计巧妙的损失函数，实现了对多专家预测结果的推迟，在保证模型的一致性的同时提高了模型的性能和泛化能力。实验结果表明，该方法在回归问题上取得了良好的性能表现。总体而言，本文提出的方法在处理回归问题中充分发挥了多专家的优势，为相关领域的研究和应用提供了新的思路和方法。<br /><br />总结: <div>
-通过设计可证明H一致性的单阶段和两阶段代理损失函数，巧妙地将多专家递延框架扩展至回归问题，既适用于联合学习也适用于预训练模型。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Regression with Multi-Expert Deferral》A Mao, M Mohri, Y Zhong [Courant Institute of Mathematical Sciences &amp; Google Research] (2024) <a href="https://arxiv.org/abs/2403.19494"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho8kufil4jj21cq0sakch.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 21:45:13 GMT</pubDate>
 </item>
 </channel>
 </rss>
