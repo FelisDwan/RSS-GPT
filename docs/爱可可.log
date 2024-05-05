@@ -7823,3 +7823,12 @@ Existing_entries: 1002
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-05-05 04:15:09.269993
+------------------------------------------------------
+Started: 2024-05-05 06:14:31.062173
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 286
+Summarized using GPT-3.5-turbo
+Append: [【Datasets for MS MARCO Web Search：微软开源的大规模、信息丰富的网络数据集，包含数百万真实点击的查询-文档标签，用于模拟真实世界网页和查询分布，支持多...](https://weibo.com/1402400261/OcRm1e7kx)
+append_entries: 1
+Finish: 2024-05-05 06:14:42.650219
