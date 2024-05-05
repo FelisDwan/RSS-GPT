@@ -7868,3 +7868,9 @@ Summarized using GPT-3.5-turbo
 Append: [【crawlist：用于爬取网页列表的通用解决方案】'crawlist - A universal solution for web crawling lists' GitHub: github.com/WwwwwyDev/crawlist #开源# #爬...](https://weibo.com/1402400261/OcRwlyXS1)
 append_entries: 10
 Finish: 2024-05-05 08:14:12.928458
+------------------------------------------------------
+Started: 2024-05-05 10:12:12.066436
+Existing_entries: 1010
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-05-05 10:12:12.145545
