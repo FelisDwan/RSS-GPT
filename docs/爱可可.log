@@ -7832,3 +7832,39 @@ Summarized using GPT-3.5-turbo
 Append: [【Datasets for MS MARCO Web Search：微软开源的大规模、信息丰富的网络数据集，包含数百万真实点击的查询-文档标签，用于模拟真实世界网页和查询分布，支持多...](https://weibo.com/1402400261/OcRm1e7kx)
 append_entries: 1
 Finish: 2024-05-05 06:14:42.650219
+------------------------------------------------------
+Started: 2024-05-05 08:13:24.769723
+Existing_entries: 1001
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1747
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《NOLA: Compressing LoRA using Linear Combination of Random Basis》(ICLR 2024) GitHub: github.com/UCDvision/NOLA [fig3]《BECoTTA: In...](https://weibo.com/1402400261/OcRRydLgD)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [【检索增强语言模型(RALM)相关文献列表】’RALM_Survey - This is a repository of RALM surveys containing a summary of state-of-the-art RAG and other tech...](https://weibo.com/1402400261/OcRNqBxKZ)
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: ['LLM-And-More：一站式大模型训练及应用构建的解决方案，其覆盖了从数据处理到模型评估、从训练到部署、从想法到服务等整个流程' GitHub: github.com/IceBearAI/...](https://weibo.com/1402400261/OcRMP9qLP)
+Token length: 110
+Summarized using GPT-3.5-turbo
+Append: ['RigelA - 用纯Rust编写的读屏(Screen Reader)项目，用于视力有障碍的人群操作电脑，软件会将屏幕上的各种信息转换成语音输出' GitHub: github.com/mzdk100/rige...](https://weibo.com/1402400261/OcRLLbjpT)
+Token length: 249
+Summarized using GPT-3.5-turbo
+Append: [【go-size-analyzer：用于分析编译后的 Golang 二进制文件依赖的工具，帮助理解它们对最终构建大小的影响】'go-size-analyzer - A tool for analysing the depen...](https://weibo.com/1402400261/OcRLdu0zH)
+Token length: 95
+Summarized using GPT-3.5-turbo
+Append: [【Scribe：将音符渲染为 HTML 的工具】'Scribe - Renders music in HTML.' GitHub: github.com/stephband/scribe #开源# [图片][图片]](https://weibo.com/1402400261/OcRJKwBep)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [【Dewhale：充分发挥 Github 平台能力的通用 AI 工作流】'Dewhale - GitHub-Powered AI for effortless development. Start as an open-source alternative to v...](https://weibo.com/1402400261/OcRGMr9na)
+Token length: 177
+Summarized using GPT-3.5-turbo
+Append: [【spaCyEx：spaCy扩展库，通过类似正则表达式的语法，简化了复杂模式匹配的创建】'spaCyEx - SpaCyEx allows the creation of spaCy Matcher patterns with RegE...](https://weibo.com/1402400261/OcRBO4mdt)
+Token length: 255
+Summarized using GPT-3.5-turbo
+Append: [【Astra Assistant API Service：与OpenAI beta Assistants API兼容的后端实现，支持持久线程、文件、助手、流式处理、检索、函数调用等功能，使用AstraDB作为数...](https://weibo.com/1402400261/OcRxC2oke)
+Token length: 123
+Summarized using GPT-3.5-turbo
+Append: [【crawlist：用于爬取网页列表的通用解决方案】'crawlist - A universal solution for web crawling lists' GitHub: github.com/WwwwwyDev/crawlist #开源# #爬...](https://weibo.com/1402400261/OcRwlyXS1)
+append_entries: 10
+Finish: 2024-05-05 08:14:12.928458

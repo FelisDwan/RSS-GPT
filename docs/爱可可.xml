@@ -5,19 +5,169 @@
 <link>https://weibo.com/1402400261/</link>
 
 <item>
+<title>几篇论文实现代码：《NOLA: Compressing LoRA using Linear Combination of Random Basis》(ICLR 2024) GitHub: github.com/UCDvision/NOLA [fig3]《BECoTTA: In...</title>
+<link>https://weibo.com/1402400261/OcRRydLgD</link>
+<guid>https://weibo.com/1402400261/OcRRydLgD</guid>
+<content:encoded><![CDATA[
+<div> NOLA, LoRA, 线性组合, 随机基, 压缩, ICLR 2024, BECoTTA, 专家融合, 在线调整, 持续适应, ICML 2024, 数效率, 多模态融合, 单GPU, CVPR 2024, 交通场景解析, TSP6K数据集, 高分辨率图像合成, 缩放, 流形变换器, CVPR 2024, 大规模室外场景重建, CounterCurate, 计数, 自监督学习, 超分辨率, BIORetriver, 文本检索, 物体计数, 提示, EgoPet, 自我运动, 交互数据, X-Ray, 3D表示, 图学习, 稳定扩散, 3D场景, STG-Mamba, 空间-时间图学习, What Does Stable Diffusion Know about the 3D Scene
+
+<br><br>
+总结: 
+- NOLA提出了一种压缩LoRA的方法，通过线性组合随机基来实现。
+- BECoTTA是一种在线调整专家融合方法，用于持续适应新场景。
+- FuseMix是一种在单个GPU上实现数据高效的多模态融合方法。
+- TSP6K数据集用于交通场景解析，并可以帮助相关研究领域。
+- 缩放矫正流变换器用于高分辨率图像合成，可以应用于各种任务。
+- 6Img-to-3D实现了大规模室外场景的重建，具有很大的实际应用潜力。
+- CounterCurate通过对反事实例进行学习，增强了物体的视觉语义推理能力。
+- SelfDZSR_PlusPlus是一种自监督学习的方法，用于处理双重和多重缩放的超分辨率任务。
+- BMRetriever是一个用于改进生物医学文本检索性能的大型语言模型调整方法。
+- Training-free Object Counting with Prompts提出了一种基于提示的无需训练的物体计数方法。
+- EgoPet提供了从动物角度获取的自我运动和交互数据集。
+- X-Ray是一种用于生成的顺序3D表示方法，可应用于多种领域。
+- STG-Mamba通过选择性状态空间模型进行空间-时间图学习。
+- What Does Stable Diffusion Know about the 3D Scene研究稳定扩散对3D场景的认知。 <div>
+几篇论文实现代码：<br />《NOLA: Compressing LoRA using Linear Combination of Random Basis》(ICLR 2024) GitHub: github.com/UCDvision/NOLA [fig3]<br />《BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation》(ICML 2024) GitHub: github.com/daeunni/BECoTTA [fig4]<br />《Data-Efficient Multimodal Fusion on a Single GPU》(CVPR 2024) GitHub: github.com/layer6ai-labs/fusemix<br />《Traffic Scene Parsing through the TSP6K Dataset》(CVPR 2024) GitHub: github.com/PengtaoJiang/TSP6K<br />《Scaling Rectified Flow Transformers for High-Resolution Image Synthesis》(2024) GitHub: github.com/lucidrains/mmdit [fig1]<br />《6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction》(2024) GitHub: github.com/continental/6Img-to-3D [fig2]<br />《CounterCurate: Enhancing Physical and Semantic Visio-Linguistic Compositional Reasoning via Counterfactual Examples》(2024) GitHub: github.com/HanSolo9682/CounterCurate<br />《Self-Supervised Learning for Real-World Super-Resolution from Dual and Multiple Zoomed Observations》(2024) GitHub: github.com/cszhilu1998/SelfDZSR_PlusPlus<br />《BMRetriever: Tuning Large Language Models as Better Biomedical Text Retrievers》(2024) GitHub: github.com/ritaranx/BMRetriever [fig5]<br />《Training-free Object Counting with Prompts》(2024) GitHub: github.com/shizenglin/training-free-object-counter [fig7]<br />《EgoPet: Egomotion and Interaction Data from an Animal's Perspective》(2024) GitHub: github.com/bakhtiararya/EgoPet_dataset_download<br />《X-Ray: A Sequential 3D Representation for Generation》(2024) GitHub: github.com/tau-yihouxiang/X-Ray [fig6]<br />《STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model》(2024) GitHub: github.com/LincanLi98/STG-Mamba<br />《What Does Stable Diffusion Know about the 3D Scene》(2024) GitHub: github.com/Championchess/phy-sd<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpejdljlmij20jw0voten.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpejfb1fsgj21v50f77h7.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpejuj27pkj219y0pu12a.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpeki80ffrj21fk0hq49v.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpekuhcrf8j214e0p1tj1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpelb23bwhj21b20e57bi.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpelec7z7nj20ov0aiq78.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 05:57:08 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 05:57:08 GMT</pubDate>
+</item>
+<item>
+<title>【检索增强语言模型(RALM)相关文献列表】’RALM_Survey - This is a repository of RALM surveys containing a summary of state-of-the-art RAG and other tech...</title>
+<link>https://weibo.com/1402400261/OcRNqBxKZ</link>
+<guid>https://weibo.com/1402400261/OcRNqBxKZ</guid>
+<content:encoded><![CDATA[
+<div> 关键词: RALM, 调研, 技术, 仓库, RAG
+
+总结:<br><br>文章介绍了一个关于增强语言模型(RALM)调研的仓库，其中包含了对最新的RAG和其他相关技术的总结。该调研仓库位于GitHub上，旨在汇总和分享关于RALM的最新研究成果和技术应用。通过该仓库，研究者和开发者可以了解到RALM领域的最新进展和应用情况，对于推动RALM技术的发展具有重要意义。该仓库的建立为RALM领域的进一步研究和应用提供了重要参考资料，对于学术界和工业界的研究人员都具有一定的价值。 <div>
+【检索增强语言模型(RALM)相关文献列表】’RALM_Survey - This is a repository of RALM surveys containing a summary of state-of-the-art RAG and other technologies' GitHub: github.com/2471023025/RALM_Survey <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpel95jimaj20vb0u0n0l.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpel97ak1kj20rk0uv0wd.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 05:46:59 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 05:46:59 GMT</pubDate>
+</item>
+<item>
+<title>'LLM-And-More：一站式大模型训练及应用构建的解决方案，其覆盖了从数据处理到模型评估、从训练到部署、从想法到服务等整个流程' GitHub: github.com/IceBearAI/...</title>
+<link>https://weibo.com/1402400261/OcRMP9qLP</link>
+<guid>https://weibo.com/1402400261/OcRMP9qLP</guid>
+<content:encoded><![CDATA[
+<div> 大模型训练、应用构建、数据处理、模型评估、训练、部署、想法、服务、一站式解决方案
+
+<br><br>总结:LLM-And-More是一个一站式解决方案，涵盖了大模型训练及应用构建的整个流程。从数据处理到模型评估，再到训练与部署，甚至从想法到服务都得到了覆盖。这个解决方案为用户提供了一个完整的工具集，帮助他们在机器学习领域更高效地工作并实现他们的想法。GitHub链接为github.com/IceBearAI/LLM-And-More。 <div>
+'LLM-And-More：一站式大模型训练及应用构建的解决方案，其覆盖了从数据处理到模型评估、从训练到部署、从想法到服务等整个流程' GitHub: github.com/IceBearAI/LLM-And-More <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpel7b71zaj20yo0u0djr.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 05:45:29 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 05:45:29 GMT</pubDate>
+</item>
+<item>
+<title>'RigelA - 用纯Rust编写的读屏(Screen Reader)项目，用于视力有障碍的人群操作电脑，软件会将屏幕上的各种信息转换成语音输出' GitHub: github.com/mzdk100/rige...</title>
+<link>https://weibo.com/1402400261/OcRLLbjpT</link>
+<guid>https://weibo.com/1402400261/OcRLLbjpT</guid>
+<content:encoded><![CDATA[
+<div> Rust, 读屏, Screen Reader, 视力障碍, 语音输出, GitHub, mzdk100, RigelA
+
+<br><br>总结:
+RigelA是一个使用纯Rust编写的读屏项目，旨在帮助视力有障碍的人群操作电脑。软件可以将屏幕上的信息转换成语音输出，提供便利。项目托管在GitHub上，由mzdk100负责维护。该项目的开发旨在提高视力障碍者的计算机使用体验，为他们提供更多的便利和可能性。 <div>
+'RigelA - 用纯Rust编写的读屏(Screen Reader)项目，用于视力有障碍的人群操作电脑，软件会将屏幕上的各种信息转换成语音输出' GitHub: github.com/mzdk100/rigela <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpel5j2gp6j21ba0u0tec.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 05:42:52 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 05:42:52 GMT</pubDate>
+</item>
+<item>
+<title>【go-size-analyzer：用于分析编译后的 Golang 二进制文件依赖的工具，帮助理解它们对最终构建大小的影响】'go-size-analyzer - A tool for analysing the depen...</title>
+<link>https://weibo.com/1402400261/OcRLdu0zH</link>
+<guid>https://weibo.com/1402400261/OcRLdu0zH</guid>
+<content:encoded><![CDATA[
+<div> 依赖、编译后、Golang、二进制文件、分析工具、影响、构建大小、GitHub、Zxilly、go-size-analyzer<br>
+<br>
+本文介绍了一款名为go-size-analyzer的工具，用于分析编译后的Golang二进制文件中的依赖关系，帮助用户理解这些依赖对最终构建大小的影响。该工具的开发者是Zxilly，代码托管于GitHub。通过该工具，用户可以清晰地了解编译后的Golang程序中各个依赖包的大小以及它们对最终构建文件的影响，为优化程序的构建大小提供了参考。go-size-analyzer为Golang开发者提供了一个有用的分析工具，帮助他们更好地优化和管理项目中的依赖关系，提升构建效率和性能。<br><br>总结: <br>本文介绍了go-size-analyzer，一款用于分析编译后的Golang二进制文件依赖的工具，帮助用户理解这些依赖对最终构建大小的影响。该工具的作者是Zxilly，代码托管于GitHub。go-size-analyzer为Golang开发者提供了一个有用的分析工具，帮助他们优化和管理项目中的依赖关系，提升构建效率和性能。 <div>
+【go-size-analyzer：用于分析编译后的 Golang 二进制文件依赖的工具，帮助理解它们对最终构建大小的影响】'go-size-analyzer - A tool for analysing the dependencies in compiled Golang binaries, providing insight into their impact on the final build.' GitHub: github.com/Zxilly/go-size-analyzer <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpel3egzx7j21dy0u0aet.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpel3n45atj206p046q2w.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 05:41:32 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 05:41:32 GMT</pubDate>
+</item>
+<item>
+<title>【Scribe：将音符渲染为 HTML 的工具】'Scribe - Renders music in HTML.' GitHub: github.com/stephband/scribe #开源# [图片][图片]</title>
+<link>https://weibo.com/1402400261/OcRJKwBep</link>
+<guid>https://weibo.com/1402400261/OcRJKwBep</guid>
+<content:encoded><![CDATA[
+<div> GitHub, Scribe, 渲染, 音符, HTML <br>
+<br>
+Scribe是一个工具，可以将音符渲染为HTML格式的音乐符号。该工具的GitHub页面为github.com/stephband/scribe。通过使用Scribe，用户可以将音乐符号直观地呈现在HTML页面上，方便音乐相关内容的展示与分享。Scribe的功能简单易用，对于需要在网页上展示音乐内容的用户来说是一个实用的工具。GitHub上有关于Scribe的更多信息和使用说明，欢迎感兴趣的用户前往查看。 <br> 
+总结: Scribe是一个可将音乐符号渲染为HTML的工具，让用户能够在网页上直观呈现音乐内容，功能简单易用。GitHub上有更多详情和使用说明。 <div>
+【Scribe：将音符渲染为 HTML 的工具】'Scribe - Renders music in HTML.' GitHub: github.com/stephband/scribe <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpel0bvrsdj20u00v20vp.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpel0deew9j20u00wqady.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 05:37:55 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 05:37:55 GMT</pubDate>
+</item>
+<item>
+<title>【Dewhale：充分发挥 Github 平台能力的通用 AI 工作流】'Dewhale - GitHub-Powered AI for effortless development. Start as an open-source alternative to v...</title>
+<link>https://weibo.com/1402400261/OcRGMr9na</link>
+<guid>https://weibo.com/1402400261/OcRGMr9na</guid>
+<content:encoded><![CDATA[
+<div> GitHub, AI, 工作流, 开源, 替代品, Dewhale, 平台, 开发, Yuyz0112, 能力
+
+<br><br>总结:
+文章介绍了Dewhale这一利用GitHub平台能力的通用AI工作流，作为一个开源的替代品创立，旨在为开发带来便利。这个项目由Yuyz0112创建，旨在充分利用GitHub平台的功能，帮助开发者更轻松地进行开发工作。 <div>
+【Dewhale：充分发挥 Github 平台能力的通用 AI 工作流】'Dewhale - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.' GitHub: github.com/Yuyz0112/dewhale <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpekso9qntj21ia0oaada.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 05:30:36 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 05:30:36 GMT</pubDate>
+</item>
+<item>
+<title>【spaCyEx：spaCy扩展库，通过类似正则表达式的语法，简化了复杂模式匹配的创建】'spaCyEx - SpaCyEx allows the creation of spaCy Matcher patterns with RegE...</title>
+<link>https://weibo.com/1402400261/OcRBO4mdt</link>
+<guid>https://weibo.com/1402400261/OcRBO4mdt</guid>
+<content:encoded><![CDATA[
+<div> spaCyEx, spaCy Matcher, RegEx, syntax, creation, patterns, GitHub, wjbmattingly, 简化, 复杂模式匹配
+
+<br><br>总结:
+spaCyEx是一个spaCy的扩展库，允许使用类似正则表达式的语法创建spaCy Matcher模式。该扩展简化了复杂模式匹配的创建过程，使得用户能够更方便地定义匹配模式。该项目目前在GitHub上开源，可以在wjbmattingly的GitHub页面找到。 <div>
+【spaCyEx：spaCy扩展库，通过类似正则表达式的语法，简化了复杂模式匹配的创建】'spaCyEx - SpaCyEx allows the creation of spaCy Matcher patterns with RegEx like syntax.' GitHub: github.com/wjbmattingly/spacyex <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpekfqtfjsj213g0u0q7i.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 05:18:21 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 05:18:21 GMT</pubDate>
+</item>
+<item>
+<title>【Astra Assistant API Service：与OpenAI beta Assistants API兼容的后端实现，支持持久线程、文件、助手、流式处理、检索、函数调用等功能，使用AstraDB作为数...</title>
+<link>https://weibo.com/1402400261/OcRxC2oke</link>
+<guid>https://weibo.com/1402400261/OcRxC2oke</guid>
+<content:encoded><![CDATA[
+<div> Astra Assistant API Service、OpenAI beta Assistants API、后端实现、持久线程、文件、助手、流式处理、检索、函数调用、AstraDB<br>
+<br>
+总结：<br>
+Astra Assistant API Service是一个与OpenAI beta Assistants API兼容的后端实现。该服务支持持久线程、文件操作、助手功能、流式处理、检索以及函数调用等功能。在实现过程中使用了AstraDB作为数据库和向量存储。通过该服务，用户可以实现更加灵活和高效的助手功能，帮助提升工作效率和用户体验。GitHub上发布了该服务的代码，让用户可以进行自定义修改和使用。 <div>
+【Astra Assistant API Service：与OpenAI beta Assistants API兼容的后端实现，支持持久线程、文件、助手、流式处理、检索、函数调用等功能，使用AstraDB作为数据库和向量存储】'Astra Assistant API Service - A backend implementation of the OpenAI beta Assistants API' GitHub: github.com/datastax/astra-assistants-api <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpek59sunxj21740pydkd.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 05:08:01 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 05:08:01 GMT</pubDate>
+</item>
+<item>
+<title>【crawlist：用于爬取网页列表的通用解决方案】'crawlist - A universal solution for web crawling lists' GitHub: github.com/WwwwwyDev/crawlist #开源# #爬...</title>
+<link>https://weibo.com/1402400261/OcRwlyXS1</link>
+<guid>https://weibo.com/1402400261/OcRwlyXS1</guid>
+<content:encoded><![CDATA[
+<div> GitHub、crawlist、web crawling、universal solution、lists、爬取、网页、解决方案、代码、开发者
+
+<br><br>总结:
+这篇文章介绍了一个名为crawlist的开源项目，它是一个通用的用于爬取网页列表的解决方案。通过GitHub上的链接可以找到该项目的代码。crawlist可以帮助开发者在爬取网页数据时更高效地处理列表信息，提供了一种简单而直观的方式来实现网页的爬取和数据提取。这个工具可应用于各种各样的网页数据抓取任务，为开发者提供了一种便捷的方式来处理网页信息。通过crawlist，用户可以轻松实现对特定网站的数据抓取，并将数据存储或分析处理。这个开源项目为网页爬取提供了一个简单且灵活的解决方案，适用于各种爬虫任务的需求。通过crawlist，开发者可以更高效地进行网页数据的抓取和处理，节省了开发时间和成本。 <div>
+【crawlist：用于爬取网页列表的通用解决方案】'crawlist - A universal solution for web crawling lists' GitHub: github.com/WwwwwyDev/crawlist <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%88%AC%E8%99%AB%23&amp;isnewpage=1"><span class="surl-text">#爬虫#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpek1tmlfkj20yf0u0dj1.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 05:04:54 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 05:04:54 GMT</pubDate>
+</item>
+
+<item>
 <title>【Datasets for MS MARCO Web Search：微软开源的大规模、信息丰富的网络数据集，包含数百万真实点击的查询-文档标签，用于模拟真实世界网页和查询分布，支持多...</title>
 <link>https://weibo.com/1402400261/OcRm1e7kx</link>
 <guid>https://weibo.com/1402400261/OcRm1e7kx</guid>
 <content:encoded><![CDATA[
 <div> 微软，开源，数据集，MS MARCO Web Search，大规模，信息丰富，网络数据，真实点击，查询-文档标签，模拟真实世界，支持多种任务
 
-微软开源了名为MS MARCO Web Search的大规模、信息丰富的网络数据集，其中包含数百万真实点击的查询-文档标签，可模拟真实世界网页和查询分布，支持多种下游任务。该数据集对于开展相关研究和实验具有重要意义，为研究者提供了丰富的资源和实验基础。通过这个数据集，研究者可以更深入地了解网络搜索中真实用户行为，开展针对性的研究和实验，提升相关技术的发展水平。这将有助于推动搜索引擎和相关领域的发展，为用户提供更加智能、高效的信息检索服务。<br><br>总结: 微软开源了MS MARCO Web Search数据集，其中包含大量真实点击的查询-文档标签，可模拟真实世界网页和查询分布，支持多种下游任务。这为研究者提供了宝贵的资源和实验基础，有望推动搜索引擎和相关技术的发展。 <div>
+微软开源了名为MS MARCO Web Search的大规模、信息丰富的网络数据集，其中包含数百万真实点击的查询-文档标签，可模拟真实世界网页和查询分布，支持多种下游任务。该数据集对于开展相关研究和实验具有重要意义，为研究者提供了丰富的资源和实验基础。通过这个数据集，研究者可以更深入地了解网络搜索中真实用户行为，开展针对性的研究和实验，提升相关技术的发展水平。这将有助于推动搜索引擎和相关领域的发展，为用户提供更加智能、高效的信息检索服务。<br /><br />总结: 微软开源了MS MARCO Web Search数据集，其中包含大量真实点击的查询-文档标签，可模拟真实世界网页和查询分布，支持多种下游任务。这为研究者提供了宝贵的资源和实验基础，有望推动搜索引擎和相关技术的发展。 <div>
 【Datasets for MS MARCO Web Search：微软开源的大规模、信息丰富的网络数据集，包含数百万真实点击的查询-文档标签，用于模拟真实世界网页和查询分布，支持多种下游任务】'Datasets for MS MARCO Web Search - A large-scale information-rich web dataset, featuring millions of real clicked query-document labels' GitHub: github.com/microsoft/MS-MARCO-Web-Search <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpejbjtiisj20u00vptf4.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 05 May 2024 04:39:27 GMT</pubDate>
-<pubDate>Sun, 05 May 2024 04:39:27 GMT</pubDate>
 </item>
-
 <item>
 <title>【支持1M上下文的LLama-3 70B扩展模型，适用于长文本生成和对话场景】《gradientai/Llama-3-70B-Instruct-Gradient-1048k · Hugging Face》 网页链接 #机器学习...</title>
 <link>https://weibo.com/1402400261/OcPGV97lm</link>
@@ -12863,18 +13013,6 @@ Rust编写的语言模型推理平台mistral.rs具有快速性能，支持深度
 【Bolna：快速构建LLM语音聊天应用的关键框架，帮助开发人员轻松打造高效的聊天应用】'Bolna - End-to-end platform enabling LLM based voice driven conversational applications' GitHub: github.com/bolna-ai/bolna <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho84hifed3j21bk0gmacb.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Fri, 29 Mar 2024 12:12:28 GMT</pubDate>
-</item>
-<item>
-<title>【PyTorch in JavaScript：一个深度学习 JavaScript 库，旨在与 PyTorch 的语法相类似，以便开发人员使用 JavaScript 实现深度学习模型】'PyTorch in JavaScript...</title>
-<link>https://weibo.com/1402400261/O7hsykjAw</link>
-<guid>https://weibo.com/1402400261/O7hsykjAw</guid>
-<content:encoded><![CDATA[
-<div> PyTorch, JavaScript, 深度学习, 库, 语法, 开发人员, 实现, 模型, GitHub, 项目
-<br /><br />总结:
-PyTorch在JavaScript中的实现是一个类似于PyTorch的JavaScript库，从头开始构建。这个项目旨在提供一个类似于PyTorch的编程体验，使开发人员能够使用JavaScript语言来实现深度学习模型。通过GitHub上的项目，开发人员可以了解和使用这个深度学习库，从而在JavaScript环境中进行模型的开发和应用。JavaScript语言的灵活性和便捷性使得这个库可以更好地与前端开发集成，为开发人员提供了更多选择和可能性。通过这个项目，开发人员可以在JavaScript中体验和应用类似于PyTorch的深度学习功能，进一步推动了深度学习技术在不同领域的应用和发展。 <div>
-【PyTorch in JavaScript：一个深度学习 JavaScript 库，旨在与 PyTorch 的语法相类似，以便开发人员使用 JavaScript 实现深度学习模型】'PyTorch in JavaScript - A JavaScript library like PyTorch, built from scratch.' GitHub: github.com/eduardoleao052/js-torch <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho849wysk6j21am0u0gpo.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Fri, 29 Mar 2024 12:05:08 GMT</pubDate>
 </item>
 </channel>
 </rss>

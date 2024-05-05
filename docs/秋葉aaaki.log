@@ -3678,3 +3678,9 @@ Fetching from https://rsshub.app/bilibili/user/article/12566101?mode=fulltext
 Feed error: 500
 append_entries: 0
 error when rendering xml, skip docs/秋葉aaaki
+------------------------------------------------------
+Started: 2024-05-05 08:14:15.801408
+Existing_entries: 11
+Fetching from https://rsshub.app/bilibili/user/article/12566101?mode=fulltext
+append_entries: 0
+Finish: 2024-05-05 08:14:16.884805
