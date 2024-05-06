@@ -7971,3 +7971,18 @@ Existing_entries: 1002
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-05-06 04:14:22.931059
+------------------------------------------------------
+Started: 2024-05-06 06:16:20.028846
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 150
+Summarized using GPT-3.5-turbo
+Append: [【LLM4Opt：收集和整理关于大型语言模型(LLM)在优化任务上应用的研究和综述论文】'LLM4Opt - A Collection on Large Language Models for Optimization' GitHub:...](https://weibo.com/1402400261/Od0PKhVZY)
+Token length: 156
+Summarized using GPT-3.5-turbo
+Append: [【免费书《面向音乐信息检索的大型语言模型教程》】’LLMs heart MIR: A tutorial on Large Language Models for Music Information Retrieval' GitHub: github....](https://weibo.com/1402400261/Od0PbAN3G)
+Token length: 103
+Summarized using GPT-3.5-turbo
+Append: [【从零开始学习深度强化学习的实践课程】'Deep Reinforcement Learning: Zero to Hero!' GitHub: github.com/alessiodm/drl-zh #开源# #机器学习# #人工智能# [...](https://weibo.com/1402400261/Od0NvxNpz)
+append_entries: 3
+Finish: 2024-05-06 06:16:34.984972

@@ -5450,3 +5450,27 @@ Existing_entries: 632
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-05-06 04:14:19.407715
+------------------------------------------------------
+Started: 2024-05-06 06:15:56.472274
+Existing_entries: 632
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 318
+Summarized using GPT-3.5-turbo
+Append: [#58行代码扩展Llama3到100万上下文#，任何微调版都适用堂堂开源之王Llama 3，原版上下文窗口居然只有……8k，让到嘴边的一句“真香”又咽回去了。在32k起步，100...](https://weibo.com/6105753431/Od15pnM42)
+Token length: 293
+Summarized using GPT-3.5-turbo
+Append: [#嬛嬛朕emo啦但马斯克版# 等了7分多钟，刚从北京闪现闪离的马斯克，他终于夸我是个人才。好了，别骂诈骗，我全都招！现在登录通义App（原通义千问），选择全民演...](https://weibo.com/6105753431/Od0XzDCT9)
+Token length: 943
+Summarized using GPT-3.5-turbo
+Append: [惨！#Rabbit被持续扒皮# AI风口一夜转型，NFT充值用户欲哭无泪，动作大模型也是套壳的一波未平一波又起，不光APP被批评套壳安卓，主推的大动作模型LAM依赖OpenAI...](https://weibo.com/6105753431/Od0Vbjytu)
+Token length: 109
+Summarized using GPT-3.5-turbo
+Append: [#批量制作短视频AI神器# 现在，只需上传视频或粘贴URL地址，AI就能自动剪视频了~HeyGen推出的新功能 Instant Highlights 1.0 可以将视频自动切割成多个亮点小片...](https://weibo.com/6105753431/Od0Gh2PTY)
+Append: [#Adobe推出3D新工具# 2D秒变3D，Adobe宣布推出新工具#Project Neo#。它能用于快速创建3D图标、插画等。而且支持一键导出高质量 SVG 以及高像素图像。在线体验：...](https://weibo.com/6105753431/Od0sG8dZU)
+Append: [转发 - 转发 @宝玉xp:&ensp;Sora 正在研发一种技术，可以在视频中只更改一个元素（目前仍在研究阶段，未对外公开）。从演示视频看，可以更换视频中的人物，但是...](https://weibo.com/6105753431/Od0mdkfNl)
+Append: [#微软CTO早期内部邮件大公开# 对OpenAI的思考在一封2019年的内部邮件中，微软CTO透露了对 OpenAI 的相关思考。邮件主要内容如下：1.他在当时就对OpenAI、DeepMin...](https://weibo.com/6105753431/Od0g1bVI9)
+Append: [#通过模仿儿童构建AI模型# 在过去的11个月里，纽约大学心理学家 Lake 和他的妻子每周都会花 1h 给女儿安装摄像头，并在她玩耍时从她的角度记录事物。他的目标是...](https://weibo.com/6105753431/Od01VCPc9)
+Append: [#机器狗一键get瑜伽球行走技能# 难度大升级！如何让机器狗快速学会在瑜伽球上稳步行走？来自英伟达和宾夕法尼亚大学的研究人员最新推出了#DrEureka#。它利用 LLM...](https://weibo.com/6105753431/OcZEDfYRm)
+Append: [#特斯拉机器人进厂打工# 特斯拉第二代 Optimus 人形机器人已经开始进厂了~在官方最新公布的视频中，擎天柱可将电池单体精确插入托盘中，而且还能定期在办公室长...](https://weibo.com/6105753431/OcZqZ0Xmi)
+append_entries: 10
+Finish: 2024-05-06 06:16:18.832102
