@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>几篇论文实现代码：《Self-Supervised Speech Quality Estimation and Enhancement Using Only Clean Speech 》(ICLR 2024) GitHub: github.com/JasonSWFu/VQsco...</title>
 <link>https://weibo.com/1402400261/Od1jbybrP</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 关键词：Self-Supervised Speech Quality Estimation, Clean Speech, Speech Enhancement, COTR, Vision-based Occupancy Prediction, Post-training Quantization, Diffusion Models, BAT, Spatial Sounds, LiDAR Mapping, Implicit Neural Representation, Encoder-based Text-to-Image Personalization, OLMo, Language Models, Kazakh Emotional Text-to-Speech Synthesis, OOTDiffusion, Virtual Try-on, ManipVQA, Large Language Models, RoT, Reflection on Search Trees, SUNDAE, Gaussian Fields, STaR-GATE, Clarifying Questions, G-Refine, Text-to-Image Generation
 
-总结：<br><br>
+总结：<br /><br />
 这篇论文综合了多个领域的研究成果，包括语音质量估计和增强、视觉预测、后训练量化、大型语言模型、文本到图像生成等。通过自监督学习在干净语音数据上实现语音质量估计和增强，提出了一种紧凑的Transformer模型用于视觉占据预测。另外，还介绍了一种用于扩散模型的准确后训练量化方法，以及在多模态大型语言模型中注入机器人可负担性和物理基础信息的ManipVQA方法。除此之外，还提出了一种具有反射式搜索树的大型语言模型增强方法RoT，以及用于文本到图像生成的通用质量调节器G-Refine。这些研究努力推动了语音处理、计算机视觉和自然语言处理等领域的发展。 <div>
 几篇论文实现代码：<br />《Self-Supervised Speech Quality Estimation and Enhancement Using Only Clean Speech 》(ICLR 2024) GitHub: github.com/JasonSWFu/VQscore [fig5]<br />《COTR: Compact Occupancy TRansformer for Vision-based Occupancy Prediction》(CVPR 2024) GitHub: github.com/NotACracker/COTR [fig6] <br />《Towards Accurate Post-training Quantization for Diffusion Models》(CVPR 2024) GitHub: github.com/ChangyuanWang17/APQ-DM<br />《BAT: Learning to Reason about Spatial Sounds with Large Language Models》(ICML 2024) GitHub: github.com/zszheng147/Spatial-AST [fig2]<br />《3D LiDAR Mapping in Dynamic Environments using a 4D Implicit Neural Representation》(CVPR 2024) GitHub: github.com/PRBonn/4dNDF [fig1]<br />《LCM-Lookahead for Encoder-based Text-to-Image Personalization》(2024) GitHub: github.com/OrLichter/lcm-lookahead<br />《OLMo: Accelerating the Science of Language Models》(2024) GitHub: github.com/thepowerfuldeez/OLMo<br />《KazEmoTTS: A Dataset for Kazakh Emotional Text-to-Speech Synthesis》(2024) GitHub: github.com/IS2AI/KazEmoTTS<br />《OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on》(2024) GitHub: github.com/lyc0929/OOTDiffusion-train [fig3]<br />《ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models》(2024) GitHub: github.com/SiyuanHuang95/ManipVQA [fig4] <br />《RoT: Enhancing Large Language Models with Reflection on Search Trees》(2024) GitHub: github.com/huiwy/reflection-on-trees<br />《SUNDAE: Spectrally Pruned Gaussian Fields with Neural Compensation》(2024) GitHub: github.com/RunyiYang/SUNDAE<br />《STaR-GATE: Teaching Language Models to Ask Clarifying Questions》(2024) GitHub: github.com/scandukuri/assistant-gate [fig7]<br />《G-Refine: A General Quality Refiner for Text-to-Image Generation》(2024) GitHub: github.com/Q-Future/Q-Refine<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpfp1m0votj22780j2q6j.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpfpr0u40dj20ob15rwp6.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpfpyoffxoj21e018yqob.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpfq1hajdpj25n41nqe86.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpfqmsqfcvj212f11eqcq.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpfqpmvi05j21oj0ql7wh.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpfqz1pfqaj20m109jq56.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 05:59:57 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 05:59:57 GMT</pubDate>
 </item>
 <item>
@@ -25,11 +25,10 @@
 <content:encoded><![CDATA[
 <div> GUI，文件选择，拼接工具，文本文件，合并，单一文件，大型语言模型，上下文
 
-<br><br>总结:
+<br /><br />总结:
 该文介绍了一个名为FileKitty的工具，它是一个简单的GUI工具，用于选择文本文件并将它们合并为一个单一文件，特别适用于提供上下文给大型语言模型（LLM）。用户可以通过该工具方便地选择多个文本文件，并将它们拼接成一个文件，以便在LLM中使用。该工具的GitHub链接为github.com/banagale/FileKitty。 <div>
 【FileKitty：简单的文件选择和拼接工具，特别适用于将文本文件合并为单一文件，以便在大型语言模型（LLM）中提供上下文】'FileKitty - GUI for selecting text files for concatenation and submission to LLMs' GitHub: github.com/banagale/FileKitty <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpfr6blm9cj20gg0gcdgz.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 05:56:44 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 05:56:44 GMT</pubDate>
 </item>
 <item>
@@ -39,11 +38,10 @@
 <content:encoded><![CDATA[
 <div> NPI, 开源平台, AI Agent, 工具, API, 虚拟世界, 执行操作, GitHub
 
-<br><br>总结:
+<br /><br />总结:
 NPI是一个开源平台，为AI Agent提供工具使用API，让它们能在虚拟世界中执行操作。这个平台在GitHub上进行开发和维护，为人工智能代理提供了方便的工具和接口，使它们能够在虚拟环境中更有效地操作和执行任务。通过这个平台，AI Agent能够更好地应用和利用各种工具来完成指定的任务，为虚拟世界的发展和应用提供了便利和支持。 <div>
 【NPI：一个开源平台，为AI Agent提供工具使用API，以在虚拟世界中执行操作】'NPI - Tool use APIs platform for AI Agent' GitHub: github.com/npi-ai/npi <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpfr3zefxsj21hl0u0n26.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 05:54:54 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 05:54:54 GMT</pubDate>
 </item>
 <item>
@@ -53,10 +51,9 @@ NPI是一个开源平台，为AI Agent提供工具使用API，让它们能在虚
 <content:encoded><![CDATA[
 <div> Jax, Flax, Mu-Parameterization, Transformer, FSDP, TPU pods, GitHub, 实现, 支持, 运行
 
-总结:<br><br>这篇文章介绍了使用Jax/Flax实现的Mu-Transformer，支持Mu-Parameterization并能在TPU pods上运行FSDP。该模型在GitHub上可以找到，为了实现更高效的Transformer模型，作者使用了Mu-Parameterization技术。Mu-Parameterization是一种针对Transformer模型的特殊参数化方法，可以提高模型的性能和效率。另外，该模型还支持在TPU pods上使用FSDP进行训练和推理，可以更快地处理大规模数据集。通过实现这个Mu-Transformer模型，研究人员可以更好地理解和应用Transformer模型在实际任务中的表现。Mu-Transformer的开源代码使得其他研究人员可以轻松地使用和扩展该模型，为NLP领域的进一步研究和应用提供了便利。 <div>
+总结:<br /><br />这篇文章介绍了使用Jax/Flax实现的Mu-Transformer，支持Mu-Parameterization并能在TPU pods上运行FSDP。该模型在GitHub上可以找到，为了实现更高效的Transformer模型，作者使用了Mu-Parameterization技术。Mu-Parameterization是一种针对Transformer模型的特殊参数化方法，可以提高模型的性能和效率。另外，该模型还支持在TPU pods上使用FSDP进行训练和推理，可以更快地处理大规模数据集。通过实现这个Mu-Transformer模型，研究人员可以更好地理解和应用Transformer模型在实际任务中的表现。Mu-Transformer的开源代码使得其他研究人员可以轻松地使用和扩展该模型，为NLP领域的进一步研究和应用提供了便利。 <div>
 【Mu-Transformer：使用 Jax/Flax 实现的 Transformer 模型，支持 Mu-Parameterization，能在 TPU pods 上运行 FSDP】'Mu-Transformer - Transformer with Mu-Parameterization, implemented in Jax/Flax. Supports FSDP on TPU pods.' GitHub: github.com/lucaslingle/mu_transformer <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpfr2y1nddj21720twtdu.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 05:53:45 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 05:53:45 GMT</pubDate>
 </item>
 <item>
@@ -66,11 +63,10 @@ NPI是一个开源平台，为AI Agent提供工具使用API，让它们能在虚
 <content:encoded><![CDATA[
 <div> TypeScript, 开源, 视频创作, 工具, 代码, 生成视频, GitHub, Revideo
 
-<br><br>总结：
+<br /><br />总结：
 Revideo是基于TypeScript开发的开源视频创作工具，允许用户通过代码生成视频。该工具提供了便捷的方式来创作视频内容，用户可以利用代码来定制视频的各个细节。项目托管在GitHub上，用户可以查看源代码并参与贡献。Reviedo为视频创作带来了全新的可能性，使得创作者可以更加灵活地表达创意，展示自己的想法和故事。Reviedo的出现丰富了视频创作的工具和方式，为视频创作者们提供了更多选择和灵感。 <div>
 【Revideo：基于 TypeScript 的开源视频创作工具，允许用户通过代码生成视频】'Revideo - Create Videos with Code - Create Videos with Code' GitHub: github.com/redotvideo/revideo <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpfr1yxg2cj20zn0u0n1j.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 05:52:55 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 05:52:55 GMT</pubDate>
 </item>
 <item>
@@ -80,10 +76,9 @@ Revideo是基于TypeScript开发的开源视频创作工具，允许用户通过
 <content:encoded><![CDATA[
 <div> GitHub、网络出站过滤、运行时安全、自托管、运行器、Harden-Runner、安全工具、步骤安全、运行时安全、托管
 
-总结:<br><br>文章介绍了Harden-Runner这个网络出站过滤和运行时安全工具，适用于GitHub托管和自托管的运行器。该工具可以帮助用户加强网络出站过滤和运行时安全，保护数据和系统安全。步骤安全团队开发了这个工具，可以有效提高安全性。如果用户需要提升GitHub托管和自托管的安全性，可以考虑使用Harden-Runner这个工具来加固系统。 <div>
+总结:<br /><br />文章介绍了Harden-Runner这个网络出站过滤和运行时安全工具，适用于GitHub托管和自托管的运行器。该工具可以帮助用户加强网络出站过滤和运行时安全，保护数据和系统安全。步骤安全团队开发了这个工具，可以有效提高安全性。如果用户需要提升GitHub托管和自托管的安全性，可以考虑使用Harden-Runner这个工具来加固系统。 <div>
 【Harden-Runner：用于GitHub托管和自托管运行器的网络出站过滤和运行时安全工具】'Harden-Runner - Network egress filtering and runtime security for GitHub-hosted and self-hosted runners' GitHub: github.com/step-security/harden-runner <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpfr10a171j20u00w2q7e.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 05:51:37 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 05:51:37 GMT</pubDate>
 </item>
 <item>
@@ -91,12 +86,11 @@ Revideo是基于TypeScript开发的开源视频创作工具，允许用户通过
 <link>https://weibo.com/1402400261/Od1exCWpN</link>
 <guid>https://weibo.com/1402400261/Od1exCWpN</guid>
 <content:encoded><![CDATA[
-<div> 高效的大型语言模型压缩工具 llmc 支持多种压缩方法 推理后端<br>
-<br>
+<div> 高效的大型语言模型压缩工具 llmc 支持多种压缩方法 推理后端<br />
+<br />
 总结: 该文章介绍了一种名为 llmc 的高效大型语言模型压缩工具，支持多种先进的压缩方法和多种推理后端。该工具致力于提高模型的准确性和效率，为语言模型压缩领域带来了新的发展。 <div>
 【llmc: 高效的大型语言模型(LLM)压缩工具，支持多种先进的压缩方法和多种推理后端】'llmc: Towards Accurate and Efficient LLM Compression - llmc is an efficient LLM compression tool with various advanced compression methods, supporting multiple inference backends.' GitHub: github.com/ModelTC/llmc <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpfqxqqn1qj216l0u0tdy.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 05:48:30 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 05:48:30 GMT</pubDate>
 </item>
 <item>
@@ -106,11 +100,10 @@ Revideo是基于TypeScript开发的开源视频创作工具，允许用户通过
 <content:encoded><![CDATA[
 <div> GitHub, RAG-Retrieval, Python库, 高效微调, 检索模型, 嵌入, ColBERT, 交叉编码器, 排序模型, 长文档处理
 
-<br><br>总结: 
+<br /><br />总结: 
 RAG-Retrieval是一个开源的Python库，旨在统一高效微调RAG检索模型，其中包括嵌入、ColBERT和交叉编码器模型。该库支持多种排序模型，并优化长文档的处理。用户可以在GitHub上找到该项目，使用其中的功能来进行检索模型的微调和优化。 <div>
 【RAG-Retrieval：开源的Python库，旨在统一高效微调RAG检索模型，包括嵌入、ColBERT和交叉编码器模型，支持多种排序模型并优化长文档处理】'RAG-Retrieval - Unify Efficient Fine-tuning of RAG Retrieval, including Embedding, ColBERT,Cross Encoder' GitHub: github.com/NLPJCL/RAG-Retrieval <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpfqworsrej21ji0zu4qf.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 05:46:58 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 05:46:58 GMT</pubDate>
 </item>
 <item>
@@ -120,11 +113,10 @@ RAG-Retrieval是一个开源的Python库，旨在统一高效微调RAG检索模�
 <content:encoded><![CDATA[
 <div> kvql, SQL-like, 查询语言, Key-Value数据库, GitHub, c4pt0r, 设计 
 
-<br><br>总结:
+<br /><br />总结:
 kvql是一个类似SQL的查询语言，专为通用键值数据库设计。该项目在GitHub上开源，由用户c4pt0r创建和维护。kvql旨在提供一种简单直观的方式来查询和操作Key-Value数据库，使用户能够更轻松地管理数据库中的数据。通过kvql，用户可以使用类似SQL的语法来快速检索所需的数据，从而提高工作效率和数据库操作的便利性。 <div>
 【kvql：为通用键值数据库设计的类似 SQL 的查询语言】'kvql - A SQL-like query language on general Key-Value DB' GitHub: github.com/c4pt0r/kvql <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpfqut86g4j20vj0u0wh4.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 05:45:54 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 05:45:54 GMT</pubDate>
 </item>
 <item>
@@ -134,14 +126,12 @@ kvql是一个类似SQL的查询语言，专为通用键值数据库设计。该�
 <content:encoded><![CDATA[
 <div> 基于像素空间扩散模型(PDM)、高效、图像净化框架、去除保护性扰动、Python脚本、简单、GitHub、PDM-Pure、图像数据、保护性处理。
 
-<br><br>总结:
+<br /><br />总结:
 本文介绍了一种基于像素空间扩散模型(PDM)的图像净化框架PDM-Pure，旨在去除图像中的保护性扰动。这个框架通过简单的Python脚本实现，具有高效和简便的特点。用户可以在GitHub上找到该框架的代码。PDM-Pure能够对图像数据进行保护性处理，提高图像质量和清晰度，是一个实用的图像处理工具。 <div>
 【PDM-Pure: 基于像素空间扩散模型(PDM)的简单高效的图像净化框架，用于去除保护性扰动】'PDM-Pure: Effective Purification in One Simple Python Script - PDM-based Purifier' GitHub: github.com/xavihart/PDM-Pure <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpfqo12dwtj21c70u0wm1.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 06 May 2024 05:39:13 GMT</pubDate>
-<pubDate>Mon, 06 May 2024 05:39:13 GMT</pubDate>
 </item>
-
 <item>
 <title>【LLM4Opt：收集和整理关于大型语言模型(LLM)在优化任务上应用的研究和综述论文】'LLM4Opt - A Collection on Large Language Models for Optimization' GitHub:...</title>
 <link>https://weibo.com/1402400261/Od0PKhVZY</link>
@@ -12881,133 +12871,6 @@ LLM 应用开发实践笔记是一篇关于应用开发实践的经验分享文�
 对 预训练 MoE、upcycled MoE 和 FrankenMoE 三类 MoE 模型的简介。<br /><br />- 预训练 MoE<br />预训练 MoE 旨在利用 MoE 架构从头开始预训练语言模型，以期获得比传统密集模型更高效的训练效果。预训练 MoE 的优势在于：<br />1. 训练速度更快。在相同计算预算下，MoE 模型理论上可以比密集模型更快达到相同的性能水平。<br />2. 推理速度更快。尽管 MoE 模型参数量巨大，但实际推理时只会激活部分专家，因此推理速度比拥有相同参数量的密集模型更快。<br />3. 专家可以专门针对不同的浅层概念或词元组，而不是某个特定主题。<br />不过，预训练 MoE 也面临一些挑战，如推理时需要大量内存来加载所有专家参数，以及在下游任务微调时容易过拟合等。代表性的预训练 MoE 模型有 Switch Transformer、Mixtral 等。<br /><br />- upcycled MoE<br />upcycled MoE 的思路是在一个已经训练好的基础模型上，通过复制其前馈网络来创建多个专家，形成一个 MoE 模型。与从头预训练相比，upcycled MoE 的优势在于：<br />1. 基于成熟的预训练模型，继续预训练的计算成本更低。<br />2. 可以使用细粒度的专家，即将前馈网络切割成更小的单元，从而获得数量众多的小型专家。  <br />3. 可以灵活控制要激活的专家数量，在推理速度和效果之间进行权衡。<br />upcycled MoE 的代表性工作包括 DeepSeek-MoE、Upstage SOLAR 等。<br /><br />- FrankenMoE<br />FrankenMoE 的思路与模型合并类似，即选择几个在特定任务上表现优异的微调模型，将它们组合成一个 MoE 模型。通过一定的训练，可以让路由器学会将不同类型的token发送给对应的专家。<br />与预训练 MoE 和再利用 MoE 相比，FrankenMoE 的特点是：<br />1. 专家是面向特定任务的，而不是通用的浅层概念，这一点与预训练 MoE 有本质区别。<br />2. 不再具有 MoE 的某些优势，如负载均衡。因为专家之间的能力差异较大。<br />3. 在特定任务上的表现可能优于通用的 MoE 模型，如 Beyonder-4x7B-v2。<br />但 FrankenMoE 能否广泛应用于不同场景，目前还有待进一步验证。<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9yoziedxj20xc4t8b29.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho9yp0i5o4j20u70i90v8.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho9yp1kqcyj20pb0chwfw.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 31 Mar 2024 02:27:57 GMT</pubDate>
-</item>
-<item>
-<title>《混合专家模型 (MoE) 详解》- MoE 是一种将大型语言模型中全连接层替换为稀疏层的技术，可以显著提高预训练效率。其包含两个主要元素：稀疏的 MoE 层和一个门控...</title>
-<link>https://weibo.com/1402400261/O7w5scEbo</link>
-<guid>https://weibo.com/1402400261/O7w5scEbo</guid>
-<content:encoded><![CDATA[
-<div> 稀疏层、MoE层、门控网络、专家、模型规模、Transformer、微调、训练挑战、开源项目、知识蒸馏、量化
-
-<br /><br />总结:
-混合专家模型（MoE）是一种将大型语言模型中全连接层替换为稀疏层的技术，通过引入稀疏性和门控网络，实现部分输入数据计算、模型规模扩张而不增加计算量，并通过专家负载平衡、辅助损失函数和专家容量限制来提高效率。MoE与Transformer结合取得进展，如GShard实现规模扩张至6000亿参数，Switch Transformer简化门控网络，提出专家容量概念。MoE模型在微调中容易过拟合，需采用更高正则化，多任务示教微调再单任务微调可提升表现。面临训练和部署挑战，需专家并行、通信优化、断点续训、模型压缩等技术。MoE模型为构建大规模高效神经网络提供新思路，Switch Transformers等研究解决MoE不稳定性问题，指明后续改进方向。MoE引发学术界和工业界广泛关注，多个研究组织发布基于MoE模型取得性能进步，未来可进一步探索知识蒸馏、量化等方向。将MoE蒸馏为密集模型和量化是有前景的研究方向，在保持性能的同时大幅压缩模型体积，促进MoE在资源受限环境下的部署。 <div>
-《混合专家模型 (MoE) 详解》<br />- MoE 是一种将大型语言模型中全连接层替换为稀疏层的技术，可以显著提高预训练效率。其包含两个主要元素：稀疏的 MoE 层和一个门控网络，门控网络决定每个 token 由哪个 expert 处理。   <br />- MoE 的起源可追溯到 1991 年的论文，2010-2015 年间的研究为 MoE 在深度网络中的应用奠定了基础。2017 年的论文首次在 NLP 任务中应用了 MoE，将 LSTM 模型扩展到 1300 亿参数。   <br />- MoE 引入了稀疏性，只对部分输入数据进行计算，从而实现模型规模的扩张而不增加计算量。门控网络学习将输入分配给不同的专家(expert)。   <br />- 为了平衡各专家的负载，需要添加辅助损失函数鼓励所有专家得到近似相等的训练样本。还可以设置专家容量限制。   <br />- MoE 与 Transformer 的结合取得了显著进展。例如 GShard 利用 MoE 将模型扩展到 6000 亿参数；Switch Transformer 引入单专家策略简化了门控网络，提出了专家容量的概念。   <br />- 相较于稠密模型，MoE 模型在下游任务的微调中更容易过拟合，需要采用更高的正则化。最近的工作显示先进行多任务示教微调然后再单任务微调可以显著提升 MoE 的表现。   <br />- 训练和部署 MoE 也面临一些挑战，论文提出了专家并行、通信优化、断点续训、模型压缩等技术来解决这些问题。   <br />- 目前有多个开源项目致力于 MoE 的研究，未来可探索的方向包括知识蒸馏、量化等。  <br /><br />思考：  <br />- MoE 模型的出现为构建大规模且高效的神经网络提供了新的思路。通过将专家作为组件嵌入到网络中，MoE 有望突破传统密集模型的瓶颈。  <br />- Switch Transformers 等工作针对 MoE 的不稳定性问题进行了深入研究，为后续的改进指明了方向。1.6 万亿参数的 MoE 模型展现了这一架构的巨大潜力。  <br />- 多个研究组织已经发布了基于 MoE 的模型，表明 MoE 正在受到学术界和工业界的广泛关注。这些模型在性能上取得了显著进步，有望在实际应用中发挥重要作用。  <br />- 将 MoE 蒸馏为密集模型以及对其进行量化是非常有前景的研究方向。这不仅能够在保持性能的同时大幅压缩模型体积，还能促进 MoE 在资源受限环境下的部署。<br /> <a href="https://huggingface.co/blog/moe"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho9wulpqsaj20za0u00wv.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 01:19:26 GMT</pubDate>
-</item>
-<item>
-<title>《BrushNet - BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion | a Hugging Face Space by TencentARC》 网页链接 #...</title>
-<link>https://weibo.com/1402400261/O7vT1o0c8</link>
-<guid>https://weibo.com/1402400261/O7vT1o0c8</guid>
-<content:encoded><![CDATA[
-<div> BrushNet, Image Inpainting, Plug-and-Play Model, Diffusion, Dual-Branch, Decomposed, Hugging Face Space, TencentARC
-
-<br /><br />总结:
-本文介绍了一种基于图像修复的模型BrushNet，通过两个分支的扩散机制实现图像修复。该模型能够自动进行图像修复，满足用户需求。通过对不同部分的修复分解，提高了修复效果。 TencentARC团队在Hugging Face Space上提供了该模型，方便用户使用。 <div>
-《BrushNet - BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion | a Hugging Face Space by TencentARC》 <a href="https://huggingface.co/spaces/TencentARC/BrushNet"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <a href="https://video.weibo.com/show?fid=1034:5017908603191302"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可-爱生活的微博视频</span></a> <br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax3.sinaimg.cn/orj480/5396ee05ly1ho9vyjuuigj20zk0k00tk.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/DGCmhkr0lx08dHZH7en6010412005TBA0E010.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711858507&amp;ssig=CUnU3p7Iwb&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/xv8u3UeOlx08dHZGKSly010412002Lz70E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711858507&amp;ssig=CXQrgsO%2Fnc&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/Afyz8Cvblx08dHZGKdLq010412001JUS0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1711858507&amp;ssig=xQSd7WEinY&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5017908603191302" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
-]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 00:48:49 GMT</pubDate>
-</item>
-<item>
-<title>【DSPy：机器学习工作流重塑提示工程】- DSPy 是一个与众不同的提示工程框架，它将逻辑与提示分离，使开发人员能够通过 dspy.Module 确定性地编程逻辑，而不用关...</title>
-<link>https://weibo.com/1402400261/O7vOKCeLv</link>
-<guid>https://weibo.com/1402400261/O7vOKCeLv</guid>
-<content:encoded><![CDATA[
-<div> 提示工程、DSPy、机器学习、工作流、逻辑、LLM、闭合循环、易用性、术语、概念
-
-总结：<br /><br />本文介绍了DSPy这一机器学习工作流重塑提示工程的框架，其将逻辑与提示分离，使开发人员专注于逻辑编程而不需关心底层LLM，有望简化提示工程流程。DSPy将提示工程转变为结构化的机器学习工作流，闭合了训练和评估的循环，突出了LLM/Agent系统的重要性。然而，DSPy目前存在易用性问题，术语和概念晦涩，对新手不友好。希望DSPy在优化易用性方面做出改进，降低学习门槛，扩大受众群。 <div>
-【DSPy：机器学习工作流重塑提示工程】<br />- DSPy 是一个与众不同的提示工程框架，它将逻辑与提示分离，使开发人员能够通过 dspy.Module 确定性地编程逻辑，而不用关心所使用的 LLM。  <br />- DSPy 的革命性在于它将提示工程纯手工过程转变为结构化的机器学习工作流，包括准备数据集、定义模型、训练、评估和测试。  <br />- DSPy 的关键贡献是闭合了提示工程中训练和评估的循环，并将逻辑与文本表示分离开来，凸显了对 LLM/Agent 系统的潜在重要性。  <br />- DSPy 目前存在的问题是对新手来说学习曲线较陡峭，其习语如 signature、module、program、teleprompter、optimization 和 compile 等术语让人望而生畏。即使对于精通提示工程的人来说，在 DSPy 中驾驭这些概念也是一个具有挑战性的迷宫。  <br /><br />思考：  <br />- DSPy 通过将逻辑与提示分离，使开发人员能够专注于逻辑编程，而无需关注底层 LLM，这一点令人印象深刻。这种方式有望大大简化提示工程的流程。  <br />- 将提示工程转变为结构化的机器学习工作流是一个宏伟的愿景，如果能实现，将极大地推动 LLM 应用的发展。不过这需要 DSPy 在易用性上做出改进。  <br />- DSPy 的术语和概念目前还比较晦涩，对新手不够友好。如果能在这方面做些优化，降低学习门槛，DSPy 的受众会更加广泛。  <br />《DSPy: Not Your Average Prompt Engineering》 <a href="https://jina.ai/news/dspy-not-your-average-prompt-engineering/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho9vnlvwvzj20xc0hiabc.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho9vnnsds1j20xc0hijt8.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 00:38:18 GMT</pubDate>
-</item>
-<item>
-<title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评...</title>
-<link>https://weibo.com/1402400261/O7uVrf61S</link>
-<guid>https://weibo.com/1402400261/O7uVrf61S</guid>
-<content:encoded><![CDATA[
-<div> 编程语言、故事、技术、Java、Python、JavaScript、C语言、MySQL、Redis、技术原理。
-
-<br /><br />总结:
-《码农翻身2》是一本故事化的技术书籍，通过讲述编程语言之间的斗争和争端，将看似枯燥的技术知识变得生动有趣。Java、Python、JavaScript、C语言、MySQL和Redis等技术在书中扮演着不同角色，展现了它们之间的互动和竞争。读者在享受故事的同时，也能够学到技术的原理和本质。《码农翻身2》是一部结合技术和趣味的书籍，让读者在轻松愉快的阅读中提升自己的技术水平。 <div>
-//<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《码农翻身2》，截至2024.4.2 12:00，*可可粉*转发+评论即可参与。畅销书《码农翻身》第2部终于出版了，依然是用故事的方式讲解技术，把看似枯燥乏味的技术，变成好玩有趣的故事。编程语言王国之间依然争斗得你死我活，今天Java向Python渗透，明天JavaScript就向Java猛烈进攻。而C语言春节回家，发现只有自己没有对象，十分悲催。MySQL和Redis互相看不顺眼，不断向对方使绊子。让大家掌握技术原理和本质的同时，又能读起来很爽。 <a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a> <a href="https://lottery.media.weibo.com/lottery/h5/history/list?mid=5016276596163714"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">抽奖详情</span></a><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4ohfsdnwj20m80m843i.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho4ohgdugqj20m80m8tc1.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho4ohgus3ij20m80m8q75.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho4ohhdfwxj20zk0zk7ar.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Sat, 30 Mar 2024 22:22:01 GMT</pubDate>
-</item>
-<item>
-<title>今日推介(第1361期)：使用方向感知t-SNE可视化高维时间数据、超越回路重叠寻找模型机制、语言模型视角下的工具使用研究综述、用引导扩散从零开始生成强大的投毒...</title>
-<link>https://weibo.com/1402400261/O7uVh0dhT</link>
-<guid>https://weibo.com/1402400261/O7uVh0dhT</guid>
-<content:encoded><![CDATA[
-<div> 方向感知t-SNE、高维时间数据、超越回路重叠、模型机制、语言模型、工具使用、引导扩散、投毒和后门、反事实预训练、目标移除和插入
-
-<br /><br />总结:
-本文介绍了几篇关于机器学习和人工智能领域的研究成果。首先，提出了使用方向感知t-SNE可视化高维时间数据的方法，可以更直观地展示数据的特征和变化。其次，探讨了超越回路重叠寻找模型机制的方法，对于理解复杂系统的运作机制具有重要意义。另外，从语言模型的视角分析了工具使用研究，为提升用户体验和效率提供了新思路。此外，介绍了用引导扩散从零开始生成强大的投毒和后门的技术，以及用于逼真目标移除和插入的自举反事实预训练的方法，这些技术在安全和数据处理领域具有重要应用前景。通过这些研究成果的分享，可以促进机器学习和人工智能领域的发展，推动相关技术的创新和应用。 <div>
-今日推介(第1361期)：使用方向感知t-SNE可视化高维时间数据、超越回路重叠寻找模型机制、语言模型视角下的工具使用研究综述、用引导扩散从零开始生成强大的投毒和后门、用于逼真目标移除和插入的自举反事实预训练 公·众·号：爱可可爱生活 <a href="https://zhuanlan.zhihu.com/p/689966788"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可 AI 前沿推介(3.31)</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho9rpdhji0j20go0gswgt.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8ho9rpfuh30j20go0960uf.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho9rpicbi3j20go0dt3zx.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho9rpkv1naj20go07kmxz.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8ho9rpn7yx5j20go08fta0.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sat, 30 Mar 2024 22:21:36 GMT</pubDate>
-</item>
-<item>
-<title>通过构建反事实图像数据集微调扩散模型，实现了逼真的物体删除和插入，显著提高了渲染物体对场景效应的能力。 - 转发 @爱可可-爱生活:&amp;ensp;[CV]《ObjectDrop: B...</title>
-<link>https://weibo.com/1402400261/O7uR4D6Cm</link>
-<guid>https://weibo.com/1402400261/O7uR4D6Cm</guid>
-<content:encoded><![CDATA[
-<div> 反事实图像数据集、微调、扩散模型、物体删除、物体插入、场景效应、物体移除、物体添加、渲染能力、ObjectDrop
-<br />
-<br />
-总结：研究通过构建反事实图像数据集微调扩散模型，实现了逼真的物体删除和插入，提高了渲染物体对场景效应的能力。这项研究利用了ObjectDrop技术，通过对图像进行微调和扩散模型的训练，实现了物体的删除和插入，使得场景效果更加真实。该技术对于图像处理和渲染领域具有重要意义，可以在实际应用中提供更多可能性。研究团队的工作有望为数字图像处理领域带来新的突破，为物体移除和添加等任务提供更加高效、准确的解决方案。 <div>
-通过构建反事实图像数据集微调扩散模型，实现了逼真的物体删除和插入，显著提高了渲染物体对场景效应的能力。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CV]《ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion》D Winter, M Cohen, S Fruchter, Y Pritch, A Rav-Acha, Y Hoshen [Google Research] (2024) <a href="https://arxiv.org/abs/2403.18818"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9r6lfzd1j21fc0j812s.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9r6lwz2pj21ok0xu7g6.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9r6m52xjj21oi0m6gtc.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9r6mf9a0j21p80uync4.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9reswzu0j210y0m4aeu.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9resx0v3j210z0n7tda.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho9reswusnj210x0ovn0q.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9resxfa7j210x0qu43z.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9resx035j210p0epq6x.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Sat, 30 Mar 2024 22:11:15 GMT</pubDate>
-</item>
-<item>
-<title>[CV]《ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion》D Winter, M Cohen, S Fruchter, Y Pritch, A Rav-Acha, ...</title>
-<link>https://weibo.com/1402400261/O7uR2hqNe</link>
-<guid>https://weibo.com/1402400261/O7uR2hqNe</guid>
-<content:encoded><![CDATA[
-<div> Bootstrapping, Counterfactuals, Object Removal, Object Insertion, Photorealistic, Google Research, Deep Learning, Image Editing, Computer Vision, Object Detection
-
-<br /><br />总结：
-该研究来自Google Research团队，提出了一种名为ObjectDrop的方法，用于在图像中实现真实感十足的对象删除和插入操作。通过引入反事实生成器来训练深度学习模型，实现了对于图像中物体的有效去除和替换。与传统方法相比，ObjectDrop能够更好地处理较复杂的情景，并且生成的结果质量更高。研究团队在大规模数据集上进行了实验证实，结果表明ObjectDrop在图像编辑和计算机视觉领域具有广阔的应用前景。 <div>
-[CV]《ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion》D Winter, M Cohen, S Fruchter, Y Pritch, A Rav-Acha, Y Hoshen [Google Research] (2024) <a href="https://arxiv.org/abs/2403.18818"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9r6lfzd1j21fc0j812s.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9r6lwz2pj21ok0xu7g6.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9r6m52xjj21oi0m6gtc.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9r6mf9a0j21p80uync4.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9reswzu0j210y0m4aeu.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9resx0v3j210z0n7tda.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho9reswusnj210x0ovn0q.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9resxfa7j210x0qu43z.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9resx035j210p0epq6x.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9reswcx8j21120dtad2.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9resvwsij210y091wgh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9resz9qcj21111h3k2x.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9resz22mj210m1ggwp5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho9resz299j210x1fgqdh.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9reszey1j210x1fg13w.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9resz2ntj210x1eg130.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9resyyvrj210x1fowog.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sat, 30 Mar 2024 22:11:10 GMT</pubDate>
-</item>
-<item>
-<title>利用引导扩散生成高质量和高效的中投毒基础样本，再与下游攻击算法相结合，实现了更隐蔽和强效的对抗机器学习。 - 转发 @爱可可-爱生活:&amp;ensp;[LG]《Generating ...</title>
-<link>https://weibo.com/1402400261/O7uKD6OzN</link>
-<guid>https://weibo.com/1402400261/O7uKD6OzN</guid>
-<content:encoded><![CDATA[
-<div> 中投毒基础样本, 引导扩散, 下游攻击算法, 对抗机器学习, 高质量, 高效, 隐蔽, 强效, 生成, 转发 
-
-总结:<br /><br />这篇文章介绍了一种利用引导扩散生成高质量和高效的中投毒基础样本的方法，然后与下游攻击算法相结合，实现了更隐蔽和强效的对抗机器学习。研究者通过这种方法能够生成具有潜在毒害和后门功能的样本，为网络安全领域提供了有力的工具和技术。 <div>
-利用引导扩散生成高质量和高效的中投毒基础样本，再与下游攻击算法相结合，实现了更隐蔽和强效的对抗机器学习。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Generating Potent Poisons and Backdoors from Scratch with Guided Diffusion》H Souri, A Bansal, H Kazemi, L Fowl... [Johns Hopkins University &amp; University of Maryland &amp; Google] (2024) <a href="https://arxiv.org/abs/2403.16365"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9qlilx7pj21jo0veh0a.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho9qljbfj9j21uu0ua4be.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9qljtdcij21ki16q7ki.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho9qljxysoj21kg0vk7ez.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9qy0tti1j20vi0j3wh9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9qy0t8m3j20sq083ta2.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9qy0trcsj20vd0g6di1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9qy0v0c4j20vg0hggox.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9qy0u9apj20vg0hgdjp.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Sat, 30 Mar 2024 21:55:23 GMT</pubDate>
-</item>
-<item>
-<title>[LG]《Generating Potent Poisons and Backdoors from Scratch with Guided Diffusion》H Souri, A Bansal, H Kazemi, L Fowl... [Johns Hopkins University &amp; U...</title>
-<link>https://weibo.com/1402400261/O7uKuxzfT</link>
-<guid>https://weibo.com/1402400261/O7uKuxzfT</guid>
-<content:encoded><![CDATA[
-<div> 关键词: Generating Potent Poisons, Backdoors, Guided Diffusion, Johns Hopkins University, University of Maryland, Google
-
-总结:
-本研究由约翰霍普金斯大学、马里兰大学和谷歌合作完成，探讨了如何利用引导扩散技术从头开始生成强效毒药和后门。研究团队通过实验和研究发现，在网络安全领域中，利用引导扩散方法可以快速生成具有毒性和后门功能的恶意软件和程序。通过深入分析和模拟实验，研究人员成功演示了这种方法的有效性和潜力，为网络安全防御提供了新的思路和方法。这项研究对于加强网络安全防御和对抗恶意攻击具有重要意义，有望为未来的网络安全研究和应用提供有益的参考和借鉴。 <div>
-[LG]《Generating Potent Poisons and Backdoors from Scratch with Guided Diffusion》H Souri, A Bansal, H Kazemi, L Fowl... [Johns Hopkins University &amp; University of Maryland &amp; Google] (2024) <a href="https://arxiv.org/abs/2403.16365"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9qlilx7pj21jo0veh0a.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho9qljbfj9j21uu0ua4be.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9qljtdcij21ki16q7ki.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho9qljxysoj21kg0vk7ez.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9qy0tti1j20vi0j3wh9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9qy0t8m3j20sq083ta2.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9qy0trcsj20vd0g6di1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9qy0v0c4j20vg0hggox.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9qy0u9apj20vg0hgdjp.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9qy0tmvnj20vh0e4abz.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9qy0toplj20vj0e4gnj.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho9qy0txctj20vh0hi77g.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9qy0u2x6j20vh0hhq6h.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9qy0ttahj20vh0hgmzw.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9qy0tk82j20vj0e4jt7.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9qy0thgyj20vj0e4jt9.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sat, 30 Mar 2024 21:55:03 GMT</pubDate>
-</item>
-<item>
-<title>通过定义工具的概念、总结应用场景和方法、分析效率等方面，全面系统地回顾和分析了工具辅助语言模型的研究进展，为该领域的发展提供了重要指导。 - 转发 @爱可...</title>
-<link>https://weibo.com/1402400261/O7uEwqhRZ</link>
-<guid>https://weibo.com/1402400261/O7uEwqhRZ</guid>
-<content:encoded><![CDATA[
-<div> 工具概念, 应用场景, 方法, 效率, 语言模型, 研究进展, 指导意义, 重要性, 调查, 资源分配
-<br /><br />总结:
-本文系统地回顾和分析了工具辅助语言模型的研究进展。首先定义工具的概念，然后总结了工具在语言模型中的应用场景和方法。分析了工具辅助语言模型的效率，并探讨了其在领域发展中的重要性和指导意义。通过对工具的调查和资源分配，为该领域的进一步发展提供了重要启示。 <div>
-通过定义工具的概念、总结应用场景和方法、分析效率等方面，全面系统地回顾和分析了工具辅助语言模型的研究进展，为该领域的发展提供了重要指导。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《What Are Tools Anyway? A Survey from the Language Model Perspective》Z Wang, Z Cheng, H Zhu, D Fried, G Neubig [CMU &amp; Shanghai Jiao Tong University] (2024) <a href="https://arxiv.org/abs/2403.15452"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9qcpp0boj21ge0natio.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho9qcq7gp6j20qs0m6djr.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9qcqfpcsj20rc0ro0y6.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9qcqml1qj21pm0jyqdc.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9qinfp1cj20d107bwey.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho9qingarmj20vk0drtap.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Sat, 30 Mar 2024 21:40:21 GMT</pubDate>
 </item>
 </channel>
 </rss>

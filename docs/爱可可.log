@@ -8028,3 +8028,9 @@ Summarized using GPT-3.5-turbo
 Append: [【PDM-Pure: 基于像素空间扩散模型(PDM)的简单高效的图像净化框架，用于去除保护性扰动】'PDM-Pure: Effective Purification in One Simple Python Script - PDM...](https://weibo.com/1402400261/Od1aMcP4d)
 append_entries: 10
 Finish: 2024-05-06 10:13:18.506253
+------------------------------------------------------
+Started: 2024-05-06 12:21:26.208901
+Existing_entries: 1010
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-05-06 12:21:58.247443
