@@ -7917,3 +7917,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/OcV4JzNL2)
 append_entries: 0
 Finish: 2024-05-05 22:12:00.066214
+------------------------------------------------------
+Started: 2024-05-06 00:53:00.811096
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 98
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1397期)：对大型语言模型的基准数据集泄漏进行评测、高维回归中的缩放率和重规范化、图主动学习的不确定性、交织多图像指令微调、错误驱动的不确定性...](https://weibo.com/1402400261/OcYjD4eqt)
+Token length: 180
+Summarized using GPT-3.5-turbo
+Append: [[RO] Ag2Manip: Learning Novel Manipulation Skills with Agent-Agnostic Visual and Action Representations 网页链接 提出利用与Agent无关的视觉和动作表示，...](https://weibo.com/1402400261/OcYgodCWP)
+Token length: 192
+Summarized using GPT-3.5-turbo
+Append: [[IR] PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval 网页链接 通过提示工程首...](https://weibo.com/1402400261/OcYdwcHAq)
+Token length: 160
+Summarized using GPT-3.5-turbo
+Append: [[IR] Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering 网页链接 通过构建知识图谱与检索增强生成的结合，显著...](https://weibo.com/1402400261/OcYbkzN37)
+Token length: 165
+Summarized using GPT-3.5-turbo
+Append: [[AI] Autonomous LLM-driven research from data to human-verifiable research papers 网页链接 Data-to-paper平台使用语言模型驱动Agent自动完成数据到可验证...](https://weibo.com/1402400261/OcY8OwpoF)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [提出一种训练技术EUAT，通过区分正确和错误分类的不确定性，显著提高了神经网络对自身预测质量判断的能力，增强了模型的可靠性和可信度。 - 转发 @爱可可-爱生活...](https://weibo.com/1402400261/OcY55AKMc)
+Token length: 114
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Error-Driven Uncertainty Aware Training》P Mendes, P Romano, D Garlan [CMU & Universidade de Lisboa] (2024) 网页链接 #机器学习##人工智能##论文# ...](https://weibo.com/1402400261/OcY53Enxn)
+Token length: 244
+Summarized using GPT-3.5-turbo
+Append: [本文工作证明了指令微调在有效覆盖不同技能的高质量数据集上进行训练可以快速使语义模型支持多图像输入，取得最优的多图像任务性能，而无需依赖大规模预训练。 -...](https://weibo.com/1402400261/OcXZAASO3)
+Token length: 162
+Summarized using GPT-3.5-turbo
+Append: [[CV]《MANTIS: Interleaved Multi-Image Instruction Tuning》D Jiang, X He, H Zeng, C Wei, M Ku, Q Liu, W Chen [University of Waterloo & Tsinghua Univers...](https://weibo.com/1402400261/OcXZylO9o)
+Token length: 215
+Summarized using GPT-3.5-turbo
+Append: [通过开发标准不确定性估计正式证明了不确定性采样与主动学习目标的一致性，在节点分类任务中获得了最先进性能。 - 转发 @爱可可-爱生活:&ensp;[LG]《Uncertainty...](https://weibo.com/1402400261/OcXT3uRmp)
+append_entries: 10
+Finish: 2024-05-06 00:53:43.237591

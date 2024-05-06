@@ -4,6 +4,142 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>今日推介(第1397期)：对大型语言模型的基准数据集泄漏进行评测、高维回归中的缩放率和重规范化、图主动学习的不确定性、交织多图像指令微调、错误驱动的不确定性...</title>
+<link>https://weibo.com/1402400261/OcYjD4eqt</link>
+<guid>https://weibo.com/1402400261/OcYjD4eqt</guid>
+<content:encoded><![CDATA[
+<div> 评测、基准数据集、泄漏、高维回归、缩放率、重规范化、不确定性、图主动学习、交织多图像指令微调、错误驱动、不确定性感知训练
+
+<br><br>总结:
+本篇文章首先讨论了对大型语言模型的基准数据集泄漏进行评测的问题，接着介绍了在高维回归中的缩放率和重规范化的作用。然后探讨了图主动学习中的不确定性问题，以及交织多图像指令微调的实践方法。最后，文章提出了错误驱动的不确定性感知训练，为解决现实场景中的复杂问题提供了新的思路。通过这些研究，可以更好地理解和应用大型语言模型以及图主动学习在实际任务中的表现，为相关领域的研究和应用提供参考和启示。 <div>
+今日推介(第1397期)：对大型语言模型的基准数据集泄漏进行评测、高维回归中的缩放率和重规范化、图主动学习的不确定性、交织多图像指令微调、错误驱动的不确定性感知训练 公·众·号：爱可可爱生活 <a href="http://aicoco.net/s/8y"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpfe1qf8xyj216w0r80xf.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpfe1snarij21cp0u0451.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpfe1vlv37j22dt0u0th3.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpfe1xhxwcj21cw0lawkp.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpfe1zli2ej21f70u0teo.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 22:22:47 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 22:22:47 GMT</pubDate>
+</item>
+<item>
+<title>[RO] Ag2Manip: Learning Novel Manipulation Skills with Agent-Agnostic Visual and Action Representations 网页链接 提出利用与Agent无关的视觉和动作表示，...</title>
+<link>https://weibo.com/1402400261/OcYgodCWP</link>
+<guid>https://weibo.com/1402400261/OcYgodCWP</guid>
+<content:encoded><![CDATA[
+<div> Agent-Agnostic Visual Representation, Action Representation, 机器人技能学习, 探索, 交互, 效果提升<br>
+<br>
+提出利用与Agent无关的视觉和动作表示，将机器人技能学习分解为探索和交互两个阶段，在没有领域专家示范的情况下，显著提升了机器人学习新技能的效果。<br><br>总结:本文介绍了一种新的机器人技能学习方法，通过代理不可知的视觉和动作表示，将学习过程分为探索和交互两个阶段。这种方法在没有专家示范的情况下显著提升了机器人学习新技能的效果。 <div>
+[RO] Ag2Manip: Learning Novel Manipulation Skills with Agent-Agnostic Visual and Action Representations  <br /><a href="https://arxiv.org/abs/2404.17521"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>        <br />提出利用与Agent无关的视觉和动作表示，将机器人技能学习分解为探索和交互两个阶段，在没有领域专家示范的情况下，显著提升了机器人学习新技能的效果。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpfdtok9qpj20x817cau2.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpfdtowz91j21oq0yiqjf.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpfdtoyxw1j21o00ne4ds.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 22:14:49 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 22:14:49 GMT</pubDate>
+</item>
+<item>
+<title>[IR] PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval 网页链接 通过提示工程首...</title>
+<link>https://weibo.com/1402400261/OcYdwcHAq</link>
+<guid>https://weibo.com/1402400261/OcYdwcHAq</guid>
+<content:encoded><![CDATA[
+<div> 关键词: PromptReps, 零样本文档检索, 预训练语言模型, 稠密表示, 稀疏表示, 提示工程, 监督方法效果, 文本表示, 生成, 提示
+
+总结:<br><br>
+本文介绍了一种名为PromptReps的方法，能够实现直接利用预训练语言模型生成稠密和稀疏文本表示的零样本文档检索。这个方法无需额外训练就能达到先进的监督方法效果。通过提示工程，研究人员成功地实现了这一目标，从而为文档检索领域带来了新的可能性。通过使用PromptReps，研究人员能够更加高效地生成文本表示，进一步提高零样本文档检索的准确性和效率。这一方法的创新点在于能够直接利用预训练语言模型，在没有额外训练的情况下实现了稠密和稀疏表示的生成。这为文档检索任务带来了新的思路和方法，为后续的研究提供了重要参考。 <div>
+[IR] PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval  <br /><a href="https://arxiv.org/abs/2404.18424"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />通过提示工程首次实现了直接利用预训练语言模型生成稠密和稀疏文本表示的零样本文档检索，无需额外训练就能达到先进的监督方法效果。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpfdmby22ij20sc16k4c9.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 22:07:44 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 22:07:44 GMT</pubDate>
+</item>
+<item>
+<title>[IR] Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering 网页链接 通过构建知识图谱与检索增强生成的结合，显著...</title>
+<link>https://weibo.com/1402400261/OcYbkzN37</link>
+<guid>https://weibo.com/1402400261/OcYbkzN37</guid>
+<content:encoded><![CDATA[
+<div> 知识图谱、检索增强生成、客户服务、问答系统、效果提升、实际部署<br>
+<br>
+<br>
+总结:本文介绍了一种通过构建知识图谱与检索增强生成相结合的方式来提高客户服务问答系统的效果的方法。在实际部署中，这种方法取得了显著的效果提升。通过利用知识图谱来增强问答系统的检索能力，结合生成模型来产生更加精准和自然的答案。这种方法有效地提高了系统的准确性和用户体验，对于客户服务行业具有重要意义。 <div>
+[IR] Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering  <br /><a href="https://arxiv.org/abs/2404.17723"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />通过构建知识图谱与检索增强生成的结合，显著提高了客户服务问答系统的检索与生成效果，并在实际部署中取得了可观的效果提升。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpfdgqj0tsj21da0jk7be.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 22:02:21 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 22:02:21 GMT</pubDate>
+</item>
+<item>
+<title>[AI] Autonomous LLM-driven research from data to human-verifiable research papers 网页链接 Data-to-paper平台使用语言模型驱动Agent自动完成数据到可验证...</title>
+<link>https://weibo.com/1402400261/OcY8OwpoF</link>
+<guid>https://weibo.com/1402400261/OcY8OwpoF</guid>
+<content:encoded><![CDATA[
+<div> 自动化、数据、语言模型、Agent、科研、潜力、人工监督、复杂任务、AI、研究论文
+
+<br><br>总结:
+Data-to-paper平台利用语言模型驱动Agent完成数据到可验证论文的研究流程，展示了AI辅助科研自动化的潜力。然而，在复杂任务中，人工监督仍然不可或缺，确保研究的准确性和可靠性。这种自动化技术有望提高研究效率，加快科学进展，但在应用过程中需要结合人类专家的智慧和监督，以确保研究成果符合科学标准。AI的发展为科研带来新的可能性，但与人类共同合作仍是未来科学发展的关键。 <div>
+[AI] Autonomous LLM-driven research from data to human-verifiable research papers  <br /><a href="https://arxiv.org/abs/2404.17605"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />Data-to-paper平台使用语言模型驱动Agent自动完成数据到可验证论文的完整科研流程，展示了AI辅助科研自动化的潜力，但人工监督在复杂任务中不可或缺。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpfda9ch19j20sk0xugtq.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpfda9n6t4j20y019ck2w.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpfdaa34c8j211c1aw4c4.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 21:56:09 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 21:56:09 GMT</pubDate>
+</item>
+<item>
+<title>提出一种训练技术EUAT，通过区分正确和错误分类的不确定性，显著提高了神经网络对自身预测质量判断的能力，增强了模型的可靠性和可信度。 - 转发 @爱可可-爱生活...</title>
+<link>https://weibo.com/1402400261/OcY55AKMc</link>
+<guid>https://weibo.com/1402400261/OcY55AKMc</guid>
+<content:encoded><![CDATA[
+<div> 神经网络, EUAT, 训练技术, 不确定性, 正确分类, 错误分类, 预测质量, 可靠性, 可信度, 模型
+
+总结:<br><br>该研究提出了一种训练技术EUAT，通过区分正确和错误分类的不确定性，显著提高了神经网络对自身预测质量判断的能力。这种训练技术增强了模型的可靠性和可信度，提高了神经网络的表现。通过对不确定性的处理，有效地改善了模型的性能。该研究为神经网络的发展提供了有力支持，为提高模型的预测能力和准确性打下了基础。 <div>
+提出一种训练技术EUAT，通过区分正确和错误分类的不确定性，显著提高了神经网络对自身预测质量判断的能力，增强了模型的可靠性和可信度。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Error-Driven Uncertainty Aware Training》P Mendes, P Romano, D Garlan [CMU &amp; Universidade de Lisboa] (2024) <a href="https://arxiv.org/abs/2405.01205"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpfcq3h6kij20uc0tstjm.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpfcq3uek3j21p40zsdqe.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 21:46:59 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 21:46:59 GMT</pubDate>
+</item>
+<item>
+<title>[LG]《Error-Driven Uncertainty Aware Training》P Mendes, P Romano, D Garlan [CMU &amp; Universidade de Lisboa] (2024) 网页链接 #机器学习##人工智能##论文# ...</title>
+<link>https://weibo.com/1402400261/OcY53Enxn</link>
+<guid>https://weibo.com/1402400261/OcY53Enxn</guid>
+<content:encoded><![CDATA[
+<div> 训练方法，错误驱动，不确定性，深度学习，机器学习，神经网络，模型性能，准确性，可靠性，实验结果
+
+总结:<br><br>
+这篇文章介绍了一种新的训练方法，称为“错误驱动不确定性感知训练”。该方法结合了错误驱动和不确定性感知的思想，在深度学习中提高模型性能。通过对不确定性的有效利用，可以提高模型的准确性和可靠性。实验结果表明，这种训练方法在各种数据集上取得了显著的性能提升，为未来的研究和应用提供了新的方向。 <div>
+[LG]《Error-Driven Uncertainty Aware Training》P Mendes, P Romano, D Garlan [CMU &amp; Universidade de Lisboa] (2024) <a href="https://arxiv.org/abs/2405.01205"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpfcq3h6kij20uc0tstjm.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpfcq3uek3j21p40zsdqe.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 21:46:54 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 21:46:54 GMT</pubDate>
+</item>
+<item>
+<title>本文工作证明了指令微调在有效覆盖不同技能的高质量数据集上进行训练可以快速使语义模型支持多图像输入，取得最优的多图像任务性能，而无需依赖大规模预训练。 -...</title>
+<link>https://weibo.com/1402400261/OcXZAASO3</link>
+<guid>https://weibo.com/1402400261/OcXZAASO3</guid>
+<content:encoded><![CDATA[
+<div> 多图像输入、指令微调、高质量数据集、训练、语义模型、多图像任务性能、预训练、MANTIS、University of Waterloo、Tsinghua University
+
+总结：<br><br>本文工作证明了指令微调在有效覆盖不同技能的高质量数据集上进行训练可以快速使语义模型支持多图像输入，取得最优的多图像任务性能，而无需依赖大规模预训练。该研究由University of Waterloo和清华大学的研究人员共同完成。研究中提出的MANTIS方法展示了在多图像输入任务上的有效性，为语义模型的进一步优化提供了新的思路。这项研究的成果有望在各种领域中推动多图像任务的发展和应用。 <div>
+本文工作证明了指令微调在有效覆盖不同技能的高质量数据集上进行训练可以快速使语义模型支持多图像输入，取得最优的多图像任务性能，而无需依赖大规模预训练。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CV]《MANTIS: Interleaved Multi-Image Instruction Tuning》D Jiang, X He, H Zeng, C Wei, M Ku, Q Liu, W Chen [University of Waterloo &amp; Tsinghua University] (2024) <a href="https://arxiv.org/abs/2405.01483"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpfcd5rjbnj214611mh3j.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpfcd6cdoyj21cw0lath0.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpfcd6t9drj21b00d8q7e.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpfcd78b1nj21do0q27ce.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 21:33:26 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 21:33:26 GMT</pubDate>
+</item>
+<item>
+<title>[CV]《MANTIS: Interleaved Multi-Image Instruction Tuning》D Jiang, X He, H Zeng, C Wei, M Ku, Q Liu, W Chen [University of Waterloo &amp; Tsinghua Univers...</title>
+<link>https://weibo.com/1402400261/OcXZylO9o</link>
+<guid>https://weibo.com/1402400261/OcXZylO9o</guid>
+<content:encoded><![CDATA[
+<div> 关键词: MANTIS, Interleaved Multi-Image Instruction Tuning, University of Waterloo, Tsinghua University, D Jiang, X He, H Zeng, C Wei, M Ku, Q Liu, W Chen
+
+总结:<br><br>本研究由Waterloo大学和清华大学的研究团队合作，提出了一种名为MANTIS的系统，能够在多图像指令优化过程中实现交错式调整。该系统可以有效提高指令优化的效率，充分利用多图像数据进行指令调整，提高计算性能。研究团队通过实验验证了MANTIS系统的有效性，并展示了其在实际应用中的潜在优势。这项研究为指令优化领域的进一步发展提供了有益的参考和启示。 <div>
+[CV]《MANTIS: Interleaved Multi-Image Instruction Tuning》D Jiang, X He, H Zeng, C Wei, M Ku, Q Liu, W Chen [University of Waterloo &amp; Tsinghua University] (2024) <a href="https://arxiv.org/abs/2405.01483"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpfcd5rjbnj214611mh3j.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpfcd6cdoyj21cw0lath0.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpfcd6t9drj21b00d8q7e.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpfcd78b1nj21do0q27ce.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 21:33:20 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 21:33:20 GMT</pubDate>
+</item>
+<item>
+<title>通过开发标准不确定性估计正式证明了不确定性采样与主动学习目标的一致性，在节点分类任务中获得了最先进性能。 - 转发 @爱可可-爱生活:&amp;ensp;[LG]《Uncertainty...</title>
+<link>https://weibo.com/1402400261/OcXT3uRmp</link>
+<guid>https://weibo.com/1402400261/OcXT3uRmp</guid>
+<content:encoded><![CDATA[
+<div> 不确定性估计、不确定性采样、主动学习、节点分类、性能最先进、标准、一致性、图、技术大学慕尼黑<br>
+<br>
+<br>
+总结: 该研究通过开发标准不确定性估计正式证明了不确定性采样与主动学习目标的一致性。在节点分类任务中，研究团队获得了最先进的性能。他们的研究在图领域具有重要意义，为不确定性估计和主动学习提供了新的理论和实践方法。通过对不确定性的有效管理和利用，可以提高节点分类任务的准确性和效率。技术大学慕尼黑的这项研究为未来相关领域的研究和实践提供了有益的指导和启示。 <div>
+通过开发标准不确定性估计正式证明了不确定性采样与主动学习目标的一致性，在节点分类任务中获得了最先进性能。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Uncertainty for Active Learning on Graphs》D Fuchsgruber, T Wollschläger, B Charpentier, A Oroz, S Günnemann [Technical University of Munich] (2024) <a href="https://arxiv.org/abs/2405.01462"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpfc36hdh8j20pc0zewnl.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpfc36wxxpj20tg0nkgpy.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpfc379231j20tg0nkgpy.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpfc37e27bj20sw0leadk.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpfc45hysdj20iw0cygmr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpfc45i5xrj20ix0dcdh2.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpfc45ktl9j212b0qmgq5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpfc45kzitj210g11l42i.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpfc45joukj212e0e3gmk.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Sun, 05 May 2024 21:17:20 GMT</pubDate>
+<pubDate>Sun, 05 May 2024 21:17:20 GMT</pubDate>
+</item>
 
 <item>
 <title>《爱可可微博热门分享(5.5)》 爱可可微博热门分享(5.5) [图片]</title>
