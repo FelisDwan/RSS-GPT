@@ -3942,3 +3942,9 @@ Summarized using GPT-3.5-turbo
 Append: [分享 GitHub 上一份收集 Raycast 第三方插件集合 categorized-raycast-extensions。已收集超过 1498 个插件，涵盖了商业、设计、音视频、社交媒体、教育、娱乐、...](https://weibo.com/5722964389/Od3chdgtk)
 append_entries: 1
 Finish: 2024-05-06 12:22:27.240423
+------------------------------------------------------
+Started: 2024-05-06 14:11:43.038153
+Existing_entries: 67
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+append_entries: 0
+Finish: 2024-05-06 14:11:44.811841
