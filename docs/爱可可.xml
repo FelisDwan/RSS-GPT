@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&amp;ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型应用指南》，截至2024.5.9 12:00，*可可...</title>
 <link>https://weibo.com/1402400261/OcYX9xQWO</link>
@@ -11,11 +12,10 @@
 <content:encoded><![CDATA[
 <div> 大语言模型、人工智能、机器学习、神经网络、自然语言处理、可可粉、交互格式、提示工程、GPTs、无梯度优化
 
-总结:<br><br>
+总结:<br /><br />
 本文介绍了一本大语言模型应用指南，共分为四篇文章。第一篇夯实基础，涵盖机器学习、神经网络、自然语言处理等基础知识。第二篇实践应用，包括交互格式、提示工程、GPTs开发等内容。第三篇拓宽边界，探讨无梯度优化、自主Agent系统等话题。第四篇则展望未来，讨论多模态大语言模型、压缩即智能等议题。欢迎可可粉转发评论参与送出3本指南。 <div>
 //<a href="https://weibo.com/n/%E7%88%B1%E5%8F%AF%E5%8F%AF-%E7%88%B1%E7%94%9F%E6%B4%BB">@爱可可-爱生活</a>：欢迎参与～<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%8D%E8%B4%B9%23&amp;isnewpage=1"><span class="surl-text">#免费#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%8A%BD%E5%A5%96%23&amp;isnewpage=1"><span class="surl-text">#抽奖#</span></a> 携手<a href="https://weibo.com/n/%E5%8D%9A%E6%96%87%E8%A7%86%E7%82%B9Broadview">@博文视点Broadview</a> 送出3本《大语言模型应用指南》，截至2024.5.9 12:00，*可可粉*转发+评论即可参与。一本对人工智能小白读者非常友好的大语言模型应用指南，第1篇夯实基础，探索机器学习、神经网络、自然语言处理和大语言模型的基础。第2篇实践应用，包括交互格式、提示工程、工作记忆与长短期记忆，外部工具和GPTs的开发。第3篇拓宽边界，涵盖无梯度优化、自主Agent系统、大语言模型微调以及安全技术等。第4篇洞见未来，探讨多模态大语言模型、尺度定律、压缩即智能、图灵机与大语言模型的关联等。<a href="https://weibo.com/n/%E5%BE%AE%E5%8D%9A%E6%8A%BD%E5%A5%96%E5%B9%B3%E5%8F%B0">@微博抽奖平台</a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpat58zigtj20m80m8myr.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpat89xztmj20m80m8whk.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpat8ab08qj20m80m80up.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpat8bjhzkj20m80m8q52.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpat8c7vsej20m80m8dhx.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpat8e5u7oj20m80m8gob.jpg" /><br /><br /></blockquote>
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 00:00:10 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 00:00:10 GMT</pubDate>
 </item>
 <item>
@@ -25,14 +25,12 @@
 <content:encoded><![CDATA[
 <div> 关键词: 大语言模型、LLM Ops、模型训练、部署、团队协作、新工具、最佳实践、商业公司、挑战、商机
 
-总结:<br>
+总结:<br />
 大语言模型的迅速发展，如OpenAI的ChatGPT，正在影响AI产品的开发方式和机器学习运维的格局。这导致了新兴的LLM Ops运维方向的出现，需要处理版本控制、性能监控、弹性扩缩容、灰度发布等问题。传统的模型训练和部署流程需要调整，同时团队协作方式也受到影响。一些新工具和最佳实践如huggingface的Diffusers正在形成，但LLM Ops仍是一个新生的领域，有许多问题需要探索。大语言模型的发展正在推动机器学习平台和运维方式的变革，商业公司需要调整技术和文化以适应这一变化，LLM Ops也将催生新团队和新角色。这一领域充满挑战，但也蕴含着巨大商机，商业公司的应对能力将影响它们的AI产品优势，需要在技术和业务战略上进行调整和投入。 <div>
 【理解大语言模型运维(LLM Ops)】<br />- 近期大语言模型的迅速发展，如OpenAI的ChatGPT，正在深刻影响着AI产品的开发方式和机器学习运维的格局。   <br />- 大语言模型具有巨大的规模，需要大量计算资源，这给模型的训练、部署和服务带来了新的挑战。因此衍生出了LLM Ops这个新兴的运维方向。   <br />- LLM Ops需要处理模型的版本控制、性能监控、弹性扩缩容、灰度发布等问题。对计算资源、成本和效率都提出了更高要求。   <br />- 传统的模型训练和部署流程需要进行调整，以适应大语言模型的特点。其超大规模也影响了团队的协作方式。   <br />- 一些新工具和最佳实践正在形成，如huggingface的Diffusers等。但LLM Ops仍是一个新生的领域，许多问题有待探索。   <br />- 整体来看，大语言模型正在驱动机器学习平台和运维方式的变革。商业公司需要调整技术和文化，才能适应这一变化。LLM Ops也将催生新团队和新角色。   <br />- 这一领域充满挑战，但也蕴含着巨大商机。 商业公司能否应对LLM Ops，将深刻影响它们的AI产品优势。这需要技术和业务战略上的调整与投入。<br />《Understanding LLMOps: Large Language Model Operations | by Leonie Monigatti | Medium》 <a href="https://medium.com/@iamleonie/understanding-llmops-large-language-model-operations-4253820922"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpfgsfaho0j20u010hadc.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 05 May 2024 23:57:25 GMT</pubDate>
-<pubDate>Sun, 05 May 2024 23:57:25 GMT</pubDate>
 </item>
-
 <item>
 <title>今日推介(第1397期)：对大型语言模型的基准数据集泄漏进行评测、高维回归中的缩放率和重规范化、图主动学习的不确定性、交织多图像指令微调、错误驱动的不确定性...</title>
 <link>https://weibo.com/1402400261/OcYjD4eqt</link>
@@ -12878,32 +12876,6 @@ EAP-IG、EAP、回路、语言模型、内在运算机制、信任度、模型�
 [LG]《Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms》M Hanna, S Pezzelle, Y Belinkov [University of Amsterdam &amp; Technion] (2024) <a href="https://arxiv.org/abs/2403.17806"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9q33y9lhj21bq0vwnca.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9q34mdhyj21lg0qik0x.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9q34yn5ej21m00vyk6a.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9q352mugj21l211en6e.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9qajljb6j20vh0dy76v.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9qajlihij20vf0gidi8.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9qajkv4qj20vd0bawfe.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1ho9qajl2bfj20un0euq4i.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9qajlil2j20ve0d140p.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9qajkfrcj20uw03ugm3.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9qajldlxj20t10cc0tl.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9qajll3dj20vh0frq53.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1ho9qajlhyaj20ve0npwgz.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sat, 30 Mar 2024 21:32:29 GMT</pubDate>
-</item>
-<item>
-<title>【开源大语言模型的选择之道】- 近期不断有新的大型语言模型(LLM)发布，如Llama 2、Mixtral 8x7B、Zephyr 7B、SOLAR 10.7B和Code Llama等。这些模型规模越来越大...</title>
-<link>https://weibo.com/1402400261/O7n3vpf2O</link>
-<guid>https://weibo.com/1402400261/O7n3vpf2O</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 大语言模型、选择、开源、性能、部署成本、可控性、多语言支持、部署流程、负责任、开源模型
-
-总结:<br />
-选择大语言模型时需考虑性能表现、调优空间、多语言支持等因素，开源模型具有更高的可控性、数据安全性和成本效益，但需要自行部署和维护。专用LLM在特定任务上表现更优，但通用LLM适用范围更广，需根据需求选择。在部署LLM时要考虑偏见、问责制等伦理问题，选择合适的模型大小和做好基础设施规划。API和监控可以简化部署流程和识别问题。发展中的LLM需要负责任地造福社会，模型参数量不代表在所有任务上表现更好，开源模型可能在灵活性、成本等方面更有优势。在实际应用中需全面评估质量、速度和成本，并不盲目追求参数量。开源模型可能是更好的选择，部署大语言模型需要考虑多方面策略，是一个复杂的过程。 <div>
-【开源大语言模型的选择之道】<br />- 近期不断有新的大型语言模型(LLM)发布，如Llama 2、Mixtral 8x7B、Zephyr 7B、SOLAR 10.7B和Code Llama等。这些模型规模越来越大，性能也在不断提升。   <br />- 选择使用哪个LLM要考虑多方面因素，如性能表现、调优空间、多语言支持、部署成本等。例如Llama 2在安全性方面较好，Mixtral 8x7B的效率高，Zephyr 7B理解人类意图的能力强。   <br />- 相比商业LLM，开源LLM有更高的可控性、数据安全性、成本效益及社区支持等优势。但它们也需要自行部署和维护。   <br />- 专用LLM比通用LLM在特定任务上的表现更优，但后者应用范围更广。需根据实际需求选择。   <br />- 大规模部署LLM需考虑偏见、透明度、问责制等伦理问题。同时要选择合适的模型大小，做好基础设施规划，实现可扩展性等。   <br />- API、模型服务框架等可以简化LLM的部署流程。日志和监控对于运行中识别问题也很重要。   <br />- LLM的潜力正在不断被开发，需要继续推动其以负责任的方式造福社会。<br /><br />思考：  <br />- 模型参数量越大，训练数据越多，并不一定意味着在所有任务上都表现更好，有时更小的模型针对特定领域优化反而更有优势。  <br />- 开源模型在灵活性、成本等方面可能比商业模型更有优势。  <br />- 大语言模型的发展速度惊人，但在实际应用中需要全面评估质量、速度、成本等因素，不能盲目追求参数量。  <br />- 开源正在成为AI领域的重要趋势，开源模型在许多场景下可能是更好的选择。  <br />- 部署大语言模型需要考虑诸多策略，涉及模型选择、推理优化、提示工程、伦理安全等方方面面，是一个复杂的过程。<br />《Navigating the World of Large Language Models》 <a href="https://www.bentoml.com/blog/navigating-the-world-of-large-language-models"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho8sy28h1vj20u00wtwka.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sat, 30 Mar 2024 02:19:55 GMT</pubDate>
-</item>
-<item>
-<title>【不确定的确定性：用生成式模型颠覆天气预报】- 由于气象本质上是随机的，传统方法通过物理模拟生成一组预测来定量化不确定性，但这需要大量计算成本。Google提...</title>
-<link>https://weibo.com/1402400261/O7mnVgkA5</link>
-<guid>https://weibo.com/1402400261/O7mnVgkA5</guid>
-<content:encoded><![CDATA[
-<div> 生成式模型、天气预报、SEEDS、生成对抗网络、不确定性、物理模拟、极端天气事件、混合预报系统、数据和机器学习、跨学科融合<br />
-<br />
-总结：<br />
-Google提出的SEEDS生成对抗网络模型可以以更低的成本有效生成大规模天气预报集合，可以匹配甚至超过基于物理的预测集合。SEEDS能更准确地预测尾部分布的可能性，如极端天气事件。该模型充分利用生成式AI的力量，以高效速度生成集合预报，代表了混合预报系统的一种新型应用。SEEDS展示了生成AI在天气预报中的巨大潜力，特别对于预测极端天气事件的概率。这项研究表明，生成式AI和扩散模型是一个前景广阔的方向，可以为传统科学和工程领域带来新的解决方案。基于数据和机器学习的方法在不确定性量化和概率预测方面可能比传统的物理模拟更具优势。跨学科融合将为更多领域提供突破，如AI技术与天气预报的结合。 <div>
-【不确定的确定性：用生成式模型颠覆天气预报】<br />- 由于气象本质上是随机的，传统方法通过物理模拟生成一组预测来定量化不确定性，但这需要大量计算成本。Google提出了一种名为SEEDS的生成对抗网络模型，可以以比传统物理预测模型低得多的成本有效生成大规模的天气预报集合。   <br />- SEEDS基于去噪扩散概率模型，是一种最先进的生成AI技术，只需要一个或两个来自运算天气预测系统的种子预报，就可以生成一个大的集合，而这个集合可以匹配或超过基于物理的集合的技能指标。   <br />- SEEDS生成的集合可以更准确地给出尾部分布的可能性，如±2σ和±3σ的极端天气事件。它可以在很短时间内生成超过10000个集合成员，这对准确定量化极端事件的可能性非常有用。   <br />- SEEDS充分利用了生成式AI的力量，以加速的速度产生了与操作系统可比的集合预报。它代表了一种混合预报系统，只需要很少的物理模拟轨迹就可以激发扩散模型高效生成更多预报。   <br />- SEEDS展示了生成AI在运行数值天气预报方面的巨大应用潜力。它可以加速气象预报的进步，并可扩展到需要大量集合的领域，如对未来气候的不确定性进行风险评估。   <br /><br />思考：<br />- 传统认为天气预报依赖复杂的物理模型和超级计算机，但这项工作表明生成式AI可以在很低的计算成本下取得更好的效果，尤其在预测极端天气事件概率方面。  <br />- 生成式AI和扩散模型是一个非常有前景的方向，可以应用到传统的科学和工程领域，提供新的解决方案  <br />- 在不确定性量化和概率预测方面，基于数据和机器学习的方法可能比传统的物理模拟更有优势  <br />- 跨学科融合将产生更多突破，比如这里就是AI技术与天气预报的结合<br />《Generative AI to quantify uncertainty in weather forecasting – Google Research Blog》 <a href="https://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho8q0mpl24j20u00zt7nf.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8ho8q0nte93j21jj0q5amj.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sat, 30 Mar 2024 00:37:28 GMT</pubDate>
 </item>
 </channel>
 </rss>
