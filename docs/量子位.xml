@@ -4,6 +4,7 @@
 <title>量子位的微博</title>
 <link>https://weibo.com/6105753431/</link>
 
+
 <item>
 <title>#58行代码扩展Llama3到100万上下文#，任何微调版都适用堂堂开源之王Llama 3，原版上下文窗口居然只有……8k，让到嘴边的一句“真香”又咽回去了。在32k起步，100...</title>
 <link>https://weibo.com/6105753431/Od15pnM42</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> 关键词：Llama 3、开源社区、微调版本、上下文窗口、LoRA、1048k、Mergekit、全绿、大海捞针测试、进步速度
 
-总结:<br><br>本文介绍了开源之王Llama 3微调版本的更新，突出了上下文窗口的扩展至1048k的重要性。通过LoRA技术，能够实现自动扩展上下文，并在Mergekit中进行合并运行。1048k上下文微调版本在大海捞针测试中获得了100%准确率，展现了开源社区的快速进步速度。 <div>
+总结:<br /><br />本文介绍了开源之王Llama 3微调版本的更新，突出了上下文窗口的扩展至1048k的重要性。通过LoRA技术，能够实现自动扩展上下文，并在Mergekit中进行合并运行。1048k上下文微调版本在大海捞针测试中获得了100%准确率，展现了开源社区的快速进步速度。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%2358%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%89%A9%E5%B1%95Llama3%E5%88%B0100%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87%23&amp;extparam=%2358%E8%A1%8C%E4%BB%A3%E7%A0%81%E6%89%A9%E5%B1%95Llama3%E5%88%B0100%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87%23"><span class="surl-text">#58行代码扩展Llama3到100万上下文#</span></a>，任何微调版都适用<br /><br />堂堂开源之王Llama 3，原版上下文窗口居然只有……<br /><br />8k，让到嘴边的一句“真香”又咽回去了。在32k起步，100k寻常的今天，这是故意要给开源社区留做贡献的空间吗？<br /><br />开源社区当然不会放过这个机会：现在只需58行代码，任何Llama 3 70b的微调版本都能自动扩展到1048k（一百万）上下文。<br /><br />背后是一个LoRA，从扩展好上下文的Llama 3 70B Instruct微调版本中提取出来，文件只有800mb。接下来使用Mergekit，就可以与其他同架构模型一起运行或直接合并到模型中。<br /><br />所使用的1048k上下文微调版本，刚刚在流行的大海捞针测试中达到全绿（100%准确率）的成绩。<br /><br />不得不说，开源的进步速度是指数级的。<br /><br /><a href="https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247727774&amp;idx=4&amp;sn=02bfe9f19fbbadec47e4d8c934430ee7&amp;chksm=e8dfcdecdfa844fa767c29d0ad5ccd86848cac66f5fe4e5c80ab35d2250340d5f93a3b8fd143&amp;token=1191791253&amp;lang=zh_CN#rd"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">58行代码把Llama 3扩展到100万上下文，任何微调版都适用</span></a><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hpfpyur1nfj30u00e878y.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hpfpzliy4cj30pe0bgjve.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hpfpzsduahj30ti0pu42p.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 05:26:00 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 05:26:00 GMT</pubDate>
 </item>
 <item>
@@ -24,10 +24,9 @@
 <content:encoded><![CDATA[
 <div> 马斯克、通义App、全民演唱、火爆、生成时间、文艺复兴、野狼Disco、表情包、梗、EMO
 
-总结:<br><br>文章介绍了通义App推出的全民演唱功能，用户只需上传一张人物正面大头照便可生成个性化的小视频。该功能推出不到一周就受到了极大的关注，热度持续不减，生成时间快且排队火爆。用户喜欢唱歌和玩梗，尤其喜欢让路人马轮番演唱《野狼Disco》，还可以将朋友加入表情包念台词。马斯克甚至为这款应用搞EMO了，这展示了人们对于个性化内容的热情和对于创意应用的喜爱。 <div>
+总结:<br /><br />文章介绍了通义App推出的全民演唱功能，用户只需上传一张人物正面大头照便可生成个性化的小视频。该功能推出不到一周就受到了极大的关注，热度持续不减，生成时间快且排队火爆。用户喜欢唱歌和玩梗，尤其喜欢让路人马轮番演唱《野狼Disco》，还可以将朋友加入表情包念台词。马斯克甚至为这款应用搞EMO了，这展示了人们对于个性化内容的热情和对于创意应用的喜爱。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%AC%9B%E5%AC%9B%E6%9C%95emo%E5%95%A6%E4%BD%86%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%88%23&amp;extparam=%23%E5%AC%9B%E5%AC%9B%E6%9C%95emo%E5%95%A6%E4%BD%86%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%88%23"><span class="surl-text">#嬛嬛朕emo啦但马斯克版#</span></a> <br /><br />等了7分多钟，刚从北京闪现闪离的马斯克，他终于夸我是个人才。<br /><br />好了，别骂诈骗，我全都招！<br /><br />现在登录通义App（原通义千问），选择全民演唱功能，只需上传任意一张人物正面大头照，你也能玩儿了。<br /><br />这个功能开放不到一周时间，但经量子位观察，还挺火。<br /><br />热度一直没掉下去，关键是生成时间也跟热度一起高居不下，顺利的话几分钟生成的小视频，挤的时候排队能排出好几个小时开外，亏得是阿里云服务器没被挤爆（不是）。<br /><br />从国内外的网友分享反馈来看，大家还挺喜欢文艺复兴，最受欢迎的片段是让个路人马轮番演唱《野狼Disco》。<br /><br />除了唱歌，还能把朋友放进（非）著名表情包念台词。<br /><br />玩儿梗的人太多，以至于马斯克都给搞EMO了： <a href="https://video.weibo.com/show?fid=1034:5031019477139503"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">量子位的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006Fd7o3ly1hpfppvrl1mj30e80e8wev.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/4w4BImYnlx08eDHt2vCo010412000vNK0E010.mp4?label=mp4_hd&amp;template=512x512.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714979204&amp;ssig=ZZg7V%2BIrRz&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/khtwI4Fulx08eDHt0tOM010412000i8v0E010.mp4?label=mp4_ld&amp;template=360x360.24.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714979204&amp;ssig=uq18Wq8lFC&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5031019477139503" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 05:06:42 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 05:06:42 GMT</pubDate>
 </item>
 <item>
@@ -37,10 +36,9 @@
 <content:encoded><![CDATA[
 <div> 关键词: AI风口, NFT充值用户, 大动作模型, Rabbit公司, 转型, 批评, 跑路, 承诺, 架构, 团队
 
-总结:<br><br>本文报道了AI风口一夜转型，导致NFT充值用户遭受损失，同时大动作模型也被指套壳。Rabbit公司从原本搞元宇宙转向AI终端，却被扒皮有猫腻。曾推出GAMA项目要求预付NFT的用户感到受骗。CEO被指趁火打劫，留下一堆受害者。Rabbit官方回应表示CEO曾提到GAMA项目，但已在创办Rabbit之前离开，现全心致力于Rabbit并组建强大团队。AI公司转型引发网友热议，有人质疑承诺未兑现，但也有人对产品架构表示喜爱。<tr><tr> <div>
+总结:<br /><br />本文报道了AI风口一夜转型，导致NFT充值用户遭受损失，同时大动作模型也被指套壳。Rabbit公司从原本搞元宇宙转向AI终端，却被扒皮有猫腻。曾推出GAMA项目要求预付NFT的用户感到受骗。CEO被指趁火打劫，留下一堆受害者。Rabbit官方回应表示CEO曾提到GAMA项目，但已在创办Rabbit之前离开，现全心致力于Rabbit并组建强大团队。AI公司转型引发网友热议，有人质疑承诺未兑现，但也有人对产品架构表示喜爱。<tr><tr> <div>
 惨！<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Rabbit%E8%A2%AB%E6%8C%81%E7%BB%AD%E6%89%92%E7%9A%AE%23&amp;extparam=%23Rabbit%E8%A2%AB%E6%8C%81%E7%BB%AD%E6%89%92%E7%9A%AE%23"><span class="surl-text">#Rabbit被持续扒皮#</span></a> AI风口一夜转型，NFT充值用户欲哭无泪，动作大模型也是套壳的<br /><br />一波未平一波又起，不光APP被批评套壳安卓，主推的大动作模型LAM依赖OpenAI接口，现在公司也被扒皮有猫腻——<br /><br />Rabbit公司本来是搞元宇宙的，原地改名转投AI？！<br /><br />这家曾经主打NFT游戏的创业公司，去年转型做AI终端（即R1）。并在转型后疑似“删号跑路”，留下一堆曾为其付费的用户不管。<br /><br />要知道，Rabbit前身推出的GAMA，是一款需要预先付费购买NFT的游戏，其中有的NFT售价高达2000+美元（折合人民币超2万）。<br /><br />再联想到Rabbit同样也需要预先支付费用，于是网友发出灵魂拷问：要是CEO又跑了，Rabbit R1还会有什么价值呢？<br /><br />此消息一出，立刻引发了不少关注。有人一句话精准总结：承诺了很多，但啥也没兑现。<br /><br />但也有网友为Rabbit正名：“LAM（Large Action Model）这个概念真的很酷。”“依旧很喜欢他们的产品架构。”<br /><br />对于此事，Rabbit官方向量子位回应称：<br /><br />Jesse has a long history as an entrepreneur and has been involved in a range of projects over his career, including the GAMA metaverse / NFT project. It’s a project he has talked openly about in the past, and he left it before starting Rabbit. He is fully committed to Rabbit and is building a strong and growing team to serve the company’s growing user base.<br /><br />(吕骋是一位资深企业家，在他职业生涯中参与过一系列项目，其中包括其中包括GAMA元宇宙/NFT项目。这是他过去公开谈论过的一个项目，他在创办Rabbit之前就离开了这个项目。他全身心地投入到Rabbit中，并正在组建一支强大且不断壮大的团队，为公司不断增长的用户群提供服务。）<br /><br />具体来看看，这究竟是怎么一回事。<a href="https://mp.weixin.qq.com/s/XxwcKbgVp5To8z3DZoy4Lw"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">惨！Rabbit R1被持续扒皮：AI风口一夜转型，NFT充值用户欲哭无泪，动作大模型也是套壳的</span></a><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hpfpjeu7gzj30kq0cojx2.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hpfpjs24cbj30lo0qcq97.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hpfpjs56lrj30qc0fpdl3.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hpfpjs2ncwj30ls08u0v4.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 05:00:48 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 05:00:48 GMT</pubDate>
 </item>
 <item>
@@ -50,7 +48,7 @@
 <content:encoded><![CDATA[
 <div> HeyGen, Instant Highlights 1.0, 视频剪辑, 自动切割, 亮点片段, 多语言支持, 横宽比, 工具地址
 
-<br><br>
+<br /><br />
 要点输出：
 1. HeyGen推出了新功能Instant Highlights 1.0，可以自动剪辑视频。
 2. Instant Highlights 1.0能够将视频自动切割成多个亮点小片段。
@@ -58,11 +56,10 @@
 4. 工具支持上传视频或粘贴URL地址进行视频剪辑。
 5. HeyGen的新功能让视频剪辑变得更加简单和快捷。 
 
-<br><br>
+<br /><br />
 总结:HeyGen推出了新功能Instant Highlights 1.0，用户可以利用这个工具自动剪切视频成多个亮点片段，还能够更换语言和横宽比。用户只需上传视频或粘贴URL地址，即可使用这一工具快速剪辑视频，让视频剪辑变得更加简单和便捷。 <div>
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%89%B9%E9%87%8F%E5%88%B6%E4%BD%9C%E7%9F%AD%E8%A7%86%E9%A2%91AI%E7%A5%9E%E5%99%A8%23&amp;extparam=%23%E6%89%B9%E9%87%8F%E5%88%B6%E4%BD%9C%E7%9F%AD%E8%A7%86%E9%A2%91AI%E7%A5%9E%E5%99%A8%23"><span class="surl-text">#批量制作短视频AI神器#</span></a>  <br /><br />现在，只需上传视频或粘贴URL地址，AI就能自动剪视频了~<br /><br />HeyGen推出的新功能 Instant Highlights 1.0 可以将视频自动切割成多个亮点小片段。<br /><br />而且支持更换这些片段的语言、横宽比等。<br /><br />工具地址：<a href="https://www.heygen.com/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax4.sinaimg.cn/orj480/006Fd7o3ly1hpfoh1w8evj30zk0k0wg8.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/oePC0qsLlx08eDExtcY8010412009MNZ0E010.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714979204&amp;ssig=a74OGUu8vk&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/ZsBBLH1Plx08eDEwNcBq010412004XVA0E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714979204&amp;ssig=%2FDnW%2F6WFrw&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/fegiet65lx08eDEvJBzW010412003b860E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714979204&amp;ssig=QsOkEOgTPK&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5031004797337656" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 04:24:04 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 04:24:04 GMT</pubDate>
 </item>
 <item>
@@ -70,10 +67,8 @@
 <link>https://weibo.com/6105753431/Od0sG8dZU</link>
 <guid>https://weibo.com/6105753431/Od0sG8dZU</guid>
 <content:encoded><![CDATA[
-
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Adobe%E6%8E%A8%E5%87%BA3D%E6%96%B0%E5%B7%A5%E5%85%B7%23&amp;extparam=%23Adobe%E6%8E%A8%E5%87%BA3D%E6%96%B0%E5%B7%A5%E5%85%B7%23"><span class="surl-text">#Adobe推出3D新工具#</span></a> <br /><br />2D秒变3D，Adobe宣布推出新工具<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23Project+Neo%23&amp;extparam=%23Project+Neo%23"><span class="surl-text">#Project Neo#</span></a>。<br /><br />它能用于快速创建3D图标、插画等。<br /><br />而且支持一键导出高质量 SVG 以及高像素图像。<br /><br />在线体验：<a href="https://projectneo.adobe.com/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://video.weibo.com/show?fid=1034:5030998015148117"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">量子位的微博视频</span></a> <br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax2.sinaimg.cn/orj480/006Fd7o3ly1hpfn9fbvqsj30zm0k0dhl.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/M1nvkFhqlx08eDCeUL3a01041200c3SO0E010.mp4?label=mp4_720p&amp;template=1282x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714979204&amp;ssig=eR%2BzNeOMHS&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/IhdyYJ7ilx08eDCerjeg010412005TLK0E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714979204&amp;ssig=4iPXIZDTXY&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/IwdYOPVUlx08eDCe8adq010412003Kx50E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714979204&amp;ssig=UocsHDZhgM&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5030998015148117" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 03:50:35 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 03:50:35 GMT</pubDate>
 </item>
 <item>
@@ -81,10 +76,8 @@
 <link>https://weibo.com/6105753431/Od0mdkfNl</link>
 <guid>https://weibo.com/6105753431/Od0mdkfNl</guid>
 <content:encoded><![CDATA[
-
 转发<br /><blockquote> - 转发 <a href="https://weibo.com/1727858283" target="_blank">@宝玉xp</a>: Sora 正在研发一种技术，可以在视频中只更改一个元素（目前仍在研究阶段，未对外公开）。<br /><br />从演示视频看，可以更换视频中的人物，但是每次一些细节都不一样，比如街道的水渍、墙上的涂鸦都不一样。<br /><br />视频来源：<a href="https://twitter.com/shaunralston/status/1787183153633009926"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://video.weibo.com/show?fid=1034:5030974740955145"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">宝玉xp的微博视频</span></a> </blockquote><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax4.sinaimg.cn/orj480/66fd066bly1hpfklysw8mj20ry0g075m.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/5qXoaDDslx08eDvkXlXq01041200ehn00E010.mp4?label=mp4_720p&amp;template=1006x576.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714979204&amp;ssig=U%2FHYJ%2Fx0O1&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/N7h6ha2dlx08eDvl0V5601041200aUKv0E010.mp4?label=mp4_hd&amp;template=836x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714979204&amp;ssig=luntMlhI1k&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/rgx1S08blx08eDvkvgh20104120077M50E010.mp4?label=mp4_ld&amp;template=628x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714979204&amp;ssig=YTnCmg7861&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5030974740955145" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 03:34:39 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 03:34:39 GMT</pubDate>
 </item>
 <item>
@@ -92,10 +85,8 @@
 <link>https://weibo.com/6105753431/Od0g1bVI9</link>
 <guid>https://weibo.com/6105753431/Od0g1bVI9</guid>
 <content:encoded><![CDATA[
-
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BE%AE%E8%BD%AFCTO%E6%97%A9%E6%9C%9F%E5%86%85%E9%83%A8%E9%82%AE%E4%BB%B6%E5%A4%A7%E5%85%AC%E5%BC%80%23&amp;extparam=%23%E5%BE%AE%E8%BD%AFCTO%E6%97%A9%E6%9C%9F%E5%86%85%E9%83%A8%E9%82%AE%E4%BB%B6%E5%A4%A7%E5%85%AC%E5%BC%80%23"><span class="surl-text">#微软CTO早期内部邮件大公开#</span></a> 对OpenAI的思考<br /><br />在一封2019年的内部邮件中，微软CTO透露了对 OpenAI 的相关思考。<br /><br />邮件主要内容如下：<br /><br />1.他在当时就对OpenAI、DeepMind和Google Brain的雄心和他们推动技术发展的方式表示出担忧。<br /><br />2.他曾对这些组织的玩法持怀疑态度，但后来意识到他们在NLP模型方面的成就，开始严肃对待。<br /><br />3.微软的核心深度学习团队小，在机器学习规模上落后竞争对手多年。<br /><br />4.微软在复制谷歌的 BERT-large 模型时遇到了困难，基础设施不足以支持模型训练，耗费了约6个月时间。<br /><br />5.微软注意到Google产品在问答竞争指标和Gmail自动完成功能上的显著提升，这些都是因为类似BERT的模型。<br /><br />……<br /><br />PS：打不过就加入，难怪后来直接投资OpenAI了<span class="url-icon"><img alt="[doge]" src="https://h5.sinaimg.cn/m/emoticon/icon/others/d_doge-be7f768d78.png" style="width: 1em; height: 1em;" /></span>~<img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hpfmm32zj6j30n50dw46f.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hpfmkj9n0lj30xa0tctl6.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hpfmkonwmej30pa0wiaki.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hpfmkomhmrj30pa0wigux.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hpfmkolwx7j30pa0witd8.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/006Fd7o3ly1hpfmkolkqqj30pa0wiad3.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 03:19:23 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 03:19:23 GMT</pubDate>
 </item>
 <item>
@@ -103,10 +94,8 @@
 <link>https://weibo.com/6105753431/Od01VCPc9</link>
 <guid>https://weibo.com/6105753431/Od01VCPc9</guid>
 <content:encoded><![CDATA[
-
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%80%9A%E8%BF%87%E6%A8%A1%E4%BB%BF%E5%84%BF%E7%AB%A5%E6%9E%84%E5%BB%BAAI%E6%A8%A1%E5%9E%8B%23&amp;extparam=%23%E9%80%9A%E8%BF%87%E6%A8%A1%E4%BB%BF%E5%84%BF%E7%AB%A5%E6%9E%84%E5%BB%BAAI%E6%A8%A1%E5%9E%8B%23"><span class="surl-text">#通过模仿儿童构建AI模型#</span></a> <br /><br />在过去的11个月里，纽约大学心理学家 Lake 和他的妻子每周都会花 1h 给女儿安装摄像头，并在她玩耍时从她的角度记录事物。<br /><br />他的目标是使用与儿童接触的相同感官输入来训练语言模型。<br /><br />至今年2月，他和合作者使用十多年前的一些视频素材，创建了有史以来第一个以儿童经历为基础的人工智能模型。<br /><br />该模型发表在《科学》杂志上，基于60小时的镜头，能够将不同的时刻与文字相匹配。<br /><br />例如，输入“沙子”，模型会回想起 11 年前男孩和母亲一起去海滩的视频。<br /><br /> Lake 表示——<br /><br />如果AI模型能够仅基于单个儿童所见的数据进行训练，并在大量任务上表现良好，那将是一个巨大的科学成就。<img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hpfll9wqy4j31kw11xqv5.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/006Fd7o3ly1hpfll9uz62j31kw11x7wh.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 02:44:41 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 02:44:41 GMT</pubDate>
 </item>
 <item>
@@ -114,10 +103,8 @@
 <link>https://weibo.com/6105753431/OcZEDfYRm</link>
 <guid>https://weibo.com/6105753431/OcZEDfYRm</guid>
 <content:encoded><![CDATA[
-
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E7%8B%97%E4%B8%80%E9%94%AEget%E7%91%9C%E4%BC%BD%E7%90%83%E8%A1%8C%E8%B5%B0%E6%8A%80%E8%83%BD%23&amp;extparam=%23%E6%9C%BA%E5%99%A8%E7%8B%97%E4%B8%80%E9%94%AEget%E7%91%9C%E4%BC%BD%E7%90%83%E8%A1%8C%E8%B5%B0%E6%8A%80%E8%83%BD%23"><span class="surl-text">#机器狗一键get瑜伽球行走技能#</span></a>  <br /><br />难度大升级！如何让机器狗快速学会在瑜伽球上稳步行走？<br /><br />来自英伟达和宾夕法尼亚大学的研究人员最新推出了<a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23DrEureka%23&amp;extparam=%23DrEureka%23"><span class="surl-text">#DrEureka#</span></a>。<br /><br />它利用 LLMs 自动化将机器人仿真环境训练结果转移到真实世界。<br /><br />具体来说，团队首先在虚拟仿真环境中进行模拟训练，然后利用 DrEureka 将模拟环境训练结果直接转移到现实世界中。<br /><br />而且据称中间没有经过任何其他操作和调整，完全让机器狗实现了自动 get 新技能。<br /><br />目前该项目已完全开源~<br /><br />GitHub:<a href="https://github.com/eureka-research/DrEureka"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://video.weibo.com/show?fid=1034:5030963974176799"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_video_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">量子位的微博视频</span></a><br clear="both" /><div style="clear: both;"></div><video controls="controls" poster="https://tvax4.sinaimg.cn/orj480/006Fd7o3ly1hpfjcp0oyvj30zk0k0gnh.jpg" style="width: 100%;"><source src="https://f.video.weibocdn.com/o0/VXeOYxP2lx08eDtLU00g01041200oVwn0E010.mp4?label=mp4_720p&amp;template=1280x720.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714979204&amp;ssig=8rQEI9Id5s&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/MQyHH1Mqlx08eDtKv3Ek01041200f9KX0E010.mp4?label=mp4_hd&amp;template=852x480.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714979204&amp;ssig=DogfcXePBm&amp;KID=unistore,video" /><source src="https://f.video.weibocdn.com/o0/u0S2FYb4lx08eDtKv7yg010412009CZt0E010.mp4?label=mp4_ld&amp;template=640x360.25.0&amp;ori=0&amp;ps=1CwnkDw1GXwCQx&amp;Expires=1714979204&amp;ssig=7gzU5SMoqE&amp;KID=unistore,video" /><p>视频无法显示，请前往<a href="https://video.weibo.com/show?fid=1034%3A5030963974176799" rel="noopener noreferrer" target="_blank">微博视频</a>观看。</p></video>
 ]]></content:encoded>
-<pubDate>Mon, 06 May 2024 01:47:17 GMT</pubDate>
 <pubDate>Mon, 06 May 2024 01:47:17 GMT</pubDate>
 </item>
 <item>
@@ -125,13 +112,10 @@
 <link>https://weibo.com/6105753431/OcZqZ0Xmi</link>
 <guid>https://weibo.com/6105753431/OcZqZ0Xmi</guid>
 <content:encoded><![CDATA[
-
 <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9B%E5%8E%82%E6%89%93%E5%B7%A5%23&amp;extparam=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9B%E5%8E%82%E6%89%93%E5%B7%A5%23"><span class="surl-text">#特斯拉机器人进厂打工#</span></a> <br /><br />特斯拉第二代 Optimus 人形机器人已经开始进厂了~<br /><br />在官方最新公布的视频中，擎天柱可将电池单体精确插入托盘中，而且还能定期在办公室长时间走动。<br /><br />目前这些机器人正在实际的工作站上每天进行测试并不断改进。<br /><br />另外，据马斯克此前透露，预计在今年底之前，特斯拉的 Optimus 人形机器人将拥有完成“有用的”工厂任务的能力。<br /><br />而且特斯拉计划今年年底前在其自家工厂率先使用该机器人，并将在 2025 年底前将其对外销售。 <a href="https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247727774&amp;idx=3&amp;sn=332eda5df6e6515c43e0d3805812754d&amp;chksm=e8dfcdecdfa844fab69d636868f01dfff946850f92e711846d446ac27ee25f55cdd029997473&amp;token=1062298148&amp;lang=zh_CN#rd"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">特斯拉机器人进厂打工，马斯克：手的自由度今年将达到22个！</span></a><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hpfprfrkcbg30ji0azb2a.gif" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hpfprlx12pg30ji0azb2c.gif" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/006Fd7o3ly1hpfprrbhsqg30ji0azb2c.gif" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/006Fd7o3ly1hpfprmdaoag30jg0ax1ky.gif" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 06 May 2024 01:13:39 GMT</pubDate>
-<pubDate>Mon, 06 May 2024 01:13:39 GMT</pubDate>
 </item>
-
 <item>
 <title>#华尔街抢夺AI人才# 继硅谷之后，华尔街也入局“AI人才争夺大战”。他们的目标非常明确——抢的就是高精尖的AI专家。现在这条“街”上，不论是银行、对冲基金还...</title>
 <link>https://weibo.com/6105753431/OcS6qdcsJ</link>
