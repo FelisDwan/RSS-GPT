@@ -7953,3 +7953,15 @@ Summarized using GPT-3.5-turbo
 Append: [通过开发标准不确定性估计正式证明了不确定性采样与主动学习目标的一致性，在节点分类任务中获得了最先进性能。 - 转发 @爱可可-爱生活:&ensp;[LG]《Uncertainty...](https://weibo.com/1402400261/OcXT3uRmp)
 append_entries: 10
 Finish: 2024-05-06 00:53:43.237591
+------------------------------------------------------
+Started: 2024-05-06 02:26:13.868840
+Existing_entries: 1010
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 259
+Summarized using GPT-3.5-turbo
+Append: [//@爱可可-爱生活：欢迎参与～ - 转发 @爱可可-爱生活:&ensp;#免费##抽奖# 携手@博文视点Broadview 送出3本《大语言模型应用指南》，截至2024.5.9 12:00，*可可...](https://weibo.com/1402400261/OcYX9xQWO)
+Token length: 575
+Summarized using GPT-3.5-turbo
+Append: [【理解大语言模型运维(LLM Ops)】- 近期大语言模型的迅速发展，如OpenAI的ChatGPT，正在深刻影响着AI产品的开发方式和机器学习运维的格局。 - 大语言模型具有巨...](https://weibo.com/1402400261/OcYW2ecew)
+append_entries: 2
+Finish: 2024-05-06 02:26:25.880352
