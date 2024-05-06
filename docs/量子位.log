@@ -5480,3 +5480,21 @@ Existing_entries: 642
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-05-06 08:15:03.145755
+------------------------------------------------------
+Started: 2024-05-06 10:12:07.660402
+Existing_entries: 642
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 267
+Summarized using GPT-3.5-turbo
+Append: [#阿里游戏核心人物云风发文离职# 就在今天，阿里游戏引擎主力开发者云风发文告别~云风最早闻名于业界，是因其《大话西游》、《梦幻西游》、《网易泡泡游戏》等国...](https://weibo.com/6105753431/Od1TMbEMj)
+Token length: 333
+Summarized using GPT-3.5-turbo
+Append: [#上海期智研究院全球招人才# 上海期智研究院诚聘人工智能、信息安全、量子智能及相关方向的海内外顶尖人才（PI科学家与博士后）。上海期智研究院是上海市新型研...](https://weibo.com/6105753431/Od1FHxZFD)
+Token length: 811
+Summarized using GPT-3.5-turbo
+Append: [#爆火RabbitR1持续被扒皮##爆火AI硬件公司前身是搞元宇宙的# 一波未平一波又起，不光APP被批评套壳安卓，主推的大动作模型LAM依赖OpenAI接口，现在公司也被扒皮...](https://weibo.com/6105753431/Od1BIykPf)
+Token length: 316
+Summarized using GPT-3.5-turbo
+Append: [#耐600度高温存储器问世# 有望支持在极端环境下运行AI美国宾夕法尼亚大学科学家研制出一款可在600℃高温下持续工作60小时的存储器。这一耐受温度是目前商用存储...](https://weibo.com/6105753431/Od1AHmvty)
+append_entries: 4
+Finish: 2024-05-06 10:12:34.837816

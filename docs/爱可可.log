@@ -7992,3 +7992,39 @@ Existing_entries: 1003
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-05-06 08:15:04.447239
+------------------------------------------------------
+Started: 2024-05-06 10:12:36.014552
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1763
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《Self-Supervised Speech Quality Estimation and Enhancement Using Only Clean Speech 》(ICLR 2024) GitHub: github.com/JasonSWFu/VQsco...](https://weibo.com/1402400261/Od1jbybrP)
+Token length: 188
+Summarized using GPT-3.5-turbo
+Append: [【FileKitty：简单的文件选择和拼接工具，特别适用于将文本文件合并为单一文件，以便在大型语言模型（LLM）中提供上下文】'FileKitty - GUI for selecting text ...](https://weibo.com/1402400261/Od1hTbUAw)
+Token length: 120
+Summarized using GPT-3.5-turbo
+Append: [【NPI：一个开源平台，为AI Agent提供工具使用API，以在虚拟世界中执行操作】'NPI - Tool use APIs platform for AI Agent' GitHub: github.com/npi-ai/npi #开...](https://weibo.com/1402400261/Od1h8Cdq7)
+Token length: 248
+Summarized using GPT-3.5-turbo
+Append: [【Mu-Transformer：使用 Jax/Flax 实现的 Transformer 模型，支持 Mu-Parameterization，能在 TPU pods 上运行 FSDP】'Mu-Transformer - Transformer with Mu-Pa...](https://weibo.com/1402400261/Od1gFx0iT)
+Token length: 147
+Summarized using GPT-3.5-turbo
+Append: [【Revideo：基于 TypeScript 的开源视频创作工具，允许用户通过代码生成视频】'Revideo - Create Videos with Code - Create Videos with Code' GitHub: github....](https://weibo.com/1402400261/Od1gl28Y4)
+Token length: 202
+Summarized using GPT-3.5-turbo
+Append: [【Harden-Runner：用于GitHub托管和自托管运行器的网络出站过滤和运行时安全工具】'Harden-Runner - Network egress filtering and runtime security for GitHub...](https://weibo.com/1402400261/Od1fObSc2)
+Token length: 261
+Summarized using GPT-3.5-turbo
+Append: [【llmc: 高效的大型语言模型(LLM)压缩工具，支持多种先进的压缩方法和多种推理后端】'llmc: Towards Accurate and Efficient LLM Compression - llmc is an effi...](https://weibo.com/1402400261/Od1exCWpN)
+Token length: 229
+Summarized using GPT-3.5-turbo
+Append: [【RAG-Retrieval：开源的Python库，旨在统一高效微调RAG检索模型，包括嵌入、ColBERT和交叉编码器模型，支持多种排序模型并优化长文档处理】'RAG-Retrieval - Un...](https://weibo.com/1402400261/Od1dVeiyx)
+Token length: 121
+Summarized using GPT-3.5-turbo
+Append: [【kvql：为通用键值数据库设计的类似 SQL 的查询语言】'kvql - A SQL-like query language on general Key-Value DB' GitHub: github.com/c4pt0r/kvql #开源# [...](https://weibo.com/1402400261/Od1duhynw)
+Token length: 173
+Summarized using GPT-3.5-turbo
+Append: [【PDM-Pure: 基于像素空间扩散模型(PDM)的简单高效的图像净化框架，用于去除保护性扰动】'PDM-Pure: Effective Purification in One Simple Python Script - PDM...](https://weibo.com/1402400261/Od1aMcP4d)
+append_entries: 10
+Finish: 2024-05-06 10:13:18.506253
