@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>《爱可可微博热门分享(5.6)》 爱可可微博热门分享(5.6) [图片]</title>
 <link>https://weibo.com/1402400261/Od4qoFf6Z</link>
@@ -11,13 +12,11 @@
 <content:encoded><![CDATA[
 <div> 爱可可 微博 热门 分享 5.6
 
-总结:<br><br>这篇文章总结了5月6日爱可可微博平台上热门的分享内容。其中包括各种热门话题和讨论，让用户可以了解最新的社交趋势和话题热点。通过微博平台，用户可以分享自己的想法和观点，与他人交流互动，拉近彼此的距离。微博成为了人们获取信息、表达情感和交流看法的重要平台。希望未来能够看到更多有意思的内容和互动。 <div>
+总结:<br /><br />这篇文章总结了5月6日爱可可微博平台上热门的分享内容。其中包括各种热门话题和讨论，让用户可以了解最新的社交趋势和话题热点。通过微博平台，用户可以分享自己的想法和观点，与他人交流互动，拉近彼此的距离。微博成为了人们获取信息、表达情感和交流看法的重要平台。希望未来能够看到更多有意思的内容和互动。 <div>
 《爱可可微博热门分享(5.6)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405031152770482254"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(5.6)</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpg50u3znij20rs0fmn1e.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Mon, 06 May 2024 13:55:57 GMT</pubDate>
-<pubDate>Mon, 06 May 2024 13:55:57 GMT</pubDate>
 </item>
-
 <item>
 <title>几篇论文实现代码：《Self-Supervised Speech Quality Estimation and Enhancement Using Only Clean Speech 》(ICLR 2024) GitHub: github.com/JasonSWFu/VQsco...</title>
 <link>https://weibo.com/1402400261/Od1jbybrP</link>
@@ -12871,19 +12870,6 @@ LLM 应用开发实践笔记是一篇关于应用开发实践的经验分享文�
 《LLM 应用开发实践笔记》 <a href="https://aitutor.liduos.com/"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly8ho9zv1onj7j20ki10s76d.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 31 Mar 2024 03:04:27 GMT</pubDate>
-</item>
-<item>
-<title>对 预训练 MoE、upcycled MoE 和 FrankenMoE 三类 MoE 模型的简介。- 预训练 MoE预训练 MoE 旨在利用 MoE 架构从头开始预训练语言模型，以期获得比传统密集模型...</title>
-<link>https://weibo.com/1402400261/O7wxgeqRs</link>
-<guid>https://weibo.com/1402400261/O7wxgeqRs</guid>
-<content:encoded><![CDATA[
-<div> 预训练 MoE、upcycled MoE、FrankenMoE、语言模型、专家、预训练、计算成本、效果、模型合并
-
-<br /><br />总结:
-预训练 MoE 是一种利用 MoE 架构从头开始预训练语言模型的方法，具有训练速度快、推理速度快和专家针对不同概念等优势，代表性模型有 Switch Transformer、Mixtral。upcycled MoE 是在已经训练好的基础模型上创建多个专家形成 MoE 模型，优势在于计算成本低、可灵活控制专家数量，代表性工作有 DeepSeek-MoE、Upstage SOLAR。FrankenMoE 是将在特定任务上表现优异的微调模型组合成 MoE 模型，专家面向特定任务，但缺乏负载均衡优势，表现可能优于通用 MoE 模型，代表性模型为 Beyonder-4x7B-v2。 <div>
-对 预训练 MoE、upcycled MoE 和 FrankenMoE 三类 MoE 模型的简介。<br /><br />- 预训练 MoE<br />预训练 MoE 旨在利用 MoE 架构从头开始预训练语言模型，以期获得比传统密集模型更高效的训练效果。预训练 MoE 的优势在于：<br />1. 训练速度更快。在相同计算预算下，MoE 模型理论上可以比密集模型更快达到相同的性能水平。<br />2. 推理速度更快。尽管 MoE 模型参数量巨大，但实际推理时只会激活部分专家，因此推理速度比拥有相同参数量的密集模型更快。<br />3. 专家可以专门针对不同的浅层概念或词元组，而不是某个特定主题。<br />不过，预训练 MoE 也面临一些挑战，如推理时需要大量内存来加载所有专家参数，以及在下游任务微调时容易过拟合等。代表性的预训练 MoE 模型有 Switch Transformer、Mixtral 等。<br /><br />- upcycled MoE<br />upcycled MoE 的思路是在一个已经训练好的基础模型上，通过复制其前馈网络来创建多个专家，形成一个 MoE 模型。与从头预训练相比，upcycled MoE 的优势在于：<br />1. 基于成熟的预训练模型，继续预训练的计算成本更低。<br />2. 可以使用细粒度的专家，即将前馈网络切割成更小的单元，从而获得数量众多的小型专家。  <br />3. 可以灵活控制要激活的专家数量，在推理速度和效果之间进行权衡。<br />upcycled MoE 的代表性工作包括 DeepSeek-MoE、Upstage SOLAR 等。<br /><br />- FrankenMoE<br />FrankenMoE 的思路与模型合并类似，即选择几个在特定任务上表现优异的微调模型，将它们组合成一个 MoE 模型。通过一定的训练，可以让路由器学会将不同类型的token发送给对应的专家。<br />与预训练 MoE 和再利用 MoE 相比，FrankenMoE 的特点是：<br />1. 专家是面向特定任务的，而不是通用的浅层概念，这一点与预训练 MoE 有本质区别。<br />2. 不再具有 MoE 的某些优势，如负载均衡。因为专家之间的能力差异较大。<br />3. 在特定任务上的表现可能优于通用的 MoE 模型，如 Beyonder-4x7B-v2。<br />但 FrankenMoE 能否广泛应用于不同场景，目前还有待进一步验证。<img src="https://tvax1.sinaimg.cn/large/5396ee05ly1ho9yoziedxj20xc4t8b29.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho9yp0i5o4j20u70i90v8.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1ho9yp1kqcyj20pb0chwfw.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 02:27:57 GMT</pubDate>
 </item>
 </channel>
 </rss>
