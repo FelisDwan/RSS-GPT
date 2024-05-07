@@ -3834,3 +3834,10 @@ Existing_entries: 11
 Fetching from https://rsshub.app/bilibili/user/article/12566101?mode=fulltext
 append_entries: 0
 Finish: 2024-05-07 10:13:39.826018
+------------------------------------------------------
+Started: 2024-05-07 12:20:35.003696
+Existing_entries: 11
+Fetching from https://rsshub.app/bilibili/user/article/12566101?mode=fulltext
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/秋葉aaaki

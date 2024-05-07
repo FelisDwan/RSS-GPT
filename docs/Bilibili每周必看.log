@@ -4207,3 +4207,10 @@ Existing_entries: 393
 Fetching from https://rsshub.app/bilibili/weekly
 append_entries: 0
 Finish: 2024-05-07 10:13:42.118616
+------------------------------------------------------
+Started: 2024-05-07 12:20:35.263893
+Existing_entries: 393
+Fetching from https://rsshub.app/bilibili/weekly
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/Bilibili每周必看

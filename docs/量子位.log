@@ -5625,3 +5625,10 @@ Append: [#AI几年内或将自研新药# 礼来和英伟达的专家预测，AI�
 Append: [#国产开源MoE达GPT4级别能力# 最新国产开源MoE大模型，刚刚亮相就火了。DeepSeek-V2性能达GPT-4级别，但开源、可免费商用、API价格仅为GPT-4-Turbo的百分之一。...](https://weibo.com/6105753431/OdaWZjs9O)
 append_entries: 7
 Finish: 2024-05-07 10:13:29.097691
+------------------------------------------------------
+Started: 2024-05-07 12:20:33.561173
+Existing_entries: 669
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/量子位
