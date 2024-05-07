@@ -8125,3 +8125,9 @@ Summarized using GPT-3.5-turbo
 Append: [【OpenAI 与 Stack Overflow 建立 API 合作伙伴关系】- OpenAI 与 Stack Overflow 建立合作，允许 Stack Overflow 开发者访问 OpenAI 的 AI 模型来提高开发者生...](https://weibo.com/1402400261/Od8eQ23qD)
 append_entries: 4
 Finish: 2024-05-07 02:29:27.398851
+------------------------------------------------------
+Started: 2024-05-07 04:15:09.477184
+Existing_entries: 1004
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-05-07 04:15:12.186013

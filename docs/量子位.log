@@ -5559,3 +5559,22 @@ Existing_entries: 651
 Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 append_entries: 0
 Finish: 2024-05-07 02:29:00.739964
+------------------------------------------------------
+Started: 2024-05-07 04:14:44.836574
+Existing_entries: 651
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Token length: 250
+Summarized using GPT-3.5-turbo
+Append: [#Devin举办黑客马拉松# Devin 举办了首次小型黑客马拉松。这些提前24h获得 Devin 访问权限的团队最终提出了5个亮点项目。（按先后排名）1.d3n：生成一组Devin来...](https://weibo.com/6105753431/Od9qPf53V)
+Token length: 41
+Summarized using GPT-3.5-turbo
+Append: [#联发科发布全新AI芯片##天玑开发者大会#MediaTek天玑开发者大会上，旗舰5G生成式AI芯片天玑9300+隆重发布 深圳·深圳湾1号 [图片][图片][图片]](https://weibo.com/6105753431/Od9gwoTvD)
+Token length: 92
+Summarized using GPT-3.5-turbo
+Append: [#一文了解摩尔第二定律# 摩尔第二定律指出，半导体晶圆厂的成本大约每四年翻一番。在1970年代初期，晶圆厂的建造成本仅为400万美元。如今，现代晶圆厂的成本高达...](https://weibo.com/6105753431/Od9dSFvx5)
+Token length: 243
+Summarized using GPT-3.5-turbo
+Append: [#给Siri升级Llama3# 开源方案X 网友分享了如何在苹果设备轻松召唤Llama3的方法~他利用Apple Shortcuts、Cloudflare Workers 和 llama 3 创建了一个 AI 助手。该...](https://weibo.com/6105753431/Od900fwYe)
+Append: [#微软本月或将推出5000亿新AI模型# 据The Information爆料，微软正在训练一个约有 5000 亿参数或设置的新AI模型。这一规模“远大于”微软此前训练过的任何小型开...](https://weibo.com/6105753431/Od8JE3tLZ)
+append_entries: 5
+Finish: 2024-05-07 04:15:08.280930
