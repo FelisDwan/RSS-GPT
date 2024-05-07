@@ -8107,3 +8107,21 @@ Summarized using GPT-3.5-turbo
 Append: [提出attention offloading方案，用消费级GPU处理attention释放服务器GPU计算资源，实现流水线并行和通信计算重叠，使异构设备组态在Transformer模型推理中发挥协...](https://weibo.com/1402400261/Od7iScc6a)
 append_entries: 10
 Finish: 2024-05-07 00:52:46.287041
+------------------------------------------------------
+Started: 2024-05-07 02:29:01.907744
+Existing_entries: 1010
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 575
+Summarized using GPT-3.5-turbo
+Append: [【AI生成检测与学术诚信】- 作者自己写了一篇关于AI取代工作的文章，没使用任何AI工具。但通过Quillbot的AI检测，文章被判定有42%是AI写的。 - 原作者的老师因此...](https://weibo.com/1402400261/Od8wBzg3k)
+Token length: 526
+Summarized using GPT-3.5-turbo
+Append: [【Hugging Face推出LeRobot开源机器人代码库】- LeRobot是一个开源的机器人工具包，目的是为机器人研究和应用大众化。 - LeRobot提供了一个框架和全面的平台，包...](https://weibo.com/1402400261/Od8h8zchi)
+Token length: 514
+Summarized using GPT-3.5-turbo
+Append: [【微软开发代号“Mai”的新AI模型】 - Mai是微软内部开发的一个大型语言模型，目的是与OpenAI的GPT以及谷歌的LaMDA等模型竞争。 - Mai训练规模超过100亿参数，使...](https://weibo.com/1402400261/Od8gjlrSB)
+Token length: 620
+Summarized using GPT-3.5-turbo
+Append: [【OpenAI 与 Stack Overflow 建立 API 合作伙伴关系】- OpenAI 与 Stack Overflow 建立合作，允许 Stack Overflow 开发者访问 OpenAI 的 AI 模型来提高开发者生...](https://weibo.com/1402400261/Od8eQ23qD)
+append_entries: 4
+Finish: 2024-05-07 02:29:27.398851
