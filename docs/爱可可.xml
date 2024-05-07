@@ -4,6 +4,147 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>今日推介(第1398期)：基于文本质量的语言模型裁剪方法、通过时间稳定反向传播来学习复杂物理学、基于Attention Offloading的高效经济的大语言模型推理、大型语言...</title>
+<link>https://weibo.com/1402400261/Od7IRfKdT</link>
+<guid>https://weibo.com/1402400261/Od7IRfKdT</guid>
+<content:encoded><![CDATA[
+<div> 语言模型、裁剪方法、时间稳定反向传播、复杂物理学、Attention Offloading、大语言模型、评估器、统计泛化
+
+<br><br>总结:
+本文介绍了基于文本质量的语言模型裁剪方法，通过调整模型结构和参数来提高生成文本的质量。同时，提出了通过时间稳定反向传播来学习复杂物理学，实现更高效的模型训练和学习。基于Attention Offloading的高效经济的大语言模型推理，能够在语言模型推理中提升效率和性能。大型语言模型作为评估器存在不一致和有偏差的问题，需要进一步改进。理解LLM需要不仅仅是统计泛化，更需要深入分析模型结构和训练方法。通过这些方法，可以提升大语言模型的性能和应用范围。 <div>
+今日推介(第1398期)：基于文本质量的语言模型裁剪方法、通过时间稳定反向传播来学习复杂物理学、基于Attention Offloading的高效经济的大语言模型推理、大型语言模型是不一致和有偏差的评估器、理解LLM需要的不仅仅是统计泛化 公·众·号：爱可可爱生活 <a href="http://aicoco.net/s/8z"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpgjkqn4d9j21ie0u0430.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpgjkt1c86j21b20l444p.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpgjkvijf6j20ow0r6tan.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpgjkywqphj20s40v0gol.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpgjl1lnl0j22120u0qbl.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 06 May 2024 22:19:40 GMT</pubDate>
+<pubDate>Mon, 06 May 2024 22:19:40 GMT</pubDate>
+</item>
+<item>
+<title>[LG] Automatic Programming: Large Language Models and Beyond 网页链接 通过回顾自动编程的发展脉络，讨论了当代与未来自动编程面临的挑战，以及如何通过程序...</title>
+<link>https://weibo.com/1402400261/Od7CFp1I8</link>
+<guid>https://weibo.com/1402400261/Od7CFp1I8</guid>
+<content:encoded><![CDATA[
+<div> 自动编程,大型语言模型,挑战,程序分析,验证,人机合作,可信度提升
+
+<br><br>总结:
+本文回顾了自动编程的发展历程，并探讨了当今以及未来自动编程所面临的挑战。为了提高自动生成代码的可信度，可以通过程序分析、验证、以及人机合作等手段来加以改善。需要更深入研究和探讨，以应对自动生成代码领域的挑战。 <div>
+[LG] Automatic Programming: Large Language Models and Beyond  <br /><a href="https://arxiv.org/abs/2405.02213"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>       <br />通过回顾自动编程的发展脉络，讨论了当代与未来自动编程面临的挑战，以及如何通过程序分析、验证和人机合作等手段提升自动生成代码的可信度。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpgj55zhn7j20xg1784el.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpgj56i914j20wg0jemyw.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpgj56mycsj20uy0qqtbo.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 06 May 2024 22:04:25 GMT</pubDate>
+<pubDate>Mon, 06 May 2024 22:04:25 GMT</pubDate>
+</item>
+<item>
+<title>[CL] TOPICAL: TOPIC Pages AutomagicaLly 网页链接 通过检索相关文献、语义聚类采样输入、提示GPT-4逐段生成的方式，实现了可按需自动化生成准确连贯、内嵌引文...</title>
+<link>https://weibo.com/1402400261/Od7zM1amd</link>
+<guid>https://weibo.com/1402400261/Od7zM1amd</guid>
+<content:encoded><![CDATA[
+<div> 生物医学、自动化生成、概念主题页面、文献检索、语义聚类、GPT-4、高质量、连贯、引文支撑<br>
+<br>
+提供了一种使用文献检索、语义聚类和GPT-4等技术的方法，能够自动化生成生物医学概念主题页面。这种自动化生成的页面准确、连贯，并且内嵌引用支持，具有高质量的特点。这一方法能够根据用户需求实现按需生成主题页面，为生物医学领域的研究提供了方便和高效性。<br><br>总结: <div>
+[CL] TOPICAL: TOPIC Pages AutomagicaLly  <br /><a href="https://arxiv.org/abs/2405.01796"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />通过检索相关文献、语义聚类采样输入、提示GPT-4逐段生成的方式，实现了可按需自动化生成准确连贯、内嵌引文支撑的高质量生物医学概念主题页面。 <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpgixlw1pij20rw16e17t.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpgixm4loqj20rg0sw44m.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpgixm9a8dj20l61ccguf.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 06 May 2024 21:57:17 GMT</pubDate>
+<pubDate>Mon, 06 May 2024 21:57:17 GMT</pubDate>
+</item>
+<item>
+<title>[CL] Aloe: A Family of Fine-tuned Open Healthcare LLMs 网页链接 提出开源的Aloe医疗语言模型系列，通过模型合并、伦理对齐和高级推理方案实现了该模型规模下...</title>
+<link>https://weibo.com/1402400261/Od7wQA5sJ</link>
+<guid>https://weibo.com/1402400261/Od7wQA5sJ</guid>
+<content:encoded><![CDATA[
+<div> 开源、Aloe医疗语言模型、模型合并、伦理对齐、高级推理、评估、安全性、可靠性
+
+<br><br>总结:
+Aloe医疗语言模型系列提出了开源模型，通过模型合并、伦理对齐和高级推理方案实现了最佳表现。同时，对模型进行全面评估，确保其安全性和可靠性。 <div>
+[CL] Aloe: A Family of Fine-tuned Open Healthcare LLMs  <br /><a href="https://arxiv.org/abs/2405.01886"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>      <br />提出开源的Aloe医疗语言模型系列，通过模型合并、伦理对齐和高级推理方案实现了该模型规模下的最佳表现，并进行了全面评估以确保其安全性和可靠性。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpgiq8vm6pj20z816kh4f.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpgiq9al16j20ss08275p.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpgiq9phlij20t40bswfz.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 06 May 2024 21:50:05 GMT</pubDate>
+<pubDate>Mon, 06 May 2024 21:50:05 GMT</pubDate>
+</item>
+<item>
+<title>[CV] DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos 网页链接 DreamScene4D利用分解-重组策略及运动分解，是首个可从复杂多对象...</title>
+<link>https://weibo.com/1402400261/Od7sBD0qW</link>
+<guid>https://weibo.com/1402400261/Od7sBD0qW</guid>
+<content:encoded><![CDATA[
+<div> 关键词: DreamScene4D, 动态场景生成, 多对象视频, 分解-重组策略, 运动分解
+
+DreamScene4D利用分解-重组策略和运动分解技术，是首个能够从复杂多对象视频中生成4D动态场景表示的方法。通过将视频分解为不同对象的运动信息，再将这些信息重新组合，从而实现对视频中多个对象的场景生成。该方法为多对象场景生成提供了新的解决途径，为深度学习和计算机视觉领域带来了新的启发。DreamScene4D的提出为实现视频场景生成的进步和发展做出了重要贡献。<br><br>总结: <br>DreamScene4D利用分解-重组策略和运动分解技术，是首个能够从复杂多对象视频中生成4D动态场景表示的方法。通过将视频分解为不同对象的运动信息，再将这些信息重新组合，从而实现对视频中多个对象的场景生成。该方法为多对象场景生成提供了新的解决途径，为深度学习和计算机视觉领域带来了新的启发。DreamScene4D的提出为实现视频场景生成的进步和发展做出了重要贡献。 <div>
+[CV] DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos  <br /><a href="https://arxiv.org/abs/2405.02280"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>     <br />DreamScene4D利用分解-重组策略及运动分解，是首个可从复杂多对象视频生成4D动态场景表示的方法。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpgifdaxa7j20py144wql.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpgifdk4d3j21bm0y0tj1.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpgife7oa0j21c80pk7di.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 06 May 2024 21:39:38 GMT</pubDate>
+<pubDate>Mon, 06 May 2024 21:39:38 GMT</pubDate>
+</item>
+<item>
+<title>通过自回归语言模型的不可识别性(non-identifiable)，指出需要超越统计泛化的视角，在LLM饱和状态下研究归纳偏差，以解释零样本推理等能力的出现。 - 转发 @爱可...</title>
+<link>https://weibo.com/1402400261/Od7pc1CEN</link>
+<guid>https://weibo.com/1402400261/Od7pc1CEN</guid>
+<content:encoded><![CDATA[
+<div> Max Planck Institute for Intelligent Systems, University of Cambridge, 自回归语言模型, 不可识别性, 统计泛化, LLM 饱和状态, 归纳偏差, 零样本推理能力
+
+<br><br>总结:
+研究指出，理解自回归语言模型(LLMs)需要超越统计泛化的视角，特别是在LLM达到饱和状态时，需要研究归纳偏差。文章探讨了LLMs的不可识别性，强调了在解释零样本推理能力方面的重要性。通过引入Max Planck Institute for Intelligent Systems和University of Cambridge的研究，对LLMs的复杂性进行了深入分析，指出了需要在LLMs研究中考虑更多因素的必要性。因此，要全面理解LLMs的特性，需要从不同角度去探究其内在机制，以解释其出现零样本推理等能力。 <div>
+通过自回归语言模型的不可识别性(non-identifiable)，指出需要超越统计泛化的视角，在LLM饱和状态下研究归纳偏差，以解释零样本推理等能力的出现。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Understanding LLMs Requires More Than Statistical Generalization》P Reizinger, S Ujváry, A Mészáros, A Kerekes... [Max Planck Institute for<br />Intelligent Systems &amp; University of Cambridge] (2024) <a href="https://arxiv.org/abs/2405.01964"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpgi6dvg2qj20p611mgvh.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpgi6egd6mj21mq0o4thg.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpgi6ewnwnj20tc0tkjxz.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpgi6fi3pcj20tg0ikdih.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpgi6ir85vj20j00de75m.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpgi6irgu7j20j00f43zy.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 06 May 2024 21:31:13 GMT</pubDate>
+<pubDate>Mon, 06 May 2024 21:31:13 GMT</pubDate>
+</item>
+<item>
+<title>[LG]《Understanding LLMs Requires More Than Statistical Generalization》P Reizinger, S Ujváry, A Mészáros, A Kerekes... [Max Planck Institute forIn...</title>
+<link>https://weibo.com/1402400261/Od7p98HOI</link>
+<guid>https://weibo.com/1402400261/Od7p98HOI</guid>
+<content:encoded><![CDATA[
+<div> 统计泛化，LLL理解，挑战，Max Planck Institute，University of Cambridge，LLM研究，需要更多，细节，综合分析，深入调查
+
+<br><br>总结:
+本文讨论了对LLLs的理解需要更多的内容，而不仅仅是从统计角度进行泛化。作者来自Max Planck Institute和剑桥大学，强调了对LLL研究的挑战，指出需要深入细节和综合分析。他们认为只有通过深入调查才能充分理解LLLs，统计泛化不是唯一的方法。 <div>
+[LG]《Understanding LLMs Requires More Than Statistical Generalization》P Reizinger, S Ujváry, A Mészáros, A Kerekes... [Max Planck Institute for<br />Intelligent Systems &amp; University of Cambridge] (2024) <a href="https://arxiv.org/abs/2405.01964"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpgi6dvg2qj20p611mgvh.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpgi6egd6mj21mq0o4thg.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpgi6ewnwnj20tc0tkjxz.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpgi6fi3pcj20tg0ikdih.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpgi6ir85vj20j00de75m.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpgi6irgu7j20j00f43zy.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 06 May 2024 21:31:06 GMT</pubDate>
+<pubDate>Mon, 06 May 2024 21:31:06 GMT</pubDate>
+</item>
+<item>
+<title>大型语言模型评估器存在熟悉度偏差、评分偏差、锚定效应等问题，一致性也较差，需要注意并纠正这些局限性，以提高其在自然语言处理任务中作为自动评估工具的可靠...</title>
+<link>https://weibo.com/1402400261/Od7jt1OA7</link>
+<guid>https://weibo.com/1402400261/Od7jt1OA7</guid>
+<content:encoded><![CDATA[
+<div> 评估器、熟悉度偏差、评分偏差、锚定效应、一致性、局限性、自然语言处理、自动评估工具、可靠性
+
+<br><br>总结:
+这篇文章讨论了大型语言模型评估器存在的问题，包括熟悉度偏差、评分偏差、锚定效应等，指出它们的一致性较差。作者强调了需要注意并纠正这些局限性，以提高大型语言模型在自然语言处理任务中作为自动评估工具的可靠性。文章对这些问题进行了深入分析，为语言模型评估器的使用提供了重要参考。 <div>
+大型语言模型评估器存在熟悉度偏差、评分偏差、锚定效应等问题，一致性也较差，需要注意并纠正这些局限性，以提高其在自然语言处理任务中作为自动评估工具的可靠性。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [CL]《Large Language Models are Inconsistent and Biased Evaluators》R Stureborg, D Alikaniotis, Y Suhara [Grammarly &amp; NVIDIA] (2024) <a href="https://arxiv.org/abs/2405.01724"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpghr129ghj20o8130qci.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpghr1rewnj20s40v0gph.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpghr22qlzj20s40v0gph.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpghr2aj2bj20rq0vo0xq.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpghrlxdmpj20hs0lz76n.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpghrlxaxmj20hs0kagnc.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpghrlxttsj20hr0iwabn.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpghrlzp1jj20zx14o45h.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpghrlxp43j20zt0g375y.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 06 May 2024 21:17:07 GMT</pubDate>
+<pubDate>Mon, 06 May 2024 21:17:07 GMT</pubDate>
+</item>
+<item>
+<title>[CL]《Large Language Models are Inconsistent and Biased Evaluators》R Stureborg, D Alikaniotis, Y Suhara [Grammarly &amp; NVIDIA] (2024) 网页链接 #机器学...</title>
+<link>https://weibo.com/1402400261/Od7jkgt8D</link>
+<guid>https://weibo.com/1402400261/Od7jkgt8D</guid>
+<content:encoded><![CDATA[
+<div> Language Models, Inconsistent, Biased Evaluators, Large, Grammarly, NVIDIA
+
+<br><br>
+本文研究了大型语言模型的一致性和偏见评估问题。研究人员发现，这些语言模型存在不一致性和偏见，可能会影响它们的评估结果。通过使用Grammarly和NVIDIA的数据，研究人员对此进行了实证研究。他们发现，这些大型语言模型在评估中表现出明显的不一致性和偏见，这对它们的可靠性和可信度构成了挑战。研究结果提示我们需要更深入地研究和解决大型语言模型的不足之处，以提高它们的质量和准确性。
+
+<br><br>
+总结: 本文研究了大型语言模型的评估问题，发现存在一致性和偏见方面的挑战，强调了对这些问题进行更深入研究和解决的重要性。 <div>
+[CL]《Large Language Models are Inconsistent and Biased Evaluators》R Stureborg, D Alikaniotis, Y Suhara [Grammarly &amp; NVIDIA] (2024) <a href="https://arxiv.org/abs/2405.01724"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpghr129ghj20o8130qci.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpghr1rewnj20s40v0gph.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpghr22qlzj20s40v0gph.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpghr2aj2bj20rq0vo0xq.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpghrlxdmpj20hs0lz76n.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpghrlxaxmj20hs0kagnc.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpghrlxttsj20hr0iwabn.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpghrlzp1jj20zx14o45h.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpghrlxp43j20zt0g375y.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpghrly4iij20xi0ldac2.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpghrly2q9j20zt0h3tb4.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Mon, 06 May 2024 21:16:46 GMT</pubDate>
+<pubDate>Mon, 06 May 2024 21:16:46 GMT</pubDate>
+</item>
+<item>
+<title>提出attention offloading方案，用消费级GPU处理attention释放服务器GPU计算资源，实现流水线并行和通信计算重叠，使异构设备组态在Transformer模型推理中发挥协...</title>
+<link>https://weibo.com/1402400261/Od7iScc6a</link>
+<guid>https://weibo.com/1402400261/Od7iScc6a</guid>
+<content:encoded><![CDATA[
+<div> 大语言模型，关注分流，经济有效，消费级GPU，流水线并行，通信计算重叠，异构设备协同，Transformer模型，GPU计算资源释放，Tsinghua University
+
+<br><br>总结:
+该研究提出了一种attention offloading方案，利用消费级GPU处理attention，从而释放服务器GPU计算资源，实现流水线并行和通信计算重叠，使异构设备组态在Transformer模型推理中发挥协同效应，从而大幅提升经济效率。通过这种方式，可以更高效地实现大型语言模型的推理过程，提高计算资源的利用率，同时降低成本，这对于大规模语言模型的应用具有重要意义。该方案由清华大学的S Chen, Y Lin, M Zhang, Y Wu提出。 <div>
+提出attention offloading方案，用消费级GPU处理attention释放服务器GPU计算资源，实现流水线并行和通信计算重叠，使异构设备组态在Transformer模型推理中发挥协同效应，大幅提升经济效率。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Efficient and Economic Large Language Model Inference with Attention Offloading》S Chen, Y Lin, M Zhang, Y Wu [Tsinghua University] (2024) <a href="https://arxiv.org/abs/2405.01814"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpghp89on8j20ts142k4b.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpghp8tmv2j20ow0r6tba.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpghp8zxjyj20uc0la769.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpghp93pgej20uc0la769.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpghpxb1dqj20jb0b90t9.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpghpxb80hj20jc0cfgm9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpghpxbdjvj20jc0dn3z6.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hpghpxc68bj213p0gb76x.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpghpxb8a6j20il08umxk.jpg" /><br /><br /></blockquote>
+]]></content:encoded>
+<pubDate>Mon, 06 May 2024 21:15:38 GMT</pubDate>
+<pubDate>Mon, 06 May 2024 21:15:38 GMT</pubDate>
+</item>
 
 <item>
 <title>《爱可可微博热门分享(5.6)》 爱可可微博热门分享(5.6) [图片]</title>

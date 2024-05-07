@@ -8071,3 +8071,39 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Filter: [晚安～ [月亮] #晚安# [图片]](https://weibo.com/1402400261/Od4sS4gk2)
 append_entries: 0
 Finish: 2024-05-06 22:11:35.646719
+------------------------------------------------------
+Started: 2024-05-07 00:51:57.244312
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [今日推介(第1398期)：基于文本质量的语言模型裁剪方法、通过时间稳定反向传播来学习复杂物理学、基于Attention Offloading的高效经济的大语言模型推理、大型语言...](https://weibo.com/1402400261/Od7IRfKdT)
+Token length: 130
+Summarized using GPT-3.5-turbo
+Append: [[LG] Automatic Programming: Large Language Models and Beyond 网页链接 通过回顾自动编程的发展脉络，讨论了当代与未来自动编程面临的挑战，以及如何通过程序...](https://weibo.com/1402400261/Od7CFp1I8)
+Token length: 113
+Summarized using GPT-3.5-turbo
+Append: [[CL] TOPICAL: TOPIC Pages AutomagicaLly 网页链接 通过检索相关文献、语义聚类采样输入、提示GPT-4逐段生成的方式，实现了可按需自动化生成准确连贯、内嵌引文...](https://weibo.com/1402400261/Od7zM1amd)
+Token length: 129
+Summarized using GPT-3.5-turbo
+Append: [[CL] Aloe: A Family of Fine-tuned Open Healthcare LLMs 网页链接 提出开源的Aloe医疗语言模型系列，通过模型合并、伦理对齐和高级推理方案实现了该模型规模下...](https://weibo.com/1402400261/Od7wQA5sJ)
+Token length: 135
+Summarized using GPT-3.5-turbo
+Append: [[CV] DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos 网页链接 DreamScene4D利用分解-重组策略及运动分解，是首个可从复杂多对象...](https://weibo.com/1402400261/Od7sBD0qW)
+Token length: 286
+Summarized using GPT-3.5-turbo
+Append: [通过自回归语言模型的不可识别性(non-identifiable)，指出需要超越统计泛化的视角，在LLM饱和状态下研究归纳偏差，以解释零样本推理等能力的出现。 - 转发 @爱可...](https://weibo.com/1402400261/Od7pc1CEN)
+Token length: 199
+Summarized using GPT-3.5-turbo
+Append: [[LG]《Understanding LLMs Requires More Than Statistical Generalization》P Reizinger, S Ujváry, A Mészáros, A Kerekes... [Max Planck Institute forIn...](https://weibo.com/1402400261/Od7p98HOI)
+Token length: 218
+Summarized using GPT-3.5-turbo
+Append: [大型语言模型评估器存在熟悉度偏差、评分偏差、锚定效应等问题，一致性也较差，需要注意并纠正这些局限性，以提高其在自然语言处理任务中作为自动评估工具的可靠...](https://weibo.com/1402400261/Od7jt1OA7)
+Token length: 133
+Summarized using GPT-3.5-turbo
+Append: [[CL]《Large Language Models are Inconsistent and Biased Evaluators》R Stureborg, D Alikaniotis, Y Suhara [Grammarly & NVIDIA] (2024) 网页链接 #机器学...](https://weibo.com/1402400261/Od7jkgt8D)
+Token length: 264
+Summarized using GPT-3.5-turbo
+Append: [提出attention offloading方案，用消费级GPU处理attention释放服务器GPU计算资源，实现流水线并行和通信计算重叠，使异构设备组态在Transformer模型推理中发挥协...](https://weibo.com/1402400261/Od7iScc6a)
+append_entries: 10
+Finish: 2024-05-07 00:52:46.287041
