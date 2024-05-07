@@ -8173,3 +8173,9 @@ Summarized using GPT-3.5-turbo
 Append: ['Chenyme-AAVT(AI Auto Video-Audio Translation) - 全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频...](https://weibo.com/1402400261/Odayx4WD5)
 append_entries: 10
 Finish: 2024-05-07 08:15:17.354488
+------------------------------------------------------
+Started: 2024-05-07 10:13:30.285211
+Existing_entries: 1010
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+append_entries: 0
+Finish: 2024-05-07 10:13:31.966404

@@ -4002,3 +4002,12 @@ Existing_entries: 67
 Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 append_entries: 0
 Finish: 2024-05-07 08:15:19.481718
+------------------------------------------------------
+Started: 2024-05-07 10:13:32.033946
+Existing_entries: 67
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Token length: 171
+Summarized using GPT-3.5-turbo
+Append: [值得摄影爱好者收藏的网站《景深模拟器》。在这个网站上，你可以轻松调整光圈、焦距和拍摄对象距离，直观看到这些因素如何影响景深。特别推荐给摄影新手，能很好...](https://weibo.com/5722964389/OdchUx6Ms)
+append_entries: 1
+Finish: 2024-05-07 10:13:38.688368

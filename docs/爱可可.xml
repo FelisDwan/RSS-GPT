@@ -4,6 +4,7 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+
 <item>
 <title>几篇论文实现代码：《CrossQ: Batch Normalization in Deep Reinforcement Learning for Greater Sample Efficiency and Simplicity》(ICLR 2024) GitHub: githu...</title>
 <link>https://weibo.com/1402400261/OdaP1fI5U</link>
@@ -11,10 +12,9 @@
 <content:encoded><![CDATA[
 <div> batch normalization, deep reinforcement learning, sample efficiency, simplicity, CrossQ, GitHub, paper, research, algorithm, implementation
 
-总结：<br><br>本文介绍了一种名为CrossQ的深度强化学习中的批量归一化方法，旨在提高样本效率和简化模型。通过在GitHub上提供实现代码，研究人员展示了他们的研究成果，并在ICLR 2024年会上发表了相关论文。这些工作对于提升深度强化学习效率和简便性具有重要意义，对相关研究和算法发展具有积极影响。<br>文章链接：<br>github.com/adityab/CrossQ <div>
+总结：<br /><br />本文介绍了一种名为CrossQ的深度强化学习中的批量归一化方法，旨在提高样本效率和简化模型。通过在GitHub上提供实现代码，研究人员展示了他们的研究成果，并在ICLR 2024年会上发表了相关论文。这些工作对于提升深度强化学习效率和简便性具有重要意义，对相关研究和算法发展具有积极影响。<br />文章链接：<br />github.com/adityab/CrossQ <div>
 几篇论文实现代码：<br />《CrossQ: Batch Normalization in Deep Reinforcement Learning for Greater Sample Efficiency and Simplicity》(ICLR 2024) GitHub: github.com/adityab/CrossQ<br />《ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning》(CVPR 2024) GitHub: github.com/clovaai/ECLIPSE [fig1]<br />《AvatarGPT: All-in-One Framework for Motion Understanding, Planning, Generation and Beyond》(CVPR 2024) GitHub: github.com/zixiangzhou916/AvatarGPT [fig4]<br />《LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch》(2024) GitHub: github.com/huggingface/lerobot<br />《Bunny-VisionPro: Bimanual Dexterous Teleoperation with Real-Time Retargeting using VisionPro》(2024) GitHub: github.com/Dingry/BunnyVisionPro?tab=readme-ov-file<br />《2D Gaussian Splatting for Geometrically Accurate Radiance Fields》(2024) GitHub: github.com/hbb1/diff-surfel-rasterization<br />《Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs》(2024) GitHub: github.com/mbzuai-oryx/CVRR-Evaluation-Suite<br />《About<br />Granite Code Models: A Family of Open Foundation Models for Code Intelligence》(2024) GitHub: github.com/ibm-granite/granite-code-models<br />《PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games》(2024) GitHub: github.com/alickzhu/PLAYER<br />《SVGEditBench: A Benchmark Dataset for Quantitative Assessment of LLM's SVG Editing Capabilities》(2024) GitHub: github.com/mti-lab/SVGEditBench<br />《Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation》(2024) GitHub: github.com/Dunni3/FlowMol [fig2]<br />《Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning》(2024) GitHub: github.com/WooooDyy/LLM-Reverse-Curriculum-RL [fig3]<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpgwtbmx5yj21820od42l.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpgwuwkc2pj21i60r3h0l.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpgx2dnneuj20xe0jbn7g.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpgx2ut85qj255u1h3kjn.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 07 May 2024 06:13:04 GMT</pubDate>
 <pubDate>Tue, 07 May 2024 06:13:04 GMT</pubDate>
 </item>
 <item>
@@ -28,7 +28,6 @@ VILA是一个预训练的视觉语言模型，具备视频理解和多图像理�
 【VILA: 预训练的视觉语言模型(VLM)，具备视频理解和多图像理解能力，支持云端到边缘设备(如Jetson Orin和笔记本电脑)的部署】'VILA: On Pre-training for Visual Language Models - VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)' GitHub: github.com/Efficient-Large-Model/VILA <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpgx7idxkpj20wq0u00xo.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Tue, 07 May 2024 06:11:02 GMT</pubDate>
-<pubDate>Tue, 07 May 2024 06:11:02 GMT</pubDate>
 </item>
 <item>
 <title>【LangChain Swift：为 Swift 语言优化的LangChain库，专为 iOS、macOS、部分 watchOS 和 beta 版本的 visionOS 设计，用于构建和优化 AI 应用】'LangChain Swif...</title>
@@ -37,11 +36,10 @@ VILA是一个预训练的视觉语言模型，具备视频理解和多图像理�
 <content:encoded><![CDATA[
 <div> LangChain Swift、Swift语言、优化、iOS、macOS、watchOS、visionOS、构建、优化、AI应用
 
-<br><br>总结:
+<br /><br />总结:
 LangChain Swift是专为Swift语言优化的库，适用于iOS、macOS、部分watchOS和beta版本的visionOS，用于构建和优化AI应用。该库在GitHub上可访问，详细信息请查看github.com/buhe/langchain-swift。它为开发人员提供了便利的工具和技术，使他们能够更高效地构建基于Swift语言的人工智能应用程序，并且适用于多种苹果设备。LangChain Swift的优化设计可以帮助开发人员更轻松地实现他们的创意和项目目标，为移动应用领域带来更多可能性。 <div>
 【LangChain Swift：为 Swift 语言优化的LangChain库，专为 iOS、macOS、部分 watchOS 和 beta 版本的 visionOS 设计，用于构建和优化 AI 应用】'LangChain Swift - LangChain for Swift. Optimized for iOS, macOS, watchOS (part) and visionOS.(beta)' GitHub: github.com/buhe/langchain-swift <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpgx56vztmj218i0t0dj5.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 07 May 2024 06:08:49 GMT</pubDate>
 <pubDate>Tue, 07 May 2024 06:08:49 GMT</pubDate>
 </item>
 <item>
@@ -51,11 +49,10 @@ LangChain Swift是专为Swift语言优化的库，适用于iOS、macOS、部分w
 <content:encoded><![CDATA[
 <div> GitHub, 汉语拼音辞典, 中文, 汉字, 拼音, 字典, 词典, 成语, 常用字, 多音字
 
-总结:<br><br>
+总结:<br /><br />
 这篇文章介绍了一个名为“汉语拼音辞典”的项目，提供了中文汉语拼音字典、词典、成语词典以及常用字和多音字字典的数据库。该项目托管在GitHub上，网址为github.com/mapull/chinese-dictionary。通过这个项目，用户可以方便地查找汉字的拼音信息，并了解词语、成语的含义和用法，对于学习中文语言和文化的人士来说是一份很好的资源。 <div>
 '汉语拼音辞典 - 中文汉语拼音辞典，汉字拼音字典，词典，成语词典，常用字、多音字字典数据库' GitHub: github.com/mapull/chinese-dictionary <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpgx3zpfkrj21fy0u0qad.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 07 May 2024 06:07:39 GMT</pubDate>
 <pubDate>Tue, 07 May 2024 06:07:39 GMT</pubDate>
 </item>
 <item>
@@ -65,11 +62,10 @@ LangChain Swift是专为Swift语言优化的库，适用于iOS、macOS、部分w
 <content:encoded><![CDATA[
 <div> 多线程、网络爬虫、递归、网站、Markdown 文件、大型语言模型、文档解析、GitHub、paulpierre
 
-<br><br>总结:
+<br /><br />总结:
 该文章介绍了一款名为markdown_crawler的多线程网络爬虫工具，专为大型语言模型文档解析设计。该工具能够递归地爬取一个网站的页面，并为每个页面创建一个Markdown文件。用户可以通过GitHub上的paulpierre的仓库获得该工具的源代码。通过使用此工具，用户可以方便地批量下载网站页面并将其转换为Markdown格式，便于文档的整理和管理。Markdown文件的生成可以帮助用户更好地组织和分享信息，提高文档处理效率。 <div>
 【markdown_crawler：多线程网络爬虫，能递归地爬取网站并为每个页面创建 Markdown 文件，专为大型语言模型文档解析设计】'markdown_crawler - A multithreaded web crawler that recursively crawls a website and creates a markdown file for each page, designed for LLM RAG' GitHub: github.com/paulpierre/markdown-crawler <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%88%AC%E8%99%AB%23&amp;isnewpage=1"><span class="surl-text">#爬虫#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpgx1e4vpfj20u0132q7f.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 07 May 2024 06:05:12 GMT</pubDate>
 <pubDate>Tue, 07 May 2024 06:05:12 GMT</pubDate>
 </item>
 <item>
@@ -77,13 +73,12 @@ LangChain Swift是专为Swift语言优化的库，适用于iOS、macOS、部分w
 <link>https://weibo.com/1402400261/OdaJXoGqN</link>
 <guid>https://weibo.com/1402400261/OdaJXoGqN</guid>
 <content:encoded><![CDATA[
-<div> 轻量框架、开发、调试、监控、大规模、大语言模型、Agent驱动、应用、GitHub、zozoheir<br>
-<br>
-总结:<br>
+<div> 轻量框架、开发、调试、监控、大规模、大语言模型、Agent驱动、应用、GitHub、zozoheir<br />
+<br />
+总结:<br />
 tinyllm是一个轻量框架，用于开发、调试和监控大规模的大语言模型(LLM)和Agent驱动的应用。该框架提供了一个便捷的平台，让开发人员可以轻松地开发、评估和监控LLM应用。通过GitHub上的开源项目，用户可以快速了解和使用该框架。tinyllm支持在大规模环境下运行，并提供Agent驱动的功能，帮助用户更好地管理和优化他们的应用。无论是开发新的LLM应用还是对现有应用进行调试和优化，tinyllm都可以提供有力的支持。 <div>
 【tinyllm：一个轻量框架，用于开发、调试和监控大规模大语言模型(LLM)和Agent驱动的应用】'tinyllm - Develop, evaluate and monitor LLM applications at scale' GitHub: github.com/zozoheir/tinyllm <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpgwwlk32qj20u01307a1.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 07 May 2024 06:00:37 GMT</pubDate>
 <pubDate>Tue, 07 May 2024 06:00:37 GMT</pubDate>
 </item>
 <item>
@@ -91,12 +86,11 @@ tinyllm是一个轻量框架，用于开发、调试和监控大规模的大语�
 <link>https://weibo.com/1402400261/OdaIj0t8h</link>
 <guid>https://weibo.com/1402400261/OdaIj0t8h</guid>
 <content:encoded><![CDATA[
-<div> 进化算法、强化学习、研究论文、代码库、GitHub、整合、演化神经网络、应用、深度学习、人工智能<br>
-<br>
-提出了一个关于进化算法和强化学习整合的研究论文和代码库，通过GitHub分享和探讨这一领域的最新进展。研究论文探讨了如何将进化算法和强化学习相结合，提出了一些新的方法和技术，如演化神经网络。代码库中包含了相关实验的代码，可以应用于深度学习和人工智能领域。这个项目为进化算法和强化学习的整合提供了有用的资源和参考，有助于促进这一领域的研究和发展。<br><br>总结: 进化算法和强化学习的整合是一个具有潜力的研究领域，本项目提供了相关的研究论文和代码库，为该领域的进一步发展提供了有力支持。 <div>
+<div> 进化算法、强化学习、研究论文、代码库、GitHub、整合、演化神经网络、应用、深度学习、人工智能<br />
+<br />
+提出了一个关于进化算法和强化学习整合的研究论文和代码库，通过GitHub分享和探讨这一领域的最新进展。研究论文探讨了如何将进化算法和强化学习相结合，提出了一些新的方法和技术，如演化神经网络。代码库中包含了相关实验的代码，可以应用于深度学习和人工智能领域。这个项目为进化算法和强化学习的整合提供了有用的资源和参考，有助于促进这一领域的研究和发展。<br /><br />总结: 进化算法和强化学习的整合是一个具有潜力的研究领域，本项目提供了相关的研究论文和代码库，为该领域的进一步发展提供了有力支持。 <div>
 【关于进化算法和强化学习结合的研究论文和代码库】'Awesome-Evolutionary-Reinforcement-Learning - Research Papers and Code Repository on the Integration of Evolutionary Algorithms and Reinforcement Learning' GitHub: github.com/yeshenpy/Awesome-Evolutionary-Reinforcement-Learning <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpgwses8dzj21740k8djf.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 07 May 2024 05:56:33 GMT</pubDate>
 <pubDate>Tue, 07 May 2024 05:56:33 GMT</pubDate>
 </item>
 <item>
@@ -106,11 +100,10 @@ tinyllm是一个轻量框架，用于开发、调试和监控大规模的大语�
 <content:encoded><![CDATA[
 <div> 音频处理库、Arduino、音频源、音频效果、编码器、解码器、GitHub、功能强大、适用于多种平台
 
-<br><br>总结:
+<br /><br />总结:
 Arduino Audio Tools是一个功能强大的音频处理库，适用于Arduino等多种平台。该库提供了丰富的音频处理功能，包括音频源、音频效果、编码器和解码器等。用户可以利用这个库实现对音频数据的处理和操作，拓展Arduino等设备的音频功能。感兴趣的用户可以在GitHub上找到相关信息和资源。 <div>
 【Arduino Audio Tools：功能强大的音频处理库，适用于Arduino及其它平台，提供音频源、音频效果、编码器/解码器等多种音频处理功能】'Arduino Audio Tools - Arduino Audio Tools (a powerful Audio library not only for Arduino)' GitHub: github.com/pschatzmann/arduino-audio-tools <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpgwrcknhuj20zv0u0448.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 07 May 2024 05:55:32 GMT</pubDate>
 <pubDate>Tue, 07 May 2024 05:55:32 GMT</pubDate>
 </item>
 <item>
@@ -119,12 +112,11 @@ Arduino Audio Tools是一个功能强大的音频处理库，适用于Arduino等
 <guid>https://weibo.com/1402400261/OdaHqassI</guid>
 <content:encoded><![CDATA[
 <div> 深度学习、天气数据、气候数据、基础模型、论文资源、GitHub、综述、模型理解、模型应用、研究进展
-<br>
-总结：<br>
+<br />
+总结：<br />
 这篇GitHub项目旨在对天气和气候数据理解的深度学习基础模型进行综合调研。介绍了各种基础模型在天气和气候数据中的应用及研究进展，为进一步研究提供了丰富的资源和参考。通过详细的论文资源列表和相关文章分析，有助于深入理解和应用基础模型于天气和气候数据研究中的重要性和实用性。 <div>
 【面向天气和气候数据理解的深度学习基础模型相关论文资源列表】’Awesome-Foundation-Models-for-Weather-and-Climate - A comprehesive survey about foundation models for weather and cliamte data understanding.' GitHub: github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpgwpiwv35j20zv0u0n2y.jpg" /><br /><br />
 ]]></content:encoded>
-<pubDate>Tue, 07 May 2024 05:54:22 GMT</pubDate>
 <pubDate>Tue, 07 May 2024 05:54:22 GMT</pubDate>
 </item>
 <item>
@@ -134,13 +126,11 @@ Arduino Audio Tools是一个功能强大的音频处理库，适用于Arduino等
 <content:encoded><![CDATA[
 <div> 关键词: Chenyme-AAVT, AI Auto Video-Audio Translation, 全自动, Whisper, AI大模型, 字幕, 视频翻译, GitHub
 
-总结:<br><br>这是一个名为Chenyme-AAVT的全自动（音频）视频翻译项目，在GitHub上可以找到相关信息。该项目利用Whisper技术识别声音，结合AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。通过这种方式，可以帮助用户实现视频内容的快速翻译，提高语言沟通的便利性。 <div>
+总结:<br /><br />这是一个名为Chenyme-AAVT的全自动（音频）视频翻译项目，在GitHub上可以找到相关信息。该项目利用Whisper技术识别声音，结合AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。通过这种方式，可以帮助用户实现视频内容的快速翻译，提高语言沟通的便利性。 <div>
 'Chenyme-AAVT(AI Auto Video-Audio Translation) - 全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频' GitHub: github.com/Chenyme/Chenyme-AAVT <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpgw1vnurwj21fl0u043p.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Tue, 07 May 2024 05:32:28 GMT</pubDate>
-<pubDate>Tue, 07 May 2024 05:32:28 GMT</pubDate>
 </item>
-
 <item>
 <title>【AI生成检测与学术诚信】- 作者自己写了一篇关于AI取代工作的文章，没使用任何AI工具。但通过Quillbot的AI检测，文章被判定有42%是AI写的。 - 原作者的老师因此...</title>
 <link>https://weibo.com/1402400261/Od8wBzg3k</link>
@@ -12884,132 +12874,6 @@ Mamba是一种新型的状态空间模型，可以处理较长序列并取得性
 [CV] DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video  <br /><a href="https://arxiv.org/abs/2403.14548"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>   <br />提出DINO-Tracker框架，将预训练模型的语义先验与针对单视频的测试时训练相结合，实现长时遮挡视频中的密集点追踪。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoawzlx6thj20v61bwwuz.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoawzm8xx0j21hw0s248a.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoawzmmg9sj21ak0higr6.jpg" /><br /><br />
 ]]></content:encoded>
 <pubDate>Sun, 31 Mar 2024 22:09:44 GMT</pubDate>
-</item>
-<item>
-<title>[LG] Tensor Network-Constrained Kernel Machines as Gaussian Processes 网页链接 通过理论证明和实验验证首次建立了张量网络限制的核机和高斯过程之间的关系...</title>
-<link>https://weibo.com/1402400261/O7EehAJow</link>
-<guid>https://weibo.com/1402400261/O7EehAJow</guid>
-<content:encoded><![CDATA[
-<div> Tensor Network-Constrained Kernel Machines, Gaussian Processes, 参数独立同分布先验, 收敛, 可完全表征, 实验证明, 理论证明, 高斯过程, 核机, 张量网络限制<br />
-<br />
-总结: <br />
-本文针对张量网络限制的核机和高斯过程之间的关系进行了理论证明和实验证明，首次建立了两者之间的联系。实验结果表明，在参数上放置独立同分布先验时，张量网络限制的核机会收敛到一个可完全表征的高斯过程。这为理解核机和高斯过程之间的关系提供了深入的见解，也为在实际应用中更好地利用这些方法提供了指导。 <div>
-[LG] Tensor Network-Constrained Kernel Machines as Gaussian Processes  <br /><a href="https://arxiv.org/abs/2403.19500"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>       <br />通过理论证明和实验验证首次建立了张量网络限制的核机和高斯过程之间的关系，即在参数上放置独立同分布先验时，张量网络限制的核机会收敛到一个可完全表征的高斯过程。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoawss39r2j210g1c4h3g.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoawss9w5mj210e0f441f.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoawssej1tj210g0eoq7b.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 22:03:10 GMT</pubDate>
-</item>
-<item>
-<title>[LG] AgentStudio: A Toolkit for Building General Virtual Agents 网页链接 提出了开源的AgentStudio工具包，它提供了通用的观察和动作空间，在线环境实现，以...</title>
-<link>https://weibo.com/1402400261/O7Ecd1kjq</link>
-<guid>https://weibo.com/1402400261/O7Ecd1kjq</guid>
-<content:encoded><![CDATA[
-<div> 工具包、AgentStudio、通用虚拟Agent、观察空间、动作空间、在线环境、数据收集、人机交互界面、研究、基准测试
-
-总结:<br /><br />研究团队提出了开源的AgentStudio工具包，旨在促进通用虚拟Agent的研究和真实场景基准测试。该工具包提供了通用的观察和动作空间，实现了在线环境，并包含数据收集和人机交互界面，为虚拟Agent研究提供了便利和支持。 <div>
-[LG] AgentStudio: A Toolkit for Building General Virtual Agents  <br /><a href="https://arxiv.org/abs/2403.17918"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>    <br />提出了开源的AgentStudio工具包，它提供了通用的观察和动作空间，在线环境实现，以及数据收集和人机交互界面，可促进通用虚拟Agent的研究和真实场景基准测试。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoawnfy84cj20vk1dok97.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoawngicrxj21oc14gtr0.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoawngk2rmj21o60waalm.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 21:58:03 GMT</pubDate>
-</item>
-<item>
-<title>[CL] A comparison of Human, GPT-3.5, and GPT-4 Performance in a University-Level Coding Course 网页链接 研究发现当前语言模型在物理编程作业方面的能力尚...</title>
-<link>https://weibo.com/1402400261/O7E9C39JI</link>
-<guid>https://weibo.com/1402400261/O7E9C39JI</guid>
-<content:encoded><![CDATA[
-<div> 关键词: 语言模型, 物理编程作业, 教学目标, 教育工作者, 人类, GPT-3.5, GPT-4, 能力, 进步, 调整
-
-总结:<br /><br />研究发现当前语言模型在物理编程作业方面的能力尚未超越人类，但稳步进步预示可能在不久的将来实现突破。这需要教育工作者重新考量编程作业的作用与教学目标的调整。三种实体——人类、GPT-3.5和GPT-4，在大学级编程课程中的表现被比较，结果显示语言模型还有提升空间，需持续关注其发展。根据研究结论，教学需重点关注培养学生的编程能力与思维，或许不久的将来，语言模型在编程方面会有更大突破。 <div>
-[CL] A comparison of Human, GPT-3.5, and GPT-4 Performance in a University-Level Coding Course  <br /><a href="https://arxiv.org/abs/2403.16977"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />研究发现当前语言模型在物理编程作业方面的能力尚未超越人类，但稳步进步预示可能在不久的将来实现突破，这需要教育工作者重新考量编程作业的作用与教学目标的调整。 <img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoawgsjinpj210i1c2kb9.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoawgsv3imj210e0pytd6.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoawgt47x7j210k0pojv9.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 21:51:39 GMT</pubDate>
-</item>
-<item>
-<title>[IR] Scaling Laws For Dense Retrieval 网页链接 通过对比对数似然指标和规模化实验，发现稠密检索模型性能也遵循资源量的幂律缩放关系，建立了模型性能预测和...</title>
-<link>https://weibo.com/1402400261/O7E6urV1R</link>
-<guid>https://weibo.com/1402400261/O7E6urV1R</guid>
-<content:encoded><![CDATA[
-<div> 对数似然指标 规模化实验 稠密检索模型 资源量 幂律缩放关系 模型性能 预测 资源优化 分配<br />
-<br />
-提出通过对比对数似然指标和规模化实验，发现稠密检索模型性能遵循资源量的幂律缩放关系，可用于模型性能预测和资源优化分配。这一发现为稠密检索模型的性能评估和优化提供了新的思路和方法。 <div>
-[IR] Scaling Laws For Dense Retrieval  <br /><a href="https://arxiv.org/abs/2403.18684"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a>  <br />通过对比对数似然指标和规模化实验，发现稠密检索模型性能也遵循资源量的幂律缩放关系，建立了模型性能预测和资源优化分配的可能性。 <img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoaw8sg5zoj2102188nfw.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoaw8svf04j21q80qu79o.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoaw8tgikjj21kq0ngwii.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 21:43:58 GMT</pubDate>
-</item>
-<item>
-<title>通过稀疏自编码器和线性近似，提出一种发现人类可解释语言模型特征之间因果关系的可扩展流水线，以构建细粒度回路解释模型行为，并应用于下游任务。 - 转发 @爱...</title>
-<link>https://weibo.com/1402400261/O7E3Q9kNu</link>
-<guid>https://weibo.com/1402400261/O7E3Q9kNu</guid>
-<content:encoded><![CDATA[
-<div> 稀疏自编码器、线性近似、因果关系、可扩展流水线、细粒度回路、解释模型行为、下游任务、语言模型、特征、语言模型特征
-
-总结:<br /><br />这篇文章提出了一种利用稀疏自编码器和线性近似的方法，来发现人类可解释的语言模型特征之间的因果关系。他们构建了一个可扩展的流水线，用于构建细粒度回路来解释模型行为，并将其应用于下游任务中。通过架构Sparse Feature Circuits，使得研究人员能够在语言模型中发现和编辑可解释的因果关系图，并对模型进行细致的解释。这种方法可以帮助研究人员更好地理解语言模型的工作原理和特征之间的关系，为语言处理领域的研究和实践提供了新的思路。 <div>
-通过稀疏自编码器和线性近似，提出一种发现人类可解释语言模型特征之间因果关系的可扩展流水线，以构建细粒度回路解释模型行为，并应用于下游任务。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models》S Marks, C Rager, E J. Michaud, Y Belinkov, D Bau, A Mueller [Northeastern University &amp; MIT] (2024) <a href="https://arxiv.org/abs/2403.19647"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoavurbf0qj21em0potkf.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoavurv5khj21oi0ro13q.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoavusaiiaj21p00ywqep.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoavuskxi0j21ou0n0qb7.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoaw1oy3hnj20vh0dh76g.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoaw1oyhohj20vi0eydj2.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoaw1oydahj20vj0fuwhe.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoaw1oyalgj20ve0gdtb5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoaw1oyqsjj20vf0qkadm.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 21:37:26 GMT</pubDate>
-</item>
-<item>
-<title>[LG]《Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models》S Marks, C Rager, E J. Michaud, Y Belinkov, D B...</title>
-<link>https://weibo.com/1402400261/O7E3JjgAw</link>
-<guid>https://weibo.com/1402400261/O7E3JjgAw</guid>
-<content:encoded><![CDATA[
-<div> Sparse Feature Circuits, Discovering, Editing, Interpretable, Causal Graphs, Language Models, Northeastern University, MIT, 2024
-
-<br /><br />总结:
-这篇论文由Northeastern大学和MIT的研究人员共同合作，提出了一种称为Sparse Feature Circuits的方法，可以发现和编辑语言模型中可解释的因果图。研究人员指出，传统的语言模型在解释和编辑因果关系方面存在一定的困难，因此他们提出了这种新方法。Sparse Feature Circuits是一种新颖的方法，可以帮助人们更好地理解语言模型中的因果关系，并进行相应的编辑。通过实验证明，这种方法在发现和编辑可解释的因果图方面取得了显著的效果。整体而言，这项研究为语言模型中因果关系的理解和编辑提供了新的思路和方法。 <div>
-[LG]《Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models》S Marks, C Rager, E J. Michaud, Y Belinkov, D Bau, A Mueller [Northeastern University &amp; MIT] (2024) <a href="https://arxiv.org/abs/2403.19647"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoavurbf0qj21em0potkf.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoavurv5khj21oi0ro13q.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoavusaiiaj21p00ywqep.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoavuskxi0j21ou0n0qb7.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoaw1oy3hnj20vh0dh76g.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoaw1oyhohj20vi0eydj2.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoaw1oydahj20vj0fuwhe.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoaw1oyalgj20ve0gdtb5.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoaw1oyqsjj20vf0qkadm.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoaw1oyu6mj20ve0m2n02.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoaw1oyjjgj20vh0mk0vg.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoaw1oy2sej20ve0el40d.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoaw1oyratj20vi0fa768.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoaw1oycdnj20vf0hztax.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoaw1oyimjj20vi0kc0vc.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoaw1oynjjj20vd0gr76y.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoaw1oye9ij20vd0j0wh2.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoaw1oyo2kj20vd0g2jtp.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 21:37:10 GMT</pubDate>
-</item>
-<item>
-<title>LISA通过层级重要性采样有效模拟LoRA更新方式，实现内存高效的大规模语言模型微调，在多任务上性能优异。 - 转发 @爱可可-爱生活:&amp;ensp;[LG]《LISA: Layerwise I...</title>
-<link>https://weibo.com/1402400261/O7E08j19a</link>
-<guid>https://weibo.com/1402400261/O7E08j19a</guid>
-<content:encoded><![CDATA[
-<div> 层级重要性采样、LoRA更新方式、内存高效、大规模语言模型微调、多任务、性能优异、LISA、香港科技大学
-
-<br /><br />总结:
-该研究提出了一种名为LISA的方法，通过层级重要性采样有效模拟LoRA更新方式，实现了内存高效的大规模语言模型微调。该方法在多任务上表现出色，性能优异，为语言模型微调提供了新的思路和解决方案。LISA方法由香港科技大学的研究团队提出，为大规模语言模型微调领域的发展做出了重要贡献。 <div>
-LISA通过层级重要性采样有效模拟LoRA更新方式，实现内存高效的大规模语言模型微调，在多任务上性能优异。<br /><blockquote> - 转发 <a href="https://weibo.com/1402400261" target="_blank">@爱可可-爱生活</a>: [LG]《LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning》R Pan, X Liu, S Diao, R Pi, J Zhang, C Han, T Zhang [The Hong Kong University of Science and Technology] (2024) <a href="https://arxiv.org/abs/2403.17919"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E8%AE%BA%E6%96%87%23&amp;isnewpage=1"><span class="surl-text">#论文#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoavmt9utbj21d60o6drq.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoavmtktt0j20p40ksgo8.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoavmtxfumj21ik0l6q7x.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hoavmu3z4zj20s80pqtby.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoavsfd8fhj20hv0f7aat.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoavsfd33aj20hu0g8gm6.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoavsfdtokj20yw0rlgog.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoavsfd67pj20ua097gm4.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoavsfcw1hj20qs097wex.jpg" /><br /><br /></blockquote>
-]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 21:28:18 GMT</pubDate>
-</item>
-<item>
-<title>《爱可可微博热门分享(3.31)》 爱可可微博热门分享(3.31) [图片]</title>
-<link>https://weibo.com/1402400261/O7B7H4FP8</link>
-<guid>https://weibo.com/1402400261/O7B7H4FP8</guid>
-<content:encoded><![CDATA[
-<div> 微博、热门、分享、爱可可、3.31、关键词
-
-<br /><br />总结:
-3月31日，爱可可微博账号分享了一篇热门内容，引起了网友的关注和转发。文章内容涵盖了多个话题，包括生活趣事、美食推荐、时尚搭配等。微博中的精彩内容吸引了众多用户的注意，让大家在微博平台上进行互动和分享。通过这些热门话题，网友们可以了解到更多有趣的信息，充实自己的生活。爱可可微博成为了人们交流和分享的平台，为大家带来了更多的快乐和收获。 <div>
-《爱可可微博热门分享(3.31)》  <a href="https://weibo.com/ttarticle/p/show?id=2309405018110007574965"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_article_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">爱可可微博热门分享(3.31)</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hoaj2y0wrpj20c206st96.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 14:08:40 GMT</pubDate>
-</item>
-<item>
-<title>【AI生成内容泛滥，文化生态岌岌可危】- 各类AI模型(如GPT-4、ChatGPT等)产生的文本、图像、视频等内容，质量参差不齐，正在大量充斥互联网。这些内容包括学术论...</title>
-<link>https://weibo.com/1402400261/O7yyxwwUe</link>
-<guid>https://weibo.com/1402400261/O7yyxwwUe</guid>
-<content:encoded><![CDATA[
-<div> AI生成内容、文化生态、科学研究、影响、低质量视频、儿童认知、社会实验、公共文化资源、环境立法、清洁互联网法案
-
-<br /><br />总结:
-AI生成内容在互联网上泛滥，给文化生态带来威胁，影响深远。在科学研究领域，AI生成内容的使用严重影响同行评审，可能带来不当行为。此外，在视频领域，低质量的AI合成儿童视频可能损害儿童认知发展，需要引起警惕。针对这一趋势，需要借鉴20世纪环境立法的经验，制定《清洁互联网法案》，强制监管AI生成内容，保护公共文化资源。AI公司应该加强自律，但同样需要法律监管来应对AI内容污染问题。AI的快速发展带来了一系列社会问题，需要重视并加强监管，避免其失控。 <div>
-【AI生成内容泛滥，文化生态岌岌可危】<br />- 各类AI模型(如GPT-4、ChatGPT等)产生的文本、图像、视频等内容，质量参差不齐，正在大量充斥互联网。这些内容包括学术论文、社交媒体帖子、虚假账号、搜索结果等。   <br />- AI生成内容对科学研究的影响尤其严重。研究发现，参加AI会议的科研人员在同行评审中大量使用类似AI生成文本的词汇。这意味着部分作者可能使用AI生成内容或辅助完成同行评审。   <br />- YouTube上也出现大量使用AI合成的低质量儿童视频，这可能会损害儿童认知发展。我们正在进行一场大规模的社会实验，还不知道后果如何。   <br />- 企业和个人出于经济利益考虑，会选择使用廉价的AI生成内容。这导致“公共文化资源”遭到污染，犯了“公地悲剧”的错误。   <br />- 20世纪需要环境立法来保护共享环境，21世纪同样需要立法来保护共享文化。具体可要求对AI生成内容进行标记或水印。   <br />- AI公司目前不愿添加高级水印，担心这会影响模型性能。需立法强制对生成内容添加统计图案等难以移除的水印，以便检测。   <br />- 我们需要等同于《清洁空气法案》的《清洁互联网法案》，通过立法监管来应对AI内容污染问题，不能仅期望企业自律。  <br /><br />思考：  <br />- AI生成内容泛滥成灾，污染文化环境，这一观点发人深省。AI的影响已经渗透到科学等重要领域，令人警醒。  <br />- 连科学论文评审都大量使用AI，反映出目前学术界对AI的过度依赖和急功近利，值得反思。  <br />- AI在学术领域的滥用，凸显了AI技术发展的负面影响。如何规范AI的使用，划定伦理道德底线，是一个亟待解决的问题。  <br />- 文章揭示了AI技术快速发展带来的社会问题，表明我们要高度警惕AI的负面影响，加强监管，防止其失控。<br />《Opinion | AI Garbage Is Already Polluting the Internet - The New York Times》 <a href="https://www.nytimes.com/2024/03/29/opinion/ai-internet-x-youtube.html?ugrp=u&amp;unlocked_article_code=1.gU0.U5Ee.kvPE0e0DodvZ&amp;smid=url-share"><span class="url-icon"><img src="https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png" style="width: 1rem; height: 1rem;" /></span><span class="surl-text">网页链接</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hoa7r3rbruj20u0126tfm.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 07:36:35 GMT</pubDate>
-</item>
-<item>
-<title>几篇论文实现代码：《Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment》(ICLR 2024) GitHub: github.com/lisiyao21/Du...</title>
-<link>https://weibo.com/1402400261/O7yvaAD75</link>
-<guid>https://weibo.com/1402400261/O7yvaAD75</guid>
-<content:encoded><![CDATA[
-<div> 关键词：Duolando、GPT、强化学习、舞蹈伴奏、UniDepth、深度估计、T2I模型、超分辨率、LiDAR、视觉SLAM
-
-总结:
-Duolando是一种使用强化学习技术对GPT进行跟随的方法，用于舞蹈伴奏。UniDepth是一种通用的单目度量深度估计模型。 T2I模型可以通过识别语义方向实现连续、特定主题的属性控制。AdaSR-TalkingHead是一种用于一次性生成语音头像的自适应超分辨率技术。 LTA-OM是一种长期关联的激光雷达-惯性里程计和地图构建技术。EfficientVMamba是一种轻量级视觉Mamba的有选择性扫描技术。LITA是一种语言指导的时间定位助理模型。GaussianCube利用最优传输将高斯喷洒结构化用于三维生成建模。Perturbed-Attention Guidance是一种扰动注意力引导技术。ROUTERBENCH是用于多LLM路由系统的基准测试。Long-Context-Attention是用于长上下文LLM模型训练的分布式注意力实现。DevBench是用于软件开发的全面基准测试。Should-It-Be-Executed-Or-Processed探讨LLMs是否能够区分指令和数据。BasicPBC是学习匹配的动画油桶着色基准测试。EasyRL4Rec是一个用户友好的基于强化学习的推荐系统代码库。SuperPoint是一种自监督兴趣点检测和描述模型。EgoSchema是用于非常长形式视频语言理解的诊断基准测试。 <div>
-几篇论文实现代码：<br />《Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment》(ICLR 2024) GitHub: github.com/lisiyao21/Duolando<br />《UniDepth: Universal Monocular Metric Depth Estimation》(CVPR 2024) GitHub: github.com/lpiccinelli-eth/UniDepth [fig1]<br />《Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions》(2024) GitHub: github.com/CompVis/attribute-control<br />《Adaptive Super Resolution for One-Shot Talking Head Generation》(2024) GitHub: github.com/Songluchuan/AdaSR-TalkingHead<br />《LTA-OM: Long-Term Association LiDAR-Inertial Odometry and Mapping》(2024) GitHub: github.com/hku-mars/LTAOM<br />《EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba》(2024) GitHub: github.com/TerryPei/EfficientVMamba [fig2] <br />《LITA: Language Instructed Temporal-Localization Assistant》(2024) GitHub: github.com/NVlabs/LITA<br />《GaussianCube: Structuring Gaussian Splatting for 3D Generative Modeling using Optimal Transport》(2024) GitHub: github.com/GaussianCube/GaussianCube<br />《Perturbed-Attention Guidance》(2024) GitHub: github.com/KU-CVLAB/Perturbed-Attention-Guidance<br />《ROUTERBENCH: A Benchmark for Multi-LLM Routing System》(2024) GitHub: github.com/withmartian/routerbench<br />《Long-Context-Attention: Distributed Attention Implementations for Long Context LLM Model Training》(2024) GitHub: github.com/feifeibear/long-context-attention<br />《DevBench: A Comprehensive Benchmark for Software Development》(2024) GitHub: github.com/open-compass/DevBench [fig3]<br />《Can LLMs Separate Instructions From Data? And What Do We Even Mean By That?》(2024) GitHub: github.com/egozverev/Should-It-Be-Executed-Or-Processed<br />《Learning Inclusion Matching for Animation Paint Bucket Colorization》(2024) GitHub: github.com/ykdai/BasicPBC<br />《EasyRL4Rec: A User-Friendly Code Library for Reinforcement Learning Based Recommender Systems》(2024) GitHub: github.com/chongminggao/EasyRL4Rec<br />《SuperPoint: Self-Supervised Interest Point Detection and Description》(2024) GitHub: github.com/christian-rauch/super_point_inference<br />《EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding》(2024) GitHub: github.com/egoschema/EgoSchema<img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoa145bowtj21rf0i6wu8.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hoa1h04n3kj20l70deafb.jpg" /><br /><br /><img src="https://tvax2.sinaimg.cn/large/5396ee05ly1hoa681no84j23zf1827wh.jpg" /><br /><br />
-]]></content:encoded>
-<pubDate>Sun, 31 Mar 2024 07:28:18 GMT</pubDate>
 </item>
 </channel>
 </rss>
