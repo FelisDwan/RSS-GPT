@@ -4,6 +4,142 @@
 <title>爱可可-爱生活的微博</title>
 <link>https://weibo.com/1402400261/</link>
 
+<item>
+<title>几篇论文实现代码：《CrossQ: Batch Normalization in Deep Reinforcement Learning for Greater Sample Efficiency and Simplicity》(ICLR 2024) GitHub: githu...</title>
+<link>https://weibo.com/1402400261/OdaP1fI5U</link>
+<guid>https://weibo.com/1402400261/OdaP1fI5U</guid>
+<content:encoded><![CDATA[
+<div> batch normalization, deep reinforcement learning, sample efficiency, simplicity, CrossQ, GitHub, paper, research, algorithm, implementation
+
+总结：<br><br>本文介绍了一种名为CrossQ的深度强化学习中的批量归一化方法，旨在提高样本效率和简化模型。通过在GitHub上提供实现代码，研究人员展示了他们的研究成果，并在ICLR 2024年会上发表了相关论文。这些工作对于提升深度强化学习效率和简便性具有重要意义，对相关研究和算法发展具有积极影响。<br>文章链接：<br>github.com/adityab/CrossQ <div>
+几篇论文实现代码：<br />《CrossQ: Batch Normalization in Deep Reinforcement Learning for Greater Sample Efficiency and Simplicity》(ICLR 2024) GitHub: github.com/adityab/CrossQ<br />《ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning》(CVPR 2024) GitHub: github.com/clovaai/ECLIPSE [fig1]<br />《AvatarGPT: All-in-One Framework for Motion Understanding, Planning, Generation and Beyond》(CVPR 2024) GitHub: github.com/zixiangzhou916/AvatarGPT [fig4]<br />《LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch》(2024) GitHub: github.com/huggingface/lerobot<br />《Bunny-VisionPro: Bimanual Dexterous Teleoperation with Real-Time Retargeting using VisionPro》(2024) GitHub: github.com/Dingry/BunnyVisionPro?tab=readme-ov-file<br />《2D Gaussian Splatting for Geometrically Accurate Radiance Fields》(2024) GitHub: github.com/hbb1/diff-surfel-rasterization<br />《Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs》(2024) GitHub: github.com/mbzuai-oryx/CVRR-Evaluation-Suite<br />《About<br />Granite Code Models: A Family of Open Foundation Models for Code Intelligence》(2024) GitHub: github.com/ibm-granite/granite-code-models<br />《PLAYER*: Enhancing LLM-based Multi-Agent Communication and Interaction in Murder Mystery Games》(2024) GitHub: github.com/alickzhu/PLAYER<br />《SVGEditBench: A Benchmark Dataset for Quantitative Assessment of LLM's SVG Editing Capabilities》(2024) GitHub: github.com/mti-lab/SVGEditBench<br />《Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation》(2024) GitHub: github.com/Dunni3/FlowMol [fig2]<br />《Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning》(2024) GitHub: github.com/WooooDyy/LLM-Reverse-Curriculum-RL [fig3]<img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpgwtbmx5yj21820od42l.jpg" /><br /><br /><img src="https://tvax4.sinaimg.cn/large/5396ee05ly1hpgwuwkc2pj21i60r3h0l.jpg" /><br /><br /><img src="https://tvax1.sinaimg.cn/large/5396ee05ly1hpgx2dnneuj20xe0jbn7g.jpg" /><br /><br /><img src="https://tvax3.sinaimg.cn/large/5396ee05ly1hpgx2ut85qj255u1h3kjn.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 06:13:04 GMT</pubDate>
+<pubDate>Tue, 07 May 2024 06:13:04 GMT</pubDate>
+</item>
+<item>
+<title>【VILA: 预训练的视觉语言模型(VLM)，具备视频理解和多图像理解能力，支持云端到边缘设备(如Jetson Orin和笔记本电脑)的部署】'VILA: On Pre-training for Visua...</title>
+<link>https://weibo.com/1402400261/OdaObsxda</link>
+<guid>https://weibo.com/1402400261/OdaObsxda</guid>
+<content:encoded><![CDATA[
+<div> 视觉语言模型, 预训练, VLM, 多图像理解, 云端, 边缘设备, Jetson Orin, GitHub, 训练, 部署
+
+VILA是一个预训练的视觉语言模型，具备视频理解和多图像理解能力，支持云端到边缘设备的部署，如Jetson Orin和笔记本电脑。该模型在GitHub上有开源代码，并提供训练、推理和评估的指南。VILA具备高效的大型模型的特点，可以应用于各种视觉场景和语言任务中。不仅能够在云端进行部署，还可以在边缘设备上实现高效的推理。这使得VILA成为一个强大的工具，可以帮助开发者在视觉语言任务中取得更好的表现。 <div>
+【VILA: 预训练的视觉语言模型(VLM)，具备视频理解和多图像理解能力，支持云端到边缘设备(如Jetson Orin和笔记本电脑)的部署】'VILA: On Pre-training for Visual Language Models - VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)' GitHub: github.com/Efficient-Large-Model/VILA <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpgx7idxkpj20wq0u00xo.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 06:11:02 GMT</pubDate>
+<pubDate>Tue, 07 May 2024 06:11:02 GMT</pubDate>
+</item>
+<item>
+<title>【LangChain Swift：为 Swift 语言优化的LangChain库，专为 iOS、macOS、部分 watchOS 和 beta 版本的 visionOS 设计，用于构建和优化 AI 应用】'LangChain Swif...</title>
+<link>https://weibo.com/1402400261/OdaNhCFK5</link>
+<guid>https://weibo.com/1402400261/OdaNhCFK5</guid>
+<content:encoded><![CDATA[
+<div> LangChain Swift、Swift语言、优化、iOS、macOS、watchOS、visionOS、构建、优化、AI应用
+
+<br><br>总结:
+LangChain Swift是专为Swift语言优化的库，适用于iOS、macOS、部分watchOS和beta版本的visionOS，用于构建和优化AI应用。该库在GitHub上可访问，详细信息请查看github.com/buhe/langchain-swift。它为开发人员提供了便利的工具和技术，使他们能够更高效地构建基于Swift语言的人工智能应用程序，并且适用于多种苹果设备。LangChain Swift的优化设计可以帮助开发人员更轻松地实现他们的创意和项目目标，为移动应用领域带来更多可能性。 <div>
+【LangChain Swift：为 Swift 语言优化的LangChain库，专为 iOS、macOS、部分 watchOS 和 beta 版本的 visionOS 设计，用于构建和优化 AI 应用】'LangChain Swift - LangChain for Swift. Optimized for iOS, macOS, watchOS (part) and visionOS.(beta)' GitHub: github.com/buhe/langchain-swift <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpgx56vztmj218i0t0dj5.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 06:08:49 GMT</pubDate>
+<pubDate>Tue, 07 May 2024 06:08:49 GMT</pubDate>
+</item>
+<item>
+<title>'汉语拼音辞典 - 中文汉语拼音辞典，汉字拼音字典，词典，成语词典，常用字、多音字字典数据库' GitHub: github.com/mapull/chinese-dictionary #开源# [图片]</title>
+<link>https://weibo.com/1402400261/OdaMOoFbN</link>
+<guid>https://weibo.com/1402400261/OdaMOoFbN</guid>
+<content:encoded><![CDATA[
+<div> GitHub, 汉语拼音辞典, 中文, 汉字, 拼音, 字典, 词典, 成语, 常用字, 多音字
+
+总结:<br><br>
+这篇文章介绍了一个名为“汉语拼音辞典”的项目，提供了中文汉语拼音字典、词典、成语词典以及常用字和多音字字典的数据库。该项目托管在GitHub上，网址为github.com/mapull/chinese-dictionary。通过这个项目，用户可以方便地查找汉字的拼音信息，并了解词语、成语的含义和用法，对于学习中文语言和文化的人士来说是一份很好的资源。 <div>
+'汉语拼音辞典 - 中文汉语拼音辞典，汉字拼音字典，词典，成语词典，常用字、多音字字典数据库' GitHub: github.com/mapull/chinese-dictionary <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpgx3zpfkrj21fy0u0qad.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 06:07:39 GMT</pubDate>
+<pubDate>Tue, 07 May 2024 06:07:39 GMT</pubDate>
+</item>
+<item>
+<title>【markdown_crawler：多线程网络爬虫，能递归地爬取网站并为每个页面创建 Markdown 文件，专为大型语言模型文档解析设计】'markdown_crawler - A multithreaded ...</title>
+<link>https://weibo.com/1402400261/OdaLOBYY0</link>
+<guid>https://weibo.com/1402400261/OdaLOBYY0</guid>
+<content:encoded><![CDATA[
+<div> 多线程、网络爬虫、递归、网站、Markdown 文件、大型语言模型、文档解析、GitHub、paulpierre
+
+<br><br>总结:
+该文章介绍了一款名为markdown_crawler的多线程网络爬虫工具，专为大型语言模型文档解析设计。该工具能够递归地爬取一个网站的页面，并为每个页面创建一个Markdown文件。用户可以通过GitHub上的paulpierre的仓库获得该工具的源代码。通过使用此工具，用户可以方便地批量下载网站页面并将其转换为Markdown格式，便于文档的整理和管理。Markdown文件的生成可以帮助用户更好地组织和分享信息，提高文档处理效率。 <div>
+【markdown_crawler：多线程网络爬虫，能递归地爬取网站并为每个页面创建 Markdown 文件，专为大型语言模型文档解析设计】'markdown_crawler - A multithreaded web crawler that recursively crawls a website and creates a markdown file for each page, designed for LLM RAG' GitHub: github.com/paulpierre/markdown-crawler <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E7%88%AC%E8%99%AB%23&amp;isnewpage=1"><span class="surl-text">#爬虫#</span></a><img src="https://tvax2.sinaimg.cn/large/5396ee05ly8hpgx1e4vpfj20u0132q7f.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 06:05:12 GMT</pubDate>
+<pubDate>Tue, 07 May 2024 06:05:12 GMT</pubDate>
+</item>
+<item>
+<title>【tinyllm：一个轻量框架，用于开发、调试和监控大规模大语言模型(LLM)和Agent驱动的应用】'tinyllm - Develop, evaluate and monitor LLM applications at scal...</title>
+<link>https://weibo.com/1402400261/OdaJXoGqN</link>
+<guid>https://weibo.com/1402400261/OdaJXoGqN</guid>
+<content:encoded><![CDATA[
+<div> 轻量框架、开发、调试、监控、大规模、大语言模型、Agent驱动、应用、GitHub、zozoheir<br>
+<br>
+总结:<br>
+tinyllm是一个轻量框架，用于开发、调试和监控大规模的大语言模型(LLM)和Agent驱动的应用。该框架提供了一个便捷的平台，让开发人员可以轻松地开发、评估和监控LLM应用。通过GitHub上的开源项目，用户可以快速了解和使用该框架。tinyllm支持在大规模环境下运行，并提供Agent驱动的功能，帮助用户更好地管理和优化他们的应用。无论是开发新的LLM应用还是对现有应用进行调试和优化，tinyllm都可以提供有力的支持。 <div>
+【tinyllm：一个轻量框架，用于开发、调试和监控大规模大语言模型(LLM)和Agent驱动的应用】'tinyllm - Develop, evaluate and monitor LLM applications at scale' GitHub: github.com/zozoheir/tinyllm <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpgwwlk32qj20u01307a1.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 06:00:37 GMT</pubDate>
+<pubDate>Tue, 07 May 2024 06:00:37 GMT</pubDate>
+</item>
+<item>
+<title>【关于进化算法和强化学习结合的研究论文和代码库】'Awesome-Evolutionary-Reinforcement-Learning - Research Papers and Code Repository on the Integration ...</title>
+<link>https://weibo.com/1402400261/OdaIj0t8h</link>
+<guid>https://weibo.com/1402400261/OdaIj0t8h</guid>
+<content:encoded><![CDATA[
+<div> 进化算法、强化学习、研究论文、代码库、GitHub、整合、演化神经网络、应用、深度学习、人工智能<br>
+<br>
+提出了一个关于进化算法和强化学习整合的研究论文和代码库，通过GitHub分享和探讨这一领域的最新进展。研究论文探讨了如何将进化算法和强化学习相结合，提出了一些新的方法和技术，如演化神经网络。代码库中包含了相关实验的代码，可以应用于深度学习和人工智能领域。这个项目为进化算法和强化学习的整合提供了有用的资源和参考，有助于促进这一领域的研究和发展。<br><br>总结: 进化算法和强化学习的整合是一个具有潜力的研究领域，本项目提供了相关的研究论文和代码库，为该领域的进一步发展提供了有力支持。 <div>
+【关于进化算法和强化学习结合的研究论文和代码库】'Awesome-Evolutionary-Reinforcement-Learning - Research Papers and Code Repository on the Integration of Evolutionary Algorithms and Reinforcement Learning' GitHub: github.com/yeshenpy/Awesome-Evolutionary-Reinforcement-Learning <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpgwses8dzj21740k8djf.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 05:56:33 GMT</pubDate>
+<pubDate>Tue, 07 May 2024 05:56:33 GMT</pubDate>
+</item>
+<item>
+<title>【Arduino Audio Tools：功能强大的音频处理库，适用于Arduino及其它平台，提供音频源、音频效果、编码器/解码器等多种音频处理功能】'Arduino Audio Tools - Ar...</title>
+<link>https://weibo.com/1402400261/OdaHThS1M</link>
+<guid>https://weibo.com/1402400261/OdaHThS1M</guid>
+<content:encoded><![CDATA[
+<div> 音频处理库、Arduino、音频源、音频效果、编码器、解码器、GitHub、功能强大、适用于多种平台
+
+<br><br>总结:
+Arduino Audio Tools是一个功能强大的音频处理库，适用于Arduino等多种平台。该库提供了丰富的音频处理功能，包括音频源、音频效果、编码器和解码器等。用户可以利用这个库实现对音频数据的处理和操作，拓展Arduino等设备的音频功能。感兴趣的用户可以在GitHub上找到相关信息和资源。 <div>
+【Arduino Audio Tools：功能强大的音频处理库，适用于Arduino及其它平台，提供音频源、音频效果、编码器/解码器等多种音频处理功能】'Arduino Audio Tools - Arduino Audio Tools (a powerful Audio library not only for Arduino)' GitHub: github.com/pschatzmann/arduino-audio-tools <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <img src="https://tvax1.sinaimg.cn/large/5396ee05ly8hpgwrcknhuj20zv0u0448.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 05:55:32 GMT</pubDate>
+<pubDate>Tue, 07 May 2024 05:55:32 GMT</pubDate>
+</item>
+<item>
+<title>【面向天气和气候数据理解的深度学习基础模型相关论文资源列表】’Awesome-Foundation-Models-for-Weather-and-Climate - A comprehesive survey about foundati...</title>
+<link>https://weibo.com/1402400261/OdaHqassI</link>
+<guid>https://weibo.com/1402400261/OdaHqassI</guid>
+<content:encoded><![CDATA[
+<div> 深度学习、天气数据、气候数据、基础模型、论文资源、GitHub、综述、模型理解、模型应用、研究进展
+<br>
+总结：<br>
+这篇GitHub项目旨在对天气和气候数据理解的深度学习基础模型进行综合调研。介绍了各种基础模型在天气和气候数据中的应用及研究进展，为进一步研究提供了丰富的资源和参考。通过详细的论文资源列表和相关文章分析，有助于深入理解和应用基础模型于天气和气候数据研究中的重要性和实用性。 <div>
+【面向天气和气候数据理解的深度学习基础模型相关论文资源列表】’Awesome-Foundation-Models-for-Weather-and-Climate - A comprehesive survey about foundation models for weather and cliamte data understanding.' GitHub: github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a><img src="https://tvax3.sinaimg.cn/large/5396ee05ly8hpgwpiwv35j20zv0u0n2y.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 05:54:22 GMT</pubDate>
+<pubDate>Tue, 07 May 2024 05:54:22 GMT</pubDate>
+</item>
+<item>
+<title>'Chenyme-AAVT(AI Auto Video-Audio Translation) - 全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频...</title>
+<link>https://weibo.com/1402400261/Odayx4WD5</link>
+<guid>https://weibo.com/1402400261/Odayx4WD5</guid>
+<content:encoded><![CDATA[
+<div> 关键词: Chenyme-AAVT, AI Auto Video-Audio Translation, 全自动, Whisper, AI大模型, 字幕, 视频翻译, GitHub
+
+总结:<br><br>这是一个名为Chenyme-AAVT的全自动（音频）视频翻译项目，在GitHub上可以找到相关信息。该项目利用Whisper技术识别声音，结合AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。通过这种方式，可以帮助用户实现视频内容的快速翻译，提高语言沟通的便利性。 <div>
+'Chenyme-AAVT(AI Auto Video-Audio Translation) - 全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频' GitHub: github.com/Chenyme/Chenyme-AAVT <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E6%BA%90%23"><span class="surl-text">#开源#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%23&amp;isnewpage=1"><span class="surl-text">#机器学习#</span></a> <a href="https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23&amp;isnewpage=1"><span class="surl-text">#人工智能#</span></a> <img src="https://tvax4.sinaimg.cn/large/5396ee05ly8hpgw1vnurwj21fl0u043p.jpg" /><br /><br />
+]]></content:encoded>
+<pubDate>Tue, 07 May 2024 05:32:28 GMT</pubDate>
+<pubDate>Tue, 07 May 2024 05:32:28 GMT</pubDate>
+</item>
 
 <item>
 <title>【AI生成检测与学术诚信】- 作者自己写了一篇关于AI取代工作的文章，没使用任何AI工具。但通过Quillbot的AI检测，文章被判定有42%是AI写的。 - 原作者的老师因此...</title>

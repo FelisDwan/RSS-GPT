@@ -8137,3 +8137,39 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 append_entries: 0
 Finish: 2024-05-07 06:16:27.664842
+------------------------------------------------------
+Started: 2024-05-07 08:14:34.043395
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Token length: 1706
+Summarized using GPT-3.5-turbo
+Append: [几篇论文实现代码：《CrossQ: Batch Normalization in Deep Reinforcement Learning for Greater Sample Efficiency and Simplicity》(ICLR 2024) GitHub: githu...](https://weibo.com/1402400261/OdaP1fI5U)
+Token length: 319
+Summarized using GPT-3.5-turbo
+Append: [【VILA: 预训练的视觉语言模型(VLM)，具备视频理解和多图像理解能力，支持云端到边缘设备(如Jetson Orin和笔记本电脑)的部署】'VILA: On Pre-training for Visua...](https://weibo.com/1402400261/OdaObsxda)
+Token length: 246
+Summarized using GPT-3.5-turbo
+Append: [【LangChain Swift：为 Swift 语言优化的LangChain库，专为 iOS、macOS、部分 watchOS 和 beta 版本的 visionOS 设计，用于构建和优化 AI 应用】'LangChain Swif...](https://weibo.com/1402400261/OdaNhCFK5)
+Token length: 94
+Summarized using GPT-3.5-turbo
+Append: ['汉语拼音辞典 - 中文汉语拼音辞典，汉字拼音字典，词典，成语词典，常用字、多音字字典数据库' GitHub: github.com/mapull/chinese-dictionary #开源# [图片]](https://weibo.com/1402400261/OdaMOoFbN)
+Token length: 265
+Summarized using GPT-3.5-turbo
+Append: [【markdown_crawler：多线程网络爬虫，能递归地爬取网站并为每个页面创建 Markdown 文件，专为大型语言模型文档解析设计】'markdown_crawler - A multithreaded ...](https://weibo.com/1402400261/OdaLOBYY0)
+Token length: 158
+Summarized using GPT-3.5-turbo
+Append: [【tinyllm：一个轻量框架，用于开发、调试和监控大规模大语言模型(LLM)和Agent驱动的应用】'tinyllm - Develop, evaluate and monitor LLM applications at scal...](https://weibo.com/1402400261/OdaJXoGqN)
+Token length: 255
+Summarized using GPT-3.5-turbo
+Append: [【关于进化算法和强化学习结合的研究论文和代码库】'Awesome-Evolutionary-Reinforcement-Learning - Research Papers and Code Repository on the Integration ...](https://weibo.com/1402400261/OdaIj0t8h)
+Token length: 220
+Summarized using GPT-3.5-turbo
+Append: [【Arduino Audio Tools：功能强大的音频处理库，适用于Arduino及其它平台，提供音频源、音频效果、编码器/解码器等多种音频处理功能】'Arduino Audio Tools - Ar...](https://weibo.com/1402400261/OdaHThS1M)
+Token length: 261
+Summarized using GPT-3.5-turbo
+Append: [【面向天气和气候数据理解的深度学习基础模型相关论文资源列表】’Awesome-Foundation-Models-for-Weather-and-Climate - A comprehesive survey about foundati...](https://weibo.com/1402400261/OdaHqassI)
+Token length: 149
+Summarized using GPT-3.5-turbo
+Append: ['Chenyme-AAVT(AI Auto Video-Audio Translation) - 全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频...](https://weibo.com/1402400261/Odayx4WD5)
+append_entries: 10
+Finish: 2024-05-07 08:15:17.354488
