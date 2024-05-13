@@ -4508,3 +4508,10 @@ Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/GitHubDaily
+------------------------------------------------------
+Started: 2024-05-13 12:21:51.887320
+Existing_entries: 68
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/GitHubDaily
