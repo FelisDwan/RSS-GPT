@@ -6262,3 +6262,10 @@ Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/量子位
+------------------------------------------------------
+Started: 2024-05-15 04:15:03.221198
+Existing_entries: 669
+Fetching from https://rsshub.app/weibo/user/6105753431?mode=fulltext
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/量子位
