@@ -4914,3 +4914,10 @@ Fetching from https://rsshub.app/bilibili/weekly
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/Bilibili每周必看
+------------------------------------------------------
+Started: 2024-05-16 00:53:09.499332
+Existing_entries: 393
+Fetching from https://rsshub.app/bilibili/weekly
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/Bilibili每周必看
