@@ -9250,3 +9250,10 @@ Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/爱可可
+------------------------------------------------------
+Started: 2024-05-20 08:15:24.215521
+Existing_entries: 1000
+Fetching from https://rsshub.app/weibo/user/1402400261?mode=fulltext
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/爱可可
