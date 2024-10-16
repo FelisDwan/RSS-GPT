@@ -8841,3 +8841,10 @@ Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
 Feed error: 403
 append_entries: 0
 error when rendering xml, skip docs/GitHubDaily
+------------------------------------------------------
+Started: 2024-10-16 01:24:07.244127
+Existing_entries: 68
+Fetching from https://rsshub.app/weibo/user/5722964389?mode=fulltext
+Feed error: 403
+append_entries: 0
+error when rendering xml, skip docs/GitHubDaily
